@@ -1,0 +1,1421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remedeez UCC Remedies Lab</title>
+    <style>
+        :root {
+            --bg-gradient: linear-gradient(135deg, #e0f3ff, #f6f0ff);
+            --card-bg: #ffffff;
+            --accent: #4c6ef5;
+            --accent-dark: #364fc7;
+            --positive: #2f9e44;
+            --negative: #c92a2a;
+            --neutral: #868e96;
+            --shadow: 0 14px 38px rgba(52, 62, 77, 0.18);
+            --radius-lg: 20px;
+            --radius-sm: 10px;
+            --font-main: "Inter", "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            margin: 0;
+            font-family: var(--font-main);
+            background: var(--bg-gradient);
+            color: #1f2933;
+            min-height: 100vh;
+            padding: 32px 20px 80px;
+        }
+        .shell {
+            max-width: 1180px;
+            margin: 0 auto;
+        }
+        .hero {
+            background: rgba(255, 255, 255, 0.82);
+            padding: 36px;
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow);
+            text-align: center;
+            margin-bottom: 30px;
+            position: relative;
+            overflow: hidden;
+        }
+        .hero::after {
+            content: "";
+            position: absolute;
+            inset: -40px -60px auto auto;
+            width: 220px;
+            height: 220px;
+            background: radial-gradient(circle at center, rgba(76, 110, 245, 0.18), transparent 60%);
+            transform: rotate(15deg);
+        }
+        .hero h1 {
+            margin: 0;
+            font-size: 2.4rem;
+            color: #0b2252;
+            letter-spacing: -0.02em;
+        }
+        .hero p {
+            margin-top: 12px;
+            font-size: 1.05rem;
+            max-width: 720px;
+            margin-left: auto;
+            margin-right: auto;
+            color: #445064;
+        }
+        .card {
+            background: var(--card-bg);
+            border-radius: var(--radius-lg);
+            padding: 28px;
+            margin-bottom: 26px;
+            box-shadow: var(--shadow);
+        }
+        .card h2 {
+            margin-top: 0;
+            margin-bottom: 18px;
+            font-size: 1.6rem;
+            color: #132350;
+        }
+        .input-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 18px 24px;
+        }
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            background: rgba(76, 110, 245, 0.06);
+            border: 1px solid rgba(76, 110, 245, 0.12);
+            border-radius: var(--radius-sm);
+            padding: 14px 16px;
+        }
+        .input-group label {
+            font-weight: 600;
+            font-size: 0.92rem;
+            color: #25324b;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .info-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: var(--accent);
+            color: #fff;
+            font-size: 0.7rem;
+            font-weight: 600;
+            cursor: help;
+            position: relative;
+            outline: none;
+            transition: box-shadow 0.18s ease;
+        }
+        .info-badge:focus-visible {
+            box-shadow: 0 0 0 3px rgba(76, 110, 245, 0.3);
+        }
+        .floating-tooltip {
+            position: fixed;
+            background: rgba(14, 25, 58, 0.95);
+            color: #fff;
+            padding: 8px 10px;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            line-height: 1.35;
+            max-width: 260px;
+            z-index: 2000;
+            pointer-events: none;
+            box-shadow: 0 10px 25px rgba(10, 23, 51, 0.26);
+            opacity: 0;
+            transform: translate(-50%, -8px);
+            transition: opacity 0.12s ease, transform 0.12s ease;
+        }
+        .floating-tooltip.visible {
+            opacity: 1;
+            transform: translate(-50%, 0);
+        }
+        .input-group input[type="number"] {
+            margin-top: 10px;
+            padding: 10px 12px;
+            border-radius: 8px;
+            border: 1px solid rgba(37, 50, 75, 0.2);
+            font-size: 1rem;
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+        .input-group input[type="number"]:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(76, 110, 245, 0.15);
+        }
+        .section-label {
+            font-size: 0.82rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #627096;
+            margin: 24px 0 8px;
+        }
+        .action-area {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+            margin-top: 24px;
+        }
+        .action-area button {
+            background: var(--accent);
+            border: none;
+            color: #fff;
+            font-size: 1.1rem;
+            font-weight: 600;
+            padding: 14px 32px;
+            border-radius: 999px;
+            cursor: pointer;
+            box-shadow: 0 12px 24px rgba(76, 110, 245, 0.24);
+            transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.2s ease;
+        }
+        .action-area button:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 16px 30px rgba(76, 110, 245, 0.3);
+            background: var(--accent-dark);
+        }
+        .scenario-controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 16px;
+            align-items: flex-end;
+            margin-bottom: 20px;
+        }
+        .scenario-controls label {
+            font-weight: 700;
+            font-size: 0.9rem;
+            color: #1f2c4c;
+            display: block;
+            margin-bottom: 6px;
+        }
+        .scenario-controls select {
+            min-width: 260px;
+            padding: 12px 14px;
+            border-radius: 12px;
+            border: 1px solid rgba(37, 50, 75, 0.24);
+            font-size: 1rem;
+            background: #fff;
+            box-shadow: 0 8px 16px rgba(18, 35, 80, 0.08);
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+        .scenario-controls select:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(76, 110, 245, 0.18);
+        }
+        .scenario-notes {
+            background: rgba(76, 110, 245, 0.12);
+            border: 1px solid rgba(76, 110, 245, 0.24);
+            border-radius: var(--radius-sm);
+            padding: 16px 18px;
+            font-size: 0.92rem;
+            color: #1f2c4c;
+            line-height: 1.5;
+            margin-bottom: 10px;
+        }
+        .scenario-notes.muted {
+            background: rgba(134, 142, 150, 0.12);
+            border-color: rgba(134, 142, 150, 0.2);
+            color: #4a5568;
+        }
+        .secondary-button {
+            background: rgba(76, 110, 245, 0.12);
+            color: var(--accent-dark);
+            border: 1px solid rgba(76, 110, 245, 0.24);
+            border-radius: 999px;
+            padding: 11px 24px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s ease, transform 0.15s ease;
+        }
+        .secondary-button:hover {
+            background: rgba(76, 110, 245, 0.2);
+            transform: translateY(-1px);
+        }
+        .chart-shell {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.65);
+            border: 1px solid rgba(76, 110, 245, 0.14);
+            border-radius: var(--radius-sm);
+            padding: 16px 18px;
+            margin-bottom: 22px;
+        }
+        .chart-title {
+            font-weight: 600;
+            font-size: 0.95rem;
+            letter-spacing: 0.01em;
+            color: #1f2c4c;
+            margin-bottom: 12px;
+        }
+        .chart-bars {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .bar-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .bar-label {
+            flex: 0 0 140px;
+            font-weight: 600;
+            color: #3f4a63;
+            font-size: 0.92rem;
+        }
+        .bar-track {
+            flex: 1;
+            background: rgba(52, 86, 174, 0.08);
+            border-radius: 999px;
+            height: 18px;
+            position: relative;
+            overflow: hidden;
+        }
+        .bar-fill {
+            position: absolute;
+            inset: 0;
+            background: #4c6ef5;
+            border-radius: 999px;
+            transition: width 0.3s ease;
+        }
+        .bar-fill.highlight {
+            background: #27ae60;
+        }
+        .bar-value {
+            flex: 0 0 90px;
+            text-align: right;
+            font-weight: 600;
+            color: #1f2c4c;
+            font-size: 0.9rem;
+        }
+        .helper {
+            background: rgba(76, 110, 245, 0.08);
+            border-radius: var(--radius-sm);
+            padding: 16px 18px;
+            font-size: 0.9rem;
+            color: #3f4c66;
+        }
+        .helper details summary {
+            cursor: pointer;
+            font-weight: 600;
+            color: #25324b;
+        }
+        .results-section h3 {
+            margin-top: 0;
+            font-size: 1.1rem;
+            color: #2d3a5a;
+        }
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 18px;
+        }
+        .result-card {
+            background: #f8faff;
+            border-radius: 16px;
+            padding: 20px;
+            border: 1px solid rgba(19, 35, 80, 0.08);
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            position: relative;
+            overflow: hidden;
+        }
+        .result-card.highlight {
+            border-color: #27ae60;
+            border-width: 2px;
+            box-shadow: 0 12px 28px rgba(39, 174, 96, 0.18);
+        }
+        /* --- NEW CSS RULES FOR INTERACTIVE JUDGMENT --- */
+        .result-card {
+            transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+        }
+        #sellerResults .result-card[data-title],
+        #buyerResults .result-card[data-title] {
+            cursor: pointer;
+        }
+        #sellerResults .result-card[data-title]:hover,
+        #buyerResults .result-card[data-title]:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 14px 30px rgba(76, 110, 245, 0.2);
+        }
+        .result-card.selected-for-judgment {
+            border-color: var(--accent);
+            border-width: 2px;
+            box-shadow: 0 14px 30px rgba(76, 110, 245, 0.25);
+        }
+        .result-card h4 {
+            margin: 0;
+            font-size: 1.1rem;
+            color: #1a2b55;
+        }
+        .formula {
+            font-family: "SFMono-Regular", "Roboto Mono", monospace;
+            font-size: 0.85rem;
+            background: rgba(19, 35, 80, 0.08);
+            padding: 8px 10px;
+            border-radius: 8px;
+            color: #25324b;
+            white-space: normal;
+            word-break: break-word;
+        }
+        .value {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin: 0;
+        }
+        .value.positive { color: var(--positive); }
+        .value.negative { color: var(--negative); }
+        .value.neutral { color: var(--neutral); }
+        .status-note {
+            font-size: 0.88rem;
+            padding: 8px 10px;
+            border-radius: 10px;
+            background: rgba(12, 122, 255, 0.08);
+            color: #1f3f6b;
+            margin: 0;
+        }
+        .status-note.neutral {
+            background: rgba(134, 142, 150, 0.15);
+            color: #495057;
+        }
+        .status-note.negative {
+            background: rgba(201, 42, 42, 0.12);
+            color: #862e2e;
+        }
+        .adjustments {
+            margin: 0;
+            padding-left: 18px;
+            color: #3a4a6d;
+            font-size: 0.85rem;
+        }
+        .component-breakdown {
+            background: rgba(19, 35, 80, 0.05);
+            border-radius: 12px;
+            padding: 12px 14px;
+            max-width: 100%;
+        }
+        .component-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #1f2c4c;
+            margin-bottom: 6px;
+        }
+        .component-list {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        .component-item {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 12px;
+            padding: 10px 0;
+            font-size: 0.85rem;
+            color: #33415c;
+            border-top: 1px solid rgba(19, 35, 80, 0.08);
+        }
+        .component-item:first-child {
+            border-top: none;
+        }
+        .component-info {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+            min-width: 0;
+        }
+        .component-label {
+            font-weight: 600;
+            overflow-wrap: anywhere;
+        }
+        .component-detail {
+            font-family: "SFMono-Regular", "Roboto Mono", monospace;
+            font-size: 0.8rem;
+            color: #55617a;
+            overflow-wrap: anywhere;
+            white-space: normal;
+        }
+        .component-value {
+            font-weight: 700;
+            white-space: nowrap;
+            flex-shrink: 0;
+            padding-left: 8px;
+        }
+        .component-value.positive { color: var(--positive); }
+        .component-value.negative { color: var(--negative); }
+        .component-value.neutral { color: var(--neutral); }
+        .comparison-banner {
+            border-radius: 16px;
+            padding: 18px 22px;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            background: rgba(47, 158, 68, 0.12);
+            border: 1px solid rgba(47, 158, 68, 0.4);
+        }
+        .comparison-banner.muted {
+            background: rgba(134, 142, 150, 0.12);
+            border-color: rgba(134, 142, 150, 0.3);
+            color: #4a5568;
+        }
+        .comparison-banner strong {
+            font-size: 1.05rem;
+        }
+        @media (max-width: 640px) {
+            body { padding: 22px 12px 60px; }
+            .hero { padding: 28px 18px; }
+            .card { padding: 22px 18px; }
+            .comparison-banner { flex-direction: column; align-items: flex-start; }
+        }
+    </style>
+</head>
+<body>
+<div class="shell">
+    <header class="hero">
+        <h1>Remedeez UCC Remedies Lab</h1>
+    </header>
+
+    <section class="card">
+        <h2>1. Fact Pattern Inputs</h2>
+        <div class="scenario-controls">
+            <div>
+                <label for="scenarioSelect">Scenario Lab</label>
+                <select id="scenarioSelect">
+                    <option value="">— Load a scenario —</option>
+                </select>
+            </div>
+            <button id="resetInputs" class="secondary-button" type="button">Reset Inputs</button>
+        </div>
+        <div id="scenarioNotes" class="scenario-notes muted">Pick a scenario to preload numbers from real cases and hypos, or enter your own facts.</div>
+        <div class="section-label">Core Deal Numbers</div>
+        <div class="input-grid">
+            <div class="input-group">
+                <label for="contractPrice">Contract Price ($) <span class="info-badge" title="The price stated in the contract for the goods.">?</span></label>
+                <input type="number" id="contractPrice" min="0" placeholder="e.g., 100000">
+            </div>
+            <div class="input-group">
+                <label for="marketPrice">Market Price at Breach ($) <span class="info-badge" title="Market price when performance was due. Use seller's market for buyer remedies and buyer's market for seller remedies.">?</span></label>
+                <input type="number" id="marketPrice" min="0" placeholder="Price at time of tender/breach">
+            </div>
+            <div class="input-group">
+                <label for="resaleCoverPrice">Resale / Cover Price ($) <span class="info-badge" title="Actual price of substitute transaction. Buyers enter cover price; sellers enter resale price.">?</span></label>
+                <input type="number" id="resaleCoverPrice" min="0" placeholder="Actual substitute price">
+            </div>
+            <div class="input-group">
+                <label for="expensesSaved">Expenses Saved ($) <span class="info-badge" title="Costs avoided because of the breach (e.g., shipping you did not have to pay). These are subtracted from damages.">?</span></label>
+                <input type="number" id="expensesSaved" min="0" placeholder="e.g., shipping avoided">
+            </div>
+            <div class="input-group">
+                <label for="buyerPayments">Buyer Payments / Deposits ($) <span class="info-badge" title="Total paid toward the contract before breach. Credited against seller remedies and relevant to restitution.">?</span></label>
+                <input type="number" id="buyerPayments" min="0" placeholder="Deposits received">
+            </div>
+            <div class="input-group">
+                <label for="liquidatedDamages">Valid Liquidated Damages ($) <span class="info-badge" title="Amount specified in a valid liquidated-damages clause. Leave blank if none.">?</span></label>
+                <input type="number" id="liquidatedDamages" min="0" placeholder="Enter only if clause is valid">
+            </div>
+        </div>
+
+        <div class="section-label">Buyer-Specific Inputs</div>
+        <div class="input-grid">
+            <div class="input-group">
+                <label for="buyerIncidentalDamages">Buyer Incidental Damages ($) <span class="info-badge" title="Reasonable costs associated with cover (inspection, transportation, etc.).">?</span></label>
+                <input type="number" id="buyerIncidentalDamages" min="0" placeholder="Inspection, transport, etc.">
+            </div>
+            <div class="input-group">
+                <label for="buyerConsequentialDamages">Buyer Consequential Damages ($) <span class="info-badge" title="Losses from particular needs known to the seller (e.g., lost profits).">?</span></label>
+                <input type="number" id="buyerConsequentialDamages" min="0" placeholder="Lost profits, downstream losses">
+            </div>
+            <div class="input-group">
+                <label for="valueAsWarranted">Value as Warranted ($) <span class="info-badge" title="Value the goods would have had if they complied with the warranty.">?</span></label>
+                <input type="number" id="valueAsWarranted" min="0" placeholder="For §2-714">
+            </div>
+            <div class="input-group">
+                <label for="valueAsAccepted">Value as Accepted ($) <span class="info-badge" title="Actual value of the goods accepted with defects.">?</span></label>
+                <input type="number" id="valueAsAccepted" min="0" placeholder="For §2-714">
+            </div>
+        </div>
+
+        <div class="section-label">Seller-Specific Inputs</div>
+        <div class="input-grid">
+            <div class="input-group">
+                <label for="sellerIncidentalDamages">Seller Incidental Damages ($) <span class="info-badge" title="Costs incurred after buyer's breach (storage, resale expenses, etc.).">?</span></label>
+                <input type="number" id="sellerIncidentalDamages" min="0" placeholder="Storage, resale costs">
+            </div>
+            <div class="input-group">
+                <label for="profit">Anticipated Profit ($) <span class="info-badge" title="Profit the seller expected on the sale, used for §2-708(2) lost volume cases.">?</span></label>
+                <input type="number" id="profit" min="0" placeholder="For lost-volume sellers">
+            </div>
+            <div class="input-group">
+                <label for="overhead">Reasonable Overhead ($) <span class="info-badge" title="Allocated overhead that would have been covered by the sale (part of §2-708(2)).">?</span></label>
+                <input type="number" id="overhead" min="0" placeholder="Allocated fixed costs">
+            </div>
+        </div>
+
+        <div class="action-area">
+            <button onclick="calculateDamages()">Calculate & Compare Remedies</button>
+            <div class="helper">
+                <details>
+                    <summary>Need help choosing which remedy fits the facts?</summary>
+                    <ul>
+                        <li>If the buyer covers with a reasonable substitute, start with §2-712.</li>
+                        <li>No valid cover? Move to §2-713 for market damages.</li>
+                        <li>Buyer keeps defective goods: calculate §2-714 (breach of warranty).</li>
+                        <li>Seller makes a proper resale: use §2-706; no resale means §2-708(1).</li>
+                        <li>Lost-volume seller not made whole by §2-708(1)? Evaluate §2-708(2).</li>
+                        <li>Action for the price (§2-709) is limited to accepted goods, post-risk loss, or goods not suited to resale.</li>
+                    </ul>
+                </details>
+            </div>
+        </div>
+    </section>
+
+    <section class="card results-section">
+        <h2>2. Buyer Remedies (Seller Breach)</h2>
+        <div id="buyerComparison" class="comparison-banner muted">Enter facts and click Calculate to see which buyer remedy pays the most.</div>
+        <div class="chart-shell">
+            <div class="chart-title">Buyer Remedies Comparison</div>
+            <div class="chart-bars" id="buyerChart"></div>
+        </div>
+        <div class="results-grid" id="buyerResults"></div>
+    </section>
+
+    <section class="card results-section">
+        <h2>3. Seller Remedies (Buyer Breach)</h2>
+        <div id="sellerComparison" class="comparison-banner muted">Enter facts and click Calculate to see which seller remedy pays the most.</div>
+        <div class="chart-shell">
+            <div class="chart-title">Seller Remedies Comparison</div>
+            <div class="chart-bars" id="sellerChart"></div>
+        </div>
+        <div class="results-grid" id="sellerResults"></div>
+    </section>
+
+    <section class="card results-section">
+        <h2>4. Breaching Buyer's Restitution Check</h2>
+        <div class="results-grid" id="restitutionResults"></div>
+    </section>
+
+    <section class="card results-section" id="finalJudgmentCard" style="display:none;">
+        <h2>5. Final Judgment Synthesis</h2>
+        <div class="results-grid" id="finalJudgmentSection"></div>
+    </section>
+
+</div>
+
+<script>
+    const STATUTORY_RETENTION_PERCENT = 0.20;
+    const STATUTORY_RETENTION_MAX = 500;
+
+    const INPUT_IDS = [
+        'contractPrice', 'marketPrice', 'resaleCoverPrice', 'expensesSaved',
+        'buyerPayments', 'liquidatedDamages', 'buyerIncidentalDamages',
+        'buyerConsequentialDamages', 'valueAsWarranted', 'valueAsAccepted',
+        'sellerIncidentalDamages', 'profit', 'overhead'
+    ];
+
+    const SCENARIOS = [
+        {
+            id: 'neri',
+            label: 'Neri v. Retail Marine Corp. (NY 1972)',
+            description: 'Buyer cancelled a custom boat order. Retail Marine, treated as a lost-volume seller, recovered expected profit plus storage/finance costs before crediting the deposit.',
+            focus: 'Highlights §2-708(2) lost profits and the §2-718 restitution offset.',
+            inputs: {
+                contractPrice: 12587,
+                marketPrice: 12587,
+                resaleCoverPrice: 12587,
+                expensesSaved: 0,
+                buyerPayments: 4250,
+                liquidatedDamages: 0,
+                sellerIncidentalDamages: 674,
+                profit: 2579
+            }
+        },
+        {
+            id: 'pollack',
+            label: 'Pollack v. Crocker (S.D.N.Y. 1987)',
+            description: 'Buyer accepted a commissioned bronze sculpture but withheld most of the price. Court awarded the unpaid contract price plus incidentals because resale was impracticable.',
+            focus: 'Illustrates §2-709 action for the price after acceptance of goods.',
+            inputs: {
+                contractPrice: 50000,
+                marketPrice: 50000,
+                buyerPayments: 5000,
+                sellerIncidentalDamages: 1200
+            }
+        },
+        {
+            id: 'chicago-roller',
+            label: 'Chicago Roller Skate Mfg. v. Sokol Mfg. (Neb. 1970)',
+            description: 'Buyer refused specially branded skates at delivery. Seller resold at a lower price and incurred handling costs.',
+            focus: 'Shows §2-706 resale damages and §2-708(1) market measure when resale proceeds fall short.',
+            inputs: {
+                contractPrice: 18000,
+                marketPrice: 16000,
+                resaleCoverPrice: 12000,
+                expensesSaved: 300,
+                sellerIncidentalDamages: 900
+            }
+        },
+        {
+            id: 'egerer',
+            label: 'Egerer v. CSR West (Wash. Ct. App. 2003)',
+            description: 'Seller failed to deliver fill material for a residential project. Buyer covered at a higher price and suffered delay costs.',
+            focus: 'Demonstrates §2-712 cover, §2-713 market damages, and consequential add-ons.',
+            inputs: {
+                contractPrice: 33000,
+                marketPrice: 36000,
+                resaleCoverPrice: 41000,
+                buyerIncidentalDamages: 1200,
+                buyerConsequentialDamages: 9000,
+                buyerPayments: 5000
+            }
+        },
+        {
+            id: 'warranty-hypo',
+            label: 'Hypo: Accepted Goods with Warranty Breach',
+            description: 'Buyer keeps a production machine that runs below specifications, causing downstream losses and service expenses.',
+            focus: 'Practice §2-714 valuation plus incidental and consequential damages.',
+            inputs: {
+                contractPrice: 25000,
+                marketPrice: 25000,
+                buyerIncidentalDamages: 800,
+                buyerConsequentialDamages: 4000,
+                valueAsWarranted: 25000,
+                valueAsAccepted: 18000,
+                buyerPayments: 5000
+            }
+        },
+        {
+            id: 'deposit-hypo',
+            label: 'Hypo: Large Deposit, Quick Resale',
+            description: 'Buyer walks away from a limited-release vehicle. Dealer resells at a small discount while holding a sizable deposit.',
+            focus: 'Tests §2-706 resale damages alongside §2-718 retention limits.',
+            inputs: {
+                contractPrice: 60000,
+                marketPrice: 58000,
+                resaleCoverPrice: 54500,
+                sellerIncidentalDamages: 1500,
+                expensesSaved: 500,
+                buyerPayments: 15000
+            }
+        },
+        {
+            id: 'specific-performance-hypo',
+            label: 'Hypo: Unique Artwork, Buyer Seeks SP',
+            description: 'Seller refuses to deliver a one-of-a-kind painting commissioned for a museum exhibit. Monetary damages are modest but the goods are unique.',
+            focus: 'Encourages discussion of §2-716 specific performance versus monetary recovery.',
+            inputs: {
+                contractPrice: 90000,
+                marketPrice: 90000,
+                buyerIncidentalDamages: 1000,
+                buyerConsequentialDamages: 5000,
+                buyerPayments: 20000
+            }
+        }
+    ];
+
+    const BAR_BASE_COLORS = ['#3182bd', '#e6550d', '#756bb1', '#31a354', '#fdae6b'];
+    const BAR_HIGHLIGHT_COLOR = '#27ae60';
+    let selectedRemedyTitleForJudgment = null;
+    let lastCalculatedInputs = {};
+    let lastCalculatedSellerRemedies = [];
+    let lastCalculatedBuyerRemedies = [];
+
+    const REMEDY_PREREQS = {
+        '§2-712: Cover Damages': 'Buyer must cover in good faith and without unreasonable delay; substitute purchase must be reasonably similar to the contract goods.',
+        '§2-713: Market Damages': 'Buyer did not cover (or cover was invalid); measure uses market price at time of breach minus contract price, plus incidental/consequential, less expenses saved.',
+        '§2-714: Accepted Goods (Breach of Warranty)': 'Buyer accepted the goods despite nonconformity; buyer seasonably gave notice of breach; warranty liability applies.',
+        '§2-716: Specific Performance / Replevin': 'Goods are unique or cover is unavailable; buyer has a right to recover identified goods or specific performance.',
+        '§2-706: Resale Damages': 'Seller resells in good faith and in a commercially reasonable manner; buyer breach precedes resale.',
+        '§2-708(1): Market Damages': 'Seller did not make a qualifying resale; damages measured by contract price minus market price at time/place of tender.',
+        '§2-708(2): Lost Profits': 'Seller is a lost-volume or similar seller where market damages are inadequate; seller could have made both sales; profits and overhead proven with reasonable certainty.',
+        '§2-709: Action for the Price': 'Buyer accepted goods, or goods were lost/damaged after risk passed to buyer, or goods are specially manufactured and resale is impracticable.',
+        '§2-718: Breaching Buyer\'s Restitution': 'Buyer made payments prior to breach; restitution offset by seller damages or liquidated damages and statutory retention limits.'
+    };
+
+    let tooltipElement = null;
+
+    function ensureTooltipElement() {
+        if (!tooltipElement) {
+            tooltipElement = document.createElement('div');
+            tooltipElement.className = 'floating-tooltip';
+            document.body.appendChild(tooltipElement);
+        }
+    }
+
+    function positionTooltip(evt) {
+        ensureTooltipElement();
+        const rect = tooltipElement.getBoundingClientRect();
+        const baseX = evt && typeof evt.clientX === 'number' ? evt.clientX : (evt.target ? evt.target.getBoundingClientRect().left + evt.target.getBoundingClientRect().width / 2 : window.innerWidth / 2);
+        const baseY = evt && typeof evt.clientY === 'number' ? evt.clientY : (evt.target ? evt.target.getBoundingClientRect().bottom : window.innerHeight / 2);
+        let left = baseX;
+        let top = baseY + 18;
+        if (left + rect.width / 2 > window.innerWidth - 16) {
+            left = window.innerWidth - rect.width / 2 - 16;
+        }
+        if (left - rect.width / 2 < 16) {
+            left = rect.width / 2 + 16;
+        }
+        if (top + rect.height > window.innerHeight - 16) {
+            top = evt.clientY - rect.height - 18;
+        }
+        tooltipElement.style.left = `${left}px`;
+        tooltipElement.style.top = `${top}px`;
+    }
+
+    function attachTooltipEvents(badge) {
+        if (badge.dataset.tooltipInitialized === 'true') {
+            return;
+        }
+        const text = badge.dataset.tooltip || badge.getAttribute('title') || '';
+        badge.dataset.tooltip = text;
+        badge.removeAttribute('title');
+        if (text) {
+            badge.setAttribute('aria-label', text);
+        }
+        badge.setAttribute('tabindex', '0');
+        const showTooltip = evt => {
+            if (!text) return;
+            ensureTooltipElement();
+            tooltipElement.textContent = text;
+            tooltipElement.classList.add('visible');
+            positionTooltip(evt);
+        };
+        const hideTooltip = () => {
+            if (tooltipElement) {
+                tooltipElement.classList.remove('visible');
+            }
+        };
+        badge.addEventListener('mouseenter', showTooltip);
+        badge.addEventListener('mousemove', positionTooltip);
+        badge.addEventListener('mouseleave', hideTooltip);
+        badge.addEventListener('focus', showTooltip);
+        badge.addEventListener('blur', hideTooltip);
+        badge.dataset.tooltipInitialized = 'true';
+    }
+
+    function initializeInfoBadges() {
+        document.querySelectorAll('.info-badge').forEach(attachTooltipEvents);
+    }
+
+    function makeComponent(label, detail, value) {
+        return { label, detail, value };
+    }
+
+    function populateScenarioOptions() {
+        const select = document.getElementById('scenarioSelect');
+        SCENARIOS.forEach(scenario => {
+            const option = document.createElement('option');
+            option.value = scenario.id;
+            option.textContent = scenario.label;
+            select.appendChild(option);
+        });
+    }
+
+    function getInputs() {
+        const inputs = {};
+        INPUT_IDS.forEach(id => {
+            inputs[id] = parseFloat(document.getElementById(id).value) || 0;
+        });
+        return inputs;
+    }
+
+    function formatCurrency(value) {
+        const formatter = new Intl.NumberFormat('en-US', {
+            style: 'currency',
+            currency: 'USD',
+            minimumFractionDigits: 2,
+            maximumFractionDigits: 2
+        });
+        return formatter.format(value);
+    }
+
+    function calculateDamages() {
+        const i = getInputs();
+
+        const buyerRemedies = [];
+        const sellerRemedies = [];
+
+        // Buyer Remedies
+        const coverDiff = i.resaleCoverPrice - i.contractPrice;
+        const coverRaw = coverDiff + i.buyerIncidentalDamages + i.buyerConsequentialDamages - i.expensesSaved;
+        const coverComponents = [
+            makeComponent('Cover Price - Contract Price', `(${formatCurrency(i.resaleCoverPrice)} - ${formatCurrency(i.contractPrice)})`, coverDiff),
+            makeComponent('Buyer Incidental', formatCurrency(i.buyerIncidentalDamages), i.buyerIncidentalDamages),
+            makeComponent('Buyer Consequential', formatCurrency(i.buyerConsequentialDamages), i.buyerConsequentialDamages),
+            makeComponent('Less: Expenses Saved', formatCurrency(i.expensesSaved), -i.expensesSaved)
+        ];
+        buyerRemedies.push(createRemedyObject({
+            title: '§2-712: Cover Damages',
+            formula: '(Cover Price - Contract Price) + Buyer Incidental + Buyer Consequential - Expenses Saved',
+            explanation: "Buyer made a commercially reasonable cover purchase, so we compensate the difference plus incidental and consequential losses.",
+            rawValue: coverRaw,
+            components: coverComponents
+        }));
+
+        const marketDiffBuyer = i.marketPrice - i.contractPrice;
+        const marketBuyerRaw = marketDiffBuyer + i.buyerIncidentalDamages + i.buyerConsequentialDamages - i.expensesSaved;
+        const marketBuyerComponents = [
+            makeComponent('Market Price - Contract Price', `(${formatCurrency(i.marketPrice)} - ${formatCurrency(i.contractPrice)})`, marketDiffBuyer),
+            makeComponent('Buyer Incidental', formatCurrency(i.buyerIncidentalDamages), i.buyerIncidentalDamages),
+            makeComponent('Buyer Consequential', formatCurrency(i.buyerConsequentialDamages), i.buyerConsequentialDamages),
+            makeComponent('Less: Expenses Saved', formatCurrency(i.expensesSaved), -i.expensesSaved)
+        ];
+        buyerRemedies.push(createRemedyObject({
+            title: '§2-713: Market Damages',
+            formula: '(Market Price - Contract Price) + Buyer Incidental + Buyer Consequential - Expenses Saved',
+            explanation: 'Used when the buyer does not cover (or cover fails) and relies on the market differential.',
+            rawValue: marketBuyerRaw,
+            components: marketBuyerComponents
+        }));
+
+        const warrantyDiff = i.valueAsWarranted - i.valueAsAccepted;
+        const warrantyRaw = warrantyDiff + i.buyerIncidentalDamages + i.buyerConsequentialDamages;
+        const warrantyComponents = [
+            makeComponent('Value as Warranted - Value as Accepted', `(${formatCurrency(i.valueAsWarranted)} - ${formatCurrency(i.valueAsAccepted)})`, warrantyDiff),
+            makeComponent('Buyer Incidental', formatCurrency(i.buyerIncidentalDamages), i.buyerIncidentalDamages),
+            makeComponent('Buyer Consequential', formatCurrency(i.buyerConsequentialDamages), i.buyerConsequentialDamages)
+        ];
+        buyerRemedies.push(createRemedyObject({
+            title: '§2-714: Accepted Goods (Breach of Warranty)',
+            formula: '(Value as Warranted - Value as Accepted) + Buyer Incidental + Buyer Consequential',
+            explanation: 'Buyer keeps the goods and recovers the loss in value caused by the defect, plus incidental and consequential damages.',
+            rawValue: warrantyRaw,
+            components: warrantyComponents
+        }));
+
+        // Add specific performance note as informational card
+        buyerRemedies.push(createInformationalRemedy({
+            title: '§2-716: Specific Performance / Replevin',
+            explanation: 'Equitable relief compelling delivery of identified goods when they are unique or cover is unavailable. No monetary number to compute here, but compare against monetary remedies for overall strategy.'
+        }));
+
+        const sellerDueCredit = i.buyerPayments;
+
+        // Seller Remedies
+        const resaleDiff = i.contractPrice - i.resaleCoverPrice;
+        const resaleGross = resaleDiff + i.sellerIncidentalDamages - i.expensesSaved;
+        const resaleRaw = resaleGross - sellerDueCredit;
+        const resaleComponents = [
+            makeComponent('Contract Price - Resale Price', `(${formatCurrency(i.contractPrice)} - ${formatCurrency(i.resaleCoverPrice)})`, resaleDiff),
+            makeComponent('Seller Incidental', formatCurrency(i.sellerIncidentalDamages), i.sellerIncidentalDamages),
+            makeComponent('Less: Expenses Saved', formatCurrency(i.expensesSaved), -i.expensesSaved),
+            makeComponent('Less: Buyer Payments', formatCurrency(sellerDueCredit), -sellerDueCredit)
+        ];
+        sellerRemedies.push(createRemedyObject({
+            title: '§2-706: Resale Damages',
+            formula: '(Contract Price - Resale Price) + Seller Incidental - Expenses Saved - Buyer Payments',
+            explanation: 'Seller made a commercially reasonable resale; buyer payments are credited before calculating the additional amount owed.',
+            rawValue: resaleRaw,
+            grossValue: resaleGross,
+            adjustments: sellerDueCredit ? [`Credited buyer payments of ${formatCurrency(sellerDueCredit)}.`] : [],
+            components: resaleComponents
+        }));
+
+        const marketDiffSeller = i.contractPrice - i.marketPrice;
+        const marketSellerGross = marketDiffSeller + i.sellerIncidentalDamages - i.expensesSaved;
+        const marketSellerRaw = marketSellerGross - sellerDueCredit;
+        const marketSellerComponents = [
+            makeComponent('Contract Price - Market Price', `(${formatCurrency(i.contractPrice)} - ${formatCurrency(i.marketPrice)})`, marketDiffSeller),
+            makeComponent('Seller Incidental', formatCurrency(i.sellerIncidentalDamages), i.sellerIncidentalDamages),
+            makeComponent('Less: Expenses Saved', formatCurrency(i.expensesSaved), -i.expensesSaved),
+            makeComponent('Less: Buyer Payments', formatCurrency(sellerDueCredit), -sellerDueCredit)
+        ];
+        sellerRemedies.push(createRemedyObject({
+            title: '§2-708(1): Market Damages',
+            formula: '(Contract Price - Market Price) + Seller Incidental - Expenses Saved - Buyer Payments',
+            explanation: 'Default seller remedy when resale is unavailable or invalid. Buyer payments must still be credited.',
+            rawValue: marketSellerRaw,
+            grossValue: marketSellerGross,
+            adjustments: sellerDueCredit ? [`Credited buyer payments of ${formatCurrency(sellerDueCredit)}.`] : [],
+            components: marketSellerComponents
+        }));
+
+        const lostProfitGross = i.profit + i.overhead + i.sellerIncidentalDamages;
+        const lostProfitRaw = lostProfitGross - sellerDueCredit;
+        const lostProfitComponents = [
+            makeComponent('Anticipated Profit', formatCurrency(i.profit), i.profit),
+            makeComponent('Reasonable Overhead', formatCurrency(i.overhead), i.overhead),
+            makeComponent('Seller Incidental', formatCurrency(i.sellerIncidentalDamages), i.sellerIncidentalDamages),
+            makeComponent('Less: Buyer Payments', formatCurrency(sellerDueCredit), -sellerDueCredit)
+        ];
+        sellerRemedies.push(createRemedyObject({
+            title: '§2-708(2): Lost Profits',
+            formula: 'Anticipated Profit + Overhead + Seller Incidental - Buyer Payments',
+            explanation: 'For lost-volume sellers when market damages are inadequate. Buyer payments reduce the recovery because the seller already holds those funds.',
+            rawValue: lostProfitRaw,
+            grossValue: lostProfitGross,
+            adjustments: sellerDueCredit ? [`Credited buyer payments of ${formatCurrency(sellerDueCredit)}.`] : [],
+            components: lostProfitComponents
+        }));
+
+        const priceGross = i.contractPrice + i.sellerIncidentalDamages;
+        const priceRaw = priceGross - sellerDueCredit;
+        const priceComponents = [
+            makeComponent('Contract Price', formatCurrency(i.contractPrice), i.contractPrice),
+            makeComponent('Less: Buyer Payments', formatCurrency(sellerDueCredit), -sellerDueCredit),
+            makeComponent('Seller Incidental', formatCurrency(i.sellerIncidentalDamages), i.sellerIncidentalDamages)
+        ];
+        sellerRemedies.push(createRemedyObject({
+            title: '§2-709: Action for the Price',
+            formula: '(Contract Price - Buyer Payments) + Seller Incidental',
+            explanation: 'Available only for goods accepted, lost after risk passed, or specially manufactured goods not suitable for resale.',
+            rawValue: priceRaw,
+            grossValue: priceGross,
+            adjustments: sellerDueCredit ? [`Credited buyer payments of ${formatCurrency(sellerDueCredit)}.`] : [],
+            components: priceComponents
+        }));
+
+        lastCalculatedInputs = { ...i };
+        lastCalculatedSellerRemedies = sellerRemedies.slice();
+
+        const defaultBestSellerRemedy = sellerRemedies
+            .filter(r => r.type === 'calculable' && typeof r.grossValue === 'number')
+            .reduce((best, current) => (!best || current.grossValue > best.grossValue) ? current : best, null);
+
+        const defaultBestBuyerRemedy = buyerRemedies
+            .filter(r => r.type === 'calculable')
+            .reduce((best, current) => (!best || current.finalValue > best.finalValue) ? current : best, null);
+
+        selectedRemedyTitleForJudgment = null;
+        if (defaultBestSellerRemedy) {
+            selectedRemedyTitleForJudgment = defaultBestSellerRemedy.title;
+        } else if (defaultBestBuyerRemedy) {
+            selectedRemedyTitleForJudgment = defaultBestBuyerRemedy.title;
+        }
+
+        lastCalculatedBuyerRemedies = buyerRemedies.slice();
+
+        renderRestitution(i);
+        rerenderAfterSelection();
+    }
+
+    function createRemedyObject({ title, formula, explanation, rawValue = 0, grossValue, adjustments = [], components = [] }) {
+        const effectiveGross = typeof grossValue === 'number' ? grossValue : rawValue;
+        return {
+            type: 'calculable',
+            title,
+            formula,
+            explanation,
+            rawValue,
+            grossValue: effectiveGross,
+            allowNegative: false,
+            adjustments,
+            components,
+            finalValue: Math.max(rawValue, 0)
+        };
+    }
+
+    function createInformationalRemedy({ title, explanation }) {
+        return {
+            type: 'info',
+            title,
+            explanation
+        };
+    }
+
+    function applyScenario(id) {
+        const scenario = SCENARIOS.find(item => item.id === id);
+        const notes = document.getElementById('scenarioNotes');
+
+        INPUT_IDS.forEach(fieldId => {
+            const element = document.getElementById(fieldId);
+            if (!element) return;
+            if (scenario) {
+                if (Object.prototype.hasOwnProperty.call(scenario.inputs, fieldId)) {
+                    element.value = scenario.inputs[fieldId];
+                } else {
+                    element.value = '';
+                }
+            } else {
+                element.value = '';
+            }
+        });
+
+        if (scenario) {
+            notes.innerHTML = `<strong>${scenario.label}</strong><br>${scenario.description}<br><em>Focus:</em> ${scenario.focus}`;
+            notes.classList.remove('muted');
+            calculateDamages();
+        } else {
+            notes.innerHTML = 'Pick a scenario to preload numbers from real cases and hypos, or enter your own facts.';
+            notes.classList.add('muted');
+            document.getElementById('buyerResults').innerHTML = '';
+            document.getElementById('sellerResults').innerHTML = '';
+            const buyerComparison = document.getElementById('buyerComparison');
+            const sellerComparison = document.getElementById('sellerComparison');
+            buyerComparison.classList.add('muted');
+            buyerComparison.textContent = 'Enter facts and click Calculate to see which buyer remedy pays the most.';
+            sellerComparison.classList.add('muted');
+            sellerComparison.textContent = 'Enter facts and click Calculate to see which seller remedy pays the most.';
+            document.getElementById('restitutionResults').innerHTML = '';
+            updateBars('buyerChart', [], [], null);
+            updateBars('sellerChart', [], [], null);
+            selectedRemedyTitleForJudgment = null;
+            lastCalculatedInputs = {};
+            lastCalculatedSellerRemedies = [];
+            lastCalculatedBuyerRemedies = [];
+            renderFinalJudgment({ buyerPayments: 0 }, null);
+        }
+    }
+
+    function renderRemedies(containerId, remedies, comparisonId, actor) {
+        const container = document.getElementById(containerId);
+        const comparison = document.getElementById(comparisonId);
+
+        if (!remedies.length) {
+            container.innerHTML = '';
+            comparison.textContent = 'No remedies to display yet.';
+            return;
+        }
+
+        let bestRemedy = null;
+        remedies.forEach(remedy => {
+            if (remedy.type !== 'calculable') {
+                return;
+            }
+            if (remedy.finalValue > 0 && (!bestRemedy || remedy.finalValue > bestRemedy.finalValue)) {
+                bestRemedy = remedy;
+            }
+        });
+
+        const cardsHTML = remedies.map(remedy => {
+            if (remedy.type === 'info') {
+                return `
+                    <div class="result-card">
+                        <h4>${remedy.title}</h4>
+                        <p>${remedy.explanation}</p>
+                    </div>
+                `;
+            }
+            const isBest = bestRemedy && bestRemedy.title === remedy.title && bestRemedy.finalValue > 0;
+            return createResultCard(remedy, isBest);
+        }).join('');
+
+        container.innerHTML = cardsHTML;
+        initializeInfoBadges();
+
+        if (bestRemedy) {
+            comparison.classList.remove('muted');
+            comparison.innerHTML = `
+                <strong>Highest numeric recovery:</strong> ${bestRemedy.title} for ${formatCurrency(bestRemedy.finalValue)}.
+                <span>Be sure the statutory prerequisites are satisfied; use other remedies as alternatives if elements are unmet.</span>
+            `;
+        } else {
+            comparison.classList.add('muted');
+            comparison.innerHTML = actor === 'buyer'
+                ? 'No positive buyer damages based on these inputs. Double-check the factual triggers or evaluate equitable relief.'
+                : 'No positive seller damages after crediting buyer payments. Seller may need to pursue restitution or accept the credited amount.';
+        }
+
+        const dataset = remedies
+            .filter(remedy => remedy.type === 'calculable')
+            .map(remedy => ({ label: remedy.title, value: remedy.finalValue }));
+
+        return {
+            dataset,
+            bestRemedyTitle: bestRemedy ? bestRemedy.title : null
+        };
+    }
+
+    function renderComponentList(components) {
+        if (!components || !components.length) {
+            return '';
+        }
+        const items = components.map(component => {
+            const valueClass = component.value > 0 ? 'positive' : (component.value < 0 ? 'negative' : 'neutral');
+            const detailHTML = component.detail
+                ? `<span class="component-detail">${component.detail}</span>`
+                : '';
+            return `
+                <li class="component-item">
+                    <div class="component-info">
+                        <span class="component-label">${component.label}</span>
+                        ${detailHTML}
+                    </div>
+                    <span class="component-value ${valueClass}">${formatCurrency(component.value)}</span>
+                </li>
+            `;
+        }).join('');
+
+        return `
+            <div class="component-breakdown">
+                <div class="component-title">How the numbers plug in</div>
+                <ul class="component-list">${items}</ul>
+            </div>
+        `;
+    }
+
+    function createResultCard(remedy, highlight) {
+        const { title, formula, explanation, rawValue, finalValue, adjustments, components } = remedy;
+        const valueClass = finalValue > 0 ? 'positive' : (finalValue === 0 ? 'neutral' : 'negative');
+        const isSelectedForJudgment = (title === selectedRemedyTitleForJudgment);
+
+        let statusNote = '';
+        if (rawValue < 0) {
+            statusNote = `<p class="status-note neutral">Calculation produced ${formatCurrency(rawValue)} after statutory limits, so no monetary damages are available for this remedy.</p>`;
+        } else if (rawValue === 0) {
+            statusNote = '<p class="status-note neutral">This remedy breaks even on the current facts.</p>';
+        }
+
+        const adjustmentsHTML = adjustments && adjustments.length
+            ? `<ul class="adjustments">${adjustments.map(item => `<li>${item}</li>`).join('')}</ul>`
+            : '';
+        const componentsHTML = renderComponentList(components);
+
+        const tooltipText = REMEDY_PREREQS[title];
+        const titleHTML = tooltipText
+            ? `${title} <span class="info-badge" data-tooltip="${tooltipText.replace(/"/g, '&quot;')}">?</span>`
+            : title;
+
+        return `
+            <div class="result-card${highlight ? ' highlight' : ''}${isSelectedForJudgment ? ' selected-for-judgment' : ''}" data-title="${title}">
+                <h4>${titleHTML}</h4>
+                <div class="formula">${formula}</div>
+                <p>${explanation}</p>
+                <p class="value ${valueClass}">${formatCurrency(finalValue)}</p>
+                ${statusNote}
+                ${componentsHTML}
+                ${adjustmentsHTML}
+            </div>
+        `;
+    }
+
+    function renderRestitution(i) {
+        const container = document.getElementById('restitutionResults');
+        const statutoryRetention = Math.min(STATUTORY_RETENTION_PERCENT * i.contractPrice, STATUTORY_RETENTION_MAX);
+        const fallbackRetention = Math.min(statutoryRetention, i.buyerPayments);
+        const retention = i.liquidatedDamages > 0
+            ? Math.min(i.liquidatedDamages, i.buyerPayments)
+            : fallbackRetention;
+        const rawRestitution = i.buyerPayments - retention;
+
+        const note = i.liquidatedDamages > 0
+            ? `Applied valid liquidated damages of ${formatCurrency(Math.min(i.liquidatedDamages, i.buyerPayments))}.`
+            : `No valid liquidated damages clause, so the seller retains the lesser of 20% of the contract price (${formatCurrency(STATUTORY_RETENTION_PERCENT * i.contractPrice)}) or $${STATUTORY_RETENTION_MAX.toFixed(2)}, capped at the deposit (${formatCurrency(fallbackRetention)}).`;
+
+        const components = [
+            makeComponent('Buyer Payments', formatCurrency(i.buyerPayments), i.buyerPayments),
+            makeComponent('Less: Seller Retention', formatCurrency(retention), -retention)
+        ];
+
+        const componentsHTML = renderComponentList(components);
+
+        const cardHTML = `
+            <div class="result-card">
+                <h4>§2-718: Breaching Buyer's Restitution</h4>
+                <div class="formula">Buyer Payments - Seller Retention</div>
+                <p>The buyer can reclaim payments that exceed what the seller may keep. <strong>Remember:</strong> this restitution is still subject to offset by the seller's actual damages calculated above.</p>
+                <p class="value ${rawRestitution > 0 ? 'positive' : (rawRestitution === 0 ? 'neutral' : 'negative')}">${formatCurrency(rawRestitution)}</p>
+                <p class="status-note ${rawRestitution >= 0 ? 'neutral' : 'negative'}">
+                    ${rawRestitution >= 0
+                        ? `Potential refund to the buyer before offset: ${formatCurrency(rawRestitution)}.`
+                        : `Seller keeps the full deposit and still has ${formatCurrency(Math.abs(rawRestitution))} in unreimbursed damages before considering statutory remedies.`}
+                </p>
+                ${componentsHTML}
+                <ul class="adjustments">
+                    <li>${note}</li>
+                    <li>Seller retention used in this calculation: ${formatCurrency(retention)}.</li>
+                </ul>
+            </div>
+        `;
+
+        container.innerHTML = cardHTML;
+    }
+
+    function renderFinalJudgment(inputs, selectedRemedy) {
+        const card = document.getElementById('finalJudgmentCard');
+        const container = document.getElementById('finalJudgmentSection');
+        if (!card || !container) return;
+
+        if (!inputs.buyerPayments || inputs.buyerPayments <= 0 || !selectedRemedy) {
+            card.style.display = 'none';
+            container.innerHTML = '';
+            return;
+        }
+
+        const baseAmount = typeof selectedRemedy.grossValue === 'number'
+            ? selectedRemedy.grossValue
+            : (typeof selectedRemedy.finalValue === 'number' ? selectedRemedy.finalValue : (selectedRemedy.rawValue || 0));
+        const sellerActualDamages = Math.max(baseAmount, 0);
+        const finalJudgment = inputs.buyerPayments - sellerActualDamages;
+
+        let outcomeText;
+        let outcomeClass;
+        if (finalJudgment > 0) {
+            outcomeText = `<strong>Final Outcome:</strong> Seller must refund <strong>${formatCurrency(finalJudgment)}</strong> to the Buyer.`;
+            outcomeClass = 'positive';
+        } else if (finalJudgment < 0) {
+            outcomeText = `<strong>Final Outcome:</strong> Buyer owes an additional <strong>${formatCurrency(Math.abs(finalJudgment))}</strong> to the Seller.`;
+            outcomeClass = 'negative';
+        } else {
+            outcomeText = '<strong>Final Outcome:</strong> The deposit exactly covers the seller\'s damages. No further payment is needed.';
+            outcomeClass = 'neutral';
+        }
+
+        const cardHTML = `
+            <div class="result-card highlight">
+                <h4>Final Judgment Synthesis (UCC §2-718(3))</h4>
+                <p>This synthesis offsets the buyer's deposit against the <strong>selected</strong> remedy value. Click a different remedy card above to explore alternative outcomes.</p>
+                <div class="component-breakdown">
+                    <div class="component-title">Final Offset Calculation</div>
+                    <ul class="component-list">
+                        <li class="component-item">
+                            <div class="component-info"><span class="component-label">Buyer Deposit</span></div>
+                            <span class="component-value positive">${formatCurrency(inputs.buyerPayments)}</span>
+                        </li>
+                        <li class="component-item">
+                            <div class="component-info">
+                                <span class="component-label">Less: Selected Remedy Amount</span>
+                                <span class="component-detail">Using selected remedy: <strong>${selectedRemedy.title}</strong></span>
+                            </div>
+                            <span class="component-value negative">${formatCurrency(-sellerActualDamages)}</span>
+                        </li>
+                    </ul>
+                </div>
+                <p class="value ${outcomeClass}">${formatCurrency(finalJudgment)}</p>
+                <p class="status-note">${outcomeText}</p>
+            </div>
+        `;
+
+        container.innerHTML = cardHTML;
+        card.style.display = 'block';
+    }
+
+    function updateBars(containerId, labels, values, bestTitle) {
+        const container = document.getElementById(containerId);
+        if (!container) {
+            return;
+        }
+        const wrapper = container.parentNode;
+        const data = labels.map((label, idx) => ({ label, value: values[idx] })).filter(item => item.value > 0);
+        data.sort((a, b) => a.value - b.value);
+
+        if (!data.length) {
+            container.innerHTML = '';
+            if (wrapper && wrapper.classList.contains('chart-shell')) {
+                wrapper.style.display = 'none';
+            }
+            return;
+        }
+
+        if (wrapper && wrapper.classList.contains('chart-shell')) {
+            wrapper.style.display = 'block';
+        }
+
+        const maxValue = Math.max(...data.map(item => item.value));
+        const barsHTML = data.map((item, idx) => {
+            const trimmed = item.label.replace(/^§\d-\d+(?:\(\d\))?:\s*/, '');
+            const highlight = item.label === bestTitle || trimmed === bestTitle;
+            const color = highlight ? BAR_HIGHLIGHT_COLOR : BAR_BASE_COLORS[idx % BAR_BASE_COLORS.length];
+            const widthPercent = maxValue > 0 ? (item.value / maxValue) * 100 : 0;
+            return `
+                <div class="bar-row">
+                    <span class="bar-label">${trimmed}</span>
+                    <div class="bar-track">
+                        <div class="bar-fill${highlight ? ' highlight' : ''}" style="width:${widthPercent}%; background:${color};"></div>
+                    </div>
+                    <span class="bar-value">${formatCurrency(item.value)}</span>
+                </div>
+            `;
+        }).join('');
+
+        container.innerHTML = barsHTML;
+    }
+
+    function getCombinedRemedies() {
+        return lastCalculatedSellerRemedies.concat(lastCalculatedBuyerRemedies);
+    }
+
+    function rerenderAfterSelection() {
+        const hasSeller = lastCalculatedSellerRemedies.length > 0;
+        const hasBuyer = lastCalculatedBuyerRemedies.length > 0;
+
+        if (!hasSeller && !hasBuyer) {
+            renderFinalJudgment(lastCalculatedInputs || { buyerPayments: 0 }, null);
+            return;
+        }
+
+        const buyerRender = renderRemedies('buyerResults', lastCalculatedBuyerRemedies, 'buyerComparison', 'buyer');
+        const buyerRenderSafe = buyerRender || { dataset: [], bestRemedyTitle: null };
+        const buyerLabels = buyerRenderSafe.dataset.map(item => item.label);
+        const buyerValues = buyerRenderSafe.dataset.map(item => item.value);
+        const buyerHighlight = lastCalculatedBuyerRemedies.some(r => r.title === selectedRemedyTitleForJudgment)
+            ? selectedRemedyTitleForJudgment
+            : buyerRenderSafe.bestRemedyTitle;
+        updateBars('buyerChart', buyerLabels, buyerValues, buyerHighlight);
+
+        const sellerRender = renderRemedies('sellerResults', lastCalculatedSellerRemedies, 'sellerComparison', 'seller');
+        const sellerRenderSafe = sellerRender || { dataset: [], bestRemedyTitle: null };
+        const sellerLabels = sellerRenderSafe.dataset.map(item => item.label);
+        const sellerValues = sellerRenderSafe.dataset.map(item => item.value);
+        const sellerHighlight = lastCalculatedSellerRemedies.some(r => r.title === selectedRemedyTitleForJudgment)
+            ? selectedRemedyTitleForJudgment
+            : sellerRenderSafe.bestRemedyTitle;
+        updateBars('sellerChart', sellerLabels, sellerValues, sellerHighlight);
+
+        const selectedRemedyObject = selectedRemedyTitleForJudgment
+            ? getCombinedRemedies().find(r => r.title === selectedRemedyTitleForJudgment) || null
+            : null;
+        renderFinalJudgment(lastCalculatedInputs || { buyerPayments: 0 }, selectedRemedyObject);
+    }
+
+    initializeInfoBadges();
+    populateScenarioOptions();
+
+    document.getElementById('scenarioSelect').addEventListener('change', event => {
+        applyScenario(event.target.value);
+    });
+
+    document.getElementById('resetInputs').addEventListener('click', () => {
+        document.getElementById('scenarioSelect').value = '';
+        applyScenario('');
+    });
+
+    // Initialize empty state
+    updateBars('buyerChart', [], [], null);
+    updateBars('sellerChart', [], [], null);
+    applyScenario('');
+
+    document.getElementById('buyerResults').addEventListener('click', event => {
+        if (!lastCalculatedBuyerRemedies.length && !lastCalculatedSellerRemedies.length) {
+            return;
+        }
+        const clickedCard = event.target.closest('.result-card');
+        if (!clickedCard || !clickedCard.dataset.title) {
+            return;
+        }
+
+        selectedRemedyTitleForJudgment = clickedCard.dataset.title;
+        rerenderAfterSelection();
+    });
+
+    document.getElementById('sellerResults').addEventListener('click', event => {
+        if (!lastCalculatedSellerRemedies.length && !lastCalculatedBuyerRemedies.length) {
+            return;
+        }
+        const clickedCard = event.target.closest('.result-card');
+        if (!clickedCard || !clickedCard.dataset.title) {
+            return;
+        }
+
+        selectedRemedyTitleForJudgment = clickedCard.dataset.title;
+        rerenderAfterSelection();
+    });
+</script>
+
+</body>
+</html>
