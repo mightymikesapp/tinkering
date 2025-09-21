@@ -568,7 +568,6 @@
         </div>
 
         <div class="action-area">
-            <button onclick="calculateDamages()">Calculate & Compare Remedies</button>
             <div class="helper">
                 <details>
                     <summary>Need help choosing which remedy fits the facts?</summary>
@@ -1414,6 +1413,14 @@
 
         selectedRemedyTitleForJudgment = clickedCard.dataset.title;
         rerenderAfterSelection();
+    });
+
+    // Add event listeners to all input fields for real-time calculation.
+    INPUT_IDS.forEach(id => {
+        const inputElement = document.getElementById(id);
+        if (inputElement) {
+            inputElement.addEventListener('input', calculateDamages);
+        }
     });
 </script>
 
