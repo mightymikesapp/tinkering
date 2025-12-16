@@ -1,0 +1,62 @@
+{
+  "id": 12590233,
+  "name": "In re Jauve COLLINS.",
+  "name_abbreviation": "In re Collins",
+  "decision_date": "2014-08-01",
+  "docket_number": "No. 13\u201310758 R46\u2013022.",
+  "first_page": "22",
+  "last_page": "22",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 22"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 873"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 202,
+    "sha256": "5d5cac07b60b3cad978008fa1f555d3fa81cac10ec4044ae7b994b19d66d0b78",
+    "simhash": "1:1eef34141cc1a45b",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jauve COLLINS."
+    ],
+    "opinions": [
+      {
+        "text": "The petition for writ of mandamus was dismissed today pursuant to Rule 46 of the Rules of this Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Jauve COLLINS.\nNo. 13-10758 R46-022.\nSupreme Court of the United States\nAug. 1, 2014.\nOpinion"
+  },
+  "file_name": "0022-06",
+  "first_page_order": 22,
+  "last_page_order": 22
+}

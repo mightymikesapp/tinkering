@@ -1,0 +1,80 @@
+{
+  "id": 12591754,
+  "name": "Robert THAYER, et al., petitioners, v. CITY OF WORCESTER, MASSACHUSETTS.",
+  "name_abbreviation": "Thayer v. City of Worcester",
+  "decision_date": "2015-06-29",
+  "docket_number": "No. 14\u2013428.",
+  "first_page": "2887",
+  "last_page": "2887",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2887"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 918"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2218",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12590246
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2218-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 584,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635230857088579
+    },
+    "sha256": "9c66114c15405c9bd932dd72b5ef7a647f720745edcb7794f9e1002666c7c402",
+    "simhash": "1:1a26c2041e2006a9",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert THAYER, et al., petitioners,\nv.\nCITY OF WORCESTER, MASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of Homeless Empowerment Project for leave to file a brief as amicus curiaegranted. On petition for writ of certiorari to the United States Court of Appeals for the First Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the First Circuit for further consideration in light of Reed v. Town of Gilbert,576 U.S. ----, 135 S.Ct. 2218, --- L.Ed.2d ---- (2015).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert THAYER, et al., petitioners,\nv.\nCITY OF WORCESTER, MASSACHUSETTS.\nNo. 14-428.\nSupreme Court of the United States\nJune 29, 2015.\nOpinion"
+  },
+  "file_name": "2887-03",
+  "first_page_order": 2887,
+  "last_page_order": 2887
+}

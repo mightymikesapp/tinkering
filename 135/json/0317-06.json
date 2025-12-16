@@ -1,0 +1,62 @@
+{
+  "id": 12592211,
+  "name": "Alex Deon ROSS, petitioner, v. A. DAVID, et al.",
+  "name_abbreviation": "Ross v. David",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14M4.",
+  "first_page": "317",
+  "last_page": "317",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 317"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 14"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 204,
+    "sha256": "4963226e2b401aa09931d35d9307a99e5a7d4b96298d6721cdccd67063bed9d4",
+    "simhash": "1:48e75206daddd199",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alex Deon ROSS, petitioner,\nv.\nA. DAVID, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Alex Deon ROSS, petitioner,\nv.\nA. DAVID, et al.\nNo. 14M4.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0317-06",
+  "first_page_order": 317,
+  "last_page_order": 317
+}

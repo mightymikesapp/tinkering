@@ -1,0 +1,62 @@
+{
+  "id": 12588359,
+  "name": "In the Matter of DISBARMENT OF Peter Dirk NANSEN.",
+  "name_abbreviation": "In re Nansen",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. D\u20132803.",
+  "first_page": "1527",
+  "last_page": "1527",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1527"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 457"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 146,
+    "sha256": "8de36ac980be5aecc3af4b06752dc8562dc5abd38421267d62e6ed1b31979b4f",
+    "simhash": "1:e2225451be5f5cf3",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Peter Dirk NANSEN."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Peter Dirk NANSEN.\nNo. D-2803.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1527-03",
+  "first_page_order": 1527,
+  "last_page_order": 1527
+}

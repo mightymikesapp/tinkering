@@ -1,0 +1,62 @@
+{
+  "id": 12591946,
+  "name": "In re Jacob BEN-ARI, petitioner.",
+  "name_abbreviation": "In re Ben-Ari",
+  "decision_date": "2015-06-29",
+  "docket_number": "No. 14M134.",
+  "first_page": "2916",
+  "last_page": "2916",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2916"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 921"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 223,
+    "sha256": "68a5e2ddcaa7de8bc03402edd19f5fd2ff52aeed46741ef2ad1a1f773b89884e",
+    "simhash": "1:a86755267fd01d5f",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jacob BEN-ARI, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Motion for leave to file a petition for writ of mandamus under seal with redacted copies for the public record granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Jacob BEN-ARI, petitioner.\nNo. 14M134.\nSupreme Court of the United States\nJune 29, 2015.\nOpinion"
+  },
+  "file_name": "2916-02",
+  "first_page_order": 2916,
+  "last_page_order": 2916
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12586812,
+  "name": "GOOGLE, INC., petitioner, v. ORACLE AMERICA, INC.",
+  "name_abbreviation": "Google, Inc. v. Oracle Am., Inc.",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u2013410.",
+  "first_page": "1021",
+  "last_page": "1021",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1021"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 825"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 302,
+    "sha256": "1d7c6d557724917f59c0edd69d6627257d3a6a34086c6b97a2541d3d505553d5",
+    "simhash": "1:9203d6422b8ee642",
+    "word_count": 50
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GOOGLE, INC., petitioner,\nv.\nORACLE AMERICA, INC."
+    ],
+    "opinions": [
+      {
+        "text": "The Solicitor General is invited to file a brief in this case expressing the views of the United States.\nJustice ALITOtook no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITOtook no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "GOOGLE, INC., petitioner,\nv.\nORACLE AMERICA, INC.\nNo. 14-410.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1021-04",
+  "first_page_order": 1021,
+  "last_page_order": 1021
+}

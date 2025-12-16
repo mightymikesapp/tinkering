@@ -1,0 +1,62 @@
+{
+  "id": 12588159,
+  "name": "Edward HUDSON, petitioner, v. Michael MILLER, Warden, et al.",
+  "name_abbreviation": "Hudson v. Miller",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. 14\u20137807.",
+  "first_page": "1499",
+  "last_page": "1499",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1499"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 441"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "441f52c52aeb362d558d12755d50286b05306cca718bb40367e189c5e52db628",
+    "simhash": "1:c02ff60e3d4d0299",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward HUDSON, petitioner,\nv.\nMichael MILLER, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Edward HUDSON, petitioner,\nv.\nMichael MILLER, Warden, et al.\nNo. 14-7807.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1499-05",
+  "first_page_order": 1499,
+  "last_page_order": 1499
+}

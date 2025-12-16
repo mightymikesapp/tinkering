@@ -1,0 +1,62 @@
+{
+  "id": 12590182,
+  "name": "Elizabeth J. OLSON, et vir, petitioners, v. CITY OF CHICAGO, ILLINOIS.",
+  "name_abbreviation": "Olson v. City of Chi.",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u201339.",
+  "first_page": "213",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 213"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 241,
+    "sha256": "efe54561691c3a75ee92131fbb49b2560a692b58ae8c94a2c98fe1786c7fe7f8",
+    "simhash": "1:ebed62e5bc0706ac",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elizabeth J. OLSON, et vir, petitioners,\nv.\nCITY OF CHICAGO, ILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Elizabeth J. OLSON, et vir, petitioners,\nv.\nCITY OF CHICAGO, ILLINOIS.\nNo. 14-39.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0213-02",
+  "first_page_order": 213,
+  "last_page_order": 213
+}

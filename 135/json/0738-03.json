@@ -1,0 +1,62 @@
+{
+  "id": 12593892,
+  "name": "LaDonna JONES, petitioner, v. Rebecca DALEY, et al.",
+  "name_abbreviation": "Jones v. Daley",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14M48.",
+  "first_page": "738",
+  "last_page": "738",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 738"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 435"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 209,
+    "sha256": "f1a3ac5b15f9e284ffc0397c80949fa7671f3611ff631564525ef3c7808c789c",
+    "simhash": "1:1bc752369bc9f5bc",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LaDonna JONES, petitioner,\nv.\nRebecca DALEY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "LaDonna JONES, petitioner,\nv.\nRebecca DALEY, et al.\nNo. 14M48.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0738-03",
+  "first_page_order": 738,
+  "last_page_order": 738
+}

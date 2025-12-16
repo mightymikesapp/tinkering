@@ -1,0 +1,62 @@
+{
+  "id": 12590141,
+  "name": "Simpson GRAY, petitioner, v. CITY OF NEW YORK, NEW YORK, et al.",
+  "name_abbreviation": "Gray v. City of N.Y.",
+  "decision_date": "2015-05-04",
+  "docket_number": "No. 14\u2013666.",
+  "first_page": "2075",
+  "last_page": "2075",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2075"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 973"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 190,
+    "sha256": "3afc0f76eec626e36b7b2f7a9b84efed1a1720d9b21ea261fc10e67996099cbd",
+    "simhash": "1:94e750301e89f12f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Simpson GRAY, petitioner,\nv.\nCITY OF NEW YORK, NEW YORK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion for leave to file a petition for rehearing denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Simpson GRAY, petitioner,\nv.\nCITY OF NEW YORK, NEW YORK, et al.\nNo. 14-666.\nSupreme Court of the United States\nMay 4, 2015.\nOpinion"
+  },
+  "file_name": "2075-03",
+  "first_page_order": 2075,
+  "last_page_order": 2075
+}

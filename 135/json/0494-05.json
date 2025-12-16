@@ -1,0 +1,62 @@
+{
+  "id": 12593280,
+  "name": "Gary THOMPSON, petitioner, v. JPMORGAN CHASE BANK, N.A., et al.",
+  "name_abbreviation": "Thompson v. Jpmorgan Chase Bank, N.A.",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u2013414.",
+  "first_page": "494",
+  "last_page": "494",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 494"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 234,
+    "sha256": "920f8e69c1f9d38df83113f5698252a60af93339614a8024ca848009054b47a1",
+    "simhash": "1:76afd6843f8552eb",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary THOMPSON, petitioner,\nv.\nJPMORGAN CHASE BANK, N.A., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gary THOMPSON, petitioner,\nv.\nJPMORGAN CHASE BANK, N.A., et al.\nNo. 14-414.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0494-05",
+  "first_page_order": 494,
+  "last_page_order": 494
+}

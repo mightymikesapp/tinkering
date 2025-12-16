@@ -1,0 +1,62 @@
+{
+  "id": 12588170,
+  "name": "Harold FAY, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Fay v. Massachusetts",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310629.",
+  "first_page": "150",
+  "last_page": "150",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 150"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 109"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 200,
+    "sha256": "c0222ccec1c4ba35998f5dd5f7662b342688909e023f7f651cac2b4c2237f464",
+    "simhash": "1:61ece255bced83b7",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harold FAY, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Harold FAY, petitioner,\nv.\nMASSACHUSETTS.\nNo. 13-10629.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0150-03",
+  "first_page_order": 150,
+  "last_page_order": 150
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12591990,
+  "name": "In the Matter of DISCIPLINE OF Robert S. SEGUIN.",
+  "name_abbreviation": "In re Seguin",
+  "decision_date": "2015-06-29",
+  "docket_number": "No. D\u20132831.",
+  "first_page": "2922",
+  "last_page": "2922",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2922"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 956"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 363,
+    "sha256": "26525213d190eabaccdcc848b82064330abd91d7850b11e507e0de0a9072699b",
+    "simhash": "1:780279b63be6a7eb",
+    "word_count": 66
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Robert S. SEGUIN."
+    ],
+    "opinions": [
+      {
+        "text": "Robert S. Seguin, of Milltown, New Jersey, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Robert S. SEGUIN.\nNo. D-2831.\nSupreme Court of the United States\nJune 29, 2015.\nOpinion"
+  },
+  "file_name": "2922-04",
+  "first_page_order": 2922,
+  "last_page_order": 2922
+}

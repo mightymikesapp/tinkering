@@ -1,0 +1,62 @@
+{
+  "id": 12586756,
+  "name": "In re Charles A. SMITH-BEY, petitioner.",
+  "name_abbreviation": "In re Smith-Bey",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20137454.",
+  "first_page": "1013",
+  "last_page": "1013",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1013"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 891"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 154,
+    "sha256": "25d8ce7547e59e37f1f64ed0f61f138e1c93713ef51c9206a37c5ae2e5983c9e",
+    "simhash": "1:79fe96443e8bf4c2",
+    "word_count": 25
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Charles A. SMITH-BEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Charles A. SMITH-BEY, petitioner.\nNo. 14-7454.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1013-02",
+  "first_page_order": 1013,
+  "last_page_order": 1013
+}

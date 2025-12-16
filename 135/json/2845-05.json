@@ -1,0 +1,62 @@
+{
+  "id": 12591484,
+  "name": "William POWELL, petitioner, v. Lynn COOPER, Warden.",
+  "name_abbreviation": "Powell v. Cooper",
+  "decision_date": "2015-06-15",
+  "docket_number": "No. 14\u20139545.",
+  "first_page": "2845",
+  "last_page": "2845",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2845"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 881"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 223,
+    "sha256": "62affac37dcef2cafc0e70bc062b30f93d8cd205a2b97a7717e14422a79330ca",
+    "simhash": "1:f41f56c47e8582c9",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William POWELL, petitioner,\nv.\nLynn COOPER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William POWELL, petitioner,\nv.\nLynn COOPER, Warden.\nNo. 14-9545.\nSupreme Court of the United States\nJune 15, 2015.\nOpinion"
+  },
+  "file_name": "2845-05",
+  "first_page_order": 2845,
+  "last_page_order": 2845
+}

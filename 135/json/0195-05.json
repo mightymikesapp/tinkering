@@ -1,0 +1,62 @@
+{
+  "id": 12589886,
+  "name": "Thomas Justin THOMAS, petitioner, v. TEXAS.",
+  "name_abbreviation": "Thomas v. Texas",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135091.",
+  "first_page": "195",
+  "last_page": "195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 195"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 196,
+    "sha256": "c94b1a7a8f19dede0cc24bc2e1d72bec8ab96b165f998dae5b314eea25076294",
+    "simhash": "1:59efa275faed85dd",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Justin THOMAS, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Thomas Justin THOMAS, petitioner,\nv.\nTEXAS.\nNo. 14-5091.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0195-05",
+  "first_page_order": 195,
+  "last_page_order": 195
+}

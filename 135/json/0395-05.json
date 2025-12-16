@@ -1,0 +1,62 @@
+{
+  "id": 12592676,
+  "name": "In re Morris WILLIS, petitioner.",
+  "name_abbreviation": "In re Willis",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u20136292.",
+  "first_page": "395",
+  "last_page": "395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 395"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 147,
+    "sha256": "4b2edd4132a2f90d87f1c0256593addbb21478a4ec5040a13897ff0c47f1786a",
+    "simhash": "1:49cf444a3b1f415b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Morris WILLIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Morris WILLIS, petitioner.\nNo. 14-6292.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0395-05",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

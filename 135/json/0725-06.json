@@ -1,0 +1,62 @@
+{
+  "id": 12593813,
+  "name": "John S. GARIBAY, petitioner, v. Audrey KING.",
+  "name_abbreviation": "Garibay v. King",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14\u20136619.",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 725"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 453"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 215,
+    "sha256": "29b26b1e8c64aa888d6dbd5c4ff74b1d94c6b309ef71eb99fcc54291bd5ab7db",
+    "simhash": "1:ebad56c83d4da783",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John S. GARIBAY, petitioner,\nv.\nAudrey KING."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John S. GARIBAY, petitioner,\nv.\nAudrey KING.\nNo. 14-6619.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0725-06",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

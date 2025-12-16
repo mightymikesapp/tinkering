@@ -1,0 +1,62 @@
+{
+  "id": 12593392,
+  "name": "Robert MOSER, Secretary of the Kansas Department of Health and Environment, et al., applicants, v. Kail MARIE, et al.",
+  "name_abbreviation": "Moser v. Marie",
+  "decision_date": "2014-11-12",
+  "docket_number": "No. 14A503.",
+  "first_page": "511",
+  "last_page": "511",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 511"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 405,
+    "sha256": "c0733175d370db68760a675d3b7c4b7fe50442df12936424c774501c3a164106",
+    "simhash": "1:0285dc02d7c107bc",
+    "word_count": 62
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert MOSER, Secretary of the Kansas Department of Health and Environment, et al., applicants,\nv.\nKail MARIE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Application for stay presented to Justice SOTOMAYOR and by her referred to the Court denied. Order heretofore entered by Justice SOTOMAYOR vacated.\nJustice SCALIAand Justice THOMASwould grant the application to stay.",
+        "type": "majority",
+        "author": "Justice SCALIAand Justice THOMASwould grant the application to stay."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert MOSER, Secretary of the Kansas Department of Health and Environment, et al., applicants,\nv.\nKail MARIE, et al.\nNo. 14A503.\nSupreme Court of the United States\nNov. 12, 2014.\nOpinion"
+  },
+  "file_name": "0511-02",
+  "first_page_order": 511,
+  "last_page_order": 511
+}

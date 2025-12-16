@@ -1,0 +1,62 @@
+{
+  "id": 12591696,
+  "name": "In re Francisco Javier BARAJAS, petitioner.",
+  "name_abbreviation": "In re Barajas",
+  "decision_date": "2015-06-22",
+  "docket_number": "No. 14\u20139972.",
+  "first_page": "2878",
+  "last_page": "2878",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2878"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 913"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 158,
+    "sha256": "d84f36c4e6a2a07ff23ea63c7f38d3410f0e136bf622aabf069609dc4d08a457",
+    "simhash": "1:48dd14c6b3c1648a",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Francisco Javier BARAJAS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Francisco Javier BARAJAS, petitioner.\nNo. 14-9972.\nSupreme Court of the United States\nJune 22, 2015.\nOpinion"
+  },
+  "file_name": "2878-06",
+  "first_page_order": 2878,
+  "last_page_order": 2878
+}

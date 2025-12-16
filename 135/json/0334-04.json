@@ -1,0 +1,62 @@
+{
+  "id": 12592314,
+  "name": "Larry KLAYMAN, petitioner, v. UNITED STATES DISTRICT COURT FOR the DISTRICT OF COLUMBIA.",
+  "name_abbreviation": "Klayman v. U.S. Dist. Court for the Dist. of Columbia",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u20131365.",
+  "first_page": "334",
+  "last_page": "334",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 334"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 35"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 274,
+    "sha256": "22b07f203c290e350d3cab312b7615e906c691e71f2a57e518dcbba0d8e1137e",
+    "simhash": "1:7dee92443a45872f",
+    "word_count": 44
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry KLAYMAN, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the DISTRICT OF COLUMBIA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Larry KLAYMAN, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the DISTRICT OF COLUMBIA.\nNo. 13-1365.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0334-04",
+  "first_page_order": 334,
+  "last_page_order": 334
+}

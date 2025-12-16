@@ -1,0 +1,62 @@
+{
+  "id": 12589437,
+  "name": "Michael RILEY, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Riley v. Massachusetts",
+  "decision_date": "2015-04-20",
+  "docket_number": "No. 14\u20138564.",
+  "first_page": "1858",
+  "last_page": "1858",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1858"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 737"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 195,
+    "sha256": "c3240008699bd16e18193f4b275ae594428744538445f369e98037a6a92dec3e",
+    "simhash": "1:e1aff2d42ccdd1a5",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael RILEY, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Appeals Court of Massachusetts denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael RILEY, petitioner,\nv.\nMASSACHUSETTS.\nNo. 14-8564.\nSupreme Court of the United States\nApril 20, 2015.\nOpinion"
+  },
+  "file_name": "1858-03",
+  "first_page_order": 1858,
+  "last_page_order": 1858
+}

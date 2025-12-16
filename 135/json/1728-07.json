@@ -1,0 +1,62 @@
+{
+  "id": 12589061,
+  "name": "Kenneth SMITH, petitioner, v. Burl CAIN, Warden.",
+  "name_abbreviation": "Smith v. Cain",
+  "decision_date": "2015-03-30",
+  "docket_number": "No. 14M99.",
+  "first_page": "1728",
+  "last_page": "1728",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1728"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 208,
+    "sha256": "f64884566df78ae20140529a0b79262c5266fd316466dc98f7e807cb8516554c",
+    "simhash": "1:994d5026c399d1bb",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth SMITH, petitioner,\nv.\nBurl CAIN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kenneth SMITH, petitioner,\nv.\nBurl CAIN, Warden.\nNo. 14M99.\nSupreme Court of the United States\nMarch 30, 2015.\nOpinion"
+  },
+  "file_name": "1728-07",
+  "first_page_order": 1728,
+  "last_page_order": 1728
+}

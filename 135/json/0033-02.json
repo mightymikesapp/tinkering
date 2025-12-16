@@ -1,0 +1,62 @@
+{
+  "id": 12592286,
+  "name": "Christopher D. SCHNEIDER, applicant, v. SUTTER AMADOR HOSPITAL, et al.",
+  "name_abbreviation": "Schneider v. Sutter Amador Hosp.",
+  "decision_date": "2014-08-29",
+  "docket_number": "No. 13A1264.",
+  "first_page": "33",
+  "last_page": "33",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 33"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 884"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 227,
+    "sha256": "0916dcfecd4e1d23714734a32656dd207456c36c6357101a55fbc1b73df3f538",
+    "simhash": "1:bbef1c1cb7c0b936",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher D. SCHNEIDER, applicant,\nv.\nSUTTER AMADOR HOSPITAL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Application for stay addressed to Justice GINSBURG and referred to the Court denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Christopher D. SCHNEIDER, applicant,\nv.\nSUTTER AMADOR HOSPITAL, et al.\nNo. 13A1264.\nSupreme Court of the United States\nAug. 29, 2014.\nOpinion"
+  },
+  "file_name": "0033-02",
+  "first_page_order": 33,
+  "last_page_order": 33
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12592677,
+  "name": "Andre R. SCOTT, petitioner, v. Gary SWARTHOUT, Warden.",
+  "name_abbreviation": "Scott v. Swarthout",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14M34.",
+  "first_page": "395",
+  "last_page": "395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 395"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 247"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 213,
+    "sha256": "3a6ef80fcd8382aa2d7b22184cabd0a63895652828c8bffa0d38b8570ced15c6",
+    "simhash": "1:690f420657d1f9bd",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andre R. SCOTT, petitioner,\nv.\nGary SWARTHOUT, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Andre R. SCOTT, petitioner,\nv.\nGary SWARTHOUT, Warden.\nNo. 14M34.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0395-06",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

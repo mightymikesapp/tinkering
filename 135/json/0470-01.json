@@ -1,0 +1,62 @@
+{
+  "id": 12593122,
+  "name": "In re Victor J. BUENCAMINO, petitioner.",
+  "name_abbreviation": "In re Buencamino",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u20136567.",
+  "first_page": "470",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 470"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 353"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 153,
+    "sha256": "3bfd43c2411ef2c9902670601749515d688e8c43079556b3eeb328b9da44485a",
+    "simhash": "1:484b10442248f458",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Victor J. BUENCAMINO, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Victor J. BUENCAMINO, petitioner.\nNo. 14-6567.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0470-01",
+  "first_page_order": 470,
+  "last_page_order": 470
+}

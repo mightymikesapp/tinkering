@@ -1,0 +1,62 @@
+{
+  "id": 12590201,
+  "name": "James O'CALLAGHAN, petitioner, v. NEW YORK STOCK EXCHANGE, et al.",
+  "name_abbreviation": "O'Callaghan v. Exchange",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u201345.",
+  "first_page": "216",
+  "last_page": "216",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 216"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 235,
+    "sha256": "29b6a433125879a6b17dfae147eec242daa8df7a7056933526287df4e0acee00",
+    "simhash": "1:72af92d47c44058a",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James O'CALLAGHAN, petitioner,\nv.\nNEW YORK STOCK EXCHANGE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "James O'CALLAGHAN, petitioner,\nv.\nNEW YORK STOCK EXCHANGE, et al.\nNo. 14-45.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0216-01",
+  "first_page_order": 216,
+  "last_page_order": 216
+}

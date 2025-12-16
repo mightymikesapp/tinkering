@@ -1,0 +1,62 @@
+{
+  "id": 12589765,
+  "name": "Bob Jay COLE, petitioner, v. Robert TOOLE, Warden.",
+  "name_abbreviation": "Cole v. Toole",
+  "decision_date": "2015-04-27",
+  "docket_number": "No. 14\u20138662.",
+  "first_page": "1905",
+  "last_page": "1905",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1905"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 773"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 226,
+    "sha256": "7881b3121e11a9037a2a6a86b3dc3ed02d67bf9be2ee282595dc34d7aa533b4b",
+    "simhash": "1:73bfe6c4270901d3",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bob Jay COLE, petitioner,\nv.\nRobert TOOLE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Bob Jay COLE, petitioner,\nv.\nRobert TOOLE, Warden.\nNo. 14-8662.\nSupreme Court of the United States\nApril 27, 2015.\nOpinion"
+  },
+  "file_name": "1905-02",
+  "first_page_order": 1905,
+  "last_page_order": 1905
+}

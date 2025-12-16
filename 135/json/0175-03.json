@@ -1,0 +1,62 @@
+{
+  "id": 12589201,
+  "name": "Elias Halim EID, et ux., petitioners, v. John THOMPSON, et al.",
+  "name_abbreviation": "Eid v. Thompson",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u20131564.",
+  "first_page": "175",
+  "last_page": "175",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 175"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 51"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 233,
+    "sha256": "34cc7a60396148b37ec0fbcaedc5b2df546813b86c49cd5f21314ebd9eaf2110",
+    "simhash": "1:62add25c3e45a7ec",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elias Halim EID, et ux., petitioners,\nv.\nJohn THOMPSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Elias Halim EID, et ux., petitioners,\nv.\nJohn THOMPSON, et al.\nNo. 13-1564.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0175-03",
+  "first_page_order": 175,
+  "last_page_order": 175
+}

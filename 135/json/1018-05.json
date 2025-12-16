@@ -1,0 +1,62 @@
+{
+  "id": 12586789,
+  "name": "Gene Leonard SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20137549.",
+  "first_page": "1018",
+  "last_page": "1018",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1018"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 886"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 222,
+    "sha256": "c0a3be5d7add5e600de1d07f961056c9efebb66a4afb0c36bacae993c40839f8",
+    "simhash": "1:fdade444250f07a0",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gene Leonard SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gene Leonard SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 14-7549.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1018-05",
+  "first_page_order": 1018,
+  "last_page_order": 1018
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12586869,
+  "name": "Cortez WILLIAMS, petitioner, v. TEXAS.",
+  "name_abbreviation": "Williams v. Texas",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310386.",
+  "first_page": "103",
+  "last_page": "103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 103"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 83"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 200,
+    "sha256": "c21e4bbd60bcc64bc97d55b9e0b7e42f20bf7224fc0750f7acf364e9ee41ec53",
+    "simhash": "1:d9ef4657b8c98dfc",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cortez WILLIAMS, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeals of Texas, Third District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Cortez WILLIAMS, petitioner,\nv.\nTEXAS.\nNo. 13-10386.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0103-06",
+  "first_page_order": 103,
+  "last_page_order": 103
+}

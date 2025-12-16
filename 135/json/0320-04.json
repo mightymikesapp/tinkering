@@ -1,0 +1,62 @@
+{
+  "id": 12592233,
+  "name": "Kevin PHELPS, petitioner, v. Rick HILL, Warden.",
+  "name_abbreviation": "Phelps v. Hill",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14M20.",
+  "first_page": "320",
+  "last_page": "320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 320"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 16"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 205,
+    "sha256": "65fb8d6aa3ebfa07261414979d2e7f3b5bbcff65758daa140f64ec3fa53bc75a",
+    "simhash": "1:59c75026db89d598",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin PHELPS, petitioner,\nv.\nRick HILL, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kevin PHELPS, petitioner,\nv.\nRick HILL, Warden.\nNo. 14M20.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0320-04",
+  "first_page_order": 320,
+  "last_page_order": 320
+}

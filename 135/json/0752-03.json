@@ -1,0 +1,62 @@
+{
+  "id": 12594000,
+  "name": "COMMIL USA, LLC, petitioner, v. CISCO SYSTEMS, INC.",
+  "name_abbreviation": "Commil United States, LLC v. Cisco Sys., Inc.",
+  "decision_date": "2014-12-05",
+  "docket_number": "No. 13\u2013896.",
+  "first_page": "752",
+  "last_page": "752",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 752"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 474"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 350,
+    "sha256": "c8ec90a3f279c6ab1b1d15cbe6e8f9570d276af68c21b2e1be987b547ca60e6a",
+    "simhash": "1:d99fa6803f061646",
+    "word_count": 57
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMIL USA, LLC, petitioner,\nv.\nCISCO SYSTEMS, INC."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit granted limited to Question 1 presented by the Petition.\nJustice BREYERtook no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice BREYERtook no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COMMIL USA, LLC, petitioner,\nv.\nCISCO SYSTEMS, INC.\nNo. 13-896.\nSupreme Court of the United States\nDec. 5, 2014.\nOpinion"
+  },
+  "file_name": "0752-03",
+  "first_page_order": 752,
+  "last_page_order": 752
+}

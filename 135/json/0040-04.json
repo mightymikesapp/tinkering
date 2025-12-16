@@ -1,0 +1,62 @@
+{
+  "id": 12592703,
+  "name": "In the Matter of DISCIPLINE OF William Stephen MANNEAR.",
+  "name_abbreviation": "In re Mannear",
+  "decision_date": "2014-08-29",
+  "docket_number": "No. D\u20132811.",
+  "first_page": "40",
+  "last_page": "40",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 40"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 891"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 379,
+    "sha256": "456438f4275f2c6339faf64165568f739e6e20ec3f12f0368752cd5ab8f64a7a",
+    "simhash": "1:7baa793ebfde37ee",
+    "word_count": 66
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF William Stephen MANNEAR."
+    ],
+    "opinions": [
+      {
+        "text": "William Stephen Mannear, of Baton Rouge, Louisiana, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF William Stephen MANNEAR.\nNo. D-2811.\nSupreme Court of the United States\nAug. 29, 2014.\nOpinion"
+  },
+  "file_name": "0040-04",
+  "first_page_order": 40,
+  "last_page_order": 40
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12594270,
+  "name": "Nancy J. PINNO, petitioner, v. WISCONSIN.",
+  "name_abbreviation": "Pinno v. Wisconsin",
+  "decision_date": "2014-12-15",
+  "docket_number": "No. 14\u20136289.",
+  "first_page": "870",
+  "last_page": "870",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 870"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 706"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 187,
+    "sha256": "fd74e1d254d80b861ea7415e4db40562ead0fca7d0ede0035a58d5faf3f21c08",
+    "simhash": "1:c22b1454389c3782",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nancy J. PINNO, petitioner,\nv.\nWISCONSIN."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Wisconsin denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Nancy J. PINNO, petitioner,\nv.\nWISCONSIN.\nNo. 14-6289.\nSupreme Court of the United States\nDec. 15, 2014.\nOpinion"
+  },
+  "file_name": "0870-04",
+  "first_page_order": 870,
+  "last_page_order": 870
+}

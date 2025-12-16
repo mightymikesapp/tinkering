@@ -1,0 +1,62 @@
+{
+  "id": 12591115,
+  "name": "In re Gary David GALLARDO, petitioner.",
+  "name_abbreviation": "In re Gallardo",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135562.",
+  "first_page": "266",
+  "last_page": "266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 266"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 147,
+    "sha256": "39775f40ce24eea24ed4909ebe0743f11114a28b4f986091b75a8dc7279f2714",
+    "simhash": "1:da2f0254bcc5445b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gary David GALLARDO, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Gary David GALLARDO, petitioner.\nNo. 14-5562.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0266-06",
+  "first_page_order": 266,
+  "last_page_order": 266
+}

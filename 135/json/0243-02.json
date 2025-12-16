@@ -1,0 +1,62 @@
+{
+  "id": 12590943,
+  "name": "In re Orville WYNTER, petitioner.",
+  "name_abbreviation": "In re Wynter",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135402.",
+  "first_page": "243",
+  "last_page": "243",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 243"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 241"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 231,
+    "sha256": "d429e013f22854abc672116afa1f8bf89b602b2ef7c9eea2db55ba4c3f9ee348",
+    "simhash": "1:caa330568073a7da",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Orville WYNTER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of mandamus dismissed. See Rule 39.8.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Orville WYNTER, petitioner.\nNo. 14-5402.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0243-02",
+  "first_page_order": 243,
+  "last_page_order": 243
+}

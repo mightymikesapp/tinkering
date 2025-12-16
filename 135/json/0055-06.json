@@ -1,0 +1,62 @@
+{
+  "id": 12593424,
+  "name": "F.H.-T., petitioner, v. Eric H. HOLDER, Jr., Attorney General.",
+  "name_abbreviation": "F.h.-T. v. Holder",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u20131261.",
+  "first_page": "55",
+  "last_page": "55",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 55"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 31"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 235,
+    "sha256": "d103bd88ce1499b52a363927ed41f01da76ab299981a5d250ab0b5cf76259bd6",
+    "simhash": "1:53ee72ed9dc505b1",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "F.H.-T., petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "F.H.-T., petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General.\nNo. 13-1261.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0055-06",
+  "first_page_order": 55,
+  "last_page_order": 55
+}

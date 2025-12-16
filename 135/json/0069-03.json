@@ -1,0 +1,62 @@
+{
+  "id": 12593600,
+  "name": "James O'NEAL, petitioner, v. Margaret BAGLEY, Warden.",
+  "name_abbreviation": "O'Neal v. Bagley",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310044.",
+  "first_page": "69",
+  "last_page": "69",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 69"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 63"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 225,
+    "sha256": "43ec9948a720aeb30b9d83330df383c033d2f0449e6f763b5db105f6f9cdf675",
+    "simhash": "1:62ed1254be2596a1",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James O'NEAL, petitioner,\nv.\nMargaret BAGLEY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "James O'NEAL, petitioner,\nv.\nMargaret BAGLEY, Warden.\nNo. 13-10044.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0069-03",
+  "first_page_order": 69,
+  "last_page_order": 69
+}

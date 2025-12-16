@@ -1,0 +1,62 @@
+{
+  "id": 12592381,
+  "name": "In the Matter of DISBARMENT OF Chester W. NOSAL.",
+  "name_abbreviation": "In re Nosal",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. D\u20132777.",
+  "first_page": "344",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 344"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "50bd1d30c0e90deea0eeb59fed28e0a79b6cac962db41c279b9b07837108e313",
+    "simhash": "1:f2e4f414f66475e5",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Chester W. NOSAL."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Chester W. NOSAL.\nNo. D-2777.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0344-01",
+  "first_page_order": 344,
+  "last_page_order": 344
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12591190,
+  "name": "Steven WASHINGTON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Washington v. United States",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135654.",
+  "first_page": "277",
+  "last_page": "277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 277"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 219,
+    "sha256": "8630d029cff4bb6a0bb7a144b769aaac3ef361351776ffbfa7a80b4f6d5e2394",
+    "simhash": "1:79ede244ba044699",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven WASHINGTON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Steven WASHINGTON, petitioner,\nv.\nUNITED STATES.\nNo. 14-5654.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0277-05",
+  "first_page_order": 277,
+  "last_page_order": 277
+}

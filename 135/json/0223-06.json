@@ -1,0 +1,62 @@
+{
+  "id": 12590258,
+  "name": "MINIFRAME LTD., petitioner, v. MICROSOFT CORPORATION.",
+  "name_abbreviation": "Miniframe Ltd. v. Microsoft Corp.",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u201360.",
+  "first_page": "223",
+  "last_page": "224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 223"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 233"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 305,
+    "sha256": "60446707fc20afcd7dfbf521973d3cedca05d4efd4f402fb2d0798bde3e6768b",
+    "simhash": "1:f2b5d2c63d4447cd",
+    "word_count": 49
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MINIFRAME LTD., petitioner,\nv.\nMICROSOFT CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\nThe CHIEF JUSTICE took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MINIFRAME LTD., petitioner,\nv.\nMICROSOFT CORPORATION.\nNo. 14-60.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0223-06",
+  "first_page_order": 223,
+  "last_page_order": 224
+}

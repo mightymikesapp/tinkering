@@ -1,0 +1,92 @@
+{
+  "id": 12589077,
+  "name": "Chase Carme HUNTER, petitioner, v. UNITED STATES DISTRICT COURT FOR the DISTRICT OF WYOMING.",
+  "name_abbreviation": "Hunter v. U.S. Dist. Court for the Dist. of Wyo.",
+  "decision_date": "2015-03-30",
+  "docket_number": "No. 14\u20138130.",
+  "first_page": "1730",
+  "last_page": "1731",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1730"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 82,
+    "char_count": 733,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26351845223408776
+    },
+    "sha256": "9116d70703862eef9d1adab92211b670061cb8ecbaeba0651470db22254c15ec",
+    "simhash": "1:796a65042525d60b",
+    "word_count": 119
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chase Carme HUNTER, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the DISTRICT OF WYOMING."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals,506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992)(per curiam).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Chase Carme HUNTER, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the DISTRICT OF WYOMING.\nNo. 14-8130.\nSupreme Court of the United States\nMarch 30, 2015.\nOpinion"
+  },
+  "file_name": "1730-04",
+  "first_page_order": 1730,
+  "last_page_order": 1731
+}

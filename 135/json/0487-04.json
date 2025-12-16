@@ -1,0 +1,62 @@
+{
+  "id": 12593230,
+  "name": "Victor LIRA, petitioner, v. Charles L. RYAN, Director, Arizona Department of Corrections, et al.",
+  "name_abbreviation": "Lira v. Ryan",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u20136411.",
+  "first_page": "487",
+  "last_page": "487",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 487"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 368"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 268,
+    "sha256": "b1240fd05db8b057034bbdc6f13620536a47f3df02900ff4bd03ac7c8f5459be",
+    "simhash": "1:c23d128cab811002",
+    "word_count": 43
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Victor LIRA, petitioner,\nv.\nCharles L. RYAN, Director, Arizona Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Victor LIRA, petitioner,\nv.\nCharles L. RYAN, Director, Arizona Department of Corrections, et al.\nNo. 14-6411.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0487-04",
+  "first_page_order": 487,
+  "last_page_order": 487
+}

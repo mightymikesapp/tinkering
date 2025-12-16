@@ -1,0 +1,62 @@
+{
+  "id": 12590937,
+  "name": "Luis CORTINA, petitioner, v. TEXAS.",
+  "name_abbreviation": "Cortina v. Texas",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135395.",
+  "first_page": "242",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 242"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 196,
+    "sha256": "f94de39f2ed9717a75b05521887f61a34836fa6ecce049d2ff50491c9c0d4c0d",
+    "simhash": "1:e8bde6f2b4c705f8",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luis CORTINA, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeals of Texas, Sixth District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Luis CORTINA, petitioner,\nv.\nTEXAS.\nNo. 14-5395.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0242-02",
+  "first_page_order": 242,
+  "last_page_order": 242
+}

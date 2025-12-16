@@ -1,0 +1,92 @@
+{
+  "id": 12592946,
+  "name": "Justin M. CREDICO, petitioner, v. CEO SIEMENS (Nuclear Power Systems and Software), et al.",
+  "name_abbreviation": "Credico v. Siemens",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u20135939.",
+  "first_page": "443",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 443"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 323"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 89,
+    "char_count": 729,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635329318427445
+    },
+    "sha256": "921901537c2d395df5ad28471f1f96bf7bdc168b275cd6de7a6b5b9f5cd69df4",
+    "simhash": "1:e52265c42505d6ad",
+    "word_count": 119
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Justin M. CREDICO, petitioner,\nv.\nCEO SIEMENS (Nuclear Power Systems and Software), et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of certiorari to the United States Court of Appeals for the Third Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals,506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992)(per curiam).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Justin M. CREDICO, petitioner,\nv.\nCEO SIEMENS (Nuclear Power Systems and Software), et al.\nNo. 14-5939.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0443-04",
+  "first_page_order": 443,
+  "last_page_order": 443
+}

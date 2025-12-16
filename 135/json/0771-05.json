@@ -1,0 +1,62 @@
+{
+  "id": 12594129,
+  "name": "In re Harry Jamal WILLIAMS, petitioner.",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "2014-12-08",
+  "docket_number": "No. 14\u20137042.",
+  "first_page": "771",
+  "last_page": "771",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 771"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 642"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 153,
+    "sha256": "7c916c104bbc574bc4aa36b96a35696ae61407fb93edc8e7d9e243e4036f5a52",
+    "simhash": "1:7aed40c03f49611a",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Harry Jamal WILLIAMS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Harry Jamal WILLIAMS, petitioner.\nNo. 14-7042.\nSupreme Court of the United States\nDec. 8, 2014.\nOpinion"
+  },
+  "file_name": "0771-05",
+  "first_page_order": 771,
+  "last_page_order": 771
+}

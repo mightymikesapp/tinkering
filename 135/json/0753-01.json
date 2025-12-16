@@ -1,0 +1,62 @@
+{
+  "id": 12594004,
+  "name": "Ronald E. GILLETTE, petitioner, v. Keith FRANCOIS, Warden, et al.",
+  "name_abbreviation": "Gillette v. Francois",
+  "decision_date": "2014-12-08",
+  "docket_number": "No. 14\u20135006.",
+  "first_page": "753",
+  "last_page": "753",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 753"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 236,
+    "sha256": "a3f0b7f83bf257f2fbdd9fbec9e8b55f87e22d8ab4d485d10a776f5cd58c070c",
+    "simhash": "1:132d468c3b0517ae",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald E. GILLETTE, petitioner,\nv.\nKeith FRANCOIS, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ronald E. GILLETTE, petitioner,\nv.\nKeith FRANCOIS, Warden, et al.\nNo. 14-5006.\nSupreme Court of the United States\nDec. 8, 2014.\nOpinion"
+  },
+  "file_name": "0753-01",
+  "first_page_order": 753,
+  "last_page_order": 753
+}

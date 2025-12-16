@@ -1,0 +1,62 @@
+{
+  "id": 12592408,
+  "name": "Jesse DUPRIS, et al., petitioners, v. Perry PROCTOR, et al.",
+  "name_abbreviation": "Dupris v. Proctor",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 13\u20131465.",
+  "first_page": "356",
+  "last_page": "356",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 356"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 231,
+    "sha256": "427f3129f1eeeb4228668b6d7564a8101b871bcc317e30b90dc2b81709bf5df5",
+    "simhash": "1:c38d700c2b8541cb",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesse DUPRIS, et al., petitioners,\nv.\nPerry PROCTOR, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jesse DUPRIS, et al., petitioners,\nv.\nPerry PROCTOR, et al.\nNo. 13-1465.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0356-04",
+  "first_page_order": 356,
+  "last_page_order": 356
+}

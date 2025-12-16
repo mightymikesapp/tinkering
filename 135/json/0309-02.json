@@ -1,0 +1,62 @@
+{
+  "id": 12592153,
+  "name": "John BOWIE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bowie v. United States",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135960.",
+  "first_page": "309",
+  "last_page": "309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 309"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "002342bcb990571230cedd361a3d73c0125375f40628ef9e1f7ec375b46f4052",
+    "simhash": "1:f3acd244bf040699",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John BOWIE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John BOWIE, petitioner,\nv.\nUNITED STATES.\nNo. 14-5960.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0309-02",
+  "first_page_order": 309,
+  "last_page_order": 309
+}

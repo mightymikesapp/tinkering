@@ -1,0 +1,62 @@
+{
+  "id": 12593240,
+  "name": "William RIVERA, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Rivera v. Florida",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u20136482.",
+  "first_page": "489",
+  "last_page": "489",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 489"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 369"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 183,
+    "sha256": "edfca9f552a7a41f245961ef555c29daa0212fa762ec7f4b9dba1b2d3e27dd52",
+    "simhash": "1:f22814043aa54043",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William RIVERA, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Florida denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William RIVERA, petitioner,\nv.\nFLORIDA.\nNo. 14-6482.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0489-02",
+  "first_page_order": 489,
+  "last_page_order": 489
+}

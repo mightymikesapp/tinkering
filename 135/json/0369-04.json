@@ -1,0 +1,62 @@
+{
+  "id": 12592495,
+  "name": "In re Michael VOELTZ, petitioner.",
+  "name_abbreviation": "In re Voeltz",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u2013145.",
+  "first_page": "369",
+  "last_page": "369",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 369"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "235d388347bf73b4d3e3b250c702c6925881396cf183e0757df3d8b097660391",
+    "simhash": "1:e02f1254ad279159",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Michael VOELTZ, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Michael VOELTZ, petitioner.\nNo. 14-145.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0369-04",
+  "first_page_order": 369,
+  "last_page_order": 369
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12594355,
+  "name": "In re Sidney J. CLARK, Jr., petitioner.",
+  "name_abbreviation": "In re Clark",
+  "decision_date": "2014-12-15",
+  "docket_number": "No. 14\u20137228.",
+  "first_page": "883",
+  "last_page": "883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 883"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 713"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 154,
+    "sha256": "77f97168d37d4ef064a7909ba6bc86d66545a8deb40e5e0723feef4e2ad70f71",
+    "simhash": "1:b86f05f4ff4b151b",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Sidney J. CLARK, Jr., petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Sidney J. CLARK, Jr., petitioner.\nNo. 14-7228.\nSupreme Court of the United States\nDec. 15, 2014.\nOpinion"
+  },
+  "file_name": "0883-04",
+  "first_page_order": 883,
+  "last_page_order": 883
+}

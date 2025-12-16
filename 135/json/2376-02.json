@@ -1,0 +1,80 @@
+{
+  "id": 12590763,
+  "name": "UNITED STATES, ex rel. Stephen M. SHEA, petitioner, v. CELLCO PARTNERSHIP, dba Verizon Wireless, et al.",
+  "name_abbreviation": "United States ex rel. Shea v. P'ship",
+  "decision_date": "2015-06-01",
+  "docket_number": "No. 14\u2013238.",
+  "first_page": "2376",
+  "last_page": "2376",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2376"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 1970",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12589901
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/1970-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 598,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635201897871266
+    },
+    "sha256": "52a7bffeb65bfa41e692d9405e2cd0616084973e0ca6ce9ddb26180275ac84e4",
+    "simhash": "1:4a0ee244a302878d",
+    "word_count": 94
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, ex rel. Stephen M. SHEA, petitioner,\nv.\nCELLCO PARTNERSHIP, dba Verizon Wireless, et al."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the District of Columbia Circuit for further consideration in light of Kellogg Brown & Root Services, Inc. v. United States ex rel. Carter,575 U.S. ----, 135 S.Ct. 1970, --- L.Ed.2d ---- (2015).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "UNITED STATES, ex rel. Stephen M. SHEA, petitioner,\nv.\nCELLCO PARTNERSHIP, dba Verizon Wireless, et al.\nNo. 14-238.\nSupreme Court of the United States\nJune 1, 2015.\nOpinion"
+  },
+  "file_name": "2376-02",
+  "first_page_order": 2376,
+  "last_page_order": 2376
+}

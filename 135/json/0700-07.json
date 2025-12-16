@@ -1,0 +1,58 @@
+{
+  "id": 12593678,
+  "name": "In the Matter of DISBARMENT OF James P. DUFFY, III.",
+  "name_abbreviation": "In re Duffy",
+  "decision_date": "2014-11-17",
+  "docket_number": "No. D\u20132795.",
+  "first_page": "700",
+  "last_page": "700",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 700"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 148,
+    "sha256": "0817292ab8855345ce6444043715587ba64e7b44a287414a193119c0fc81f21c",
+    "simhash": "1:60235446a6c4f6e0",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF James P. DUFFY, III."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF James P. DUFFY, III.\nNo. D-2795.\nSupreme Court of the United States\nNov. 17, 2014.\nOpinion"
+  },
+  "file_name": "0700-07",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

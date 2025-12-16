@@ -1,0 +1,62 @@
+{
+  "id": 12587028,
+  "name": "Irving H. PICARD, petitioner, v. JPMORGAN CHASE & CO., et al.",
+  "name_abbreviation": "Picard v. Jpmorgan Chase & Co.",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u2013448 R46\u2013017.",
+  "first_page": "1151",
+  "last_page": "1151",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1151"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 760"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 350,
+    "sha256": "918140029bb6357f981cc11cb38adcf79aaa43b86767cf4af31804a11b8047d4",
+    "simhash": "1:7aed44c57fc4001b",
+    "word_count": 60
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Irving H. PICARD, petitioner,\nv.\nJPMORGAN CHASE & CO., et al."
+    ],
+    "opinions": [
+      {
+        "text": "The petition for writ of certiorari to the United States Court of Appeals for the Second Circuit only as to JPMorgan Chase & Co. respondents was dismissed today pursuant to Rule 46.1 of the Rules of this Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Irving H. PICARD, petitioner,\nv.\nJPMORGAN CHASE & CO., et al.\nNo. 13-448 R46-017.\nSupreme Court of the United States\nJune 9, 2014.\nOpinion"
+  },
+  "file_name": "1151-05",
+  "first_page_order": 1151,
+  "last_page_order": 1151
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12593293,
+  "name": "John DOE, a Juvenile, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "John Doe v. United States",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u20136595.",
+  "first_page": "496",
+  "last_page": "496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 496"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 373"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 223,
+    "sha256": "4b654f4afb6ce17b37814f3fc050865cd9344462ba0421f5d672bc6d12025f13",
+    "simhash": "1:da2d54c42904d00b",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DOE, a Juvenile, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John DOE, a Juvenile, petitioner,\nv.\nUNITED STATES.\nNo. 14-6595.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0496-06",
+  "first_page_order": 496,
+  "last_page_order": 496
+}

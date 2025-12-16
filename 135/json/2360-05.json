@@ -1,0 +1,62 @@
+{
+  "id": 12590664,
+  "name": "Ivan BARASHKOFF, petitioner, v. CITY OF SEATTLE, WASHINGTON, et al.",
+  "name_abbreviation": "Barashkoff v. City of Seattle",
+  "decision_date": "2015-05-26",
+  "docket_number": "No. 14\u20139031.",
+  "first_page": "2360",
+  "last_page": "2360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2360"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 238,
+    "sha256": "cd3f70a869fea09b9d9f12b867f024ffd15cf739e51523f68cedc5c21624d43b",
+    "simhash": "1:d2a5f21cbd8c152b",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ivan BARASHKOFF, petitioner,\nv.\nCITY OF SEATTLE, WASHINGTON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ivan BARASHKOFF, petitioner,\nv.\nCITY OF SEATTLE, WASHINGTON, et al.\nNo. 14-9031.\nSupreme Court of the United States\nMay 26, 2015.\nOpinion"
+  },
+  "file_name": "2360-05",
+  "first_page_order": 2360,
+  "last_page_order": 2360
+}

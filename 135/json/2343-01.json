@@ -1,0 +1,62 @@
+{
+  "id": 12590542,
+  "name": "In re Barry Wayne ADAMS, petitioner.",
+  "name_abbreviation": "In re Adams",
+  "decision_date": "2015-05-18",
+  "docket_number": "No. 14\u20138600.",
+  "first_page": "2343",
+  "last_page": "2343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2343"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 976"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 207,
+    "sha256": "383070571a67394b2fe1660dab09aad188d85cee9cd313d9aab689b7e1e8ed38",
+    "simhash": "1:70fd5a1a0e34ae7b",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Barry Wayne ADAMS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperisdenied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Barry Wayne ADAMS, petitioner.\nNo. 14-8600.\nSupreme Court of the United States\nMay 18, 2015.\nOpinion"
+  },
+  "file_name": "2343-01",
+  "first_page_order": 2343,
+  "last_page_order": 2343
+}

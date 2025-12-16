@@ -1,0 +1,62 @@
+{
+  "id": 12591194,
+  "name": "John MOORE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Moore v. United States",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135659.",
+  "first_page": "278",
+  "last_page": "278",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 278"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "9647b38d6ab1adf5474ae56953ba609e04b1b99f873a02a371a9ea7000c2ccfb",
+    "simhash": "1:5bede454be44c619",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John MOORE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John MOORE, petitioner,\nv.\nUNITED STATES.\nNo. 14-5659.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0278-03",
+  "first_page_order": 278,
+  "last_page_order": 278
+}

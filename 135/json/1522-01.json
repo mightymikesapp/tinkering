@@ -1,0 +1,62 @@
+{
+  "id": 12588321,
+  "name": "In re Thomas Edward NESBITT, petitioner.",
+  "name_abbreviation": "In re Nesbitt",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. 14\u20138351.",
+  "first_page": "1522",
+  "last_page": "1522",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1522"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 453"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 244,
+    "sha256": "c2449933ec47cbaf01b06df72d12d450cda45e615315a83005ab23f80b5aa6cf",
+    "simhash": "1:eaa37844177b075b",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Thomas Edward NESBITT, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of habeas corpus dismissed. See Rule 39.8.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Thomas Edward NESBITT, petitioner.\nNo. 14-8351.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1522-01",
+  "first_page_order": 1522,
+  "last_page_order": 1522
+}

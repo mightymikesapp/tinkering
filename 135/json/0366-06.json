@@ -1,0 +1,62 @@
+{
+  "id": 12592479,
+  "name": "Ernest SIMMONS, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Simmons v. Pennsylvania",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u20135657.",
+  "first_page": "366",
+  "last_page": "366",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 366"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 262"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "d8e1f319a702466954ab74beb8e59ecb8e8b080e620751e048e8fcf2e25eccd3",
+    "simhash": "1:eb8fd64c388f0491",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ernest SIMMONS, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Western District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ernest SIMMONS, petitioner,\nv.\nPENNSYLVANIA.\nNo. 14-5657.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0366-06",
+  "first_page_order": 366,
+  "last_page_order": 366
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12589223,
+  "name": "In re Joel D. MALLORY, Jr., petitioner.",
+  "name_abbreviation": "In re Mallory",
+  "decision_date": "2015-04-06",
+  "docket_number": "No. 14\u20138811.",
+  "first_page": "1753",
+  "last_page": "1753",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1753"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 715"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 154,
+    "sha256": "50bf10f3ee4580fd506f90e41446a538e40b194dd5763379728a52b6b55838a3",
+    "simhash": "1:58bf66466ae1e554",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Joel D. MALLORY, Jr., petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Joel D. MALLORY, Jr., petitioner.\nNo. 14-8811.\nSupreme Court of the United States\nApril 6, 2015.\nOpinion"
+  },
+  "file_name": "1753-01",
+  "first_page_order": 1753,
+  "last_page_order": 1753
+}

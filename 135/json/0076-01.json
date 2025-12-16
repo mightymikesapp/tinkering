@@ -1,0 +1,62 @@
+{
+  "id": 12594046,
+  "name": "R.R., petitioner, v. PENNSYLVANIA DEPARTMENT OF PUBLIC WELFARE.",
+  "name_abbreviation": "Railroad v. Pa. Dep't of Pub. Welfare",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310143.",
+  "first_page": "76",
+  "last_page": "76",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 76"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 67"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 217,
+    "sha256": "34a9c5a27db079f44c0f916ed917bf474a0593ff7b402ad79e6567a6568cdb9a",
+    "simhash": "1:ebefd254b8c38479",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R.R., petitioner,\nv.\nPENNSYLVANIA DEPARTMENT OF PUBLIC WELFARE."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Commonwealth Court of Pennsylvania denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "R.R., petitioner,\nv.\nPENNSYLVANIA DEPARTMENT OF PUBLIC WELFARE.\nNo. 13-10143.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0076-01",
+  "first_page_order": 76,
+  "last_page_order": 76
+}

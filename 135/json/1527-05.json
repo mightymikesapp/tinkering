@@ -1,0 +1,62 @@
+{
+  "id": 12588361,
+  "name": "In the Matter of DISBARMENT OF Isaac Mannes ZUCKER.",
+  "name_abbreviation": "In re Zucker",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. D\u20132805.",
+  "first_page": "1527",
+  "last_page": "1527",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1527"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 457"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 148,
+    "sha256": "723576e823f1c1142970c72dbf450bbc0aed08f021db11986f3640b4fdefbf76",
+    "simhash": "1:e862dc1cb7434171",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Isaac Mannes ZUCKER."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Isaac Mannes ZUCKER.\nNo. D-2805.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1527-05",
+  "first_page_order": 1527,
+  "last_page_order": 1527
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12589134,
+  "name": "Bobby FORD, petitioner, v. Michael LEMKE, Warden, et al.",
+  "name_abbreviation": "Ford v. Lemke",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310767.",
+  "first_page": "174",
+  "last_page": "174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 174"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 123"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 230,
+    "sha256": "4e0ba91d89b8fac617c388153f7b28bc7b92af473eebbc4d0e86c99bade95676",
+    "simhash": "1:d3adf6451a4584a8",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bobby FORD, petitioner,\nv.\nMichael LEMKE, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Bobby FORD, petitioner,\nv.\nMichael LEMKE, Warden, et al.\nNo. 13-10767.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0174-04",
+  "first_page_order": 174,
+  "last_page_order": 174
+}

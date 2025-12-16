@@ -1,0 +1,62 @@
+{
+  "id": 12589494,
+  "name": "John P. McCAFFERTY, et ux., petitioners, v. WELLS FARGO BANK, N.A.",
+  "name_abbreviation": "McCafferty v. Wells Fargo Bank, N.A.",
+  "decision_date": "2015-04-20",
+  "docket_number": "No. 14\u20138771.",
+  "first_page": "1866",
+  "last_page": "1866",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1866"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 742"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 212,
+    "sha256": "d38b489195946e8cd4c9cc6fe11c05794fd35e5628f95368eaf318327a4273a8",
+    "simhash": "1:50af351d62c470d1",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John P. McCAFFERTY, et ux., petitioners,\nv.\nWELLS FARGO BANK, N.A."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Delaware denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John P. McCAFFERTY, et ux., petitioners,\nv.\nWELLS FARGO BANK, N.A.\nNo. 14-8771.\nSupreme Court of the United States\nApril 20, 2015.\nOpinion"
+  },
+  "file_name": "1866-05",
+  "first_page_order": 1866,
+  "last_page_order": 1866
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12587504,
+  "name": "LAS VEGAS METROPOLITAN POLICE DEPARTMENT, et al., petitioners, v. Jesus Rodriguez SANDOVAL, et al.",
+  "name_abbreviation": "Las Vegas Metro. Police Dep't v. Sandoval",
+  "decision_date": "2015-02-23",
+  "docket_number": "No. 14\u2013528.",
+  "first_page": "1401",
+  "last_page": "1401",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1401"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 360"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 269,
+    "sha256": "75dbaafd28058b88fee5e724c02b693da0f7d628980a2c90a5538310b0d3c497",
+    "simhash": "1:c3aff20cbf0412c1",
+    "word_count": 43
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LAS VEGAS METROPOLITAN POLICE DEPARTMENT, et al., petitioners,\nv.\nJesus Rodriguez SANDOVAL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "LAS VEGAS METROPOLITAN POLICE DEPARTMENT, et al., petitioners,\nv.\nJesus Rodriguez SANDOVAL, et al.\nNo. 14-528.\nSupreme Court of the United States\nFeb. 23, 2015.\nOpinion"
+  },
+  "file_name": "1401-04",
+  "first_page_order": 1401,
+  "last_page_order": 1401
+}

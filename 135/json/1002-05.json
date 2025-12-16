@@ -1,0 +1,62 @@
+{
+  "id": 12586685,
+  "name": "In re Scott PANETTI, petitioner.",
+  "name_abbreviation": "In re Panetti",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20137313.",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1002"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 891"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 147,
+    "sha256": "ee8dd8a9c220f54c009171d9ad5bc85d9685972db8547b7e5052cd5742647f01",
+    "simhash": "1:41cb840626c96541",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Scott PANETTI, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Scott PANETTI, petitioner.\nNo. 14-7313.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1002-05",
+  "first_page_order": 1002,
+  "last_page_order": 1002
+}

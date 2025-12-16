@@ -1,0 +1,62 @@
+{
+  "id": 12594178,
+  "name": "In re Gary BAILEY, petitioner.",
+  "name_abbreviation": "In re Bailey",
+  "decision_date": "2014-12-08",
+  "docket_number": "No. 14\u20136079.",
+  "first_page": "779",
+  "last_page": "779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 779"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 647"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "2dbcad6db130b5a6a1b275768102ed34dad438eebb6e8a7a0005c4935e836f94",
+    "simhash": "1:432104c4290f740e",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gary BAILEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for rehearing denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Gary BAILEY, petitioner.\nNo. 14-6079.\nSupreme Court of the United States\nDec. 8, 2014.\nOpinion"
+  },
+  "file_name": "0779-04",
+  "first_page_order": 779,
+  "last_page_order": 779
+}

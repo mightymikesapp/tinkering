@@ -1,0 +1,62 @@
+{
+  "id": 12588111,
+  "name": "In the Matter of DISBARMENT OF Edward R. ADAMS.",
+  "name_abbreviation": "In re Adams",
+  "decision_date": "2015-02-23",
+  "docket_number": "No. D\u20132770.",
+  "first_page": "1491",
+  "last_page": "1491",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1491"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 428"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "fa108cdc968b1eb194e5f3b3b51ba3afac77dc1b0715ad09da32d037977a65fd",
+    "simhash": "1:68e7d54cbab715e5",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Edward R. ADAMS."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Edward R. ADAMS.\nNo. D-2770.\nSupreme Court of the United States\nFeb. 23, 2015.\nOpinion"
+  },
+  "file_name": "1491-06",
+  "first_page_order": 1491,
+  "last_page_order": 1491
+}

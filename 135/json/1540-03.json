@@ -1,0 +1,62 @@
+{
+  "id": 12588450,
+  "name": "Thomas DAVIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Davis v. United States",
+  "decision_date": "2015-03-09",
+  "docket_number": "No. 14\u20138353.",
+  "first_page": "1540",
+  "last_page": "1540",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1540"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "a28751339725f408c321f3508baecdf44b80c3f9a71f381a1d2d08131568d9f1",
+    "simhash": "1:70ad6646138cd005",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas DAVIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Thomas DAVIS, petitioner,\nv.\nUNITED STATES.\nNo. 14-8353.\nSupreme Court of the United States\nMarch 9, 2015.\nOpinion"
+  },
+  "file_name": "1540-03",
+  "first_page_order": 1540,
+  "last_page_order": 1540
+}

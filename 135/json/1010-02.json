@@ -1,0 +1,62 @@
+{
+  "id": 12586737,
+  "name": "In re Victor Hugo ESCOBAR, petitioner.",
+  "name_abbreviation": "In re Escobar",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20137415.",
+  "first_page": "1010",
+  "last_page": "1010",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1010"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 891"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 153,
+    "sha256": "fcf019005aacd30f8334768cd755993202ff588a12f93dcaf3f2a3bc1d5f4008",
+    "simhash": "1:48cb64441689e002",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Victor Hugo ESCOBAR, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Victor Hugo ESCOBAR, petitioner.\nNo. 14-7415.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1010-02",
+  "first_page_order": 1010,
+  "last_page_order": 1010
+}

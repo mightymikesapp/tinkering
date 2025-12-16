@@ -1,0 +1,62 @@
+{
+  "id": 12592991,
+  "name": "Leon TAYLOR, petitioner, v. MISSOURI.",
+  "name_abbreviation": "Taylor v. Missouri",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u20136036.",
+  "first_page": "450",
+  "last_page": "450",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 450"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 181,
+    "sha256": "9a268190b0ed9640fcb62a1c1e310fa51b1c9b0ba4835a182feeb666cf7210c7",
+    "simhash": "1:c02504043865a4b2",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leon TAYLOR, petitioner,\nv.\nMISSOURI."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Missouri denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Leon TAYLOR, petitioner,\nv.\nMISSOURI.\nNo. 14-6036.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0450-02",
+  "first_page_order": 450,
+  "last_page_order": 450
+}

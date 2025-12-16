@@ -1,0 +1,62 @@
+{
+  "id": 12593279,
+  "name": "Martin P. O'BRIEN, et ux., petitioners, v. WISCONSIN.",
+  "name_abbreviation": "O'Brien v. Wisconsin",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u2013409.",
+  "first_page": "494",
+  "last_page": "494",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 494"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 198,
+    "sha256": "83e93ba3c356847655e4131d8216a2073d514074dd5d186da3e0695d53e7a6b0",
+    "simhash": "1:523d1256b0a433eb",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Martin P. O'BRIEN, et ux., petitioners,\nv.\nWISCONSIN."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Wisconsin denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Martin P. O'BRIEN, et ux., petitioners,\nv.\nWISCONSIN.\nNo. 14-409.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0494-04",
+  "first_page_order": 494,
+  "last_page_order": 494
+}

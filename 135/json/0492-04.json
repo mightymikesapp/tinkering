@@ -1,0 +1,62 @@
+{
+  "id": 12593267,
+  "name": "Daniel K. GARCIA, petitioner, v. Kenneth ATKINSON, Warden.",
+  "name_abbreviation": "Garcia v. Atkinson",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u20136549.",
+  "first_page": "492",
+  "last_page": "492",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 492"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 371"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 233,
+    "sha256": "1c0c0572c201fe04f7bd3999f308785900de096bb6edab87d6d696650c54d3db",
+    "simhash": "1:f58d10443b4094cb",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel K. GARCIA, petitioner,\nv.\nKenneth ATKINSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Daniel K. GARCIA, petitioner,\nv.\nKenneth ATKINSON, Warden.\nNo. 14-6549.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0492-04",
+  "first_page_order": 492,
+  "last_page_order": 492
+}

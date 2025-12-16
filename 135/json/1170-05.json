@@ -1,0 +1,62 @@
+{
+  "id": 12587153,
+  "name": "Charles A. CARROLL, petitioner, v. A.W. HUNTER, Acting Warden.",
+  "name_abbreviation": "Carroll v. Hunter",
+  "decision_date": "2015-01-20",
+  "docket_number": "No. 14\u2013635.",
+  "first_page": "1170",
+  "last_page": "1170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1170"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 914"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 235,
+    "sha256": "7b332304c8fdd52d0b94220ff02d0e5e98225d7030cdbf89eba1fdd4299c91d0",
+    "simhash": "1:782d66c4a18286b8",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles A. CARROLL, petitioner,\nv.\nA.W. HUNTER, Acting Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Charles A. CARROLL, petitioner,\nv.\nA.W. HUNTER, Acting Warden.\nNo. 14-635.\nSupreme Court of the United States\nJan. 20, 2015.\nOpinion"
+  },
+  "file_name": "1170-05",
+  "first_page_order": 1170,
+  "last_page_order": 1170
+}

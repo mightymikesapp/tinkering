@@ -1,0 +1,62 @@
+{
+  "id": 12592566,
+  "name": "Raymond C. FOSS, petitioner, v. Mike MARTELL, Warden, et al.",
+  "name_abbreviation": "Foss v. Martell",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u20136006.",
+  "first_page": "379",
+  "last_page": "379",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 379"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 232,
+    "sha256": "3ca642ba88047870b370bede728acd64738102aa9906988b2a08d397c30bc1b3",
+    "simhash": "1:628df64c3b0517cf",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Raymond C. FOSS, petitioner,\nv.\nMike MARTELL, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Raymond C. FOSS, petitioner,\nv.\nMike MARTELL, Warden, et al.\nNo. 14-6006.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0379-04",
+  "first_page_order": 379,
+  "last_page_order": 379
+}

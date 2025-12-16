@@ -1,0 +1,62 @@
+{
+  "id": 12589770,
+  "name": "In re John BRADIN, petitioner.",
+  "name_abbreviation": "In re Bradin",
+  "decision_date": "2015-04-27",
+  "docket_number": "No. 14\u20138708.",
+  "first_page": "1906",
+  "last_page": "1906",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1906"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 779"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 230,
+    "sha256": "ac8ac53b6e0f560358ca2e68cb9bf94fb7cc0440df58dcc18276acd5b7c4b4a9",
+    "simhash": "1:6babc45086b9055b",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re John BRADIN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of mandamus dismissed. See Rule 39.8.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re John BRADIN, petitioner.\nNo. 14-8708.\nSupreme Court of the United States\nApril 27, 2015.\nOpinion"
+  },
+  "file_name": "1906-01",
+  "first_page_order": 1906,
+  "last_page_order": 1906
+}

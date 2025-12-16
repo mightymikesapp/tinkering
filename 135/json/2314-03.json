@@ -1,0 +1,62 @@
+{
+  "id": 12590349,
+  "name": "Aaron SMITH, petitioner, v. VIRGINIA.",
+  "name_abbreviation": "Smith v. Virginia",
+  "decision_date": "2015-05-18",
+  "docket_number": "No. 14\u20138753.",
+  "first_page": "2314",
+  "last_page": "2314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2314"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 983"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 181,
+    "sha256": "2798a63dc3fa78f6a47f8bcd88305a59e3e0dc47e5e3e79fe940ceafed3252fa",
+    "simhash": "1:78bd52042887a093",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aaron SMITH, petitioner,\nv.\nVIRGINIA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Virginia denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Aaron SMITH, petitioner,\nv.\nVIRGINIA.\nNo. 14-8753.\nSupreme Court of the United States\nMay 18, 2015.\nOpinion"
+  },
+  "file_name": "2314-03",
+  "first_page_order": 2314,
+  "last_page_order": 2314
+}

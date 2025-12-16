@@ -1,0 +1,956 @@
+{
+  "id": 12588777,
+  "name": "ONEOK, INC., et al., Petitioners v. LEARJET, INC., et al.",
+  "name_abbreviation": "Oneok, Inc. v. Learjet, Inc.",
+  "decision_date": "2015-04-21",
+  "docket_number": "No. 13\u2013271.",
+  "first_page": "1591",
+  "last_page": "1608",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1591"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 511"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "93 L.Ed. 1499",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1949,
+      "pin_cites": [
+        {
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "337 U.S. 498",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        572349
+      ],
+      "weight": 2,
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "513",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/337/0498-01"
+      ]
+    },
+    {
+      "cite": "425 U.S. 662",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6181256
+      ],
+      "weight": 5,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "669"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0662-01"
+      ]
+    },
+    {
+      "cite": "522 U.S. 3",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11470447
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/522/0003-01"
+      ]
+    },
+    {
+      "cite": "376 U.S. 205",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        379257
+      ],
+      "weight": 4,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "215-216"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/376/0205-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 953",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12862
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "966",
+          "parenthetical": "quoting FPC v. Southern Cal. Edison Co.,376 U.S. 205, 215-216, 84 S.Ct. 644, 11 L.Ed.2d 638 (1964)"
+        },
+        {
+          "parenthetical": "quoting FPC v. Southern Cal. Edison Co.,376 U.S. 205, 215-216, 84 S.Ct. 644, 11 L.Ed.2d 638 (1964)"
+        },
+        {
+          "parenthetical": "quoting FPC v. Southern Cal. Edison Co.,376 U.S. 205, 215-216, 84 S.Ct. 644, 11 L.Ed.2d 638 (1964)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0953-01"
+      ]
+    },
+    {
+      "cite": "426 U.S. 271",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175834
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "276-280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/426/0271-01"
+      ]
+    },
+    {
+      "cite": "324 U.S. 581",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6156134
+      ],
+      "weight": 4,
+      "year": 1945,
+      "pin_cites": [
+        {
+          "page": "602-603"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/324/0581-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 176",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6186809
+      ],
+      "weight": 4,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "185",
+          "parenthetical": "state law prohibiting producers from passing on production taxes preempted because it \"trespasse[s] upon FERC's authority\""
+        },
+        {
+          "parenthetical": "state law prohibiting producers from passing on production taxes preempted because it \"trespasse[s] upon FERC's authority\""
+        },
+        {
+          "parenthetical": "state law prohibiting producers from passing on production taxes preempted because it \"trespasse[s] upon FERC's authority\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0176-01"
+      ]
+    },
+    {
+      "cite": "317 U.S. 456",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        303844
+      ],
+      "weight": 7,
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "469"
+        },
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/317/0456-01"
+      ]
+    },
+    {
+      "cite": "132 S.Ct. 1261",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12187192
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1267"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/565/0625-01"
+      ]
+    },
+    {
+      "cite": "555 U.S. 555",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3679327
+      ],
+      "weight": 6,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "583",
+          "parenthetical": "THOMAS, J., concurring in judgment"
+        },
+        {
+          "parenthetical": "THOMAS, J., concurring in judgment"
+        },
+        {
+          "parenthetical": "THOMAS, J., concurring in judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/555/0555-01"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 1863",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697048
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1871-1873"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/0290-01"
+      ]
+    },
+    {
+      "cite": "406 U.S. 621",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172805
+      ],
+      "weight": 5,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "631"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0621-01"
+      ]
+    },
+    {
+      "cite": "450 U.S. 311",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6185199
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "318-319"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/450/0311-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 354",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1775193
+      ],
+      "weight": 9,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "373-377"
+        },
+        {
+          "page": "377"
+        },
+        {
+          "page": "374"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/0354-01"
+      ]
+    },
+    {
+      "cite": "313 U.S. 387",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140634
+      ],
+      "weight": 3,
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "404",
+          "parenthetical": "noting the States' \"long-recognized power to regulate combinations in restraint of trade\""
+        },
+        {
+          "parenthetical": "noting the States' \"long-recognized power to regulate combinations in restraint of trade\""
+        },
+        {
+          "parenthetical": "noting the States' \"long-recognized power to regulate combinations in restraint of trade\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/313/0387-01"
+      ]
+    },
+    {
+      "cite": "372 U.S. 84",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765351
+      ],
+      "weight": 24,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "85-86, n. 1"
+        },
+        {
+          "page": "91-92",
+          "parenthetical": "defining the pre-empted field in light of the \"objective[s]\" of the Act"
+        },
+        {
+          "parenthetical": "defining the pre-empted field in light of the \"objective[s]\" of the Act"
+        },
+        {
+          "parenthetical": "defining the pre-empted field in light of the \"objective[s]\" of the Act"
+        },
+        {
+          "page": "89",
+          "parenthetical": "state regulation of pipelines' gas purchases preempted because it \"invade[s] the exclusive jurisdiction which the Natural Gas Act has conferred upon the [Commission]\""
+        },
+        {
+          "parenthetical": "state regulation of pipelines' gas purchases preempted because it \"invade[s] the exclusive jurisdiction which the Natural Gas Act has conferred upon the [Commission]\""
+        },
+        {
+          "parenthetical": "state regulation of pipelines' gas purchases preempted because it \"invade[s] the exclusive jurisdiction which the Natural Gas Act has conferred upon the [Commission]\""
+        },
+        {
+          "page": "90"
+        },
+        {
+          "page": "93-94"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0084-01"
+      ]
+    },
+    {
+      "cite": "331 U.S. 682",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6158555
+      ],
+      "weight": 3,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "689-693"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/331/0682-01"
+      ]
+    },
+    {
+      "cite": "92 L.Ed. 128",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1947,
+      "opinion_index": 0
+    },
+    {
+      "cite": "332 U.S. 507",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        365124
+      ],
+      "weight": 5,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "517-518"
+        },
+        {
+          "page": "517-518"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/332/0507-01"
+      ]
+    },
+    {
+      "cite": "15 U.S.C. \u00a7\u00a7 717",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        },
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "308 S.W.3d 843",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7328185
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw3d/308/0843-01"
+      ]
+    },
+    {
+      "cite": "715 F.3d 716",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6047258
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "729-736"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/715/0716-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1407",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Kan. Stat. Ann. \u00a7 50-101",
+      "category": "laws:leg_statute",
+      "reporter": "Kan. Stat. Ann.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. \u00a7\u00a7 133.03",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Stat. 594",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 FERC \u00b6 61,343",
+      "category": "reporters:federal",
+      "reporter": "FERC",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "p. 62,303"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 FERC \u00b6 61,121",
+      "category": "reporters:federal",
+      "reporter": "FERC",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "pp. 61,407, 61,408"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Stat. 157",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "pin_cites": [
+        {
+          "parenthetical": "removing price controls on wellhead sales as of January 1993"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 U.S.C. \u00a7 3301",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq.",
+          "parenthetical": "phasing out regulation of wellhead prices charged by producers of natural gas"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Stat. 3409",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "320 U.S. 591",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6143691
+      ],
+      "weight": 4,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "630",
+          "parenthetical": "opinion of Jackson, J."
+        },
+        {
+          "parenthetical": "opinion of Jackson, J."
+        },
+        {
+          "parenthetical": "opinion of Jackson, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/320/0591-01"
+      ]
+    },
+    {
+      "cite": "463 U.S. 319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194743
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "328"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0319-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 493",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032518
+      ],
+      "weight": 15,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "507",
+          "parenthetical": "Section 1(b) of the Act \"expressly\" provides that \"States retain jurisdiction over intrastatetransportation, local distribution, and distribution facilities, and over 'the production or gathering of natural gas' \""
+        },
+        {
+          "parenthetical": "Section 1(b) of the Act \"expressly\" provides that \"States retain jurisdiction over intrastatetransportation, local distribution, and distribution facilities, and over 'the production or gathering of natural gas' \""
+        },
+        {
+          "parenthetical": "Section 1(b) of the Act \"expressly\" provides that \"States retain jurisdiction over intrastatetransportation, local distribution, and distribution facilities, and over 'the production or gathering of natural gas' \""
+        },
+        {
+          "page": "511"
+        },
+        {
+          "page": "514"
+        },
+        {
+          "page": "514"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0493-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed. 1035",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "weight": 2,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "parenthetical": "citing H.R.Rep. No. 709, 75th Cong., 1st Sess., 1-2 (1937); S.Rep. No. 1162, 75th Cong., 1st Sess., 1-2 (1937)"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "347 U.S. 672",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11302432
+      ],
+      "weight": 3,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "682-684, n. 13",
+          "parenthetical": "citing H.R.Rep. No. 709, 75th Cong., 1st Sess., 1-2 (1937); S.Rep. No. 1162, 75th Cong., 1st Sess., 1-2 (1937)"
+        },
+        {
+          "parenthetical": "citing H.R.Rep. No. 709, 75th Cong., 1st Sess., 1-2 (1937); S.Rep. No. 1162, 75th Cong., 1st Sess., 1-2 (1937)"
+        },
+        {
+          "parenthetical": "opinion of Jackson, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/347/0672-01"
+      ]
+    },
+    {
+      "cite": "52 Stat. 821",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "265 U.S. 298",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141175
+      ],
+      "weight": 3,
+      "year": 1924,
+      "pin_cites": [
+        {
+          "page": "307-308"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/265/0298-01"
+      ]
+    },
+    {
+      "cite": "273 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137597
+      ],
+      "weight": 3,
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "89-90"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/273/0083-01"
+      ]
+    },
+    {
+      "cite": "519 U.S. 278",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11595433
+      ],
+      "weight": 6,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "283"
+        },
+        {
+          "page": "284"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/0278-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 93",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        604867
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "100, 101"
+        },
+        {
+          "page": "101"
+        },
+        {
+          "parenthetical": "noting the States' \"long-recognized power to regulate combinations in restraint of trade\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0093-01"
+      ]
+    },
+    {
+      "cite": "132 S.Ct. 2492",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407266
+      ],
+      "weight": 2,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "2502",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/567/0387-01"
+      ]
+    },
+    {
+      "cite": "537 U.S. 51",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9190636
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "64"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/537/0051-01"
+      ]
+    },
+    {
+      "cite": "485 U.S. 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13729
+      ],
+      "weight": 19,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "305"
+        },
+        {
+          "page": "305"
+        },
+        {
+          "page": "306-309"
+        },
+        {
+          "page": "310, n. 13"
+        },
+        {
+          "page": "309",
+          "parenthetical": "state securities regulation directly affecting wholesale rates and gas transportation facilities preempted because it regulates \"matters that Congress intended FERC to regulate\""
+        },
+        {
+          "parenthetical": "state securities regulation directly affecting wholesale rates and gas transportation facilities preempted because it regulates \"matters that Congress intended FERC to regulate\""
+        },
+        {
+          "parenthetical": "state securities regulation directly affecting wholesale rates and gas transportation facilities preempted because it regulates \"matters that Congress intended FERC to regulate\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0293-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2092,
+    "char_count": 54176,
+    "pagerank": {
+      "raw": 1.692311260702311e-07,
+      "percentile": 0.699425333291632
+    },
+    "sha256": "40a856ae9cd49064a38bbea1abe828fd95f75e7a70bfd94cb731c1c78bd2dd62",
+    "simhash": "1:498baa734f66729a",
+    "word_count": 8382
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ONEOK, INC., et al., Petitioners\nv.\nLEARJET, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYERdelivered the opinion of the Court.\nIn this case, a group of manufacturers, hospitals, and other institutions that buy natural gas directly from interstate pipelines sued the pipelines, claiming that they engaged in behavior that violated state antitrust laws. The pipelines' behavior affected bothfederally regulated wholesale natural-gas prices andnonfederally regulated retailnatural-gas prices. The question is whether the federal Natural Gas Act pre-empts these lawsuits. We have said that, in passing the Act, \"Congress occupied the field of matters relating to wholesale sales and transportation of natural gas in interstate commerce.\" Schneidewind v. ANR Pipeline Co.,485 U.S. 293, 305, 108 S.Ct. 1145, 99 L.Ed.2d 316 (1988). Nevertheless, for the reasons given below, we conclude that the Act does not pre-empt the state-law antitrust suits at issue here.\nI\nA\nThe Supremacy Clause provides that \"the Laws of the United States\" (as well as treaties and the Constitution itself) \"shall be the supreme Law of the Land ... any Thing in the Constitution or Laws of any state to the Contrary notwithstanding.\" Art. VI, cl. 2. Congress may consequently pre-empt, i.e.,invalidate, a state law through federal legislation. It may do so through express language in a statute. But even where, as here, a statute does not refer expressly to pre-emption, Congress may implicitly pre-empt a state law, rule, or other state action. See Sprietsma v. Mercury Marine,537 U.S. 51, 64, 123 S.Ct. 518, 154 L.Ed.2d 466 (2002).\nIt may do so either through \"field\" pre-emption or \"conflict\" pre-emption. As to the former, Congress may have intended \"to foreclose any state regulation in the area,\" irrespective of whether state law is consistent or inconsistent with \"federal standards.\" Arizona v. United States,567 U.S. ----, ----, 132 S.Ct. 2492, 2502, 183 L.Ed.2d 351 (2012)(emphasis added). In such situations, Congress has forbidden the State to take action in the fieldthat the federal statute pre-empts.\nBy contrast, conflict pre-emption exists where \"compliance with both state and federal law is impossible,\" or where \"the state law 'stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.' \" California v. ARC America Corp.,490 U.S. 93, 100, 101, 109 S.Ct. 1661, 104 L.Ed.2d 86 (1989). In either situation, federal law must prevail.\nNo one here claims that any relevant federal statute expressly pre-empts state antitrust lawsuits. Nor have the parties argued at any length that these state suits conflict with federal law. Rather, the interstate pipeline companies (petitioners here) argue that Congress implicitly \" 'occupied the field of mattersrelating to wholesale sales and transportation of natural gas in interstate commerce.' \" Brief for Petitioners 18 (quoting Schneidewind, supra,at 305, 108 S.Ct. 1145(emphasis added)). And they contend that the state antitrust claims advanced by their direct-sales customers (respondents here) fall within that field. The United States, supporting the pipelines, argues similarly. See Brief for United States as Amicus Curiae15. Since the parties have argued this case almost exclusively in terms of field pre-emption, we consider only the field pre-emption question.\nB\n1\nFederal regulation of the natural-gas industry began at a time when the industry was divided into three segments. See 1 Regulation of the Natural Gas Industry \u00a7 1.01 (W. Mogel ed. 2008) (hereinafter Mogel); General Motors Corp. v. Tracy,519 U.S. 278, 283, 117 S.Ct. 811, 136 L.Ed.2d 761 (1997). First, natural-gas producers sunk wells in large oil and gas fields (such as the Permian Basin in Texas and New Mexico). They gathered the gas, brought it to transportation points, and left it to interstate gas pipelines to transport the gas to distant markets. Second, interstate pipelines shipped the gas from the field to cities and towns across the Nation. Third, local gas distributors bought the gas from the interstate pipelines and resold it to business and residential customers within their localities.\nOriginally, the States regulated all three segments of the industry. See 1 Mogel \u00a7 1.03. But in the early 20th century, this Court held that the Commerce Clause forbids the States to regulate the second part of the business-i.e.,the interstate shipment and sale of gas to local distributors for resale. See, e.g.,Public Util. Comm'n of R.I. v. Attleboro Steam & Elec. Co.,273 U.S. 83, 89-90, 47 S.Ct. 294, 71 L.Ed. 549 (1927);\nMissouri ex rel. Barrett v. Kansas Natural Gas Co.,265 U.S. 298, 307-308, 44 S.Ct. 544, 68 L.Ed. 1027 (1924). These holdings left a regulatory gap. Congress enacted the Natural Gas Act, 52 Stat. 821, to fill it. See Phillips Petroleum Co. v. Wisconsin,347 U.S. 672, 682-684, n. 13, 74 S.Ct. 794, 98 L.Ed. 1035 (1954)(citing H.R.Rep. No. 709, 75th Cong., 1st Sess., 1-2 (1937); S.Rep. No. 1162, 75th Cong., 1st Sess., 1-2 (1937)).\nThe Act, in \u00a7 5(a), gives rate-setting authority to the Federal Energy Regulatory Commission (FERC, formerly the Federal Power Commission (FPC)). That authority allows FERC to determine whether \"any rate, charge, or classification ... collected by any natural-gas company in connection with any transportation or sale of natural gas, subject to the jurisdiction of [FERC],\" or \"any rule, regulation, practice, or contract affecting suchrate, charge, or classification is unjust, unreasonable, unduly discriminatory, or preferential.\" 15 U.S.C. \u00a7 717d(a)(emphasis added). As the italicized words make clear, \u00a7 5(a) limits the scope of FERC's authority to activities \"in connection with any transportation or sale of natural gas, subject to the jurisdiction of the Commission.\" Ibid. (emphasis added). And the Act, in \u00a7 1(b), limits FERC's \"jurisdiction\" to (1) \"the transportation of natural gas in interstate commerce,\" (2) \"the sale in interstate commerce of natural gas for resale,\" and (3) \"natural-gas companies engaged in such transportation or sale.\" \u00a7 717(b). The Act leaves regulation of other portions of the industry-such as production, local distribution facilities, and direct sales-to the States. See Northwest Central Pipeline Corp. v. State Corporation Comm'n of Kan.,489 U.S. 493, 507, 109 S.Ct. 1262, 103 L.Ed.2d 509 (1989)(Section 1(b) of the Act \"expressly\" provides that \"States retain jurisdiction over intrastatetransportation, local distribution, and distribution facilities, and over 'the production or gathering of natural gas' \").\nTo simplify our discussion, we shall describe the firms that engage in interstate transportation as \"jurisdictional sellers\" or \"interstate pipelines\" (though various brokers and others may also fall within the Act's jurisdictional scope). Similarly, we shall refer to the sales over which FERC has jurisdiction as \"jurisdictional sales\" or \"wholesale sales.\"\n2\nUntil the 1970's, natural-gas regulation roughly tracked the industry model we described above. Interstate pipelines would typically buy gas from field producers and resell it to local distribution companies for resale. See Tracy, supra,at 283, 117 S.Ct. 811. FERC (or FPC), acting under the authority of the Natural Gas Act, would set interstate pipeline wholesale rates using classical \"cost-of-service\" ratemaking methods. See Public Serv. Comm'n of N.Y. v. Mid-Louisiana Gas Co.,463 U.S. 319, 328, 103 S.Ct. 3024, 77 L.Ed.2d 668 (1983). That is, FERC would determine a pipeline's revenue requirement by calculating the costs of providing its services, including operating and maintenance expenses, depreciation expenses, taxes, and a reasonable profit. See FERC, Cost-of-Service Rates Manual 6 (June 1999). FERC would then set wholesale rates at a level designed to meet the pipeline's revenue requirement.\nDeregulation of the natural-gas industry, however, brought about changes in FERC's approach. In the 1950's, this Court had held that the Natural Gas Act required regulation of prices at the interstate pipelines' buying end-i.e., the prices at which field producers sold natural gas to interstate pipelines. Phillips Petroleum Co., supra,at 682, 685, 74 S.Ct. 794. By the 1970's, many in Congress thought that such efforts to regulate field prices had jeopardized natural-gas supplies in an industry already dependent \"on the caprice of nature.\" FPC v. Hope Natural Gas Co.,320 U.S. 591, 630, 64 S.Ct. 281, 88 L.Ed. 333 (1944)(opinion of Jackson, J.); see id.,at 629, 64 S.Ct. 281(recognizing that \"the wealth of Midas and the wit of man cannot produce ... a natural gas field\"). Hoping to avoid future shortages, Congress enacted forms of field price deregulation designed to rely upon competition, rather than regulation, to keep field prices low. See, e.g.,Natural Gas Policy Act of 1978, 92 Stat. 3409, codified in part at 15 U.S.C. \u00a7 3301 et seq.(phasing out regulation of wellhead prices charged by producers of natural gas); Natural Gas Wellhead Decontrol Act of 1989, 103 Stat. 157 (removing price controls on wellhead sales as of January 1993).\nFERC promulgated new regulations designed to further this process of deregulation. See, e.g., Regulation of Natural Gas Pipelines after Partial Wellhead Decontrol, 50 Fed.Reg. 42408 (1985)(allowing \"open access\" to pipelines so that consumers could pay to ship their own gas). Most important here, FERC adopted an approach that relied on the competitive marketplace, rather than classical regulatory rate-setting, as the main mechanism for keeping wholesalenatural-gas rates at a reasonable level. Order No. 636, issued in 1992, allowed FERC to issue blanket certificates that permitted jurisdictional sellers (typically interstate pipelines) to charge market-based rates for gas, provided that FERC had first determined that the sellers lacked market power. See 57 Fed.Reg. 57957-57958 (1992); id.,at 13270.\nAfter the issuance of this order, FERC's oversight of the natural-gas market largely consisted of (1) ex ante examinations of jurisdictional sellers' market power, and (2) the availability of a complaint process under \u00a7 717d(a). See Brief for United States as Amicus Curiae4. The new system also led many large gas consumers-such as industrial and commercial users-to buy their own gas directly from gas producers, and to arrange (and often pay separately) for transportation from the field to the place of consumption. See Tracy,519 U.S., at 284, 117 S.Ct. 811. Insofar as interstate pipelines sold gas to such consumers, they sold it for direct consumption rather than resale.\n3\nThe free-market system for setting interstate pipeline rates turned out to be less than perfect. Interstate pipelines, distributing companies, and many of the customers who bought directly from the pipelines found that they had to rely on privately published price indices to determine appropriate prices for their natural-gas contracts. These indices listed the prices at which natural gas was being sold in different (presumably competitive) markets across the country. The information on which these indices were based was voluntarily reported by natural-gas traders.\nIn 2003, FERC found that the indices were inaccurate, in part because much of the information that natural-gas traders reported had been false. See FERC, Final Report on Price Manipulation in Western Markets (Mar. 2003), App. 88-89. FERC found that false reporting had involved \"inflating the volume of trades, omitting trades, and adjusting the price of trades.\" Id.,at 88. That is, sometimes those who reported information simply fabricated it. Other times, the information reported reflected \"wash trades,\" i.e.,\"prearranged pair[s] of trades of the same good between the same parties, involving no economic risk and no net change in beneficial ownership.\" Id.,at 215. FERC concluded that these \"efforts to manipulate price indices compiled by trade publications\" had helped raise \"to extraordinary levels\" the prices of both jurisdictional sales (that is, interstate pipeline sales for resale) and nonjurisdictional direct sales to ultimate consumers. Id.,at 86, 85.\nAfter issuing its final report on price manipulation in western markets, FERC issued a Code of Conduct. That code amended all blanket certificates to prohibit jurisdictional sellers \"from engaging in actions without a legitimate business purpose that manipulate or attempt to manipulate market conditions, including wash trades and collusion.\" 68 Fed.Reg. 66324 (2003). The code also required jurisdictional companies, when they provided information to natural-gas index publishers, to \"provide accurate and factual information, and not knowingly submit false or misleading information or omit material information to any such publisher.\"Id.,at 66337. At the same time, FERC issued a policy statement setting forth \"minimum standards for creation and publication of any energy price index,\" and \"for reporting transaction data to index developers.\" Price Discovery in Natural Gas and Elec. Markets,104 FERC \u00b6 61,121, pp. 61,407, 61,408 (2003). Finally, FERC, after finding that certain jurisdictional sellers had \"engaged in wash trading ... that resulted in the manipulation of [natural-gas] prices,\" terminated those sellers' blanket marketing certificates. Enron Power Marketing, Inc.,103 FERC \u00b6 61,343, p. 62,303 (2003).\nCongress also took steps to address these problems. In particular, it passed the Energy Policy Act of 2005, 119 Stat. 594, which gives FERC the authority to issue rules and regulations to prevent \"any manipulative or deceptive device or contrivance\" by \"any entity ... in connection with the purchase or sale of natural gas or the purchase or sale of transportation services subject to the jurisdiction of\" FERC, 15 U.S.C. \u00a7 717c-1.\nC\nWe now turn to the cases before us. Respondents, as we have said, bought large quantities of natural gas directly from interstate pipelines for their own consumption. They believe that they overpaid in these transactions due to the interstate pipelines' manipulation of the natural-gas indices. Based on this belief, they filed state-law antitrust suits against petitioners in state and federal courts. See App. 244-246 (alleging violations of Wis. Stat. \u00a7\u00a7 133.03, 133.14, 133.18); see also App. 430-433 (same); id.,at 519-521 (same); id.,at 362-364 (alleging violations of Kansas Restraint of Trade Act, Kan. Stat. Ann. \u00a7 50-101 et seq.); App. 417-419 (alleging violations of Missouri Antitrust Law, Mo.Rev.Stat. \u00a7\u00a7 416.011-416.161). The pipelines removed all the state cases to federal court, where they were consolidated and sent for pretrial proceedings to the Federal District Court for the District of Nevada. See 28 U.S.C. \u00a7 1407.\nThe pipelines then moved for summary judgment on the ground that the Natural Gas Act pre-empted respondents' state-law antitrust claims. The District Court granted their motion. It concluded that the pipelines were \"jurisdictional sellers,\" i.e.,\"natural gas companies engaged in\" the \"transportation of natural gas in interstate commerce.\" Order in No. 03-cv-1431 (D Nev., July 18, 2011), pp. 4, 11. And it held that respondents' claims, which were \"aimed at\" these sellers' \"alleged practices of false price reporting, wash trades, and anticompetitive collusive behavior\" were pre-empted because \"such practices,\" not only affected nonjurisdictional direct-sale prices but also \"directly affect[ed]\" jurisdictional (i.e.,wholesale) rates. Id.,at 36-37.\nThe Ninth Circuit reversed. It emphasized that the price-manipulation of which respondents complained affected not only jurisdictional (i.e.,wholesale) sales, but also nonjurisdictional (i.e.,retail) sales. The court construed the Natural Gas Act's pre-emptive scope narrowly in light of Congress' intent-manifested in \u00a7 1(b) of the Act-to preserve for the States the authority to regulate nonjurisdictional sales.And it held that the Act did not pre-empt state-law claims aimed at obtaining damages for excessively high retail natural-gas prices stemming from interstate pipelines' price manipulation, even if the manipulation raised wholesalerates as well. See In re Western States Wholesale Natural Gas Antitrust Litigation,715 F.3d 716, 729-736 (2013).\nThe pipelines sought certiorari. They asked us to resolve confusion in the lower courts as to whether the Natural Gas Act pre-empts retail customers' state antitrust law challenges to practices that also affect wholesale rates. Compare id.,at 729-736, with Leggett v. Duke Energy Corp.,308 S.W.3d 843 (Tenn.2010). We granted the petition.\nII\nPetitioners, supported by the United States, argue that their customers' state antitrust lawsuits are within the field that the Natural Gas Act pre-empts. See Brief for Petitioners 18 (citing Schneidewind,485 U.S., at 305, 108 S.Ct. 1145); Brief for United States as Amicus Curiae13 (same). They point out that respondents' antitrust claims target anticompetitive activities that affected wholesale (as well as retail) rates. See Brief for Petitioners 2. They add that the Natural Gas Act expressly grants FERC authority to keep wholesale rates at reasonable levels. See ibid. (citing 15 U.S.C. \u00a7\u00a7 717(b), 717d(a)). In exercising this authority, FERC has prohibited the very kind of anticompetitive conduct that the state actions attack. See Part I-B-3, supra.And, petitioners contend, letting these actions proceed will permit state antitrust courts to reach conclusions about that conduct that differ from those that FERC might reach or has already reached. Accordingly, petitioners argue, respondents' state-law antitrust suits fall within the pre-empted field.\nA\nPetitioners' arguments are forceful, but we cannot accept their conclusion. As we have repeatedly stressed, the Natural Gas Act \"was drawn with meticulous regard for the continued exercise of state power, not to handicap or dilute it in any way.\" Panhandle Eastern Pipe Line Co. v. Public Serv. Comm'n of Ind.,332 U.S. 507, 517-518, 68 S.Ct. 190, 92 L.Ed. 128 (1947); see also Northwest Central,489 U.S., at 511, 109 S.Ct. 1262(the \"legislative history of the [Act] is replete with assurances that the Act 'takes nothing from the State [regulatory] commissions' \" (quoting 81 Cong. Rec. 6721 (1937))). Accordingly, where (as here) a state law can be applied to nonjurisdictional as well as jurisdictional sales, we must proceed cautiously, finding pre-emption only where detailed examination convinces us that a matter falls within the pre-empted field as defined by our precedents. See Panhandle Eastern, supra,at 516-518, 68 S.Ct. 190; Interstate Natural Gas Co. v. FPC,331 U.S. 682, 689-693, 67 S.Ct. 1482, 91 L.Ed. 1742 (1947).\nThose precedents emphasize the importance of considering the targetat which the state law aimsin determining whether that law is pre-empted. For example, in Northern Natural Gas Co. v. State Corporation Comm'n of Kan.,372 U.S. 84, 83 S.Ct. 646, 9 L.Ed.2d 601 (1963), the Court said that it had \"consistently recognized\"\nthat the \"significant distinction\" for purposes of pre-emption in the natural-gas context is the distinction between \"measures aimed directly atinterstate purchasers and wholesales for resale, and those aimed at\" subjects left to the States to regulate. Id.,at 94, 83 S.Ct. 646(emphasis added). And, in Northwest Central,the Court found that the Natural Gas Act did not pre-empt a state regulation concerning the timing of gas production from a gas field within the State, even though the regulation might have affected the costs of and the prices of interstate wholesale sales, i.e.,jurisdictional sales. 489 U.S., at 514, 109 S.Ct. 1262. In reaching this conclusion, the Court explained that the state regulation aimed primarily at \"protect[ing] producers' ... rights-a matter firmly on the States' side of that dividing line.\" Ibid.The Court contrasted this state regulation with the state orders at issue in Northern Natural,which \" 'invalidly invade[d] the federal agency's exclusive domain' precisely because\" they were \" 'unmistakably and unambiguously directed at purchasers.' \" Id.,at 513, 109 S.Ct. 1262(quoting Northern Natural, supra,at 92, 83 S.Ct. 646; emphasis added). Here, too, the lawsuits are directed at practices affecting retailrates-which are \"firmly on the States' side of that dividing line.\"\nPetitioners argue that Schneidewindconstitutes contrary authority. In that case, the Court found pre-empted a state law that required public utilities, such as interstate pipelines crossing the State, to obtain state approval before issuing long-term securities. 485 U.S., at 306-309, 108 S.Ct. 1145. But the Court there thought that the State's securities regulation was aimed directly at interstate pipelines. It wrote that the state law was designed to keep \"a natural gas company from raising its equity levels above a certain point\" in order to keep the company's revenue requirement low, thereby ensuring lower wholesale rates. Id.,at 307-308, 108 S.Ct. 1145. Indeed, the Court expressly said that the state law was pre-empted because it was \"directed at ... the control of rates and facilities of natural gas companies,\" \"precisely the things over which FERC has comprehensive authority.\" Id.,at 308, 108 S.Ct. 1145(emphasis added).\nThe dissent rejects the notion that the proper test for purposes of pre-emption in the natural gas context is whether the challenged measures are \"aimed directly at interstate purchasers and wholesales for resale\" or not. Northern Natural, supra,at 94, 83 S.Ct. 646. It argues that this approach is \"unprecedented,\" and that the Court's focus should be on \"whatthe State seeks to regulate ..., not whythe State seeks to regulate it.\" Post, at 1606 (opinion of SCALIA, J.). But the \"target\" to which our cases refer must mean more than just the physical activity that a State regulates. After all, a single physical action, such as reporting a price to a specialized journal, could be the subject of many different laws-including tax laws, disclosure laws, and others. To repeat the point we made above, no one could claim that FERC's regulation of this physical activity for purposes of wholesale rates forecloses every other form of state regulation that affects those rates.\nIndeed, although the dissent argues that Schneidewindcreated a definitive test for pre-emption in the natural gas context that turns on whether \"the matter on which the State asserts the right to act is in any way regulated by the Federal Act,\" post, at 1604 (quoting 485 U.S., at 310, n. 13, 108 S.Ct. 1145), Schneidewindcould not mean this statement as an absolute test. It goes on to explain that the Natural Gas Act does not pre-empt \"traditional\" state regulation, such as state blue sky laws (which, of course, raise wholesale-as well as retail -investment costs). Id.,at 308, n. 11, 108 S.Ct. 1145.\nAntitrust laws, like blue sky laws, are not aimed at natural-gas companies in particular, but rather all businesses in the marketplace. See ibid.They are far broader in their application than, for example, the regulations at issue in Northern Natural,which applied only to entities buying gas from fields within the State. See 372 U.S., at 85-86, n. 1, 83 S.Ct. 646; contra, post, at 1605 - 1606 (stating that Northern Naturalconcerned \"background market conditions\"). This broad applicability of state antitrust law supports a finding of no pre-emption here.\nPetitioners and the dissent argue that there is, or should be, a clear division between areas of state and federal authority in natural-gas regulation. See Brief for Petitioners 18; post,at 1606. But that Platonic ideal does not describe the natural gas regulatory world. Suppose FERC, when setting wholesale rates in the former cost-of-service rate-making days, had denied cost recovery for pipelines' failure to recycle. Would that fact deny States the power to enact and apply recycling laws? These state laws might well raise pipelines' operating costs, and thus the costs of wholesale natural gas transportation. But in Northwest Centralwe said that \"[t]o find field pre-emption of [state] regulation merely because purchasers' costs and hence rates might be affected would be largely to ify ... \u00a7 1(b).\" 489 U.S., at 514, 109 S.Ct. 1262.\nThe dissent barely mentions the limitations on FERC's powers in \u00a7 1(b), but the enumeration of FERC's powers in \u00a7 5(a) is circumscribed by a reference back to the limitations in \u00a7 1(b). See post, at 1603 - 1605. As we explained above, see Part I-B-1, supra,those limits are key to understanding the careful balance between federal and state regulation that Congress struck when it passed the Natural Gas Act. That Act \"was drawn with meticulous regard for the continued exercise of state power, not to handicap or dilute it in any way.\" Panhandle Eastern,332 U.S., at 517-518, 68 S.Ct. 190. Contra, post,at 1607. States have a \"long history of\" providing \"common-law and statutory remedies against monopolies and unfair business practices.\" ARC America,490 U.S., at 101, 109 S.Ct. 1661; see also Watson v. Buck,313 U.S. 387, 404, 61 S.Ct. 962, 85 L.Ed. 1416 (1941)(noting the States' \"long-recognized power to regulate combinations in restraint of trade\"). Respondents' state-law antitrust suits relied on this well established state power.\nB\nPetitioners point to two other cases that they believe support their position. The first is Mississippi Power & Light Co. v. Mississippi ex rel. Moore,487 U.S. 354, 108 S.Ct. 2428, 101 L.Ed.2d 322 (1988). There, the Court held that the Federal Power Act-which gives FERC the authority to determine whether rates charged by public utilities in electric energy sales are \"just and reasonable,\" 16 U.S.C. \u00a7 824d(a)-pre-empted a state inquiry into the reasonableness of FERC-approved prices for the sale of nuclear power to wholesalers of electricity (which led to higher retail electricity rates). 487 U.S., at 373-377, 108 S.Ct. 2428. Petitioners argue that this case shows that state regulation of similar sales here-i.e.,by a pipeline to a direct consumer-must also be pre-empted. See Reply Brief 11-12. Mississippi Power,however, is best read as a conflict pre-emption case, not a field pre-emption case. See 487 U.S., at 377, 108 S.Ct. 2428(\"[A] state agency's 'efforts to regulate commerce must fall when they conflict with or interfere with federal authority over the same activity' \" (quoting Chicago & North Western Transp. Co. v. Kalo Brick & Tile Co.,450 U.S. 311, 318-319, 101 S.Ct. 1124, 67 L.Ed.2d 258 (1981))).\nRegardless, the state inquiry in Mississippi Powerwas pre-empted because it was directed at jurisdictional sales in a way that respondents' state antitrust lawsuits are not. Mississippi's inquiry into the reasonableness of FERC-approved purchases was effectively an attempt to \"regulate in areas where FERC has properly exercised its jurisdiction to determine just and reasonable wholesale rates.\" 487 U.S., at 374, 108 S.Ct. 2428. By contrast, respondents' state antitrust lawsuits do not seek to challenge the reasonableness of any rates expressly approved by FERC. Rather, they seek to challenge the background marketplace conditions that affected both jurisdictional and nonjurisdictional rates.\nPetitioners additionally point to FPC v. Louisiana Power & Light Co.,406 U.S. 621, 92 S.Ct. 1827, 32 L.Ed.2d 369 (1972). In that case, the Court held that federal law gave FPC the authority to allocate natural gas during shortages by ordering interstate pipelines to curtail gas deliveries to all customers, including retail customers.This latter fact, the pipelines argue, shows that FERC has authority to regulate index manipulation insofar as that manipulation affects retail (as well as wholesale) sales. Brief for Petitioners 26. Accordingly, they contend that state laws that aim at this same subject are pre-empted.\nThis argument, however, makes too much of too little. The Court's finding of pre-emption in Louisiana Powerrested on its belief that the state laws in question conflicted with federal law. The Court concluded that \"FPC has authority to effect orderly curtailment plans involving both direct sales and sales for resale,\" 406 U.S., at 631, 92 S.Ct. 1827because otherwise there would be \"unavoidable conflict between\" state regulation of direct sales and the \"uniform federal regulation\" that the Natural Gas Act foresees, id.,at 633-635, 92 S.Ct. 1827. Conflict pre-emption may, of course, invalidate a state law even though field pre-emption does not. Because petitioners have not argued this case as a conflict pre-emption case, Louisiana Powerdoes not offer them significant help.\nC\nTo the extent any conflicts arise between state antitrust law proceedings and the federal rate-setting process, the doctrine of conflict pre-emption should prove sufficient to address them. But as we have noted, see Part I-A, supra,the parties have not argued conflict pre-emption. See also, e.g., Tr. of Oral Arg. 24 (Solicitor General agrees that he has not \"analyzed this [case] under a conflict preemption regime\"). We consequently leave conflict pre-emption questions for the lower courts to resolve in the first instance.\nD\nWe note that petitioners and the Solicitor General have argued that we should defer to FERC's determination that field pre-emption bars the respondents' claims. See Brief for Petitioners 22 (citing Arlington v. FCC,569 U.S. ----, ---- - ----, 133 S.Ct. 1863, 1871-1873, --- L.Ed.2d ---- (2013)); Brief for United States as Amicus Curiae32 (same). But they have not pointed to a specific FERC determination that state antitrust claims fall within the field pre-empted by the Natural Gas Act. Rather, they point only to the fact that FERC has promulgated detailed rules governing manipulation of price indices. Because there is no determination by FERC that its regulation pre-empts the field into which respondents' state-law antitrust suits fall, we need not consider what legal effect such a determination might have. And we conclude that the detailed federal regulations here do not offset the other considerations that weigh against a finding of pre-emption in this context.\n* * *\nFor these reasons, the judgment of the Court of Appeals for the Ninth Circuit is affirmed.\nIt is so ordered.\nJustice THOMAS, concurring in part and concurring in the judgment.\nI agree with much of the majority's application of our precedents governing pre-emption under the Natural Gas Act. I write separately to reiterate my view that \"implied pre-emption doctrines that wander far from the statutory text are inconsistent with the Constitution.\" Wyeth v. Levine,555 U.S. 555, 583, 129 S.Ct. 1187, 173 L.Ed.2d 51 (2009)(THOMAS, J., concurring in judgment). The Supremacy Clause of our Constitution \"gives 'supreme' status only to those [federal laws] that are 'made in Pursuance' \" of it. Id.,at 585, 129 S.Ct. 1187 (quoting Art. VI, cl. 2). And to be \"made in Pursuance\" of the Constitution, a law must fall within one of Congress' enumerated powers and be promulgated in accordance with the lawmaking procedures set forth in that document. Id.,at 585-586, 129 S.Ct. 1187. \"The Supremacy Clause thus requires that pre-emptive effect be given only to those federal standards and policies that are set forth in, or necessarily follow from, the statutory text that was produced through the constitutionally required bicameral and presentment procedures.\" Id.,at 586, 129 S.Ct. 1187.\nIn light of this constitutional requirement, I have doubts about the legitimacy of this Court's precedents concerning the pre-emptive scope of the Natural Gas Act, see, e.g.,Northern Natural Gas Co. v. State Corporation Comm'n of Kan.,372 U.S. 84, 91-92, 83 S.Ct. 646, 9 L.Ed.2d 601 (1963)(defining the pre-empted field in light of the \"objective[s]\" of the Act). Neither party, however, has asked us to overrule these longstanding precedents or \"to overcome the presumption of stare decisisthat attaches to\" them. Kurns v. Railroad Friction Products Corp.,565 U.S. ----, ----, 132 S.Ct. 1261, 1267, --- L.Ed.2d ---- (2012). And even under these precedents, the challenged state antitrust laws fall outside the pre-empted field. Because the Court today avoids extending its earlier questionable precedents, I concur in its judgment and join all but Part I-A of its opinion.\nJustice SCALIA, with whom THE CHIEF JUSTICE joins, dissenting.\nThe Natural Gas Act divides responsibility over trade in natural gas between federal and state regulators. The Act and our cases interpreting it draw a firm line between national and local authority over this trade: If the Federal Government may regulate a subject, the States may not. Today the Court smudges this line. It holds that States may use their antitrust laws to regulate practices already regulated by the Federal Energy Regulatory Commission whenever \"other considerations ... weigh against a finding of pre-emption.\" Ante,at 1603. The Court's make-it-up-as-you-go-along approach to preemption has no basis in the Act, contradicts our cases, and will prove unworkable in practice.\nI\nTrade in natural gas consists of three parts. A drilling company collects gas from the earth; a pipeline company then carries the gas to its destination and sells it at wholesale to a local distributor; and the local distributor sells the gas at retail to industries and households. See ante,at 1595. The Natural Gas Act empowers the Commission to regulate the middle of this three-leg journey-interstate transportation and wholesale sales. 15 U.S.C. \u00a7 717 et seq.But it does not empower the Commission to regulate the opening and closing phases-production at one end, retail sales at the other-thus leaving those matters to the States. \u00a7 717(b). (Like the Court, I will for simplicity's sake call the sales controlled by the Commission wholesale sales, and the companies controlled by the Commission pipelines. See ante,at 1596.)\nOver 70 years ago, the Court concluded that the Act confers \"exclusive jurisdiction upon the federal regulatory agency.\" Public Util. Comm'n of Ohio v. United Fuel Gas Co.,317 U.S. 456, 469, 63 S.Ct. 369, 87 L.Ed. 396 (1943). The Court thought it \"clear\" that the Act contemplates \"a harmonious, dual system of regulation of the natural gas industry-federal and state regulatory bodies operating side by side, each active in its own sphere,\" \"without any confusion of functions.\" Id.,at 467, 63 S.Ct. 369. The Court drew this inference from the law's purpose and legislative history, though it could just as easily have relied on the law's terms and structure. The Act grants the Commission a wide range of powers over wholesale sales and transportation, but qualifies only some of these powers with reservations of state authority over the same subject. See \u00a7 717g(a) (concurrent authority over recordkeeping); \u00a7 717h(a) (concurrent authority over depreciation and amortization rates). Congress's decision to include express reservations of state power alongside these grants of authority, but to omit them alongside other grants of authority, suggests that the other grants are exclusive. Right or wrong, in any event, our inference of exclusivity is now settled beyond debate.\nUnited Fuelrejected a State's regulation of wholesale rates. Id.,at 468, 63 S.Ct. 369. But our later holdings establish that the Act makes exclusive the Commission's powers in general, not just its rate-setting power in particular. We have again and again set aside state laws-even those that do not purport to fix wholesale rates-for regulating a matter already subject to regulation by the Commission. See, e.g.,Northern Natural Gas Co. v. State Corporation Comm'n of Kan.,372 U.S. 84, 89, 83 S.Ct. 646, 9 L.Ed.2d 601 (1963)(state regulation of pipelines' gas purchases preempted because it \"invade[s] the exclusive jurisdiction which the Natural Gas Act has conferred upon the [Commission]\"); Exxon Corp. v. Eagerton,462 U.S. 176, 185, 103 S.Ct. 2296, 76 L.Ed.2d 497 (1983)(state law prohibiting producers from passing on production taxes preempted because it \"trespasse[s] upon FERC's authority\"); Schneidewind v. ANR Pipeline Co.,485 U.S. 293, 309, 108 S.Ct. 1145, 99 L.Ed.2d 316 (1988)(state securities regulation directly affecting wholesale rates and gas transportation facilities preempted because it regulates \"matters that Congress intended FERC to regulate\"). The test for preemption in this setting, the Court has confirmed, \" 'is whether the matter on which the State asserts the right to act is in any way regulated by the Federal Act.' \" Id.,at 310, n. 13, 108 S.Ct. 1145.\nStraightforward application of these precedents would make short work of the case at hand. The Natural Gas Act empowers the Commission to regulate \"practice[s] ... affecting [wholesale] rate[s].\" \u00a7 717d. Nothing in the Act suggests that the States share power to regulate these practices. The Commission has reasonably determined that this power allows it to regulate the behavior involved in this case, pipelines' use of sham trades and false reports to manipulate gas price indices. Because the Commission's exclusive authority extends to the conduct challenged here, state antitrust regulation of that conduct is preempted.\nII\nThe Court agrees that the Commission may regulate index manipulation, but upholds state antitrust regulation of this practice anyway on account of \"other considerations that weigh against a finding of pre-emption in this context.\"Ante,at 1603. That is an unprecedented decision. The Court does not identify a single case-not one-in which we have sustained state regulation of behavior already regulated by the Commission. The Court's justifications for its novel approach do not persuade.\nA\nThe Court begins by considering \"the targetat which the state law aims.\" Ante,at 1599. It reasons that because this case involves a practice that affects both wholesale and retail rates, the Act tolerates state regulation that takes aim at the practice's retail-stage effects. Ibid.\nThis analysis misunderstands how the Natural Gas Act divides responsibilities between national and local regulators. The Act does not give the Commission the power to aim at particular effects; it gives it the power to regulate particular activities. When the Commission regulates those activities, it may consider their effects on allparts of the gas trade, not just on wholesale sales. It may, for example, set wholesale rates with the aim of encouraging producers to conserve gas supplies-even though production is a state-regulated activity. See Colorado Interstate Gas Co. v. FPC,324 U.S. 581, 602-603, 65 S.Ct. 829, 89 L.Ed. 1206 (1945); id.,at 609-610, 65 S.Ct. 829(Jackson, J., concurring). Or it may regulate wholesale sales with an eye toward blunting the sales' anticompetitive effects in the retail market-even though retail prices are controlled by the States. See FPC v. Conway Corp.,426 U.S. 271, 276-280, 96 S.Ct. 1999, 48 L.Ed.2d 626 (1976). The Court's ad hoc partition of authority over index manipulation-leaving it to the Commission to control the practice's consequences for wholesale sales, but allowing the States to target its consequences for retail sales-thus clashes with the design of the Act.\nTo justify its fixation on aims, the Court stresses that this case involves regulation of \"background marketplace conditions\" rather than regulation of wholesale rates or sales themselves. Ante,at 1602. But the Natural Gas Act empowers the Commission to regulate wholesale rates and\"background\" practices affecting such rates. It grants both powers in the same clause: \"Whenever the Commission ... find[s] that a [wholesale] rate, charge, or classification ... [or] any rule, regulation, practice,or contract affecting such rate, charge, or classification is unjust [or] unreasonable, ... the Commission shall determine the just and reasonable rate, charge, classification, rule, regulation, practice,or contract to be thereafter observed.\" \u00a7 717d(a)(emphasis added). Nothing in this provision, and for that matter nothing in the Act, suggests that federal authority over practices is a second-class power, somehow less exclusive than the authority over rates.\nThe Court persists that the background conditions in this case affect bothwholesale and retail sales. Ante,at 1599. This observation adds atmosphere, but nothing more. The Court concedes that index manipulation's dual effect does not weaken the Commission's power to regulate it.\nAnte,at 1599. So too should the Court have seen that this simultaneous effect does not strengthen the claims of the States. It is not at all unusual for an activity controlled by the Commission to have effects in the States' field; production, wholesale, and retail are after all interdependent stages of a single trade. We have never suggested that the rules of field preemption change in such situations. For example, producers' ability to pass production taxes on to pipelines no doubt affects both producers and pipelines. Yet we had no trouble concluding that a state law restricting producers' ability to pass these taxes impermissibly attempted to manage \"a matter within the sphere of FERC's regulatory authority.\" Exxon, supra,at 185-186, 103 S.Ct. 2296.\nThe Court's approach makes a snarl of our precedents. In Northern Natural,the Court held that the Act preempts state regulations requiring pipelines to buy gas ratably from gas wells. 372 U.S., at 90, 83 S.Ct. 646. The regulations in that case shared each of the principal features emphasized by the Court today. They governed background market conditions, not wholesale prices. Id.,at 90-91, 83 S.Ct. 646. The background conditions in question, pipelines' purchases from gas wells, affected both the federal field of wholesale sales and the state field of gas production. Id.,at 92-93, 83 S.Ct. 646. And the regulations took aim at the purchases' effects on production; they sought to promote conservation of natural resources by limiting how much gas pipelines could take from each well. Id.,at 93, 83 S.Ct. 646. No matter; the Court still concluded that the regulations \"invade [d] the federal agency's exclusive domain.\" Id.,at 92, 83 S.Ct. 646. The factors that made no difference in Northern Naturalshould make no difference today.\nContrast Northern Naturalwith Northwest Central Pipeline Corp. v. State Corporation Comm'n of Kan.,489 U.S. 493, 109 S.Ct. 1262, 103 L.Ed.2d 509 (1989), which involved state regulations that restricted the times when producers could take gas from wells. On this occasion the Court upheld the regulations-not because the law aimed at the objective of gas conservation, but because the State pursued this end by regulating \" 'the physical ac[t] of drawing gas from the earth.' \" Id.,at 510, 109 S.Ct. 1262. Our precedents demand, in other words, that the Court focus in the present case upon whatthe State seeks to regulate (a pipeline practice that is subject to regulation by the Commission), not whythe State seeks to regulate it (to curb the practice's effects on retail rates).\nTrying to turn liabilities into assets, the Court brandishes statements from Northern Naturaland Northwest Centralthat (in its view) discuss where state law was \"aimed\" or \"directed.\" Ante,at 1600. But read in context, these statements refer to the entity or activity that the state law regulates, not to which of the activity's effects the law seeks to control by regulating it. See, e.g., Northern Natural, supra,at 94, 83 S.Ct. 646(\"[O]ur cases have consistently recognized a significant distinction ... between conservation measures aimed directly at interstate purchasers and wholesales ..., and those aimed at producers and production\"); Northwest Central, supra,at 512, 109 S.Ct. 1262(\"[This regulation] is directed to the behavior of gas producers\"). The lawsuits at hand target pipelines (entities regulated by the Commission) for their manipulation of indices (behavior regulated by the Commission). That should have sufficed to establish preemption.\nB\nThe Court also tallies several features of state antitrust law that, it believes, weigh against preemption. Ante,at 1601. Once again the Court seems to have forgotten its precedents. We have said before that \" 'Congress meant to draw a bright line easily ascertained, between state and federal jurisdiction' \" over the gas trade. Nantahala Power & Light Co. v. Thornburg,476 U.S. 953, 966, 106 S.Ct. 2349, 90 L.Ed.2d 943 (1986)(quoting FPC v. Southern Cal. Edison Co.,376 U.S. 205, 215-216, 84 S.Ct. 644, 11 L.Ed.2d 638 (1964)). Our decisions have therefore \" 'squarely rejected' \" the theory, endorsed by the Court today, that the boundary between national and local authority turns on \" 'a case-by-case analysis of the impact of state regulation upon the national interest.' \" Ibid.\nState antitrust law, the Court begins, applies to \"all businesses in the marketplace\" rather than just \"natural-gas companies in particular.\" Ante,at 1601. So what? No principle of our natural-gas preemption jurisprudence distinguishes particularized state laws from state laws of general applicability. We have never suggested, for example, that a State may use general price-gouging laws to fix wholesale rates, or general laws about unfair trade practices to control wholesale contracts, or general common-carrier laws to administer interstate pipelines. The Court in any event could not have chosen a worse setting in which to attempt a distinction between general and particular laws. Like their federal counterpart, state antitrust laws tend to use the rule of reason to judge the lawfulness of challenged practices. Legal Aspects of Buying and Selling \u00a7 10:12 (P. Zeidman ed. 2014-2015). This amorphous standard requires the reviewing court to consider \"a variety of factors, including specific information about the relevant business, its condition before and after the restraint was imposed, and the restraint's history, nature, and effect.\" State Oil Co. v. Khan,522 U.S. 3, 10, 118 S.Ct. 275, 139 L.Ed.2d 199 (1997). Far from authorizing across-the-board application of a uniform requirement, therefore, the Court's decision will invite state antitrust courts to engage in targeted regulation of the natural-gas industry.\nThe Court also stresses the \" 'long history' \" of state antitrust regulation. Ante,at 1601.Again, quite beside the point. States have long regulated public utilities, yet the Natural Gas Act precludes them from using that established power to fix gas wholesale prices. United Fuel,317 U.S., at 468, 63 S.Ct. 369. States also have long enacted laws to conserve natural resources, yet the Act precludes them from deploying that power to control purchases made by gas pipelines. Northern Natural,372 U.S., at 93-94, 83 S.Ct. 646. The Court's invocation of the pedigree of state antitrust law rests on air.\nOne need not launch this unbounded inquiry into the features of state law in order to preserve the States' authority to apply \"tax laws,\" \"disclosure laws,\" and \"blue sky laws\" to natural-gas companies, ante,at 1600. One need only stand by the principle that if the Commission has authority over a subject, the States lack authority over that subject. The Commission's authority to regulate gas pipelines \"in the public interest,\" \u00a7 717a, is a power to address matters that are traditionally the concern of utility regulators, not \"a broad license to promote the general public welfare,\" NAACP v. FPC,425 U.S. 662, 669, 96 S.Ct. 1806, 48 L.Ed.2d 284 (1976). We have explained that the Commission does not, for example, have power to superintend \"employment discrimination\" or \"unfair labor practices.\" Id.,at 670-671, 96 S.Ct. 1806. So the Act does not preempt state employment discrimination or labor laws. But the Commission does have power to consider, say, \"conservation, environmental, and antitrustquestions.\" Id.,at 670, n. 6, 96 S.Ct. 1806(emphasis added). So the Act does preempt state antitrust laws.\nC\nAt bottom, the Court's decision turns on its perception that the Natural Gas Act \" 'was drawn with meticulous regard for the continued exercise of state power.' \" Ante,at 1599. No doubt the Act protects state authority in a variety of ways. It gives the Commission authority over only some parts of the gas trade. \u00a7 717(b). It establishes procedures under which the Commission may consult, collaborate, or share information with States. \u00a7 717p. It even provides that the Commission may regulate practices affecting wholesale rates \"upon its own motion or upon complaint of any State.\" \u00a7 717d(a)(emphasis added). It should have gone without saying, however, that no law pursues its purposes at all costs. Nothing in the Act and nothing in our cases suggests that Congress protected state power in the way imagined by today's decision: by licensing state sorties into the Commission's domain whenever judges conclude that an incursion would not be too disruptive.\nThe Court's preoccupation with the purpose of preserving state authority is all the more inexpiable because that is not the Act's only purpose. The Act also has competing purposes, the most important of which is promoting \"uniformity of regulation.\" Northern Natural, supra,at 91, 83 S.Ct. 646. The Court's decision impairs thatobjective. Before today, interstate pipelines knew that their practices relating to price indices had to comply with one set of regulations promulgated by the Commission. From now on, however, pipelines will have to ensure that their behavior conforms to the discordant regulations of 50 States-or more accurately, to the discordant verdicts of untold state antitrust juries. The Court's reassurance that pipelines may still invoke conflict preemption, see ante,at 1602, provides little comfort on this front. Conflict preemption will resolve only discrepancies between state and federal regulations, not the discrepancies among differing state regulations to which today's opinion subjects the industry.\n* * *\n\"The Natural Gas Act was designed ... to produce a harmonious and comprehensive regulation of the industry. Neither state nor federal regulatory body was to encroach upon the jurisdiction of the other.\" FPC v. Panhandle Eastern Pipe Line Co.,337 U.S. 498, 513, 69 S.Ct. 1251, 93 L.Ed. 1499 (1949)(footnote omitted). Today, however, the Court allows the States to encroach. Worse still, it leaves pipelines guessing about when States will be allowed to encroach again. May States aim at retail rates under laws that share none of the features of antitrust law advertised today? Under laws that share only some of those features? May States apply their antitrust laws to pipelines withoutaiming at retail rates? But that is just the start. Who knows what other \"considerations that weigh against a finding of preemption\" remain to be unearthed in future cases? The Court's all-things-considered test does not make for a stable background against which to carry on the natural gas trade.\nI would stand by the more principled and more workable line traced by our precedents. The Commission may regulate the practices alleged in this case; the States therefore may not. I respectfully dissent.",
+        "type": "majority",
+        "author": "Justice BREYERdelivered the opinion of the Court."
+      }
+    ],
+    "attorneys": [
+      "Neal K. Katyal, Washington, DC, for Petitioners.",
+      "Anthony A. Yang, for the United States as amicus curiae, by special leave of the Court, supporting the petitioners.",
+      "Jeffrey L. Fisher, Wilmington, IL, for Respondents.",
+      "Stephen R. McAllister, Solicitor General, for Kansas, et al. as amici curiae, by special leave of the Court, supporting the respondents.",
+      "Neal Kumar Katyal, Counsel of Record, Robert B. Wolinsky, Dominic F. Perella, Frederick Liu, Sean Marotta, Hogan Lovells US LLP, Washington, DC, for Petitioners.",
+      "Douglas R. Tribble, Kevin M. Fong, Pillsbury Winthrop, Shaw Pittman LLP, San Francisco, CA, Michael J. Kass, VLP Law Group LLP, Oakland, CA, for the defendant Dynegy entities.",
+      "Joshua D. Lichtman, Fulbright & Jaworski L.L.P., Los Angeles, CA, Roxanna A. Manuel, Quinn Emanuel Urquhart & Sullivan, LLP, Los Angeles, CA, for Shell Energy North America (U.S.), L.P.",
+      "Mark E. Haddad, Michelle B. Goodman, Nitin Reddy, Sidley Austin LLP, Los Angeles, CA, for the defendant CMS entities.",
+      "Aaron M. Streett, Baker Botts LLP, Houston, TX, for GenOn Energy, Inc.",
+      "Oliver S. Howard, Amelia A. Fogleman, Craig A. Fitzgerald, Gable Gotwals, Tulsa, OK, for the defendant ONEOK entities.",
+      "Brent A. Benoit, Stacy Williams, Locke Lord LLP, Houston, TX, for El Paso LLC.",
+      "Sarah Jane Gillett, Hall, Estill, Hardwick, Gable, Golden, & Nelson, P.C., Tulsa, OK, for the defendant Williams and WPX entities.",
+      "Michael John Miguel, Kasowitz Benson Torres & Friedman LLP, Los Angeles, CA, for e prime, Inc.",
+      "Steven J. Routh, Orrick, Herrington, & Sutcliffe, L.L.P., Washington, DC, for the defendant AEP entities.",
+      "Joel B. Kleinman, Adam Proujansky, Lisa M. Kaas, Dickstein Shapiro LLP, Washington, DC, for Duke Energy Trading and Marketing, L.L.C.",
+      "Jennifer Gille Bacon, counsel of record, William E. Quirk, Gregory M. Bentz, Anthony Bonuchi, Andrew J. Ennis, Polsinelli PC, Kansas City, MO, Donald D. Barry, Barry Law Offices, LLC, Donald D. Barry, Chartered, Topeka, KS, for Respondents Learjet, Inc., et al., Heartland Regional Medical Center, et al., Breckenridge Brewery of Colorado, LLC, et al., and Reorganized FLI, Inc.",
+      "Eric I. Unrein, Frieden, Unrein & Forbes, LLP, Topeka, KS, Gary D. McCallister, Gary D. McAllister & Associates, LLC, Chicago, IL, for Respondents Learjet, Inc., et al., and Reorganized FLI, Inc.",
+      "Isaac L. Diel, Sharp McQueen, P.A., Overland Park, KS, Thomas J.H. Brill, Law Offices of Thomas H. Brill, Leawood, KS, for Respondent Reorganized FLI, Inc.",
+      "Melvin Goldstein, Matthew A. Corcoran, Goldstein & Associates, PC, Washington, DC, Philip M. Ballif, Durham Jones & Pinegar, Salt Lake City, UT, for Respondent Sinclair Oil Corporation.",
+      "Robert L. Gegios, Counsel of Record, Ryan M. Billings, Stephen D.R. Taylor, Melinda A. Bialzik, Amy Irene Washburn, Kohner, Mann & Kailas, S.C., Milwaukee, WI, for The Wisconsin Respondents (Arandell Corporation, ATI Ladish LLC, Briggs & Stratton Corporation, Carthage College, Merrick's, Inc., NewPage Wisconsin System Inc., and Sargento Foods, Inc.)"
+    ],
+    "corrections": "",
+    "head_matter": "ONEOK, INC., et al., Petitioners\nv.\nLEARJET, INC., et al.\nNo. 13-271.\nSupreme Court of the United States\nArgued Jan. 12, 2015.\nDecided April 21, 2015.\nNeal K. Katyal, Washington, DC, for Petitioners.\nAnthony A. Yang, for the United States as amicus curiae, by special leave of the Court, supporting the petitioners.\nJeffrey L. Fisher, Wilmington, IL, for Respondents.\nStephen R. McAllister, Solicitor General, for Kansas, et al. as amici curiae, by special leave of the Court, supporting the respondents.\nNeal Kumar Katyal, Counsel of Record, Robert B. Wolinsky, Dominic F. Perella, Frederick Liu, Sean Marotta, Hogan Lovells US LLP, Washington, DC, for Petitioners.\nDouglas R. Tribble, Kevin M. Fong, Pillsbury Winthrop, Shaw Pittman LLP, San Francisco, CA, Michael J. Kass, VLP Law Group LLP, Oakland, CA, for the defendant Dynegy entities.\nJoshua D. Lichtman, Fulbright & Jaworski L.L.P., Los Angeles, CA, Roxanna A. Manuel, Quinn Emanuel Urquhart & Sullivan, LLP, Los Angeles, CA, for Shell Energy North America (U.S.), L.P.\nMark E. Haddad, Michelle B. Goodman, Nitin Reddy, Sidley Austin LLP, Los Angeles, CA, for the defendant CMS entities.\nAaron M. Streett, Baker Botts LLP, Houston, TX, for GenOn Energy, Inc.\nOliver S. Howard, Amelia A. Fogleman, Craig A. Fitzgerald, Gable Gotwals, Tulsa, OK, for the defendant ONEOK entities.\nBrent A. Benoit, Stacy Williams, Locke Lord LLP, Houston, TX, for El Paso LLC.\nSarah Jane Gillett, Hall, Estill, Hardwick, Gable, Golden, & Nelson, P.C., Tulsa, OK, for the defendant Williams and WPX entities.\nMichael John Miguel, Kasowitz Benson Torres & Friedman LLP, Los Angeles, CA, for e prime, Inc.\nSteven J. Routh, Orrick, Herrington, & Sutcliffe, L.L.P., Washington, DC, for the defendant AEP entities.\nJoel B. Kleinman, Adam Proujansky, Lisa M. Kaas, Dickstein Shapiro LLP, Washington, DC, for Duke Energy Trading and Marketing, L.L.C.\nJennifer Gille Bacon, counsel of record, William E. Quirk, Gregory M. Bentz, Anthony Bonuchi, Andrew J. Ennis, Polsinelli PC, Kansas City, MO, Donald D. Barry, Barry Law Offices, LLC, Donald D. Barry, Chartered, Topeka, KS, for Respondents Learjet, Inc., et al., Heartland Regional Medical Center, et al., Breckenridge Brewery of Colorado, LLC, et al., and Reorganized FLI, Inc.\nEric I. Unrein, Frieden, Unrein & Forbes, LLP, Topeka, KS, Gary D. McCallister, Gary D. McAllister & Associates, LLC, Chicago, IL, for Respondents Learjet, Inc., et al., and Reorganized FLI, Inc.\nIsaac L. Diel, Sharp McQueen, P.A., Overland Park, KS, Thomas J.H. Brill, Law Offices of Thomas H. Brill, Leawood, KS, for Respondent Reorganized FLI, Inc.\nMelvin Goldstein, Matthew A. Corcoran, Goldstein & Associates, PC, Washington, DC, Philip M. Ballif, Durham Jones & Pinegar, Salt Lake City, UT, for Respondent Sinclair Oil Corporation.\nRobert L. Gegios, Counsel of Record, Ryan M. Billings, Stephen D.R. Taylor, Melinda A. Bialzik, Amy Irene Washburn, Kohner, Mann & Kailas, S.C., Milwaukee, WI, for The Wisconsin Respondents (Arandell Corporation, ATI Ladish LLC, Briggs & Stratton Corporation, Carthage College, Merrick's, Inc., NewPage Wisconsin System Inc., and Sargento Foods, Inc.)\nOpinion"
+  },
+  "file_name": "1591-01",
+  "first_page_order": 1591,
+  "last_page_order": 1608
+}

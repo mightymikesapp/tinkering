@@ -1,0 +1,62 @@
+{
+  "id": 12593781,
+  "name": "Jose ACOSTA, petitioner, v. Patrick GRIFFIN, Superintendent, Sullivan Correctional Facility.",
+  "name_abbreviation": "Acosta v. Griffin",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14\u20136452.",
+  "first_page": "720",
+  "last_page": "720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 720"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 450"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 264,
+    "sha256": "2727809a0ef5cb61dd20693679e12eb5d0e7a1de6faa23df9e32fadb7e69524c",
+    "simhash": "1:7bbd4684394404a9",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose ACOSTA, petitioner,\nv.\nPatrick GRIFFIN, Superintendent, Sullivan Correctional Facility."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jose ACOSTA, petitioner,\nv.\nPatrick GRIFFIN, Superintendent, Sullivan Correctional Facility.\nNo. 14-6452.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0720-03",
+  "first_page_order": 720,
+  "last_page_order": 720
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12594056,
+  "name": "Eric Jon WICK, petitioner, v. Eric ARNOLD, Acting Warden.",
+  "name_abbreviation": "Wick v. Arnold",
+  "decision_date": "2014-12-08",
+  "docket_number": "No. 14\u20136648.",
+  "first_page": "760",
+  "last_page": "760",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 760"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 635"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 228,
+    "sha256": "eb0c528f567a97c41d8adc0ebcb94ddd9b0ad65cf304ff293187f8235b89a21a",
+    "simhash": "1:73ff56c4ab8d21e3",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric Jon WICK, petitioner,\nv.\nEric ARNOLD, Acting Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Eric Jon WICK, petitioner,\nv.\nEric ARNOLD, Acting Warden.\nNo. 14-6648.\nSupreme Court of the United States\nDec. 8, 2014.\nOpinion"
+  },
+  "file_name": "0760-06",
+  "first_page_order": 760,
+  "last_page_order": 760
+}

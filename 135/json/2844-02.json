@@ -1,0 +1,62 @@
+{
+  "id": 12591475,
+  "name": "WASHINGTON, petitioner, v. Odies Delandus WALKER.",
+  "name_abbreviation": "Washington v. Walker",
+  "decision_date": "2015-06-15",
+  "docket_number": "No. 14\u20131279.",
+  "first_page": "2844",
+  "last_page": "2844",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2844"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 876"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 196,
+    "sha256": "d91c24c1cd16665f8568a27c9cc37ac24642958cbc6a60c9eb20e1733c7ab96d",
+    "simhash": "1:f06fd6546c85348b",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WASHINGTON, petitioner,\nv.\nOdies Delandus WALKER."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Washington denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "WASHINGTON, petitioner,\nv.\nOdies Delandus WALKER.\nNo. 14-1279.\nSupreme Court of the United States\nJune 15, 2015.\nOpinion"
+  },
+  "file_name": "2844-02",
+  "first_page_order": 2844,
+  "last_page_order": 2844
+}

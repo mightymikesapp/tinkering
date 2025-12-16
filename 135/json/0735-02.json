@@ -1,0 +1,62 @@
+{
+  "id": 12593874,
+  "name": "Francisco FELICIANO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Feliciano v. United States",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14\u20136890.",
+  "first_page": "735",
+  "last_page": "735",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 735"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 459"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 224,
+    "sha256": "d3105404fa22b5176762d8728c5ea3d17ce8568aa94d330c0cbc2c239139c86a",
+    "simhash": "1:3bad6664370f4695",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Francisco FELICIANO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Francisco FELICIANO, petitioner,\nv.\nUNITED STATES.\nNo. 14-6890.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0735-02",
+  "first_page_order": 735,
+  "last_page_order": 735
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12594500,
+  "name": "David KENTNER, et al., petitioners, v. CITY OF SANIBEL, FLORIDA.",
+  "name_abbreviation": "Kentner v. City of Sanibel",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u2013404.",
+  "first_page": "950",
+  "last_page": "950",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 950"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 831"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 238,
+    "sha256": "d5cf8e62c1a02931b339af68f2538b52d764657505897a88a0ac0251596ed651",
+    "simhash": "1:3524c6c43781a78b",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David KENTNER, et al., petitioners,\nv.\nCITY OF SANIBEL, FLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David KENTNER, et al., petitioners,\nv.\nCITY OF SANIBEL, FLORIDA.\nNo. 14-404.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "0950-04",
+  "first_page_order": 950,
+  "last_page_order": 950
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12587384,
+  "name": "In re Jason KINDLE, petitioner.",
+  "name_abbreviation": "In re Kindle",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310509.",
+  "first_page": "127",
+  "last_page": "127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 127"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 237"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 146,
+    "sha256": "9fd651acf45d30aad9bb0441e084028388182b94c28a86f92c3b626dc199c1a0",
+    "simhash": "1:52eca014fe47c461",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jason KINDLE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Jason KINDLE, petitioner.\nNo. 13-10509.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0127-02",
+  "first_page_order": 127,
+  "last_page_order": 127
+}

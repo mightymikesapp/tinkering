@@ -1,0 +1,62 @@
+{
+  "id": 12592783,
+  "name": "Steven BROWN, petitioner, v. Raymond BOOKER, Warden.",
+  "name_abbreviation": "Brown v. Booker",
+  "decision_date": "2014-10-20",
+  "docket_number": "No. 14\u20136058.",
+  "first_page": "412",
+  "last_page": "412",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 412"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 224,
+    "sha256": "1633029ecbcb5b68c1bb86baedfde03fd4ed1a324477860b9b1c36a0719fe204",
+    "simhash": "1:74af8644bb050471",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven BROWN, petitioner,\nv.\nRaymond BOOKER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Steven BROWN, petitioner,\nv.\nRaymond BOOKER, Warden.\nNo. 14-6058.\nSupreme Court of the United States\nOct. 20, 2014.\nOpinion"
+  },
+  "file_name": "0412-03",
+  "first_page_order": 412,
+  "last_page_order": 412
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12593119,
+  "name": "Jerome McKOY, petitioner, v. Patrick R. DONAHOE, Postmaster General, et al.",
+  "name_abbreviation": "McKoy v. Donahoe",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u20138715.",
+  "first_page": "47",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 47"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 52"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 247,
+    "sha256": "3c45bd3e5d9cfb5e90800a1dd1ef4b3d8a1c7e053a8cc5db66ca7d77f9fbfb66",
+    "simhash": "1:722fd6443fc494cd",
+    "word_count": 40
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerome McKOY, petitioner,\nv.\nPatrick R. DONAHOE, Postmaster General, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jerome McKOY, petitioner,\nv.\nPatrick R. DONAHOE, Postmaster General, et al.\nNo. 13-8715.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0047-04",
+  "first_page_order": 47,
+  "last_page_order": 47
+}

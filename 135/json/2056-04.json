@@ -1,0 +1,62 @@
+{
+  "id": 12590011,
+  "name": "In re Donald BURGO, petitioner.",
+  "name_abbreviation": "In re Burgo",
+  "decision_date": "2015-05-04",
+  "docket_number": "No. 14\u20138697.",
+  "first_page": "2056",
+  "last_page": "2056",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2056"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 972"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 158,
+    "sha256": "82f25537313deec83c6513729dd045fe0d510745608cc51603cd490801d9897a",
+    "simhash": "1:507ed296ee8b340a",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Donald BURGO, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus and/or prohibition denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Donald BURGO, petitioner.\nNo. 14-8697.\nSupreme Court of the United States\nMay 4, 2015.\nOpinion"
+  },
+  "file_name": "2056-04",
+  "first_page_order": 2056,
+  "last_page_order": 2056
+}

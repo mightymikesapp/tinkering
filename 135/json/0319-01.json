@@ -1,0 +1,62 @@
+{
+  "id": 12592218,
+  "name": "Gary LANE, petitioner, v. STATE BAR OF CALIFORNIA.",
+  "name_abbreviation": "Lane v. State Bar of Cal.",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14M11.",
+  "first_page": "319",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 319"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 15"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 208,
+    "sha256": "cc86b8a8e7b7d25883e214d95f1ea0639b6a80b48dd8e4cef0cf333388036c88",
+    "simhash": "1:59455226dfc1d7b8",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary LANE, petitioner,\nv.\nSTATE BAR OF CALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gary LANE, petitioner,\nv.\nSTATE BAR OF CALIFORNIA.\nNo. 14M11.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0319-01",
+  "first_page_order": 319,
+  "last_page_order": 319
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12588171,
+  "name": "Jerry MEAS, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Meas v. Massachusetts",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310630.",
+  "first_page": "150",
+  "last_page": "150",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 150"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 110"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 200,
+    "sha256": "120cbcd73e5184162a7a17abe5962f983f4f7eac63c83b9288004d569030c38e",
+    "simhash": "1:e0ecc215b8e507bf",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry MEAS, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jerry MEAS, petitioner,\nv.\nMASSACHUSETTS.\nNo. 13-10630.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0150-04",
+  "first_page_order": 150,
+  "last_page_order": 150
+}

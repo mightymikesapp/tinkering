@@ -1,0 +1,182 @@
+{
+  "id": 12593735,
+  "name": "Stephen Moreland REDD v. Kevin CHAPPELL, Warden",
+  "name_abbreviation": "Redd v. Chappell",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14\u20136264.",
+  "first_page": "712",
+  "last_page": "713",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 712"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 463"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(B)(ii)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3599",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(2)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 P.3d 1106",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "1113-1114"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal.Rptr.3d 108",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2003,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Cal.4th 466",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        17589
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "476-477"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/31/0466-01"
+      ]
+    },
+    {
+      "cite": "523 U.S. 538",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11503916
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0538-01"
+      ]
+    },
+    {
+      "cite": "237 P.3d 993",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "996"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 Cal.Rptr.3d 591",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "year": 2010,
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Cal.4th 932",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3910116
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "937"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/50/0932-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 254,
+    "char_count": 2709,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635342832728858
+    },
+    "sha256": "68313be89178817b59998d0b01a80d9f53d73467f46a552983d138fe96cfbc17",
+    "simhash": "1:ee6661a86dac77d4",
+    "word_count": 443
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephen Moreland REDD\nv.\nKevin CHAPPELL, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "The petition for a writ of certiorari is denied.\nStatement of Justice SOTOMAYOR, with whom Justice BREYER joins, respecting the denial of certiorari.\nSeventeen years after petitioner was first sentenced to death, and more than four years after his conviction and sentence were affirmed on direct appeal, petitioner has not received counsel to represent him in his state habeas corpus proceedings-counsel to which he is entitled as a matter of state law. See Cal. Govt. Code Ann. \u00a7 68662 (West 2009). He has suffered this delay notwithstanding the California Supreme Court's observation that \"[i]deally, the appointment of habeas corpus counsel should occur shortly after an indigent defendant's judgment of death,\" In re Morgan,50 Cal.4th 932, 937, 114 Cal.Rptr.3d 591, 237 P.3d 993, 996 (2010), and our own general exhortation that \"[f]inality is essential to both the retributive and the deterrent functions of criminal law,\" Calderon v. Thompson,523 U.S. 538, 555, 118 S.Ct. 1489, 140 L.Ed.2d 728 (1998). At the same time, the California Supreme Court refuses to consider capital inmates' pro se submissions relating to matters for which they have a continuing right to representation. See In re Barnett,31 Cal.4th 466, 476-477, 3 Cal.Rptr.3d 108, 73 P.3d 1106, 1113-1114 (2003). Petitioner therefore remains in limbo: To raise any claims challenging his conviction and sentence in state habeas proceedings, he must either waive his right to counsel or continue to wait for counsel to be finally appointed.\nAlthough these circumstances are undoubtedly troubling, I vote to deny the petition for certiorari because it is not clear that petitioner has been denied all access to the courts. In fact, a number of alternative avenues may remain open to him. He may, for example, seek appointment of counsel for his federal habeas proceedings. See 18 U.S.C. \u00a7 3599(a)(2). And he may argue that he should not be required to exhaust any claims that he might otherwise bring in state habeas proceedings, as \"circumstances exist that render [the state corrective] process ineffective to protect\" his rights. 28 U.S.C. \u00a7 2254(b)(1)(B)(ii). Moreover, petitioner might seek to bring a 42 U.S.C. \u00a7 1983suit contending that the State's failure to provide him with the counsel to which he is entitled violates the Due Process Clause. Our denial of certiorari reflects in no way on the merits of these possible arguments. Finally, I also note that the State represents that state habeas counsel will be appointed for petitioner \"[i]n due course\"-by which I hope it means, soon. See Brief in Opposition 6.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Stephen Moreland REDD\nv.\nKevin CHAPPELL, Warden\nNo. 14-6264.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0712-04",
+  "first_page_order": 712,
+  "last_page_order": 713
+}

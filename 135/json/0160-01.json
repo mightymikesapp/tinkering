@@ -1,0 +1,62 @@
+{
+  "id": 12588783,
+  "name": "In re David C. TABB, petitioner.",
+  "name_abbreviation": "In re Tabb",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u20131542.",
+  "first_page": "160",
+  "last_page": "160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 160"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 141,
+    "sha256": "5ce064751987b215950304f5ca41e2c13e654074e8284611b3038564023f6220",
+    "simhash": "1:e86f8074ff6704ab",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re David C. TABB, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re David C. TABB, petitioner.\nNo. 13-1542.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0160-01",
+  "first_page_order": 160,
+  "last_page_order": 160
+}

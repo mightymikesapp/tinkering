@@ -1,0 +1,62 @@
+{
+  "id": 12594345,
+  "name": "William Dean CHAPMAN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Chapman v. United States",
+  "decision_date": "2014-12-15",
+  "docket_number": "No. 14\u20137036.",
+  "first_page": "882",
+  "last_page": "882",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 882"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 712"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 224,
+    "sha256": "3b28753f944a49168b5c41e608abac62f30cabd1b866361f4d9a458bad6788b6",
+    "simhash": "1:fbedc4853f4c741b",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Dean CHAPMAN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William Dean CHAPMAN, petitioner,\nv.\nUNITED STATES.\nNo. 14-7036.\nSupreme Court of the United States\nDec. 15, 2014.\nOpinion"
+  },
+  "file_name": "0882-01",
+  "first_page_order": 882,
+  "last_page_order": 882
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12594510,
+  "name": "Neal FOX, petitioner, v. Eugene FOX.",
+  "name_abbreviation": "Fox v. Fox",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u2013435.",
+  "first_page": "952",
+  "last_page": "952",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 952"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 831"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 179,
+    "sha256": "74ed56d461c6555ed04ff741e724d56199e1e20aee0dba2f60a2c5078ffd4fa2",
+    "simhash": "1:f21fc40436c520c5",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Neal FOX, petitioner,\nv.\nEugene FOX."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Vermont denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Neal FOX, petitioner,\nv.\nEugene FOX.\nNo. 14-435.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "0952-02",
+  "first_page_order": 952,
+  "last_page_order": 952
+}

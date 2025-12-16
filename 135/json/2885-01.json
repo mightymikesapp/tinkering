@@ -1,0 +1,62 @@
+{
+  "id": 12591745,
+  "name": "In the Matter of DISBARMENT OF John W. HILL.",
+  "name_abbreviation": "In re Hill",
+  "decision_date": "2015-06-22",
+  "docket_number": "No. D\u20132823.",
+  "first_page": "2885",
+  "last_page": "2885",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2885"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 917"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 141,
+    "sha256": "3d369cfe1f1ea6415eb6d3204803fac0e81900d3a42a47b44a34791af5e078af",
+    "simhash": "1:b26254c6b30775e7",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF John W. HILL."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF John W. HILL.\nNo. D-2823.\nSupreme Court of the United States\nJune 22, 2015.\nOpinion"
+  },
+  "file_name": "2885-01",
+  "first_page_order": 2885,
+  "last_page_order": 2885
+}

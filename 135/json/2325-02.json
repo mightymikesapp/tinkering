@@ -1,0 +1,62 @@
+{
+  "id": 12590422,
+  "name": "Geoffrey Del RANTZ, petitioner, v. Steve HARTLEY, Warden, et al.",
+  "name_abbreviation": "Del Rantz v. Hartley",
+  "decision_date": "2015-05-18",
+  "docket_number": "No. 14\u20138919.",
+  "first_page": "2325",
+  "last_page": "2325",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2325"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 990"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 235,
+    "sha256": "3a56a63f174caa6e8eb3ee4343638511d0efaf4ec7733c9eaf1d52bef265734a",
+    "simhash": "1:d23dd6043886a28f",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Geoffrey Del RANTZ, petitioner,\nv.\nSteve HARTLEY, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Geoffrey Del RANTZ, petitioner,\nv.\nSteve HARTLEY, Warden, et al.\nNo. 14-8919.\nSupreme Court of the United States\nMay 18, 2015.\nOpinion"
+  },
+  "file_name": "2325-02",
+  "first_page_order": 2325,
+  "last_page_order": 2325
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12591078,
+  "name": "John BOMAR, petitioner, v. Kenneth ROMANOWSKI, Warden.",
+  "name_abbreviation": "Bomar v. Romanowski",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135518.",
+  "first_page": "261",
+  "last_page": "261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 261"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 225,
+    "sha256": "e90791e3cf70260d90c37e021fddcb87148da32b9b0343152617fc85b9abe8f3",
+    "simhash": "1:75acc654bb44978d",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John BOMAR, petitioner,\nv.\nKenneth ROMANOWSKI, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John BOMAR, petitioner,\nv.\nKenneth ROMANOWSKI, Warden.\nNo. 14-5518.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0261-03",
+  "first_page_order": 261,
+  "last_page_order": 261
+}

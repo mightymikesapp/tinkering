@@ -1,0 +1,62 @@
+{
+  "id": 12588812,
+  "name": "Eric WATKINS, petitioner, v. Anthony HAYNES, Warden, et al.",
+  "name_abbreviation": "Watkins v. Haynes",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310719.",
+  "first_page": "164",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 164"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 315,
+    "sha256": "f017cbd1c86a455de4b149db9d6fa7178787b18ca2d7a96188a20cf48acabe83",
+    "simhash": "1:7bafb044224187db",
+    "word_count": 51
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric WATKINS, petitioner,\nv.\nAnthony HAYNES, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of certiorari to the United States Court of Appeals for the Eleventh dismissed. See Rule 39.8.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Eric WATKINS, petitioner,\nv.\nAnthony HAYNES, Warden, et al.\nNo. 13-10719.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0164-06",
+  "first_page_order": 164,
+  "last_page_order": 164
+}

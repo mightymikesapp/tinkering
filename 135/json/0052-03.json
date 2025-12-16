@@ -1,0 +1,62 @@
+{
+  "id": 12593400,
+  "name": "Albert WILLIAMS, petitioner, v. Suzanne R. HASTINGS, Warden, et al.",
+  "name_abbreviation": "Williams v. Hastings",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u20131221.",
+  "first_page": "52",
+  "last_page": "52",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 52"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 241,
+    "sha256": "6f640890bd27d5dd7270f89a6de57103471bf2da86c4606ff7fbc3a6c1efe25c",
+    "simhash": "1:63ac8644bb0580c5",
+    "word_count": 39
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albert WILLIAMS, petitioner,\nv.\nSuzanne R. HASTINGS, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Albert WILLIAMS, petitioner,\nv.\nSuzanne R. HASTINGS, Warden, et al.\nNo. 13-1221.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0052-03",
+  "first_page_order": 52,
+  "last_page_order": 52
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12592450,
+  "name": "In re Richard Price TUCKER, petitioner.",
+  "name_abbreviation": "In re Tucker",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u20135555.",
+  "first_page": "362",
+  "last_page": "362",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 362"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 149,
+    "sha256": "6191cb26460a6ef25432fb2bb3da4dc2deb086da15a0044a5e5028a282159d9c",
+    "simhash": "1:e80fb846aa77b07b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Richard Price TUCKER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Richard Price TUCKER, petitioner.\nNo. 14-5555.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0362-02",
+  "first_page_order": 362,
+  "last_page_order": 362
+}

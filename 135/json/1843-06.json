@@ -1,0 +1,62 @@
+{
+  "id": 12589344,
+  "name": "BECTON, DICKINSON AND COMPANY, petitioner, v. RETRACTABLE TECHNOLOGIES, INC., et al.",
+  "name_abbreviation": "Becton, Dickinson & Co. v. Retractable Techs., Inc.",
+  "decision_date": "2015-04-20",
+  "docket_number": "No. 14\u2013850.",
+  "first_page": "1843",
+  "last_page": "1843",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1843"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 258,
+    "sha256": "b070e265ff69cb8054f05362fb162c623eb29e478ee1efd38fde6d355858e0a6",
+    "simhash": "1:fbbf754c270111ef",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BECTON, DICKINSON AND COMPANY, petitioner,\nv.\nRETRACTABLE TECHNOLOGIES, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "BECTON, DICKINSON AND COMPANY, petitioner,\nv.\nRETRACTABLE TECHNOLOGIES, INC., et al.\nNo. 14-850.\nSupreme Court of the United States\nApril 20, 2015.\nOpinion"
+  },
+  "file_name": "1843-06",
+  "first_page_order": 1843,
+  "last_page_order": 1843
+}

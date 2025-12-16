@@ -1,0 +1,62 @@
+{
+  "id": 12593531,
+  "name": "In re R.D., petitioner.",
+  "name_abbreviation": "In re R.D.",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310023.",
+  "first_page": "68",
+  "last_page": "68",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 68"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 133,
+    "sha256": "b86c9f3ae3bbed911268bf748a571a563e8a52e28f181d894ba457545f167a36",
+    "simhash": "1:4a678474bcf10479",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re R.D., petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re R.D., petitioner.\nNo. 13-10023.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0068-01",
+  "first_page_order": 68,
+  "last_page_order": 68
+}

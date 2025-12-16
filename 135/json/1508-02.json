@@ -1,0 +1,62 @@
+{
+  "id": 12588224,
+  "name": "Bob MYRICK, et al., petitioners, v. WELLPOINT, INC., et al.",
+  "name_abbreviation": "Myrick v. Wellpoint, Inc.",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. 14\u2013859.",
+  "first_page": "1508",
+  "last_page": "1508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1508"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 432"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "4dd894c23a78787b63d2ed23692d5577686de5fe72a5680b8b189b5e6d1547eb",
+    "simhash": "1:d12f720cbf8212d9",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bob MYRICK, et al., petitioners,\nv.\nWELLPOINT, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Bob MYRICK, et al., petitioners,\nv.\nWELLPOINT, INC., et al.\nNo. 14-859.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1508-02",
+  "first_page_order": 1508,
+  "last_page_order": 1508
+}

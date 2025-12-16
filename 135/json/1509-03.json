@@ -1,0 +1,62 @@
+{
+  "id": 12588231,
+  "name": "A.B., petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "A.B. v. California",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. 14\u20138073.",
+  "first_page": "1509",
+  "last_page": "1509",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1509"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 444"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 208,
+    "sha256": "b074835e2b9f1572a8ac6c4cfa42c47d60a20376aeeba13e1d5e200c8bcf2746",
+    "simhash": "1:7827a4043fd55181",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A.B., petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeal of California, Sixth Appellate District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "A.B., petitioner,\nv.\nCALIFORNIA.\nNo. 14-8073.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1509-03",
+  "first_page_order": 1509,
+  "last_page_order": 1509
+}

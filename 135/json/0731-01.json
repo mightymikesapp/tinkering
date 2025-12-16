@@ -1,0 +1,62 @@
+{
+  "id": 12593849,
+  "name": "Nathan LONG, petitioner, v. David BALLARD, Warden.",
+  "name_abbreviation": "Long v. Ballard",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14\u20136824.",
+  "first_page": "731",
+  "last_page": "731",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 731"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 456"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 222,
+    "sha256": "3b32524b140c5d84c0e0f9deed2c60365c8e1abc252a3a69f827e5aa30043b29",
+    "simhash": "1:7bafd6943b81c58b",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nathan LONG, petitioner,\nv.\nDavid BALLARD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Nathan LONG, petitioner,\nv.\nDavid BALLARD, Warden.\nNo. 14-6824.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0731-01",
+  "first_page_order": 731,
+  "last_page_order": 731
+}

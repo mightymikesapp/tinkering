@@ -1,0 +1,81 @@
+{
+  "id": 12592063,
+  "name": "Donnie Wayne NIPPER, petitioner, v. Jorge L. PASTRANA.",
+  "name_abbreviation": "Nipper v. Pastrana",
+  "decision_date": "2015-06-30",
+  "docket_number": "No. 14\u20139750.",
+  "first_page": "2946",
+  "last_page": "2946",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2946"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 964"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2551",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591035
+      ],
+      "weight": 2,
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2551-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 118,
+    "char_count": 1440,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635321595969495
+    },
+    "sha256": "e0ad971833da016722a587e48cf5f67baeee38048dec62cd08ce2a6046fe0ac4",
+    "simhash": "1:5ea6e2882a62c623",
+    "word_count": 233
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donnie Wayne NIPPER, petitioner,\nv.\nJorge L. PASTRANA."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperisand petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Johnson v. United States,576 U.S. ----, 135 S.Ct. 2551, --- L.Ed.2d ---- (2015).\nJustice ALITOconcurring in the decision to grant, vacate, and remand in this case: Following the recommendation of the Solicitor General, the Court has held the petition in this and many other cases pending the decision in Johnson v. United States,576 U.S. ----, 135 S.Ct. 2551, --- L.Ed.2d ---- (2015). In holding this petition and now in vacating and remanding the decision below in this case, the Court has not differentiated between cases in which the petitioner would be entitled to relief if the Court held (as it now has) that the residual clause of the Armed Career Criminal Act of 1984, 18 U.S.C. Sec. 924(e)(2)(B)(ii), is void for vagueness and cases in which relief would not be warranted for a procedural reason. On remand, the Court of Appeals should understand that the Court's disposition of this petition does not reflect any view regarding petitioner's entitlement to relief.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Donnie Wayne NIPPER, petitioner,\nv.\nJorge L. PASTRANA.\nNo. 14-9750.\nSupreme Court of the United States\nJune 30, 2015.\nOpinion"
+  },
+  "file_name": "2946-02",
+  "first_page_order": 2946,
+  "last_page_order": 2946
+}

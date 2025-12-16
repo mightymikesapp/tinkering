@@ -1,0 +1,62 @@
+{
+  "id": 12590239,
+  "name": "In re Samuel Langhorne GLADNEY, petitioner.",
+  "name_abbreviation": "In re Gladney",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u201354.",
+  "first_page": "220",
+  "last_page": "220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 220"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 150,
+    "sha256": "be2cf381f32a4d5762465dc7ec03799184a0125b021506eaf1e7895d9a8a3bc8",
+    "simhash": "1:cbec9034be6105db",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Samuel Langhorne GLADNEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Samuel Langhorne GLADNEY, petitioner.\nNo. 14-54.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0220-06",
+  "first_page_order": 220,
+  "last_page_order": 220
+}

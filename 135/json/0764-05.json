@@ -1,0 +1,62 @@
+{
+  "id": 12594079,
+  "name": "In re Burudi J. FAISON, petitioner.",
+  "name_abbreviation": "In re Faison",
+  "decision_date": "2014-12-08",
+  "docket_number": "No. 14\u20136919.",
+  "first_page": "764",
+  "last_page": "764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 764"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 642"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "fd9722e401a7af57c03031b4aeef6dc584099280edc0a38a961d983262452dad",
+    "simhash": "1:5b6906f0b9c1653f",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Burudi J. FAISON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Burudi J. FAISON, petitioner.\nNo. 14-6919.\nSupreme Court of the United States\nDec. 8, 2014.\nOpinion"
+  },
+  "file_name": "0764-05",
+  "first_page_order": 764,
+  "last_page_order": 764
+}

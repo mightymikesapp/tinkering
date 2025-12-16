@@ -1,0 +1,62 @@
+{
+  "id": 12592501,
+  "name": "In the Matter of DISBARMENT OF Kenneth Bromley RICE.",
+  "name_abbreviation": "In re Rice",
+  "decision_date": "2014-08-29",
+  "docket_number": "No. D\u20132775.",
+  "first_page": "37",
+  "last_page": "37",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 37"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 889"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 149,
+    "sha256": "9b5d72c3b974fb985a81e188b73a72b2e237fa08d2f3c70757958c6041393d94",
+    "simhash": "1:48655442b26277b4",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Kenneth Bromley RICE."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Kenneth Bromley RICE.\nNo. D-2775.\nSupreme Court of the United States\nAug. 29, 2014.\nOpinion"
+  },
+  "file_name": "0037-03",
+  "first_page_order": 37,
+  "last_page_order": 37
+}

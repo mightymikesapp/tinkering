@@ -1,0 +1,62 @@
+{
+  "id": 12587200,
+  "name": "TARGET CORPORATION, petitioner, v. Stacy THOMPSON.",
+  "name_abbreviation": "Target Corp. v. Thompson",
+  "decision_date": "2015-01-26",
+  "docket_number": "No. 14\u2013587.",
+  "first_page": "1178",
+  "last_page": "1178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1178"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 298,
+    "sha256": "629a544b14c97aa9660d6495920f04268b23e12e37d9e487e112ac0c00d80644",
+    "simhash": "1:9be76204350c17ca",
+    "word_count": 47
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TARGET CORPORATION, petitioner,\nv.\nStacy THOMPSON."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.\nJustice ALITOtook no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITOtook no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "TARGET CORPORATION, petitioner,\nv.\nStacy THOMPSON.\nNo. 14-587.\nSupreme Court of the United States\nJan. 26, 2015.\nOpinion"
+  },
+  "file_name": "1178-04",
+  "first_page_order": 1178,
+  "last_page_order": 1178
+}

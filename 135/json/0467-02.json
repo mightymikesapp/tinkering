@@ -1,0 +1,62 @@
+{
+  "id": 12593099,
+  "name": "Fernando KING, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "King v. United States",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u20136486.",
+  "first_page": "467",
+  "last_page": "467",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 467"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "4c48e21a3af3c37b76f4af1c15602469ee9ab9886814343baba8c882b7df4882",
+    "simhash": "1:d12f744423042619",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fernando KING, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fernando KING, petitioner,\nv.\nUNITED STATES.\nNo. 14-6486.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0467-02",
+  "first_page_order": 467,
+  "last_page_order": 467
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12593673,
+  "name": "In the Matter of DISBARMENT OF Robert B. RICHBOURG.",
+  "name_abbreviation": "In re Richbourg",
+  "decision_date": "2014-11-17",
+  "docket_number": "No. D\u20132788.",
+  "first_page": "700",
+  "last_page": "700",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 700"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 148,
+    "sha256": "feca0dcadc78a3983ed9f8b136708e1a29bc4cad15cca639c011ec51aa99a300",
+    "simhash": "1:60255426868c74e4",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Robert B. RICHBOURG."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Robert B. RICHBOURG.\nNo. D-2788.\nSupreme Court of the United States\nNov. 17, 2014.\nOpinion"
+  },
+  "file_name": "0700-02",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

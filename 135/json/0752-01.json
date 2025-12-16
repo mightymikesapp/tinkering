@@ -1,0 +1,62 @@
+{
+  "id": 12593998,
+  "name": "In re Dorothy HARTMAN, petitioner.",
+  "name_abbreviation": "In re Hartman",
+  "decision_date": "2014-12-08",
+  "docket_number": "No. 13\u201310188.",
+  "first_page": "752",
+  "last_page": "752",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 752"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 642"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 144,
+    "sha256": "be8418bb7709775c5f17aeffb957ca9bdff72742fe4a7dcc18c9e97a9dc34468",
+    "simhash": "1:6a7d42943971602f",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Dorothy HARTMAN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Dorothy HARTMAN, petitioner.\nNo. 13-10188.\nSupreme Court of the United States\nDec. 8, 2014.\nOpinion"
+  },
+  "file_name": "0752-01",
+  "first_page_order": 752,
+  "last_page_order": 752
+}

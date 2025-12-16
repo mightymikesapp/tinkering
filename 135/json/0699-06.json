@@ -1,0 +1,58 @@
+{
+  "id": 12593662,
+  "name": "In the Matter of DISBARMENT OF Douglas Paul WACHHOLZ.",
+  "name_abbreviation": "In re Wachholz",
+  "decision_date": "2014-11-17",
+  "docket_number": "No. D\u20132784.",
+  "first_page": "699",
+  "last_page": "699",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 699"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 150,
+    "sha256": "350911518356c51c7f4962c7155d7053fda7df52744e56b5818ea014d6682c0b",
+    "simhash": "1:7022c446824c3ee0",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Douglas Paul WACHHOLZ."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Douglas Paul WACHHOLZ.\nNo. D-2784.\nSupreme Court of the United States\nNov. 17, 2014.\nOpinion"
+  },
+  "file_name": "0699-06",
+  "first_page_order": 699,
+  "last_page_order": 699
+}

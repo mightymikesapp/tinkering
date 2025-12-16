@@ -1,0 +1,58 @@
+{
+  "id": 12593681,
+  "name": "State of FLORIDA, plaintiff, v. State of GEORGIA.",
+  "name_abbreviation": "State v. State",
+  "decision_date": "2014-11-19",
+  "docket_number": "No. 142, Original.",
+  "first_page": "701",
+  "last_page": "702",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 701"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 93,
+    "char_count": 919,
+    "sha256": "4fae0413abae22247f9746c0e9f96d05f4000be6eaef79b4457cdf84070d9770",
+    "simhash": "1:9df2d571cbef7658",
+    "word_count": 150
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of FLORIDA, plaintiff,\nv.\nState of GEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "It is ordered that Ralph I. Lancaster, Esquire, of Portland, Maine, is appointed Special Master in this case with authority to fix the time and conditions for the filing of additional pleadings, to direct subsequent proceedings, to summon witnesses, to issue subpoenas, and to take such evidence as may be introduced and such as he may deem it necessary to call for. The Special Master is directed to submit Reports as he may deem appropriate. The compensation of the Special Master, the allowances to him, the compensation paid to his legal, technical, stenographic, and clerical assistants, the cost of printing his Reports, and all other proper expenses, including travel expenses, shall be charged against and be borne by the parties in such proportion as the Court may hereafter direct.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State of FLORIDA, plaintiff,\nv.\nState of GEORGIA.\nNo. 142, Original.\nSupreme Court of the United States\nNov. 19, 2014.\nOpinion"
+  },
+  "file_name": "0701-02",
+  "first_page_order": 701,
+  "last_page_order": 702
+}

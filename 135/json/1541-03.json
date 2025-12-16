@@ -1,0 +1,62 @@
+{
+  "id": 12588456,
+  "name": "MICHIGAN, et al., petitioners, v. ENVIRONMENTAL PROTECTION AGENCY, et al.",
+  "name_abbreviation": "Michigan v. Envtl. Prot. Agency",
+  "decision_date": "2015-03-09",
+  "docket_number": "No. 14\u201346.",
+  "first_page": "1541",
+  "last_page": "1541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1541"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 558"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 208,
+    "sha256": "784f518ca53d4689e19ce6a4619eabc6c60c6b5d6230290b919669e0e77a2c46",
+    "simhash": "1:22ad70d7bfd07719",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MICHIGAN, et al., petitioners,\nv.\nENVIRONMENTAL PROTECTION AGENCY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion for enlargement of time and for divided argument granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MICHIGAN, et al., petitioners,\nv.\nENVIRONMENTAL PROTECTION AGENCY, et al.\nNo. 14-46.\nSupreme Court of the United States\nMarch 9, 2015.\nOpinion"
+  },
+  "file_name": "1541-03",
+  "first_page_order": 1541,
+  "last_page_order": 1541
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12592231,
+  "name": "Annie L. GRIMES, petitioner, v. MIAMI-DADE COUNTY, FLORIDA.",
+  "name_abbreviation": "Grimes v. Miami-Dade Cnty.",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14M18.",
+  "first_page": "320",
+  "last_page": "320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 320"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 16"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 217,
+    "sha256": "754090c2c5741867dd901f295d4856d17549b705c25fa842d68c7ebe2be90ffd",
+    "simhash": "1:42c61216d6c9d3db",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Annie L. GRIMES, petitioner,\nv.\nMIAMI-DADE COUNTY, FLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Annie L. GRIMES, petitioner,\nv.\nMIAMI-DADE COUNTY, FLORIDA.\nNo. 14M18.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0320-02",
+  "first_page_order": 320,
+  "last_page_order": 320
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12587254,
+  "name": "William C. WEBSTER, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Webster v. United States",
+  "decision_date": "2015-01-26",
+  "docket_number": "No. 14\u20137501.",
+  "first_page": "1186",
+  "last_page": "1186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1186"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 228,
+    "sha256": "fb887d52f0c3ffc1c10dae71f0d64d65200bbbca72ce2ea867602472c2a7a901",
+    "simhash": "1:e3aff6403d05538c",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William C. WEBSTER, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William C. WEBSTER, petitioner,\nv.\nUNITED STATES, et al.\nNo. 14-7501.\nSupreme Court of the United States\nJan. 26, 2015.\nOpinion"
+  },
+  "file_name": "1186-01",
+  "first_page_order": 1186,
+  "last_page_order": 1186
+}

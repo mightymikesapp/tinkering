@@ -1,0 +1,62 @@
+{
+  "id": 12593030,
+  "name": "Sandra M. PASQUALE, petitioner, v. Thomas M. PASQUALE.",
+  "name_abbreviation": "Pasquale v. Pasquale",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u2013304.",
+  "first_page": "456",
+  "last_page": "456",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 456"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 217,
+    "sha256": "00b07c69dca39c83333e7a53224fb8997bb944b6a1f0bf8d9703497cdf66ea2c",
+    "simhash": "1:e85f14842147a13d",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sandra M. PASQUALE, petitioner,\nv.\nThomas M. PASQUALE."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeals of Indiana, Fourth District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sandra M. PASQUALE, petitioner,\nv.\nThomas M. PASQUALE.\nNo. 14-304.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0456-05",
+  "first_page_order": 456,
+  "last_page_order": 456
+}

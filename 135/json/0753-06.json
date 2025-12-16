@@ -1,0 +1,62 @@
+{
+  "id": 12594009,
+  "name": "German ROMAN-OLIVER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Roman-Oliver v. United States",
+  "decision_date": "2014-12-08",
+  "docket_number": "No. 14\u20135431.",
+  "first_page": "753",
+  "last_page": "753",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 753"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 221,
+    "sha256": "5463a97f805b8c303206612ae276a4c192f57c57e880aae74f53db63909a1ec1",
+    "simhash": "1:fbedc4463b24768d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "German ROMAN-OLIVER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "German ROMAN-OLIVER, petitioner,\nv.\nUNITED STATES.\nNo. 14-5431.\nSupreme Court of the United States\nDec. 8, 2014.\nOpinion"
+  },
+  "file_name": "0753-06",
+  "first_page_order": 753,
+  "last_page_order": 753
+}

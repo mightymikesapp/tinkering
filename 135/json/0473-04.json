@@ -1,0 +1,62 @@
+{
+  "id": 12593144,
+  "name": "Deon R. DAVIS, petitioner, v. Christopher HOLMES, Administrator, South Woods State Prison.",
+  "name_abbreviation": "Davis v. Holmes",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u20136351.",
+  "first_page": "473",
+  "last_page": "473",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 473"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 345"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 261,
+    "sha256": "1e3be1d79fcbaf510c021677c03a8b4f9927494d9590147e3b30d5c9cb821135",
+    "simhash": "1:f52cd6c43b40a581",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Deon R. DAVIS, petitioner,\nv.\nChristopher HOLMES, Administrator, South Woods State Prison."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Deon R. DAVIS, petitioner,\nv.\nChristopher HOLMES, Administrator, South Woods State Prison.\nNo. 14-6351.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0473-04",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

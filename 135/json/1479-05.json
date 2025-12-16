@@ -1,0 +1,93 @@
+{
+  "id": 12588022,
+  "name": "State of MONTANA, plaintiff, v. State of WYOMING and State of North Dakota.",
+  "name_abbreviation": "State v. State",
+  "decision_date": "2015-02-23",
+  "docket_number": "No. 137, Original.",
+  "first_page": "1479",
+  "last_page": "1479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1479"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 357"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "373 U.S. 546",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11719749
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "564",
+          "parenthetical": "'[W]e are mindful of this Court's often expressed preference that, where possible, States settle their controversies by mutual accommodation and agreement.' (internal quotation marks omitted)"
+        },
+        {
+          "parenthetical": "'[W]e are mindful of this Court's often expressed preference that, where possible, States settle their controversies by mutual accommodation and agreement.' (internal quotation marks omitted)"
+        },
+        {
+          "parenthetical": "'[W]e are mindful of this Court's often expressed preference that, where possible, States settle their controversies by mutual accommodation and agreement.' (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0546-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 148,
+    "char_count": 1592,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635147840665614
+    },
+    "sha256": "af25f138d54eee464b5b72a4e482670c60cae3a2736b4147a997d798b4073c95",
+    "simhash": "1:a20b70ee2fd50d77",
+    "word_count": 253
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of MONTANA, plaintiff,\nv.\nState of WYOMING and State of North Dakota."
+    ],
+    "opinions": [
+      {
+        "text": "Report of the Special Master received and ordered filed. The Court notes that the Master has twice directed the parties to address whether the amount of damages at stake justifies further proceedings. The Master's Report and submissions of parties indicate that fees and expenses could well exceed any recovery. Parties are therefore directed to consider carefully whether it is appropriate for them to continue invoking the jurisdiction of this Court. See Arizona v. California,373 U.S. 546, 564, 83 S.Ct. 1468, 10 L.Ed.2d 542 (1963)('[W]e are mindful of this Court's often expressed preference that, where possible, States settle their controversies by mutual accommodation and agreement.' (internal quotation marks omitted)). The Special Master is encouraged to facilitate efforts to resolve the parties' dispute without need for a damages proceeding, including by revisiting the arrangement for division of fees and expenses. Cf. Fed. Rule Civ. Proc. 68. If parties elect to continue, exceptions to the Report, with supporting briefs, may be filed within 45 days. Replies, if any, with supporting briefs, may be filed within 30 days. Sur-replies, if any, with supporting briefs, may be filed within 30 days. Motion of Special Master for allowance of fees and disbursements granted, and the Special Master is awarded a total of $201,104.90 for the period July 2, 2013, through April 30, 2014, to be paid equally by Montana and Wyoming.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State of MONTANA, plaintiff,\nv.\nState of WYOMING and State of North Dakota.\nNo. 137, Original.\nSupreme Court of the United States\nFeb. 23, 2015.\nOpinion"
+  },
+  "file_name": "1479-05",
+  "first_page_order": 1479,
+  "last_page_order": 1479
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12594700,
+  "name": "Kent AWER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Awer v. United States",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20137090.",
+  "first_page": "980",
+  "last_page": "980",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 980"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 863"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "b843f1dc1ae3e12085aa7ef5bd66bae33a8130d5f75310c7c5aa1b25bb1cee69",
+    "simhash": "1:f32de64426049285",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kent AWER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kent AWER, petitioner,\nv.\nUNITED STATES.\nNo. 14-7090.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "0980-06",
+  "first_page_order": 980,
+  "last_page_order": 980
+}

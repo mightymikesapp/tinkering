@@ -1,0 +1,62 @@
+{
+  "id": 12587099,
+  "name": "In re Theodore B. GOULD, petitioner.",
+  "name_abbreviation": "In re Gould",
+  "decision_date": "2015-01-20",
+  "docket_number": "No. 14\u2013630.",
+  "first_page": "1163",
+  "last_page": "1163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1163"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 927"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "843e8f90ef40d8811c9cf5b1be01a32d75440470612b410280a0d07a8d6252e2",
+    "simhash": "1:182bfec6f581e47b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Theodore B. GOULD, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Theodore B. GOULD, petitioner.\nNo. 14-630.\nSupreme Court of the United States\nJan. 20, 2015.\nOpinion"
+  },
+  "file_name": "1163-01",
+  "first_page_order": 1163,
+  "last_page_order": 1163
+}

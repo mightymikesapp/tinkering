@@ -1,0 +1,81 @@
+{
+  "id": 12594195,
+  "name": "George TOCA, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Toca v. Louisiana",
+  "decision_date": "2014-12-12",
+  "docket_number": "No. 14\u20136381.",
+  "first_page": "781",
+  "last_page": "782",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 781"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 649"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "132 S.Ct. 2455",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12407312
+      ],
+      "weight": 2,
+      "year": 2012,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/567/0460-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 551,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635346693957833
+    },
+    "sha256": "6e1a7e2d3e056cb9185a7cc796072566503271dfd451a240be7054a21c3ede85",
+    "simhash": "1:6aa7644443212f09",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George TOCA, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisgranted. Petition for writ of certiorari to the Supreme Court of Louisiana granted limited to the following questions: 1) Does the rule announced in Miller v. Alabama,567 U.S. ----, 132 S.Ct. 2455, 183 L.Ed.2d 407 (2012), apply retroactively to this case? 2) Is a federal question raised by a claim that a state collateral review court erroneously failed to find a Teagueexception?",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "George TOCA, petitioner,\nv.\nLOUISIANA.\nNo. 14-6381.\nSupreme Court of the United States\nDec. 12, 2014.\nOpinion"
+  },
+  "file_name": "0781-02",
+  "first_page_order": 781,
+  "last_page_order": 782
+}

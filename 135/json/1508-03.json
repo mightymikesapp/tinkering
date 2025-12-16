@@ -1,0 +1,62 @@
+{
+  "id": 12588225,
+  "name": "Lee JOHNSON, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Johnson v. Massachusetts",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. 14\u20138022.",
+  "first_page": "1508",
+  "last_page": "1508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1508"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 444"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 192,
+    "sha256": "5d1e61bd71ad0aeff2f070145b6c9d051810b7d9929569cde59f17018a76b6d9",
+    "simhash": "1:e969b2171d9d0091",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lee JOHNSON, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Appeals Court of Massachusetts denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Lee JOHNSON, petitioner,\nv.\nMASSACHUSETTS.\nNo. 14-8022.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1508-03",
+  "first_page_order": 1508,
+  "last_page_order": 1508
+}

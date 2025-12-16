@@ -1,0 +1,62 @@
+{
+  "id": 12593087,
+  "name": "Gregory REED, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Reed v. United States",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u20136450.",
+  "first_page": "465",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 465"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "97f3084f9f0c8e49d5e9dcc421676299374fa27251caedf6c1298fdb4f3f2dae",
+    "simhash": "1:d36d46c42e444509",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory REED, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gregory REED, petitioner,\nv.\nUNITED STATES.\nNo. 14-6450.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0465-02",
+  "first_page_order": 465,
+  "last_page_order": 465
+}

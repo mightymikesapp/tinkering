@@ -1,0 +1,62 @@
+{
+  "id": 12592862,
+  "name": "M.J., petitioner, v. WASHINGTON UNIVERSITY IN ST. LOUIS PHYSICIANS, et al.",
+  "name_abbreviation": "M.J. v. Wash. Univ. in St. Louis Physicians",
+  "decision_date": "2014-10-20",
+  "docket_number": "No. 14M38.",
+  "first_page": "424",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 424"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 344,
+    "sha256": "1b5c835c4f836d5ba8e05b42db2053a7aded168a67834d5ed1cc1c79497fa068",
+    "simhash": "1:e7a3d01cdce99019",
+    "word_count": 54
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "M.J., petitioner,\nv.\nWASHINGTON UNIVERSITY IN ST. LOUIS PHYSICIANS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion for leave to file a petition for writ of certiorari with supplemental appendix under seal granted. Motion for leave to proceed in forma pauperiswith declaration of indigency under seal denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "M.J., petitioner,\nv.\nWASHINGTON UNIVERSITY IN ST. LOUIS PHYSICIANS, et al.\nNo. 14M38.\nSupreme Court of the United States\nOct. 20, 2014.\nOpinion"
+  },
+  "file_name": "0424-06",
+  "first_page_order": 424,
+  "last_page_order": 424
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12592461,
+  "name": "In re David Lee SMITH, petitioner.",
+  "name_abbreviation": "In re Smith",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u20135596.",
+  "first_page": "363",
+  "last_page": "364",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 363"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 252,
+    "sha256": "e38f10e5413513b2cf526daa7ae6954885ac03e0354843e26b3d2a02ff6499ee",
+    "simhash": "1:eaa7d3ccee71ad5b",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re David Lee SMITH, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of mandamus and/or prohibition dismissed. See Rule 39.8.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re David Lee SMITH, petitioner.\nNo. 14-5596.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0363-06",
+  "first_page_order": 363,
+  "last_page_order": 364
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12588448,
+  "name": "In re Bernard RHODES, petitioner.",
+  "name_abbreviation": "In re Rhodes",
+  "decision_date": "2015-03-09",
+  "docket_number": "No. 14\u20138412.",
+  "first_page": "1540",
+  "last_page": "1540",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1540"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 237,
+    "sha256": "afb412f4c726555848938f895b7d60c62b351c0c8786ba3439acd0d2784bb3c9",
+    "simhash": "1:5aab74478771855b",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Bernard RHODES, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of habeas corpus dismissed. See Rule 39.8.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Bernard RHODES, petitioner.\nNo. 14-8412.\nSupreme Court of the United States\nMarch 9, 2015.\nOpinion"
+  },
+  "file_name": "1540-01",
+  "first_page_order": 1540,
+  "last_page_order": 1540
+}

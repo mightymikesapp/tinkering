@@ -1,0 +1,92 @@
+{
+  "id": 12588803,
+  "name": "Ahmed Mohammad AJAJ, petitioner, v. FEDERAL BUREAU OF PRISONS, et al.",
+  "name_abbreviation": "Ajaj v. Fed. Bureau of Prisons",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310710.",
+  "first_page": "163",
+  "last_page": "163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 163"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 86,
+    "char_count": 709,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26351690774249775
+    },
+    "sha256": "28f166e9bf4cbf1426847c7751ab97ec449b19987d09df54be4ef793bf8bb7c5",
+    "simhash": "1:61e2e5de206dd6cb",
+    "word_count": 116
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ahmed Mohammad AJAJ, petitioner,\nv.\nFEDERAL BUREAU OF PRISONS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals,506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992)(per curiam).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ahmed Mohammad AJAJ, petitioner,\nv.\nFEDERAL BUREAU OF PRISONS, et al.\nNo. 13-10710.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0163-02",
+  "first_page_order": 163,
+  "last_page_order": 163
+}

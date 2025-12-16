@@ -1,0 +1,62 @@
+{
+  "id": 12592090,
+  "name": "Richard D. MEADE, et al., petitioners, v. UNITED STATES.",
+  "name_abbreviation": "Meade v. United States",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u2013205.",
+  "first_page": "299",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 299"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 226,
+    "sha256": "28dd432689ca13fd99a03d0a276a170a855df85e5ee2f5d029518cd78026b31b",
+    "simhash": "1:f9adc644bf65c449",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard D. MEADE, et al., petitioners,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Richard D. MEADE, et al., petitioners,\nv.\nUNITED STATES.\nNo. 14-205.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0299-04",
+  "first_page_order": 299,
+  "last_page_order": 299
+}

@@ -1,0 +1,92 @@
+{
+  "id": 12593538,
+  "name": "Danielle BITON, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Biton v. United States",
+  "decision_date": "2014-11-17",
+  "docket_number": "No. 14\u20136213.",
+  "first_page": "680",
+  "last_page": "680",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 680"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 386"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 82,
+    "char_count": 695,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26353389714998826
+    },
+    "sha256": "3773f7226c8aef15567f78d222b0d2429a033c86c8dad4be8227876b651a3041",
+    "simhash": "1:45a6a5040145d68b",
+    "word_count": 113
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Danielle BITON, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals,506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992)(per curiam).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Danielle BITON, petitioner,\nv.\nUNITED STATES, et al.\nNo. 14-6213.\nSupreme Court of the United States\nNov. 17, 2014.\nOpinion"
+  },
+  "file_name": "0680-02",
+  "first_page_order": 680,
+  "last_page_order": 680
+}

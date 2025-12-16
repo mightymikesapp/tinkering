@@ -1,0 +1,62 @@
+{
+  "id": 12592504,
+  "name": "In the Matter of DISBARMENT OF Jeffrey David KAHL.",
+  "name_abbreviation": "In re Kahl",
+  "decision_date": "2014-08-29",
+  "docket_number": "No. D\u20132780.",
+  "first_page": "37",
+  "last_page": "37",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 37"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 889"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 147,
+    "sha256": "413a05da3e37b7542dee4e03573218e2e87225afa6a117395911760877053a95",
+    "simhash": "1:e861d457aea432e5",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Jeffrey David KAHL."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Jeffrey David KAHL.\nNo. D-2780.\nSupreme Court of the United States\nAug. 29, 2014.\nOpinion"
+  },
+  "file_name": "0037-06",
+  "first_page_order": 37,
+  "last_page_order": 37
+}

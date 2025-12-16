@@ -1,0 +1,62 @@
+{
+  "id": 12589150,
+  "name": "Jack HALL, petitioner, v. Mary BERGHUIS, Warden.",
+  "name_abbreviation": "Hall v. Berghuis",
+  "decision_date": "2015-04-06",
+  "docket_number": "No. 14\u20138286.",
+  "first_page": "1742",
+  "last_page": "1742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1742"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 698"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 309,
+    "sha256": "1d54db723777446762e278568aea27591d271c7fb3f402daa5e8382dfd00288b",
+    "simhash": "1:7bab54441a21849d",
+    "word_count": 50
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jack HALL, petitioner,\nv.\nMary BERGHUIS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit dismissed. See Rule 39.8.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jack HALL, petitioner,\nv.\nMary BERGHUIS, Warden.\nNo. 14-8286.\nSupreme Court of the United States\nApril 6, 2015.\nOpinion"
+  },
+  "file_name": "1742-01",
+  "first_page_order": 1742,
+  "last_page_order": 1742
+}

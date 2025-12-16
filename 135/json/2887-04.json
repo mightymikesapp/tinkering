@@ -1,0 +1,80 @@
+{
+  "id": 12591755,
+  "name": "Bennie KELLY, Warden, petitioner, v. Willard McCARLEY.",
+  "name_abbreviation": "Kelly v. McCarley",
+  "decision_date": "2015-06-29",
+  "docket_number": "No. 14\u2013430.",
+  "first_page": "2887",
+  "last_page": "2887",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2887"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 919"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2187",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12590220
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2187-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 467,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635232787703067
+    },
+    "sha256": "a369625eccd8dc23794e5eaeed9c8280f5291356479e0c7974c8476c4422d9d2",
+    "simhash": "1:5c2e6604292116ad",
+    "word_count": 73
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bennie KELLY, Warden, petitioner,\nv.\nWillard McCARLEY."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Davis v. Ayala,576 U.S. ----, 135 S.Ct. 2187, --- L.Ed.2d ---- (2015).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Bennie KELLY, Warden, petitioner,\nv.\nWillard McCARLEY.\nNo. 14-430.\nSupreme Court of the United States\nJune 29, 2015.\nOpinion"
+  },
+  "file_name": "2887-04",
+  "first_page_order": 2887,
+  "last_page_order": 2887
+}

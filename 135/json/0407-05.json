@@ -1,0 +1,62 @@
+{
+  "id": 12592750,
+  "name": "Inez HUNTER, petitioner, v. Jane ANDERSON, et al.",
+  "name_abbreviation": "Hunter v. Anderson",
+  "decision_date": "2014-10-20",
+  "docket_number": "No. 14\u20135805.",
+  "first_page": "407",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 407"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 295"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 222,
+    "sha256": "8d6c61b9294d2dcc934d00ad44844e7e32ab4df7a62b851606a79032b79341d2",
+    "simhash": "1:4bafd6d43b0501c0",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Inez HUNTER, petitioner,\nv.\nJane ANDERSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Inez HUNTER, petitioner,\nv.\nJane ANDERSON, et al.\nNo. 14-5805.\nSupreme Court of the United States\nOct. 20, 2014.\nOpinion"
+  },
+  "file_name": "0407-05",
+  "first_page_order": 407,
+  "last_page_order": 407
+}

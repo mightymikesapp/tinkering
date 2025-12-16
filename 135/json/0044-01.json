@@ -1,0 +1,62 @@
+{
+  "id": 12592920,
+  "name": "John F. KERRY, Secretary of State, et al., petitioners, v. Fauzia DIN.",
+  "name_abbreviation": "Kerry v. Din",
+  "decision_date": "2014-10-02",
+  "docket_number": "No. 13\u20131402.",
+  "first_page": "44",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 44"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 896"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 242,
+    "sha256": "173ee190ef9f46646e666adc5ae1f9cb70e01764ca66806e04568eba9fb62e28",
+    "simhash": "1:e9bfc2c4bb85a7ea",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John F. KERRY, Secretary of State, et al., petitioners,\nv.\nFauzia DIN."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John F. KERRY, Secretary of State, et al., petitioners,\nv.\nFauzia DIN.\nNo. 13-1402.\nSupreme Court of the United States\nOct. 2, 2014.\nOpinion"
+  },
+  "file_name": "0044-01",
+  "first_page_order": 44,
+  "last_page_order": 44
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12591947,
+  "name": "SUPPRESSED, petitioner, v. SUPPRESSED.",
+  "name_abbreviation": "Suppressed v. Suppressed",
+  "decision_date": "2015-06-29",
+  "docket_number": "No. 14M135.",
+  "first_page": "2916",
+  "last_page": "2916",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2916"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 921"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 188,
+    "sha256": "bf673cf7c759ea3be52826aa0d77f63029c39963cd514e94e9a04509ad0261ed",
+    "simhash": "1:a86750122bc95119",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SUPPRESSED, petitioner,\nv.\nSUPPRESSED."
+    ],
+    "opinions": [
+      {
+        "text": "Motion for leave to file a petition for writ of certiorari under seal granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SUPPRESSED, petitioner,\nv.\nSUPPRESSED.\nNo. 14M135.\nSupreme Court of the United States\nJune 29, 2015.\nOpinion"
+  },
+  "file_name": "2916-03",
+  "first_page_order": 2916,
+  "last_page_order": 2916
+}

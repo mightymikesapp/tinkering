@@ -1,0 +1,80 @@
+{
+  "id": 12592004,
+  "name": "John HICKENLOOPER, Governor of Colorado, petitioner, v. Andy KERR, et al.",
+  "name_abbreviation": "Hickenlooper v. Kerr",
+  "decision_date": "2015-06-30",
+  "docket_number": "No. 14\u2013460.",
+  "first_page": "2927",
+  "last_page": "2927",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2927"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 956"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2652",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591109
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2652-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 540,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635255955076918
+    },
+    "sha256": "390caab262663f4a93da6062717ed03cfdf3fca80107456b8069c2b385e81540",
+    "simhash": "1:542fe2443b4807ad",
+    "word_count": 82
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John HICKENLOOPER, Governor of Colorado, petitioner,\nv.\nAndy KERR, et al."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Tenth Circuit for further consideration in light of Arizona State Legislature v. Arizona Independent Redistricting Comm'n,576 U.S. ----, 135 S.Ct. 2652, ---L.Ed.2d ---- (2015).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John HICKENLOOPER, Governor of Colorado, petitioner,\nv.\nAndy KERR, et al.\nNo. 14-460.\nSupreme Court of the United States\nJune 30, 2015.\nOpinion"
+  },
+  "file_name": "2927-01",
+  "first_page_order": 2927,
+  "last_page_order": 2927
+}

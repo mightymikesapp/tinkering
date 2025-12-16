@@ -1,0 +1,62 @@
+{
+  "id": 12590400,
+  "name": "In re Benjamin CUNNINGHAM, petitioner.",
+  "name_abbreviation": "In re Cunningham",
+  "decision_date": "2015-05-18",
+  "docket_number": "No. 14\u20138847.",
+  "first_page": "2321",
+  "last_page": "2321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2321"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 1002"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 147,
+    "sha256": "90d33ea62ffbfbe11ba5dd0dadfd05042590d383ca89126b77bfe759498fe834",
+    "simhash": "1:582c5214ee82b01b",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Benjamin CUNNINGHAM, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Benjamin CUNNINGHAM, petitioner.\nNo. 14-8847.\nSupreme Court of the United States\nMay 18, 2015.\nOpinion"
+  },
+  "file_name": "2321-04",
+  "first_page_order": 2321,
+  "last_page_order": 2321
+}

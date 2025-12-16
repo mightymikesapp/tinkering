@@ -1,0 +1,64 @@
+{
+  "id": 12593739,
+  "name": "Rodney Scott SMITH, petitioner, v. TEXAS.",
+  "name_abbreviation": "Smith v. Texas",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14\u2013319.",
+  "first_page": "713",
+  "last_page": "714",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 713"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 440"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 202,
+    "sha256": "f8c58921da4ad2d715f4b059ddf8291b877f7c7224f12b2afcc23fbeb75276d6",
+    "simhash": "1:589b46b6608525b8",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rodney Scott SMITH, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Opinion Petition for writ of certiorari to the Court of Appeals of Texas, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rodney Scott SMITH, petitioner,\nv.\nTEXAS.\nNo. 14-319.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion Petition for writ of certiorari to the Court of Appeals of Texas, First District, denied."
+  },
+  "file_name": "0713-04",
+  "first_page_order": 713,
+  "last_page_order": 714
+}

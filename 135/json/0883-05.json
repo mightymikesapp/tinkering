@@ -1,0 +1,62 @@
+{
+  "id": 12594356,
+  "name": "John DOE, petitioner, v. Robert PATTON, Director, Oklahoma Department of Corrections, et al.",
+  "name_abbreviation": "John Doe v. Patton",
+  "decision_date": "2014-12-15",
+  "docket_number": "No. 14M64.",
+  "first_page": "883",
+  "last_page": "883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 883"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 700"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 241,
+    "sha256": "0f856b35a3f286890aead4b7d3adbd5aa9ce22b476306cc023c504d932d603f8",
+    "simhash": "1:847b583c9bd87198",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DOE, petitioner,\nv.\nRobert PATTON, Director, Oklahoma Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion for leave to file a petition for writ of certiorari under seal granted.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John DOE, petitioner,\nv.\nRobert PATTON, Director, Oklahoma Department of Corrections, et al.\nNo. 14M64.\nSupreme Court of the United States\nDec. 15, 2014.\nOpinion"
+  },
+  "file_name": "0883-05",
+  "first_page_order": 883,
+  "last_page_order": 883
+}

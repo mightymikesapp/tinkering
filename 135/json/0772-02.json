@@ -1,0 +1,62 @@
+{
+  "id": 12594132,
+  "name": "Sheila D. HIGHSMITH, applicant, v. Kenneth J. MacFADYEN, et al.",
+  "name_abbreviation": "Highsmith v. Macfadyen",
+  "decision_date": "2014-12-08",
+  "docket_number": "No. 14A480.",
+  "first_page": "772",
+  "last_page": "772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 772"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 625"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 219,
+    "sha256": "02d1ea4725cd06fd9f0acbf757434f3daf079684edb6587727744b30c9dafffb",
+    "simhash": "1:33e744c835c5fcbe",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sheila D. HIGHSMITH, applicant,\nv.\nKenneth J. MacFADYEN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Application for stay addressed to Justice SOTOMAYOR and referred to the Court denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sheila D. HIGHSMITH, applicant,\nv.\nKenneth J. MacFADYEN, et al.\nNo. 14A480.\nSupreme Court of the United States\nDec. 8, 2014.\nOpinion"
+  },
+  "file_name": "0772-02",
+  "first_page_order": 772,
+  "last_page_order": 772
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12592463,
+  "name": "Jason SMITH, petitioner, v. GEORGIA.",
+  "name_abbreviation": "Smith v. Georgia",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u2013134.",
+  "first_page": "364",
+  "last_page": "364",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 364"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 252"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 182,
+    "sha256": "f0965f8e257c5ddd0577036b0115a5150950303ac88648e492c67b6abba6ec41",
+    "simhash": "1:e9af4e442cc7a4f9",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason SMITH, petitioner,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeals of Georgia denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jason SMITH, petitioner,\nv.\nGEORGIA.\nNo. 14-134.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0364-02",
+  "first_page_order": 364,
+  "last_page_order": 364
+}

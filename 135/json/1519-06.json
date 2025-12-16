@@ -1,0 +1,62 @@
+{
+  "id": 12588301,
+  "name": "In re John COOPER, petitioner.",
+  "name_abbreviation": "In re Cooper",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. 14\u20138282.",
+  "first_page": "1519",
+  "last_page": "1519",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1519"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 453"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "f08b8a4fd20539224b22d24fcca41f68ed6fa52ed719bd1c73007ee69211e56b",
+    "simhash": "1:e82960447fdb4313",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re John COOPER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re John COOPER, petitioner.\nNo. 14-8282.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1519-06",
+  "first_page_order": 1519,
+  "last_page_order": 1519
+}

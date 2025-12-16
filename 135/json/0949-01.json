@@ -1,0 +1,62 @@
+{
+  "id": 12594485,
+  "name": "Ronald BROWN, petitioner, v. Steven RIVARD, Warden.",
+  "name_abbreviation": "Brown v. Rivard",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20136514.",
+  "first_page": "949",
+  "last_page": "949",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 949"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 843"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 223,
+    "sha256": "a2e10d02d513ff9af2f17fd8a2877af69d881be925908049e193b1254e7dec67",
+    "simhash": "1:f52d64c437859385",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald BROWN, petitioner,\nv.\nSteven RIVARD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ronald BROWN, petitioner,\nv.\nSteven RIVARD, Warden.\nNo. 14-6514.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "0949-01",
+  "first_page_order": 949,
+  "last_page_order": 949
+}

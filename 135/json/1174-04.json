@@ -1,0 +1,80 @@
+{
+  "id": 12587176,
+  "name": "SHIRE DEVELOPMENT, LLC, et al., petitioners, v. WATSON PHARMACEUTICALS, INC., et al.",
+  "name_abbreviation": "Shire Dev., LLC v. Watson Pharm., Inc.",
+  "decision_date": "2015-01-26",
+  "docket_number": "No. 14\u2013206.",
+  "first_page": "1174",
+  "last_page": "1174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1174"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 130"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 831",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12594237
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/0831-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 532,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26351343263642013
+    },
+    "sha256": "004ee6108157636bd97ebc66ce23c96e0145c9e148e7174861815bd9cd6a1447",
+    "simhash": "1:5ba762cca54413fc",
+    "word_count": 82
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SHIRE DEVELOPMENT, LLC, et al., petitioners,\nv.\nWATSON PHARMACEUTICALS, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of Teva Pharmaceuticals USA, Inc. v. Sandoz, Inc.,574 U.S. ----, 135 S.Ct. 831, --- L.Ed.2d ---- (2015).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SHIRE DEVELOPMENT, LLC, et al., petitioners,\nv.\nWATSON PHARMACEUTICALS, INC., et al.\nNo. 14-206.\nSupreme Court of the United States\nJan. 26, 2015.\nOpinion"
+  },
+  "file_name": "1174-04",
+  "first_page_order": 1174,
+  "last_page_order": 1174
+}

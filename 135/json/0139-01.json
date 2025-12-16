@@ -1,0 +1,62 @@
+{
+  "id": 12587464,
+  "name": "Nelson SUMPTER, petitioner, v. Mary BERGHUIS, Warden, et al.",
+  "name_abbreviation": "Sumpter v. Berghuis",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310578.",
+  "first_page": "139",
+  "last_page": "139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 139"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "90f4f74aa4c290e941b2f52299c2c60d58888ac1e7a5daa011a4c14c0896fcc2",
+    "simhash": "1:63edd6143a0504af",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nelson SUMPTER, petitioner,\nv.\nMary BERGHUIS, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Nelson SUMPTER, petitioner,\nv.\nMary BERGHUIS, Warden, et al.\nNo. 13-10578.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0139-01",
+  "first_page_order": 139,
+  "last_page_order": 139
+}

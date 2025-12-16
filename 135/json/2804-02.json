@@ -1,0 +1,62 @@
+{
+  "id": 12591226,
+  "name": "U.S. LEGAL SERVICES GROUP, L.P., petitioner, v. Patricia ATALESE.",
+  "name_abbreviation": "U.S. Legal Servs. Grp., L.P. v. Atalese",
+  "decision_date": "2015-06-08",
+  "docket_number": "No. 14\u2013882.",
+  "first_page": "2804",
+  "last_page": "2804",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2804"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 847"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 210,
+    "sha256": "10434c2949ea75b763c823d56c1686bb590d803b660cab72b3b4c5a4efc34368",
+    "simhash": "1:7d2c2614ba0cb72b",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "U.S. LEGAL SERVICES GROUP, L.P., petitioner,\nv.\nPatricia ATALESE."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of New Jersey denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "U.S. LEGAL SERVICES GROUP, L.P., petitioner,\nv.\nPatricia ATALESE.\nNo. 14-882.\nSupreme Court of the United States\nJune 8, 2015.\nOpinion"
+  },
+  "file_name": "2804-02",
+  "first_page_order": 2804,
+  "last_page_order": 2804
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12587395,
+  "name": "John CUNNINGHAM, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Cunningham v. Louisiana",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310520.",
+  "first_page": "128",
+  "last_page": "128",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 128"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 98"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 207,
+    "sha256": "0de12305e506e51ee08b1d5f29fd79931a4a0a75d6483594c5981742490a6e93",
+    "simhash": "1:eaece27595c7e4e9",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John CUNNINGHAM, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeal of Louisiana, Fourth Circuit, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John CUNNINGHAM, petitioner,\nv.\nLOUISIANA.\nNo. 13-10520.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0128-06",
+  "first_page_order": 128,
+  "last_page_order": 128
+}

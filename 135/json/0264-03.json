@@ -1,0 +1,92 @@
+{
+  "id": 12591097,
+  "name": "Tayr Kilaab AL GHASHIYAN (Khan), petitioner, v. Timothy HINES.",
+  "name_abbreviation": "Al Ghashiyan v. Hines",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135527.",
+  "first_page": "264",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 264"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 85,
+    "char_count": 692,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26352076897147286
+    },
+    "sha256": "af04f4b12eb557716db46f70511f01e9092690e449c27a1c10a6765468cd8b45",
+    "simhash": "1:69e2e5dee565c6db",
+    "word_count": 112
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tayr Kilaab AL GHASHIYAN (Khan), petitioner,\nv.\nTimothy HINES."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of certiorari to the Court of Appeals of Wisconsin, District IV, dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals,506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992)(per curiam).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Tayr Kilaab AL GHASHIYAN (Khan), petitioner,\nv.\nTimothy HINES.\nNo. 14-5527.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0264-03",
+  "first_page_order": 264,
+  "last_page_order": 264
+}

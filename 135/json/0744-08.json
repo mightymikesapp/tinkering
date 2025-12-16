@@ -1,0 +1,62 @@
+{
+  "id": 12593941,
+  "name": "John Paul JOHNSON, Jr., petitioner, v. VIRGINIA, et al.",
+  "name_abbreviation": "Johnson v. Virginia",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 13\u201310377.",
+  "first_page": "744",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 744"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 467"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 158,
+    "sha256": "145994d71767672779d6808cccf4a0941cbc513c440c819a7c9959d74f34db74",
+    "simhash": "1:213d94640c9372c6",
+    "word_count": 25
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Paul JOHNSON, Jr., petitioner,\nv.\nVIRGINIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for rehearing denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Paul JOHNSON, Jr., petitioner,\nv.\nVIRGINIA, et al.\nNo. 13-10377.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0744-08",
+  "first_page_order": 744,
+  "last_page_order": 744
+}

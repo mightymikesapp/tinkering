@@ -1,0 +1,62 @@
+{
+  "id": 12592886,
+  "name": "Mark A. CHRISTESON, petitioner, v. Don ROPER, Warden.",
+  "name_abbreviation": "Christeson v. Roper",
+  "decision_date": "2014-10-28",
+  "docket_number": "No. 14\u20136873 14A445.",
+  "first_page": "433",
+  "last_page": "433",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 433"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 322"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 650,
+    "sha256": "c6c797cdccd826e18985b141e3a952a4087fdef2c1689bc64d8ea3f0438b67d2",
+    "simhash": "1:684fc2549b81b3d1",
+    "word_count": 105
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark A. CHRISTESON, petitioner,\nv.\nDon ROPER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Application for stay of execution of sentence of death presented to Justice ALITO and by him referred to the Court granted pending disposition of the petition for a writ of certiorari. Should the petition for writ of certiorari be denied, this stay shall terminate automatically. In the event the petition for writ of certiorari is granted, the stay shall terminate upon the sending down of the judgment of this Court.\nJustice SCALIA, Justice THOMAS, and Justice ALITOwould deny the application for stay of execution.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Mark A. CHRISTESON, petitioner,\nv.\nDon ROPER, Warden.\nNo. 14-6873 14A445.\nSupreme Court of the United States\nOct. 28, 2014.\nOpinion"
+  },
+  "file_name": "0433-02",
+  "first_page_order": 433,
+  "last_page_order": 433
+}

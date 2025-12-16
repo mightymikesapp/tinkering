@@ -1,0 +1,58 @@
+{
+  "id": 12588235,
+  "name": "In re Paul Anthony DAVIS, petitioner.",
+  "name_abbreviation": "In re Davis",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310634.",
+  "first_page": "151",
+  "last_page": "151",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 151"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 150,
+    "sha256": "4613626ddc4f46c6af6cf304526234119eec76c646790fc2201be2af73a0f8e0",
+    "simhash": "1:e2eb76b4b8e444d9",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Paul Anthony DAVIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of prohibition denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Paul Anthony DAVIS, petitioner.\nNo. 13-10634.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0151-01",
+  "first_page_order": 151,
+  "last_page_order": 151
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12591667,
+  "name": "Clinton D. COX, petitioner, v. Terry O'BRIEN, Warden.",
+  "name_abbreviation": "Cox v. O'Brien",
+  "decision_date": "2015-06-22",
+  "docket_number": "No. 14\u20139835.",
+  "first_page": "2873",
+  "last_page": "2874",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2873"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 892"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 315,
+    "sha256": "4e70a6a2c3596827fa8d49e9c70a6fd57d42763424a07150a556eb24ac2e5610",
+    "simhash": "1:7faf444430418499",
+    "word_count": 51
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clinton D. COX, petitioner,\nv.\nTerry O'BRIEN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit dismissed. See Rule 39.8.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Clinton D. COX, petitioner,\nv.\nTerry O'BRIEN, Warden.\nNo. 14-9835.\nSupreme Court of the United States\nJune 22, 2015.\nOpinion"
+  },
+  "file_name": "2873-06",
+  "first_page_order": 2873,
+  "last_page_order": 2874
+}

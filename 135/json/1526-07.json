@@ -1,0 +1,62 @@
+{
+  "id": 12588355,
+  "name": "In the Matter of DISBARMENT OF Robert E. LINK, III.",
+  "name_abbreviation": "In re Link",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. D\u20132799.",
+  "first_page": "1526",
+  "last_page": "1526",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1526"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 457"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 148,
+    "sha256": "724f2608b7dfbabccbdbd56e715d92e11bd583b20136487b60634f86e10f7aef",
+    "simhash": "1:e0215051367f50e6",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Robert E. LINK, III."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Robert E. LINK, III.\nNo. D-2799.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1526-07",
+  "first_page_order": 1526,
+  "last_page_order": 1526
+}

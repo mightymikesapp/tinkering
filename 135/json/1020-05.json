@@ -1,0 +1,62 @@
+{
+  "id": 12586807,
+  "name": "David G. MORTON, petitioner, v. BANK OF AMERICA, N.A., et al.",
+  "name_abbreviation": "Morton v. Bank of Am., N.A.",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14M68.",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1020"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 825"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 220,
+    "sha256": "f43a9dcf8e1accf4c350600288fa20392a90083c3659bef9fb4e731b38efe1b8",
+    "simhash": "1:19834206cf89c29b",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David G. MORTON, petitioner,\nv.\nBANK OF AMERICA, N.A., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the clerk to file a petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David G. MORTON, petitioner,\nv.\nBANK OF AMERICA, N.A., et al.\nNo. 14M68.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1020-05",
+  "first_page_order": 1020,
+  "last_page_order": 1020
+}

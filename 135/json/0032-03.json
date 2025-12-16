@@ -1,0 +1,62 @@
+{
+  "id": 12592226,
+  "name": "Dwayne STOUTAMIRE, applicant, v. Donald MORGAN, Warden.",
+  "name_abbreviation": "Stoutamire v. Morgan",
+  "decision_date": "2014-08-29",
+  "docket_number": "No. 13A1180.",
+  "first_page": "32",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 32"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 884"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 239,
+    "sha256": "0f1414ef2b891264e4c0f43b88fa0fca0906041c645c9d315490e19989d5a363",
+    "simhash": "1:b86d1c5ea4c8913e",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwayne STOUTAMIRE, applicant,\nv.\nDonald MORGAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Application for a certificate of appealability addressed to Justice SOTOMAYOR and referred to the Court denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Dwayne STOUTAMIRE, applicant,\nv.\nDonald MORGAN, Warden.\nNo. 13A1180.\nSupreme Court of the United States\nAug. 29, 2014.\nOpinion"
+  },
+  "file_name": "0032-03",
+  "first_page_order": 32,
+  "last_page_order": 32
+}

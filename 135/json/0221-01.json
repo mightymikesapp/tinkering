@@ -1,0 +1,62 @@
+{
+  "id": 12590240,
+  "name": "Sean DUPREE, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Dupree v. Florida",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135253.",
+  "first_page": "221",
+  "last_page": "221",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 221"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 168"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 208,
+    "sha256": "54d9a9656ca59e50dd1d6cbb70074e86d34451060d74127e129ded9c0e13ab2d",
+    "simhash": "1:cb6e9655b80dc5a1",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sean DUPREE, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the District Court of Appeal of Florida, Fourth District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sean DUPREE, petitioner,\nv.\nFLORIDA.\nNo. 14-5253.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0221-01",
+  "first_page_order": 221,
+  "last_page_order": 221
+}

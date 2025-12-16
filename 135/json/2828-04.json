@@ -1,0 +1,80 @@
+{
+  "id": 12591379,
+  "name": "Pedro MADRIGAL-BARCENAS, petitioner, v. Loretta E. LYNCH, Attorney General.",
+  "name_abbreviation": "Madrigal-Barcenas v. Lynch",
+  "decision_date": "2015-06-08",
+  "docket_number": "No. 13\u2013697.",
+  "first_page": "2828",
+  "last_page": "2828",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2828"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 842"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 1980",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12589908
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/1980-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 490,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635217342787166
+    },
+    "sha256": "96162b5e736ae68eda80ef1c093185567b2af9b794531295e68eab146a619d46",
+    "simhash": "1:42ae62c4ad8a9789",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro MADRIGAL-BARCENAS, petitioner,\nv.\nLoretta E. LYNCH, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of Mellouli v. Lynch,575 U.S. ----, 135 S.Ct. 1980, --- L.Ed.2d ---- (2015).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Pedro MADRIGAL-BARCENAS, petitioner,\nv.\nLoretta E. LYNCH, Attorney General.\nNo. 13-697.\nSupreme Court of the United States\nJune 8, 2015.\nOpinion"
+  },
+  "file_name": "2828-04",
+  "first_page_order": 2828,
+  "last_page_order": 2828
+}

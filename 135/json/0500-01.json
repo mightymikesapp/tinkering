@@ -1,0 +1,62 @@
+{
+  "id": 12593318,
+  "name": "In re Chi MAK, petitioner.",
+  "name_abbreviation": "In re Mak",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u20136647.",
+  "first_page": "500",
+  "last_page": "500",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 500"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 384"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "00a597bf60f7261011a9e7d11c48ef1004a5304d978b288e9fdb693e5901e59b",
+    "simhash": "1:f8190014b8a0044b",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Chi MAK, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of prohibition denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Chi MAK, petitioner.\nNo. 14-6647.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0500-01",
+  "first_page_order": 500,
+  "last_page_order": 500
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12592732,
+  "name": "Michael LEONETTI, petitioner, v. Brian WILLIAMS, Sr., Warden, et al.",
+  "name_abbreviation": "Leonetti v. Williams",
+  "decision_date": "2014-10-20",
+  "docket_number": "No. 14\u20135761.",
+  "first_page": "404",
+  "last_page": "404",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 404"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 240,
+    "sha256": "a32fc77e6eeb5f108c2139d602294df94f12727b207ea040058fad9c6f0d490c",
+    "simhash": "1:c3aed21c2b8500f2",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael LEONETTI, petitioner,\nv.\nBrian WILLIAMS, Sr., Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael LEONETTI, petitioner,\nv.\nBrian WILLIAMS, Sr., Warden, et al.\nNo. 14-5761.\nSupreme Court of the United States\nOct. 20, 2014.\nOpinion"
+  },
+  "file_name": "0404-05",
+  "first_page_order": 404,
+  "last_page_order": 404
+}

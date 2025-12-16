@@ -1,0 +1,62 @@
+{
+  "id": 12593718,
+  "name": "Tom Dean SMITH, petitioner, v. ARIZONA.",
+  "name_abbreviation": "Smith v. Arizona",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310080.",
+  "first_page": "71",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 71"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 64"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 201,
+    "sha256": "8066c820d2f53565c33fcb08e17b7fddd6d31f53ab390e265c00b353a36eb919",
+    "simhash": "1:e8ef565e78c505d1",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tom Dean SMITH, petitioner,\nv.\nARIZONA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeals of Arizona, Division One, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Tom Dean SMITH, petitioner,\nv.\nARIZONA.\nNo. 13-10080.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0071-05",
+  "first_page_order": 71,
+  "last_page_order": 71
+}

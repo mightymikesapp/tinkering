@@ -1,0 +1,80 @@
+{
+  "id": 12587169,
+  "name": "Ricky KNIGHT, et al., petitioners, v. Leslie THOMPSON, et al.",
+  "name_abbreviation": "Knight v. Thompson",
+  "decision_date": "2015-01-26",
+  "docket_number": "No. 13\u2013955.",
+  "first_page": "1173",
+  "last_page": "1173",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1173"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 130"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 853",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12594249
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/0853-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 478,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26351285345207387
+    },
+    "sha256": "b5937f3c075932ca86484cb16656bcb07178d58fe52c48157492178c015e66fc",
+    "simhash": "1:6ea76284350017af",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ricky KNIGHT, et al., petitioners,\nv.\nLeslie THOMPSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Holt v. Hobbs,574 U.S. ----, 135 S.Ct. 853, --- L.Ed.2d ---- (2015).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ricky KNIGHT, et al., petitioners,\nv.\nLeslie THOMPSON, et al.\nNo. 13-955.\nSupreme Court of the United States\nJan. 26, 2015.\nOpinion"
+  },
+  "file_name": "1173-01",
+  "first_page_order": 1173,
+  "last_page_order": 1173
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12587826,
+  "name": "Robert DIAMOND, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Diamond v. Pennsylvania",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310609.",
+  "first_page": "145",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 145"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 107"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "ea4879c9e1f939ba3c8f2270a91d712ba9064f9d0aa7093365eeab4b348de1bb",
+    "simhash": "1:4ded9658b88704c9",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert DIAMOND, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert DIAMOND, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-10609.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0145-04",
+  "first_page_order": 145,
+  "last_page_order": 145
+}

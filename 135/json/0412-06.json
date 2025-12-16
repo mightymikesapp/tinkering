@@ -1,0 +1,62 @@
+{
+  "id": 12592786,
+  "name": "Juan LOPEZ, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Lopez v. Illinois",
+  "decision_date": "2014-10-20",
+  "docket_number": "No. 14\u20136065.",
+  "first_page": "412",
+  "last_page": "412",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 412"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 201,
+    "sha256": "19bb8c16581f2826c65504ed74cd49ab0457fd7ac590504dab791ad794d808a1",
+    "simhash": "1:c1aed6b49a048412",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan LOPEZ, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Appellate Court of Illinois, Second District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Juan LOPEZ, petitioner,\nv.\nILLINOIS.\nNo. 14-6065.\nSupreme Court of the United States\nOct. 20, 2014.\nOpinion"
+  },
+  "file_name": "0412-06",
+  "first_page_order": 412,
+  "last_page_order": 412
+}

@@ -1,0 +1,92 @@
+{
+  "id": 12588547,
+  "name": "In re Robert L. REHBERGER, petitioner.",
+  "name_abbreviation": "In re Rehberger",
+  "decision_date": "2015-03-23",
+  "docket_number": "No. 14\u20137959.",
+  "first_page": "1556",
+  "last_page": "1556",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1556"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 665"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 81,
+    "char_count": 636,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26351632855815144
+    },
+    "sha256": "b828fd09da73828c93d0152b2b2753cedc5d9e3c42eb184be492d618922e2ced",
+    "simhash": "1:e962a50f2775c64b",
+    "word_count": 102
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert L. REHBERGER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of mandamus and/or prohibition dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals,506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992)(per curiam).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Robert L. REHBERGER, petitioner.\nNo. 14-7959.\nSupreme Court of the United States\nMarch 23, 2015.\nOpinion"
+  },
+  "file_name": "1556-05",
+  "first_page_order": 1556,
+  "last_page_order": 1556
+}

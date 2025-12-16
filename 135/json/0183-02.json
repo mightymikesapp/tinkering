@@ -1,0 +1,62 @@
+{
+  "id": 12589316,
+  "name": "Thomas Edward SMITH, aka Anthony Young, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135002.",
+  "first_page": "183",
+  "last_page": "183",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 183"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 241,
+    "sha256": "3c67d8f30135ae02fae8c886d3f7824067ccde6574c445f5f2568add52d2c82e",
+    "simhash": "1:5baca6553a4c8401",
+    "word_count": 39
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Edward SMITH, aka Anthony Young, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Thomas Edward SMITH, aka Anthony Young, petitioner,\nv.\nUNITED STATES.\nNo. 14-5002.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0183-02",
+  "first_page_order": 183,
+  "last_page_order": 183
+}

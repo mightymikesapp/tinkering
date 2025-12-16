@@ -1,0 +1,62 @@
+{
+  "id": 12591147,
+  "name": "Anthony PIVER, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Piver v. Massachusetts",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u2013129.",
+  "first_page": "270",
+  "last_page": "270",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 270"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 195,
+    "sha256": "0d6738ae682d0b9dec1a696ddba9b035e49df9e662b27d3faf5ea77e334ebcdd",
+    "simhash": "1:68eff29dbdc501f8",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony PIVER, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeals of Massachusetts denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Anthony PIVER, petitioner,\nv.\nMASSACHUSETTS.\nNo. 14-129.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0270-05",
+  "first_page_order": 270,
+  "last_page_order": 270
+}

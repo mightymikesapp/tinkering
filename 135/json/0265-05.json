@@ -1,0 +1,62 @@
+{
+  "id": 12591107,
+  "name": "John PRICE, petitioner, v. Don BOTTOM, Warden.",
+  "name_abbreviation": "Price v. Bottom",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u2013125.",
+  "first_page": "265",
+  "last_page": "265",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 265"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "fecf020f2b89a11e8c14d4f7223a52da14d24fb22069ce4e9ce717e30c453ad5",
+    "simhash": "1:f0adf244bbc1958c",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John PRICE, petitioner,\nv.\nDon BOTTOM, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John PRICE, petitioner,\nv.\nDon BOTTOM, Warden.\nNo. 14-125.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0265-05",
+  "first_page_order": 265,
+  "last_page_order": 265
+}

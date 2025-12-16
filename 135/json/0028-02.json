@@ -1,0 +1,62 @@
+{
+  "id": 12591208,
+  "name": "In re Jack R. KOCH, petitioner.",
+  "name_abbreviation": "In re Koch",
+  "decision_date": "2014-08-11",
+  "docket_number": "No. 13\u20139778.",
+  "first_page": "28",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 28"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 880"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 134,
+    "sha256": "c2be5ad08c6820f7e5b0788d86150971116807878e513039e9768dc6ae43aa08",
+    "simhash": "1:207546d33a864086",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jack R. KOCH, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for rehearing denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Jack R. KOCH, petitioner.\nNo. 13-9778.\nSupreme Court of the United States\nAug. 11, 2014.\nOpinion"
+  },
+  "file_name": "0028-02",
+  "first_page_order": 28,
+  "last_page_order": 28
+}

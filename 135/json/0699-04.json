@@ -1,0 +1,58 @@
+{
+  "id": 12593660,
+  "name": "In the Matter of DISBARMENT OF Roderick Kevin BICKERSTAFF, Sr.",
+  "name_abbreviation": "In re Bickerstaff",
+  "decision_date": "2014-11-17",
+  "docket_number": "No. D\u20132782.",
+  "first_page": "699",
+  "last_page": "699",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 699"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 159,
+    "sha256": "dcb387bf7dceb4885c1fa5ff45895bd7359e816b1eeafaabb09a0241c2dceccf",
+    "simhash": "1:70e0c044b2c454e1",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Roderick Kevin BICKERSTAFF, Sr."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Roderick Kevin BICKERSTAFF, Sr.\nNo. D-2782.\nSupreme Court of the United States\nNov. 17, 2014.\nOpinion"
+  },
+  "file_name": "0699-04",
+  "first_page_order": 699,
+  "last_page_order": 699
+}

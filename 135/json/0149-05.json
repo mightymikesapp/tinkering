@@ -1,0 +1,62 @@
+{
+  "id": 12588096,
+  "name": "Michael MANNING, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Manning v. United States",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310625.",
+  "first_page": "149",
+  "last_page": "149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 149"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 109"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 219,
+    "sha256": "bb7e5b9270b6cdfa7e360268dc047731ea6ab4bffa49f3051d31136e32a57543",
+    "simhash": "1:47ece6443a0f0691",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael MANNING, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael MANNING, petitioner,\nv.\nUNITED STATES.\nNo. 13-10625.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0149-05",
+  "first_page_order": 149,
+  "last_page_order": 149
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12586664,
+  "name": "Jason Earl JONES, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Jones v. California",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310358.",
+  "first_page": "100",
+  "last_page": "100",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 100"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 81"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "f6ee2883d611cfe99b6d6ef8547302c55a1bb677fc08a05a8401e006223f0395",
+    "simhash": "1:796fe69cb8c584d8",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason Earl JONES, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jason Earl JONES, petitioner,\nv.\nCALIFORNIA.\nNo. 13-10358.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0100-02",
+  "first_page_order": 100,
+  "last_page_order": 100
+}

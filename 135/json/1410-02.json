@@ -1,0 +1,62 @@
+{
+  "id": 12587562,
+  "name": "Robert F. PONTE, petitioner, v. SHERMETA ADAMS & VON ALLMEN, PC, et al.",
+  "name_abbreviation": "Ponte v. Shermeta Adams & Von Allmen, PC",
+  "decision_date": "2015-02-23",
+  "docket_number": "No. 14\u20137361.",
+  "first_page": "1410",
+  "last_page": "1410",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1410"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 219,
+    "sha256": "ec9c05154f309f09da0d2498177f9667c49d240fc537b1bcf5648ed76f3a3c9e",
+    "simhash": "1:f03f905e9f0585ad",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert F. PONTE, petitioner,\nv.\nSHERMETA ADAMS & VON ALLMEN, PC, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeals of Michigan denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert F. PONTE, petitioner,\nv.\nSHERMETA ADAMS & VON ALLMEN, PC, et al.\nNo. 14-7361.\nSupreme Court of the United States\nFeb. 23, 2015.\nOpinion"
+  },
+  "file_name": "1410-02",
+  "first_page_order": 1410,
+  "last_page_order": 1410
+}

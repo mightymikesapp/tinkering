@@ -1,0 +1,62 @@
+{
+  "id": 12593234,
+  "name": "Daniel Lee DRAPER, petitioner, v. Cherry LINDAMOOD, Warden.",
+  "name_abbreviation": "Draper v. Lindamood",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u20136448.",
+  "first_page": "488",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 368"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 236,
+    "sha256": "47e1071a616f3fdc1a6baf0445d0289481c28e808b26cba711d03f55428b972e",
+    "simhash": "1:7ebd96deb3c014d9",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel Lee DRAPER, petitioner,\nv.\nCherry LINDAMOOD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Daniel Lee DRAPER, petitioner,\nv.\nCherry LINDAMOOD, Warden.\nNo. 14-6448.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0488-02",
+  "first_page_order": 488,
+  "last_page_order": 488
+}

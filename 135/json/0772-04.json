@@ -1,0 +1,62 @@
+{
+  "id": 12594134,
+  "name": "Bea CRABTREE, et al., petitioners, v. FRIENDS OF AMADOR COUNTY.",
+  "name_abbreviation": "Crabtree v. Friends of Amador Cnty.",
+  "decision_date": "2014-12-08",
+  "docket_number": "No. 14M58.",
+  "first_page": "772",
+  "last_page": "772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 772"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 625"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 227,
+    "sha256": "650ea15b4cdb602e8b97f90b3bb317ce078bf2f40a89fefbb97a04ec7a9d3072",
+    "simhash": "1:5bc74006d3d1778e",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bea CRABTREE, et al., petitioners,\nv.\nFRIENDS OF AMADOR COUNTY."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the Clerk to file a cross-petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Bea CRABTREE, et al., petitioners,\nv.\nFRIENDS OF AMADOR COUNTY.\nNo. 14M58.\nSupreme Court of the United States\nDec. 8, 2014.\nOpinion"
+  },
+  "file_name": "0772-04",
+  "first_page_order": 772,
+  "last_page_order": 772
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12589974,
+  "name": "BRISTOL-MYERS SQUIBB COMPANY, petitioner, v. TEVA PHARMACEUTICALS USA, INC.",
+  "name_abbreviation": "Bristol-Myers Squibb Co. v. Teva Pharm. United States, Inc.",
+  "decision_date": "2015-05-04",
+  "docket_number": "No. 14\u2013886.",
+  "first_page": "2050",
+  "last_page": "2050",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2050"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 956"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "29e361a6b4599d4e759a25abc3d4d383104d8b595acda239b7b838eb3ac49dba",
+    "simhash": "1:933d7444378d92e6",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BRISTOL-MYERS SQUIBB COMPANY, petitioner,\nv.\nTEVA PHARMACEUTICALS USA, INC."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "BRISTOL-MYERS SQUIBB COMPANY, petitioner,\nv.\nTEVA PHARMACEUTICALS USA, INC.\nNo. 14-886.\nSupreme Court of the United States\nMay 4, 2015.\nOpinion"
+  },
+  "file_name": "2050-01",
+  "first_page_order": 2050,
+  "last_page_order": 2050
+}

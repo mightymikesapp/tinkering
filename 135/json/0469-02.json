@@ -1,0 +1,62 @@
+{
+  "id": 12593111,
+  "name": "Mitchell Edward GARVIN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Garvin v. United States",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u20136516.",
+  "first_page": "469",
+  "last_page": "469",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 469"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 351"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 225,
+    "sha256": "83d615edc6a59bf4ce550d34202afc57e6c3c99f11b17906a42d62ddd6cfa9d4",
+    "simhash": "1:f32f44843f8cd513",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mitchell Edward GARVIN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Mitchell Edward GARVIN, petitioner,\nv.\nUNITED STATES.\nNo. 14-6516.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0469-02",
+  "first_page_order": 469,
+  "last_page_order": 469
+}

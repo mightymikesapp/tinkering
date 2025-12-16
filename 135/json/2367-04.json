@@ -1,0 +1,62 @@
+{
+  "id": 12590704,
+  "name": "Richard RODRIGUEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rodriguez v. United States",
+  "decision_date": "2015-05-26",
+  "docket_number": "No. 14\u20139407.",
+  "first_page": "2367",
+  "last_page": "2367",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2367"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 157"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 219,
+    "sha256": "0366dc4854038c110d71f3282144b0d01dd336f183e149894038e63c5708c206",
+    "simhash": "1:93ad6644b70c4449",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard RODRIGUEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Richard RODRIGUEZ, petitioner,\nv.\nUNITED STATES.\nNo. 14-9407.\nSupreme Court of the United States\nMay 26, 2015.\nOpinion"
+  },
+  "file_name": "2367-04",
+  "first_page_order": 2367,
+  "last_page_order": 2367
+}

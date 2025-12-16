@@ -1,0 +1,62 @@
+{
+  "id": 12589352,
+  "name": "In re William Hayes WYTTENBACH, petitioner.",
+  "name_abbreviation": "In re Wyttenbach",
+  "decision_date": "2015-04-20",
+  "docket_number": "No. 14\u2013963.",
+  "first_page": "1845",
+  "last_page": "1845",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1845"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 756"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 153,
+    "sha256": "e2c962ca1ab1c2f0b2034110c9a895540f48f00a0fcc77d8e7bce315a8a2c40a",
+    "simhash": "1:eca726542401d2ff",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William Hayes WYTTENBACH, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re William Hayes WYTTENBACH, petitioner.\nNo. 14-963.\nSupreme Court of the United States\nApril 20, 2015.\nOpinion"
+  },
+  "file_name": "1845-03",
+  "first_page_order": 1845,
+  "last_page_order": 1845
+}

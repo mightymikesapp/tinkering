@@ -1,0 +1,62 @@
+{
+  "id": 12589804,
+  "name": "Gary BERRY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Berry v. United States",
+  "decision_date": "2015-04-27",
+  "docket_number": "No. 14\u20139054.",
+  "first_page": "1910",
+  "last_page": "1910",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1910"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 776"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "0658917def70b2bb679ddc9676d9354059ebee75b5ff73525426027949e7d3e5",
+    "simhash": "1:f7ad66c426094595",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary BERRY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gary BERRY, petitioner,\nv.\nUNITED STATES.\nNo. 14-9054.\nSupreme Court of the United States\nApril 27, 2015.\nOpinion"
+  },
+  "file_name": "1910-03",
+  "first_page_order": 1910,
+  "last_page_order": 1910
+}

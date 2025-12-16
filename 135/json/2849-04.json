@@ -1,0 +1,62 @@
+{
+  "id": 12591507,
+  "name": "Leonard HENRY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Henry v. United States",
+  "decision_date": "2015-06-15",
+  "docket_number": "No. 14\u20139769.",
+  "first_page": "2849",
+  "last_page": "2849",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2849"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 884"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 219,
+    "sha256": "586f6ba37789a480caf3cd372e271cac430096ef44f869b39351d30f4dd7ad6b",
+    "simhash": "1:d0ac06442b0586cb",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leonard HENRY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Leonard HENRY, petitioner,\nv.\nUNITED STATES.\nNo. 14-9769.\nSupreme Court of the United States\nJune 15, 2015.\nOpinion"
+  },
+  "file_name": "2849-04",
+  "first_page_order": 2849,
+  "last_page_order": 2849
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12589336,
+  "name": "UNITED STATES, petitioner, v. CMS CONTRACT MANAGEMENT SERVICES, et al.",
+  "name_abbreviation": "United States v. CMS Contract Mgmt. Servs.",
+  "decision_date": "2015-04-20",
+  "docket_number": "No. 14\u2013781.",
+  "first_page": "1842",
+  "last_page": "1842",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1842"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 244,
+    "sha256": "37770f4a48e42c47b6b9267ab659cb1d118099aaccd3c7c3f0ff839bedac71f9",
+    "simhash": "1:632fd6c43e0013ad",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, petitioner,\nv.\nCMS CONTRACT MANAGEMENT SERVICES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "UNITED STATES, petitioner,\nv.\nCMS CONTRACT MANAGEMENT SERVICES, et al.\nNo. 14-781.\nSupreme Court of the United States\nApril 20, 2015.\nOpinion"
+  },
+  "file_name": "1842-04",
+  "first_page_order": 1842,
+  "last_page_order": 1842
+}

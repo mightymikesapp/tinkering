@@ -1,0 +1,62 @@
+{
+  "id": 12593188,
+  "name": "Steven J. MELVIN, petitioner, v. Tom FELKER, Warden.",
+  "name_abbreviation": "Melvin v. Felker",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u20136156.",
+  "first_page": "480",
+  "last_page": "480",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 480"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 224,
+    "sha256": "5696cd069d99a9d365eb78448885a3e886e77cf649d689d8e7f55806b881c4b9",
+    "simhash": "1:f38d10e63f0413e8",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven J. MELVIN, petitioner,\nv.\nTom FELKER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Steven J. MELVIN, petitioner,\nv.\nTom FELKER, Warden.\nNo. 14-6156.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0480-05",
+  "first_page_order": 480,
+  "last_page_order": 480
+}

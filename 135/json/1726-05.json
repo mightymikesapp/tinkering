@@ -1,0 +1,62 @@
+{
+  "id": 12589047,
+  "name": "David ADAMS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Adams v. United States",
+  "decision_date": "2015-03-30",
+  "docket_number": "No. 14\u20138649.",
+  "first_page": "1726",
+  "last_page": "1726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1726"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 694"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 216,
+    "sha256": "a5a9eeeb6b36ea7295a480e62d8b2ac8afeed9ceecc422f5518662e61b169241",
+    "simhash": "1:f02d26443f4d520d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David ADAMS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David ADAMS, petitioner,\nv.\nUNITED STATES.\nNo. 14-8649.\nSupreme Court of the United States\nMarch 30, 2015.\nOpinion"
+  },
+  "file_name": "1726-05",
+  "first_page_order": 1726,
+  "last_page_order": 1726
+}

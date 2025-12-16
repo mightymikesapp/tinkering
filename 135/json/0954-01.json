@@ -1,0 +1,62 @@
+{
+  "id": 12594522,
+  "name": "David CAESAR, petitioner, v. Anthony J. PADULA, Warden.",
+  "name_abbreviation": "Caesar v. Padula",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20136754.",
+  "first_page": "954",
+  "last_page": "954",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 954"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 846"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 228,
+    "sha256": "695a4ef26fdffa2967cc00e0a6b4ae9a9329ef2f9e894e516d276da59d506acf",
+    "simhash": "1:70bfc4c42e814480",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David CAESAR, petitioner,\nv.\nAnthony J. PADULA, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David CAESAR, petitioner,\nv.\nAnthony J. PADULA, Warden.\nNo. 14-6754.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "0954-01",
+  "first_page_order": 954,
+  "last_page_order": 954
+}

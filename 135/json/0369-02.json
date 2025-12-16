@@ -1,0 +1,62 @@
+{
+  "id": 12592493,
+  "name": "George CABOT, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Cabot v. Illinois",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u20135701.",
+  "first_page": "369",
+  "last_page": "369",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 369"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 202,
+    "sha256": "aa335a6b6656276a8060ac5bca2ecb36acc02792fadb7bf4f0cfe078b9e74754",
+    "simhash": "1:f1afb6143801a180",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George CABOT, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "George CABOT, petitioner,\nv.\nILLINOIS.\nNo. 14-5701.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0369-02",
+  "first_page_order": 369,
+  "last_page_order": 369
+}

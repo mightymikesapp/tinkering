@@ -1,0 +1,92 @@
+{
+  "id": 12594428,
+  "name": "Eligah DARNELL, Jr., petitioner, v. TEXAS.",
+  "name_abbreviation": "Darnell v. Texas",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310302.",
+  "first_page": "93",
+  "last_page": "93",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 93"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 81,
+    "char_count": 663,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635354416415783
+    },
+    "sha256": "58ff8e3d85fafce200a6f727fbc440a1cd58d663ffa732ad8e3511d23c9b7a37",
+    "simhash": "1:6d63e517e10dc6db",
+    "word_count": 108
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eligah DARNELL, Jr., petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of certiorari to the Court of Criminal Appeal of Texas dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals,506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992)(per curiam).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Eligah DARNELL, Jr., petitioner,\nv.\nTEXAS.\nNo. 13-10302.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0093-02",
+  "first_page_order": 93,
+  "last_page_order": 93
+}

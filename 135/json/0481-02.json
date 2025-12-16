@@ -1,0 +1,62 @@
+{
+  "id": 12593191,
+  "name": "Henry Unseld WASHINGTON, petitioner, v. James L. GRACE, et al.",
+  "name_abbreviation": "Washington v. Grace",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u20136175.",
+  "first_page": "481",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 481"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 234,
+    "sha256": "bef474e5d1b2b7b02628f177021cd296ce56784095131571084a9d670ea29b0b",
+    "simhash": "1:f22d52846f0010e9",
+    "word_count": 39
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry Unseld WASHINGTON, petitioner,\nv.\nJames L. GRACE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Henry Unseld WASHINGTON, petitioner,\nv.\nJames L. GRACE, et al.\nNo. 14-6175.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0481-02",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

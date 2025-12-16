@@ -1,0 +1,62 @@
+{
+  "id": 12589038,
+  "name": "John Rodney VEACH, petitioner, v. Marion FEATHER, Warden.",
+  "name_abbreviation": "Veach v. Feather",
+  "decision_date": "2015-03-30",
+  "docket_number": "No. 14\u20138619.",
+  "first_page": "1725",
+  "last_page": "1725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1725"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 693"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 230,
+    "sha256": "b4f04d5b73efee07dacbddc9b58dc05e76e418b3b90586e419b8ee3be6299788",
+    "simhash": "1:f36d04403f8912a9",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Rodney VEACH, petitioner,\nv.\nMarion FEATHER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Rodney VEACH, petitioner,\nv.\nMarion FEATHER, Warden.\nNo. 14-8619.\nSupreme Court of the United States\nMarch 30, 2015.\nOpinion"
+  },
+  "file_name": "1725-02",
+  "first_page_order": 1725,
+  "last_page_order": 1725
+}

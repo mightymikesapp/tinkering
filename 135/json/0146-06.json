@@ -1,0 +1,62 @@
+{
+  "id": 12587895,
+  "name": "Paul CORTEZ, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Cortez v. Newyork",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310617.",
+  "first_page": "146",
+  "last_page": "146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 146"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 185,
+    "sha256": "5994e4875933796d668e9e0ae85c10aeed27969d813af74cb1f3b9afe78dbc38",
+    "simhash": "1:68ac1254b2c520f3",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul CORTEZ, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeals of New York denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Paul CORTEZ, petitioner,\nv.\nNEW YORK.\nNo. 13-10617.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0146-06",
+  "first_page_order": 146,
+  "last_page_order": 146
+}

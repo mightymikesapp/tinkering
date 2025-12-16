@@ -1,0 +1,62 @@
+{
+  "id": 12590385,
+  "name": "Hugh McINNISH, et al, petitioners, v. Jim BENNETT, Alabama Secretary of State.",
+  "name_abbreviation": "McInnish v. Bennett",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u201373.",
+  "first_page": "232",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 232"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 219,
+    "sha256": "de6e35d66deadf3eacb6f666872d6572ff13cbfeee1a12cb9d16c3bdf715ce4f",
+    "simhash": "1:f2edd234fac5c4fc",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hugh McINNISH, et al, petitioners,\nv.\nJim BENNETT, Alabama Secretary of State."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Alabama denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Hugh McINNISH, et al, petitioners,\nv.\nJim BENNETT, Alabama Secretary of State.\nNo. 14-73.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0232-01",
+  "first_page_order": 232,
+  "last_page_order": 232
+}

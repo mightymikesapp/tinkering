@@ -1,0 +1,62 @@
+{
+  "id": 12592098,
+  "name": "Jose Juan MONTELONGO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Montelongo v. United States",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135860.",
+  "first_page": "300",
+  "last_page": "300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 300"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 222,
+    "sha256": "fa949b8207e3f62d13711d36344326225f599582389488ea597d7314e672ea82",
+    "simhash": "1:ebecf6e43e0d86cd",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Juan MONTELONGO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jose Juan MONTELONGO, petitioner,\nv.\nUNITED STATES.\nNo. 14-5860.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0300-01",
+  "first_page_order": 300,
+  "last_page_order": 300
+}

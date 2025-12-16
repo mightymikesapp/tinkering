@@ -1,0 +1,62 @@
+{
+  "id": 12592644,
+  "name": "Jose SANCHEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Sanchez v. United States",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u20136173.",
+  "first_page": "390",
+  "last_page": "390",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 390"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 275"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "7482ff50a36725b7715222449f112c1b0c672530098ca2734dff267fde4d4c77",
+    "simhash": "1:b3ad764c3f0d804d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose SANCHEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jose SANCHEZ, petitioner,\nv.\nUNITED STATES.\nNo. 14-6173.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0390-03",
+  "first_page_order": 390,
+  "last_page_order": 390
+}

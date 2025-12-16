@@ -1,0 +1,62 @@
+{
+  "id": 12590106,
+  "name": "In re Brian Allen ETCHISON, petitioner.",
+  "name_abbreviation": "In re Etchison",
+  "decision_date": "2015-05-04",
+  "docket_number": "No. 14\u20139278.",
+  "first_page": "2070",
+  "last_page": "2070",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2070"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 971"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 152,
+    "sha256": "174b14be824d097a5a620d937c4e4f53b37f13e70af8b84a0f235f432836cac9",
+    "simhash": "1:5c1d2474aef9c04b",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Brian Allen ETCHISON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Brian Allen ETCHISON, petitioner.\nNo. 14-9278.\nSupreme Court of the United States\nMay 4, 2015.\nOpinion"
+  },
+  "file_name": "2070-01",
+  "first_page_order": 2070,
+  "last_page_order": 2070
+}

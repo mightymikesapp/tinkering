@@ -1,0 +1,62 @@
+{
+  "id": 12593899,
+  "name": "Michael Lynn CRISP, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Crisp v. United States",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14M55.",
+  "first_page": "739",
+  "last_page": "739",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 739"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 436"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 207,
+    "sha256": "a7ca7bb7f854148b8e46d6ec45c1e5423ca6631539654cbea95b027335b5158c",
+    "simhash": "1:c98f4606c78bf1bd",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Lynn CRISP, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael Lynn CRISP, petitioner,\nv.\nUNITED STATES.\nNo. 14M55.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0739-04",
+  "first_page_order": 739,
+  "last_page_order": 739
+}

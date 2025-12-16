@@ -1,0 +1,62 @@
+{
+  "id": 12592806,
+  "name": "David RICH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rich v. United States",
+  "decision_date": "2014-10-20",
+  "docket_number": "No. 14\u20136283.",
+  "first_page": "416",
+  "last_page": "416",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 416"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "1e9779eb98fa67688839984cf58c00293c46d01bb9a9e1788dc78e9b08724c24",
+    "simhash": "1:5bedc204bb858415",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David RICH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David RICH, petitioner,\nv.\nUNITED STATES.\nNo. 14-6283.\nSupreme Court of the United States\nOct. 20, 2014.\nOpinion"
+  },
+  "file_name": "0416-01",
+  "first_page_order": 416,
+  "last_page_order": 416
+}

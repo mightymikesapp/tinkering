@@ -1,0 +1,58 @@
+{
+  "id": 12593640,
+  "name": "In re Clarence TIMMONS, Jr., petitioner.",
+  "name_abbreviation": "In re Timmons",
+  "decision_date": "2014-11-17",
+  "docket_number": "No. 14\u20136875.",
+  "first_page": "695",
+  "last_page": "695",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 155,
+    "sha256": "03d2db20ec88b158680ca9427c379de6dd8aeb4582b046204e603dd539a00f15",
+    "simhash": "1:6eab0076de89534b",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Clarence TIMMONS, Jr., petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Clarence TIMMONS, Jr., petitioner.\nNo. 14-6875.\nSupreme Court of the United States\nNov. 17, 2014.\nOpinion"
+  },
+  "file_name": "0695-06",
+  "first_page_order": 695,
+  "last_page_order": 695
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12590791,
+  "name": "C. Michael KAMPS, petitioner, v. BAYLOR UNIVERSITY, et al.",
+  "name_abbreviation": "Kamps v. Baylor Univ.",
+  "decision_date": "2015-06-01",
+  "docket_number": "No. 14\u20131178.",
+  "first_page": "2380",
+  "last_page": "2380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2380"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 166"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 229,
+    "sha256": "9f93b46c548a20e6179a70dc7c5e7a9778e6ac573c4062c6c34a84c0e26c7cf4",
+    "simhash": "1:f32ef6543b0d40d7",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. Michael KAMPS, petitioner,\nv.\nBAYLOR UNIVERSITY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "C. Michael KAMPS, petitioner,\nv.\nBAYLOR UNIVERSITY, et al.\nNo. 14-1178.\nSupreme Court of the United States\nJune 1, 2015.\nOpinion"
+  },
+  "file_name": "2380-03",
+  "first_page_order": 2380,
+  "last_page_order": 2380
+}

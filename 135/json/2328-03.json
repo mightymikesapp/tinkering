@@ -1,0 +1,62 @@
+{
+  "id": 12590441,
+  "name": "Johnny TEMPLE, petitioner, v. J.R. MILLER, Warden.",
+  "name_abbreviation": "Temple v. Miller",
+  "decision_date": "2015-05-18",
+  "docket_number": "No. 14\u20139116.",
+  "first_page": "2328",
+  "last_page": "2328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2328"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 992"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "0c88195553700128e4c945338e6df9850cf9c5cb5edb0ed93a9a9e2bc30b8b83",
+    "simhash": "1:753dd24c7e81c62b",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnny TEMPLE, petitioner,\nv.\nJ.R. MILLER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Johnny TEMPLE, petitioner,\nv.\nJ.R. MILLER, Warden.\nNo. 14-9116.\nSupreme Court of the United States\nMay 18, 2015.\nOpinion"
+  },
+  "file_name": "2328-03",
+  "first_page_order": 2328,
+  "last_page_order": 2328
+}

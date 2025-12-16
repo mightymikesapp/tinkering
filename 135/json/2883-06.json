@@ -1,0 +1,62 @@
+{
+  "id": 12591735,
+  "name": "In the Matter of DISBARMENT OF Joseph Thomas MONGELLI.",
+  "name_abbreviation": "In re Mongelli",
+  "decision_date": "2015-06-22",
+  "docket_number": "No. D\u20132813.",
+  "first_page": "2883",
+  "last_page": "2883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2883"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 916"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 151,
+    "sha256": "2d809da89852222def9b3d6228d8b4bf1ae3a382311f7778e6fdf3de3a7fd93f",
+    "simhash": "1:b0e1544633c2fce7",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Joseph Thomas MONGELLI."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Joseph Thomas MONGELLI.\nNo. D-2813.\nSupreme Court of the United States\nJune 22, 2015.\nOpinion"
+  },
+  "file_name": "2883-06",
+  "first_page_order": 2883,
+  "last_page_order": 2883
+}

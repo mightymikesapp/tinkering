@@ -1,0 +1,62 @@
+{
+  "id": 12588135,
+  "name": "James L. BROWN, petitioner, v. George CRUTCHFIELD, Warden.",
+  "name_abbreviation": "Brown v. Crutchfield",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. 14\u20137717.",
+  "first_page": "1495",
+  "last_page": "1495",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1495"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 436"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 230,
+    "sha256": "75abf22a7b564b2dccf03e09e507a12f38a5183ca3daab03f9f649cb4486e665",
+    "simhash": "1:f52d444c3701d581",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James L. BROWN, petitioner,\nv.\nGeorge CRUTCHFIELD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "James L. BROWN, petitioner,\nv.\nGeorge CRUTCHFIELD, Warden.\nNo. 14-7717.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1495-06",
+  "first_page_order": 1495,
+  "last_page_order": 1495
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12593540,
+  "name": "Larry Elliott KLAYMAN, petitioner, v. Mark ZUCKERBERG, et al.",
+  "name_abbreviation": "Klayman v. Zuckerberg",
+  "decision_date": "2014-11-17",
+  "docket_number": "No. 14\u2013312.",
+  "first_page": "680",
+  "last_page": "680",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 680"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 391"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 247,
+    "sha256": "2daad503b2529f09a47ba4af8ddfe5a6e5371efaa50afd56b5f4ab3e9d0ff6dc",
+    "simhash": "1:7aafc6440b4d00eb",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry Elliott KLAYMAN, petitioner,\nv.\nMark ZUCKERBERG, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Larry Elliott KLAYMAN, petitioner,\nv.\nMark ZUCKERBERG, et al.\nNo. 14-312.\nSupreme Court of the United States\nNov. 17, 2014.\nOpinion"
+  },
+  "file_name": "0680-04",
+  "first_page_order": 680,
+  "last_page_order": 680
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12589560,
+  "name": "Anthony BUTLER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Butler v. United States",
+  "decision_date": "2015-04-20",
+  "docket_number": "No. 14\u20138901.",
+  "first_page": "1876",
+  "last_page": "1876",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1876"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 748"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 203,
+    "sha256": "3618340b4dabeb381c9bd475dccd2e0f4bf8ae4c892b0e305286d60161477506",
+    "simhash": "1:eb8f3644260dc495",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony BUTLER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the District of Columbia Court of Appeals denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Anthony BUTLER, petitioner,\nv.\nUNITED STATES.\nNo. 14-8901.\nSupreme Court of the United States\nApril 20, 2015.\nOpinion"
+  },
+  "file_name": "1876-05",
+  "first_page_order": 1876,
+  "last_page_order": 1876
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12591212,
+  "name": "Richard J. JONES, petitioner, v. OHIO.",
+  "name_abbreviation": "Jones v. Ohio",
+  "decision_date": "2014-08-11",
+  "docket_number": "No. 13\u20139875.",
+  "first_page": "28",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 28"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 880"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "df079f7b66cd02b0b4bd4ada6d4db3d1f16bfbf30b5d801827367e567910d52d",
+    "simhash": "1:c17696101ece6282",
+    "word_count": 22
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard J. JONES, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for rehearing denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Richard J. JONES, petitioner,\nv.\nOHIO.\nNo. 13-9875.\nSupreme Court of the United States\nAug. 11, 2014.\nOpinion"
+  },
+  "file_name": "0028-06",
+  "first_page_order": 28,
+  "last_page_order": 28
+}

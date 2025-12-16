@@ -1,0 +1,62 @@
+{
+  "id": 12592736,
+  "name": "Mikkel S. AAES, et al., petitioners, v. 4G COMPANIES, et al.",
+  "name_abbreviation": "Aaes v. 4G Cos.",
+  "decision_date": "2014-10-20",
+  "docket_number": "No. 14\u2013183.",
+  "first_page": "405",
+  "last_page": "405",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 405"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 291"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 231,
+    "sha256": "b79416debcdbbedc76a9a08b7661b5430743ab6c69b3109619c8a255283d26eb",
+    "simhash": "1:77aff40cb68532ed",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mikkel S. AAES, et al., petitioners,\nv.\n4G COMPANIES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Mikkel S. AAES, et al., petitioners,\nv.\n4G COMPANIES, et al.\nNo. 14-183.\nSupreme Court of the United States\nOct. 20, 2014.\nOpinion"
+  },
+  "file_name": "0405-03",
+  "first_page_order": 405,
+  "last_page_order": 405
+}

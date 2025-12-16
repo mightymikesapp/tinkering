@@ -1,0 +1,80 @@
+{
+  "id": 12591751,
+  "name": "Phil BERGER, President Pro Tempore of the North Carolina Senate, et al., petitioners, v. AMERICAN CIVIL LIBERTIES UNION OF NORTH CAROLINA, et al.",
+  "name_abbreviation": "Berger v. Am. Civil Liberties Union of N.C.",
+  "decision_date": "2015-06-29",
+  "docket_number": "No. 14\u201335.",
+  "first_page": "2886",
+  "last_page": "2886",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2886"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 918"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2239",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12590259
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2239-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 67,
+    "char_count": 640,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635228926474092
+    },
+    "sha256": "1ad189758c920160610e2ecd85070956d04b013e0b5cf1ce5dcdf0b89ca827e4",
+    "simhash": "1:666fc08c2b61168c",
+    "word_count": 103
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Phil BERGER, President Pro Tempore of the North Carolina Senate, et al., petitioners,\nv.\nAMERICAN CIVIL LIBERTIES UNION OF NORTH CAROLINA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of Walker v. Texas Div., Sons of Confederate Veterans, Inc.,576 U.S. ----, 135 S.Ct. 2239, --- L.Ed.2d ---- (2015).\n23 NO. 03 Westlaw Journal Health Law 8",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Phil BERGER, President Pro Tempore of the North Carolina Senate, et al., petitioners,\nv.\nAMERICAN CIVIL LIBERTIES UNION OF NORTH CAROLINA, et al.\nNo. 14-35.\nSupreme Court of the United States\nJune 29, 2015.\nOpinion"
+  },
+  "file_name": "2886-04",
+  "first_page_order": 2886,
+  "last_page_order": 2886
+}

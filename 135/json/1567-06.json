@@ -1,0 +1,62 @@
+{
+  "id": 12588619,
+  "name": "Harry NIE, petitioner, v. Harold W. CLARKE, Director, Virginia Department of Corrections.",
+  "name_abbreviation": "Nie v. Clarke",
+  "decision_date": "2015-03-23",
+  "docket_number": "No. 14\u20138317.",
+  "first_page": "1567",
+  "last_page": "1567",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1567"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 652"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 263,
+    "sha256": "b4d631587d14bbc1c671f38b0820ae3c5b17f050373e057bb2ce1b2fafe652ba",
+    "simhash": "1:726fa6c5bb40b7a0",
+    "word_count": 41
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harry NIE, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Harry NIE, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections.\nNo. 14-8317.\nSupreme Court of the United States\nMarch 23, 2015.\nOpinion"
+  },
+  "file_name": "1567-06",
+  "first_page_order": 1567,
+  "last_page_order": 1567
+}

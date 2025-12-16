@@ -1,0 +1,62 @@
+{
+  "id": 12593238,
+  "name": "Brian SPINKS, petitioner, v. MONTANA.",
+  "name_abbreviation": "Spinks v. Montana",
+  "decision_date": "2014-11-10",
+  "docket_number": "No. 14\u20136460.",
+  "first_page": "488",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 369"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 181,
+    "sha256": "9a8161ecb15b295730c24abc32906573474218e6cf0a8c0771d3919248219e22",
+    "simhash": "1:daaf1414380a149b",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian SPINKS, petitioner,\nv.\nMONTANA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Montana denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Brian SPINKS, petitioner,\nv.\nMONTANA.\nNo. 14-6460.\nSupreme Court of the United States\nNov. 10, 2014.\nOpinion"
+  },
+  "file_name": "0488-06",
+  "first_page_order": 488,
+  "last_page_order": 488
+}

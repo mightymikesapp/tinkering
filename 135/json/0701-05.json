@@ -1,0 +1,58 @@
+{
+  "id": 12593684,
+  "name": "In the Matter of DISBARMENT OF Jerome PLOTNER.",
+  "name_abbreviation": "In re Plotner",
+  "decision_date": "2014-11-17",
+  "docket_number": "No. D\u20132797.",
+  "first_page": "701",
+  "last_page": "701",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 701"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 143,
+    "sha256": "aa0f792b2ea3650b664a51675700907f29fa237d0884eb248bc7e4f905b0d539",
+    "simhash": "1:40e5441496a474e1",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Jerome PLOTNER."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Jerome PLOTNER.\nNo. D-2797.\nSupreme Court of the United States\nNov. 17, 2014.\nOpinion"
+  },
+  "file_name": "0701-05",
+  "first_page_order": 701,
+  "last_page_order": 701
+}

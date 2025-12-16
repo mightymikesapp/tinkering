@@ -1,0 +1,62 @@
+{
+  "id": 12591746,
+  "name": "In the Matter of DISBARMENT OF David S. PURCELL.",
+  "name_abbreviation": "In re Purcell",
+  "decision_date": "2015-06-22",
+  "docket_number": "No. D\u20132824.",
+  "first_page": "2885",
+  "last_page": "2885",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2885"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 917"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "73bc41ec82ff277e6ae098412e2e3621606a6d3277f3b679b9e901905d1545d1",
+    "simhash": "1:60635552b2836ce6",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF David S. PURCELL."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF David S. PURCELL.\nNo. D-2824.\nSupreme Court of the United States\nJune 22, 2015.\nOpinion"
+  },
+  "file_name": "2885-02",
+  "first_page_order": 2885,
+  "last_page_order": 2885
+}

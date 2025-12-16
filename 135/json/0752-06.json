@@ -1,0 +1,62 @@
+{
+  "id": 12594003,
+  "name": "In the Matter of DISBARMENT OF Rufus COOK.",
+  "name_abbreviation": "In re Cook",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. D\u20132791.",
+  "first_page": "752",
+  "last_page": "752",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 752"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 473"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 138,
+    "sha256": "0d52075816864679a4ece54a73c878cbc8bdfca12f8eeba37900c31a6489d464",
+    "simhash": "1:62a554943696f6e5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Rufus COOK."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Rufus COOK.\nNo. D-2791.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0752-06",
+  "first_page_order": 752,
+  "last_page_order": 752
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12591058,
+  "name": "Fred M. HECTOR, petitioner, v. CITY OF FARGO, NORTH DAKOTA.",
+  "name_abbreviation": "Hector v. City of Fargo",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u2013107.",
+  "first_page": "259",
+  "last_page": "259",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 259"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 206,
+    "sha256": "85702dba3fc8f2d422e355e9bd22dc58b660492c464fab5776093d0473242d44",
+    "simhash": "1:eaad861490016485",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fred M. HECTOR, petitioner,\nv.\nCITY OF FARGO, NORTH DAKOTA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of North Dakota denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fred M. HECTOR, petitioner,\nv.\nCITY OF FARGO, NORTH DAKOTA.\nNo. 14-107.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0259-04",
+  "first_page_order": 259,
+  "last_page_order": 259
+}

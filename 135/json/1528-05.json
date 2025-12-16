@@ -1,0 +1,62 @@
+{
+  "id": 12588369,
+  "name": "In the Matter of DISBARMENT OF William Stephen MANNEAR.",
+  "name_abbreviation": "In re Mannear",
+  "decision_date": "2015-03-02",
+  "docket_number": "No. D\u20132811.",
+  "first_page": "1528",
+  "last_page": "1528",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1528"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 458"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 152,
+    "sha256": "7c265bbf7af8c977dce592b715e69cb23875c361e700cca3457c33466ecf8242",
+    "simhash": "1:e233715337ff34d5",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF William Stephen MANNEAR."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF William Stephen MANNEAR.\nNo. D-2811.\nSupreme Court of the United States\nMarch 2, 2015.\nOpinion"
+  },
+  "file_name": "1528-05",
+  "first_page_order": 1528,
+  "last_page_order": 1528
+}

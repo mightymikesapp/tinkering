@@ -1,0 +1,62 @@
+{
+  "id": 12594296,
+  "name": "Robert DURST, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Durst v. California",
+  "decision_date": "2014-12-15",
+  "docket_number": "No. 14\u20136632.",
+  "first_page": "874",
+  "last_page": "874",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 874"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 216,
+    "sha256": "46e3307db1b83e4b5280c6dee3cf038b1e619ff94e69fc027f5b4e0bf03635c5",
+    "simhash": "1:794fc4943fc574b9",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert DURST, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeal of California, Third Appellate District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert DURST, petitioner,\nv.\nCALIFORNIA.\nNo. 14-6632.\nSupreme Court of the United States\nDec. 15, 2014.\nOpinion"
+  },
+  "file_name": "0874-05",
+  "first_page_order": 874,
+  "last_page_order": 874
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12588080,
+  "name": "Carlos LOPEZ, petitioner, v. David PIERCE, Warden, et al.",
+  "name_abbreviation": "Lopez v. Pierce",
+  "decision_date": "2015-02-23",
+  "docket_number": "No. 14\u20136400.",
+  "first_page": "1488",
+  "last_page": "1488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1488"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 425"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 160,
+    "sha256": "f4776de52af4df27aa4f8f93f1debf6243d4b77236e85c5ec740ee500c8dc6d3",
+    "simhash": "1:d32f9e061c5de412",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos LOPEZ, petitioner,\nv.\nDavid PIERCE, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for rehearing denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Carlos LOPEZ, petitioner,\nv.\nDavid PIERCE, Warden, et al.\nNo. 14-6400.\nSupreme Court of the United States\nFeb. 23, 2015.\nOpinion"
+  },
+  "file_name": "1488-03",
+  "first_page_order": 1488,
+  "last_page_order": 1488
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12587355,
+  "name": "John Antonio POOLE, petitioner, v. Duncan MacLAREN, Warden.",
+  "name_abbreviation": "Poole v. Maclaren",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310481.",
+  "first_page": "122",
+  "last_page": "122",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 122"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 94"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 231,
+    "sha256": "11a9a64c3cfbf9d8cb24019c7c4fecc9a07f44181caa1796d87f03d22d3e598e",
+    "simhash": "1:70ed4044bc2486a9",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Antonio POOLE, petitioner,\nv.\nDuncan MacLAREN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Antonio POOLE, petitioner,\nv.\nDuncan MacLAREN, Warden.\nNo. 13-10481.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0122-06",
+  "first_page_order": 122,
+  "last_page_order": 122
+}

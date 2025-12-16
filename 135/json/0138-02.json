@@ -1,0 +1,62 @@
+{
+  "id": 12587459,
+  "name": "Felix DANIEL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Daniel v. United States",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 13\u201310571.",
+  "first_page": "138",
+  "last_page": "138",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 138"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "20505e7a6dd1a3dcd4af05b5e658efbd9643aa1b6dac07a98198091fd8e992b1",
+    "simhash": "1:c76c624488058499",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Felix DANIEL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Felix DANIEL, petitioner,\nv.\nUNITED STATES.\nNo. 13-10571.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0138-02",
+  "first_page_order": 138,
+  "last_page_order": 138
+}

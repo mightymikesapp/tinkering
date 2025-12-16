@@ -1,0 +1,62 @@
+{
+  "id": 12594375,
+  "name": "In re Paul Anthony DAVIS, petitioner.",
+  "name_abbreviation": "In re Davis",
+  "decision_date": "2014-12-15",
+  "docket_number": "No. 13\u201310634.",
+  "first_page": "887",
+  "last_page": "887",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 887"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 714"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "cf1c95102b2c6666b6898bb5cb8bbf7c6afe1dd02721cabd6d9681114b8c08e3",
+    "simhash": "1:c27774a03fac74a3",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Paul Anthony DAVIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for rehearing denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Paul Anthony DAVIS, petitioner.\nNo. 13-10634.\nSupreme Court of the United States\nDec. 15, 2014.\nOpinion"
+  },
+  "file_name": "0887-01",
+  "first_page_order": 887,
+  "last_page_order": 887
+}

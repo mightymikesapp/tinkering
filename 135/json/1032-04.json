@@ -1,0 +1,62 @@
+{
+  "id": 12586888,
+  "name": "Frederick JONES, petitioner, v. Fred FOULK, Warden.",
+  "name_abbreviation": "Jones v. Foulk",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20135344.",
+  "first_page": "1032",
+  "last_page": "1032",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1032"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 897"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 154,
+    "sha256": "57be2dc57652934e9bce476b00b63c2988a0203fe22673d6a91ffe218e2f8d25",
+    "simhash": "1:9186160c0785b680",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Frederick JONES, petitioner,\nv.\nFred FOULK, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for rehearing denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Frederick JONES, petitioner,\nv.\nFred FOULK, Warden.\nNo. 14-5344.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1032-04",
+  "first_page_order": 1032,
+  "last_page_order": 1032
+}

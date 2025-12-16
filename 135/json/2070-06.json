@@ -1,0 +1,62 @@
+{
+  "id": 12590111,
+  "name": "STATE OF NEBRASKA and State of Oklahoma, plaintiffs, v. COLORADO.",
+  "name_abbreviation": "State v. Colorado",
+  "decision_date": "2015-05-04",
+  "docket_number": "No. 144, Original.",
+  "first_page": "2070",
+  "last_page": "2070",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2070"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 953"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 246,
+    "sha256": "bcd317869a7adcd3b074a9ad9f0b525ab884f7f1a7ea0eac8e686ec5b60211c6",
+    "simhash": "1:d2ac54402b8ec44a",
+    "word_count": 42
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE OF NEBRASKA and State of Oklahoma, plaintiffs,\nv.\nCOLORADO."
+    ],
+    "opinions": [
+      {
+        "text": "The Solicitor General is invited to file a brief in this case expressing the views of the United States.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "STATE OF NEBRASKA and State of Oklahoma, plaintiffs,\nv.\nCOLORADO.\nNo. 144, Original.\nSupreme Court of the United States\nMay 4, 2015.\nOpinion"
+  },
+  "file_name": "2070-06",
+  "first_page_order": 2070,
+  "last_page_order": 2070
+}

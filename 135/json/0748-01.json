@@ -1,0 +1,62 @@
+{
+  "id": 12593965,
+  "name": "Raheem BROWN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14\u20135228.",
+  "first_page": "748",
+  "last_page": "748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 748"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 470"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "a8564c68e1e72bb6b51667e86789a68b419948d5280565eed98933fe670c05ac",
+    "simhash": "1:7bfd36f41c8e6657",
+    "word_count": 22
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Raheem BROWN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for rehearing denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Raheem BROWN, petitioner,\nv.\nUNITED STATES.\nNo. 14-5228.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0748-01",
+  "first_page_order": 748,
+  "last_page_order": 748
+}

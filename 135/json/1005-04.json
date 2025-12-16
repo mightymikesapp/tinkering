@@ -1,0 +1,62 @@
+{
+  "id": 12586702,
+  "name": "In re Patrick A. JONES, petitioner.",
+  "name_abbreviation": "In re Jones",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20137339.",
+  "first_page": "1005",
+  "last_page": "1005",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1005"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 891"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 150,
+    "sha256": "9ace75715f1b75b3b35f76a211d3759c6a8de64ec871c813f044cb6befd1ed79",
+    "simhash": "1:4c4b4446168be2c8",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Patrick A. JONES, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of habeas corpus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Patrick A. JONES, petitioner.\nNo. 14-7339.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1005-04",
+  "first_page_order": 1005,
+  "last_page_order": 1005
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12590936,
+  "name": "Kimberly J. EIDE, petitioner, v. Phyllis BASKERVILLE, Warden.",
+  "name_abbreviation": "Eide v. Baskerville",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135394.",
+  "first_page": "242",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 242"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 205,
+    "sha256": "57c2a70805936e891696a531dafda4bc3c7c00cdbb17af340a278dbf0aed9a15",
+    "simhash": "1:f8ed521cb16f84a9",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kimberly J. EIDE, petitioner,\nv.\nPhyllis BASKERVILLE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Virginia denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kimberly J. EIDE, petitioner,\nv.\nPhyllis BASKERVILLE, Warden.\nNo. 14-5394.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0242-01",
+  "first_page_order": 242,
+  "last_page_order": 242
+}

@@ -1,0 +1,80 @@
+{
+  "id": 12592036,
+  "name": "Sol Sebastian PEOPLES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Peoples v. United States",
+  "decision_date": "2015-06-30",
+  "docket_number": "No. 14\u20138768.",
+  "first_page": "2937",
+  "last_page": "2937",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2937"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 957"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2652",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591109
+      ],
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2652-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 539,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635292636752181
+    },
+    "sha256": "25d85d591f3113547bbd8bdaa1c6ecce6b0eac55102978ad179a1aa93b6f5044",
+    "simhash": "1:c6afe2c42709060d",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sol Sebastian PEOPLES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperisand petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Johnson v. United States,576 U.S. ----, 135 S.Ct. 2652, --- L.Ed.2d ---- (2015).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sol Sebastian PEOPLES, petitioner,\nv.\nUNITED STATES.\nNo. 14-8768.\nSupreme Court of the United States\nJune 30, 2015.\nOpinion"
+  },
+  "file_name": "2937-03",
+  "first_page_order": 2937,
+  "last_page_order": 2937
+}

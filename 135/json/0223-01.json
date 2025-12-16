@@ -1,0 +1,62 @@
+{
+  "id": 12590253,
+  "name": "Melvin SMITH, petitioner, v. ARKANSAS.",
+  "name_abbreviation": "Smith v. Arkansas",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135269.",
+  "first_page": "223",
+  "last_page": "223",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 223"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 169"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 182,
+    "sha256": "d7ae8c3b821f0593e5d3c2c2ae2107e0ab39d340e144af4855daf1fbab6c86bb",
+    "simhash": "1:eaabf41cf8a72091",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Melvin SMITH, petitioner,\nv.\nARKANSAS."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Supreme Court of Arkansas denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Melvin SMITH, petitioner,\nv.\nARKANSAS.\nNo. 14-5269.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0223-01",
+  "first_page_order": 223,
+  "last_page_order": 223
+}

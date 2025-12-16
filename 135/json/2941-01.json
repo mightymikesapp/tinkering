@@ -1,0 +1,81 @@
+{
+  "id": 12592051,
+  "name": "Jason CASTLE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Castle v. United States",
+  "decision_date": "2015-06-30",
+  "docket_number": "No. 14\u20139108.",
+  "first_page": "2941",
+  "last_page": "2941",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2941"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 969"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2551",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591035
+      ],
+      "weight": 2,
+      "year": 2015,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2551-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 115,
+    "char_count": 1424,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635306151053594
+    },
+    "sha256": "8e3779a542d018394380bd1657613ec4b063e296af289d4e120f390b6650b27c",
+    "simhash": "1:4ea766080ae6c623",
+    "word_count": 232
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason CASTLE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Motion of petitioner for leave to proceed in forma pauperisand petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Johnson v. United States, 576 U.S. ----, 135 S.Ct. 2551, --- L.Ed.2d ---- (2015).\nJustice ALITOconcurring in the decision to grant, vacate, and remand in this case: Following the recommendation of the Solicitor General, the Court has held the petition in this and many other cases pending the decision in Johnson v. United States,576 U.S. ----, 135 S.Ct. 2551, --- L.Ed.2d ---- (2015). In holding this petition and now in vacating and remanding the decision below in this case, the Court has not differentiated between cases in which the petitioner would be entitled to relief if the Court held (as it now has) that the residual clause of the Armed Career Criminal Act of 1984, 18 U.S.C. Sec. 924(e)(2)(B)(ii), is void for vagueness and cases in which relief would not be warranted for a procedural reason. On remand, the Court of Appeals should understand that the Court's disposition of this petition does not reflect any view regarding petitioner's entitlement to relief.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jason CASTLE, petitioner,\nv.\nUNITED STATES.\nNo. 14-9108.\nSupreme Court of the United States\nJune 30, 2015.\nOpinion"
+  },
+  "file_name": "2941-01",
+  "first_page_order": 2941,
+  "last_page_order": 2941
+}

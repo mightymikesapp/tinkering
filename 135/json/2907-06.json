@@ -1,0 +1,62 @@
+{
+  "id": 12591890,
+  "name": "Andrew BROWN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2015-06-29",
+  "docket_number": "No. 14\u20139955.",
+  "first_page": "2907",
+  "last_page": "2907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2907"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 939"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "14c92567e468eb1ba00111a8294409d783bf9e8381bba1459c22986b27c350b2",
+    "simhash": "1:f12da6442f49d7a9",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew BROWN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Andrew BROWN, petitioner,\nv.\nUNITED STATES.\nNo. 14-9955.\nSupreme Court of the United States\nJune 29, 2015.\nOpinion"
+  },
+  "file_name": "2907-06",
+  "first_page_order": 2907,
+  "last_page_order": 2907
+}

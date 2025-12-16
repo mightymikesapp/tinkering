@@ -1,0 +1,62 @@
+{
+  "id": 12590698,
+  "name": "Fred A. GREEN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Green v. United States",
+  "decision_date": "2015-05-26",
+  "docket_number": "No. 14\u20139368.",
+  "first_page": "2366",
+  "last_page": "2366",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2366"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 293,
+    "sha256": "f134ef8508ab09302c4235f8f74aba5e44d59a5efb7f62c4a37274547c3267f0",
+    "simhash": "1:99bdf6c4bf0e524b",
+    "word_count": 48
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fred A. GREEN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.\nJustice KAGANtook no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGANtook no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fred A. GREEN, petitioner,\nv.\nUNITED STATES.\nNo. 14-9368.\nSupreme Court of the United States\nMay 26, 2015.\nOpinion"
+  },
+  "file_name": "2366-04",
+  "first_page_order": 2366,
+  "last_page_order": 2366
+}

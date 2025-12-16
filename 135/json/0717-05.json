@@ -1,0 +1,62 @@
+{
+  "id": 12593761,
+  "name": "Carlos LOPEZ, petitioner, v. David PIERCE, Warden, et al.",
+  "name_abbreviation": "Lopez v. Pierce",
+  "decision_date": "2014-12-01",
+  "docket_number": "No. 14\u20136400.",
+  "first_page": "717",
+  "last_page": "717",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 717"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 449"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 228,
+    "sha256": "200fed07533ccc5ec1da1c4a23c9c85af1367c7c7f7a454f674d810588beaf9a",
+    "simhash": "1:f3afd6843d4de71a",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos LOPEZ, petitioner,\nv.\nDavid PIERCE, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Carlos LOPEZ, petitioner,\nv.\nDavid PIERCE, Warden, et al.\nNo. 14-6400.\nSupreme Court of the United States\nDec. 1, 2014.\nOpinion"
+  },
+  "file_name": "0717-05",
+  "first_page_order": 717,
+  "last_page_order": 717
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12591634,
+  "name": "Yuri YUSOV, petitioner, v. Loretta E. LYNCH, Attorney General, et al.",
+  "name_abbreviation": "Yusov v. Lynch",
+  "decision_date": "2015-06-22",
+  "docket_number": "No. 14\u20139623.",
+  "first_page": "2869",
+  "last_page": "2869",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2869"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 904"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 242,
+    "sha256": "1d6ce143b5c417e62e9b5f49f4b0c36fcf3649243bf03881ac50ca17a344d4c9",
+    "simhash": "1:523dc6443d059d8b",
+    "word_count": 40
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yuri YUSOV, petitioner,\nv.\nLoretta E. LYNCH, Attorney General, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Yuri YUSOV, petitioner,\nv.\nLoretta E. LYNCH, Attorney General, et al.\nNo. 14-9623.\nSupreme Court of the United States\nJune 22, 2015.\nOpinion"
+  },
+  "file_name": "2869-04",
+  "first_page_order": 2869,
+  "last_page_order": 2869
+}

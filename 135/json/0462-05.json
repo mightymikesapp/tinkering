@@ -1,0 +1,62 @@
+{
+  "id": 12593072,
+  "name": "William HACKLER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hackler v. United States",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u20136424.",
+  "first_page": "462",
+  "last_page": "462",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 462"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "c8981abc534bd38915bfc37bb8ba1dfdc6e7ec1ce57bf2222908b6e9e03f60e2",
+    "simhash": "1:d1fdf6c426040659",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William HACKLER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William HACKLER, petitioner,\nv.\nUNITED STATES.\nNo. 14-6424.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0462-05",
+  "first_page_order": 462,
+  "last_page_order": 462
+}

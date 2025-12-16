@@ -1,0 +1,62 @@
+{
+  "id": 12592476,
+  "name": "In re Felix A. PRICE, petitioner.",
+  "name_abbreviation": "In re Price",
+  "decision_date": "2014-10-14",
+  "docket_number": "No. 14\u20135648.",
+  "first_page": "366",
+  "last_page": "366",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 366"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 232,
+    "sha256": "5fb2182da29d2f7bff01eca9affa1d29a45127273bdc75a606e69fc8d51c28a4",
+    "simhash": "1:4a25f4428873a4db",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Felix A. PRICE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Motion of petitioner for leave to proceed in forma pauperisdenied, and petition for writ of mandamus dismissed. See Rule 39.8.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Felix A. PRICE, petitioner.\nNo. 14-5648.\nSupreme Court of the United States\nOct. 14, 2014.\nOpinion"
+  },
+  "file_name": "0366-03",
+  "first_page_order": 366,
+  "last_page_order": 366
+}

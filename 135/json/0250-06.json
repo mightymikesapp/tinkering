@@ -1,0 +1,62 @@
+{
+  "id": 12591001,
+  "name": "Winston K. WOOD, petitioner, v. INDIANA.",
+  "name_abbreviation": "Wood v. Indiana",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u2013101.",
+  "first_page": "250",
+  "last_page": "250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 250"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 202,
+    "sha256": "a46aa505516c9c8b5c6c8e1763ae01d8070402dfc7408d57b64403254b440b67",
+    "simhash": "1:f06dd29430c584dd",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Winston K. WOOD, petitioner,\nv.\nINDIANA."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the Court of Appeals of Indiana, Fifth District, denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Winston K. WOOD, petitioner,\nv.\nINDIANA.\nNo. 14-101.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0250-06",
+  "first_page_order": 250,
+  "last_page_order": 250
+}

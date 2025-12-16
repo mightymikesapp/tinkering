@@ -1,0 +1,62 @@
+{
+  "id": 12590415,
+  "name": "Johnny A. FLORES, petitioner, v. G.J. JANDA, Warden.",
+  "name_abbreviation": "Flores v. Janda",
+  "decision_date": "2015-05-18",
+  "docket_number": "No. 14\u20138889.",
+  "first_page": "2324",
+  "last_page": "2324",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2324"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 989"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 223,
+    "sha256": "c08f533b10f2de5d53e831fd48197b8ab33cc634c1d357565b7241b274e9cc87",
+    "simhash": "1:dbadf6043b8492d1",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnny A. FLORES, petitioner,\nv.\nG.J. JANDA, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Johnny A. FLORES, petitioner,\nv.\nG.J. JANDA, Warden.\nNo. 14-8889.\nSupreme Court of the United States\nMay 18, 2015.\nOpinion"
+  },
+  "file_name": "2324-01",
+  "first_page_order": 2324,
+  "last_page_order": 2324
+}

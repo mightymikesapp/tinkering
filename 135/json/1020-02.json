@@ -1,0 +1,62 @@
+{
+  "id": 12586804,
+  "name": "Marvin SMITH, et ux., applicants, v. COUNTRYWIDE HOME LOANS, INC., et al.",
+  "name_abbreviation": "Smith v. Countrywide Home Loans, Inc.",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14A542.",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1020"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 824"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 230,
+    "sha256": "6999778a0cc7a391e210df601ba7e82cf019315b5cfd4fd4c7594918d3a6071d",
+    "simhash": "1:a1c37c5cb1cd1d96",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marvin SMITH, et ux., applicants,\nv.\nCOUNTRYWIDE HOME LOANS, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Application for stay addressed to Justice SOTOMAYOR and referred to the Court denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Marvin SMITH, et ux., applicants,\nv.\nCOUNTRYWIDE HOME LOANS, INC., et al.\nNo. 14A542.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1020-02",
+  "first_page_order": 1020,
+  "last_page_order": 1020
+}

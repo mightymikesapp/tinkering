@@ -1,0 +1,62 @@
+{
+  "id": 12594481,
+  "name": "Michael A. SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20136462.",
+  "first_page": "948",
+  "last_page": "948",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 948"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 842"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 220,
+    "sha256": "803560a8274fed8e06c7836da918d900edf3b71e84bb0166e28575235176b938",
+    "simhash": "1:ff2de446670db791",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael A. SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael A. SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 14-6462.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "0948-02",
+  "first_page_order": 948,
+  "last_page_order": 948
+}

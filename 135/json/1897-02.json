@@ -1,0 +1,62 @@
+{
+  "id": 12589701,
+  "name": "In re Brittany COLEY, petitioner.",
+  "name_abbreviation": "In re Coley",
+  "decision_date": "2015-04-27",
+  "docket_number": "No. 14\u20138521.",
+  "first_page": "1897",
+  "last_page": "1897",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1897"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 779"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 144,
+    "sha256": "ceeec43459b042ab150a20a900ce62f3091389c664a4fde49bc67efe3d5dbcdd",
+    "simhash": "1:487b24d6be495018",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Brittany COLEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Brittany COLEY, petitioner.\nNo. 14-8521.\nSupreme Court of the United States\nApril 27, 2015.\nOpinion"
+  },
+  "file_name": "1897-02",
+  "first_page_order": 1897,
+  "last_page_order": 1897
+}

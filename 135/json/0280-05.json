@@ -1,0 +1,62 @@
+{
+  "id": 12591219,
+  "name": "Kevin Karl SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2014-10-06",
+  "docket_number": "No. 14\u20135677.",
+  "first_page": "280",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 280"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 218,
+    "sha256": "a37488f319dd74a65961160763697733c7447b3459a9699e8c147ae3bcaac6e0",
+    "simhash": "1:faadc644b90545f9",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin Karl SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kevin Karl SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 14-5677.\nSupreme Court of the United States\nOct. 6, 2014.\nOpinion"
+  },
+  "file_name": "0280-05",
+  "first_page_order": 280,
+  "last_page_order": 280
+}

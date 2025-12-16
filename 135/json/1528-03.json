@@ -1,0 +1,81 @@
+{
+  "id": 12588367,
+  "name": "UNIVERSITY OF NOTRE DAME, petitioner, v. Sylvia BURWELL, Secretary of Health and Human Services, et al.",
+  "name_abbreviation": "Univ. of Notre Dame v. Burwell",
+  "decision_date": "2015-03-09",
+  "docket_number": "No. 14\u2013392.",
+  "first_page": "1528",
+  "last_page": "1528",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1528"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 557"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 2751",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12582424
+      ],
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/134/2751-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 540,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635153632509077
+    },
+    "sha256": "af7c93621536b07013eb2244d7f72a514d118e774d02486a96056ca6d371c534",
+    "simhash": "1:ce2f6244ab0d16bf",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T18:39:19.333631+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNIVERSITY OF NOTRE DAME, petitioner,\nv.\nSylvia BURWELL, Secretary of Health and Human Services, et al."
+    ],
+    "opinions": [
+      {
+        "text": "On petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Seventh Circuit for further consideration in light of Burwell v. Hobby Lobby Stores, Inc.,573 U.S. ----, 134 S.Ct. 2751, 189 L.Ed.2d 675 (2014).",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "UNIVERSITY OF NOTRE DAME, petitioner,\nv.\nSylvia BURWELL, Secretary of Health and Human Services, et al.\nNo. 14-392.\nSupreme Court of the United States\nMarch 9, 2015.\nOpinion"
+  },
+  "file_name": "1528-03",
+  "first_page_order": 1528,
+  "last_page_order": 1528
+}

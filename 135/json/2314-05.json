@@ -1,0 +1,62 @@
+{
+  "id": 12590351,
+  "name": "Bradford DICKSON, petitioner, v. M.E. SPEARMAN, Warden.",
+  "name_abbreviation": "Dickson v. Spearman",
+  "decision_date": "2015-05-18",
+  "docket_number": "No. 14\u20138756.",
+  "first_page": "2314",
+  "last_page": "2314",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 2314"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 983"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 226,
+    "sha256": "d89bfe8dd8d9d6c438f64be67a719695a65d5e19cab438b4c3f7a8b984e2255d",
+    "simhash": "1:51bfd64428863303",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradford DICKSON, petitioner,\nv.\nM.E. SPEARMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Bradford DICKSON, petitioner,\nv.\nM.E. SPEARMAN, Warden.\nNo. 14-8756.\nSupreme Court of the United States\nMay 18, 2015.\nOpinion"
+  },
+  "file_name": "2314-05",
+  "first_page_order": 2314,
+  "last_page_order": 2314
+}

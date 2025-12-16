@@ -1,0 +1,62 @@
+{
+  "id": 12586744,
+  "name": "Jack CLARK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Clark v. United States",
+  "decision_date": "2015-01-12",
+  "docket_number": "No. 14\u20137432.",
+  "first_page": "1011",
+  "last_page": "1011",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1011"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 890"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 290,
+    "sha256": "b58f3b3d0c4940d9098b75ad575dc99a27ad9d7dd27ba78aaedc48d2095a5e68",
+    "simhash": "1:1925e4463386d2cd",
+    "word_count": 47
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jack CLARK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.\nJustice KAGANtook no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGANtook no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jack CLARK, petitioner,\nv.\nUNITED STATES.\nNo. 14-7432.\nSupreme Court of the United States\nJan. 12, 2015.\nOpinion"
+  },
+  "file_name": "1011-02",
+  "first_page_order": 1011,
+  "last_page_order": 1011
+}

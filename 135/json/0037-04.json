@@ -1,0 +1,62 @@
+{
+  "id": 12592502,
+  "name": "In the Matter of DISBARMENT OF Robert M. COOK.",
+  "name_abbreviation": "In re Cook",
+  "decision_date": "2014-08-29",
+  "docket_number": "No. D\u20132778.",
+  "first_page": "37",
+  "last_page": "37",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 37"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 889"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "5c8a7d491eb14a142cdd3e72194016229255ec51e771b6423d2ce3bc7a7c03b9",
+    "simhash": "1:52635417b6e1d2e4",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Robert M. COOK."
+    ],
+    "opinions": [
+      {
+        "text": "Disbarment order entered.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Robert M. COOK.\nNo. D-2778.\nSupreme Court of the United States\nAug. 29, 2014.\nOpinion"
+  },
+  "file_name": "0037-04",
+  "first_page_order": 37,
+  "last_page_order": 37
+}

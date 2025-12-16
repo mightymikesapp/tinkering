@@ -1,0 +1,62 @@
+{
+  "id": 12593063,
+  "name": "In re Michael C. PEACH, petitioner.",
+  "name_abbreviation": "In re Peach",
+  "decision_date": "2014-11-03",
+  "docket_number": "No. 14\u20136407.",
+  "first_page": "461",
+  "last_page": "461",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 461"
+    },
+    {
+      "type": "parallel",
+      "cite": "190 L. Ed. 2d 354"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "8caf267ca0b56ab88652da751d1971c8e43b77164f19588d5accb8253cdd05cf",
+    "simhash": "1:e8673484ae60b01b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Michael C. PEACH, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for writ of mandamus denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re Michael C. PEACH, petitioner.\nNo. 14-6407.\nSupreme Court of the United States\nNov. 3, 2014.\nOpinion"
+  },
+  "file_name": "0461-02",
+  "first_page_order": 461,
+  "last_page_order": 461
+}

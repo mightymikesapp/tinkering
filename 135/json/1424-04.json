@@ -1,0 +1,62 @@
+{
+  "id": 12587656,
+  "name": "John DOE, petitioner, v. Robert PATTON, Director, Oklahoma Department of Corrections, et al.",
+  "name_abbreviation": "John Doe v. Patton",
+  "decision_date": "2015-02-23",
+  "docket_number": "No. 14-7535.",
+  "first_page": "1424",
+  "last_page": "1424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "135 S. Ct. 1424"
+    },
+    {
+      "type": "parallel",
+      "cite": "191 L. Ed. 2d 386"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 268,
+    "sha256": "d87b2ffc6fecf7066e322dd41a24588d6984a99b92c7413101633f4d1b3811e0",
+    "simhash": "1:142ff20c23849799",
+    "word_count": 43
+  },
+  "last_updated": "2021-08-27T21:04:34.237248+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DOE, petitioner,\nv.\nRobert PATTON, Director, Oklahoma Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "The petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John DOE, petitioner,\nv.\nRobert PATTON, Director, Oklahoma Department of Corrections, et al.\nNo. 14-7535.\nSupreme Court of the United States\nFeb. 23, 2015.\nOpinion"
+  },
+  "file_name": "1424-04",
+  "first_page_order": 1424,
+  "last_page_order": 1424
+}
