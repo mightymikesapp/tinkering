@@ -1,0 +1,75 @@
+{
+  "id": 12583540,
+  "name": "Mario OCHOA-TORRES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ochoa-Torres v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20136077.",
+  "first_page": "363",
+  "last_page": "363",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 363"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 251"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Fed.Appx. 583",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 247,
+    "sha256": "7ac3fcebca67ee81a7620326ec6e61e031fda785f7035a4f4a5313cadff3ef3c",
+    "simhash": "1:28af5644130f84d9",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mario OCHOA-TORRES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mario OCHOA-TORRES, petitioner,\nv.\nUNITED STATES.\nNo. 13-6077.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 519 Fed.Appx. 583.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0363-05",
+  "first_page_order": 363,
+  "last_page_order": 363
+}

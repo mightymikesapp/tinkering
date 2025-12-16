@@ -1,0 +1,103 @@
+{
+  "id": 12580653,
+  "name": "Richard APONTE, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Aponte v. Florida",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137442.",
+  "first_page": "1929",
+  "last_page": "1929",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1929"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 951"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1027",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701058,
+        12701059,
+        12701040,
+        12701041,
+        12701042,
+        12701072,
+        12578039,
+        12578040,
+        12578041,
+        12578042,
+        12578043,
+        12578044
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1177-02",
+        "/us/571/1177-03",
+        "/us/571/1175-10",
+        "/us/571/1175-11",
+        "/us/571/1175-12",
+        "/us/571/1178-05",
+        "/s-ct/134/1027-01",
+        "/s-ct/134/1027-02",
+        "/s-ct/134/1027-03",
+        "/s-ct/134/1027-04",
+        "/s-ct/134/1027-05",
+        "/s-ct/134/1027-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 169,
+    "sha256": "f0399428fba675bdec1e6f879260622e2764b1c50fce1707514b9c1282715da1",
+    "simhash": "1:e2773655158f6c2e",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard APONTE, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard APONTE, petitioner,\nv.\nFLORIDA.\nNo. 13-7442.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1027.\nPetition for rehearing denied."
+  },
+  "file_name": "1929-08",
+  "first_page_order": 1929,
+  "last_page_order": 1929
+}

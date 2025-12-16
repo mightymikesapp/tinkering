@@ -1,0 +1,103 @@
+{
+  "id": 12586644,
+  "name": "Antonio VALDEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Valdez v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136941.",
+  "first_page": "997",
+  "last_page": "997",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 997"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 846"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 665",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699498,
+        12699275,
+        12699440,
+        12699441,
+        12585013,
+        12585014,
+        12585015,
+        12585016,
+        12585017,
+        12585018,
+        12699450,
+        12699487
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1060-12",
+        "/us/571/1023-04",
+        "/us/571/1034-06",
+        "/us/571/1034-07",
+        "/s-ct/134/0665-01",
+        "/s-ct/134/0665-02",
+        "/s-ct/134/0665-03",
+        "/s-ct/134/0665-04",
+        "/s-ct/134/0665-05",
+        "/s-ct/134/0665-06",
+        "/us/571/1035-08",
+        "/us/571/1060-11"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 173,
+    "sha256": "273abc1cff0f1cb91972a9f8e95786f06851af2f731fe5ca3179778c8c1efb7e",
+    "simhash": "1:40ec244204125699",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio VALDEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio VALDEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-6941.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 665.\nPetition for rehearing denied."
+  },
+  "file_name": "0997-06",
+  "first_page_order": 997,
+  "last_page_order": 997
+}

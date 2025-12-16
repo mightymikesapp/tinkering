@@ -1,0 +1,75 @@
+{
+  "id": 12578392,
+  "name": "Anthony Allen MACK, petitioner, v. James FALK, Warden, et al.",
+  "name_abbreviation": "Mack v. Falk",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310518.",
+  "first_page": "126",
+  "last_page": "127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 126"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 90"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Fed.Appx. 756",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 257,
+    "sha256": "3a62c78086aafe39149cf0a8ef54882707b9edefb1510e7ecddb9d44441755fe",
+    "simhash": "1:122ff64c3fdf86b8",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony Allen MACK, petitioner,\nv.\nJames FALK, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony Allen MACK, petitioner,\nv.\nJames FALK, Warden, et al.\nNo. 12-10518.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 509 Fed.Appx. 756.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0126-06",
+  "first_page_order": 126,
+  "last_page_order": 127
+}

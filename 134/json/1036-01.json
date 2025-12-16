@@ -1,0 +1,75 @@
+{
+  "id": 12578099,
+  "name": "John Carlo MANIGAULTE, petitioner, v. C.W. POST OF LONG ISLAND UNIVERSITY.",
+  "name_abbreviation": "Manigaulte v. C.W. Post of Long Island Univ.",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137676.",
+  "first_page": "1036",
+  "last_page": "1036",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1036"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 129"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "533 Fed.Appx. 4",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 269,
+    "sha256": "bdd2137ad5a85e839b08a177b24cd08ac88060b9ec84aadd73b2c49bf3bb2444",
+    "simhash": "1:f93d66443f6c0237",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Carlo MANIGAULTE, petitioner,\nv.\nC.W. POST OF LONG ISLAND UNIVERSITY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Carlo MANIGAULTE, petitioner,\nv.\nC.W. POST OF LONG ISLAND UNIVERSITY.\nNo. 13-7676.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 533 Fed.Appx. 4.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1036-01",
+  "first_page_order": 1036,
+  "last_page_order": 1036
+}

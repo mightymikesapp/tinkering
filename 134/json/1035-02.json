@@ -1,0 +1,81 @@
+{
+  "id": 12578094,
+  "name": "Pierre FOUCHE, petitioner, v. Scott A. HOLENCIK.",
+  "name_abbreviation": "Fouche v. Holencik",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137642.",
+  "first_page": "1035",
+  "last_page": "1035",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1035"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 129"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5496822",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "541 Fed.Appx. 783",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 261,
+    "sha256": "09708de4326f9ffba7f09fac6b14b45c325e8a1dd0801b94115a6cb4e8a0e735",
+    "simhash": "1:eabf76042f059785",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pierre FOUCHE, petitioner,\nv.\nScott A. HOLENCIK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pierre FOUCHE, petitioner,\nv.\nScott A. HOLENCIK.\nNo. 13-7642.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 541 Fed.Appx. 783, 2013 WL 5496822.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1035-02",
+  "first_page_order": 1035,
+  "last_page_order": 1035
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12578418,
+  "name": "Bill SCHUETTE, Attorney General of Michigan, et al., petitioners, v. FEDERAL ENERGY REGULATORY COMMISSION.",
+  "name_abbreviation": "Schuette v. Fed. Energy Regulatory Comm'n",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013443.",
+  "first_page": "1277",
+  "last_page": "1277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1277"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 298"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 764",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5755907
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/721/0764-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 358,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26323561721165983
+    },
+    "sha256": "001c80bd5b20620bbbfa581ad808a3213425d3b8814a6865c455302f0f284731",
+    "simhash": "1:b1272097b844b52d",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bill SCHUETTE, Attorney General of Michigan, et al., petitioners,\nv.\nFEDERAL ENERGY REGULATORY COMMISSION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bill SCHUETTE, Attorney General of Michigan, et al., petitioners,\nv.\nFEDERAL ENERGY REGULATORY COMMISSION.\nNo. 13-443.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, Illinois Commerce Com'n v. Federal Energy Regulatory Com'n, 721 F.3d 764.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1277-05",
+  "first_page_order": 1277,
+  "last_page_order": 1277
+}

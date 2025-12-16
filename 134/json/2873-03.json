@@ -1,0 +1,75 @@
+{
+  "id": 12582842,
+  "name": "Enrique P. GOMEZ, petitioner, v. TEXAS.",
+  "name_abbreviation": "Gomez v. Texas",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20131036.",
+  "first_page": "2873",
+  "last_page": "2873",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2873"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 834"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 2948323",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 223,
+    "sha256": "0554980a87399fcce31d767071b950d7b731881e8783187f76879357a15e2a53",
+    "simhash": "1:ed7f5007f24511f0",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Enrique P. GOMEZ, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Enrique P. GOMEZ, petitioner,\nv.\nTEXAS.\nNo. 13-1036.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 2013 WL 2948323.\nPetition for writ of certiorari to the Court of Appeals of Texas, First District, denied."
+  },
+  "file_name": "2873-03",
+  "first_page_order": 2873,
+  "last_page_order": 2873
+}

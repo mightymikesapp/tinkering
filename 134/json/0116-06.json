@@ -1,0 +1,85 @@
+{
+  "id": 12578327,
+  "name": "MIAMI-DADE COUNTY, FLORIDA, petitioner, v. FLORIDA TRANSPORTATION SERVICES, INC.",
+  "name_abbreviation": "Miami-Dade Cnty. v. Fla. Transp. Servs., Inc.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131387.",
+  "first_page": "116",
+  "last_page": "116",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 116"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 35"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "703 F.3d 1230",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5869846
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/703/1230-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 274,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632296323067484
+    },
+    "sha256": "bf856050dc0e728d3776e4558de77cadb299814a9a79ecfcfce6938509f52a25",
+    "simhash": "1:23af866d7b0782b3",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MIAMI-DADE COUNTY, FLORIDA, petitioner,\nv.\nFLORIDA TRANSPORTATION SERVICES, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "MIAMI-DADE COUNTY, FLORIDA, petitioner,\nv.\nFLORIDA TRANSPORTATION SERVICES, INC.\nNo. 12-1387.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 703 F.3d 1230.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0116-06",
+  "first_page_order": 116,
+  "last_page_order": 116
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12579513,
+  "name": "Don Earl PRICE, petitioner, v. TEXAS.",
+  "name_abbreviation": "Price v. Texas",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138253.",
+  "first_page": "1547",
+  "last_page": "1547",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1547"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 565"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 1281886",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 222,
+    "sha256": "0cff3d4a4a0385eb48153927b943febafc3bb003840248c7e7d4dbb60217853a",
+    "simhash": "1:e4ef16065ac56194",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Don Earl PRICE, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Fifth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Don Earl PRICE, petitioner,\nv.\nTEXAS.\nNo. 13-8253.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 2013 WL 1281886.\nPetition for writ of certiorari to the Court of Appeals of Texas, Fifth District, denied."
+  },
+  "file_name": "1547-03",
+  "first_page_order": 1547,
+  "last_page_order": 1547
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12578227,
+  "name": "Terry Louis WILSON, petitioner, v. OAKLAND COUNTY PROBATION OFFICE.",
+  "name_abbreviation": "Wilson v. Oakland Cnty. Prob. Office",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20136846.",
+  "first_page": "1054",
+  "last_page": "1054",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1054"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 141"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 829",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700160,
+        12700161,
+        12585827,
+        12585828,
+        12585829,
+        12585830,
+        12585831,
+        12585832,
+        12700170,
+        12700171,
+        12700158,
+        12700159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1112-03",
+        "/us/571/1112-04",
+        "/s-ct/134/0829-01",
+        "/s-ct/134/0829-02",
+        "/s-ct/134/0829-03",
+        "/s-ct/134/0829-04",
+        "/s-ct/134/0829-05",
+        "/s-ct/134/0829-06",
+        "/us/571/1112-14",
+        "/us/571/1112-15",
+        "/us/571/1112-01",
+        "/us/571/1112-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 195,
+    "sha256": "de1164f31ab3a80fe043ec994b0d64165b8250d2f2d689fdda712244662f57d1",
+    "simhash": "1:acf36456278b7f4e",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terry Louis WILSON, petitioner,\nv.\nOAKLAND COUNTY PROBATION OFFICE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terry Louis WILSON, petitioner,\nv.\nOAKLAND COUNTY PROBATION OFFICE.\nNo. 13-6846.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 829.\nPetition for rehearing denied."
+  },
+  "file_name": "1054-08",
+  "first_page_order": 1054,
+  "last_page_order": 1054
+}

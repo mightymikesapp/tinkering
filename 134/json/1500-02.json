@@ -1,0 +1,68 @@
+{
+  "id": 12579217,
+  "name": "Andrea PETERSON, petitioner, v. APPLE INC.",
+  "name_abbreviation": "Peterson v. Apple Inc.",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20138207.",
+  "first_page": "1500",
+  "last_page": "1500",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1500"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 382"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 208,
+    "sha256": "b11c7bf172573084eebadadfd40619701e3f9f4354a245a4750354bf88c243d0",
+    "simhash": "1:7aee46cc3f07278f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrea PETERSON, petitioner,\nv.\nAPPLE INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrea PETERSON, petitioner,\nv.\nAPPLE INC.\nNo. 13-8207.\nSupreme Court of the United States\nMarch 3, 2014.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1500-02",
+  "first_page_order": 1500,
+  "last_page_order": 1500
+}

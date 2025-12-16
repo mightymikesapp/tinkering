@@ -1,0 +1,75 @@
+{
+  "id": 12579768,
+  "name": "Kalvin MARSHALL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Marshall v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310707.",
+  "first_page": "158",
+  "last_page": "158",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 158"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 111"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "505 Fed.Appx. 276",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 243,
+    "sha256": "e47b5870cc044c9c7033a57e50483b856c60d64e75bdd18f524cb2345bac8381",
+    "simhash": "1:7bedc68e7b878639",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kalvin MARSHALL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kalvin MARSHALL, petitioner,\nv.\nUNITED STATES.\nNo. 12-10707.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 505 Fed.Appx. 276.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0158-02",
+  "first_page_order": 158,
+  "last_page_order": 158
+}

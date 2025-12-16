@@ -1,0 +1,93 @@
+{
+  "id": 12582460,
+  "name": "David Nathaniel JOHNSON, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Johnson v. Michigan",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12\u20139019.",
+  "first_page": "27",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 27"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 940"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2032",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697930,
+        12697931,
+        12697939,
+        12697940,
+        12697941,
+        12697942,
+        12697943
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0963-01",
+        "/us/569/0963-02",
+        "/us/569/0963-11",
+        "/us/569/0963-12",
+        "/us/569/0963-13",
+        "/us/569/0963-14",
+        "/us/569/0963-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 178,
+    "sha256": "0c6dc7e9134a07594e4a1b357e832e33f72adbec13dfc3a81266e19c7477d2a9",
+    "simhash": "1:f139a0423a88560a",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Nathaniel JOHNSON, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "David Nathaniel JOHNSON, petitioner,\nv.\nMICHIGAN.\nNo. 12-9019.\nSupreme Court of the United States\nJuly 22, 2013.\nFormer decision, 133 S.Ct. 2032.\nPetition for rehearing denied."
+  },
+  "file_name": "0027-05",
+  "first_page_order": 27,
+  "last_page_order": 27
+}

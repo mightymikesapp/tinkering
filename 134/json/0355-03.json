@@ -1,0 +1,73 @@
+{
+  "id": 12583483,
+  "name": "Tarvares WATSON, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Watson v. Florida",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135962.",
+  "first_page": "355",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 355"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 246"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "116 So.3d 1268",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "b98935df5e68f3ec234d45d0faf9a9c12dd0530df02bb49e78bd01b2e45cfc4f",
+    "simhash": "1:d36dd63ef8ff41e1",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tarvares WATSON, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Tarvares WATSON, petitioner,\nv.\nFLORIDA.\nNo. 13-5962.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 116 So.3d 1268.\nPetition for writ of certiorari to the District Court of Appeal of Florida, First District, denied."
+  },
+  "file_name": "0355-03",
+  "first_page_order": 355,
+  "last_page_order": 355
+}

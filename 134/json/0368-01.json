@@ -1,0 +1,75 @@
+{
+  "id": 12583566,
+  "name": "Elnora MOSES, petitioner, v. TEXAS COMMISSION ON ENVIRONMENTAL QUALITY.",
+  "name_abbreviation": "Moses v. Tex. Comm'n On Envtl. Quality",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13M4.",
+  "first_page": "368",
+  "last_page": "368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 368"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 9"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "489 Fed.Appx. 753",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 285,
+    "sha256": "34dbc172971233ec7d0c096512325e77bef61d81a9870ea59a167db8aee6a7bc",
+    "simhash": "1:d3ef7837d7e18559",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elnora MOSES, petitioner,\nv.\nTEXAS COMMISSION ON ENVIRONMENTAL QUALITY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record granted."
+    ],
+    "corrections": "",
+    "head_matter": "Elnora MOSES, petitioner,\nv.\nTEXAS COMMISSION ON ENVIRONMENTAL QUALITY.\nNo. 13M4.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 489 Fed.Appx. 753.\nMotion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record granted."
+  },
+  "file_name": "0368-01",
+  "first_page_order": 368,
+  "last_page_order": 368
+}

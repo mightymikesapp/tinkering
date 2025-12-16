@@ -1,0 +1,62 @@
+{
+  "id": 12584343,
+  "name": "In the Matter of DISBARMENT OF Charles W. FIELD.",
+  "name_abbreviation": "In re Field",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. D\u20132713.",
+  "first_page": "502",
+  "last_page": "502",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 502"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 338"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 138,
+    "sha256": "542e36cb14f499f1f6d8b011b3ef740aadcaa95c5367bf5dba30e29edcbdc168",
+    "simhash": "1:603f6410b7844479",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Charles W. FIELD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Charles W. FIELD.\nNo. D-2713.\nSupreme Court of the United States\nOct. 21, 2013.\nDisbarment order entered."
+  },
+  "file_name": "0502-01",
+  "first_page_order": 502,
+  "last_page_order": 502
+}

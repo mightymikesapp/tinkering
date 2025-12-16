@@ -1,0 +1,75 @@
+{
+  "id": 12585228,
+  "name": "Stephen N. DAVIS, petitioner, v. Randall G. WORKMAN, Warden.",
+  "name_abbreviation": "Davis v. Workman",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136605.",
+  "first_page": "697",
+  "last_page": "697",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 697"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 563"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 774",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 255,
+    "sha256": "ad646adbf4ac90e3ef85d5486188affc3056d7f040c809de75c1ccde95f8419b",
+    "simhash": "1:1a6772c41005c2a8",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephen N. DAVIS, petitioner,\nv.\nRandall G. WORKMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stephen N. DAVIS, petitioner,\nv.\nRandall G. WORKMAN, Warden.\nNo. 13-6605.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 515 Fed.Appx. 774.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0697-05",
+  "first_page_order": 697,
+  "last_page_order": 697
+}

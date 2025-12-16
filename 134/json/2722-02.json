@@ -1,0 +1,85 @@
+{
+  "id": 12582233,
+  "name": "Charles L. RYAN, Director, Arizona Department of Corrections, v. Richard D. HURLES.",
+  "name_abbreviation": "Ryan v. Hurles",
+  "decision_date": "2014-06-03",
+  "docket_number": "No. 12\u20131472 (R46\u2013015).",
+  "first_page": "2722",
+  "last_page": "2722",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2722"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 759"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "706 F.3d 1021",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3662050
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/706/1021-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 288,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26336458225942905
+    },
+    "sha256": "5e8a88d19e895a4d2e8554982ab9c461e8a1c3aebc6dd1db85bec1e1d09a57e8",
+    "simhash": "1:deef30545ba8f613",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles L. RYAN, Director, Arizona Department of Corrections,\nv.\nRichard D. HURLES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "Charles L. RYAN, Director, Arizona Department of Corrections,\nv.\nRichard D. HURLES.\nNo. 12-1472 (R46-015).\nSupreme Court of the United States\nJune 3, 2014.\nCase below, 706 F.3d 1021.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+  },
+  "file_name": "2722-02",
+  "first_page_order": 2722,
+  "last_page_order": 2722
+}

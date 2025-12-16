@@ -1,0 +1,83 @@
+{
+  "id": 12584840,
+  "name": "Stephen Rex EDMISTON, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Edmiston v. Pennsylvania",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136058.",
+  "first_page": "639",
+  "last_page": "639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 639"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 423"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "65 A.3d 339",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4234625,
+        7308631
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/619/0549-01",
+        "/a3d/65/0339-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 236,
+    "sha256": "49633069c08a20213653df7c1923146c8c32c7a6df7f6d7e9d3e97f434336a2c",
+    "simhash": "1:45ef145c30c45054",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephen Rex EDMISTON, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stephen Rex EDMISTON, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-6058.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 65 A.3d 339.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+  },
+  "file_name": "0639-05",
+  "first_page_order": 639,
+  "last_page_order": 639
+}

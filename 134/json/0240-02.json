@@ -1,0 +1,75 @@
+{
+  "id": 12581635,
+  "name": "Manuel GONZALEZ-MELCHOR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gonzalez-Melchor v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135158.",
+  "first_page": "240",
+  "last_page": "240",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 240"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 178"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "511 Fed.Appx. 646",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 249,
+    "sha256": "b997a32d0dd287bc4ea126731c2b8705f6584f551aa83f2b570f5429fa4a4009",
+    "simhash": "1:d32d26463647c631",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Manuel GONZALEZ-MELCHOR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Manuel GONZALEZ-MELCHOR, petitioner,\nv.\nUNITED STATES.\nNo. 13-5158.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 511 Fed.Appx. 646.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0240-02",
+  "first_page_order": 240,
+  "last_page_order": 240
+}

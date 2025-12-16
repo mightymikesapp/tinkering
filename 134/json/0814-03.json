@@ -1,0 +1,107 @@
+{
+  "id": 12585724,
+  "name": "Dawn KAMINSKI, petitioner, v. NEW YORK, et al.",
+  "name_abbreviation": "Kaminski v. Newyork",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 12\u201310354.",
+  "first_page": "814",
+  "last_page": "814",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 814"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 614"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 106",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702624,
+        12702625,
+        12702633,
+        12578250,
+        12578251,
+        12578252,
+        12578253,
+        12578254,
+        12578255,
+        12578256,
+        12702634,
+        12702621,
+        12702622,
+        12702623
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0846-04",
+        "/us/571/0846-05",
+        "/us/571/0846-14",
+        "/s-ct/134/0106-01",
+        "/s-ct/134/0106-02",
+        "/s-ct/134/0106-03",
+        "/s-ct/134/0106-04",
+        "/s-ct/134/0106-05",
+        "/s-ct/134/0106-06",
+        "/s-ct/134/0106-07",
+        "/us/571/0846-15",
+        "/us/571/0846-01",
+        "/us/571/0846-02",
+        "/us/571/0846-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 173,
+    "sha256": "6cbb31624163ca63050813900147ea15946cf1286c6f6bedd9fcf2eba35f084a",
+    "simhash": "1:63510452148d6702",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dawn KAMINSKI, petitioner,\nv.\nNEW YORK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dawn KAMINSKI, petitioner,\nv.\nNEW YORK, et al.\nNo. 12-10354.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 106\nPetition for rehearing denied."
+  },
+  "file_name": "0814-03",
+  "first_page_order": 814,
+  "last_page_order": 814
+}

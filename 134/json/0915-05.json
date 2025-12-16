@@ -1,0 +1,75 @@
+{
+  "id": 12586099,
+  "name": "Alejandro Jose MORALES, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Morales v. California",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136991.",
+  "first_page": "915",
+  "last_page": "916",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 915"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 794"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 2099665",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 263,
+    "sha256": "4cd25b0ddd37a64393f5832ee1a01477b20ed50f82c3ebde2bd7f9aedd820c1f",
+    "simhash": "1:69e6c55e12c50198",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alejandro Jose MORALES, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division One, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alejandro Jose MORALES, petitioner,\nv.\nCALIFORNIA.\nNo. 13-6991.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 2013 WL 2099665.\nPetition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division One, denied."
+  },
+  "file_name": "0915-05",
+  "first_page_order": 915,
+  "last_page_order": 916
+}

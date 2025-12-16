@@ -1,0 +1,75 @@
+{
+  "id": 12580149,
+  "name": "Carlos DeGLACE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Deglace v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310812.",
+  "first_page": "179",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 179"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 259"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "501 Fed.Appx. 949",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 321,
+    "sha256": "3beaa45a52cb26562263682ce7c6c7c991e5b0dffd76f5d471052b77bef17f8b",
+    "simhash": "1:49adf2041127041f",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos DeGLACE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos DeGLACE, petitioner,\nv.\nUNITED STATES.\nNo. 12-10812.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 501 Fed.Appx. 949.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0179-01",
+  "first_page_order": 179,
+  "last_page_order": 179
+}

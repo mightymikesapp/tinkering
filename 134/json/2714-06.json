@@ -1,0 +1,81 @@
+{
+  "id": 12582181,
+  "name": "Rodney FOSTER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Foster v. United States",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20139987.",
+  "first_page": "2714",
+  "last_page": "2714",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2714"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "740 F.3d 1202",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3826086
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/740/1202-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26336361695218524
+    },
+    "sha256": "057e154236e6b45ba91aaa9ffada021b9b128830015a6bbf67ea792b5aba8096",
+    "simhash": "1:15ad76c62b071799",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rodney FOSTER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rodney FOSTER, petitioner,\nv.\nUNITED STATES.\nNo. 13-9987.\nSupreme Court of the United States\nJune 2, 2014.\nCase below, 740 F.3d 1202.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "2714-06",
+  "first_page_order": 2714,
+  "last_page_order": 2714
+}

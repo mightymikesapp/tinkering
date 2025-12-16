@@ -1,0 +1,85 @@
+{
+  "id": 12586585,
+  "name": "David F. EVANS, et al., petitioners, v. CITY OF DURHAM, NORTH CAROLINA, et al.",
+  "name_abbreviation": "Evans v. City of Durham",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131363.",
+  "first_page": "98",
+  "last_page": "99",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 98"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 33"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "703 F.3d 636",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5869795
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/703/0636-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 269,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26351034365324
+    },
+    "sha256": "2bec84965d156556f9a139c3d064761fdc69dbe402d916605a1869b0be95eef7",
+    "simhash": "1:7aeeae441fc1573b",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David F. EVANS, et al., petitioners,\nv.\nCITY OF DURHAM, NORTH CAROLINA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David F. EVANS, et al., petitioners,\nv.\nCITY OF DURHAM, NORTH CAROLINA, et al.\nNo. 12-1363.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 703 F.3d 636.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0098-06",
+  "first_page_order": 98,
+  "last_page_order": 99
+}

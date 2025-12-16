@@ -1,0 +1,95 @@
+{
+  "id": 12581190,
+  "name": "In the Matter of DISBARMENT OF Matthew B. MURRAY.",
+  "name_abbreviation": "In re Murray",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. D\u20132752.",
+  "first_page": "2164",
+  "last_page": "2164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2164"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 820",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700107,
+        12585775,
+        12585776,
+        12585777,
+        12585778,
+        12585779,
+        12585780,
+        12699868,
+        12699869,
+        12699870,
+        12700095
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1107-05",
+        "/s-ct/134/0820-01",
+        "/s-ct/134/0820-02",
+        "/s-ct/134/0820-03",
+        "/s-ct/134/0820-04",
+        "/s-ct/134/0820-05",
+        "/s-ct/134/0820-06",
+        "/us/571/1091-01",
+        "/us/571/1091-02",
+        "/us/571/1091-03",
+        "/us/571/1106-20"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 169,
+    "sha256": "ff369e10930eba847d2b18815dea8a4578648524cb46401caac984dea2d91981",
+    "simhash": "1:e0ec54848eae2269",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Matthew B. MURRAY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Matthew B. MURRAY.\nNo. D-2752.\nSupreme Court of the United States\nMay 5, 2014.\nFormer decision, 134 S.Ct. 820.\nDisbarment order entered."
+  },
+  "file_name": "2164-01",
+  "first_page_order": 2164,
+  "last_page_order": 2164
+}

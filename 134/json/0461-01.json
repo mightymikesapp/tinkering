@@ -1,0 +1,75 @@
+{
+  "id": 12584072,
+  "name": "Steven L. BEUMEL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Beumel v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136258.",
+  "first_page": "461",
+  "last_page": "461",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 461"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 308"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "522 Fed.Appx. 623",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "faa51de21a8c67230eeabb862402800fd456254580937e54f9536b80259371a7",
+    "simhash": "1:faec6644b907849b",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven L. BEUMEL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven L. BEUMEL, petitioner,\nv.\nUNITED STATES.\nNo. 13-6258.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 522 Fed.Appx. 623.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0461-01",
+  "first_page_order": 461,
+  "last_page_order": 461
+}

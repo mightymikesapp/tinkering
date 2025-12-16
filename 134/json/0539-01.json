@@ -1,0 +1,85 @@
+{
+  "id": 12584541,
+  "name": "Sidney BROWN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136594.",
+  "first_page": "539",
+  "last_page": "539",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 539"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 386"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "732 F.3d 569",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3709396
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/732/0569-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 233,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26343678724126385
+    },
+    "sha256": "2a4f72ba97223277b36083bd3f3120a734270590adc7e7d1cdb3b64c17a9c1ac",
+    "simhash": "1:90ede4c633a5ded1",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sidney BROWN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sidney BROWN, petitioner,\nv.\nUNITED STATES.\nNo. 13-6594.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 732 F.3d 569.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0539-01",
+  "first_page_order": 539,
+  "last_page_order": 539
+}

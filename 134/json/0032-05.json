@@ -1,0 +1,91 @@
+{
+  "id": 12583315,
+  "name": "Joe DOE, petitioner, v. CITY OF NEW YORK, NEW YORK, et al.",
+  "name_abbreviation": "Joe Doe v. City of N.Y.",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12\u20138634.",
+  "first_page": "32",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 32"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 944"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 1818",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697444,
+        12697445,
+        12697446,
+        12697447,
+        12697448,
+        12697449
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0929-01",
+        "/us/569/0929-02",
+        "/us/569/0929-03",
+        "/us/569/0929-04",
+        "/us/569/0929-05",
+        "/us/569/0929-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 214,
+    "sha256": "7a538451d7889bc8550cc681cb02f9c4080f4e23671189fc4a2a94d5eef16bac",
+    "simhash": "1:902154161e80191e",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joe DOE, petitioner,\nv.\nCITY OF NEW YORK, NEW YORK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joe DOE, petitioner,\nv.\nCITY OF NEW YORK, NEW YORK, et al.\nNo. 12-8634.\nSupreme Court of the United States\nJuly 22, 2013.\nFormer decision, 133 S.Ct. 1818.\nMotion for leave to file a petition for rehearing denied."
+  },
+  "file_name": "0032-05",
+  "first_page_order": 32,
+  "last_page_order": 32
+}

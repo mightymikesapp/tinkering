@@ -1,0 +1,103 @@
+{
+  "id": 12585901,
+  "name": "In re Damien WELLS, petitioner.",
+  "name_abbreviation": "In re Wells",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135055.",
+  "first_page": "839",
+  "last_page": "839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 839"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 696"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 222",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703332,
+        12703333,
+        12703334,
+        12581235,
+        12581236,
+        12581237,
+        12581238,
+        12581239,
+        12581240,
+        12703315,
+        12703325,
+        12702143
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0894-08",
+        "/us/571/0894-09",
+        "/us/571/0894-10",
+        "/s-ct/134/0222-01",
+        "/s-ct/134/0222-02",
+        "/s-ct/134/0222-03",
+        "/s-ct/134/0222-04",
+        "/s-ct/134/0222-05",
+        "/s-ct/134/0222-06",
+        "/us/571/0893-06",
+        "/us/571/0894-07",
+        "/us/571/0813-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 159,
+    "sha256": "4f9fe973e921cf44fa0df470a3ef7b2f4c6507f594282dc98a8ad2f67a937ae6",
+    "simhash": "1:602754562f8d760c",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Damien WELLS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Damien WELLS, petitioner.\nNo. 13-5055.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 222.\nPetition for rehearing denied."
+  },
+  "file_name": "0839-07",
+  "first_page_order": 839,
+  "last_page_order": 839
+}

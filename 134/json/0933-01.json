@@ -1,0 +1,75 @@
+{
+  "id": 12586212,
+  "name": "Roland DAVIS, petitioner, v. OHIO.",
+  "name_abbreviation": "Davis v. Ohio",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137225.",
+  "first_page": "933",
+  "last_page": "933",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 933"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 804"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 32682",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 215,
+    "sha256": "eb956843c02cfbf68327b93dcc2e9e48bf310f13c1ce381f4c1e74dcc5a932c0",
+    "simhash": "1:794756d627a1c591",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roland DAVIS, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Licking County, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roland DAVIS, petitioner,\nv.\nOHIO.\nNo. 13-7225.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 2012 WL 32682.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Licking County, denied."
+  },
+  "file_name": "0933-01",
+  "first_page_order": 933,
+  "last_page_order": 933
+}

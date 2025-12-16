@@ -1,0 +1,68 @@
+{
+  "id": 12585342,
+  "name": "Gregory JONES, aka G, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jones v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20137151.",
+  "first_page": "714",
+  "last_page": "714",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 714"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 573"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 247,
+    "sha256": "a29a23e4c877aefc369d06dc383f246d054d5653a0f5b41ed1b901ba3083a32f",
+    "simhash": "1:58fd72473f47868f",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory JONES, aka G, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory JONES, aka G, petitioner,\nv.\nUNITED STATES.\nNo. 13-7151.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, --- Fed.Appx. ----.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0714-04",
+  "first_page_order": 714,
+  "last_page_order": 714
+}

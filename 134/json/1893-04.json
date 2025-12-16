@@ -1,0 +1,85 @@
+{
+  "id": 12580410,
+  "name": "Troy VICTORINO, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Victorino v. Florida",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138840.",
+  "first_page": "1893",
+  "last_page": "1893",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1893"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 926"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "127 So.3d 478",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        6997267
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/127/0478-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 204,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633014511656857
+    },
+    "sha256": "e39a9b57180c5ba0dcc3c4d199b29c64b315b714f83a7f67f72bc9809419cfdd",
+    "simhash": "1:e870348478a7c377",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Troy VICTORINO, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Troy VICTORINO, petitioner,\nv.\nFLORIDA.\nNo. 13-8840.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 127 So.3d 478.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "1893-04",
+  "first_page_order": 1893,
+  "last_page_order": 1893
+}

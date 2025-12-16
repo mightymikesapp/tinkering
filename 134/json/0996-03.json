@@ -1,0 +1,103 @@
+{
+  "id": 12586633,
+  "name": "Richard C. STANLEY, petitioner, v. BANK OF NEW YORK MELLON.",
+  "name_abbreviation": "Stanley v. Bank of N.Y. Mellon",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136449.",
+  "first_page": "996",
+  "last_page": "996",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 996"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 845"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 647",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12584896,
+        12584897,
+        12699361,
+        12699366,
+        12699367,
+        12699368,
+        12699351,
+        12699352,
+        12584892,
+        12584893,
+        12584894,
+        12584895
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0647-05",
+        "/s-ct/134/0647-06",
+        "/us/571/1029-05",
+        "/us/571/1029-06",
+        "/us/571/1029-07",
+        "/us/571/1029-08",
+        "/us/571/1028-06",
+        "/us/571/1028-07",
+        "/s-ct/134/0647-01",
+        "/s-ct/134/0647-02",
+        "/s-ct/134/0647-03",
+        "/s-ct/134/0647-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 187,
+    "sha256": "08e4b1927815bae90e35365388645f60117b976c996d5010106d4baf4fe31c3f",
+    "simhash": "1:642e22420a96d48a",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard C. STANLEY, petitioner,\nv.\nBANK OF NEW YORK MELLON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard C. STANLEY, petitioner,\nv.\nBANK OF NEW YORK MELLON.\nNo. 13-6449.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 647.\nPetition for rehearing denied."
+  },
+  "file_name": "0996-03",
+  "first_page_order": 996,
+  "last_page_order": 996
+}

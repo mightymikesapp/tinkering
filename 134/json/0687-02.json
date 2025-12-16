@@ -1,0 +1,85 @@
+{
+  "id": 12585158,
+  "name": "Edgar Earl PATTON, petitioner, v. MISSISSIPPI.",
+  "name_abbreviation": "Patton v. Mississippi",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136436.",
+  "first_page": "687",
+  "last_page": "687",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 687"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 556"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "109 So.3d 66",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7000019
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/109/0066-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 212,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634618852296022
+    },
+    "sha256": "5d92e4a2ff0e92cc0cbc4b3bdec771012a6411980de504b0f3bc9e9d8ce45616",
+    "simhash": "1:4827640e39752102",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edgar Earl PATTON, petitioner,\nv.\nMISSISSIPPI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edgar Earl PATTON, petitioner,\nv.\nMISSISSIPPI.\nNo. 13-6436.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 109 So.3d 66.\nPetition for writ of certiorari to the Supreme Court of Mississippi denied."
+  },
+  "file_name": "0687-02",
+  "first_page_order": 687,
+  "last_page_order": 687
+}

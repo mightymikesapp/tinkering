@@ -1,0 +1,75 @@
+{
+  "id": 12583398,
+  "name": "Robert Edward Lee SHELL, petitioner, v. Harold W. CLARKE, Director, Virginia Department of Corrections.",
+  "name_abbreviation": "Shell v. Clarke",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135829.",
+  "first_page": "342",
+  "last_page": "342",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 342"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 238"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Fed.Appx. 254",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 299,
+    "sha256": "d1dc40170b61dc1fc1fa8bc142e8c430cd8127be9a8d283be43cd87cc59712a9",
+    "simhash": "1:736f466d3b4086a1",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Edward Lee SHELL, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Edward Lee SHELL, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections.\nNo. 13-5829.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 516 Fed.Appx. 254.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0342-05",
+  "first_page_order": 342,
+  "last_page_order": 342
+}

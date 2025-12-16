@@ -1,0 +1,103 @@
+{
+  "id": 12582397,
+  "name": "Jerry Lester JACKSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jackson v. United States",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20138052.",
+  "first_page": "2747",
+  "last_page": "2747",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2747"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 779"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1327",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701608,
+        12701617,
+        12701618,
+        12701619,
+        12578740,
+        12578741,
+        12578742,
+        12578743,
+        12578744,
+        12578745,
+        12701620,
+        12701621
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1219-01",
+        "/us/571/1219-11",
+        "/us/571/1219-12",
+        "/us/571/1219-13",
+        "/s-ct/134/1327-01",
+        "/s-ct/134/1327-02",
+        "/s-ct/134/1327-03",
+        "/s-ct/134/1327-04",
+        "/s-ct/134/1327-05",
+        "/s-ct/134/1327-06",
+        "/us/571/1219-14",
+        "/us/571/1219-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 179,
+    "sha256": "38c9841487f477eb789b8b687085a3d015b97f71d7cd31e53ea62af6568d7230",
+    "simhash": "1:55ec3c44562f77cb",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry Lester JACKSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerry Lester JACKSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-8052.\nSupreme Court of the United States\nJune 9, 2014.\nFormer decision, 134 S.Ct. 1327.\nPetition for rehearing denied."
+  },
+  "file_name": "2747-04",
+  "first_page_order": 2747,
+  "last_page_order": 2747
+}

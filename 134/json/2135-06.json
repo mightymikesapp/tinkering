@@ -1,0 +1,86 @@
+{
+  "id": 12580999,
+  "name": "ALLSTATE INSURANCE COMPANY, petitioner, v. Robert JACOBSEN, Individually and on Behalf of All Others Similarly Situated.",
+  "name_abbreviation": "Allstate Ins. Co. v. Jacobsen ex rel. Situated",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u2013916.",
+  "first_page": "2135",
+  "last_page": "2136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2135"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1125"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "371 Mont. 393",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        3762422
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mont/371/0393-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 295,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26332346017084396
+    },
+    "sha256": "8e0a284799c72ca0c439203fca63ec63c875e22c06689b319677c38300802e47",
+    "simhash": "1:e8a6540eba0031b5",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ALLSTATE INSURANCE COMPANY, petitioner,\nv.\nRobert JACOBSEN, Individually and on Behalf of All Others Similarly Situated."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Montana denied."
+    ],
+    "corrections": "",
+    "head_matter": "ALLSTATE INSURANCE COMPANY, petitioner,\nv.\nRobert JACOBSEN, Individually and on Behalf of All Others Similarly Situated.\nNo. 13-916.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 371 Mont. 393, 310 P.3d 452.\nPetition for writ of certiorari to the Supreme Court of Montana denied."
+  },
+  "file_name": "2135-06",
+  "first_page_order": 2135,
+  "last_page_order": 2136
+}

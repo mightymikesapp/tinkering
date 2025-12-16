@@ -1,0 +1,103 @@
+{
+  "id": 12585474,
+  "name": "Shane C. BUCZEK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Buczek v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20135668.",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 587"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 324",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12583274,
+        12583275,
+        12583276,
+        12583277,
+        12583278,
+        12583279,
+        12703822,
+        12703823,
+        12703824,
+        12703825,
+        12704088,
+        12703260
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0324-01",
+        "/s-ct/134/0324-02",
+        "/s-ct/134/0324-03",
+        "/s-ct/134/0324-04",
+        "/s-ct/134/0324-05",
+        "/s-ct/134/0324-06",
+        "/us/571/0926-13",
+        "/us/571/0926-14",
+        "/us/571/0926-15",
+        "/us/571/0926-16",
+        "/us/571/0946-05",
+        "/us/571/0889-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 173,
+    "sha256": "30ac5d80d7c86a69d7109d06650420377e47311e17bbbbe0c442c805af54e3dc",
+    "simhash": "1:125d30523797f78a",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shane C. BUCZEK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shane C. BUCZEK, petitioner,\nv.\nUNITED STATES.\nNo. 13-5668.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 324.\nPetition for rehearing denied."
+  },
+  "file_name": "0732-03",
+  "first_page_order": 732,
+  "last_page_order": 732
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12582453,
+  "name": "Preston WALKER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Walker v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135378.",
+  "first_page": "279",
+  "last_page": "279",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 279"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 202"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "72 M.J. 157",
+      "category": "reporters:specialty",
+      "reporter": "M.J.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 233,
+    "sha256": "05a6493e564a82cc4fab5f9b7a5e5ebfb4c902bf350eb6ac4d6776a543c86da0",
+    "simhash": "1:a3af664c39e687ad",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Preston WALKER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+    ],
+    "corrections": "",
+    "head_matter": "Preston WALKER, petitioner,\nv.\nUNITED STATES.\nNo. 13-5378.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 72 M.J. 157.\nPetition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+  },
+  "file_name": "0279-04",
+  "first_page_order": 279,
+  "last_page_order": 279
+}

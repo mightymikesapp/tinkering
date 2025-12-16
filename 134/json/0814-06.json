@@ -1,0 +1,103 @@
+{
+  "id": 12585727,
+  "name": "Eddie ROBINSON, petitioner, v. KINGS COUNTY DISTRICT ATTORNEY'S OFFICE, et al.",
+  "name_abbreviation": "Robinson v. Kings Cnty. Dist. Attorney's Office",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 12\u201310566.",
+  "first_page": "814",
+  "last_page": "814",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 814"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 615"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 391",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702656,
+        12583719,
+        12583720,
+        12583721,
+        12583722,
+        12583723,
+        12583724,
+        12702762,
+        12702702,
+        12702672,
+        12702777,
+        12702747
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0848-06",
+        "/s-ct/134/0391-01",
+        "/s-ct/134/0391-02",
+        "/s-ct/134/0391-03",
+        "/s-ct/134/0391-04",
+        "/s-ct/134/0391-05",
+        "/s-ct/134/0391-06",
+        "/us/571/0855-06",
+        "/us/571/0851-06",
+        "/us/571/0849-07",
+        "/us/571/0856-06",
+        "/us/571/0854-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 205,
+    "sha256": "6e154243533e20a382fd608084d27954c06c988e257f42868a61c19b01b8ea4e",
+    "simhash": "1:d276bc541695c766",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eddie ROBINSON, petitioner,\nv.\nKINGS COUNTY DISTRICT ATTORNEY'S OFFICE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eddie ROBINSON, petitioner,\nv.\nKINGS COUNTY DISTRICT ATTORNEY'S OFFICE, et al.\nNo. 12-10566.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 391\nPetition for rehearing denied."
+  },
+  "file_name": "0814-06",
+  "first_page_order": 814,
+  "last_page_order": 814
+}

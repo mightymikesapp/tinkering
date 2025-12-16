@@ -1,0 +1,75 @@
+{
+  "id": 12578104,
+  "name": "Tarone M. JONES, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Jones v. United States",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137691.",
+  "first_page": "1036",
+  "last_page": "1036",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1036"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 130"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "531 Fed.Appx. 306",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 250,
+    "sha256": "3b6de7f94bab78c788bd742a64e55e47d0191092296e5cdcfc9d9c383f62211a",
+    "simhash": "1:6b27c68c1ac0831d",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tarone M. JONES, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tarone M. JONES, petitioner,\nv.\nUNITED STATES, et al.\nNo. 13-7691.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 531 Fed.Appx. 306.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1036-06",
+  "first_page_order": 1036,
+  "last_page_order": 1036
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583016,
+  "name": "Jonathan LEWIS, petitioner, v. Howard FORMAN, Clerk, Circuit Court of Florida, Broward County.",
+  "name_abbreviation": "Lewis v. Forman",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135444.",
+  "first_page": "289",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 289"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 7"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "117 So.3d 411",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 347,
+    "sha256": "26f4047b265d1c299dbfb29433bdb6a521f60fb15dfefa83b7f5c0edb5c1b121",
+    "simhash": "1:cea9dc4d6aa70698",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jonathan LEWIS, petitioner,\nv.\nHoward FORMAN, Clerk, Circuit Court of Florida, Broward County."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Supreme Court of Florida dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "Jonathan LEWIS, petitioner,\nv.\nHoward FORMAN, Clerk, Circuit Court of Florida, Broward County.\nNo. 13-5444.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 117 So.3d 411.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Supreme Court of Florida dismissed. See Rule 39.8."
+  },
+  "file_name": "0289-06",
+  "first_page_order": 289,
+  "last_page_order": 289
+}

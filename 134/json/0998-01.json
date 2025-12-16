@@ -1,0 +1,85 @@
+{
+  "id": 12586647,
+  "name": "Dennis B. McGUIRE, petitioner, v. Norman ROBINSON, Warden.",
+  "name_abbreviation": "McGuire v. Robinson",
+  "decision_date": "2014-01-15",
+  "docket_number": "No. 13\u20138165; 13A720.",
+  "first_page": "998",
+  "last_page": "999",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 998"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 847"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "738 F.3d 741",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3694766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/738/0741-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 380,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26351072977613754
+    },
+    "sha256": "5d65cb545d97c782393821da67039a76ad8aa58e62d8fdf5424b5f8b4d01a99b",
+    "simhash": "1:606f70041e411775",
+    "word_count": 63
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dennis B. McGUIRE, petitioner,\nv.\nNorman ROBINSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay of execution of sentence of death presented to Justice KAGAN and by her referred to the Court denied. Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dennis B. McGUIRE, petitioner,\nv.\nNorman ROBINSON, Warden.\nNo. 13-8165, 13A720.\nSupreme Court of the United States\nJan. 15, 2014.\nCase below, 738 F.3d 741.\nApplication for stay of execution of sentence of death presented to Justice KAGAN and by her referred to the Court denied. Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0998-01",
+  "first_page_order": 998,
+  "last_page_order": 999
+}

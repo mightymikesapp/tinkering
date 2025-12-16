@@ -1,0 +1,75 @@
+{
+  "id": 12584174,
+  "name": "Jose Antonio TREVINO, petitioner, v. TEXAS.",
+  "name_abbreviation": "Trevino v. Texas",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20135885.",
+  "first_page": "477",
+  "last_page": "477",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 477"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 323"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 1883080",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "8cac3a288db492b572a857608ff6f46bda5bbf1946aaef96cf8ed2b6077c2fce",
+    "simhash": "1:d95ee48432c600fb",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Antonio TREVINO, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Thirteenth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Antonio TREVINO, petitioner,\nv.\nTEXAS.\nNo. 13-5885.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 2013 WL 1883080.\nPetition for writ of certiorari to the Court of Appeals of Texas, Thirteenth District, denied."
+  },
+  "file_name": "0477-02",
+  "first_page_order": 477,
+  "last_page_order": 477
+}

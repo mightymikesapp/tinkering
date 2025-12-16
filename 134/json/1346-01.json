@@ -1,0 +1,85 @@
+{
+  "id": 12578867,
+  "name": "Thomas M. HORRAS, petitioner, v. AMERICAN CAPITAL STRATEGIES, LTD.",
+  "name_abbreviation": "Horras v. Am. Capital Strategies, Ltd.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013843.",
+  "first_page": "1346",
+  "last_page": "1346",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1346"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 310"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "729 F.3d 798",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3699912
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/729/0798-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 257,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26325067600466284
+    },
+    "sha256": "5fed1918a086682a879ad2ae3e75efa365d8ca011e9c825f7a865848531347c6",
+    "simhash": "1:7ced26c43f075301",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas M. HORRAS, petitioner,\nv.\nAMERICAN CAPITAL STRATEGIES, LTD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas M. HORRAS, petitioner,\nv.\nAMERICAN CAPITAL STRATEGIES, LTD.\nNo. 13-843.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 729 F.3d 798.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "1346-01",
+  "first_page_order": 1346,
+  "last_page_order": 1346
+}

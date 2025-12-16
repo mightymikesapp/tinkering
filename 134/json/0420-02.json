@@ -1,0 +1,85 @@
+{
+  "id": 12583804,
+  "name": "Christopher SEPULVADO, petitioner, v. Burl CAIN, Warden.",
+  "name_abbreviation": "Sepulvado v. Cain",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 12\u201310251.",
+  "first_page": "420",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 420"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 280"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "707 F.3d 550",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3535857
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/707/0550-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 248,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634141990517594
+    },
+    "sha256": "d45a00eee9c276e97bd94dd21f83ec518351085b60198cb50e689026c237ba6e",
+    "simhash": "1:d0be76c438a184a5",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher SEPULVADO, petitioner,\nv.\nBurl CAIN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher SEPULVADO, petitioner,\nv.\nBurl CAIN, Warden.\nNo. 12-10251.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 707 F.3d 550.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0420-02",
+  "first_page_order": 420,
+  "last_page_order": 420
+}

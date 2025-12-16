@@ -1,0 +1,68 @@
+{
+  "id": 12582016,
+  "name": "Jane DOE, petitioner, v. PHILADELPHIA HOUSING AUTHORITY, et al.",
+  "name_abbreviation": "Jane Doe v. Phila. Hous. Auth.",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13M122.",
+  "first_page": "2691",
+  "last_page": "2691",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2691"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 207"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3685"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 247,
+    "sha256": "f7061cbe86945e09467c9138835f195f3683de018fa4e54dd827738e4ebcbbf3",
+    "simhash": "1:d26750169fcc5959",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jane DOE, petitioner,\nv.\nPHILADELPHIA HOUSING AUTHORITY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jane DOE, petitioner,\nv.\nPHILADELPHIA HOUSING AUTHORITY, et al.\nNo. 13M122.\nSupreme Court of the United States\nMay 27, 2014.\nMotion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record denied."
+  },
+  "file_name": "2691-03",
+  "first_page_order": 2691,
+  "last_page_order": 2691
+}

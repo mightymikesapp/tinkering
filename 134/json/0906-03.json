@@ -1,0 +1,85 @@
+{
+  "id": 12586036,
+  "name": "COUNTY OF LOS ANGELES, CALIFORNIA, petitioner, v. Thomas Lee GOLDSTEIN.",
+  "name_abbreviation": "Cnty. of L. A. v. Goldstein",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013415.",
+  "first_page": "906",
+  "last_page": "906",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 906"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 778"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "715 F.3d 750",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3566852
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/715/0750-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 261,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26349528486023704
+    },
+    "sha256": "57143541b48e28d72356b63fe3a718221a705cf953edf4bf20036c6693b780e9",
+    "simhash": "1:c3ae5645398593a8",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COUNTY OF LOS ANGELES, CALIFORNIA, petitioner,\nv.\nThomas Lee GOLDSTEIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "COUNTY OF LOS ANGELES, CALIFORNIA, petitioner,\nv.\nThomas Lee GOLDSTEIN.\nNo. 13-415.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 715 F.3d 750.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0906-03",
+  "first_page_order": 906,
+  "last_page_order": 906
+}

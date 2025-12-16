@@ -1,0 +1,75 @@
+{
+  "id": 12585273,
+  "name": "Torrence S. WILLIAMS, petitioner, v. Patrick R. DONAHOE, Postmaster General.",
+  "name_abbreviation": "Williams v. Donahoe",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136942.",
+  "first_page": "704",
+  "last_page": "704",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 704"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 567"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 516",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 273,
+    "sha256": "08c195e0c75f35c9f8ec19e2179b1313225743a35d29fb846d13686c7ec59d65",
+    "simhash": "1:7b4f704d3d0796a5",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Torrence S. WILLIAMS, petitioner,\nv.\nPatrick R. DONAHOE, Postmaster General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Torrence S. WILLIAMS, petitioner,\nv.\nPatrick R. DONAHOE, Postmaster General.\nNo. 13-6942.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 525 Fed.Appx. 516.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0704-02",
+  "first_page_order": 704,
+  "last_page_order": 704
+}

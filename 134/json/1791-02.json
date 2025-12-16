@@ -1,0 +1,81 @@
+{
+  "id": 12580094,
+  "name": "Guy MORTIMER, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Mortimer v. Florida",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138455.",
+  "first_page": "1791",
+  "last_page": "1791",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1791"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 760"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "100 So.3d 99",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7004056,
+        7004095
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/100/0099-01",
+        "/so3d/100/0099-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 229,
+    "sha256": "3d9500b5aafa7449919276f9687154c45db464b6298c7223d887f56c8234b43a",
+    "simhash": "1:e37f761578074da5",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Guy MORTIMER, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Guy MORTIMER, petitioner,\nv.\nFLORIDA.\nNo. 13-8455.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 100 So.3d 99.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Fourth District, denied."
+  },
+  "file_name": "1791-02",
+  "first_page_order": 1791,
+  "last_page_order": 1791
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12585865,
+  "name": "Patrick JONES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jones v. United States",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20137338.",
+  "first_page": "834",
+  "last_page": "834",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 834"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 693"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "532 Fed.Appx. 769",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 240,
+    "sha256": "ab76ba5a8a1f1db1996ee012ac2e65c8dd686658fdb1c0bf980e680168774041",
+    "simhash": "1:43af74c12b27d71c",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick JONES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick JONES, petitioner,\nv.\nUNITED STATES.\nNo. 13-7338.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 532 Fed.Appx. 769.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0834-03",
+  "first_page_order": 834,
+  "last_page_order": 834
+}

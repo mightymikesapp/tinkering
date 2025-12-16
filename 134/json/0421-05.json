@@ -1,0 +1,83 @@
+{
+  "id": 12583813,
+  "name": "GEAC ENTERPRISE SOLUTIONS, INC., et al., petitioners, v. CORNUS CORPORATION.",
+  "name_abbreviation": "Geac Enter. Solutions, Inc. v. Cornus Corp.",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 12\u20131503.",
+  "first_page": "421",
+  "last_page": "421",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 421"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 279"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "289 P.3d 267",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        4221522,
+        4221062
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/or-app/252/0595-01",
+        "/or-app/252/0563-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 241,
+    "sha256": "9e1af6038443940c23b230b94008a3fe7f57107c1692e67d937cfae3eb38a1b5",
+    "simhash": "1:72df2ac5b38394f9",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GEAC ENTERPRISE SOLUTIONS, INC., et al., petitioners,\nv.\nCORNUS CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Oregon denied."
+    ],
+    "corrections": "",
+    "head_matter": "GEAC ENTERPRISE SOLUTIONS, INC., et al., petitioners,\nv.\nCORNUS CORPORATION.\nNo. 12-1503.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 289 P.3d 267.\nPetition for writ of certiorari to the Court of Appeals of Oregon denied."
+  },
+  "file_name": "0421-05",
+  "first_page_order": 421,
+  "last_page_order": 421
+}

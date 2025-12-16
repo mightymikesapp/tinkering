@@ -1,0 +1,83 @@
+{
+  "id": 12583320,
+  "name": "Samuel Santander LOPESIERRA-GUTIERREZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lopesierra-Gutierrez v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135721.",
+  "first_page": "330",
+  "last_page": "330",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 330"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 232"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "708 F.3d 193",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3662812,
+        3540909
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us-app-dc/404/0115-01",
+        "/f3d/708/0193-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 273,
+    "sha256": "3ecf43869092ee8fb41b446dd8f23de52d3aeeaf96e20d794986dcb66057d74a",
+    "simhash": "1:ab6f764433c60519",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Samuel Santander LOPESIERRA-GUTIERREZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel Santander LOPESIERRA-GUTIERREZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-5721.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 708 F.3d 193.\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "0330-04",
+  "first_page_order": 330,
+  "last_page_order": 330
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12585458,
+  "name": "Vincent Sharnee JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20135032.",
+  "first_page": "730",
+  "last_page": "730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 730"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 585"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 218",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703299,
+        12703300,
+        12702027,
+        12703309,
+        12703317,
+        12703318,
+        12581209,
+        12581210,
+        12581211,
+        12581212,
+        12581213,
+        12581214
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0892-02",
+        "/us/571/0892-03",
+        "/us/571/0804-05",
+        "/us/571/0893-08",
+        "/us/571/0893-09",
+        "/us/571/0893-10",
+        "/s-ct/134/0218-01",
+        "/s-ct/134/0218-02",
+        "/s-ct/134/0218-03",
+        "/s-ct/134/0218-04",
+        "/s-ct/134/0218-05",
+        "/s-ct/134/0218-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 180,
+    "sha256": "684859a08127ce3a643d106d993930e6dd4bcdb797bf7f77030fc50dcb24491b",
+    "simhash": "1:527d2c5616c6578e",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Vincent Sharnee JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Vincent Sharnee JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-5032.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 218\nPetition for rehearing denied."
+  },
+  "file_name": "0730-03",
+  "first_page_order": 730,
+  "last_page_order": 730
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12579969,
+  "name": "William WATSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Watson v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138826.",
+  "first_page": "1772",
+  "last_page": "1772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1772"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 603"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "66 A.3d 542",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7308163
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/66/0542-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 221,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632873576799265
+    },
+    "sha256": "7a641cd462614bd013e0c2624551181b0111ab112ea0a50f0294a78e06e60657",
+    "simhash": "1:436c04443248c411",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William WATSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the District of Columbia Court of Appeals denied."
+    ],
+    "corrections": "",
+    "head_matter": "William WATSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-8826.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 66 A.3d 542.\nPetition for writ of certiorari to the District of Columbia Court of Appeals denied."
+  },
+  "file_name": "1772-02",
+  "first_page_order": 1772,
+  "last_page_order": 1772
+}

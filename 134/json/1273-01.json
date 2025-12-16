@@ -1,0 +1,85 @@
+{
+  "id": 12578393,
+  "name": "Walter Lee JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 12\u201310257.",
+  "first_page": "1273",
+  "last_page": "1273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1273"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 296"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "706 F.3d 728",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3662421
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/706/0728-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26323291435137725
+    },
+    "sha256": "0e71f805c350f20760cacc26b78a13ca375710d4aa2ad9ed8abe275a4ab7eea6",
+    "simhash": "1:70ed50421a85d605",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Walter Lee JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Walter Lee JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 12-10257.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 706 F.3d 728.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1273-01",
+  "first_page_order": 1273,
+  "last_page_order": 1273
+}

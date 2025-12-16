@@ -1,0 +1,103 @@
+{
+  "id": 12578222,
+  "name": "Nathan E. JACOBS, petitioner, v. BUREAU OF PRISONS, et al.",
+  "name_abbreviation": "Jacobs v. Bureau of Prisons",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20136377.",
+  "first_page": "1054",
+  "last_page": "1054",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1054"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 141"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 530",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704704,
+        12704705,
+        12584488,
+        12584489,
+        12584490,
+        12584491,
+        12584492,
+        12584493,
+        12704783,
+        12704784,
+        12704785,
+        12704629
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0991-13",
+        "/us/571/0991-14",
+        "/s-ct/134/0530-01",
+        "/s-ct/134/0530-02",
+        "/s-ct/134/0530-03",
+        "/s-ct/134/0530-04",
+        "/s-ct/134/0530-05",
+        "/s-ct/134/0530-06",
+        "/us/571/0997-02",
+        "/us/571/0997-03",
+        "/us/571/0997-04",
+        "/us/571/0985-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 186,
+    "sha256": "73f5332451bd5296367d98f684cd16be774f9590bad5d688c2111120b8634d0f",
+    "simhash": "1:b4353c101295154c",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nathan E. JACOBS, petitioner,\nv.\nBUREAU OF PRISONS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nathan E. JACOBS, petitioner,\nv.\nBUREAU OF PRISONS, et al.\nNo. 13-6377.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 530.\nPetition for rehearing denied."
+  },
+  "file_name": "1054-03",
+  "first_page_order": 1054,
+  "last_page_order": 1054
+}

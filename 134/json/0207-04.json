@@ -1,0 +1,75 @@
+{
+  "id": 12580948,
+  "name": "Omari GRAHAM, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Graham v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310975.",
+  "first_page": "207",
+  "last_page": "207",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 207"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 139"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "504 Fed.Appx. 63",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "sha256": "03af78377dc18832ed751c28c5894b31a7f536f47d687f548e79a91667308f9c",
+    "simhash": "1:d12dd6807b47841f",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Omari GRAHAM, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Omari GRAHAM, petitioner,\nv.\nUNITED STATES.\nNo. 12-10975.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 504 Fed.Appx. 63.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0207-04",
+  "first_page_order": 207,
+  "last_page_order": 207
+}

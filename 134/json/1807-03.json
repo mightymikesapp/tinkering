@@ -1,0 +1,103 @@
+{
+  "id": 12580199,
+  "name": "Louis J. DEL GIORNO, petitioner, v. WEST VIRGINIA BOARD OF MEDICINE.",
+  "name_abbreviation": "Del Giorno v. W. Va. Bd. of Med.",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20137756.",
+  "first_page": "1807",
+  "last_page": "1807",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1807"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 756"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1363",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578983,
+        12578984,
+        12578985,
+        12578986,
+        12578987,
+        12578988,
+        12701261,
+        12701323,
+        12701270,
+        12701271,
+        12701272,
+        12701273
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1363-01",
+        "/s-ct/134/1363-02",
+        "/s-ct/134/1363-03",
+        "/s-ct/134/1363-04",
+        "/s-ct/134/1363-05",
+        "/s-ct/134/1363-06",
+        "/us/571/1194-01",
+        "/us/571/1198-03",
+        "/us/571/1194-11",
+        "/us/571/1194-12",
+        "/us/571/1194-13",
+        "/us/571/1194-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 267,
+    "sha256": "67f98ef09daa2056cdcb3e9a8efbf2585da6cd177d013b81fcf4acd806f61c00",
+    "simhash": "1:62b034424416b73b",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Louis J. DEL GIORNO, petitioner,\nv.\nWEST VIRGINIA BOARD OF MEDICINE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Louis J. DEL GIORNO, petitioner,\nv.\nWEST VIRGINIA BOARD OF MEDICINE.\nNo. 13-7756.\nSupreme Court of the United States\nApril 7, 2014.\nFormer decision, 134 S.Ct. 1363.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "1807-03",
+  "first_page_order": 1807,
+  "last_page_order": 1807
+}

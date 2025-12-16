@@ -1,0 +1,85 @@
+{
+  "id": 12579398,
+  "name": "Steven McCLOUD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "McCloud v. United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138544.",
+  "first_page": "1528",
+  "last_page": "1528",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1528"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 460"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "730 F.3d 600",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3702433
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/730/0600-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26326727928925586
+    },
+    "sha256": "039a29e99b87ce979f6a618ef03d4625ba758963cff57112c1354bf725ecff62",
+    "simhash": "1:706c06469e05d411",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven McCLOUD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven McCLOUD, petitioner,\nv.\nUNITED STATES.\nNo. 13-8544.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 730 F.3d 600.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1528-04",
+  "first_page_order": 1528,
+  "last_page_order": 1528
+}

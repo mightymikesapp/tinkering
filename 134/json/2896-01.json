@@ -1,0 +1,85 @@
+{
+  "id": 12582988,
+  "name": "PENTAGON CAPITAL MANAGEMENT PLC, et al., petitioners, v. SECURITIES AND EXCHANGE COMMISSION.",
+  "name_abbreviation": "Pentagon Capital Mgmt. PLC v. Sec. & Exch. Comm'n",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20131142.",
+  "first_page": "2896",
+  "last_page": "2896",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2896"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 834"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3745"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "725 F.3d 279",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071478
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/725/0279-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 284,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26339431372253747
+    },
+    "sha256": "6005cc13672df7d7b07b263521f85ff766b637ab821def525df342e100651f66",
+    "simhash": "1:939d74447d243fb4",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PENTAGON CAPITAL MANAGEMENT PLC, et al., petitioners,\nv.\nSECURITIES AND EXCHANGE COMMISSION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "PENTAGON CAPITAL MANAGEMENT PLC, et al., petitioners,\nv.\nSECURITIES AND EXCHANGE COMMISSION.\nNo. 13-1142.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 725 F.3d 279.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "2896-01",
+  "first_page_order": 2896,
+  "last_page_order": 2896
+}

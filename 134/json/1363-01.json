@@ -1,0 +1,103 @@
+{
+  "id": 12578983,
+  "name": "Carlayne SIMS, petitioner, v. AMERICAN DEVELOPMENT GROUP, et al.",
+  "name_abbreviation": "Sims v. Group",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137306.",
+  "first_page": "1363",
+  "last_page": "1363",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1363"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 295"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 939",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700577,
+        12700386,
+        12700259,
+        12700578,
+        12700579,
+        12700580,
+        12586248,
+        12586249,
+        12586250,
+        12586251,
+        12586252,
+        12586253
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1143-10",
+        "/us/571/1130-12",
+        "/us/571/1120-05",
+        "/us/571/1143-11",
+        "/us/571/1143-12",
+        "/us/571/1143-13",
+        "/s-ct/134/0939-01",
+        "/s-ct/134/0939-02",
+        "/s-ct/134/0939-03",
+        "/s-ct/134/0939-04",
+        "/s-ct/134/0939-05",
+        "/s-ct/134/0939-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 262,
+    "sha256": "3791ed75e5c5bd0f0005acd93a3b888ae728400c716dd632ec1d58c1a92b5f0e",
+    "simhash": "1:63bc3e484414e35a",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlayne SIMS, petitioner,\nv.\nAMERICAN DEVELOPMENT GROUP, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlayne SIMS, petitioner,\nv.\nAMERICAN DEVELOPMENT GROUP, et al.\nNo. 13-7306.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 939.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "1363-01",
+  "first_page_order": 1363,
+  "last_page_order": 1363
+}

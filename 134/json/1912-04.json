@@ -1,0 +1,85 @@
+{
+  "id": 12580536,
+  "name": "Michael Sherman TOLLIVER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Tolliver v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20131128.",
+  "first_page": "1912",
+  "last_page": "1912",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1912"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 915"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "730 F.3d 1216",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3702624
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/730/1216-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26330454014886584
+    },
+    "sha256": "7a9eddc86405807b414fefd46c9ee41fa4a165dc0281872bee6840201670f2d3",
+    "simhash": "1:016fd6463506d491",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Sherman TOLLIVER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Sherman TOLLIVER, petitioner,\nv.\nUNITED STATES.\nNo. 13-1128.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 730 F.3d 1216.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1912-04",
+  "first_page_order": 1912,
+  "last_page_order": 1912
+}

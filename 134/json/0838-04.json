@@ -1,0 +1,103 @@
+{
+  "id": 12585891,
+  "name": "Edward D. TORRES, petitioner, v. Sara DAVIS, et al.",
+  "name_abbreviation": "Torres v. Davis",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 12\u201310140.",
+  "first_page": "838",
+  "last_page": "838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 838"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 695"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 84",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702273,
+        12702274,
+        12702530,
+        12702531,
+        12585926,
+        12585927,
+        12585928,
+        12585929,
+        12585930,
+        12585931,
+        12702519,
+        12702268
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0821-06",
+        "/us/571/0821-07",
+        "/us/571/0839-13",
+        "/us/571/0839-14",
+        "/s-ct/134/0084-01",
+        "/s-ct/134/0084-02",
+        "/s-ct/134/0084-03",
+        "/s-ct/134/0084-04",
+        "/s-ct/134/0084-05",
+        "/s-ct/134/0084-06",
+        "/us/571/0839-01",
+        "/us/571/0821-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 178,
+    "sha256": "2acaff9866128a35625f67d3438a657dc08daaf101bcec1ed02d98edbdee90c6",
+    "simhash": "1:17b75c029fcd4618",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward D. TORRES, petitioner,\nv.\nSara DAVIS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edward D. TORRES, petitioner,\nv.\nSara DAVIS, et al.\nNo. 12-10140.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 84\nPetition for rehearing denied."
+  },
+  "file_name": "0838-04",
+  "first_page_order": 838,
+  "last_page_order": 838
+}

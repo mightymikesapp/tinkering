@@ -1,0 +1,103 @@
+{
+  "id": 12585748,
+  "name": "Carol WALKER, petitioner, v. LAWRENCEVILLE APARTMENTS.",
+  "name_abbreviation": "Walker v. Apartments",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20135204.",
+  "first_page": "817",
+  "last_page": "817",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 817"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 618"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 248",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703461,
+        12703468,
+        12703469,
+        12703450,
+        12581684,
+        12581685,
+        12581686,
+        12581687,
+        12581688,
+        12581689,
+        12703449,
+        12703451
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0903-07",
+        "/us/571/0903-08",
+        "/us/571/0903-09",
+        "/us/571/0902-05",
+        "/s-ct/134/0248-01",
+        "/s-ct/134/0248-02",
+        "/s-ct/134/0248-03",
+        "/s-ct/134/0248-04",
+        "/s-ct/134/0248-05",
+        "/s-ct/134/0248-06",
+        "/us/571/0902-04",
+        "/us/571/0902-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 180,
+    "sha256": "001cfbfe2c7aaadba464a37d94d937de6261b5aa12cdf355605c6526227ab7cd",
+    "simhash": "1:727b1440380fc786",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carol WALKER, petitioner,\nv.\nLAWRENCEVILLE APARTMENTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carol WALKER, petitioner,\nv.\nLAWRENCEVILLE APARTMENTS.\nNo. 13-5204.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 248\nPetition for rehearing denied."
+  },
+  "file_name": "0817-04",
+  "first_page_order": 817,
+  "last_page_order": 817
+}

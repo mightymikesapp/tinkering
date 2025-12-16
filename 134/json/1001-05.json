@@ -1,0 +1,85 @@
+{
+  "id": 12577875,
+  "name": "SOUTHERN COMMUNICATIONS SERVICES, INC., dba Southernlinc Wireless, petitioner, v. Derek THOMAS.",
+  "name_abbreviation": "S. Commc'ns Servs., Inc. v. Thomas",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u2013469.",
+  "first_page": "1001",
+  "last_page": "1001",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1001"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 850"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "720 F.3d 1352",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4057178
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/720/1352-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 289,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632157318824379
+    },
+    "sha256": "4afb71f3e3390d9432032697b2a5ee83f6112d1ba227276e562993b418bff370",
+    "simhash": "1:786f44c41b0503a9",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SOUTHERN COMMUNICATIONS SERVICES, INC., dba Southernlinc Wireless, petitioner,\nv.\nDerek THOMAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "SOUTHERN COMMUNICATIONS SERVICES, INC., dba Southernlinc Wireless, petitioner,\nv.\nDerek THOMAS.\nNo. 13-469.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 720 F.3d 1352.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1001-05",
+  "first_page_order": 1001,
+  "last_page_order": 1001
+}

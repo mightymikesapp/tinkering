@@ -1,0 +1,75 @@
+{
+  "id": 12586049,
+  "name": "TRITON SCHIFFAHRTS GmbH, et al., petitioners, v. James FIOCCA, et ux.",
+  "name_abbreviation": "GMBH v. Fiocca",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013474.",
+  "first_page": "908",
+  "last_page": "908",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 908"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 779"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "530 Fed.Appx. 183",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 264,
+    "sha256": "6902b0215a75f9f1cc074d05096be2bedb2bc2e13a7d188a98f7127441212d19",
+    "simhash": "1:4f2e52443e8167ad",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TRITON SCHIFFAHRTS GmbH, et al., petitioners,\nv.\nJames FIOCCA, et ux."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "TRITON SCHIFFAHRTS GmbH, et al., petitioners,\nv.\nJames FIOCCA, et ux.\nNo. 13-474.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 530 Fed.Appx. 183.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0908-04",
+  "first_page_order": 908,
+  "last_page_order": 908
+}

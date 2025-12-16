@@ -1,0 +1,85 @@
+{
+  "id": 12581628,
+  "name": "Leon Anthony FREDERICK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Frederick v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135156.",
+  "first_page": "239",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 239"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 177"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "708 F.3d 1286",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3541547
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/708/1286-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 247,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633446969302071
+    },
+    "sha256": "d9b4ee4ab45260cb48fd1a40bc84fccd272629d49ec75cfa3f94fd4a65b9b614",
+    "simhash": "1:41ad7244b3078699",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leon Anthony FREDERICK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leon Anthony FREDERICK, petitioner,\nv.\nUNITED STATES.\nNo. 13-5156.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 708 F.3d 1286.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0239-06",
+  "first_page_order": 239,
+  "last_page_order": 239
+}

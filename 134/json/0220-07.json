@@ -1,0 +1,86 @@
+{
+  "id": 12581228,
+  "name": "Randall Jay DUGAN, petitioner, v. MONTANA.",
+  "name_abbreviation": "Dugan v. Montana",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u201313.",
+  "first_page": "220",
+  "last_page": "221",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 220"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 143"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "369 Mont. 39",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        3758679
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mont/369/0039-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 216,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633294450757554
+    },
+    "sha256": "09a0093310089ac9d909e19d889aeaf9dc4de8c8ae403f9c46e09a235a55755f",
+    "simhash": "1:c86fc64cfab3c0b9",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randall Jay DUGAN, petitioner,\nv.\nMONTANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Montana denied."
+    ],
+    "corrections": "",
+    "head_matter": "Randall Jay DUGAN, petitioner,\nv.\nMONTANA.\nNo. 13-13.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 369 Mont. 39, 303 P.3d 755.\nPetition for writ of certiorari to the Supreme Court of Montana denied."
+  },
+  "file_name": "0220-07",
+  "first_page_order": 220,
+  "last_page_order": 221
+}

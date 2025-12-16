@@ -1,0 +1,75 @@
+{
+  "id": 12586495,
+  "name": "KWANG HEE KIM, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Kim v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013696.",
+  "first_page": "976",
+  "last_page": "976",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 976"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 787"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "539 Fed.Appx. 171",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 240,
+    "sha256": "2f6a0341afe0524607add94dac4ee2b00fd2011ae732812987955147cb5fda20",
+    "simhash": "1:686e46443080d711",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "KWANG HEE KIM, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "KWANG HEE KIM, petitioner,\nv.\nUNITED STATES.\nNo. 13-696.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 539 Fed.Appx. 171.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0976-04",
+  "first_page_order": 976,
+  "last_page_order": 976
+}

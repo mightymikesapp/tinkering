@@ -1,0 +1,75 @@
+{
+  "id": 12583806,
+  "name": "James Thomas FLOCKER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Flocker v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 12\u201310371.",
+  "first_page": "420",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 420"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 280"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "504 Fed.Appx. 637",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "sha256": "843d748d089470210a7755de6982782a985d115a34e63def912a157cb82b61e1",
+    "simhash": "1:e3ac560081a5d509",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Thomas FLOCKER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Thomas FLOCKER, petitioner,\nv.\nUNITED STATES.\nNo. 12-10371.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 504 Fed.Appx. 637.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0420-04",
+  "first_page_order": 420,
+  "last_page_order": 420
+}

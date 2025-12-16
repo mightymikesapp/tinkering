@@ -1,0 +1,103 @@
+{
+  "id": 12580650,
+  "name": "Richman EM, petitioner, v. Kelly HARRINGTON, Warden.",
+  "name_abbreviation": "Em v. Harrington",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20136955.",
+  "first_page": "1929",
+  "last_page": "1929",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1929"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 951"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 913",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12586083,
+        12586084,
+        12586085,
+        12586086,
+        12586087,
+        12586088,
+        12700358,
+        12700457,
+        12700458,
+        12700459,
+        12700460,
+        12700461
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0913-01",
+        "/s-ct/134/0913-02",
+        "/s-ct/134/0913-03",
+        "/s-ct/134/0913-04",
+        "/s-ct/134/0913-05",
+        "/s-ct/134/0913-06",
+        "/us/571/1128-10",
+        "/us/571/1135-08",
+        "/us/571/1135-09",
+        "/us/571/1135-10",
+        "/us/571/1135-11",
+        "/us/571/1135-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 181,
+    "sha256": "4697b935bacdf9bcd463c5cc4576a903f6fb3fb7bf695fc8ff58c77a7e00efa7",
+    "simhash": "1:732736051487670f",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richman EM, petitioner,\nv.\nKelly HARRINGTON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richman EM, petitioner,\nv.\nKelly HARRINGTON, Warden.\nNo. 13-6955.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 913.\nPetition for rehearing denied."
+  },
+  "file_name": "1929-05",
+  "first_page_order": 1929,
+  "last_page_order": 1929
+}

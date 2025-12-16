@@ -1,0 +1,75 @@
+{
+  "id": 12585843,
+  "name": "Brian HELM, petitioner, v. Charlie LIEM, et al.",
+  "name_abbreviation": "Helm v. Liem",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20137006.",
+  "first_page": "830",
+  "last_page": "830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 830"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 691"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "523 Fed.Appx. 643",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 246,
+    "sha256": "ee25b78fd986034e761dfc2ef545312b33d21fa0fa9ae8df1ba0f41c82a4c942",
+    "simhash": "1:7bafc4853745d67b",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian HELM, petitioner,\nv.\nCharlie LIEM, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian HELM, petitioner,\nv.\nCharlie LIEM, et al.\nNo. 13-7006.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 523 Fed.Appx. 643.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0830-06",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

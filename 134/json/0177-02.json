@@ -1,0 +1,85 @@
+{
+  "id": 12580017,
+  "name": "Marcus A. WELLONS, petitioner, v. Carl HUMPHREY, Warden.",
+  "name_abbreviation": "Wellons v. Humphrey",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310804.",
+  "first_page": "177",
+  "last_page": "177",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 177"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 121"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "695 F.3d 1202",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3528209
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/695/1202-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 251,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26328928829441406
+    },
+    "sha256": "4366da077648dcd13103832ce1936a75b012d3bc1c97aa0d828e325fb5849301",
+    "simhash": "1:696f360cbb6784a5",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marcus A. WELLONS, petitioner,\nv.\nCarl HUMPHREY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marcus A. WELLONS, petitioner,\nv.\nCarl HUMPHREY, Warden.\nNo. 12-10804.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 695 F.3d 1202.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0177-02",
+  "first_page_order": 177,
+  "last_page_order": 177
+}

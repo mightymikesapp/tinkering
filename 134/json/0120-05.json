@@ -1,0 +1,85 @@
+{
+  "id": 12578351,
+  "name": "Roger Mark SCOTT, petitioner, v. Charles L. RYAN, Director, Arizona Department of Corrections.",
+  "name_abbreviation": "Scott v. Ryan",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310482.",
+  "first_page": "120",
+  "last_page": "120",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 120"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 86"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "686 F.3d 1130",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6051098
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/686/1130-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 286,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26323117679833846
+    },
+    "sha256": "e94cb9aaf4fb6253cc73cacc06de95fa89975885c256f0d0aaabfee8ab20b178",
+    "simhash": "1:e3ed604159308432",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roger Mark SCOTT, petitioner,\nv.\nCharles L. RYAN, Director, Arizona Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roger Mark SCOTT, petitioner,\nv.\nCharles L. RYAN, Director, Arizona Department of Corrections.\nNo. 12-10482.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 686 F.3d 1130.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0120-05",
+  "first_page_order": 120,
+  "last_page_order": 120
+}

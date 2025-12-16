@@ -1,0 +1,75 @@
+{
+  "id": 12581983,
+  "name": "Robbie SUTTLES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Suttles v. United States",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20139892.",
+  "first_page": "2686",
+  "last_page": "2686",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2686"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 227"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3686"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "546 Fed.Appx. 215",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 241,
+    "sha256": "cf4ac25abe677204d6adb620733d9358d6f8e7c3183949c6dff56dd3b7fd65e1",
+    "simhash": "1:dc6f4406bb8cd6db",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robbie SUTTLES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robbie SUTTLES, petitioner,\nv.\nUNITED STATES.\nNo. 13-9892.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 546 Fed.Appx. 215.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2686-06",
+  "first_page_order": 2686,
+  "last_page_order": 2686
+}

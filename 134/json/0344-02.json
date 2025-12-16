@@ -1,0 +1,75 @@
+{
+  "id": 12583407,
+  "name": "Yvonne L. ROBERTSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robertson v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135843.",
+  "first_page": "344",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 344"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 239"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "513 Fed.Appx. 320",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "1727689d907d64db60fde4216095da0f492d25616f6047ac201e94244d2c4e2e",
+    "simhash": "1:432f66043b64c41b",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yvonne L. ROBERTSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Yvonne L. ROBERTSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-5843.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 513 Fed.Appx. 320.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0344-02",
+  "first_page_order": 344,
+  "last_page_order": 344
+}

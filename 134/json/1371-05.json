@@ -1,0 +1,103 @@
+{
+  "id": 12579045,
+  "name": "John JACQUES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jacques v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137214.",
+  "first_page": "1371",
+  "last_page": "1371",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1371"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 368"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 802",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700000,
+        12700001,
+        12699912,
+        12585647,
+        12585648,
+        12585649,
+        12585650,
+        12585651,
+        12585652,
+        12699924,
+        12699925,
+        12699999
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1101-04",
+        "/us/571/1101-05",
+        "/us/571/1095-04",
+        "/s-ct/134/0802-01",
+        "/s-ct/134/0802-02",
+        "/s-ct/134/0802-03",
+        "/s-ct/134/0802-04",
+        "/s-ct/134/0802-05",
+        "/s-ct/134/0802-06",
+        "/us/571/1096-03",
+        "/us/571/1096-04",
+        "/us/571/1101-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 171,
+    "sha256": "0178ccc0bca5f4a1ed3333d84ce78b6d377cdd6d573abe4a808b3835a7db3a63",
+    "simhash": "1:61bc3446878ed70c",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John JACQUES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John JACQUES, petitioner,\nv.\nUNITED STATES.\nNo. 13-7214.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 802.\nPetition for rehearing denied."
+  },
+  "file_name": "1371-05",
+  "first_page_order": 1371,
+  "last_page_order": 1371
+}

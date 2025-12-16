@@ -1,0 +1,97 @@
+{
+  "id": 12578462,
+  "name": "Glen ROGERS, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Rogers v. California",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137553.",
+  "first_page": "1285",
+  "last_page": "1285",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1285"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 314"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "304 P.3d 124",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "159 Cal.Rptr.3d 626",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 Cal.4th 296",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6053927
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/57/0296-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 242,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26323928537918617
+    },
+    "sha256": "000fed4e7f2d2db718e19f89f407de013d41123ae1c634614a1fd541357cdb61",
+    "simhash": "1:5867545c90b54b11",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Glen ROGERS, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "Glen ROGERS, petitioner,\nv.\nCALIFORNIA.\nNo. 13-7553.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 57 Cal.4th 296, 159 Cal.Rptr.3d 626, 304 P.3d 124.\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "1285-01",
+  "first_page_order": 1285,
+  "last_page_order": 1285
+}

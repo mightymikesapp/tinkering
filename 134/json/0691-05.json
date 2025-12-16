@@ -1,0 +1,75 @@
+{
+  "id": 12585191,
+  "name": "Mark JACKSON, petitioner, v. The DOW CHEMICAL COMPANY, et al.",
+  "name_abbreviation": "Jackson v. Dow Chem. Co.",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u2013374.",
+  "first_page": "691",
+  "last_page": "691",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 691"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 551"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "518 Fed.Appx. 99",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 254,
+    "sha256": "3ce8e4c11511bb23b36b4693283a7b1013fa53465619884ac14c464f8ad98488",
+    "simhash": "1:b1a7e0c43f455baa",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark JACKSON, petitioner,\nv.\nThe DOW CHEMICAL COMPANY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark JACKSON, petitioner,\nv.\nThe DOW CHEMICAL COMPANY, et al.\nNo. 13-374.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 518 Fed.Appx. 99.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0691-05",
+  "first_page_order": 691,
+  "last_page_order": 691
+}

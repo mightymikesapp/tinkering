@@ -1,0 +1,75 @@
+{
+  "id": 12585552,
+  "name": "Margaret A. PAPES, petitioner, v. CITIMORTGAGE INC.",
+  "name_abbreviation": "Papes v. CitiMortgage Inc.",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20136670.",
+  "first_page": "788",
+  "last_page": "788",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 788"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 599"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 2149883",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 221,
+    "sha256": "c0ac551753a20fb10b7e771f67b063e4c9ef963358a7cdbb557d96077adfebf5",
+    "simhash": "1:786fe2ce53c3817c",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Margaret A. PAPES, petitioner,\nv.\nCITIMORTGAGE INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Minnesota denied."
+    ],
+    "corrections": "",
+    "head_matter": "Margaret A. PAPES, petitioner,\nv.\nCITIMORTGAGE INC.\nNo. 13-6670.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 2013 WL 2149883.\nPetition for writ of certiorari to the Court of Appeals of Minnesota denied."
+  },
+  "file_name": "0788-04",
+  "first_page_order": 788,
+  "last_page_order": 788
+}

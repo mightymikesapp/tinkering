@@ -1,0 +1,81 @@
+{
+  "id": 12579424,
+  "name": "James O'Brien LACKARD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lackard v. United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138612.",
+  "first_page": "1531",
+  "last_page": "1531",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1531"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 462"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 6851485",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "549 Fed.Appx. 193",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 267,
+    "sha256": "0d2575bb1422dc277daabe93a97dbfd5a90e4d556176c6b99ad56872dbd491f4",
+    "simhash": "1:596c66441b088611",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James O'Brien LACKARD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James O'Brien LACKARD, petitioner,\nv.\nUNITED STATES.\nNo. 13-8612.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 549 Fed.Appx. 193, 2013 WL 6851485.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1531-06",
+  "first_page_order": 1531,
+  "last_page_order": 1531
+}

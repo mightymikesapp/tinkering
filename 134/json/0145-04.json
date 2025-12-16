@@ -1,0 +1,85 @@
+{
+  "id": 12579132,
+  "name": "Bishop CAPERS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bishop Capers v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310635.",
+  "first_page": "145",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 145"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 103"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "708 F.3d 1286",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3541547
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/708/1286-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632566609095743
+    },
+    "sha256": "e1604ecbab0c8f45f4ffb7f120328adb325fb820cf8aa0f1d385bdfc9660bdf6",
+    "simhash": "1:a9ec76749307861b",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bishop CAPERS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bishop CAPERS, petitioner,\nv.\nUNITED STATES.\nNo. 12-10635.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 708 F.3d 1286.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0145-04",
+  "first_page_order": 145,
+  "last_page_order": 145
+}

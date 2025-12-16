@@ -1,0 +1,81 @@
+{
+  "id": 12579423,
+  "name": "Victor VALLADARES-REAL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Valladares-Real v. United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138608.",
+  "first_page": "1531",
+  "last_page": "1531",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1531"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 462"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 6318562",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "548 Fed.Appx. 392",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 267,
+    "sha256": "a7d44c571ee7e2f89e64555b43b669e667ef88d9039fd63e7e2ecb8625c6cd03",
+    "simhash": "1:a0ed76463e078691",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Victor VALLADARES-REAL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Victor VALLADARES-REAL, petitioner,\nv.\nUNITED STATES.\nNo. 13-8608.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 548 Fed.Appx. 392, 2013 WL 6318562.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1531-05",
+  "first_page_order": 1531,
+  "last_page_order": 1531
+}

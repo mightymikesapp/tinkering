@@ -1,0 +1,81 @@
+{
+  "id": 12578420,
+  "name": "HOOSIER ENERGY RURAL ELECTRIC COOPERATIVE, INC., et al., petitioners, v. FEDERAL ENERGY REGULATORY COMMISSION.",
+  "name_abbreviation": "Hoosier Energy Rural Elec. Coop., Inc. v. Fed. Energy Regulatory Comm'n",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013445.",
+  "first_page": "1278",
+  "last_page": "1278",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1278"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 764",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5755907
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/721/0764-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 362,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632358102731086
+    },
+    "sha256": "3494128d985d44454be7184b5b888d15900f9e976a506b5d939ae3d23ac70c0f",
+    "simhash": "1:91ad2097b9049465",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HOOSIER ENERGY RURAL ELECTRIC COOPERATIVE, INC., et al., petitioners,\nv.\nFEDERAL ENERGY REGULATORY COMMISSION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "HOOSIER ENERGY RURAL ELECTRIC COOPERATIVE, INC., et al., petitioners,\nv.\nFEDERAL ENERGY REGULATORY COMMISSION.\nNo. 13-445.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, Illinois Commerce Com'n v. Federal Energy Regulatory Com'n, 721 F.3d 764.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1278-02",
+  "first_page_order": 1278,
+  "last_page_order": 1278
+}

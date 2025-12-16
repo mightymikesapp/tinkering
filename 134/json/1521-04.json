@@ -1,0 +1,75 @@
+{
+  "id": 12579354,
+  "name": "Michael Charles DeSUE, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Desue v. Florida",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138285.",
+  "first_page": "1521",
+  "last_page": "1521",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1521"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 455"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "129 So.3d 1067",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 212,
+    "sha256": "c328084512eb1b8641e203946d3bf4fe27219a2df2f9511fdb400896242f5c6a",
+    "simhash": "1:e26634143885c611",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Charles DeSUE, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Charles DeSUE, petitioner,\nv.\nFLORIDA.\nNo. 13-8285.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 129 So.3d 1067.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "1521-04",
+  "first_page_order": 1521,
+  "last_page_order": 1521
+}

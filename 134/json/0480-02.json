@@ -1,0 +1,75 @@
+{
+  "id": 12584198,
+  "name": "Larry R. TART, petitioner, v. Joyce KORNEGAY, et al.",
+  "name_abbreviation": "Tart v. Kornegay",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20135949.",
+  "first_page": "480",
+  "last_page": "480",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 480"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 324"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 185",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 249,
+    "sha256": "7ce7d982eb3e6a616fdbcfaadca9520f0f17883a9f8ede8e9e3a7109f34e4f0a",
+    "simhash": "1:73bfe4043ac4409f",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry R. TART, petitioner,\nv.\nJoyce KORNEGAY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Larry R. TART, petitioner,\nv.\nJoyce KORNEGAY, et al.\nNo. 13-5949.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 520 Fed.Appx. 185.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0480-02",
+  "first_page_order": 480,
+  "last_page_order": 480
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12581126,
+  "name": "Dennis AUGUSTINE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Augustine v. United States",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20139565.",
+  "first_page": "2155",
+  "last_page": "2155",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2155"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1139"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "742 F.3d 1258",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071102
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/742/1258-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26332770752271656
+    },
+    "sha256": "8f4b8e03ce643b5d8c7beaac5e2fddbc087a4c0398f61928edf217853354ce39",
+    "simhash": "1:55edd4462b060681",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dennis AUGUSTINE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dennis AUGUSTINE, petitioner,\nv.\nUNITED STATES.\nNo. 13-9565.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 742 F.3d 1258.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "2155-01",
+  "first_page_order": 2155,
+  "last_page_order": 2155
+}

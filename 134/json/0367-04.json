@@ -1,0 +1,75 @@
+{
+  "id": 12583563,
+  "name": "Kevin William WESSELL, et al., petitioners, v. Pankaj TOPIWALA, et al.",
+  "name_abbreviation": "Wessell v. Topiwala",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13M1.",
+  "first_page": "367",
+  "last_page": "367",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 367"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 9"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Fed.Appx. 184",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 284,
+    "sha256": "d980b7d1d933f02db227f956002877a7a66fbdb22896341c2b32881e4c333431",
+    "simhash": "1:2baf5012d3d31559",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin William WESSELL, et al., petitioners,\nv.\nPankaj TOPIWALA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record granted."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin William WESSELL, et al., petitioners,\nv.\nPankaj TOPIWALA, et al.\nNo. 13M1.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 509 Fed.Appx. 184.\nMotion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record granted."
+  },
+  "file_name": "0367-04",
+  "first_page_order": 367,
+  "last_page_order": 367
+}

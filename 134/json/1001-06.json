@@ -1,0 +1,85 @@
+{
+  "id": 12577876,
+  "name": "Darrel G. ADAMS, Warden, petitioner, v. Earl Eugene CANNEDY, Jr.",
+  "name_abbreviation": "Adams v. Cannedy",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u2013478.",
+  "first_page": "1001",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1001"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 863"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "706 F.3d 1148",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3662572
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/706/1148-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 335,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632159249438867
+    },
+    "sha256": "eb9fb9fcbb781c52269a2016757f2a0aa6128eb34bb0cc6af5752dff32af7eba",
+    "simhash": "1:4bef34562b017344",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darrel G. ADAMS, Warden, petitioner,\nv.\nEarl Eugene CANNEDY, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of respondent for leave to proceed to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darrel G. ADAMS, Warden, petitioner,\nv.\nEarl Eugene CANNEDY, Jr.\nNo. 13-478.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 706 F.3d 1148.\nMotion of respondent for leave to proceed to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1001-06",
+  "first_page_order": 1001,
+  "last_page_order": 1002
+}

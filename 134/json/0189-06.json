@@ -1,0 +1,75 @@
+{
+  "id": 12580454,
+  "name": "Herman Norman JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310878.",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 189"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 129"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Fed.Appx. 533",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "sha256": "b677745f6e8f4feaf40b878ca0e6114342ec23ce908498d0d1336ffb280f232d",
+    "simhash": "1:31edc6041ba686b1",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Herman Norman JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Herman Norman JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 12-10878.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 514 Fed.Appx. 533.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0189-06",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

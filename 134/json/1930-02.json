@@ -1,0 +1,107 @@
+{
+  "id": 12580661,
+  "name": "In re Billy KIDWELL, et ux., petitioners.",
+  "name_abbreviation": "In re Kidwell",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137558.",
+  "first_page": "1930",
+  "last_page": "1930",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1930"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 952"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1366",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701287,
+        12701767,
+        12701799,
+        12701688,
+        12701790,
+        12701789,
+        12579000,
+        12579001,
+        12579002,
+        12579003,
+        12579004,
+        12579005,
+        12579006,
+        12701791
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1195-13",
+        "/us/571/1229-06",
+        "/us/571/1231-12",
+        "/us/571/1224-05",
+        "/us/571/1231-02",
+        "/us/571/1231-01",
+        "/s-ct/134/1366-01",
+        "/s-ct/134/1366-02",
+        "/s-ct/134/1366-03",
+        "/s-ct/134/1366-04",
+        "/s-ct/134/1366-05",
+        "/s-ct/134/1366-06",
+        "/s-ct/134/1366-07",
+        "/us/571/1231-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 171,
+    "sha256": "46b674e379ec9d6e2786a03d2cca8553f6d8567469489f928bb846721b3baa11",
+    "simhash": "1:603fb6442423444e",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Billy KIDWELL, et ux., petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Billy KIDWELL, et ux., petitioners.\nNo. 13-7558.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1366.\nPetition for rehearing denied."
+  },
+  "file_name": "1930-02",
+  "first_page_order": 1930,
+  "last_page_order": 1930
+}

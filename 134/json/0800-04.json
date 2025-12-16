@@ -1,0 +1,75 @@
+{
+  "id": 12585638,
+  "name": "Thomas F. WILLIAMS, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Williams v. Florida",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20137066.",
+  "first_page": "800",
+  "last_page": "800",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 800"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 591"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "120 So.3d 563",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 296,
+    "sha256": "d80fec8fa7cf7bc976fdd2196b45da1872df19200b897d1a7e09aad6311360d6",
+    "simhash": "1:62c5845c3007863c",
+    "word_count": 49
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas F. WILLIAMS, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Supreme Court of Florida dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas F. WILLIAMS, petitioner,\nv.\nFLORIDA.\nNo. 13-7066.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 120 So.3d 563.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Supreme Court of Florida dismissed. See Rule 39.8."
+  },
+  "file_name": "0800-04",
+  "first_page_order": 800,
+  "last_page_order": 800
+}

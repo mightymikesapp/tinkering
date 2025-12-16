@@ -1,0 +1,68 @@
+{
+  "id": 12582205,
+  "name": "Richard D. MEADE, et al., applicant, v. UNITED STATES.",
+  "name_abbreviation": "Meade v. United States",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13A1101.",
+  "first_page": "2718",
+  "last_page": "2718",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2718"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 738"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 203,
+    "sha256": "bbf271f2a096bc4523cf9091e2cefbbba54591f93fd673ccdcee6db2ebdaf42f",
+    "simhash": "1:f5ac36042fc6fd4b",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard D. MEADE, et al., applicant,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay addressed to Justice GINSBURG and referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard D. MEADE, et al., applicant,\nv.\nUNITED STATES.\nNo. 13A1101.\nSupreme Court of the United States\nJune 2, 2014.\nApplication for stay addressed to Justice GINSBURG and referred to the Court denied."
+  },
+  "file_name": "2718-05",
+  "first_page_order": 2718,
+  "last_page_order": 2718
+}

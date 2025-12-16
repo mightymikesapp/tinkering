@@ -1,0 +1,75 @@
+{
+  "id": 12586375,
+  "name": "Bernard ROEMMELE, aka Bernie, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Roemmele v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137514.",
+  "first_page": "958",
+  "last_page": "958",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 958"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 835"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 Fed.Appx. 891",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 258,
+    "sha256": "3ad66ee411c0d16724588484e38ad927f1fb45749f105f7d3a3afa1f4c71d1b7",
+    "simhash": "1:5ded42442301c697",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bernard ROEMMELE, aka Bernie, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bernard ROEMMELE, aka Bernie, petitioner,\nv.\nUNITED STATES.\nNo. 13-7514.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 506 Fed.Appx. 891.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0958-01",
+  "first_page_order": 958,
+  "last_page_order": 958
+}

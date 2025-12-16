@@ -1,0 +1,103 @@
+{
+  "id": 12581181,
+  "name": "Barbara Ellen SHERRILL, petitioner, v. UNITED STATES DISTRICT COURT FOR the DISTRICT OF ARIZONA.",
+  "name_abbreviation": "Sherrill v. U.S. Dist. Court for the Dist. of Ariz.",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20138298.",
+  "first_page": "2162",
+  "last_page": "2162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2162"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1145"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1521",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704891,
+        12704878,
+        12704879,
+        12704880,
+        12704881,
+        12704883,
+        12579351,
+        12579352,
+        12579353,
+        12579354,
+        12579355,
+        12579356
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1005-15",
+        "/us/572/1005-01",
+        "/us/572/1005-02",
+        "/us/572/1005-03",
+        "/us/572/1005-04",
+        "/us/572/1005-06",
+        "/s-ct/134/1521-01",
+        "/s-ct/134/1521-02",
+        "/s-ct/134/1521-03",
+        "/s-ct/134/1521-04",
+        "/s-ct/134/1521-05",
+        "/s-ct/134/1521-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 223,
+    "sha256": "0e493d50b4f09895b3dd7e9bb0a8cf3d724aaf09f61f9863fc709ab61a5557ff",
+    "simhash": "1:14a930400c084626",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Barbara Ellen SHERRILL, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the DISTRICT OF ARIZONA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Barbara Ellen SHERRILL, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the DISTRICT OF ARIZONA.\nNo. 13-8298.\nSupreme Court of the United States\nMay 5, 2014.\nFormer decision, 134 S.Ct. 1521.\nPetition for rehearing denied."
+  },
+  "file_name": "2162-07",
+  "first_page_order": 2162,
+  "last_page_order": 2162
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12586009,
+  "name": "Denise DEMAREE, et al., petitioners, v. FULTON COUNTY SCHOOL DISTRICT.",
+  "name_abbreviation": "Demaree v. Fulton Cnty. Sch. Dist.",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013307.",
+  "first_page": "901",
+  "last_page": "901",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 901"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 777"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 859",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 268,
+    "sha256": "7d404fb99236ec653a37de5415f23be2e594e0b7ec8dab4ae9f9e07f9279a7a9",
+    "simhash": "1:e9afd484b901379d",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Denise DEMAREE, et al., petitioners,\nv.\nFULTON COUNTY SCHOOL DISTRICT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Denise DEMAREE, et al., petitioners,\nv.\nFULTON COUNTY SCHOOL DISTRICT.\nNo. 13-307.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 515 Fed.Appx. 859.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0901-04",
+  "first_page_order": 901,
+  "last_page_order": 901
+}

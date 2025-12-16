@@ -1,0 +1,97 @@
+{
+  "id": 12578112,
+  "name": "Leon R. KOZIOL, petitioner, v. COMMITTEE ON PROFESSIONAL STANDARDS.",
+  "name_abbreviation": "Koziol v. Standards",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u2013702.",
+  "first_page": "1038",
+  "last_page": "1038",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1038"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 122"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3446"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "996 N.E.2d 907",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "974 N.Y.S.2d 26",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 N.Y.3d 1056",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3756073,
+        3755458,
+        3756694
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny3d/21/1056-02",
+        "/ny3d/21/1056-01",
+        "/ny3d/21/1056-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 268,
+    "sha256": "13b1d0478bac0b748724618708a61014c1138bb8467216c3fd33bbc067a11cc3",
+    "simhash": "1:aabf701cb9c18513",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leon R. KOZIOL, petitioner,\nv.\nCOMMITTEE ON PROFESSIONAL STANDARDS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leon R. KOZIOL, petitioner,\nv.\nCOMMITTEE ON PROFESSIONAL STANDARDS.\nNo. 13-702.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 21 N.Y.3d 1056, 974 N.Y.S.2d 26, 996 N.E.2d 907.\nPetition for writ of certiorari to the Court of Appeals of New York denied."
+  },
+  "file_name": "1038-02",
+  "first_page_order": 1038,
+  "last_page_order": 1038
+}

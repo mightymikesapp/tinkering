@@ -1,0 +1,75 @@
+{
+  "id": 12581759,
+  "name": "Jose Manuel SERRANO-NAVARRO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Serrano-Navarro v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135258.",
+  "first_page": "259",
+  "last_page": "259",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 259"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 189"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "510 Fed.Appx. 558",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 253,
+    "sha256": "68b1b95e03e4a8803da8274add2d614863f95505b15b70d153013b304da76ebf",
+    "simhash": "1:a1aff6662bc780af",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Manuel SERRANO-NAVARRO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Manuel SERRANO-NAVARRO, petitioner,\nv.\nUNITED STATES.\nNo. 13-5258.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 510 Fed.Appx. 558.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0259-01",
+  "first_page_order": 259,
+  "last_page_order": 259
+}

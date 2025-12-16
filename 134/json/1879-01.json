@@ -1,0 +1,85 @@
+{
+  "id": 12580315,
+  "name": "Sharon LASKIN, et al., petitioners, v. Veronica SIEGEL, Individually and as Trustee of the Phillip P. Siegel Revocable Trust Dated August 28, 1998, and as Executor of the Estate of Phillip P. Siegel, et al.",
+  "name_abbreviation": "Laskin v. Siegel",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u2013942.",
+  "first_page": "1879",
+  "last_page": "1879",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1879"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 912"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "728 F.3d 731",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3697922
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/728/0731-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 399,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26329913442830066
+    },
+    "sha256": "da418438b3127ac637bef1ce32073add7bb49fa44346c25f9925bdd504617f96",
+    "simhash": "1:5337320c3da62607",
+    "word_count": 68
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sharon LASKIN, et al., petitioners,\nv.\nVeronica SIEGEL, Individually and as Trustee of the Phillip P. Siegel Revocable Trust Dated August 28, 1998, and as Executor of the Estate of Phillip P. Siegel, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sharon LASKIN, et al., petitioners,\nv.\nVeronica SIEGEL, Individually and as Trustee of the Phillip P. Siegel Revocable Trust Dated August 28, 1998, and as Executor of the Estate of Phillip P. Siegel, et al.\nNo. 13-942.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 728 F.3d 731.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1879-01",
+  "first_page_order": 1879,
+  "last_page_order": 1879
+}

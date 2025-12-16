@@ -1,0 +1,81 @@
+{
+  "id": 12579325,
+  "name": "Crawley David McFADDEN, petitioner, v. A.O. SMITH, et al.",
+  "name_abbreviation": "McFadden v. Smith",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138107.",
+  "first_page": "1517",
+  "last_page": "1517",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1517"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 453"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "829 N.W.2d 240",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "493 Mich. 971",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 239,
+    "sha256": "eed1f9a164f86abe2a93a90e3d73dd99b61f31456309a472811ee77c6b739421",
+    "simhash": "1:78fe300cfa25aa32",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Crawley David McFADDEN, petitioner,\nv.\nA.O. SMITH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Crawley David McFADDEN, petitioner,\nv.\nA.O. SMITH, et al.\nNo. 13-8107.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 493 Mich. 971, 829 N.W.2d 240.\nPetition for writ of certiorari to the Supreme Court of Michigan denied."
+  },
+  "file_name": "1517-06",
+  "first_page_order": 1517,
+  "last_page_order": 1517
+}

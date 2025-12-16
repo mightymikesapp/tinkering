@@ -1,0 +1,68 @@
+{
+  "id": 12582905,
+  "name": "Anthus BLEDSOE, petitioner, v. Terry TERRELL, Warden.",
+  "name_abbreviation": "Bledsoe v. Terrell",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20139874.",
+  "first_page": "2883",
+  "last_page": "2883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2883"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 843"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 218,
+    "sha256": "1871d741a18cef8e2351c9fcb99aac1b81c99ea46513e558b69646a9b69ad7ee",
+    "simhash": "1:733e4444370507ed",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthus BLEDSOE, petitioner,\nv.\nTerry TERRELL, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthus BLEDSOE, petitioner,\nv.\nTerry TERRELL, Warden.\nNo. 13-9874.\nSupreme Court of the United States\nJune 30, 2014.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "2883-02",
+  "first_page_order": 2883,
+  "last_page_order": 2883
+}

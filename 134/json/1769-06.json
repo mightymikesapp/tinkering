@@ -1,0 +1,85 @@
+{
+  "id": 12579950,
+  "name": "Charles B. BRUCE, Jr., petitioner, v. Regina T. DREXLER.",
+  "name_abbreviation": "Bruce v. Drexler",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u2013976.",
+  "first_page": "1769",
+  "last_page": "1769",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1769"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 595"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "315 P.3d 179",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        7331636
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/p3d/315/0179-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 223,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632860062497852
+    },
+    "sha256": "9add366ea9b4e93ff895123cfccdce400b837cae1c5739d6065a44dee4dcff5f",
+    "simhash": "1:d23c0246a28040f1",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles B. BRUCE, Jr., petitioner,\nv.\nRegina T. DREXLER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Colorado denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles B. BRUCE, Jr., petitioner,\nv.\nRegina T. DREXLER.\nNo. 13-976.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 315 P.3d 179.\nPetition for writ of certiorari to the Court of Appeals of Colorado denied."
+  },
+  "file_name": "1769-06",
+  "first_page_order": 1769,
+  "last_page_order": 1769
+}

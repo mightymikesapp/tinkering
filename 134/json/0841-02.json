@@ -1,0 +1,103 @@
+{
+  "id": 12585917,
+  "name": "Rene VENTURA, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Ventura v. Florida",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135948.",
+  "first_page": "841",
+  "last_page": "841",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 841"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 698"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 442",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704289,
+        12704419,
+        12704199,
+        12583945,
+        12583946,
+        12583947,
+        12583948,
+        12583949,
+        12583950,
+        12704276,
+        12704277,
+        12704278
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0961-15",
+        "/us/571/0970-05",
+        "/us/571/0955-08",
+        "/s-ct/134/0442-01",
+        "/s-ct/134/0442-02",
+        "/s-ct/134/0442-03",
+        "/s-ct/134/0442-04",
+        "/s-ct/134/0442-05",
+        "/s-ct/134/0442-06",
+        "/us/571/0961-01",
+        "/us/571/0961-02",
+        "/us/571/0961-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 165,
+    "sha256": "23d655c60eb9f6293b8b99ec76060672aeb55743b407b3110b169bbf77d1f54a",
+    "simhash": "1:a2325c4535af4a8f",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rene VENTURA, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rene VENTURA, petitioner,\nv.\nFLORIDA.\nNo. 13-5948.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 442.\nPetition for rehearing denied."
+  },
+  "file_name": "0841-02",
+  "first_page_order": 841,
+  "last_page_order": 841
+}

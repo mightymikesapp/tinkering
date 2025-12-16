@@ -1,0 +1,103 @@
+{
+  "id": 12579050,
+  "name": "Donald G. JONES, petitioner, v. DEPARTMENT OF the TREASURY, et al.",
+  "name_abbreviation": "Jones v. Dep't of the Treasury",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 12\u20131456.",
+  "first_page": "1372",
+  "last_page": "1372",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1372"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 368"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 174",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12579875,
+        12579876,
+        12579877,
+        12579878,
+        12579879,
+        12579880,
+        12704036,
+        12704037,
+        12702357,
+        12702358,
+        12702359,
+        12702968
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0174-01",
+        "/s-ct/134/0174-02",
+        "/s-ct/134/0174-03",
+        "/s-ct/134/0174-04",
+        "/s-ct/134/0174-05",
+        "/s-ct/134/0174-06",
+        "/us/571/0941-03",
+        "/us/571/0941-04",
+        "/us/571/0827-12",
+        "/us/571/0827-13",
+        "/us/571/0827-14",
+        "/us/571/0869-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 271,
+    "sha256": "5e3a54b6263dfe6d7dc324eab2572dfccaa4e3868fff3b433474fd6221e40dc3",
+    "simhash": "1:383214cad6c6fc4e",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald G. JONES, petitioner,\nv.\nDEPARTMENT OF the TREASURY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Donald G. JONES, petitioner,\nv.\nDEPARTMENT OF the TREASURY, et al.\nNo. 12-1456.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 174.\nPetition for rehearing denied."
+  },
+  "file_name": "1372-02",
+  "first_page_order": 1372,
+  "last_page_order": 1372
+}

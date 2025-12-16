@@ -1,0 +1,75 @@
+{
+  "id": 12586427,
+  "name": "Aaron COPPEDGE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Coppedge v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137578.",
+  "first_page": "965",
+  "last_page": "965",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 965"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 823"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "535 Fed.Appx. 288",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 242,
+    "sha256": "7714c97e98907b99d20d3c053293196abf5140e28c397d06bffd97993ada93c9",
+    "simhash": "1:53ae54c43685c691",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aaron COPPEDGE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Aaron COPPEDGE, petitioner,\nv.\nUNITED STATES.\nNo. 13-7578.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 535 Fed.Appx. 288.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0965-06",
+  "first_page_order": 965,
+  "last_page_order": 965
+}

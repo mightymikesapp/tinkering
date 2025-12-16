@@ -1,0 +1,86 @@
+{
+  "id": 12578619,
+  "name": "Lisa M. AUBUCHON, petitioner, v. STATE BAR OF ARIZONA.",
+  "name_abbreviation": "Aubuchon v. State Bar of Ariz.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013737.",
+  "first_page": "1309",
+  "last_page": "1309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1309"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 360"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "233 Ariz. 62",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        3855475
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ariz/233/0062-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 328,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26324333966961005
+    },
+    "sha256": "51a93e38d9e4dbc339fcd4a264f24c1de54188751cee0c78f4c0e57f32fffb5d",
+    "simhash": "1:58d5546658d16538",
+    "word_count": 57
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lisa M. AUBUCHON, petitioner,\nv.\nSTATE BAR OF ARIZONA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Susan Rose Smith-Schildmeyer, et al. for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the Supreme Court of Arizona denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lisa M. AUBUCHON, petitioner,\nv.\nSTATE BAR OF ARIZONA.\nNo. 13-737.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 233 Ariz. 62, 309 P.3d 886.\nMotion of Susan Rose Smith-Schildmeyer, et al. for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the Supreme Court of Arizona denied."
+  },
+  "file_name": "1309-04",
+  "first_page_order": 1309,
+  "last_page_order": 1309
+}

@@ -1,0 +1,86 @@
+{
+  "id": 12578753,
+  "name": "Terrence MILLER, petitioner, v. NEW JERSEY.",
+  "name_abbreviation": "Miller v. Newjersey",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138063.",
+  "first_page": "1329",
+  "last_page": "1329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1329"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 339"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "216 N.J. 40",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        4243306
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/nj/216/0040-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 222,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632468147756877
+    },
+    "sha256": "e0a89e0ea72cb7c5af9b1c83597563d9934b9ac82fa46c8043248b564dfbb12b",
+    "simhash": "1:78e5049eb28f32b6",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terrence MILLER, petitioner,\nv.\nNEW JERSEY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of New Jersey denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terrence MILLER, petitioner,\nv.\nNEW JERSEY.\nNo. 13-8063.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 216 N.J. 40, 76 A.3d 1250.\nPetition for writ of certiorari to the Supreme Court of New Jersey denied."
+  },
+  "file_name": "1329-02",
+  "first_page_order": 1329,
+  "last_page_order": 1329
+}

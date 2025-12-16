@@ -1,0 +1,85 @@
+{
+  "id": 12583740,
+  "name": "COUNTY OF OAKLAND, CALIFORNIA, et al., petitioners, v. FEDERAL HOUSING FINANCE AGENCY, et al.",
+  "name_abbreviation": "Cnty. of Oakland v. Fed. Hous. Fin. Agency",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013233.",
+  "first_page": "394",
+  "last_page": "394",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 394"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 160"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "716 F.3d 935",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3571030
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/716/0935-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 282,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634116892529256
+    },
+    "sha256": "61b12bd46538c532ea060bd174e8cfb3954808dbdfbb13ae03c33d5da8b98d21",
+    "simhash": "1:a1ed62061bc59439",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COUNTY OF OAKLAND, CALIFORNIA, et al., petitioners,\nv.\nFEDERAL HOUSING FINANCE AGENCY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "COUNTY OF OAKLAND, CALIFORNIA, et al., petitioners,\nv.\nFEDERAL HOUSING FINANCE AGENCY, et al.\nNo. 13-233.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 716 F.3d 935.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0394-04",
+  "first_page_order": 394,
+  "last_page_order": 394
+}

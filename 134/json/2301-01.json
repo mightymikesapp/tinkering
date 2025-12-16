@@ -1,0 +1,85 @@
+{
+  "id": 12581370,
+  "name": "Anna M. ALFONSO, et al., petitioners, v. DIAMONDHEAD FIRE PROTECTION DISTRICT, et al.",
+  "name_abbreviation": "Alfonso v. Diamondhead Fire Prot. Dist.",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20131089.",
+  "first_page": "2301",
+  "last_page": "2301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2301"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 175"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "122 So.3d 54",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        6997387
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/122/0054-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 251,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633369744722569
+    },
+    "sha256": "c8d5d42ba5b8914af60e35843ed9b19e43af113d47964c85bd9875e55183bc0f",
+    "simhash": "1:69eb940e3895501a",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anna M. ALFONSO, et al., petitioners,\nv.\nDIAMONDHEAD FIRE PROTECTION DISTRICT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anna M. ALFONSO, et al., petitioners,\nv.\nDIAMONDHEAD FIRE PROTECTION DISTRICT, et al.\nNo. 13-1089.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 122 So.3d 54.\nPetition for writ of certiorari to the Supreme Court of Mississippi denied."
+  },
+  "file_name": "2301-01",
+  "first_page_order": 2301,
+  "last_page_order": 2301
+}

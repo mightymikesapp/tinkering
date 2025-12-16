@@ -1,0 +1,85 @@
+{
+  "id": 12580284,
+  "name": "Jorge VALDAVINOS-TORRES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Valdavinos-Torres v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137521.",
+  "first_page": "1873",
+  "last_page": "1873",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1873"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 916"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "704 F.3d 679",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3653761
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/704/0679-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 246,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26329604544512053
+    },
+    "sha256": "64bfe557e627a3adbaacd22046fa4d83b5ef2393ff4fabb54f48efc0c7331785",
+    "simhash": "1:e32f62440f035631",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jorge VALDAVINOS-TORRES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jorge VALDAVINOS-TORRES, petitioner,\nv.\nUNITED STATES.\nNo. 13-7521.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 704 F.3d 679.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1873-02",
+  "first_page_order": 1873,
+  "last_page_order": 1873
+}

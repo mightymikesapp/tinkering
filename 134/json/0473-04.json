@@ -1,0 +1,75 @@
+{
+  "id": 12584153,
+  "name": "Emily WAGNER, petitioner, v. BELLSOUTH TELECOMMUNICATIONS, INC., et al.",
+  "name_abbreviation": "Wagner v. Bellsouth Telecomms., Inc.",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u2013209.",
+  "first_page": "473",
+  "last_page": "473",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 473"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 336"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 295",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 343,
+    "sha256": "3d4f0b0dd8a4d9ceb1d23456bc92dd00168c683bbe97d6cfc6ff36be2b999795",
+    "simhash": "1:abfff6cc73c457cb",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emily WAGNER, petitioner,\nv.\nBELLSOUTH TELECOMMUNICATIONS, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Emily WAGNER, petitioner,\nv.\nBELLSOUTH TELECOMMUNICATIONS, INC., et al.\nNo. 13-209.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 520 Fed.Appx. 295.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0473-04",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

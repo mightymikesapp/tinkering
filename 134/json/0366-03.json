@@ -1,0 +1,75 @@
+{
+  "id": 12583555,
+  "name": "Bryan Keith NOEL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Noel v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20136103.",
+  "first_page": "366",
+  "last_page": "366",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 366"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 253"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "502 Fed.Appx. 284",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "sha256": "abce78cbec381f9f09a335b9699c16f12cf36800dc9394e8aa9ce3b1011e2220",
+    "simhash": "1:01ed26042b868731",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bryan Keith NOEL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bryan Keith NOEL, petitioner,\nv.\nUNITED STATES.\nNo. 13-6103.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 502 Fed.Appx. 284.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0366-03",
+  "first_page_order": 366,
+  "last_page_order": 366
+}

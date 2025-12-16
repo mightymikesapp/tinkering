@@ -1,0 +1,75 @@
+{
+  "id": 12577971,
+  "name": "Jesus SUAREZ-GARCIA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Suarez-Garcia v. United States",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20137836.",
+  "first_page": "1016",
+  "last_page": "1016",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1016"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 862"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "538 Fed.Appx. 832",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 246,
+    "sha256": "3368340c184d8019d80a5c3d10de918d1745cc5499ded09f61c551b64423a529",
+    "simhash": "1:c1ed72c6bb068791",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesus SUAREZ-GARCIA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jesus SUAREZ-GARCIA, petitioner,\nv.\nUNITED STATES.\nNo. 13-7836.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 538 Fed.Appx. 832.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1016-05",
+  "first_page_order": 1016,
+  "last_page_order": 1016
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12578466,
+  "name": "Roosevelt KIRK, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Kirk v. Florida",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137570.",
+  "first_page": "1285",
+  "last_page": "1285",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1285"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 315"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "120 So.3d 560",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 203,
+    "sha256": "ee1954780b53d44dd80b20733a68e1939d7b4b16b28b3796aa497a8558b6d49b",
+    "simhash": "1:c46e141cbac57516",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roosevelt KIRK, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roosevelt KIRK, petitioner,\nv.\nFLORIDA.\nNo. 13-7570.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 120 So.3d 560.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "1285-05",
+  "first_page_order": 1285,
+  "last_page_order": 1285
+}

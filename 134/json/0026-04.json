@@ -1,0 +1,91 @@
+{
+  "id": 12582079,
+  "name": "Aaron L. COOPER, petitioner, v. Jeffrey BEARD, Secretary, California Department of Corrections and Rehabilitation.",
+  "name_abbreviation": "Cooper v. Beard",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12\u20138806.",
+  "first_page": "26",
+  "last_page": "26",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 26"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 939"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 1828",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697511,
+        12697512,
+        12697513,
+        12697514,
+        12697515,
+        12697516
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0933-09",
+        "/us/569/0933-10",
+        "/us/569/0933-11",
+        "/us/569/0933-12",
+        "/us/569/0933-13",
+        "/us/569/0933-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 243,
+    "sha256": "e868116425d69ce43b03465fbd055fe7d2ed060c8ac16e898e7bce10446b5232",
+    "simhash": "1:d96bd4002a804c9f",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aaron L. COOPER, petitioner,\nv.\nJeffrey BEARD, Secretary, California Department of Corrections and Rehabilitation."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Aaron L. COOPER, petitioner,\nv.\nJeffrey BEARD, Secretary, California Department of Corrections and Rehabilitation.\nNo. 12-8806.\nSupreme Court of the United States\nJuly 22, 2013.\nFormer decision, 133 S.Ct. 1828.\nPetition for rehearing denied."
+  },
+  "file_name": "0026-04",
+  "first_page_order": 26,
+  "last_page_order": 26
+}

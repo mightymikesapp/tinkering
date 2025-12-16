@@ -1,0 +1,85 @@
+{
+  "id": 12585565,
+  "name": "Arun SHARMA, et ux., petitioners, v. UNITED STATES.",
+  "name_abbreviation": "Sharma v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131312.",
+  "first_page": "78",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 78"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 30"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "703 F.3d 318",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3649075
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/703/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634728897321813
+    },
+    "sha256": "91ba8470f8d0855a15600f032efd414a5442186a6e1d8d64e3522a35d7da29fa",
+    "simhash": "1:e3ed766c1fe596a9",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arun SHARMA, et ux., petitioners,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arun SHARMA, et ux., petitioners,\nv.\nUNITED STATES.\nNo. 12-1312.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 703 F.3d 318.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0078-04",
+  "first_page_order": 78,
+  "last_page_order": 78
+}

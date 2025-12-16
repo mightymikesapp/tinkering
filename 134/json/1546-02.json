@@ -1,0 +1,85 @@
+{
+  "id": 12579506,
+  "name": "O2 MICRO INTERNATIONAL LTD., petitioner, v. MONOLITHIC POWER SYSTEMS, INC., et al.",
+  "name_abbreviation": "O2 Micro Int'l Ltd. v. Monolithic Power Sys., Inc.",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u2013848.",
+  "first_page": "1546",
+  "last_page": "1546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1546"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 558"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "726 F.3d 1359",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4074354
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/726/1359-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 276,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263271140518231
+    },
+    "sha256": "049ed9013782bf805ba64710d370a5eca6b3641d3827d519fc4e3e9ae4868412",
+    "simhash": "1:ba2fd455bf8511cd",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "O2 MICRO INTERNATIONAL LTD., petitioner,\nv.\nMONOLITHIC POWER SYSTEMS, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "O2 MICRO INTERNATIONAL LTD., petitioner,\nv.\nMONOLITHIC POWER SYSTEMS, INC., et al.\nNo. 13-848.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 726 F.3d 1359.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "1546-02",
+  "first_page_order": 1546,
+  "last_page_order": 1546
+}

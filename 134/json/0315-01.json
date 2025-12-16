@@ -1,0 +1,85 @@
+{
+  "id": 12583212,
+  "name": "Jon BURGE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Burge v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013154.",
+  "first_page": "315",
+  "last_page": "315",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 315"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 156"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "711 F.3d 803",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3805213
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/711/0803-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 231,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263402615364834
+    },
+    "sha256": "732ba7c67ab54643f0e1cba71634c719e1bfb6e5666e525b05729a9261a95fde",
+    "simhash": "1:492d66263b47d4b9",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jon BURGE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jon BURGE, petitioner,\nv.\nUNITED STATES.\nNo. 13-154.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 711 F.3d 803.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0315-01",
+  "first_page_order": 315,
+  "last_page_order": 315
+}

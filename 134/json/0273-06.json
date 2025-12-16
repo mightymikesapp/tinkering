@@ -1,0 +1,85 @@
+{
+  "id": 12582351,
+  "name": "Michael SEIBEL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Seibel v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135340.",
+  "first_page": "273",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 273"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 198"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "712 F.3d 1229",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3555993
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/712/1229-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633705671643405
+    },
+    "sha256": "09fd4c78bbe68c68827714a9e13349ccb263bc1ed82a87c13f1ecb1b95586b33",
+    "simhash": "1:57ec76441d2797b9",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael SEIBEL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael SEIBEL, petitioner,\nv.\nUNITED STATES.\nNo. 13-5340.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 712 F.3d 1229.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0273-06",
+  "first_page_order": 273,
+  "last_page_order": 273
+}

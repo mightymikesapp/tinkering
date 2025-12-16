@@ -1,0 +1,103 @@
+{
+  "id": 12586578,
+  "name": "Stephen Michael MICHUDA, petitioner, v. MINNESOTA BOARD OF PUBLIC DEFENSE, et al.",
+  "name_abbreviation": "Michuda v. Minn. Bd. of Pub. Def.",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 12\u201310454.",
+  "first_page": "989",
+  "last_page": "989",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 989"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 838"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 115",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702688,
+        12702017,
+        12702689,
+        12578316,
+        12578317,
+        12578318,
+        12578319,
+        12578320,
+        12578321,
+        12702671,
+        12702200,
+        12702681
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0850-08",
+        "/us/571/0803-02",
+        "/us/571/0850-09",
+        "/s-ct/134/0115-01",
+        "/s-ct/134/0115-02",
+        "/s-ct/134/0115-03",
+        "/s-ct/134/0115-04",
+        "/s-ct/134/0115-05",
+        "/s-ct/134/0115-06",
+        "/us/571/0849-06",
+        "/us/571/0815-08",
+        "/us/571/0850-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 210,
+    "sha256": "208587e9deba9a76076fb29d20457f24e08f7299c23e5336d76c3c21c2595b92",
+    "simhash": "1:326b34581d9317d6",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephen Michael MICHUDA, petitioner,\nv.\nMINNESOTA BOARD OF PUBLIC DEFENSE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stephen Michael MICHUDA, petitioner,\nv.\nMINNESOTA BOARD OF PUBLIC DEFENSE, et al.\nNo. 12-10454.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 115.\nPetition for rehearing denied."
+  },
+  "file_name": "0989-07",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

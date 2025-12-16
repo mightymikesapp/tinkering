@@ -1,0 +1,75 @@
+{
+  "id": 12581718,
+  "name": "Ronald E. BLAKE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Blake v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135231.",
+  "first_page": "252",
+  "last_page": "252",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 252"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 186"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "501 Fed.Appx. 587",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "sha256": "46fda60db8b81c0aba9089b683a1ca182fec3b632a39a439eae8899c5a40b8ee",
+    "simhash": "1:492d464437068e3f",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald E. BLAKE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ronald E. BLAKE, petitioner,\nv.\nUNITED STATES.\nNo. 13-5231.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 501 Fed.Appx. 587.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0252-02",
+  "first_page_order": 252,
+  "last_page_order": 252
+}

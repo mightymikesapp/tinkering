@@ -1,0 +1,85 @@
+{
+  "id": 12584870,
+  "name": "Grover REED, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Reed v. Florida",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136335.",
+  "first_page": "643",
+  "last_page": "643",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 643"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 426"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "116 So.3d 260",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        6999172
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/116/0260-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 200,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26345203909571563
+    },
+    "sha256": "5fca3f94b32d09bb2f1ef04775736fbe182a31c91c5cf35c9f42e697e6c19ed9",
+    "simhash": "1:5fac301472edd326",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Grover REED, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Grover REED, petitioner,\nv.\nFLORIDA.\nNo. 13-6335.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 116 So.3d 260.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "0643-05",
+  "first_page_order": 643,
+  "last_page_order": 643
+}

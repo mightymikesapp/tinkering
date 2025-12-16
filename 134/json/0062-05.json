@@ -1,0 +1,91 @@
+{
+  "id": 12584780,
+  "name": "Cecil Emile DAVIS, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Davis v. Washington",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139685.",
+  "first_page": "62",
+  "last_page": "62",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 62"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 51"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "290 P.3d 43",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "175 Wash.2d 287",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4024414
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-2d/175/0287-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 226,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634487570510868
+    },
+    "sha256": "72d71ece2abe04a7ec427e6e24ea76a8a95fb11a14e3037ebdf19013c1ef06ab",
+    "simhash": "1:6baf1e5c783700b4",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cecil Emile DAVIS, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Washington denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cecil Emile DAVIS, petitioner,\nv.\nWASHINGTON.\nNo. 12-9685.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 175 Wash.2d 287, 290 P.3d 43.\nPetition for writ of certiorari to the Supreme Court of Washington denied."
+  },
+  "file_name": "0062-05",
+  "first_page_order": 62,
+  "last_page_order": 62
+}

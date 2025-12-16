@@ -1,0 +1,103 @@
+{
+  "id": 12585439,
+  "name": "Jeffrey Charles BURFEINDT, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Burfeindt v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 12\u201310864.",
+  "first_page": "728",
+  "last_page": "728",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 728"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 583"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 187",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12580320,
+        12580321,
+        12580322,
+        12580323,
+        12580324,
+        12580325,
+        12702369,
+        12702370,
+        12702165,
+        12703030,
+        12703036,
+        12703037
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0187-01",
+        "/s-ct/134/0187-02",
+        "/s-ct/134/0187-03",
+        "/s-ct/134/0187-04",
+        "/s-ct/134/0187-05",
+        "/s-ct/134/0187-06",
+        "/us/571/0828-09",
+        "/us/571/0828-10",
+        "/us/571/0813-24",
+        "/us/571/0873-06",
+        "/us/571/0873-07",
+        "/us/571/0873-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 183,
+    "sha256": "f42205f4eb65185c6b6a1406ca6174c588dc69addcf107d9a835cb6488f1a352",
+    "simhash": "1:82f93642168b4386",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey Charles BURFEINDT, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey Charles BURFEINDT, petitioner,\nv.\nUNITED STATES.\nNo. 12-10864.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 187\nPetition for rehearing denied."
+  },
+  "file_name": "0728-06",
+  "first_page_order": 728,
+  "last_page_order": 728
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583430,
+  "name": "Antonio Tony McKIBBINS, petitioner, v. Brian WILLIAMS, Warden, et al.",
+  "name_abbreviation": "McKibbins v. Williams",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135887.",
+  "first_page": "348",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 348"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 242"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "518 Fed.Appx. 572",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 264,
+    "sha256": "e2db368b7d830c65c270b08a109511e13aad84dc91dd31a48ff34b7bf83be00c",
+    "simhash": "1:e3ecf2443bf593ba",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio Tony McKIBBINS, petitioner,\nv.\nBrian WILLIAMS, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio Tony McKIBBINS, petitioner,\nv.\nBrian WILLIAMS, Warden, et al.\nNo. 13-5887.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 518 Fed.Appx. 572.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0348-01",
+  "first_page_order": 348,
+  "last_page_order": 348
+}

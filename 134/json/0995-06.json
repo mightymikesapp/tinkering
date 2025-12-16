@@ -1,0 +1,103 @@
+{
+  "id": 12586628,
+  "name": "Abiola AYOBOLA, aka Mutiu Adesina Oyelakin, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Ayobola v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136363.",
+  "first_page": "995",
+  "last_page": "995",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 995"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 844"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 625",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699136,
+        12699200,
+        12699201,
+        12699202,
+        12699203,
+        12584746,
+        12584747,
+        12584748,
+        12584749,
+        12584750,
+        12584751,
+        12699199
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1008-01",
+        "/us/571/1013-08",
+        "/us/571/1013-09",
+        "/us/571/1013-10",
+        "/us/571/1013-11",
+        "/s-ct/134/0625-01",
+        "/s-ct/134/0625-02",
+        "/s-ct/134/0625-03",
+        "/s-ct/134/0625-04",
+        "/s-ct/134/0625-05",
+        "/s-ct/134/0625-06",
+        "/us/571/1013-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 208,
+    "sha256": "ffff304be857d0fc5761513ce2d5d9dbfe48c2c5c19a38f2c2426ba53bbd14a0",
+    "simhash": "1:002f0e0e10955640",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Abiola AYOBOLA, aka Mutiu Adesina Oyelakin, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Abiola AYOBOLA, aka Mutiu Adesina Oyelakin, petitioner,\nv.\nUNITED STATES, et al.\nNo. 13-6363.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 625.\nPetition for rehearing denied."
+  },
+  "file_name": "0995-06",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

@@ -1,0 +1,86 @@
+{
+  "id": 12580897,
+  "name": "Lisa MADIGAN, et al., Petitioners v. Harvey N. LEVIN.",
+  "name_abbreviation": "Madigan v. Levin",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 12\u2013872.",
+  "first_page": "2",
+  "last_page": "2",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 1"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 4001"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "692 F.3d 607",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3515033
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/692/0607-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 76,
+    "char_count": 673,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26331766832738124
+    },
+    "sha256": "b3e5c195c17ad09e4ed593938750f7c91b8097a79941ac07f8ab4634104a0e40",
+    "simhash": "1:50b25a03108646cf",
+    "word_count": 102
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lisa MADIGAN, et al., Petitioners\nv.\nHarvey N. LEVIN."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nThe writ of certiorari is dismissed as improvidently granted.\nIt is so ordered.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Lisa Madigan, Attorney General of Illinois, Michael A. Scodro, Counsel of Record, Solicitor General, Jane Elinor Notz, Deputy Solicitor General, Brett E. Legner, Clifford W. Berlow, Matthew P. Becker, Asst. Attorneys General, Chicago, IL, for Petitioners.",
+      "Eric Schnapper, University of Washington, School of Law, Seattle, WA, Harvey N. Levin, Chicago, IL, Edward Theobald, Counsel of Record, Chicago, IL, Counsel for Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "Lisa MADIGAN, et al., Petitioners\nv.\nHarvey N. LEVIN.\nNo. 12-872.\nSupreme Court of the United States\nOct. 15, 2013.\nLisa Madigan, Attorney General of Illinois, Michael A. Scodro, Counsel of Record, Solicitor General, Jane Elinor Notz, Deputy Solicitor General, Brett E. Legner, Clifford W. Berlow, Matthew P. Becker, Asst. Attorneys General, Chicago, IL, for Petitioners.\nEric Schnapper, University of Washington, School of Law, Seattle, WA, Harvey N. Levin, Chicago, IL, Edward Theobald, Counsel of Record, Chicago, IL, Counsel for Respondent.\nPrior report: C.A.11, 692 F.3d 607."
+  },
+  "file_name": "0002-01",
+  "first_page_order": 2,
+  "last_page_order": 2
+}

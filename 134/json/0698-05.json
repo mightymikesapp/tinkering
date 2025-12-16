@@ -1,0 +1,75 @@
+{
+  "id": 12585234,
+  "name": "Torrey V. BANKS, petitioner, v. John DOE, et al.",
+  "name_abbreviation": "In re Banks",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136623.",
+  "first_page": "698",
+  "last_page": "698",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 698"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 563"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "523 Fed.Appx. 503",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 243,
+    "sha256": "8cb04ccd0c79d1f0218307a072adac4ee68a0b4d357a4d0d740cc862ce88c293",
+    "simhash": "1:93eff4cc3c45b188",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Torrey V. BANKS, petitioner,\nv.\nJohn DOE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Torrey V. BANKS, petitioner,\nv.\nJohn DOE, et al.\nNo. 13-6623.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 523 Fed.Appx. 503.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0698-05",
+  "first_page_order": 698,
+  "last_page_order": 698
+}

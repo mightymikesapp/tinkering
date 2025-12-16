@@ -1,0 +1,85 @@
+{
+  "id": 12579171,
+  "name": "TUSTIN UNIFIED SCHOOL DISTRICT, petitioner, v. K.M. a Minor, By and Through Her Guardian ad Litem, Lynn BRIGHT.",
+  "name_abbreviation": "Tustin Unified Sch. Dist. v. K.M.",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u2013770.",
+  "first_page": "1493",
+  "last_page": "1493",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1493"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 376"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "725 F.3d 1088",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071954
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/725/1088-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 302,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26325994295420313
+    },
+    "sha256": "398d5280962b50dbf6fd1a05b4a2ce826ccfd83dd11f26c1b661bc189e69e8e6",
+    "simhash": "1:9627d24428c0f709",
+    "word_count": 51
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TUSTIN UNIFIED SCHOOL DISTRICT, petitioner,\nv.\nK.M. a Minor, By and Through Her Guardian ad Litem, Lynn BRIGHT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "TUSTIN UNIFIED SCHOOL DISTRICT, petitioner,\nv.\nK.M. a Minor, By and Through Her Guardian ad Litem, Lynn BRIGHT.\nNo. 13-770.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 725 F.3d 1088.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1493-03",
+  "first_page_order": 1493,
+  "last_page_order": 1493
+}

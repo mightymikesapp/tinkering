@@ -1,0 +1,85 @@
+{
+  "id": 12584170,
+  "name": "Edmond D. SPENCER, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Spencer v. Louisiana",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20135867.",
+  "first_page": "476",
+  "last_page": "476",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 476"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 322"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "112 So.3d 842",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7011680,
+        7011722,
+        7011766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/112/0842-01",
+        "/so3d/112/0842-02",
+        "/so3d/112/0842-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 210,
+    "sha256": "945cd110a24fdbb56565dcc6075353db7b2c15244ef51584a384c96dce4e274f",
+    "simhash": "1:683ee40cfac6438f",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edmond D. SPENCER, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Louisiana denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edmond D. SPENCER, petitioner,\nv.\nLOUISIANA.\nNo. 13-5867.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 112 So.3d 842.\nPetition for writ of certiorari to the Supreme Court of Louisiana denied."
+  },
+  "file_name": "0476-04",
+  "first_page_order": 476,
+  "last_page_order": 476
+}

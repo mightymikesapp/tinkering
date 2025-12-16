@@ -1,0 +1,86 @@
+{
+  "id": 12582935,
+  "name": "James A. GILES, petitioner, v. SOUTH CAROLINA.",
+  "name_abbreviation": "Giles v. South Carolina",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u201310168.",
+  "first_page": "2888",
+  "last_page": "2888",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2888"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 845"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3747"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "407 S.C. 14",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        4161435
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/sc/407/0014-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 232,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26339296229239617
+    },
+    "sha256": "60ece30c60078e544ce9f8695d2cebf8a5110eff862baa77f8dbe038d823472a",
+    "simhash": "1:f1af1444306705b5",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James A. GILES, petitioner,\nv.\nSOUTH CAROLINA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of South Carolina denied."
+    ],
+    "corrections": "",
+    "head_matter": "James A. GILES, petitioner,\nv.\nSOUTH CAROLINA.\nNo. 13-10168.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 407 S.C. 14, 754 S.E.2d 261.\nPetition for writ of certiorari to the Supreme Court of South Carolina denied."
+  },
+  "file_name": "2888-02",
+  "first_page_order": 2888,
+  "last_page_order": 2888
+}

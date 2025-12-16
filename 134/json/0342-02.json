@@ -1,0 +1,85 @@
+{
+  "id": 12583395,
+  "name": "James L. GIBSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gibson v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135826.",
+  "first_page": "342",
+  "last_page": "342",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 342"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 238"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "708 F.3d 1256",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3540959
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/708/1256-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634074419010529
+    },
+    "sha256": "c00669f69019127b2916c84cf19021c974af7604f26a48b834e700e2833827c9",
+    "simhash": "1:618db64413678699",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James L. GIBSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James L. GIBSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-5826.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 708 F.3d 1256.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0342-02",
+  "first_page_order": 342,
+  "last_page_order": 342
+}

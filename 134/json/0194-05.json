@@ -1,0 +1,73 @@
+{
+  "id": 12580793,
+  "name": "Larry Jerome GADSDEN, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Gadsden v. Florida",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310910.",
+  "first_page": "194",
+  "last_page": "194",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 194"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 133"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "90 So.3d 285",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 237,
+    "sha256": "d7f66b7f51680648e212152f1fc1eb25c5285d50d575916c9e3085a17f48cbbb",
+    "simhash": "1:486f622efabf81f5",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry Jerome GADSDEN, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Larry Jerome GADSDEN, petitioner,\nv.\nFLORIDA.\nNo. 12-10910.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 90 So.3d 285.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Second District, denied."
+  },
+  "file_name": "0194-05",
+  "first_page_order": 194,
+  "last_page_order": 194
+}

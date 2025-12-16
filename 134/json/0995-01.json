@@ -1,0 +1,103 @@
+{
+  "id": 12586623,
+  "name": "Tracy REDMOND, petitioner, v. Karen HOGSTEN, Warden.",
+  "name_abbreviation": "Redmond v. Hogsten",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136204.",
+  "first_page": "995",
+  "last_page": "995",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 995"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 843"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 457",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704354,
+        12704355,
+        12704356,
+        12704357,
+        12704358,
+        12584040,
+        12584041,
+        12584042,
+        12584043,
+        12584044,
+        12584045,
+        12704368
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0966-01",
+        "/us/571/0966-02",
+        "/us/571/0966-03",
+        "/us/571/0966-04",
+        "/us/571/0966-05",
+        "/s-ct/134/0457-01",
+        "/s-ct/134/0457-02",
+        "/s-ct/134/0457-03",
+        "/s-ct/134/0457-04",
+        "/s-ct/134/0457-05",
+        "/s-ct/134/0457-06",
+        "/us/571/0966-16"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 180,
+    "sha256": "c8a8b6128081985a4913bb21262ad23d272c39c9c90d7b69e654b65efd3a82f3",
+    "simhash": "1:c4ff76d85485466c",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tracy REDMOND, petitioner,\nv.\nKaren HOGSTEN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tracy REDMOND, petitioner,\nv.\nKaren HOGSTEN, Warden.\nNo. 13-6204.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 457.\nPetition for rehearing denied."
+  },
+  "file_name": "0995-01",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

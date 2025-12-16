@@ -1,0 +1,75 @@
+{
+  "id": 12580314,
+  "name": "John D. HAYWOOD, petitioner, v. SAINT MICHAEL'S COLLEGE, et al.",
+  "name_abbreviation": "Haywood v. Saint Michael's Coll.",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u2013929.",
+  "first_page": "1878",
+  "last_page": "1879",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1878"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 912"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "536 Fed.Appx. 123",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 260,
+    "sha256": "493c8ea6ad30316c8076626de33edab5aac32c4a35eda3ad56bffbb82fac728a",
+    "simhash": "1:712f5444ff431503",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John D. HAYWOOD, petitioner,\nv.\nSAINT MICHAEL'S COLLEGE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John D. HAYWOOD, petitioner,\nv.\nSAINT MICHAEL'S COLLEGE, et al.\nNo. 13-929.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 536 Fed.Appx. 123.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1878-05",
+  "first_page_order": 1878,
+  "last_page_order": 1879
+}

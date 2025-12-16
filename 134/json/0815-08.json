@@ -1,0 +1,103 @@
+{
+  "id": 12585737,
+  "name": "Luis T.J. LEAL, Sr., petitioner, v. OHIO SECRETARY OF STATE.",
+  "name_abbreviation": "Leal v. Ohio Sec'y State",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 12\u201310914.",
+  "first_page": "815",
+  "last_page": "815",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 815"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 616"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 195",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703074,
+        12703064,
+        12703077,
+        12703061,
+        12703062,
+        12580855,
+        12580856,
+        12580857,
+        12580858,
+        12580859,
+        12580860,
+        12703063
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0876-03",
+        "/us/571/0875-06",
+        "/us/571/0876-04",
+        "/us/571/0875-03",
+        "/us/571/0875-04",
+        "/s-ct/134/0195-01",
+        "/s-ct/134/0195-02",
+        "/s-ct/134/0195-03",
+        "/s-ct/134/0195-04",
+        "/s-ct/134/0195-05",
+        "/s-ct/134/0195-06",
+        "/us/571/0875-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 187,
+    "sha256": "1b8814b8683e7056c2a00a0b593a7c1addfd602518da0144a5b0f51d564f6a68",
+    "simhash": "1:16780c1637ce57ae",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luis T.J. LEAL, Sr., petitioner,\nv.\nOHIO SECRETARY OF STATE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Luis T.J. LEAL, Sr., petitioner,\nv.\nOHIO SECRETARY OF STATE.\nNo. 12-10914.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 195\nPetition for rehearing denied."
+  },
+  "file_name": "0815-08",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

@@ -1,0 +1,73 @@
+{
+  "id": 12584147,
+  "name": "Phoenix FEELEY, petitioner, v. NEW JERSEY.",
+  "name_abbreviation": "Feeley v. Newjersey",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20135801.",
+  "first_page": "472",
+  "last_page": "472",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 472"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 320"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2011 WL 4056057",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 233,
+    "sha256": "7e0094a3d1d79316e0953a2dc5edfd64bab53ce4b12f534ea1be57708180e40d",
+    "simhash": "1:c0e9e010f29b5396",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Phoenix FEELEY, petitioner,\nv.\nNEW JERSEY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Phoenix FEELEY, petitioner,\nv.\nNEW JERSEY.\nNo. 13-5801.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 2011 WL 4056057.\nPetition for writ of certiorari to the Superior Court of New Jersey, Appellate Division, denied."
+  },
+  "file_name": "0472-04",
+  "first_page_order": 472,
+  "last_page_order": 472
+}

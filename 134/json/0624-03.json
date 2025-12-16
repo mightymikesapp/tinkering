@@ -1,0 +1,75 @@
+{
+  "id": 12584742,
+  "name": "George WRIGHT, petitioner, v. Cliff ALLENBY, Acting Director, California Department of Mental Health, et al.",
+  "name_abbreviation": "Wright v. Allenby",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20136314.",
+  "first_page": "624",
+  "last_page": "624",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 624"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 404"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "527 Fed.Appx. 649",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 304,
+    "sha256": "4014327b927fd2a99fffb4099ca304c4f32eda6dc2ba3a7fb180adc9e04a1c7a",
+    "simhash": "1:007f366a33454ae0",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George WRIGHT, petitioner,\nv.\nCliff ALLENBY, Acting Director, California Department of Mental Health, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George WRIGHT, petitioner,\nv.\nCliff ALLENBY, Acting Director, California Department of Mental Health, et al.\nNo. 13-6314.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 527 Fed.Appx. 649.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0624-03",
+  "first_page_order": 624,
+  "last_page_order": 624
+}

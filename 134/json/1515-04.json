@@ -1,0 +1,85 @@
+{
+  "id": 12579313,
+  "name": "EASTON AREA SCHOOL DISTRICT, petitioner, v. B.H., a Minor, By and Through Her Mother, Jennifer HAWK, et al.",
+  "name_abbreviation": "Easton Area Sch. Dist. v. B.H.",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u2013672.",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1515"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 450"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "725 F.3d 293",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071007
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/725/0293-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 298,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632630319373832
+    },
+    "sha256": "12c9d04a29966e70be82784733444a49ae4afb1daee6fe4ee699d08d5092a719",
+    "simhash": "1:242ed2452a581605",
+    "word_count": 51
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "EASTON AREA SCHOOL DISTRICT, petitioner,\nv.\nB.H., a Minor, By and Through Her Mother, Jennifer HAWK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "EASTON AREA SCHOOL DISTRICT, petitioner,\nv.\nB.H., a Minor, By and Through Her Mother, Jennifer HAWK, et al.\nNo. 13-672.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 725 F.3d 293.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1515-04",
+  "first_page_order": 1515,
+  "last_page_order": 1515
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12584806,
+  "name": "Ricardo DE LOS SANTOS, petitioner, v. UNITED STATES DISTRICT COURT FOR the NORTHERN DISTRICT OF TEXAS.",
+  "name_abbreviation": "Santos v. U.S. Dist. Court for the N. Dist. of Tex.",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u201332.",
+  "first_page": "634",
+  "last_page": "634",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 634"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 413"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 393",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703139,
+        12703076,
+        12703180,
+        12703181,
+        12583731,
+        12583732,
+        12583733,
+        12583734,
+        12583735,
+        12583736,
+        12703035,
+        12703167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0880-07",
+        "/us/571/0876-02",
+        "/us/571/0883-04",
+        "/us/571/0883-05",
+        "/s-ct/134/0393-01",
+        "/s-ct/134/0393-02",
+        "/s-ct/134/0393-03",
+        "/s-ct/134/0393-04",
+        "/s-ct/134/0393-05",
+        "/s-ct/134/0393-06",
+        "/us/571/0873-05",
+        "/us/571/0882-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 227,
+    "sha256": "3718b4e353b167a5649c4f4ef09c174f59cc7291a2ea1b08c70893d4b2fc0b8b",
+    "simhash": "1:202a7e401d0cf3de",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ricardo DE LOS SANTOS, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the NORTHERN DISTRICT OF TEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ricardo DE LOS SANTOS, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the NORTHERN DISTRICT OF TEXAS.\nNo. 13-32.\nSupreme Court of the United States\nNov. 12, 2013.\nFormer decision, 134 S.Ct. 393\nPetition for rehearing denied."
+  },
+  "file_name": "0634-01",
+  "first_page_order": 634,
+  "last_page_order": 634
+}

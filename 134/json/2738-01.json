@@ -1,0 +1,73 @@
+{
+  "id": 12582334,
+  "name": "Michele DOYLE, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Doyle v. Florida",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20131321.",
+  "first_page": "2738",
+  "last_page": "2738",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2738"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 767"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2014 WL 406504",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "413fac9d816e4b49daae14f0f7a32450bd6df901f34646abc89f672fc1a519f1",
+    "simhash": "1:406f144678094085",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michele DOYLE, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michele DOYLE, petitioner,\nv.\nFLORIDA.\nNo. 13-1321.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, --- So.3d ----, 2014 WL 406504.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Fifth District, denied."
+  },
+  "file_name": "2738-01",
+  "first_page_order": 2738,
+  "last_page_order": 2738
+}

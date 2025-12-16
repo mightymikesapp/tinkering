@@ -1,0 +1,75 @@
+{
+  "id": 12578852,
+  "name": "Robert REVELS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Revels v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138194.",
+  "first_page": "1343",
+  "last_page": "1343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1343"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 348"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "534 Fed.Appx. 621",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 240,
+    "sha256": "acce8ccd91ad2bd046ec7799684c6ef82e8330c1e5799a5207dbdce7f8a5221e",
+    "simhash": "1:e8ac74453b05d705",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert REVELS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert REVELS, petitioner,\nv.\nUNITED STATES.\nNo. 13-8194.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 534 Fed.Appx. 621.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1343-03",
+  "first_page_order": 1343,
+  "last_page_order": 1343
+}

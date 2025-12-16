@@ -1,0 +1,75 @@
+{
+  "id": 12578748,
+  "name": "Joseph ARNOLD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Arnold v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138057.",
+  "first_page": "1328",
+  "last_page": "1328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1328"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 339"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 6922794",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "sha256": "e5cbc1dad583c5cce65bd326dbe754935f6071dc233cbcc5b5f827c00f97993e",
+    "simhash": "1:b86cc4043b045207",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph ARNOLD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph ARNOLD, petitioner,\nv.\nUNITED STATES.\nNo. 13-8057.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 2013 WL 6922794.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1328-03",
+  "first_page_order": 1328,
+  "last_page_order": 1328
+}

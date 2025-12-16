@@ -1,0 +1,75 @@
+{
+  "id": 12578412,
+  "name": "Suleman MERCHANT, petitioner, v. Eric H. HOLDER, Jr., Attorney General.",
+  "name_abbreviation": "Merchant v. Holder",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013400.",
+  "first_page": "1276",
+  "last_page": "1276",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1276"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 297"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 459",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 268,
+    "sha256": "f2734d3460a15737d388015e53ff6fb80e6a8021d8b5754068bc53e7cd83b498",
+    "simhash": "1:596774c01fa5c6b9",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Suleman MERCHANT, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Suleman MERCHANT, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General.\nNo. 13-400.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 520 Fed.Appx. 459.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1276-04",
+  "first_page_order": 1276,
+  "last_page_order": 1276
+}

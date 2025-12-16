@@ -1,0 +1,75 @@
+{
+  "id": 12583390,
+  "name": "Lillian FISCHER, petitioner, v. CITY OF NEW YORK, NEW YORK, et al.",
+  "name_abbreviation": "Fischer v. City of N.Y.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013220.",
+  "first_page": "341",
+  "last_page": "341",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 341"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 159"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 32",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 260,
+    "sha256": "e4069917ac90062c4fed014d298a030fb1fc7f8f331abf81d92a40cbb91ecd2e",
+    "simhash": "1:692d460c7b85010b",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lillian FISCHER, petitioner,\nv.\nCITY OF NEW YORK, NEW YORK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lillian FISCHER, petitioner,\nv.\nCITY OF NEW YORK, NEW YORK, et al.\nNo. 13-220.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 525 Fed.Appx. 32.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0341-02",
+  "first_page_order": 341,
+  "last_page_order": 341
+}

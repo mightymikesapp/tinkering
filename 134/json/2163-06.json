@@ -1,0 +1,97 @@
+{
+  "id": 12581187,
+  "name": "In the Matter of DISBARMENT OF Michelle Hamilton DAVY.",
+  "name_abbreviation": "In re Davy",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. D\u20132747.",
+  "first_page": "2163",
+  "last_page": "2163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2163"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 734",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699521,
+        12699522,
+        12699523,
+        12585486,
+        12585487,
+        12585488,
+        12585489,
+        12585490,
+        12585491,
+        12699859,
+        12699861,
+        12699862
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1068-05",
+        "/us/571/1068-06",
+        "/us/571/1068-07",
+        "/s-ct/134/0734-01",
+        "/s-ct/134/0734-02",
+        "/s-ct/134/0734-03",
+        "/s-ct/134/0734-04",
+        "/s-ct/134/0734-05",
+        "/s-ct/134/0734-06",
+        "/us/571/1090-02",
+        "/us/571/1090-05",
+        "/us/571/1090-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 174,
+    "sha256": "684b6eb32759042778383adaecbc5aeb39016c83d306e639f29a6848ed32b727",
+    "simhash": "1:72245086360e3020",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Michelle Hamilton DAVY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Michelle Hamilton DAVY.\nNo. D-2747.\nSupreme Court of the United States\nMay 5, 2014.\nFormer decision, 134 S.Ct. 734.\nDisbarment order entered."
+  },
+  "file_name": "2163-06",
+  "first_page_order": 2163,
+  "last_page_order": 2163
+}

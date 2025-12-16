@@ -1,0 +1,75 @@
+{
+  "id": 12580406,
+  "name": "Louise ROOT, petitioner, v. FAIRFAX COUNTY, VIRGINIA.",
+  "name_abbreviation": "Root v. Fairfax Cnty.",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20131027.",
+  "first_page": "1892",
+  "last_page": "1892",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1892"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 914"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "541 Fed.Appx. 333",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 251,
+    "sha256": "17a039a4b42a29e5464f5c22b31b8833e881d656d3bfbab7e9d9e38a8dc0f5c9",
+    "simhash": "1:7fff46043c018715",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Louise ROOT, petitioner,\nv.\nFAIRFAX COUNTY, VIRGINIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Louise ROOT, petitioner,\nv.\nFAIRFAX COUNTY, VIRGINIA.\nNo. 13-1027.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 541 Fed.Appx. 333.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1892-06",
+  "first_page_order": 1892,
+  "last_page_order": 1892
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12585841,
+  "name": "Carlos OFARRIT-FIGUEROA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ofarrit-Figueroa v. United States",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20136989.",
+  "first_page": "830",
+  "last_page": "830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 830"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 691"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "533 Fed.Appx. 239",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 251,
+    "sha256": "9586caa9b5bd289a6eab519f5dfb5054a454f2252d6273f5efe63ba5b3134635",
+    "simhash": "1:15acc00523005609",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos OFARRIT-FIGUEROA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos OFARRIT-FIGUEROA, petitioner,\nv.\nUNITED STATES.\nNo. 13-6989.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 533 Fed.Appx. 239.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0830-04",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

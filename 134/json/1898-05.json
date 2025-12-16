@@ -1,0 +1,85 @@
+{
+  "id": 12580440,
+  "name": "Curtis C. EVANS, aka Curtis Chrishaun Evans, aka Curtis Evans, petitioner, v. MISSISSIPPI.",
+  "name_abbreviation": "Evans v. Mississippi",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138991.",
+  "first_page": "1898",
+  "last_page": "1898",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1898"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 929"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "114 So.3d 778",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7005975
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/114/0778-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 262,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633016442271345
+    },
+    "sha256": "6bf73d9d2ac50c84fb45b8907798161625508134439349581f9d6ace61c80032",
+    "simhash": "1:6b3f660f204387b5",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Curtis C. EVANS, aka Curtis Chrishaun Evans, aka Curtis Evans, petitioner,\nv.\nMISSISSIPPI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "Curtis C. EVANS, aka Curtis Chrishaun Evans, aka Curtis Evans, petitioner,\nv.\nMISSISSIPPI.\nNo. 13-8991.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 114 So.3d 778.\nPetition for writ of certiorari to the Court of Appeals of Mississippi denied."
+  },
+  "file_name": "1898-05",
+  "first_page_order": 1898,
+  "last_page_order": 1898
+}

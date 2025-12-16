@@ -1,0 +1,85 @@
+{
+  "id": 12578290,
+  "name": "Darin Wayne DAHL, petitioner, v. NORTH DAKOTA.",
+  "name_abbreviation": "Dahl v. Dakota",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310420.",
+  "first_page": "112",
+  "last_page": "112",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 112"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 81"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "826 N.W.2d 922",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7067727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nw2d/826/0922-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 216,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26322789475370956
+    },
+    "sha256": "74a95da62de80422b28aae1688093955f56bf280f26a2cec79a237c1298fe7b2",
+    "simhash": "1:63af761472d685b3",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darin Wayne DAHL, petitioner,\nv.\nNORTH DAKOTA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of North Dakota denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darin Wayne DAHL, petitioner,\nv.\nNORTH DAKOTA.\nNo. 12-10420.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 826 N.W.2d 922.\nPetition for writ of certiorari to the Supreme Court of North Dakota denied."
+  },
+  "file_name": "0112-01",
+  "first_page_order": 112,
+  "last_page_order": 112
+}

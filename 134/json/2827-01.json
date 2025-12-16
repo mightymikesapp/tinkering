@@ -1,0 +1,75 @@
+{
+  "id": 12582529,
+  "name": "JIN ZHAO, petitioner, v. Susan C. WARNOCK.",
+  "name_abbreviation": "Zhao v. Warnock",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. 13\u20139868.",
+  "first_page": "2827",
+  "last_page": "2827",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2827"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 792"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3719"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "551 Fed.Appx. 18",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 238,
+    "sha256": "6944ec85d4701efb2f6d1f50258f35a04cba7a01e8000c2d78334361f81a7923",
+    "simhash": "1:fe2d664439060301",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JIN ZHAO, petitioner,\nv.\nSusan C. WARNOCK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "JIN ZHAO, petitioner,\nv.\nSusan C. WARNOCK.\nNo. 13-9868.\nSupreme Court of the United States\nJune 16, 2014.\nCase below, 551 Fed.Appx. 18.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "2827-01",
+  "first_page_order": 2827,
+  "last_page_order": 2827
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12585303,
+  "name": "Gabino ORTIZ, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ortiz v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20137075.",
+  "first_page": "709",
+  "last_page": "709",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 709"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 570"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 898",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "51cf063e68bac092a22ec24f1f40400050be102c9929f5037482f665475de118",
+    "simhash": "1:3aaf70443107c193",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gabino ORTIZ, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gabino ORTIZ, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 13-7075.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 525 Fed.Appx. 898.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0709-02",
+  "first_page_order": 709,
+  "last_page_order": 709
+}

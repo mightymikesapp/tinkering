@@ -1,0 +1,75 @@
+{
+  "id": 12581219,
+  "name": "Damea S. TENISON, petitioner, v. Mike MORGAN, et al.",
+  "name_abbreviation": "Tenison v. Morgan",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135043.",
+  "first_page": "219",
+  "last_page": "219",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 219"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 165"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "508 Fed.Appx. 824",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 247,
+    "sha256": "f8f86e818e9b4417cd0fb049630b78f8527b8fa72e69b9a68d6079e5e2961e1f",
+    "simhash": "1:216ff6423bd483a9",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Damea S. TENISON, petitioner,\nv.\nMike MORGAN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Damea S. TENISON, petitioner,\nv.\nMike MORGAN, et al.\nNo. 13-5043.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 508 Fed.Appx. 824.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0219-04",
+  "first_page_order": 219,
+  "last_page_order": 219
+}

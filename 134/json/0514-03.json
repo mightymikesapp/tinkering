@@ -1,0 +1,81 @@
+{
+  "id": 12584381,
+  "name": "John STOJETZ, petitioner, v. OHIO.",
+  "name_abbreviation": "Stojetz v. Ohio",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20135484.",
+  "first_page": "514",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 514"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 371"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "981 N.E.2d 884",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2013-Ohio-158",
+      "category": "reporters:neutral",
+      "reporter": "Ohio",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 210,
+    "sha256": "ea17dd6ca12089765e3ef7b19a636ee4dc3dee35d1374a1631088cfd27dca2ed",
+    "simhash": "1:e86e141c32f7878e",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John STOJETZ, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Ohio denied."
+    ],
+    "corrections": "",
+    "head_matter": "John STOJETZ, petitioner,\nv.\nOHIO.\nNo. 13-5484.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 2013-Ohio-158, 981 N.E.2d 884.\nPetition for writ of certiorari to the Supreme Court of Ohio denied."
+  },
+  "file_name": "0514-03",
+  "first_page_order": 514,
+  "last_page_order": 514
+}

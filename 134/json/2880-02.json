@@ -1,0 +1,75 @@
+{
+  "id": 12582888,
+  "name": "Reynante PRE, petitioner, v. A.M. GONZALEZ, Warden, et al.",
+  "name_abbreviation": "Pre v. Gonzalez",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20139822.",
+  "first_page": "2880",
+  "last_page": "2880",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2880"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 841"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "544 Fed.Appx. 768",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 254,
+    "sha256": "7a7123c8ed56e6ab081d40063773b22cd0d55699d9161b1c671036c7c0804b31",
+    "simhash": "1:d3bff4ac3b8427f6",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reynante PRE, petitioner,\nv.\nA.M. GONZALEZ, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Reynante PRE, petitioner,\nv.\nA.M. GONZALEZ, Warden, et al.\nNo. 13-9822.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 544 Fed.Appx. 768.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2880-02",
+  "first_page_order": 2880,
+  "last_page_order": 2880
+}

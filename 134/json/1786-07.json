@@ -1,0 +1,107 @@
+{
+  "id": 12580064,
+  "name": "Helen J. TURNER, petitioner, v. Eric K. SHINSEKI, Secretary of Veterans Affairs.",
+  "name_abbreviation": "Turner v. Shinseki",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20137960.",
+  "first_page": "1786",
+  "last_page": "1786",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1786"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 611"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1319",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578688,
+        12578689,
+        12578690,
+        12701568,
+        12701577,
+        12701584,
+        12701585,
+        12701586,
+        12701587,
+        12701588,
+        12578684,
+        12578685,
+        12578686,
+        12578687
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1319-05",
+        "/s-ct/134/1319-06",
+        "/s-ct/134/1319-07",
+        "/us/571/1216-06",
+        "/us/571/1217-07",
+        "/us/571/1217-08",
+        "/us/571/1217-09",
+        "/us/571/1217-10",
+        "/us/571/1217-11",
+        "/us/571/1217-12",
+        "/s-ct/134/1319-01",
+        "/s-ct/134/1319-02",
+        "/s-ct/134/1319-03",
+        "/s-ct/134/1319-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 205,
+    "sha256": "2d53d61c22e03cf3fe8c875da84d55ea9d96224a14a9ffdf3be4f1838df0827f",
+    "simhash": "1:c237244610a87392",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Helen J. TURNER, petitioner,\nv.\nEric K. SHINSEKI, Secretary of Veterans Affairs."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Helen J. TURNER, petitioner,\nv.\nEric K. SHINSEKI, Secretary of Veterans Affairs.\nNo. 13-7960.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 134 S.Ct. 1319.\nPetition for rehearing denied."
+  },
+  "file_name": "1786-07",
+  "first_page_order": 1786,
+  "last_page_order": 1786
+}

@@ -1,0 +1,91 @@
+{
+  "id": 12584130,
+  "name": "Anthony AKITI, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Akiti v. United States",
+  "decision_date": "2013-08-30",
+  "docket_number": "No. 12\u201310389.",
+  "first_page": "46",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 46"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 959"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2871",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698792,
+        12698708,
+        12698778,
+        12698779,
+        12698780,
+        12698781
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/570/0924-16",
+        "/us/570/0919-03",
+        "/us/570/0924-01",
+        "/us/570/0924-02",
+        "/us/570/0924-03",
+        "/us/570/0924-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 169,
+    "sha256": "885e75865ba471faed28893c5d20a9558c938f93e45ecd96eed1b53c2d480d8b",
+    "simhash": "1:71ad5647368646d6",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony AKITI, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony AKITI, petitioner,\nv.\nUNITED STATES.\nNo. 12-10389.\nSupreme Court of the United States\nAug. 30, 2013.\nCase below, 133 S.Ct. 2871.\nPetition for rehearing denied."
+  },
+  "file_name": "0046-07",
+  "first_page_order": 46,
+  "last_page_order": 46
+}

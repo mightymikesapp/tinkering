@@ -1,0 +1,85 @@
+{
+  "id": 12583910,
+  "name": "Robert A. MARIOTTI, Sr., petitioner, v. MARIOTTI BUILDING PRODUCTS, INC.",
+  "name_abbreviation": "Mariotti v. Mariotti Bldg. Prods., Inc.",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u2013201.",
+  "first_page": "437",
+  "last_page": "437",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 437"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 284"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "714 F.3d 761",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5869780
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/714/0761-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 262,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634192186494271
+    },
+    "sha256": "897573ecec9e01fdf8b170e226da00b756b1e756ba11805f66d21e61acf0ece8",
+    "simhash": "1:5dbf660cbc0105ed",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert A. MARIOTTI, Sr., petitioner,\nv.\nMARIOTTI BUILDING PRODUCTS, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert A. MARIOTTI, Sr., petitioner,\nv.\nMARIOTTI BUILDING PRODUCTS, INC.\nNo. 13-201.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 714 F.3d 761.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0437-01",
+  "first_page_order": 437,
+  "last_page_order": 437
+}

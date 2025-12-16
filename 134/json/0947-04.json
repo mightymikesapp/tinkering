@@ -1,0 +1,75 @@
+{
+  "id": 12586306,
+  "name": "Dana L. Graham SMITH, petitioner, v. Phil MEYER, Warden.",
+  "name_abbreviation": "Smith v. Meyer",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137409.",
+  "first_page": "947",
+  "last_page": "947",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 947"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 813"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "530 Fed.Appx. 774",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "sha256": "9ef8ef7e9e143a77265366c7c3a35443df705b1da4a2fa619103f19960ef0c7b",
+    "simhash": "1:4c3f74c47c8054a9",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dana L. Graham SMITH, petitioner,\nv.\nPhil MEYER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dana L. Graham SMITH, petitioner,\nv.\nPhil MEYER, Warden.\nNo. 13-7409.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 530 Fed.Appx. 774.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0947-04",
+  "first_page_order": 947,
+  "last_page_order": 947
+}

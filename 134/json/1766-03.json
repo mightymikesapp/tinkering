@@ -1,0 +1,81 @@
+{
+  "id": 12579929,
+  "name": "Eric C. BURGIE, petitioner, v. Ray HOBBS, Director, Arkansas Department of Correction.",
+  "name_abbreviation": "Burgie v. Hobbs",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138483.",
+  "first_page": "1766",
+  "last_page": "1766",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1766"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 599"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5436626",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2013 Ark. 360",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 269,
+    "sha256": "55413f1bd7621d5c8f84aa09311f071746f3b190618fc3fbce1621c25f290b2f",
+    "simhash": "1:e26fe4449e9121db",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric C. BURGIE, petitioner,\nv.\nRay HOBBS, Director, Arkansas Department of Correction."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Arkansas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric C. BURGIE, petitioner,\nv.\nRay HOBBS, Director, Arkansas Department of Correction.\nNo. 13-8483.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 2013 Ark. 360, 2013 WL 5436626.\nPetition for writ of certiorari to the Supreme Court of Arkansas denied."
+  },
+  "file_name": "1766-03",
+  "first_page_order": 1766,
+  "last_page_order": 1766
+}

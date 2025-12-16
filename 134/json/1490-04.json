@@ -1,0 +1,85 @@
+{
+  "id": 12579155,
+  "name": "INTEGRITY STAFFING SOLUTIONS, INC., petitioner, v. Jesse BUSK, et al.",
+  "name_abbreviation": "Integrity Staffing Solutions, Inc. v. Busk",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u2013433.",
+  "first_page": "1490",
+  "last_page": "1490",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1490"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 374"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3508"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 525",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3559769
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0525-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 260,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632578192782668
+    },
+    "sha256": "72c53bc702c2ec4642ef72b72dc644a9f8256adea5054d4a5b66e62972cfbe4c",
+    "simhash": "1:fbafb444bfb56343",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "INTEGRITY STAFFING SOLUTIONS, INC., petitioner,\nv.\nJesse BUSK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "INTEGRITY STAFFING SOLUTIONS, INC., petitioner,\nv.\nJesse BUSK, et al.\nNo. 13-433.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 713 F.3d 525.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted."
+  },
+  "file_name": "1490-04",
+  "first_page_order": 1490,
+  "last_page_order": 1490
+}

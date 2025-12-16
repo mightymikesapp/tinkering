@@ -1,0 +1,73 @@
+{
+  "id": 12582892,
+  "name": "Amir Rasheid ALLEN, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Allen v. Pennsylvania",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20139833.",
+  "first_page": "2880",
+  "last_page": "2880",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2880"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 841"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "69 A.3d 1291",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 237,
+    "sha256": "8c385366ab7b71aa479da62d0698b435f09de55e939c2c9e5027a714e2200fd9",
+    "simhash": "1:c2d7d424102327d7",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Amir Rasheid ALLEN, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Amir Rasheid ALLEN, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-9833.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 69 A.3d 1291.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Pittsburgh Office, denied."
+  },
+  "file_name": "2880-06",
+  "first_page_order": 2880,
+  "last_page_order": 2880
+}

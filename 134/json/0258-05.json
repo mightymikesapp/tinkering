@@ -1,0 +1,93 @@
+{
+  "id": 12581758,
+  "name": "Flornoy SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135257.",
+  "first_page": "258",
+  "last_page": "258",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 258"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 2"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2276",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698469
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/570/0254-01"
+      ]
+    },
+    {
+      "cite": "518 Fed.Appx. 774",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 561,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633499095893235
+    },
+    "sha256": "048992225dfb10c2539a169a602f2ddc3da7bffa8e8a98a8f781aad2aec43327",
+    "simhash": "1:77ad725421068699",
+    "word_count": 90
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Flornoy SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Descamps v. United States, ---U.S. ----, 133 S.Ct. 2276, 186 L.Ed.2d 438 (2013)."
+    ],
+    "corrections": "",
+    "head_matter": "Flornoy SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 13-5257.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 518 Fed.Appx. 774.\nOn petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Descamps v. United States, ---U.S. ----, 133 S.Ct. 2276, 186 L.Ed.2d 438 (2013)."
+  },
+  "file_name": "0258-05",
+  "first_page_order": 258,
+  "last_page_order": 258
+}

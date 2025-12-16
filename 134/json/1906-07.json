@@ -1,0 +1,75 @@
+{
+  "id": 12580496,
+  "name": "Cesar SANTANA-GOMEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Santana-Gomez v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139160.",
+  "first_page": "1906",
+  "last_page": "1907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1906"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 935"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "547 Fed.Appx. 904",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 247,
+    "sha256": "0338670f55bf6eaa0de5bd603649a2e20389fc321971f12638f74de87dcb82fb",
+    "simhash": "1:75fff4442b86521d",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cesar SANTANA-GOMEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cesar SANTANA-GOMEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-9160.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 547 Fed.Appx. 904.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1906-07",
+  "first_page_order": 1906,
+  "last_page_order": 1907
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12584838,
+  "name": "Terri L. CUBAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cubas v. United States",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20135789.",
+  "first_page": "639",
+  "last_page": "639",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 639"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 423"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 Fed.Appx. 986",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "sha256": "b02e928d53864d518add79d63fcd56418b2a9aabf991809119da16831c9d40c2",
+    "simhash": "1:118c624437079453",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terri L. CUBAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terri L. CUBAS, petitioner,\nv.\nUNITED STATES.\nNo. 13-5789.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 506 Fed.Appx. 986.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0639-03",
+  "first_page_order": 639,
+  "last_page_order": 639
+}

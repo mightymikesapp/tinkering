@@ -1,0 +1,73 @@
+{
+  "id": 12585804,
+  "name": "James W. DABNEY, petitioner, v. TD BANK, N.A.",
+  "name_abbreviation": "Dabney v. TD Bank, N.A.",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u2013308.",
+  "first_page": "825",
+  "last_page": "825",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 825"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 686"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 68727",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 233,
+    "sha256": "b0b1d40846d35b885633574f5b306998029b742e3aa94843162b9753f3b87da5",
+    "simhash": "1:e5e7c6083397c6a8",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James W. DABNEY, petitioner,\nv.\nTD BANK, N.A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "James W. DABNEY, petitioner,\nv.\nTD BANK, N.A.\nNo. 13-308.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 2013 WL 68727.\nPetition for writ of certiorari to the Superior Court of New Jersey, Appellate Division, denied."
+  },
+  "file_name": "0825-01",
+  "first_page_order": 825,
+  "last_page_order": 825
+}

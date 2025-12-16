@@ -1,0 +1,85 @@
+{
+  "id": 12583349,
+  "name": "Brian A. ANNORENO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Annoreno v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135775.",
+  "first_page": "335",
+  "last_page": "335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 335"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 235"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 352",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3559159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0352-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26340570434801414
+    },
+    "sha256": "c07ab0c317d3f003f98d083e7898ad8cb15a3e29f3374e90b779cff6085dd054",
+    "simhash": "1:436d62453b238211",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian A. ANNORENO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian A. ANNORENO, petitioner,\nv.\nUNITED STATES.\nNo. 13-5775.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 713 F.3d 352.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0335-02",
+  "first_page_order": 335,
+  "last_page_order": 335
+}

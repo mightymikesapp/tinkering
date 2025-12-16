@@ -1,0 +1,85 @@
+{
+  "id": 12580066,
+  "name": "Joseph BROWN, et al., petitioners, v. UNITED AIRLINES, INC., et al.",
+  "name_abbreviation": "Brown v. United Airlines, Inc.",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u2013444.",
+  "first_page": "1787",
+  "last_page": "1787",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1787"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 757"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "720 F.3d 60",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4057371
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/720/0060-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 256,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632900605402091
+    },
+    "sha256": "719cb734b06b22a022d5e55a93455a626c479e22ba65c79add69a59407185d0b",
+    "simhash": "1:232d664c3e155061",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph BROWN, et al., petitioners,\nv.\nUNITED AIRLINES, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph BROWN, et al., petitioners,\nv.\nUNITED AIRLINES, INC., et al.\nNo. 13-444.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 720 F.3d 60.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "1787-02",
+  "first_page_order": 1787,
+  "last_page_order": 1787
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12586038,
+  "name": "John D. CLAYTON, petitioner, v. CONOCOPHILLIPS COMPANY, et al.",
+  "name_abbreviation": "Clayton v. Conocophillips Co.",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013419.",
+  "first_page": "906",
+  "last_page": "906",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 906"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 833"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "722 F.3d 279",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4063413
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/722/0279-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 329,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26349547792168576
+    },
+    "sha256": "f35004a2a5e293e28bcdf04657b025ca84b1f5d47cd7f6fc603fcf665cf9bceb",
+    "simhash": "1:a9b3740e0ea21286",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John D. CLAYTON, petitioner,\nv.\nCONOCOPHILLIPS COMPANY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John D. CLAYTON, petitioner,\nv.\nCONOCOPHILLIPS COMPANY, et al.\nNo. 13-419.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 722 F.3d 279.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0906-05",
+  "first_page_order": 906,
+  "last_page_order": 906
+}

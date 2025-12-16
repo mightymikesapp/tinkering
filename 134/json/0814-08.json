@@ -1,0 +1,107 @@
+{
+  "id": 12585729,
+  "name": "In re Michael Wayne SEAWRIGHT, petitioner.",
+  "name_abbreviation": "In re Seawright",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 12\u201310685.",
+  "first_page": "814",
+  "last_page": "814",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 814"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 615"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 154",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12579532,
+        12579533,
+        12579534,
+        12579535,
+        12579536,
+        12579537,
+        12579538,
+        12702161,
+        12702863,
+        12702864,
+        12702865,
+        12702866,
+        12702867,
+        12702876
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0154-01",
+        "/s-ct/134/0154-02",
+        "/s-ct/134/0154-03",
+        "/s-ct/134/0154-04",
+        "/s-ct/134/0154-05",
+        "/s-ct/134/0154-06",
+        "/s-ct/134/0154-07",
+        "/us/571/0813-20",
+        "/us/571/0862-01",
+        "/us/571/0862-02",
+        "/us/571/0862-03",
+        "/us/571/0862-04",
+        "/us/571/0862-05",
+        "/us/571/0862-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 169,
+    "sha256": "3c9fa1121d59845653da223763d469eb425278cdf947fa937d80552fa25cec13",
+    "simhash": "1:02736c06208d668c",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Michael Wayne SEAWRIGHT, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Michael Wayne SEAWRIGHT, petitioner.\nNo. 12-10685.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 154\nPetition for rehearing denied."
+  },
+  "file_name": "0814-08",
+  "first_page_order": 814,
+  "last_page_order": 814
+}

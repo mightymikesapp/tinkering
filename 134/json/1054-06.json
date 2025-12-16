@@ -1,0 +1,103 @@
+{
+  "id": 12578225,
+  "name": "CHARLINE P., petitioner, v. CONNECTICUT DEPARTMENT OF CHILDREN AND FAMILIES.",
+  "name_abbreviation": "Charline P. v. Conn. Dep't of Children",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20136730.",
+  "first_page": "1054",
+  "last_page": "1054",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1054"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 141"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 701",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699681,
+        12699589,
+        12585254,
+        12585255,
+        12585256,
+        12585257,
+        12585258,
+        12585259,
+        12699687,
+        12699688,
+        12699689,
+        12699671
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1080-06",
+        "/us/571/1073-12",
+        "/s-ct/134/0701-01",
+        "/s-ct/134/0701-02",
+        "/s-ct/134/0701-03",
+        "/s-ct/134/0701-04",
+        "/s-ct/134/0701-05",
+        "/s-ct/134/0701-06",
+        "/us/571/1080-07",
+        "/us/571/1080-08",
+        "/us/571/1080-09",
+        "/us/571/1079-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 204,
+    "sha256": "4daf1f1c12ca800eb3055b52accf178a856e91f7a9451be8026cfc8f381d5ba8",
+    "simhash": "1:7baf30561581d0ce",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CHARLINE P., petitioner,\nv.\nCONNECTICUT DEPARTMENT OF CHILDREN AND FAMILIES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "CHARLINE P., petitioner,\nv.\nCONNECTICUT DEPARTMENT OF CHILDREN AND FAMILIES.\nNo. 13-6730.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 701.\nPetition for rehearing denied."
+  },
+  "file_name": "1054-06",
+  "first_page_order": 1054,
+  "last_page_order": 1054
+}

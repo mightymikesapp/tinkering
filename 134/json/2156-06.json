@@ -1,0 +1,85 @@
+{
+  "id": 12581137,
+  "name": "Antoine CORTEZ-DUTRIEVILLE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cortez-Dutrieville v. United States",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20139588.",
+  "first_page": "2156",
+  "last_page": "2157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2156"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1140"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "743 F.3d 881",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4116256
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/743/0881-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 246,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633280936456141
+    },
+    "sha256": "8d6f65cbedfc4d581a48d267e0c301e7501aea541ea6ede7b7298ef5aac36fc2",
+    "simhash": "1:d5ac76442a0d1698",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antoine CORTEZ-DUTRIEVILLE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antoine CORTEZ-DUTRIEVILLE, petitioner,\nv.\nUNITED STATES.\nNo. 13-9588.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 743 F.3d 881.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "2156-06",
+  "first_page_order": 2156,
+  "last_page_order": 2157
+}

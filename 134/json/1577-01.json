@@ -1,0 +1,103 @@
+{
+  "id": 12579719,
+  "name": "Mark A. WINGER, petitioner, v. Guy D. PIERCE, et al.",
+  "name_abbreviation": "Winger v. Pierce",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20135508.",
+  "first_page": "1577",
+  "last_page": "1577",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1577"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 584"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1000",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12577865,
+        12577866,
+        12577867,
+        12577868,
+        12577869,
+        12577870,
+        12700880,
+        12700979,
+        12700887,
+        12700893,
+        12700894,
+        12700895
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1000-01",
+        "/s-ct/134/1000-02",
+        "/s-ct/134/1000-03",
+        "/s-ct/134/1000-04",
+        "/s-ct/134/1000-05",
+        "/s-ct/134/1000-06",
+        "/us/571/1163-06",
+        "/us/571/1170-09",
+        "/us/571/1164-06",
+        "/us/571/1164-07",
+        "/us/571/1164-08",
+        "/us/571/1164-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 182,
+    "sha256": "2d1cae332fd8d3c109758b0cd9f1d4ea565a4bff0a8f7f3c7980f1068756ebe2",
+    "simhash": "1:70b3364c1bc06e0a",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark A. WINGER, petitioner,\nv.\nGuy D. PIERCE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark A. WINGER, petitioner,\nv.\nGuy D. PIERCE, et al.\nNo. 13-5508.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 1000.\nPetition for rehearing denied."
+  },
+  "file_name": "1577-01",
+  "first_page_order": 1577,
+  "last_page_order": 1577
+}

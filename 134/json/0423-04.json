@@ -1,0 +1,75 @@
+{
+  "id": 12583824,
+  "name": "Kenneth M. STERN, petitioner, v. Robert WEINSTEIN, et al.",
+  "name_abbreviation": "Stern v. Weinstein",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u2013134.",
+  "first_page": "423",
+  "last_page": "423",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 423"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 281"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Fed.Appx. 701",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "sha256": "b52cd0c1007b6c9470529ad2671e16afb64e2c69ef778a39971c2c9cd9be27f9",
+    "simhash": "1:63af760c3d05078f",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth M. STERN, petitioner,\nv.\nRobert WEINSTEIN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenneth M. STERN, petitioner,\nv.\nRobert WEINSTEIN, et al.\nNo. 13-134.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 512 Fed.Appx. 701.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0423-04",
+  "first_page_order": 423,
+  "last_page_order": 423
+}

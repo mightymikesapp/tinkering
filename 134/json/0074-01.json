@@ -1,0 +1,73 @@
+{
+  "id": 12585501,
+  "name": "Antonio Manuel ANDREU, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Andreu v. Florida",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310031.",
+  "first_page": "74",
+  "last_page": "74",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 74"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 60"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "109 So.3d 1163",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 239,
+    "sha256": "181b1c5a93ebd410e7274b51af6f5694eb06c9159e784442be952ea5fd441fab",
+    "simhash": "1:03eee845f8edc10d",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio Manuel ANDREU, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Antonio Manuel ANDREU, petitioner,\nv.\nFLORIDA.\nNo. 12-10031.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 109 So.3d 1163.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Third District, denied."
+  },
+  "file_name": "0074-01",
+  "first_page_order": 74,
+  "last_page_order": 74
+}

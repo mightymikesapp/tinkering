@@ -1,0 +1,73 @@
+{
+  "id": 12580348,
+  "name": "Wallace C. JONES, Jr., petitioner, v. FLORIDA.",
+  "name_abbreviation": "Jones v. Florida",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138636.",
+  "first_page": "1883",
+  "last_page": "1884",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1883"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 906"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "129 So.3d 1078",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 320,
+    "sha256": "b9a6793681fe13d09bc3088dafe78a9dd69cfb62768785c8d42341ebe8ba3b7e",
+    "simhash": "1:73c76b04f807c75f",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wallace C. JONES, Jr., petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wallace C. JONES, Jr., petitioner,\nv.\nFLORIDA.\nNo. 13-8636.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 129 So.3d 1078.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the District Court of Florida, Third District, dismissed. See Rule 39.8."
+  },
+  "file_name": "1883-06",
+  "first_page_order": 1883,
+  "last_page_order": 1884
+}

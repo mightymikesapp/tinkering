@@ -1,0 +1,91 @@
+{
+  "id": 12582463,
+  "name": "Ricky BARTLETT, petitioner, v. Max ROBESON, et al.",
+  "name_abbreviation": "Bartlett v. Robeson",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12\u20139119.",
+  "first_page": "27",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 27"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 940"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2345",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698051,
+        12698148,
+        12698155,
+        12698156,
+        12698157,
+        12698136
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0971-05",
+        "/us/569/0978-07",
+        "/us/569/0978-08",
+        "/us/569/0978-09",
+        "/us/569/0978-10",
+        "/us/569/0977-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 179,
+    "sha256": "3f4c25b2f8d5414a4432fddaa482f33c9a3098736fdc9bc88c69f90ef7024f4d",
+    "simhash": "1:e36a14503ed8569e",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ricky BARTLETT, petitioner,\nv.\nMax ROBESON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ricky BARTLETT, petitioner,\nv.\nMax ROBESON, et al.\nNo. 12-9119.\nSupreme Court of the United States\nJuly 22, 2013.\nFormer decision, 133 S.Ct. 2345.\nPetition for rehearing denied."
+  },
+  "file_name": "0027-08",
+  "first_page_order": 27,
+  "last_page_order": 27
+}

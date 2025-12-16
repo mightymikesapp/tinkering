@@ -1,0 +1,86 @@
+{
+  "id": 12582242,
+  "name": "Orville COOPER, petitioner, v. MARYLAND.",
+  "name_abbreviation": "Cooper v. Maryland",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u2013644.",
+  "first_page": "2723",
+  "last_page": "2723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2723"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 762"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "434 Md. 209",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        3723355
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/434/0209-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 218,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263365354505224
+    },
+    "sha256": "63b878f0b9a029a98d73f9f77534c00708776b429df7458c25fa2721917e913b",
+    "simhash": "1:79fe5656ec8fc059",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Orville COOPER, petitioner,\nv.\nMARYLAND."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Maryland denied."
+    ],
+    "corrections": "",
+    "head_matter": "Orville COOPER, petitioner,\nv.\nMARYLAND.\nNo. 13-644.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 434 Md. 209, 73 A.3d 1108.\nPetition for writ of certiorari to the Court of Appeals of Maryland denied."
+  },
+  "file_name": "2723-05",
+  "first_page_order": 2723,
+  "last_page_order": 2723
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12585478,
+  "name": "Robert Edward Lee SHELL, petitioner, v. Harold W. CLARKE, Director, Virginia Department of Corrections.",
+  "name_abbreviation": "Shell v. Clarke",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20135829.",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 588"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 342",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12583394,
+        12583395,
+        12583396,
+        12583397,
+        12583398,
+        12583399,
+        12703280,
+        12703889,
+        12703890,
+        12703891,
+        12702036,
+        12703892
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0342-01",
+        "/s-ct/134/0342-02",
+        "/s-ct/134/0342-03",
+        "/s-ct/134/0342-04",
+        "/s-ct/134/0342-05",
+        "/s-ct/134/0342-06",
+        "/us/571/0890-13",
+        "/us/571/0931-01",
+        "/us/571/0931-02",
+        "/us/571/0931-03",
+        "/us/571/0806-03",
+        "/us/571/0931-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 229,
+    "sha256": "e900dc0b7ec8fc3e75280753a3cfd7226d7ebac4f8719ad4bc10414f219eee24",
+    "simhash": "1:72671c44365c52a2",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Edward Lee SHELL, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Edward Lee SHELL, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections.\nNo. 13-5829.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 342\nPetition for rehearing denied."
+  },
+  "file_name": "0732-07",
+  "first_page_order": 732,
+  "last_page_order": 732
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12584959,
+  "name": "Scott A. HOLMES, petitioner, v. OHIO.",
+  "name_abbreviation": "Holmes v. Ohio",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136835.",
+  "first_page": "657",
+  "last_page": "657",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 657"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 434"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "987 N.E.2d 704",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 221,
+    "sha256": "22b9c216b8eedab67c5133dc435eea569aa0b353819a4d2d832096852f6da15d",
+    "simhash": "1:444f70963ec48ab0",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott A. HOLMES, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Coshocton County, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Scott A. HOLMES, petitioner,\nv.\nOHIO.\nNo. 13-6835.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 987 N.E.2d 704.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Coshocton County, denied."
+  },
+  "file_name": "0657-01",
+  "first_page_order": 657,
+  "last_page_order": 657
+}

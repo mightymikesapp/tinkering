@@ -1,0 +1,85 @@
+{
+  "id": 12581689,
+  "name": "Derrick HAMMOND, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hammond v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135209.",
+  "first_page": "248",
+  "last_page": "248",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 248"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 184"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "712 F.3d 333",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3555104
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/712/0333-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633462414217972
+    },
+    "sha256": "fc0d124164b56001f563444618f58f2703cfc026e9e0e99c8c0880925decac06",
+    "simhash": "1:51ec56463b2798b9",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Derrick HAMMOND, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Derrick HAMMOND, petitioner,\nv.\nUNITED STATES.\nNo. 13-5209.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 712 F.3d 333.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0248-06",
+  "first_page_order": 248,
+  "last_page_order": 248
+}

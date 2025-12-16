@@ -1,0 +1,111 @@
+{
+  "id": 12580681,
+  "name": "In re Derrick GODFREY, petitioner.",
+  "name_abbreviation": "In re Godfrey",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138484.",
+  "first_page": "1932",
+  "last_page": "1932",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1932"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 954"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1359",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701284,
+        12701286,
+        12578952,
+        12578953,
+        12578954,
+        12578955,
+        12578956,
+        12578957,
+        12578958,
+        12578959,
+        12701229,
+        12701230,
+        12701231,
+        12701778,
+        12701779,
+        12701400
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1195-10",
+        "/us/571/1195-12",
+        "/s-ct/134/1359-01",
+        "/s-ct/134/1359-02",
+        "/s-ct/134/1359-03",
+        "/s-ct/134/1359-04",
+        "/s-ct/134/1359-05",
+        "/s-ct/134/1359-06",
+        "/s-ct/134/1359-07",
+        "/s-ct/134/1359-08",
+        "/us/571/1191-01",
+        "/us/571/1191-02",
+        "/us/571/1191-03",
+        "/us/571/1230-02",
+        "/us/571/1230-03",
+        "/us/571/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 164,
+    "sha256": "f23f96aa0640cf384c6c762e01ecee25983481fba71e6b8ff1c909f1ae1b6f27",
+    "simhash": "1:7b6b34473c83672e",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Derrick GODFREY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Derrick GODFREY, petitioner.\nNo. 13-8484.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1359.\nPetition for rehearing denied."
+  },
+  "file_name": "1932-06",
+  "first_page_order": 1932,
+  "last_page_order": 1932
+}

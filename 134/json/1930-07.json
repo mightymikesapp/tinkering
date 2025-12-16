@@ -1,0 +1,99 @@
+{
+  "id": 12580666,
+  "name": "Irenn H. JOHNSON, petitioner, v. ULINE, INC.",
+  "name_abbreviation": "Johnson v. Uline, Inc.",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137825.",
+  "first_page": "1930",
+  "last_page": "1930",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1930"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 952"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1304",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701223,
+        12701521,
+        12701527,
+        12701528,
+        12701529,
+        12578587,
+        12578588,
+        12578589,
+        12578590,
+        12578591
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1190-01",
+        "/us/571/1213-06",
+        "/us/571/1213-07",
+        "/us/571/1213-08",
+        "/us/571/1213-09",
+        "/s-ct/134/1304-01",
+        "/s-ct/134/1304-02",
+        "/s-ct/134/1304-03",
+        "/s-ct/134/1304-04",
+        "/s-ct/134/1304-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 174,
+    "sha256": "2779bd3b27bcc09b9fab64fe1341aa353400293f6a753cd55d8a85a9ed9883bc",
+    "simhash": "1:f33f26c312864cbe",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Irenn H. JOHNSON, petitioner,\nv.\nULINE, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Irenn H. JOHNSON, petitioner,\nv.\nULINE, INC.\nNo. 13-7825.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1304.\nPetition for rehearing denied."
+  },
+  "file_name": "1930-07",
+  "first_page_order": 1930,
+  "last_page_order": 1930
+}

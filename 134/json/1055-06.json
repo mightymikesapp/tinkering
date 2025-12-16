@@ -1,0 +1,103 @@
+{
+  "id": 12578233,
+  "name": "Suzanne Mersereau SEARLES, petitioner, v. Paul BERKEL, et al.",
+  "name_abbreviation": "Searles v. Berkel",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20136725.",
+  "first_page": "1055",
+  "last_page": "1056",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1055"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 142"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3448"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 791",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12585573,
+        12585574,
+        12585575,
+        12585576,
+        12585577,
+        12585578,
+        12700043,
+        12699953,
+        12699954,
+        12699964,
+        12699965,
+        12699966
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0791-01",
+        "/s-ct/134/0791-02",
+        "/s-ct/134/0791-03",
+        "/s-ct/134/0791-04",
+        "/s-ct/134/0791-05",
+        "/s-ct/134/0791-06",
+        "/us/571/1104-07",
+        "/us/571/1098-01",
+        "/us/571/1098-02",
+        "/us/571/1098-13",
+        "/us/571/1098-14",
+        "/us/571/1098-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 271,
+    "sha256": "d220abb70760485d998178867daa12c773c8d97979c63c2219d4602a100a58f0",
+    "simhash": "1:39b58c0445cef24c",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Suzanne Mersereau SEARLES, petitioner,\nv.\nPaul BERKEL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Suzanne Mersereau SEARLES, petitioner,\nv.\nPaul BERKEL, et al.\nNo. 13-6725.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 791.\nPetition for rehearing denied.\nJustice SOTOMAYOR took no part in the consideration or decision of this petition."
+  },
+  "file_name": "1055-06",
+  "first_page_order": 1055,
+  "last_page_order": 1056
+}

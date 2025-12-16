@@ -1,0 +1,85 @@
+{
+  "id": 12585314,
+  "name": "Ed RAY, et al., petitioners, v. OSU STUDENT ALLIANCE, et al.",
+  "name_abbreviation": "Ray v. Osu Student Alliance",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131296.",
+  "first_page": "70",
+  "last_page": "70",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 70"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 29"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "699 F.3d 1053",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3632347
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/699/1053-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 251,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26346593952002606
+    },
+    "sha256": "46084e9c2c786e87b0879590fbade95a1be6bdece80582cd82a4543078b1b7db",
+    "simhash": "1:d3af54ce3f8497ac",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ed RAY, et al., petitioners,\nv.\nOSU STUDENT ALLIANCE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ed RAY, et al., petitioners,\nv.\nOSU STUDENT ALLIANCE, et al.\nNo. 12-1296.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 699 F.3d 1053.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0070-07",
+  "first_page_order": 70,
+  "last_page_order": 70
+}

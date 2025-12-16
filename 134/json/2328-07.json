@@ -1,0 +1,99 @@
+{
+  "id": 12581545,
+  "name": "Bing Yi CHEN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Chen v. United States",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20139077.",
+  "first_page": "2328",
+  "last_page": "2329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2328"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 171"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1808",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12705476,
+        12580203,
+        12580204,
+        12580205,
+        12580206,
+        12580207,
+        12705550,
+        12705461,
+        12705433,
+        12705434
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1048-06",
+        "/s-ct/134/1808-01",
+        "/s-ct/134/1808-02",
+        "/s-ct/134/1808-03",
+        "/s-ct/134/1808-04",
+        "/s-ct/134/1808-05",
+        "/us/572/1053-04",
+        "/us/572/1047-05",
+        "/us/572/1045-01",
+        "/us/572/1045-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 241,
+    "sha256": "3c970a9e0f2fb51d8506debbc68a1330c4ff45961e3b1d73491a9a1c59a607d5",
+    "simhash": "1:60ac36d640a6d618",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bing Yi CHEN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bing Yi CHEN, petitioner,\nv.\nUNITED STATES.\nNo. 13-9077.\nSupreme Court of the United States\nMay 19, 2014.\nFormer decision, 134 S.Ct. 1808.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "2328-07",
+  "first_page_order": 2328,
+  "last_page_order": 2329
+}

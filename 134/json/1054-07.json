@@ -1,0 +1,103 @@
+{
+  "id": 12578226,
+  "name": "Benjardi Batucan VIRAY, petitioner, v. EIGHTH JUDICIAL DISTRICT COURT OF NEVADA, CLARK COUNTY, et al.",
+  "name_abbreviation": "Viray v. Eighth Judicial Dist. Court of Nev.",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20136845.",
+  "first_page": "1054",
+  "last_page": "1054",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1054"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 141"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 702",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699682,
+        12699690,
+        12699691,
+        12585260,
+        12585261,
+        12585262,
+        12585263,
+        12585264,
+        12585265,
+        12699692,
+        12699693,
+        12699694
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1080-01",
+        "/us/571/1080-10",
+        "/us/571/1080-11",
+        "/s-ct/134/0702-01",
+        "/s-ct/134/0702-02",
+        "/s-ct/134/0702-03",
+        "/s-ct/134/0702-04",
+        "/s-ct/134/0702-05",
+        "/s-ct/134/0702-06",
+        "/us/571/1080-12",
+        "/us/571/1080-13",
+        "/us/571/1080-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 229,
+    "sha256": "e0f2e3278c252695bb09fcbd12bac1bc07abbb8d98905f11fb8eebf8a7fd82e2",
+    "simhash": "1:d3a33e546e555fcf",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Benjardi Batucan VIRAY, petitioner,\nv.\nEIGHTH JUDICIAL DISTRICT COURT OF NEVADA, CLARK COUNTY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Benjardi Batucan VIRAY, petitioner,\nv.\nEIGHTH JUDICIAL DISTRICT COURT OF NEVADA, CLARK COUNTY, et al.\nNo. 13-6845.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 702.\nPetition for rehearing denied."
+  },
+  "file_name": "1054-07",
+  "first_page_order": 1054,
+  "last_page_order": 1054
+}

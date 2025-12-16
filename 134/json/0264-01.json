@@ -1,0 +1,75 @@
+{
+  "id": 12581797,
+  "name": "Michael JAMES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "James v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135289.",
+  "first_page": "264",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 264"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 193"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 41",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "sha256": "eb24945b6e12889b1b682c432391cba0125f7edc84e82d006ce8982dc1d336b0",
+    "simhash": "1:13ad76c4336687bb",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael JAMES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael JAMES, petitioner,\nv.\nUNITED STATES.\nNo. 13-5289.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 520 Fed.Appx. 41.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0264-01",
+  "first_page_order": 264,
+  "last_page_order": 264
+}

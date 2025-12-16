@@ -1,0 +1,91 @@
+{
+  "id": 12583103,
+  "name": "Michael A. SALAZAR, petitioner, v. SEARS, ROEBUCK & COMPANY.",
+  "name_abbreviation": "Salazar v. Sears, Roebuck & Co.",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12\u20139365.",
+  "first_page": "29",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 29"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 941"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2358",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698215,
+        12698216,
+        12698217,
+        12698218,
+        12698105,
+        12698106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0982-09",
+        "/us/569/0982-10",
+        "/us/569/0982-11",
+        "/us/569/0982-12",
+        "/us/569/0975-09",
+        "/us/569/0975-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 189,
+    "sha256": "83034079e0eca56a5a36328dbe2859d6bb3a69f4be6674fe643de71069080c50",
+    "simhash": "1:902842450e8a5592",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael A. SALAZAR, petitioner,\nv.\nSEARS, ROEBUCK & COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael A. SALAZAR, petitioner,\nv.\nSEARS, ROEBUCK & COMPANY.\nNo. 12-9365.\nSupreme Court of the United States\nJuly 22, 2013.\nFormer decision, 133 S.Ct. 2358.\nPetition for rehearing denied."
+  },
+  "file_name": "0029-03",
+  "first_page_order": 29,
+  "last_page_order": 29
+}

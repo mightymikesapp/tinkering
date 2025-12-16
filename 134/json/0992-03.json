@@ -1,0 +1,107 @@
+{
+  "id": 12586603,
+  "name": "In re Jackson Bryant BAUGUS, petitioner.",
+  "name_abbreviation": "In re Baugus",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20135511.",
+  "first_page": "992",
+  "last_page": "992",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 992"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 840"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 301",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702151,
+        12703719,
+        12703720,
+        12583116,
+        12583117,
+        12583118,
+        12583119,
+        12583120,
+        12583121,
+        12583122,
+        12703220,
+        12703707,
+        12703708,
+        12703709
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0813-09",
+        "/us/571/0919-14",
+        "/us/571/0919-15",
+        "/s-ct/134/0301-01",
+        "/s-ct/134/0301-02",
+        "/s-ct/134/0301-03",
+        "/s-ct/134/0301-04",
+        "/s-ct/134/0301-05",
+        "/s-ct/134/0301-06",
+        "/s-ct/134/0301-07",
+        "/us/571/0886-05",
+        "/us/571/0919-01",
+        "/us/571/0919-02",
+        "/us/571/0919-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 168,
+    "sha256": "84ba938aa2ed291dae29cf5d8cead5b701ad6d4663b37e3b90f8ec85bcc2d029",
+    "simhash": "1:d08f04c406ba44c4",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jackson Bryant BAUGUS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Jackson Bryant BAUGUS, petitioner.\nNo. 13-5511.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 301.\nPetition for rehearing denied."
+  },
+  "file_name": "0992-03",
+  "first_page_order": 992,
+  "last_page_order": 992
+}

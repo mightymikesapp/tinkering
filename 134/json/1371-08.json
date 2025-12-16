@@ -1,0 +1,103 @@
+{
+  "id": 12579048,
+  "name": "Delbert Lennard HOLLEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Holley v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137471.",
+  "first_page": "1371",
+  "last_page": "1371",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1371"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 368"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 954",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700645,
+        12700652,
+        12700653,
+        12700654,
+        12586351,
+        12586352,
+        12586353,
+        12586354,
+        12586355,
+        12586356,
+        12700559,
+        12700655
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1148-07",
+        "/us/571/1148-08",
+        "/us/571/1148-09",
+        "/us/571/1148-10",
+        "/s-ct/134/0954-01",
+        "/s-ct/134/0954-02",
+        "/s-ct/134/0954-03",
+        "/s-ct/134/0954-04",
+        "/s-ct/134/0954-05",
+        "/s-ct/134/0954-06",
+        "/us/571/1142-07",
+        "/us/571/1148-11"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 181,
+    "sha256": "4ff436b15edda9ea0777f7a66fdaf9f7d0a91cfca872041857d835781285df00",
+    "simhash": "1:11ad3e4606965719",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Delbert Lennard HOLLEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Delbert Lennard HOLLEY, petitioner,\nv.\nUNITED STATES.\nNo. 13-7471.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 954.\nPetition for rehearing denied."
+  },
+  "file_name": "1371-08",
+  "first_page_order": 1371,
+  "last_page_order": 1371
+}

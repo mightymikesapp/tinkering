@@ -1,0 +1,75 @@
+{
+  "id": 12582160,
+  "name": "Gary Charles LIZALEK, petitioner, v. COUNTY OF MILWAUKEE, WISCONSIN.",
+  "name_abbreviation": "Lizalek v. Cnty. of Milwaukee",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20139779.",
+  "first_page": "2711",
+  "last_page": "2711",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2711"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 751"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "837 N.W.2d 177",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 250,
+    "sha256": "b95f8d607dd84325f64af03ae92971a485a0b1ec4b5fce707b5aa4892c356fc2",
+    "simhash": "1:b88f5e9e6b0f83b1",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary Charles LIZALEK, petitioner,\nv.\nCOUNTY OF MILWAUKEE, WISCONSIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Wisconsin, District I, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gary Charles LIZALEK, petitioner,\nv.\nCOUNTY OF MILWAUKEE, WISCONSIN.\nNo. 13-9779.\nSupreme Court of the United States\nJune 2, 2014.\nCase below, 837 N.W.2d 177.\nPetition for writ of certiorari to the Court of Appeals of Wisconsin, District I, denied."
+  },
+  "file_name": "2711-03",
+  "first_page_order": 2711,
+  "last_page_order": 2711
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12584511,
+  "name": "Jerome ANDERSON, petitioner, v. A.K. PRUITT, et al.",
+  "name_abbreviation": "Anderson v. Pruitt",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136533.",
+  "first_page": "533",
+  "last_page": "533",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 533"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 383"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "529 Fed.Appx. 341",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 247,
+    "sha256": "1c347635608e806ca481365ab88601c05d8aa2c3379a32f34bfd64c64348e417",
+    "simhash": "1:43f7c60c3a4115e5",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerome ANDERSON, petitioner,\nv.\nA.K. PRUITT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerome ANDERSON, petitioner,\nv.\nA.K. PRUITT, et al.\nNo. 13-6533.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 529 Fed.Appx. 341.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0533-06",
+  "first_page_order": 533,
+  "last_page_order": 533
+}

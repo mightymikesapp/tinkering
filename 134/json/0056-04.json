@@ -1,0 +1,81 @@
+{
+  "id": 12584663,
+  "name": "Adrian JACKSON, petitioner, v. NEVADA.",
+  "name_abbreviation": "Jackson v. Nevada",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139118.",
+  "first_page": "56",
+  "last_page": "56",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 56"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "291 P.3d 1274",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        12412209
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nev/128/0598-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 200,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26344161377748276
+    },
+    "sha256": "c417909d5bb97198f131206a1c27d6f74798a6d17cc3458f781860cec20bb8e6",
+    "simhash": "1:6a2fb60c72e50775",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adrian JACKSON, petitioner,\nv.\nNEVADA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Nevada denied."
+    ],
+    "corrections": "",
+    "head_matter": "Adrian JACKSON, petitioner,\nv.\nNEVADA.\nNo. 12-9118.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 291 P.3d 1274.\nPetition for writ of certiorari to the Supreme Court of Nevada denied."
+  },
+  "file_name": "0056-04",
+  "first_page_order": 56,
+  "last_page_order": 56
+}

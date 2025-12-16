@@ -1,0 +1,85 @@
+{
+  "id": 12585935,
+  "name": "Eric Kurt PATRICK, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Patrick v. Florida",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310148.",
+  "first_page": "85",
+  "last_page": "85",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 85"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 65"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "104 So.3d 1046",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7014599
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/104/1046-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 207,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26348543872635044
+    },
+    "sha256": "816cc2b99ce35f48d95523338119f9c58adf0cbfc1d0acaf0b069d8319d8d392",
+    "simhash": "1:e2af540c58a50511",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric Kurt PATRICK, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric Kurt PATRICK, petitioner,\nv.\nFLORIDA.\nNo. 12-10148.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 104 So.3d 1046.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "0085-03",
+  "first_page_order": 85,
+  "last_page_order": 85
+}

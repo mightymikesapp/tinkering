@@ -1,0 +1,85 @@
+{
+  "id": 12581311,
+  "name": "MISSOURI, petitioner, v. David A. McNEAL.",
+  "name_abbreviation": "Missouri v. McNeal",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u2013963.",
+  "first_page": "2292",
+  "last_page": "2292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2292"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 173"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "412 S.W.3d 886",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7090578
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/412/0886-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 205,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633342716119743
+    },
+    "sha256": "0518fa61a59321859b44f6b20626f9100d33ab691255fbc3312c563e3477c3a4",
+    "simhash": "1:48ae7456da37c533",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MISSOURI, petitioner,\nv.\nDavid A. McNEAL."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Missouri denied."
+    ],
+    "corrections": "",
+    "head_matter": "MISSOURI, petitioner,\nv.\nDavid A. McNEAL.\nNo. 13-963.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 412 S.W.3d 886.\nPetition for writ of certiorari to the Supreme Court of Missouri denied."
+  },
+  "file_name": "2292-03",
+  "first_page_order": 2292,
+  "last_page_order": 2292
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12581994,
+  "name": "David WINSOR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Winsor v. United States",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20139921.",
+  "first_page": "2688",
+  "last_page": "2688",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2688"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 229"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3686"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "549 Fed.Appx. 630",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "sha256": "2f1d54a5406d59b8fcea743e0e9b30624fa0f826cfd9083df36a5c931473d8c7",
+    "simhash": "1:e3ff76c4bb2cd791",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David WINSOR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David WINSOR, petitioner,\nv.\nUNITED STATES.\nNo. 13-9921.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 549 Fed.Appx. 630.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2688-05",
+  "first_page_order": 2688,
+  "last_page_order": 2688
+}

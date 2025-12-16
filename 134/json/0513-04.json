@@ -1,0 +1,85 @@
+{
+  "id": 12584376,
+  "name": "Nickolus L. JOHNSON, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Johnson v. Tennessee",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20135430.",
+  "first_page": "513",
+  "last_page": "513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 513"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 371"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "401 S.W.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7091857
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/401/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 229,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634309953978012
+    },
+    "sha256": "d1fac60555681e3a3e6145528c981b998ef02bb8f85862235b334e12c9458846",
+    "simhash": "1:706bd5043aa51799",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nickolus L. JOHNSON, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Tennessee, Eastern Division, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nickolus L. JOHNSON, petitioner,\nv.\nTENNESSEE.\nNo. 13-5430.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 401 S.W.3d 1.\nPetition for writ of certiorari to the Supreme Court of Tennessee, Eastern Division, denied."
+  },
+  "file_name": "0513-04",
+  "first_page_order": 513,
+  "last_page_order": 513
+}

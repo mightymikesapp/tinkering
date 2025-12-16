@@ -1,0 +1,75 @@
+{
+  "id": 12582393,
+  "name": "Robert NIGG, Keith Lewis, petitioners, v. UNITED STATES POSTAL SERVICE.",
+  "name_abbreviation": "Nigg v. U.S. Postal Serv.",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20131224.",
+  "first_page": "2746",
+  "last_page": "2746",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2746"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 766"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "544 Fed.Appx. 766",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 266,
+    "sha256": "0417c885d7d4b6529e4508573dc8c05ce4f7907ef963f8f4926d1c5eda617fe3",
+    "simhash": "1:e3ed72402f4f6703",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert NIGG, Keith Lewis, petitioners,\nv.\nUNITED STATES POSTAL SERVICE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert NIGG, Keith Lewis, petitioners,\nv.\nUNITED STATES POSTAL SERVICE.\nNo. 13-1224.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 544 Fed.Appx. 766.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2746-05",
+  "first_page_order": 2746,
+  "last_page_order": 2746
+}

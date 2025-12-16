@@ -1,0 +1,75 @@
+{
+  "id": 12585601,
+  "name": "Richard A. PROCEVIAT, petitioner, v. Eric K. SHINSEKI, Secretary of Veterans Affairs.",
+  "name_abbreviation": "Proceviat v. Shinseki",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20136820.",
+  "first_page": "795",
+  "last_page": "795",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 795"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 604"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Fed.Appx. 674",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 282,
+    "sha256": "97cebd6b275f1c63e1f9372b82870ee0197bf4050a85e40ea9f679ce23fd068f",
+    "simhash": "1:5b6f64cc3b6d03a6",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard A. PROCEVIAT, petitioner,\nv.\nEric K. SHINSEKI, Secretary of Veterans Affairs."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard A. PROCEVIAT, petitioner,\nv.\nEric K. SHINSEKI, Secretary of Veterans Affairs.\nNo. 13-6820.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 524 Fed.Appx. 674.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0795-05",
+  "first_page_order": 795,
+  "last_page_order": 795
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12585896,
+  "name": "Eric M. WOODRUFF, petitioner, v. NATIONAL RAILROAD PASSENGER CORPORATION, aka Amtrak.",
+  "name_abbreviation": "Woodruff v. Nat'l R.R. Passenger Corp.",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 12\u201310660.",
+  "first_page": "839",
+  "last_page": "839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 839"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 696"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 392",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702944,
+        12702853,
+        12702822,
+        12702792,
+        12583725,
+        12583726,
+        12583727,
+        12583728,
+        12583729,
+        12583730,
+        12702929,
+        12702975
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0867-06",
+        "/us/571/0861-06",
+        "/us/571/0859-06",
+        "/us/571/0857-06",
+        "/s-ct/134/0392-01",
+        "/s-ct/134/0392-02",
+        "/s-ct/134/0392-03",
+        "/s-ct/134/0392-04",
+        "/s-ct/134/0392-05",
+        "/s-ct/134/0392-06",
+        "/us/571/0866-06",
+        "/us/571/0869-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 214,
+    "sha256": "3218a6560c498be20d0c34b348c060259baece21e94a126065252c3dc5bb3943",
+    "simhash": "1:f0b70c56338b7d0e",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric M. WOODRUFF, petitioner,\nv.\nNATIONAL RAILROAD PASSENGER CORPORATION, aka Amtrak."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric M. WOODRUFF, petitioner,\nv.\nNATIONAL RAILROAD PASSENGER CORPORATION, aka Amtrak.\nNo. 12-10660.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 392.\nPetition for rehearing denied."
+  },
+  "file_name": "0839-02",
+  "first_page_order": 839,
+  "last_page_order": 839
+}

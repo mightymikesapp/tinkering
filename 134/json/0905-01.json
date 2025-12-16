@@ -1,0 +1,85 @@
+{
+  "id": 12586028,
+  "name": "CSX TRANSPORTATION, INC., petitioner, v. MD MALL ASSOCIATES, LLC, ta MacDade Mall Associates, L.P.",
+  "name_abbreviation": "CSX Transp., Inc. v. MD Mall Assocs., LLC",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013398.",
+  "first_page": "905",
+  "last_page": "905",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 905"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 778"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "715 F.3d 479",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3566360
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/715/0479-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 288,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26349412649154447
+    },
+    "sha256": "bf1e93a190b962572a9da058cb7d1fed52cb7d7b4a68018157b729bcb3ab61c3",
+    "simhash": "1:fc2ed1c03e899f11",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CSX TRANSPORTATION, INC., petitioner,\nv.\nMD MALL ASSOCIATES, LLC, ta MacDade Mall Associates, L.P."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "CSX TRANSPORTATION, INC., petitioner,\nv.\nMD MALL ASSOCIATES, LLC, ta MacDade Mall Associates, L.P.\nNo. 13-398.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 715 F.3d 479.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0905-01",
+  "first_page_order": 905,
+  "last_page_order": 905
+}

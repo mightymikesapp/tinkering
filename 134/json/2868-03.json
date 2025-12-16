@@ -1,0 +1,103 @@
+{
+  "id": 12582805,
+  "name": "Joh-ner T. WILSON, petitioner, v. Nedra CHANDLER, Warden.",
+  "name_abbreviation": "Wilson v. Chandler",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20138807.",
+  "first_page": "2868",
+  "last_page": "2868",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2868"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 826"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3733"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1891",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12705736,
+        12580395,
+        12580396,
+        12580397,
+        12580398,
+        12580399,
+        12580400,
+        12705744,
+        12705622,
+        12705725,
+        12705726,
+        12705727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1068-08",
+        "/s-ct/134/1891-01",
+        "/s-ct/134/1891-02",
+        "/s-ct/134/1891-03",
+        "/s-ct/134/1891-04",
+        "/s-ct/134/1891-05",
+        "/s-ct/134/1891-06",
+        "/us/572/1068-09",
+        "/us/572/1059-13",
+        "/us/572/1067-04",
+        "/us/572/1067-05",
+        "/us/572/1067-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 186,
+    "sha256": "dfc7068dff8d78eafbb5c453a802e7e632c494aad8debd943f30bcc15e81d654",
+    "simhash": "1:f2443e563e0ad55e",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joh-ner T. WILSON, petitioner,\nv.\nNedra CHANDLER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joh-ner T. WILSON, petitioner,\nv.\nNedra CHANDLER, Warden.\nNo. 13-8807.\nSupreme Court of the United States\nJune 23, 2014.\nFormer decision, 134 S.Ct. 1891.\nPetition for rehearing denied."
+  },
+  "file_name": "2868-03",
+  "first_page_order": 2868,
+  "last_page_order": 2868
+}

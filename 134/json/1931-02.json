@@ -1,0 +1,103 @@
+{
+  "id": 12580669,
+  "name": "Andre DREW, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Drew v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137864.",
+  "first_page": "1931",
+  "last_page": "1931",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1931"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 953"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1040",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701133,
+        12701134,
+        12701135,
+        12701136,
+        12578129,
+        12578130,
+        12578131,
+        12578132,
+        12578133,
+        12578134,
+        12701045,
+        12701046
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1182-08",
+        "/us/571/1182-09",
+        "/us/571/1182-10",
+        "/us/571/1182-11",
+        "/s-ct/134/1040-01",
+        "/s-ct/134/1040-02",
+        "/s-ct/134/1040-03",
+        "/s-ct/134/1040-04",
+        "/s-ct/134/1040-05",
+        "/s-ct/134/1040-06",
+        "/us/571/1176-02",
+        "/us/571/1176-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 171,
+    "sha256": "bec9f80dc15639c660cf4fb31a7aa3a05b2f09b6a4087e98a1c1d2ddabe9855e",
+    "simhash": "1:433c3642b4875c1a",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andre DREW, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andre DREW, petitioner,\nv.\nUNITED STATES.\nNo. 13-7864.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1040.\nPetition for rehearing denied."
+  },
+  "file_name": "1931-02",
+  "first_page_order": 1931,
+  "last_page_order": 1931
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583341,
+  "name": "Kyle Mark CORSI, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Corsi v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135760.",
+  "first_page": "333",
+  "last_page": "333",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 333"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 234"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "518 Fed.Appx. 181",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 242,
+    "sha256": "00d9305b38eff4fc51e7b55746a66a3c20b3c285014a219637f8a8c7f15f234e",
+    "simhash": "1:536c44153b228699",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kyle Mark CORSI, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kyle Mark CORSI, petitioner,\nv.\nUNITED STATES.\nNo. 13-5760.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 518 Fed.Appx. 181.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0333-06",
+  "first_page_order": 333,
+  "last_page_order": 333
+}

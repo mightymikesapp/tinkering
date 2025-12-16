@@ -1,0 +1,86 @@
+{
+  "id": 12579149,
+  "name": "Robert Martin HABERLEIN, petitioner, v. KANSAS.",
+  "name_abbreviation": "Haberlein v. Kansas",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310651.",
+  "first_page": "148",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 148"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 104"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "296 Kan. 195",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        12416622
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/296/0195-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 223,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632574331553693
+    },
+    "sha256": "6abc5b2522fa793abc31c6818b19fe4ee3dc9f3b47f6184431cb640e932c6a52",
+    "simhash": "1:702e5c56db97a0a1",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Martin HABERLEIN, petitioner,\nv.\nKANSAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Kansas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Martin HABERLEIN, petitioner,\nv.\nKANSAS.\nNo. 12-10651.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 296 Kan. 195, 290 P.3d 640.\nPetition for writ of certiorari to the Supreme Court of Kansas denied."
+  },
+  "file_name": "0148-04",
+  "first_page_order": 148,
+  "last_page_order": 148
+}

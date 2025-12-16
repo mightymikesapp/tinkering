@@ -1,0 +1,75 @@
+{
+  "id": 12586249,
+  "name": "R.V. HOLLY, et al., petitioners, v. Steven Wayne THOMAS.",
+  "name_abbreviation": "Holly v. Thomas",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013582.",
+  "first_page": "939",
+  "last_page": "939",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 939"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 784"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "533 Fed.Appx. 208",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "sha256": "b65b2aa6f277fae849bad0bd670061692476d0280f56f946ec020e862a6af5cf",
+    "simhash": "1:cfff7604bed197d1",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R.V. HOLLY, et al., petitioners,\nv.\nSteven Wayne THOMAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "R.V. HOLLY, et al., petitioners,\nv.\nSteven Wayne THOMAS.\nNo. 13-582.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 533 Fed.Appx. 208.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0939-02",
+  "first_page_order": 939,
+  "last_page_order": 939
+}

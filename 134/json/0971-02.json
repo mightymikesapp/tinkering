@@ -1,0 +1,75 @@
+{
+  "id": 12586464,
+  "name": "Ronald GREEN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Green v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137637.",
+  "first_page": "971",
+  "last_page": "971",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 971"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 827"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "70 A.3d 260",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 218,
+    "sha256": "1fd9cfebc3dd8c18bf21f57deb43630035fc8575175392697c0ff85f4cd635e8",
+    "simhash": "1:4d8e34402202c4b1",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald GREEN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the District of Columbia Court of Appeals denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ronald GREEN, petitioner,\nv.\nUNITED STATES.\nNo. 13-7637.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 70 A.3d 260.\nPetition for writ of certiorari to the District of Columbia Court of Appeals denied."
+  },
+  "file_name": "0971-02",
+  "first_page_order": 971,
+  "last_page_order": 971
+}

@@ -1,0 +1,87 @@
+{
+  "id": 12580459,
+  "name": "Jeffrey M. KINZLE, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Kinzle v. Washington",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139049.",
+  "first_page": "1900",
+  "last_page": "1900",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1900"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 931"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "174 Wash.App. 1073",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4055827,
+        4053173,
+        4052094,
+        4051847
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-app/174/1073-04",
+        "/wash-app/174/1073-01",
+        "/wash-app/174/1073-02",
+        "/wash-app/174/1073-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 234,
+    "sha256": "bced8eb1ef23dd18c2f3c1520cff39cbbf5e0a52ae985e452ebf4813b400b92e",
+    "simhash": "1:ecbf0e0cbac1e1b9",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey M. KINZLE, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey M. KINZLE, petitioner,\nv.\nWASHINGTON.\nNo. 13-9049.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 174 Wash.App. 1073.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+  },
+  "file_name": "1900-05",
+  "first_page_order": 1900,
+  "last_page_order": 1900
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12586407,
+  "name": "Ivan CURBELO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Curbelo v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137545.",
+  "first_page": "962",
+  "last_page": "962",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 962"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 822"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "726 F.3d 1260",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073548
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/726/1260-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635049379326748
+    },
+    "sha256": "8c4d57c0cd6f1bf08b8ecc30bc486d2f1720f83da47cc84ec425031ce20956cb",
+    "simhash": "1:edafd6c4b0015691",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ivan CURBELO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ivan CURBELO, petitioner,\nv.\nUNITED STATES.\nNo. 13-7545.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 726 F.3d 1260.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0962-04",
+  "first_page_order": 962,
+  "last_page_order": 962
+}

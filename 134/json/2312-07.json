@@ -1,0 +1,91 @@
+{
+  "id": 12581445,
+  "name": "Carlos MALDONADO, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Maldonado v. Massachusetts",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20139560.",
+  "first_page": "2312",
+  "last_page": "2313",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2312"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 192"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2 N.E.3d 145",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "466 Mass. 742",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4223919
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/466/0742-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 239,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26333929120964195
+    },
+    "sha256": "a435e459152c3c0e5421e99887dbe90c5e575797284d2b18e669fa215a6fe734",
+    "simhash": "1:f04eb616bcc55105",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos MALDONADO, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos MALDONADO, petitioner,\nv.\nMASSACHUSETTS.\nNo. 13-9560.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 466 Mass. 742, 2 N.E.3d 145.\nPetition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+  },
+  "file_name": "2312-07",
+  "first_page_order": 2312,
+  "last_page_order": 2313
+}

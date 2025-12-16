@@ -1,0 +1,85 @@
+{
+  "id": 12579505,
+  "name": "TEHAMA-COLUSA CANAL AUTHORITY, petitioner, v. DEPARTMENT OF THE INTERIOR, et al.",
+  "name_abbreviation": "Tehama-Colusa Canal Auth. v. Dep't of the Interior",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u2013836.",
+  "first_page": "1546",
+  "last_page": "1546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1546"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 558"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 1086",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5756439
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/721/1086-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 272,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26327094745678226
+    },
+    "sha256": "5bbe840a85b4b9c479ea4eacb3ee747f63dc75fffa1ce50baff644739a918d44",
+    "simhash": "1:e1aca64d98875624",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TEHAMA-COLUSA CANAL AUTHORITY, petitioner,\nv.\nDEPARTMENT OF THE INTERIOR, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "TEHAMA-COLUSA CANAL AUTHORITY, petitioner,\nv.\nDEPARTMENT OF THE INTERIOR, et al.\nNo. 13-836.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 721 F.3d 1086.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1546-01",
+  "first_page_order": 1546,
+  "last_page_order": 1546
+}

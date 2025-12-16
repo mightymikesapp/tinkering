@@ -1,0 +1,75 @@
+{
+  "id": 12580097,
+  "name": "J.E.R., Jr., petitioner, v. LEHIGH COUNTY, PENNSYLVANIA, et al.",
+  "name_abbreviation": "J.E.R. v. Lehigh Cnty.",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138462.",
+  "first_page": "1791",
+  "last_page": "1791",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1791"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 761"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "534 Fed.Appx. 104",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 259,
+    "sha256": "2a8e4cff4912a4a3b195bd126d4e0cfab0082245160ec89a3be4830c0c9ef546",
+    "simhash": "1:693e36422b015c05",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J.E.R., Jr., petitioner,\nv.\nLEHIGH COUNTY, PENNSYLVANIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "J.E.R., Jr., petitioner,\nv.\nLEHIGH COUNTY, PENNSYLVANIA, et al.\nNo. 13-8462.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 534 Fed.Appx. 104.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1791-05",
+  "first_page_order": 1791,
+  "last_page_order": 1791
+}

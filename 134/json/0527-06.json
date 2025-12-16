@@ -1,0 +1,91 @@
+{
+  "id": 12584469,
+  "name": "Javier Enrique PEREZ, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Perez v. California",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136277.",
+  "first_page": "527",
+  "last_page": "527",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 527"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 379"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "154 Cal.Rptr.3d 114",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "214 Cal.App.4th 49",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4263744
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/214/0049-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 286,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634344705038788
+    },
+    "sha256": "9afc86ea521d6032cc96550e1e1be7eaca66c52bc973089bf3650f6bc4d2de03",
+    "simhash": "1:696d660f8b820188",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Javier Enrique PEREZ, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division Three, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Javier Enrique PEREZ, petitioner,\nv.\nCALIFORNIA.\nNo. 13-6277.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 214 Cal.App.4th 49, 154 Cal.Rptr.3d 114.\nPetition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division Three, denied."
+  },
+  "file_name": "0527-06",
+  "first_page_order": 527,
+  "last_page_order": 527
+}

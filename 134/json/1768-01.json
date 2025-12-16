@@ -1,0 +1,73 @@
+{
+  "id": 12579939,
+  "name": "H.B., petitioner, v. FLORIDA DEPARTMENT OF CHILDREN AND FAMILIES.",
+  "name_abbreviation": "H.B. v. Fla. Dep't of Children & Families",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u2013930.",
+  "first_page": "1768",
+  "last_page": "1768",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1768"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 595"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "119 So.3d 448",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 258,
+    "sha256": "d672bc32ece699054a429c631c805a152706dee8bb3a6e994716710c95c79a45",
+    "simhash": "1:e26f1216dab1c131",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "H.B., petitioner,\nv.\nFLORIDA DEPARTMENT OF CHILDREN AND FAMILIES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "H.B., petitioner,\nv.\nFLORIDA DEPARTMENT OF CHILDREN AND FAMILIES.\nNo. 13-930.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 119 So.3d 448.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Second District, denied."
+  },
+  "file_name": "1768-01",
+  "first_page_order": 1768,
+  "last_page_order": 1768
+}

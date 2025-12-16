@@ -1,0 +1,75 @@
+{
+  "id": 12579151,
+  "name": "Jose NAVA-DURAN, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Nava-Duran v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310653.",
+  "first_page": "148",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 148"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 105"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Fed.Appx. 357",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 249,
+    "sha256": "f6ed88db401a714ca4076c18288110f945dbbb9de8379840f7d5c0bb8552c67b",
+    "simhash": "1:d2afc4495ba7008c",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose NAVA-DURAN, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose NAVA-DURAN, petitioner,\nv.\nUNITED STATES, et al.\nNo. 12-10653.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 516 Fed.Appx. 357.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0148-06",
+  "first_page_order": 148,
+  "last_page_order": 148
+}

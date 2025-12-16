@@ -1,0 +1,75 @@
+{
+  "id": 12584251,
+  "name": "Paul JENKINS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jenkins v. United States",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20136386.",
+  "first_page": "488",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 330"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "528 Fed.Appx. 483",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "sha256": "cf7fac0117ee52e14a88787ca36c67d6324ba09663ed70f2cea030c76aa63f89",
+    "simhash": "1:7ded76443f86d795",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul JENKINS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul JENKINS, petitioner,\nv.\nUNITED STATES.\nNo. 13-6386.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 528 Fed.Appx. 483.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0488-06",
+  "first_page_order": 488,
+  "last_page_order": 488
+}

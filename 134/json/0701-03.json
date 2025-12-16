@@ -1,0 +1,75 @@
+{
+  "id": 12585256,
+  "name": "Dave Silvester PIERRE, petitioner, v. Eric H. HOLDER, Jr., Attorney General.",
+  "name_abbreviation": "Pierre v. Holder",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136792.",
+  "first_page": "701",
+  "last_page": "701",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 701"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 565"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "527 Fed.Appx. 114",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 271,
+    "sha256": "74a94830ce98e429b8caf6cf4667754d27ad44170562598c431df82bf45a3ce5",
+    "simhash": "1:586f76403e6507a2",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dave Silvester PIERRE, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dave Silvester PIERRE, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General.\nNo. 13-6792.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 527 Fed.Appx. 114.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0701-03",
+  "first_page_order": 701,
+  "last_page_order": 701
+}

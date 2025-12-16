@@ -1,0 +1,85 @@
+{
+  "id": 12581376,
+  "name": "Robert Allen POYSON, petitioner, v. Charles L. RYAN, Director, Arizona Department of Corrections.",
+  "name_abbreviation": "Poyson v. Ryan",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20139097.",
+  "first_page": "2302",
+  "last_page": "2302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2302"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 201"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "743 F.3d 1185",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4118047
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/743/1185-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 379,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633373605951544
+    },
+    "sha256": "11172217147a4874c26d346b42762ff17a2d511f6183626a610049dfef53f4a2",
+    "simhash": "1:d1ecc24cd9819401",
+    "word_count": 60
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Allen POYSON, petitioner,\nv.\nCharles L. RYAN, Director, Arizona Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner to defer consideration of the petition for writ of certiorari denied. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Allen POYSON, petitioner,\nv.\nCharles L. RYAN, Director, Arizona Department of Corrections.\nNo. 13-9097.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 743 F.3d 1185.\nMotion of petitioner to defer consideration of the petition for writ of certiorari denied. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2302-01",
+  "first_page_order": 2302,
+  "last_page_order": 2302
+}

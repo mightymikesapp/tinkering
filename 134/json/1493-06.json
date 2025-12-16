@@ -1,0 +1,75 @@
+{
+  "id": 12579174,
+  "name": "David Hugo JOHNSON, petitioner, v. William MONDAY, Warden.",
+  "name_abbreviation": "Johnson v. Monday",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20137997.",
+  "first_page": "1493",
+  "last_page": "1493",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1493"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 379"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "532 Fed.Appx. 811",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 254,
+    "sha256": "e1926d0614b14ae4a1b0ad3d2241ddc9618e7ff83370b79c824805a3985e8643",
+    "simhash": "1:522ff4c63d001709",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Hugo JOHNSON, petitioner,\nv.\nWilliam MONDAY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David Hugo JOHNSON, petitioner,\nv.\nWilliam MONDAY, Warden.\nNo. 13-7997.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 532 Fed.Appx. 811.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1493-06",
+  "first_page_order": 1493,
+  "last_page_order": 1493
+}

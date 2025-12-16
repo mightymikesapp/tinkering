@@ -1,0 +1,75 @@
+{
+  "id": 12578861,
+  "name": "Bobby Lynn SPRINGSTON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Springston v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138220.",
+  "first_page": "1345",
+  "last_page": "1345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1345"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 349"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "534 Fed.Appx. 576",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 249,
+    "sha256": "60b90a69c308a699dc4bbb68ac469dd2765f8cbb5ddb427f55f9e1fa2f96a26a",
+    "simhash": "1:782c7466bf871711",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bobby Lynn SPRINGSTON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bobby Lynn SPRINGSTON, petitioner,\nv.\nUNITED STATES.\nNo. 13-8220.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 534 Fed.Appx. 576.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "1345-01",
+  "first_page_order": 1345,
+  "last_page_order": 1345
+}

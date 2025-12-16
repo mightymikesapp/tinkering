@@ -1,0 +1,85 @@
+{
+  "id": 12586117,
+  "name": "Daya Dinkar BATHULA, et al., petitioners, v. Eric H. HOLDER, Jr. Attorney General.",
+  "name_abbreviation": "Bathula v. Holder",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013526.",
+  "first_page": "919",
+  "last_page": "919",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 919"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 782"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "723 F.3d 889",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4064564
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/723/0889-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 274,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26349798772051963
+    },
+    "sha256": "35759e4ea8bd1b477ca73eaf27b80a32685445dbb64c96b9b17288c0195acddf",
+    "simhash": "1:4a2f624015c14791",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daya Dinkar BATHULA, et al., petitioners,\nv.\nEric H. HOLDER, Jr. Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daya Dinkar BATHULA, et al., petitioners,\nv.\nEric H. HOLDER, Jr. Attorney General.\nNo. 13-526.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 723 F.3d 889.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0919-01",
+  "first_page_order": 919,
+  "last_page_order": 919
+}

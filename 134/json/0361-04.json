@@ -1,0 +1,75 @@
+{
+  "id": 12583528,
+  "name": "Gregory D. CROSBY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Crosby v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20136042.",
+  "first_page": "361",
+  "last_page": "361",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 361"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 250"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 771",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "sha256": "ca275969eab53f9e05956f9537e1147eeb24614a14e63cfc793ec9bc69447753",
+    "simhash": "1:916dc6c628478381",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory D. CROSBY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory D. CROSBY, petitioner,\nv.\nUNITED STATES.\nNo. 13-6042.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 515 Fed.Appx. 771.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0361-04",
+  "first_page_order": 361,
+  "last_page_order": 361
+}

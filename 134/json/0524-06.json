@@ -1,0 +1,83 @@
+{
+  "id": 12584450,
+  "name": "Jeffery J. HARRIS, petitioner, v. ARVEST BANK.",
+  "name_abbreviation": "Harris v. Arvest Bank",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136130.",
+  "first_page": "524",
+  "last_page": "524",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 524"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 378"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "311 P.3d 454",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        6965886,
+        6965807
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/p3d/311/0454-02",
+        "/p3d/311/0454-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 209,
+    "sha256": "152ba8796ce79232995855d0e6c8439666756ea7c3c8c582e9e0c81c755fbc63",
+    "simhash": "1:6865964432c5a4d9",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffery J. HARRIS, petitioner,\nv.\nARVEST BANK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Oklahoma denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffery J. HARRIS, petitioner,\nv.\nARVEST BANK.\nNo. 13-6130.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 311 P.3d 454.\nPetition for writ of certiorari to the Supreme Court of Oklahoma denied."
+  },
+  "file_name": "0524-06",
+  "first_page_order": 524,
+  "last_page_order": 524
+}

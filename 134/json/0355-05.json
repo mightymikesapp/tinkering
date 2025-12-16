@@ -1,0 +1,75 @@
+{
+  "id": 12583485,
+  "name": "Luciano MERCADO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Mercado v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135964.",
+  "first_page": "355",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 355"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 247"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 574",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 241,
+    "sha256": "1d4ac33b47d942f94341d31a913c3170bc1e14c37e20c9305bd25edfa2dc52f2",
+    "simhash": "1:c3ed764527c7c61f",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luciano MERCADO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Luciano MERCADO, petitioner,\nv.\nUNITED STATES.\nNo. 13-5964.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 525 Fed.Appx. 574.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0355-05",
+  "first_page_order": 355,
+  "last_page_order": 355
+}

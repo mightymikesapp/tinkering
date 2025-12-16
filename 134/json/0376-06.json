@@ -1,0 +1,91 @@
+{
+  "id": 12583627,
+  "name": "Dominic M. FRANZA, petitioner, v. Michael SHEAHAN.",
+  "name_abbreviation": "Franza v. Sheahan",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139975",
+  "first_page": "376",
+  "last_page": "377",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 376"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 16"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2863",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698816,
+        12698817,
+        12698756,
+        12698757,
+        12698648,
+        12698714
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/570/0926-08",
+        "/us/570/0926-09",
+        "/us/570/0922-10",
+        "/us/570/0922-11",
+        "/us/570/0914-02",
+        "/us/570/0919-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 247,
+    "sha256": "e6ec1fc98835b8846f7f0cecf4e119d04823357d6d8a394138a4720f3d9aab4b",
+    "simhash": "1:e2a006566b5ec2ba",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dominic M. FRANZA, petitioner,\nv.\nMichael SHEAHAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dominic M. FRANZA, petitioner,\nv.\nMichael SHEAHAN.\nNo. 12-9975\nSupreme Court of the United States\nOct. 7, 2013.\nFormer decision, 133 S.Ct. 2863.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0376-06",
+  "first_page_order": 376,
+  "last_page_order": 377
+}

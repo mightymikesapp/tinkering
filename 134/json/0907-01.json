@@ -1,0 +1,85 @@
+{
+  "id": 12586040,
+  "name": "REPUBLICAN PARTY OF NEVADA, petitioner, v. Ross MILLER, Nevada Secretary of State, et al.",
+  "name_abbreviation": "Republican Party of Nev. v. Miller",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013442.",
+  "first_page": "907",
+  "last_page": "907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 907"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 778"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "722 F.3d 1128",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4062033
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/722/1128-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 280,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634958640445833
+    },
+    "sha256": "a18c17b756b3027e4db4a7139cc4fac2cb55b79e67e70dea7ddd52b3468df45c",
+    "simhash": "1:793f36442a06d3a4",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "REPUBLICAN PARTY OF NEVADA, petitioner,\nv.\nRoss MILLER, Nevada Secretary of State, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "REPUBLICAN PARTY OF NEVADA, petitioner,\nv.\nRoss MILLER, Nevada Secretary of State, et al.\nNo. 13-442.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 722 F.3d 1128.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0907-01",
+  "first_page_order": 907,
+  "last_page_order": 907
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12586186,
+  "name": "Thomas L. SWITZER, petitioner, v. Judith WEAVER.",
+  "name_abbreviation": "Switzer v. Weaver",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137172.",
+  "first_page": "929",
+  "last_page": "929",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 929"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 801"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "521 Fed.Appx. 208",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 245,
+    "sha256": "edbb16bb3e5aa4470e19ab9c2884ec9c803fb7bfe2c95751bf9747430b0c3a3a",
+    "simhash": "1:4b7ff644b181c681",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas L. SWITZER, petitioner,\nv.\nJudith WEAVER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas L. SWITZER, petitioner,\nv.\nJudith WEAVER.\nNo. 13-7172.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 521 Fed.Appx. 208.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0929-05",
+  "first_page_order": 929,
+  "last_page_order": 929
+}

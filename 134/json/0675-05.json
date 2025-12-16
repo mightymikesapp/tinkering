@@ -1,0 +1,103 @@
+{
+  "id": 12585084,
+  "name": "Gregory P. NESSELRODE, petitioner, v. MONTANA.",
+  "name_abbreviation": "Nesselrode v. Montana",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 12\u201310146.",
+  "first_page": "675",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 675"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 463"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 85",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702532,
+        12702539,
+        12702540,
+        12585933,
+        12585934,
+        12585935,
+        12585936,
+        12585937,
+        12585938,
+        12702520,
+        12702521,
+        12702522
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0840-07",
+        "/us/571/0840-08",
+        "/us/571/0840-09",
+        "/s-ct/134/0085-01",
+        "/s-ct/134/0085-02",
+        "/s-ct/134/0085-03",
+        "/s-ct/134/0085-04",
+        "/s-ct/134/0085-05",
+        "/s-ct/134/0085-06",
+        "/us/571/0839-02",
+        "/us/571/0839-03",
+        "/us/571/0839-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 173,
+    "sha256": "1f6c45d97aa855d50a164ae5e75d06c78fae45610d1e9db62546873097e711c1",
+    "simhash": "1:10ed10c4918cf18e",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory P. NESSELRODE, petitioner,\nv.\nMONTANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory P. NESSELRODE, petitioner,\nv.\nMONTANA.\nNo. 12-10146.\nSupreme Court of the United States\nNov. 18, 2013.\nFormer decision, 134 S.Ct. 85\nPetition for rehearing denied."
+  },
+  "file_name": "0675-05",
+  "first_page_order": 675,
+  "last_page_order": 675
+}

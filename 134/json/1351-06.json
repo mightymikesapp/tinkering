@@ -1,0 +1,73 @@
+{
+  "id": 12578909,
+  "name": "Larry Alan DAILY, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Daily v. Florida",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138289.",
+  "first_page": "1351",
+  "last_page": "1351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1351"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 353"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "119 So.3d 1250",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 234,
+    "sha256": "b5fdf63a90cad78cb27973b768b32e71b5b885c53cafa5cdf11411f3140e7c38",
+    "simhash": "1:70e7071678954105",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry Alan DAILY, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Larry Alan DAILY, petitioner,\nv.\nFLORIDA.\nNo. 13-8289.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 119 So.3d 1250.\nPetition for writ of certiorari to the District Court of Appeal of Florida, First District, denied."
+  },
+  "file_name": "1351-06",
+  "first_page_order": 1351,
+  "last_page_order": 1351
+}

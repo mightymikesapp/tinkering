@@ -1,0 +1,75 @@
+{
+  "id": 12578135,
+  "name": "Eric Lamont JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137877.",
+  "first_page": "1041",
+  "last_page": "1041",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1041"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 132"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "529 Fed.Appx. 876",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "919bd8b244b0152e32ca87f099bded32bfa3e77db4cadfc84ca819c8ff84cffd",
+    "simhash": "1:99afe6463b0496dd",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric Lamont JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric Lamont JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-7877.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 529 Fed.Appx. 876.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1041-01",
+  "first_page_order": 1041,
+  "last_page_order": 1041
+}

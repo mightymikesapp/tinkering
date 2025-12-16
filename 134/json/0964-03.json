@@ -1,0 +1,85 @@
+{
+  "id": 12586418,
+  "name": "Maurice JONES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jones v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137560.",
+  "first_page": "964",
+  "last_page": "964",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 964"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 823"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "728 F.3d 763",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3697293
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/728/0763-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26350532405557237
+    },
+    "sha256": "21ee8acbc46c69e9c19676e89bd027c82ffa8137bc3ca76fb78e1fff74cfda28",
+    "simhash": "1:ea6f664466841691",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maurice JONES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Maurice JONES, petitioner,\nv.\nUNITED STATES.\nNo. 13-7560.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 728 F.3d 763.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0964-03",
+  "first_page_order": 964,
+  "last_page_order": 964
+}

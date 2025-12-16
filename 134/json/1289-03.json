@@ -1,0 +1,75 @@
+{
+  "id": 12578488,
+  "name": "Quincey Gerald KEELER, petitioner, v. ARAMARK.",
+  "name_abbreviation": "Keeler v. Aramark",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137630.",
+  "first_page": "1289",
+  "last_page": "1289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1289"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 317"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "536 Fed.Appx. 771",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 242,
+    "sha256": "85c483a162cbd4e6bdd0b5c90e78f748151e4dd40991a8bef2339326dad1dbe1",
+    "simhash": "1:ea6df4c62f45032f",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Quincey Gerald KEELER, petitioner,\nv.\nARAMARK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Quincey Gerald KEELER, petitioner,\nv.\nARAMARK.\nNo. 13-7630.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 536 Fed.Appx. 771.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1289-03",
+  "first_page_order": 1289,
+  "last_page_order": 1289
+}

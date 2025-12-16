@@ -1,0 +1,103 @@
+{
+  "id": 12579040,
+  "name": "Darnell WILSON, petitioner, v. MISSISSIPPI.",
+  "name_abbreviation": "Wilson v. Mississippi",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136982.",
+  "first_page": "1370",
+  "last_page": "1370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1370"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 367"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 798",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699917,
+        12585616,
+        12585617,
+        12585618,
+        12585619,
+        12585620,
+        12585621,
+        12699984,
+        12699985,
+        12699986,
+        12699987,
+        12699996
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1095-10",
+        "/s-ct/134/0798-01",
+        "/s-ct/134/0798-02",
+        "/s-ct/134/0798-03",
+        "/s-ct/134/0798-04",
+        "/s-ct/134/0798-05",
+        "/s-ct/134/0798-06",
+        "/us/571/1100-03",
+        "/us/571/1100-04",
+        "/us/571/1100-05",
+        "/us/571/1100-06",
+        "/us/571/1101-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 171,
+    "sha256": "e1213244c126daf173ac7cfbed309957f26e35e40f179bc6c0da8b84f1f653f8",
+    "simhash": "1:613c74ca1cd6e57b",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darnell WILSON, petitioner,\nv.\nMISSISSIPPI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darnell WILSON, petitioner,\nv.\nMISSISSIPPI.\nNo. 13-6982.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 798.\nPetition for rehearing denied."
+  },
+  "file_name": "1370-08",
+  "first_page_order": 1370,
+  "last_page_order": 1370
+}

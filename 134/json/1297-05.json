@@ -1,0 +1,75 @@
+{
+  "id": 12578543,
+  "name": "Jose Manuel LOPEZ, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Lopez v. California",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137758.",
+  "first_page": "1297",
+  "last_page": "1297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1297"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 322"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 2608698",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 260,
+    "sha256": "d6cd1f67a1c49b97c07ee469495dc705246ee08c39e43ae77ba615df2715a4d3",
+    "simhash": "1:7964c4d69dc54115",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Manuel LOPEZ, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division Three, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Manuel LOPEZ, petitioner,\nv.\nCALIFORNIA.\nNo. 13-7758.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 2013 WL 2608698.\nPetition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division Three, denied."
+  },
+  "file_name": "1297-05",
+  "first_page_order": 1297,
+  "last_page_order": 1297
+}

@@ -1,0 +1,86 @@
+{
+  "id": 12580796,
+  "name": "Phillip D. KLINE, petitioner, v. KANSAS DISCIPLINARY ADMINISTRATOR.",
+  "name_abbreviation": "Kline v. Adm'r",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20131104.",
+  "first_page": "1950",
+  "last_page": "1950",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1950"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 976"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "298 Kan. 96",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        12416649
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/298/0096-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 460,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633143862827524
+    },
+    "sha256": "ab10cd5a9ef89505bc08c4be9153d3dd564662f6832d7a88a8555d717d03e31e",
+    "simhash": "1:d2645436dbd9a919",
+    "word_count": 77
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Phillip D. KLINE, petitioner,\nv.\nKANSAS DISCIPLINARY ADMINISTRATOR."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Eagle Forum Education & Legal Defense Fund, Inc., et al. for leave to file a brief as amici curiae granted. Motion of National Lawyers' Association, et al. for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the Supreme Court of Kansas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Phillip D. KLINE, petitioner,\nv.\nKANSAS DISCIPLINARY ADMINISTRATOR.\nNo. 13-1104.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 298 Kan. 96, 311 P.3d 321.\nMotion of Eagle Forum Education & Legal Defense Fund, Inc., et al. for leave to file a brief as amici curiae granted. Motion of National Lawyers' Association, et al. for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the Supreme Court of Kansas denied."
+  },
+  "file_name": "1950-02",
+  "first_page_order": 1950,
+  "last_page_order": 1950
+}

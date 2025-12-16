@@ -1,0 +1,75 @@
+{
+  "id": 12584455,
+  "name": "William ALLGOOD and Kimberly Nolet, petitioners, v. Bill WANSLEY, et al.",
+  "name_abbreviation": "Allgood v. Wansley",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u2013286.",
+  "first_page": "525",
+  "last_page": "525",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 525"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 367"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Fed.Appx. 963",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 266,
+    "sha256": "76d6c62215a9359a9121252397902b07cd67cd254e6850cedbb1c931d4b14ff6",
+    "simhash": "1:063fd60c3ac982a3",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William ALLGOOD and Kimberly Nolet, petitioners,\nv.\nBill WANSLEY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William ALLGOOD and Kimberly Nolet, petitioners,\nv.\nBill WANSLEY, et al.\nNo. 13-286.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 524 Fed.Appx. 963.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0525-04",
+  "first_page_order": 525,
+  "last_page_order": 525
+}

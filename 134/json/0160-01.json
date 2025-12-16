@@ -1,0 +1,85 @@
+{
+  "id": 12579779,
+  "name": "Abdul KADIR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Kadir v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310716.",
+  "first_page": "160",
+  "last_page": "160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 160"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 112"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 115",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4050642
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0115-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 234,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26327770460748867
+    },
+    "sha256": "050c9bbf49d611abd229f55daa875038bbe7a0e736f60ea2fb1f1a075caf48d0",
+    "simhash": "1:f3edf64c7be7862d",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Abdul KADIR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Abdul KADIR, petitioner,\nv.\nUNITED STATES.\nNo. 12-10716.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 718 F.3d 115.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0160-01",
+  "first_page_order": 160,
+  "last_page_order": 160
+}

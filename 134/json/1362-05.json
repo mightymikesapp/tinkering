@@ -1,0 +1,95 @@
+{
+  "id": 12578982,
+  "name": "Daniel David DYDZAK, petitioner, v. UNITED STATES DISTRICT COURT FOR the CENTRAL DISTRICT OF CALIFORNIA.",
+  "name_abbreviation": "Dydzak v. U.S. Dist. Court for the Cent. Dist. of Cal.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137046.",
+  "first_page": "1362",
+  "last_page": "1362",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1362"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 294"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 988",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700769,
+        12700260,
+        12700261,
+        12586568,
+        12586569,
+        12586570,
+        12586571,
+        12700665
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1157-01",
+        "/us/571/1120-06",
+        "/us/571/1120-07",
+        "/s-ct/134/0988-01",
+        "/s-ct/134/0988-02",
+        "/s-ct/134/0988-03",
+        "/s-ct/134/0988-04",
+        "/us/571/1149-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 302,
+    "sha256": "4b0a4bdcbdcef8b613f2cc7e79ef96073bb5f1bf19e0b91f8660e1030c7d4e0d",
+    "simhash": "1:32bc36425124e51b",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel David DYDZAK, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the CENTRAL DISTRICT OF CALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel David DYDZAK, petitioner,\nv.\nUNITED STATES DISTRICT COURT FOR the CENTRAL DISTRICT OF CALIFORNIA.\nNo. 13-7046.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 988.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "1362-05",
+  "first_page_order": 1362,
+  "last_page_order": 1362
+}

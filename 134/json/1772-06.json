@@ -1,0 +1,75 @@
+{
+  "id": 12579973,
+  "name": "Keith R. KULL, petitioner, v. KUTZTOWN UNIVERSITY OF PENNSYLVANIA.",
+  "name_abbreviation": "Kull v. Kutztown Univ. of Pa.",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20131026.",
+  "first_page": "1772",
+  "last_page": "1772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1772"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 596"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "543 Fed.Appx. 244",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 263,
+    "sha256": "e82e306ee5ee6303e09684122b4ebce6681c9f57cf9e14dcc92fa864d58e6ac5",
+    "simhash": "1:d22652463d849729",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keith R. KULL, petitioner,\nv.\nKUTZTOWN UNIVERSITY OF PENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Keith R. KULL, petitioner,\nv.\nKUTZTOWN UNIVERSITY OF PENNSYLVANIA.\nNo. 13-1026.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 543 Fed.Appx. 244.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1772-06",
+  "first_page_order": 1772,
+  "last_page_order": 1772
+}

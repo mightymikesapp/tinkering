@@ -1,0 +1,75 @@
+{
+  "id": 12581976,
+  "name": "Juan Francisco NORIEGA-ALANIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Noriega-Alanis v. United States",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20139872.",
+  "first_page": "2685",
+  "last_page": "2685",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2685"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 226"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3686"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "550 Fed.Appx. 233",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 255,
+    "sha256": "a621770c3b8dc4dc1bc071d758f58bb52faaaf082bd4d5bd7329d4ac354e3e85",
+    "simhash": "1:d4ef42063e24d45d",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan Francisco NORIEGA-ALANIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan Francisco NORIEGA-ALANIS, petitioner,\nv.\nUNITED STATES.\nNo. 13-9872.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 550 Fed.Appx. 233.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "2685-05",
+  "first_page_order": 2685,
+  "last_page_order": 2685
+}

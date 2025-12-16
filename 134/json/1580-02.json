@@ -1,0 +1,103 @@
+{
+  "id": 12579750,
+  "name": "David C. KEETER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Keeter v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20137803.",
+  "first_page": "1580",
+  "last_page": "1580",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1580"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 587"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1013",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12577952,
+        12577953,
+        12577954,
+        12700960,
+        12700959,
+        12700961,
+        12700947,
+        12700948,
+        12700892,
+        12577949,
+        12577950,
+        12577951
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1013-04",
+        "/s-ct/134/1013-05",
+        "/s-ct/134/1013-06",
+        "/us/571/1168-15",
+        "/us/571/1168-14",
+        "/us/571/1168-16",
+        "/us/571/1168-01",
+        "/us/571/1168-02",
+        "/us/571/1164-05",
+        "/s-ct/134/1013-01",
+        "/s-ct/134/1013-02",
+        "/s-ct/134/1013-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 176,
+    "sha256": "35692aac36a24eef4d09a37506d55c6f6d082068415a44b6e2fdf447bfe08323",
+    "simhash": "1:20bd364605aec20a",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David C. KEETER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "David C. KEETER, petitioner,\nv.\nUNITED STATES.\nNo. 13-7803.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 1013.\nPetition for rehearing denied."
+  },
+  "file_name": "1580-02",
+  "first_page_order": 1580,
+  "last_page_order": 1580
+}

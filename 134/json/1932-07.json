@@ -1,0 +1,103 @@
+{
+  "id": 12580682,
+  "name": "Ronald L. WHITWORTH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Whitworth v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138624.",
+  "first_page": "1932",
+  "last_page": "1932",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1932"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 954"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1532",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12579425,
+        12579426,
+        12579427,
+        12579428,
+        12579429,
+        12579430,
+        12704941,
+        12704942,
+        12704943,
+        12704944,
+        12704945,
+        12704946
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1532-01",
+        "/s-ct/134/1532-02",
+        "/s-ct/134/1532-03",
+        "/s-ct/134/1532-04",
+        "/s-ct/134/1532-05",
+        "/s-ct/134/1532-06",
+        "/us/572/1009-02",
+        "/us/572/1009-03",
+        "/us/572/1009-04",
+        "/us/572/1009-05",
+        "/us/572/1009-06",
+        "/us/572/1009-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 180,
+    "sha256": "a7ec2a3705f8ecd50569113d6bad45b101160c0e15bbf4f1daea3d2c3e22afe3",
+    "simhash": "1:f75f344707875e58",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald L. WHITWORTH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ronald L. WHITWORTH, petitioner,\nv.\nUNITED STATES.\nNo. 13-8624.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1532.\nPetition for rehearing denied."
+  },
+  "file_name": "1932-07",
+  "first_page_order": 1932,
+  "last_page_order": 1932
+}

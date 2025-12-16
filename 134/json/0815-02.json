@@ -1,0 +1,107 @@
+{
+  "id": 12585731,
+  "name": "Tommie H. TELFAIR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Telfair v. United States",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 12\u201310747.",
+  "first_page": "815",
+  "last_page": "815",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 815"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 615"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 167",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704057,
+        12579825,
+        12579826,
+        12579827,
+        12579828,
+        12579829,
+        12579830,
+        12579831,
+        12702163,
+        12702932,
+        12702933,
+        12702934,
+        12702935,
+        12702936
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0943-05",
+        "/s-ct/134/0167-01",
+        "/s-ct/134/0167-02",
+        "/s-ct/134/0167-03",
+        "/s-ct/134/0167-04",
+        "/s-ct/134/0167-05",
+        "/s-ct/134/0167-06",
+        "/s-ct/134/0167-07",
+        "/us/571/0813-22",
+        "/us/571/0866-10",
+        "/us/571/0866-11",
+        "/us/571/0866-12",
+        "/us/571/0866-13",
+        "/us/571/0866-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 175,
+    "sha256": "799a78f87db03e00f0b53cce444ced41ad57d064db47e15f84f5c6a28e32172b",
+    "simhash": "1:f3fe06079507673c",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tommie H. TELFAIR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tommie H. TELFAIR, petitioner,\nv.\nUNITED STATES.\nNo. 12-10747.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 167\nPetition for rehearing denied."
+  },
+  "file_name": "0815-02",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

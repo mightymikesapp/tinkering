@@ -1,0 +1,75 @@
+{
+  "id": 12583841,
+  "name": "Allen Charles BERGERUD, petitioner, v. COLORADO.",
+  "name_abbreviation": "Bergerud v. Colorado",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135615.",
+  "first_page": "426",
+  "last_page": "426",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 426"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 288"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 3550784",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 218,
+    "sha256": "c4b7632d84a8129e8ea23fe26eb526cceccb3fa188b3d1ec5da889453a7ae388",
+    "simhash": "1:c9fc7aceb08581f9",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen Charles BERGERUD, petitioner,\nv.\nCOLORADO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Colorado denied."
+    ],
+    "corrections": "",
+    "head_matter": "Allen Charles BERGERUD, petitioner,\nv.\nCOLORADO.\nNo. 13-5615.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 2012 WL 3550784.\nPetition for writ of certiorari to the Court of Appeals of Colorado denied."
+  },
+  "file_name": "0426-03",
+  "first_page_order": 426,
+  "last_page_order": 426
+}

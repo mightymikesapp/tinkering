@@ -1,0 +1,93 @@
+{
+  "id": 12577921,
+  "name": "Carl George JAEGEL, et ux., petitioners, v. SKAGIT COUNTY, WASHINGTON.",
+  "name_abbreviation": "Jaegel v. Skagit Cnty.",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u2013656.",
+  "first_page": "1009",
+  "last_page": "1009",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1009"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 851"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 993787",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "174 Wash.App. 1010",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4052218,
+        4051451,
+        4056988,
+        4052727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-app/174/1010-01",
+        "/wash-app/174/1010-03",
+        "/wash-app/174/1010-04",
+        "/wash-app/174/1010-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 273,
+    "sha256": "c3dd1b799a2f528746b4c191333ce2a00250cab14eb296d608b8e522dc7c7e0c",
+    "simhash": "1:706f3240d145a169",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carl George JAEGEL, et ux., petitioners,\nv.\nSKAGIT COUNTY, WASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carl George JAEGEL, et ux., petitioners,\nv.\nSKAGIT COUNTY, WASHINGTON.\nNo. 13-656.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 174 Wash.App. 1010, 2013 WL 993787.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+  },
+  "file_name": "1009-05",
+  "first_page_order": 1009,
+  "last_page_order": 1009
+}

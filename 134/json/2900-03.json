@@ -1,0 +1,98 @@
+{
+  "id": 12583026,
+  "name": "Randy KOPP, petitioner, v. Scott W. KLEIN, et al.",
+  "name_abbreviation": "Kopp v. Klein",
+  "decision_date": "2014-07-01",
+  "docket_number": "No. 13\u2013578.",
+  "first_page": "2900",
+  "last_page": "2900",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2900"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 853"
+    },
+    {
+      "type": "vendor",
+      "cite": "83 U.S.L.W. 3010"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 2459",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12581663
+      ],
+      "year": 2014,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/2459-01"
+      ]
+    },
+    {
+      "cite": "722 F.3d 327",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4062574
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/722/0327-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 502,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633960512755763
+    },
+    "sha256": "76102faa20d8bf8ca2a7f6fa5f177fdf6ca144e30fe518ff780b9fd36fc1ac0c",
+    "simhash": "1:4e67f2044800029d",
+    "word_count": 82
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randy KOPP, petitioner,\nv.\nScott W. KLEIN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Fifth Third Bancorp v. Dudenhoeffer, 573 U.S. ----, 134 S.Ct. 2459, --- L.Ed.2d ---- (2014)."
+    ],
+    "corrections": "",
+    "head_matter": "Randy KOPP, petitioner,\nv.\nScott W. KLEIN, et al.\nNo. 13-578.\nSupreme Court of the United States\nJuly 1, 2014.\nCase below, 722 F.3d 327.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Fifth Third Bancorp v. Dudenhoeffer, 573 U.S. ----, 134 S.Ct. 2459, --- L.Ed.2d ---- (2014)."
+  },
+  "file_name": "2900-03",
+  "first_page_order": 2900,
+  "last_page_order": 2900
+}

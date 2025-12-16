@@ -1,0 +1,85 @@
+{
+  "id": 12581140,
+  "name": "Mark A. BROOKS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brooks v. United States",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20139606.",
+  "first_page": "2157",
+  "last_page": "2157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2157"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1141"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "736 F.3d 921",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3727523
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/736/0921-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 234,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633282867070628
+    },
+    "sha256": "2e2a63935ba02c0a8f9d902c49f1cd6345bcfb807181ee84f1b2eb6d61d570ac",
+    "simhash": "1:b14c744431064691",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark A. BROOKS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark A. BROOKS, petitioner,\nv.\nUNITED STATES.\nNo. 13-9606.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 736 F.3d 921.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "2157-03",
+  "first_page_order": 2157,
+  "last_page_order": 2157
+}

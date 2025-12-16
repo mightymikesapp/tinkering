@@ -1,0 +1,103 @@
+{
+  "id": 12582209,
+  "name": "In re Rosario A. FIORANI, petitioner.",
+  "name_abbreviation": "In re Fiorani",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20139410.",
+  "first_page": "2719",
+  "last_page": "2719",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2719"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 738"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1954",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706085,
+        12706086,
+        12706087,
+        12706097,
+        12706098,
+        12580819,
+        12580820,
+        12580821,
+        12580822,
+        12580823,
+        12580824,
+        12705982
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1094-01",
+        "/us/572/1094-02",
+        "/us/572/1094-03",
+        "/us/572/1094-14",
+        "/us/572/1094-15",
+        "/s-ct/134/1954-01",
+        "/s-ct/134/1954-02",
+        "/s-ct/134/1954-03",
+        "/s-ct/134/1954-04",
+        "/s-ct/134/1954-05",
+        "/s-ct/134/1954-06",
+        "/us/572/1086-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 235,
+    "sha256": "b32704aa689e3e798877f455580ceaf1ca3130edaef0655747a3a8d2ccaeaea8",
+    "simhash": "1:e0a936464397f76b",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Rosario A. FIORANI, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Rosario A. FIORANI, petitioner.\nNo. 13-9410.\nSupreme Court of the United States\nJune 2, 2014.\nFormer decision, 134 S.Ct. 1954.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "2719-03",
+  "first_page_order": 2719,
+  "last_page_order": 2719
+}

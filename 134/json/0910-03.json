@@ -1,0 +1,83 @@
+{
+  "id": 12586067,
+  "name": "Paul MAJORSKY, et ux., petitioners, v. George A. DOUGLAS, et al.",
+  "name_abbreviation": "Majorsky v. Douglas",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013490.",
+  "first_page": "910",
+  "last_page": "910",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 910"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 780"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "58 A.3d 1250",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7312069
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/58/1250-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 252,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26349644322892957
+    },
+    "sha256": "60c92648125d0af00971a099554648dffccd09367d65fcf79c768374d6994c3f",
+    "simhash": "1:e82755bc7289c390",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul MAJORSKY, et ux., petitioners,\nv.\nGeorge A. DOUGLAS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Paul MAJORSKY, et ux., petitioners,\nv.\nGeorge A. DOUGLAS, et al.\nNo. 13-490.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 58 A.3d 1250.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Pittsburgh Office, denied."
+  },
+  "file_name": "0910-03",
+  "first_page_order": 910,
+  "last_page_order": 910
+}

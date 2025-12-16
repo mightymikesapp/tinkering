@@ -1,0 +1,75 @@
+{
+  "id": 12580889,
+  "name": "Luther Joe CYRUS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cyrus v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310926.",
+  "first_page": "198",
+  "last_page": "199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 198"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 134"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Fed.Appx. 365",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "sha256": "6062e50a39fa1b388364785be0c16fff29830a3eaf6a66e9d7f1e257204f8fcd",
+    "simhash": "1:03adc60c3bc58509",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luther Joe CYRUS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Luther Joe CYRUS, petitioner,\nv.\nUNITED STATES.\nNo. 12-10926.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 512 Fed.Appx. 365.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0198-05",
+  "first_page_order": 198,
+  "last_page_order": 199
+}

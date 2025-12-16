@@ -1,0 +1,75 @@
+{
+  "id": 12580083,
+  "name": "Peter R. NAJAWICZ, petitioner, v. VIRGIN ISLANDS.",
+  "name_abbreviation": "Najawicz v. Islands",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131468.",
+  "first_page": "178",
+  "last_page": "178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 178"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 43"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 1095416",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 225,
+    "sha256": "fe61f65f5875f7f9523405d499358c1a37d14b5fb1aeac13d854a434437351f8",
+    "simhash": "1:68ec244c5bb7023c",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peter R. NAJAWICZ, petitioner,\nv.\nVIRGIN ISLANDS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of the Virgin Islands denied."
+    ],
+    "corrections": "",
+    "head_matter": "Peter R. NAJAWICZ, petitioner,\nv.\nVIRGIN ISLANDS.\nNo. 12-1468.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2013 WL 1095416.\nPetition for writ of certiorari to the Supreme Court of the Virgin Islands denied."
+  },
+  "file_name": "0178-02",
+  "first_page_order": 178,
+  "last_page_order": 178
+}

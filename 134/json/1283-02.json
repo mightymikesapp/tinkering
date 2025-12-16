@@ -1,0 +1,85 @@
+{
+  "id": 12578452,
+  "name": "Tom BETLACH, Director, Arizona Health Care Cost Containment System, et al., petitioners, v. PLANNED PARENTHOOD ARIZONA, INC., et al.",
+  "name_abbreviation": "Betlach v. Planned Parenthood Ariz., Inc.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013621.",
+  "first_page": "1283",
+  "last_page": "1283",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1283"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 300"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "727 F.3d 960",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4077051
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/727/0960-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 322,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632387061948399
+    },
+    "sha256": "71d50e5a2eba155527b3a0a138974e81fab646c1b1e579641fad54bd3df523f1",
+    "simhash": "1:d93ed240bf84548f",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tom BETLACH, Director, Arizona Health Care Cost Containment System, et al., petitioners,\nv.\nPLANNED PARENTHOOD ARIZONA, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tom BETLACH, Director, Arizona Health Care Cost Containment System, et al., petitioners,\nv.\nPLANNED PARENTHOOD ARIZONA, INC., et al.\nNo. 13-621.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 727 F.3d 960.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1283-02",
+  "first_page_order": 1283,
+  "last_page_order": 1283
+}

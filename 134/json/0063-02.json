@@ -1,0 +1,85 @@
+{
+  "id": 12584843,
+  "name": "John MOLLAGHAN, et al., petitioners, v. Sonya VARNELL, Individually and Officially, Estate of Dr. Horace Fleming, Deceased, et al.",
+  "name_abbreviation": "Mollaghan v. Varnell",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131238.",
+  "first_page": "63",
+  "last_page": "63",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 63"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 27"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "105 So.3d 291",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7003701
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/105/0291-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 297,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634508807270231
+    },
+    "sha256": "922e650a2c08169f500ecbd4cfb5831ca76b92b4faa95051b34fb5ac9d8dc7ce",
+    "simhash": "1:7baff41c9ee31d8a",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John MOLLAGHAN, et al., petitioners,\nv.\nSonya VARNELL, Individually and Officially, Estate of Dr. Horace Fleming, Deceased, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "John MOLLAGHAN, et al., petitioners,\nv.\nSonya VARNELL, Individually and Officially, Estate of Dr. Horace Fleming, Deceased, et al.\nNo. 12-1238.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 105 So.3d 291.\nPetition for writ of certiorari to the Supreme Court of Mississippi denied."
+  },
+  "file_name": "0063-02",
+  "first_page_order": 63,
+  "last_page_order": 63
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12578359,
+  "name": "Kevin Dewayne JOHNSON, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Johnson v. California",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310490.",
+  "first_page": "121",
+  "last_page": "121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 121"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 86"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 6016462",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 248,
+    "sha256": "b88cde6e52092b76fc235f7b261523503a4645f0ba8e24e68360c851be6fbeb9",
+    "simhash": "1:7867e6d4fbe485f9",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin Dewayne JOHNSON, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin Dewayne JOHNSON, petitioner,\nv.\nCALIFORNIA.\nNo. 12-10490.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2012 WL 6016462.\nPetition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+  },
+  "file_name": "0121-07",
+  "first_page_order": 121,
+  "last_page_order": 121
+}

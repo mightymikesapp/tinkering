@@ -1,0 +1,85 @@
+{
+  "id": 12585794,
+  "name": "HORNBECK OFFSHORE SERVICES, LLC, et al., petitioners, v. Sally JEWELL, Secretary of the Interior, et al.",
+  "name_abbreviation": "Hornbeck Offshore Servs., LLC v. Jewell",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u201356.",
+  "first_page": "823",
+  "last_page": "823",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 823"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 685"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 787",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3560045
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0787-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 293,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26348003300578526
+    },
+    "sha256": "34f82ca29959cb139fe5fa614c89902b274bb2f0f9a958bcc12ed0690c3e2977",
+    "simhash": "1:bfbde60a2785d768",
+    "word_count": 49
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HORNBECK OFFSHORE SERVICES, LLC, et al., petitioners,\nv.\nSally JEWELL, Secretary of the Interior, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "HORNBECK OFFSHORE SERVICES, LLC, et al., petitioners,\nv.\nSally JEWELL, Secretary of the Interior, et al.\nNo. 13-56.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 713 F.3d 787.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0823-03",
+  "first_page_order": 823,
+  "last_page_order": 823
+}

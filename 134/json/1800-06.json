@@ -1,0 +1,75 @@
+{
+  "id": 12580160,
+  "name": "Rondrick Lamar GRAY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gray v. United States",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138996.",
+  "first_page": "1800",
+  "last_page": "1800",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1800"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 766"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "548 Fed.Appx. 163",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "d639740bd65aa8b5f7d610591687e9d2d450d30fb2c64789dadf9af817537762",
+    "simhash": "1:a7ac74462b25d61d",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rondrick Lamar GRAY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rondrick Lamar GRAY, petitioner,\nv.\nUNITED STATES.\nNo. 13-8996.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 548 Fed.Appx. 163.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1800-06",
+  "first_page_order": 1800,
+  "last_page_order": 1800
+}

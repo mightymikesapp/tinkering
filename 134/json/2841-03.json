@@ -1,0 +1,85 @@
+{
+  "id": 12582629,
+  "name": "J.B. VAN HOLLEN, Attorney General of Wisconsin et al., petitioners, v. PLANNED PARENTHOOD OF WISCONSIN, INC., et al.",
+  "name_abbreviation": "Van Hollen v. Planned Parenthood of Wis., Inc.",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20131127.",
+  "first_page": "2841",
+  "last_page": "2841",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2841"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 807"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "738 F.3d 786",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3695522
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/738/0786-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 309,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633798341138808
+    },
+    "sha256": "8b76f8f08456d4a4c2ac602b98cdd0556555d607747506ce78d8e259aa222fa1",
+    "simhash": "1:4aaf14069284b100",
+    "word_count": 51
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J.B. VAN HOLLEN, Attorney General of Wisconsin et al., petitioners,\nv.\nPLANNED PARENTHOOD OF WISCONSIN, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "J.B. VAN HOLLEN, Attorney General of Wisconsin et al., petitioners,\nv.\nPLANNED PARENTHOOD OF WISCONSIN, INC., et al.\nNo. 13-1127.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 738 F.3d 786.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "2841-03",
+  "first_page_order": 2841,
+  "last_page_order": 2841
+}

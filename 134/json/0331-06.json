@@ -1,0 +1,75 @@
+{
+  "id": 12583328,
+  "name": "Jose Refugio DOMINGUEZ-MEJIA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Dominguez-Mejia v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135732.",
+  "first_page": "331",
+  "last_page": "331",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 331"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 232"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "510 Fed.Appx. 605",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 254,
+    "sha256": "21dd786faafda6af003f87224f623fb04d743c5fedaa6942c2fe297c1ee16d44",
+    "simhash": "1:83ede6672b67069f",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Refugio DOMINGUEZ-MEJIA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Refugio DOMINGUEZ-MEJIA, petitioner,\nv.\nUNITED STATES.\nNo. 13-5732.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 510 Fed.Appx. 605.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0331-06",
+  "first_page_order": 331,
+  "last_page_order": 331
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12582339,
+  "name": "Nathaniel HOLMES, petitioner, v. TENDERLOIN HOUSING CLINIC, INC., et al.",
+  "name_abbreviation": "Holmes v. Tenderloin Hous. Clinic, Inc.",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20138980.",
+  "first_page": "2738",
+  "last_page": "2739",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2738"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 768"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "526 Fed.Appx. 749",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 267,
+    "sha256": "e2ec5e883251c135f387d84dddc3e4dc4d1da367e768f89d81c2147254c93d9c",
+    "simhash": "1:fbad76442e8756c9",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nathaniel HOLMES, petitioner,\nv.\nTENDERLOIN HOUSING CLINIC, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nathaniel HOLMES, petitioner,\nv.\nTENDERLOIN HOUSING CLINIC, INC., et al.\nNo. 13-8980.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 526 Fed.Appx. 749.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2738-06",
+  "first_page_order": 2738,
+  "last_page_order": 2739
+}

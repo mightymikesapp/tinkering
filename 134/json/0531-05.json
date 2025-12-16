@@ -1,0 +1,81 @@
+{
+  "id": 12584498,
+  "name": "Robert L. TATUM, petitioner, v. WISCONSIN.",
+  "name_abbreviation": "Tatum v. Wisconsin",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136404.",
+  "first_page": "531",
+  "last_page": "531",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 531"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 381"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "827 N.W.2d 928",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "346 Wis.2d 279",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 240,
+    "sha256": "de6c976a1ea2e033216b01ad47a0b83d320925678a2c70f2de2ebd076f3f9b8f",
+    "simhash": "1:406f47cc3b8ec2d8",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert L. TATUM, petitioner,\nv.\nWISCONSIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Wisconsin, District I, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert L. TATUM, petitioner,\nv.\nWISCONSIN.\nNo. 13-6404.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 346 Wis.2d 279, 827 N.W.2d 928.\nPetition for writ of certiorari to the Court of Appeals of Wisconsin, District I, denied."
+  },
+  "file_name": "0531-05",
+  "first_page_order": 531,
+  "last_page_order": 531
+}

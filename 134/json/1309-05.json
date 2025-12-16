@@ -1,0 +1,85 @@
+{
+  "id": 12578620,
+  "name": "MAERSK LINE LIMITED, petitioner, v. John PADILLA.",
+  "name_abbreviation": "Maersk Line Ltd. v. Padilla",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013738.",
+  "first_page": "1309",
+  "last_page": "1309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1309"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 304"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 77",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5756286
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/721/0077-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 239,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632435327310588
+    },
+    "sha256": "2d27fd9e263815be0755c4965a48fdf40e5a47ae368fba98cf3da38159bbc959",
+    "simhash": "1:703f44c45b044d04",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MAERSK LINE LIMITED, petitioner,\nv.\nJohn PADILLA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "MAERSK LINE LIMITED, petitioner,\nv.\nJohn PADILLA.\nNo. 13-738.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 721 F.3d 77.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1309-05",
+  "first_page_order": 1309,
+  "last_page_order": 1309
+}

@@ -1,0 +1,97 @@
+{
+  "id": 12582618,
+  "name": "Michael D. VICKS, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Vicks v. California",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135405.",
+  "first_page": "283",
+  "last_page": "283",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 283"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 205"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "295 P.3d 863",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "153 Cal.Rptr.3d 471",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "56 Cal.4th 274",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        4224878
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/56/0274-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 246,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26337906186808574
+    },
+    "sha256": "23f55870fa420f0ffc779e359af050f7fc35e08c30f1bc2cd9659d98cd2bb1dd",
+    "simhash": "1:4067d7167af7c317",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael D. VICKS, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael D. VICKS, petitioner,\nv.\nCALIFORNIA.\nNo. 13-5405.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 56 Cal.4th 274, 153 Cal.Rptr.3d 471, 295 P.3d 863.\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "0283-03",
+  "first_page_order": 283,
+  "last_page_order": 283
+}

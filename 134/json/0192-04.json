@@ -1,0 +1,85 @@
+{
+  "id": 12580657,
+  "name": "Shonda JOHNSON, petitioner, v. ALABAMA.",
+  "name_abbreviation": "Johnson v. Alabama",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310897.",
+  "first_page": "192",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 192"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 131"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "120 So.3d 1130",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7013393
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/120/1130-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 216,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633068568862509
+    },
+    "sha256": "6884ae2879c1ea152d823adc57629c1ea7b2a6f1ebc0b90c1a0964d64ac1387a",
+    "simhash": "1:796f365c73f784b1",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shonda JOHNSON, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shonda JOHNSON, petitioner,\nv.\nALABAMA.\nNo. 12-10897.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 120 So.3d 1130.\nPetition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+  },
+  "file_name": "0192-04",
+  "first_page_order": 192,
+  "last_page_order": 192
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12585808,
+  "name": "CEPHALON, INC., petitioner, v. APOTEX, INC.",
+  "name_abbreviation": "Cephalon, Inc. v. Apotex, Inc.",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u2013441.",
+  "first_page": "825",
+  "last_page": "825",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 825"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 686"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "500 Fed.Appx. 959",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 240,
+    "sha256": "c4bb24c7508d817e77f24cab231724870160870476038bd213931a4eb1260e0e",
+    "simhash": "1:41adf6883faf038b",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CEPHALON, INC., petitioner,\nv.\nAPOTEX, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "CEPHALON, INC., petitioner,\nv.\nAPOTEX, INC.\nNo. 13-441.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 500 Fed.Appx. 959.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0825-05",
+  "first_page_order": 825,
+  "last_page_order": 825
+}

@@ -1,0 +1,101 @@
+{
+  "id": 12581557,
+  "name": "MOBILITY MEDICAL, INC., et al., petitioners, v. MISSISSIPPI DEPARTMENT OF REVENUE.",
+  "name_abbreviation": "Mobility Med., Inc. v. Miss. Dep't of Revenue",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u2013651.",
+  "first_page": "2330",
+  "last_page": "2330",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2330"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 202"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1541",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12579476,
+        12579477,
+        12579478,
+        12579479,
+        12579480,
+        12579481,
+        12705014,
+        12705015,
+        12705053,
+        12705054,
+        12705055
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1541-01",
+        "/s-ct/134/1541-02",
+        "/s-ct/134/1541-03",
+        "/s-ct/134/1541-04",
+        "/s-ct/134/1541-05",
+        "/s-ct/134/1541-06",
+        "/us/572/1015-10",
+        "/us/572/1015-11",
+        "/us/572/1018-10",
+        "/us/572/1018-11",
+        "/us/572/1018-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 209,
+    "sha256": "c16dc31bf1f3b8559f9183b29a79a9d7c6eea6876a3e3a7bbcfb3eb534361e4e",
+    "simhash": "1:493f3e0696907dba",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MOBILITY MEDICAL, INC., et al., petitioners,\nv.\nMISSISSIPPI DEPARTMENT OF REVENUE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "MOBILITY MEDICAL, INC., et al., petitioners,\nv.\nMISSISSIPPI DEPARTMENT OF REVENUE.\nNo. 13-651.\nSupreme Court of the United States\nMay 19, 2014.\nFormer decision, 134 S.Ct. 1541.\nPetition for rehearing denied."
+  },
+  "file_name": "2330-01",
+  "first_page_order": 2330,
+  "last_page_order": 2330
+}

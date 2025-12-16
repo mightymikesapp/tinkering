@@ -1,0 +1,85 @@
+{
+  "id": 12578384,
+  "name": "Thomas BAUER, petitioner, v. 7-ELEVEN, INC., et al.",
+  "name_abbreviation": "Bauer v. 7-Eleven, Inc.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131405.",
+  "first_page": "125",
+  "last_page": "125",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 125"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 37"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "391 S.W.3d 25",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7093968
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/391/0025-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263232335167031
+    },
+    "sha256": "6fde75bcc5b99397146ac20074d788ca7e55c534d752f99ef897112eec6e9739",
+    "simhash": "1:65efde2da3c407bb",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas BAUER, petitioner,\nv.\n7-ELEVEN, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Missouri, Eastern District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas BAUER, petitioner,\nv.\n7-ELEVEN, INC., et al.\nNo. 12-1405.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 391 S.W.3d 25.\nPetition for writ of certiorari to the Court of Appeals of Missouri, Eastern District denied."
+  },
+  "file_name": "0125-04",
+  "first_page_order": 125,
+  "last_page_order": 125
+}

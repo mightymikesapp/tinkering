@@ -1,0 +1,85 @@
+{
+  "id": 12584977,
+  "name": "Corvet T. WILLIAMS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Williams v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131270.",
+  "first_page": "65",
+  "last_page": "65",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 65"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 28"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "698 F.3d 374",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3627930
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/698/0374-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634547419559982
+    },
+    "sha256": "3a5c1ed8819708b707da63e5ab27cd3728406df49dbb25d22afae32baabe08f7",
+    "simhash": "1:812c640d136f8694",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Corvet T. WILLIAMS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Corvet T. WILLIAMS, petitioner,\nv.\nUNITED STATES.\nNo. 12-1270.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 698 F.3d 374.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0065-01",
+  "first_page_order": 65,
+  "last_page_order": 65
+}

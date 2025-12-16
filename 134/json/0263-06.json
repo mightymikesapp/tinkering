@@ -1,0 +1,75 @@
+{
+  "id": 12581796,
+  "name": "William WILSON, petitioner, v. Mitchell R. MORRISSEY, et al.",
+  "name_abbreviation": "Wilson v. Morrissey",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135288.",
+  "first_page": "263",
+  "last_page": "263",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 263"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 193"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "527 Fed.Appx. 742",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 255,
+    "sha256": "45db905dfa826a01d5fc70450a43f84085f27cb5e976c1d86a1762496429c582",
+    "simhash": "1:a16fe64c3ac116a9",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William WILSON, petitioner,\nv.\nMitchell R. MORRISSEY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William WILSON, petitioner,\nv.\nMitchell R. MORRISSEY, et al.\nNo. 13-5288.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 527 Fed.Appx. 742.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0263-06",
+  "first_page_order": 263,
+  "last_page_order": 263
+}

@@ -1,0 +1,107 @@
+{
+  "id": 12580662,
+  "name": "Curtis T. TOMPKINS, petitioner, v. Dorothy ROGERS, et al.",
+  "name_abbreviation": "Tompkins v. Rogers",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137581.",
+  "first_page": "1930",
+  "last_page": "1930",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1930"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 952"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1286",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578468,
+        12578469,
+        12578470,
+        12578471,
+        12578472,
+        12578473,
+        3824491,
+        12701425,
+        12701426,
+        12701331,
+        12701427,
+        12701428,
+        12701330,
+        12701437
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1286-01",
+        "/s-ct/134/1286-02",
+        "/s-ct/134/1286-03",
+        "/s-ct/134/1286-04",
+        "/s-ct/134/1286-05",
+        "/s-ct/134/1286-06",
+        "/br/506/1286-01",
+        "/us/571/1206-03",
+        "/us/571/1206-04",
+        "/us/571/1198-12",
+        "/us/571/1206-05",
+        "/us/571/1206-06",
+        "/us/571/1198-11",
+        "/us/571/1207-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 187,
+    "sha256": "53d382bc4ea734c16d1d9958854f017dc9c1c8b09ebbdc807bbaa6f77ff5396b",
+    "simhash": "1:e23f34ce9e095d8e",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Curtis T. TOMPKINS, petitioner,\nv.\nDorothy ROGERS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Curtis T. TOMPKINS, petitioner,\nv.\nDorothy ROGERS, et al.\nNo. 13-7581.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1286.\nPetition for rehearing denied."
+  },
+  "file_name": "1930-03",
+  "first_page_order": 1930,
+  "last_page_order": 1930
+}

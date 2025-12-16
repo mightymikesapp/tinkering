@@ -1,0 +1,75 @@
+{
+  "id": 12579571,
+  "name": "William Morris RISBY, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Risby v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138442.",
+  "first_page": "1555",
+  "last_page": "1555",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1555"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 570"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "539 Fed.Appx. 336",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 255,
+    "sha256": "0ceee97390c251f2ebf5be01b26af9609c22f0cb6478d2a889c7bff22802e823",
+    "simhash": "1:202f96451e01019e",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Morris RISBY, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William Morris RISBY, petitioner,\nv.\nUNITED STATES, et al.\nNo. 13-8442.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 539 Fed.Appx. 336.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1555-03",
+  "first_page_order": 1555,
+  "last_page_order": 1555
+}

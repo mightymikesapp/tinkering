@@ -1,0 +1,73 @@
+{
+  "id": 12585625,
+  "name": "Quinton WASHINGTON, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Washington v. Florida",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20137040.",
+  "first_page": "799",
+  "last_page": "799",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 799"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 606"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "106 So.3d 941",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 235,
+    "sha256": "5a7ef35beacd978547fbdff4bf2103a1941835cc1a9b48d2c5d46e7d85b8ac6c",
+    "simhash": "1:e24f4664d06bc12f",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Quinton WASHINGTON, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Quinton WASHINGTON, petitioner,\nv.\nFLORIDA.\nNo. 13-7040.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 106 So.3d 941.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Second District, denied."
+  },
+  "file_name": "0799-04",
+  "first_page_order": 799,
+  "last_page_order": 799
+}

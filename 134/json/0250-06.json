@@ -1,0 +1,75 @@
+{
+  "id": 12581708,
+  "name": "Milaudi KARBOAU, petitioner, v. CITY OF PORTLAND, OREGON, et al.",
+  "name_abbreviation": "Karboau v. City of Portland",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135221.",
+  "first_page": "250",
+  "last_page": "250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 250"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 185"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "498 Fed.Appx. 747",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 259,
+    "sha256": "073ab16197f7ee02d31b0eb8e619dd7b415918b60747f4e803a281f65e870b61",
+    "simhash": "1:33ade64cb3cd96ad",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Milaudi KARBOAU, petitioner,\nv.\nCITY OF PORTLAND, OREGON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Milaudi KARBOAU, petitioner,\nv.\nCITY OF PORTLAND, OREGON, et al.\nNo. 13-5221.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 498 Fed.Appx. 747.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0250-06",
+  "first_page_order": 250,
+  "last_page_order": 250
+}

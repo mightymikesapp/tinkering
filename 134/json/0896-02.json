@@ -1,0 +1,85 @@
+{
+  "id": 12585974,
+  "name": "NAUTILUS, INC., petitioner, v. BIOSIG INSTRUMENTS, INC.",
+  "name_abbreviation": "Nautilus, Inc. v. Biosig Instruments, Inc.",
+  "decision_date": "2014-01-10",
+  "docket_number": "No. 13\u2013369.",
+  "first_page": "896",
+  "last_page": "896",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 896"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 702"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3403"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "715 F.3d 891",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6047888
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/715/0891-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 248,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634883346480818
+    },
+    "sha256": "9feb00a8569a1cd02e9e1692008ff9b246dd2301d699ace78a477c145cc5012c",
+    "simhash": "1:ba26c046bf870283",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NAUTILUS, INC., petitioner,\nv.\nBIOSIG INSTRUMENTS, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "NAUTILUS, INC., petitioner,\nv.\nBIOSIG INSTRUMENTS, INC.\nNo. 13-369.\nSupreme Court of the United States\nJan. 10, 2014.\nCase below, 715 F.3d 891.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit granted."
+  },
+  "file_name": "0896-02",
+  "first_page_order": 896,
+  "last_page_order": 896
+}

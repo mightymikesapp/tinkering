@@ -1,0 +1,103 @@
+{
+  "id": 12586612,
+  "name": "Roger Stewart HARRIS, petitioner, v. Michael D. CREWS, Secretary, Florida Department of Corrections, et al.",
+  "name_abbreviation": "Harris v. Crews",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20135910.",
+  "first_page": "993",
+  "last_page": "993",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 993"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 842"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 350",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12583456,
+        12703935,
+        12703936,
+        12704064,
+        12703947,
+        12703948,
+        12703949,
+        12583451,
+        12583452,
+        12583453,
+        12583454,
+        12583455
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0350-06",
+        "/us/571/0934-01",
+        "/us/571/0934-02",
+        "/us/571/0944-01",
+        "/us/571/0934-14",
+        "/us/571/0934-15",
+        "/us/571/0934-16",
+        "/s-ct/134/0350-01",
+        "/s-ct/134/0350-02",
+        "/s-ct/134/0350-03",
+        "/s-ct/134/0350-04",
+        "/s-ct/134/0350-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 235,
+    "sha256": "55f75011c6c6af8299c3a29044ce3067da80eae8aa227643cb236b7cc9aaf64a",
+    "simhash": "1:853b144e25d68000",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roger Stewart HARRIS, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roger Stewart HARRIS, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections, et al.\nNo. 13-5910.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 350.\nPetition for rehearing denied."
+  },
+  "file_name": "0993-04",
+  "first_page_order": 993,
+  "last_page_order": 993
+}

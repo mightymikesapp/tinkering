@@ -1,0 +1,75 @@
+{
+  "id": 12581590,
+  "name": "Gary Joseph MABE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Mabe v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135123.",
+  "first_page": "234",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 174"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "521 Fed.Appx. 620",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 242,
+    "sha256": "141fd333088420868d2917adaf514e917f0e3fef3c7c2259766b3919285d0c76",
+    "simhash": "1:c1ac64453307922b",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary Joseph MABE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gary Joseph MABE, petitioner,\nv.\nUNITED STATES.\nNo. 13-5123.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 521 Fed.Appx. 620.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0234-01",
+  "first_page_order": 234,
+  "last_page_order": 234
+}

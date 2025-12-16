@@ -1,0 +1,75 @@
+{
+  "id": 12585248,
+  "name": "Clarence D. SCHREANE, petitioner, v. F. SANTOES, et al.",
+  "name_abbreviation": "Schreane v. Santoes",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136704.",
+  "first_page": "700",
+  "last_page": "700",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 700"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 564"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "522 Fed.Appx. 845",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 253,
+    "sha256": "ff3f8b3ebca17b9f1f1a090284752945ee8b7924b60b5126db74db2272259a30",
+    "simhash": "1:b8adf6041a4440ae",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clarence D. SCHREANE, petitioner,\nv.\nF. SANTOES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Clarence D. SCHREANE, petitioner,\nv.\nF. SANTOES, et al.\nNo. 13-6704.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 522 Fed.Appx. 845.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0700-01",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

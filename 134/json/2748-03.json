@@ -1,0 +1,103 @@
+{
+  "id": 12582403,
+  "name": "Michael R. DELARM, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Delarm v. California",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20138806.",
+  "first_page": "2748",
+  "last_page": "2748",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2748"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 780"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1798",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12580137,
+        12580138,
+        12580139,
+        12580140,
+        12580141,
+        12580142,
+        12705513,
+        12705514,
+        12705457,
+        12705501,
+        12705502,
+        12705503
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1798-01",
+        "/s-ct/134/1798-02",
+        "/s-ct/134/1798-03",
+        "/s-ct/134/1798-04",
+        "/s-ct/134/1798-05",
+        "/s-ct/134/1798-06",
+        "/us/572/1050-14",
+        "/us/572/1050-15",
+        "/us/572/1047-01",
+        "/us/572/1050-01",
+        "/us/572/1050-02",
+        "/us/572/1050-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 173,
+    "sha256": "d4f72d238a6970e55423d7011174c44bd741991d0da19f740a1a699bbb827d55",
+    "simhash": "1:72273c041da46749",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael R. DELARM, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael R. DELARM, petitioner,\nv.\nCALIFORNIA.\nNo. 13-8806.\nSupreme Court of the United States\nJune 9, 2014.\nFormer decision, 134 S.Ct. 1798.\nPetition for rehearing denied."
+  },
+  "file_name": "2748-03",
+  "first_page_order": 2748,
+  "last_page_order": 2748
+}

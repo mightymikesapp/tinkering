@@ -1,0 +1,85 @@
+{
+  "id": 12580011,
+  "name": "Anthony M. LYONS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lyons v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138945.",
+  "first_page": "1779",
+  "last_page": "1779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1779"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 607"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "733 F.3d 777",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3713773
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/733/0777-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26328909523296534
+    },
+    "sha256": "03032f8da7b08c19628784ae40a8b3cc54ceab4420f6f1590fbdec3ce8118689",
+    "simhash": "1:c0ad644628a5c798",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony M. LYONS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony M. LYONS, petitioner,\nv.\nUNITED STATES.\nNo. 13-8945.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 733 F.3d 777.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1779-02",
+  "first_page_order": 1779,
+  "last_page_order": 1779
+}

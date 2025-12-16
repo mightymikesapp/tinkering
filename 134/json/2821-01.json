@@ -1,0 +1,91 @@
+{
+  "id": 12582494,
+  "name": "GARDA CL NORTHWEST, INC., petitioner, v. Lawrence HILL, et al.",
+  "name_abbreviation": "Garda CL Nw., Inc. v. Hill",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. 13\u20131091.",
+  "first_page": "2821",
+  "last_page": "2821",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2821"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 785"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3719"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "308 P.3d 635",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "179 Wash.2d 47",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4033661
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-2d/179/0047-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 244,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633755867620081
+    },
+    "sha256": "77f5609febefec29e8dc85a7688f86479d2975b763cce6ce459eaacc8ff5a9fa",
+    "simhash": "1:f82f165430e50399",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GARDA CL NORTHWEST, INC., petitioner,\nv.\nLawrence HILL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Washington denied."
+    ],
+    "corrections": "",
+    "head_matter": "GARDA CL NORTHWEST, INC., petitioner,\nv.\nLawrence HILL, et al.\nNo. 13-1091.\nSupreme Court of the United States\nJune 16, 2014.\nCase below, 179 Wash.2d 47, 308 P.3d 635.\nPetition for writ of certiorari to the Supreme Court of Washington denied."
+  },
+  "file_name": "2821-01",
+  "first_page_order": 2821,
+  "last_page_order": 2821
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12585041,
+  "name": "Linda LEWIS, et al., petitioners, v. WAXAHACHIE DAILY LIGHT, et al.",
+  "name_abbreviation": "Lewis v. Light",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20137041.",
+  "first_page": "669",
+  "last_page": "669",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 669"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 442"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 1846895",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 251,
+    "sha256": "7a5f75c77e1059296b3ce0a9876b6f63304ac3132b2015b87656e9ca9c66cea9",
+    "simhash": "1:a08fc89ef3c414cc",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Linda LEWIS, et al., petitioners,\nv.\nWAXAHACHIE DAILY LIGHT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Tenth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Linda LEWIS, et al., petitioners,\nv.\nWAXAHACHIE DAILY LIGHT, et al.\nNo. 13-7041.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 2013 WL 1846895.\nPetition for writ of certiorari to the Court of Appeals of Texas, Tenth District, denied."
+  },
+  "file_name": "0669-04",
+  "first_page_order": 669,
+  "last_page_order": 669
+}

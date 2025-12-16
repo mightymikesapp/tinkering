@@ -1,0 +1,85 @@
+{
+  "id": 12586026,
+  "name": "Mark L. KERMAN, et ux., petitioners, v. COMMISSIONER OF INTERNAL REVENUE.",
+  "name_abbreviation": "Kerman v. Comm'r",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013387.",
+  "first_page": "904",
+  "last_page": "904",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 904"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 778"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 849",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3558581
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0849-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 263,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26349393343009575
+    },
+    "sha256": "caee7e2c5c42ee272d8f3b1333793688dda9de29cea0a9d8b5190ab51ca917fb",
+    "simhash": "1:e2af544436a1d181",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark L. KERMAN, et ux., petitioners,\nv.\nCOMMISSIONER OF INTERNAL REVENUE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark L. KERMAN, et ux., petitioners,\nv.\nCOMMISSIONER OF INTERNAL REVENUE.\nNo. 13-387.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 713 F.3d 849.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0904-04",
+  "first_page_order": 904,
+  "last_page_order": 904
+}

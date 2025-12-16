@@ -1,0 +1,75 @@
+{
+  "id": 12578817,
+  "name": "Theron LEWIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lewis v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138146.",
+  "first_page": "1338",
+  "last_page": "1338",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1338"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 345"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "540 Fed.Appx. 512",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "sha256": "60702be7a197fa019891bf37e06ce0aba2ef20c2dd3440fe4d682d5236bb86b8",
+    "simhash": "1:7ced5444ba05d515",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Theron LEWIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Theron LEWIS, petitioner,\nv.\nUNITED STATES.\nNo. 13-8146.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 540 Fed.Appx. 512.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1338-05",
+  "first_page_order": 1338,
+  "last_page_order": 1338
+}

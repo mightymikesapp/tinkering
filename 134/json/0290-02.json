@@ -1,0 +1,75 @@
+{
+  "id": 12583040,
+  "name": "David Lamar JOHNSON, petitioner, v. J.C. GILES, Warden, et al.",
+  "name_abbreviation": "Johnson v. Giles",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135446.",
+  "first_page": "290",
+  "last_page": "290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 290"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 209"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "491 Fed.Appx. 60",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 259,
+    "sha256": "7b882d4a60247b3085f2965b372ac00c5393e46463202398fdc5b2e984afac7a",
+    "simhash": "1:602da66cbb4182ba",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Lamar JOHNSON, petitioner,\nv.\nJ.C. GILES, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David Lamar JOHNSON, petitioner,\nv.\nJ.C. GILES, Warden, et al.\nNo. 13-5446.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 491 Fed.Appx. 60.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0290-02",
+  "first_page_order": 290,
+  "last_page_order": 290
+}

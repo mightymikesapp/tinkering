@@ -1,0 +1,75 @@
+{
+  "id": 12585597,
+  "name": "Duane MILLER, petitioner, v. KEYSTONE BLIND ASSOCIATION/TPM.",
+  "name_abbreviation": "Miller v. Association",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20136781.",
+  "first_page": "795",
+  "last_page": "795",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 795"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 603"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 3487178",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 273,
+    "sha256": "4c91bc19efb640b10bc06b814f10e0f34a0b3b718fa3ef3cd5c9a7e34f62e8af",
+    "simhash": "1:fe2f704c390055a9",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Duane MILLER, petitioner,\nv.\nKEYSTONE BLIND ASSOCIATION/TPM."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Duane MILLER, petitioner,\nv.\nKEYSTONE BLIND ASSOCIATION/TPM.\nNo. 13-6781.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, --- Fed.Appx. ----, 2013 WL 3487178.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0795-01",
+  "first_page_order": 795,
+  "last_page_order": 795
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12578210,
+  "name": "Bonnie Burnette ERWIN, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Erwin v. United States",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137088.",
+  "first_page": "1052",
+  "last_page": "1052",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1052"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 119"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3446"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 710",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12585315,
+        12585316,
+        12585317,
+        12585318,
+        12585319,
+        12585320,
+        12699725,
+        12699726,
+        12699737,
+        12699738,
+        12699739,
+        12699517
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0710-01",
+        "/s-ct/134/0710-02",
+        "/s-ct/134/0710-03",
+        "/s-ct/134/0710-04",
+        "/s-ct/134/0710-05",
+        "/s-ct/134/0710-06",
+        "/us/571/1083-01",
+        "/us/571/1083-02",
+        "/us/571/1083-14",
+        "/us/571/1083-15",
+        "/us/571/1083-16",
+        "/us/571/1068-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 256,
+    "sha256": "5162bea2b8e7eafe9034388ae51451e7bf14b178d630ff7b28f929200738e7f6",
+    "simhash": "1:62a53456451dfb1a",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bonnie Burnette ERWIN, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bonnie Burnette ERWIN, petitioner,\nv.\nUNITED STATES, et al.\nNo. 13-7088.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 710\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "1052-04",
+  "first_page_order": 1052,
+  "last_page_order": 1052
+}

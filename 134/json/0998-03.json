@@ -1,0 +1,103 @@
+{
+  "id": 12586649,
+  "name": "Willie James GRIFFIN, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Griffin v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20135268.",
+  "first_page": "998",
+  "last_page": "998",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 998"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 847"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 260",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703520,
+        12581772,
+        12581773,
+        12581774,
+        12581775,
+        12581776,
+        12581777,
+        12704080,
+        12703507,
+        12703517,
+        12703518,
+        12703519
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0906-15",
+        "/s-ct/134/0260-01",
+        "/s-ct/134/0260-02",
+        "/s-ct/134/0260-03",
+        "/s-ct/134/0260-04",
+        "/s-ct/134/0260-05",
+        "/s-ct/134/0260-06",
+        "/us/571/0945-07",
+        "/us/571/0906-01",
+        "/us/571/0906-12",
+        "/us/571/0906-13",
+        "/us/571/0906-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 261,
+    "sha256": "41ec851830f8b59ce51036f951ccc92aa045b17404c54a7b4c6a3818cfbcc0ef",
+    "simhash": "1:4db67e822186d6d2",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Willie James GRIFFIN, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Willie James GRIFFIN, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 13-5268.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 260.\nPetition for rehearing denied."
+  },
+  "file_name": "0998-03",
+  "first_page_order": 998,
+  "last_page_order": 998
+}

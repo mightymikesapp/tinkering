@@ -1,0 +1,75 @@
+{
+  "id": 12583954,
+  "name": "Steven W. LITTLEJOHN, petitioner, v. Tim RILEY, Warden.",
+  "name_abbreviation": "Littlejohn v. Riley",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135995.",
+  "first_page": "443",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 443"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 297"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "491 Fed.Appx. 448",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 252,
+    "sha256": "2777d20b10d2a5e7d6e17bb2f23d648e0ac199022a761a92033a6da399b8bcdc",
+    "simhash": "1:5b6fe2443ac1872b",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven W. LITTLEJOHN, petitioner,\nv.\nTim RILEY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven W. LITTLEJOHN, petitioner,\nv.\nTim RILEY, Warden.\nNo. 13-5995.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 491 Fed.Appx. 448.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0443-04",
+  "first_page_order": 443,
+  "last_page_order": 443
+}

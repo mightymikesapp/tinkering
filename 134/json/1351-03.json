@@ -1,0 +1,81 @@
+{
+  "id": 12578906,
+  "name": "James Allen MORRIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Morris v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138283.",
+  "first_page": "1351",
+  "last_page": "1351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1351"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 353"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5969899",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "546 Fed.Appx. 521",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 262,
+    "sha256": "1ce6a808d85c53f9497d6cdeba7e82e949c08199944f763d28187f45a1ac8b84",
+    "simhash": "1:bbef7444b7615317",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Allen MORRIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Allen MORRIS, petitioner,\nv.\nUNITED STATES.\nNo. 13-8283.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 546 Fed.Appx. 521, 2013 WL 5969899.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1351-03",
+  "first_page_order": 1351,
+  "last_page_order": 1351
+}

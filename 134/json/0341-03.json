@@ -1,0 +1,75 @@
+{
+  "id": 12583391,
+  "name": "Brooke Elizabeth HEIKE, petitioner, v. Sue GUEVARA, et al.",
+  "name_abbreviation": "Heike v. Guevara",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013221.",
+  "first_page": "341",
+  "last_page": "341",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 341"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 159"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Fed.Appx. 911",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "sha256": "6c7fc83aa7146da5c315f78c03eb12b40585842735aa346187c1d1688ddc0bdc",
+    "simhash": "1:602fc04e3be482e8",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brooke Elizabeth HEIKE, petitioner,\nv.\nSue GUEVARA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brooke Elizabeth HEIKE, petitioner,\nv.\nSue GUEVARA, et al.\nNo. 13-221.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 519 Fed.Appx. 911.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0341-03",
+  "first_page_order": 341,
+  "last_page_order": 341
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12578633,
+  "name": "Mark WAJDA, petitioner, v. Eric H. HOLDER, Jr., Attorney General.",
+  "name_abbreviation": "Wajda v. Holder",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013748.",
+  "first_page": "1310",
+  "last_page": "1310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1310"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 305"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "727 F.3d 457",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4077849
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/727/0457-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 255,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632437257925076
+    },
+    "sha256": "70cb88d75ce74b0f1e3c980a593a1f6d617c45c6015a54ab49084f9460ccda3d",
+    "simhash": "1:786775c41e85c5c1",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark WAJDA, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark WAJDA, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General.\nNo. 13-748.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 727 F.3d 457.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1310-05",
+  "first_page_order": 1310,
+  "last_page_order": 1310
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12580803,
+  "name": "Wilbert MARCELIN, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Marcelin v. Louisiana",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20139235.",
+  "first_page": "1951",
+  "last_page": "1951",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1951"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 971"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "116 So.3d 928",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7004563
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/116/0928-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 229,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26331496546709865
+    },
+    "sha256": "d78547715be4b4ba090833b973c4bca5af35eebb64606d48b0b24099c6aa8833",
+    "simhash": "1:6aba668601c7f101",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wilbert MARCELIN, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of Louisiana, Fourth Circuit, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Wilbert MARCELIN, petitioner,\nv.\nLOUISIANA.\nNo. 13-9235.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 116 So.3d 928.\nPetition for writ of certiorari to the Court of Appeal of Louisiana, Fourth Circuit, denied."
+  },
+  "file_name": "1951-03",
+  "first_page_order": 1951,
+  "last_page_order": 1951
+}

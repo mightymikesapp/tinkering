@@ -1,0 +1,103 @@
+{
+  "id": 12578237,
+  "name": "Elnora MOSES, petitioner, v. TEXAS COMMISSION ON ENVIRONMENTAL QUALITY.",
+  "name_abbreviation": "Moses v. Tex. Comm'n On Envtl. Quality",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20136739.",
+  "first_page": "1056",
+  "last_page": "1056",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1056"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 142"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3448"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 723",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699686,
+        12699543,
+        12699672,
+        12699544,
+        12585399,
+        12585400,
+        12585401,
+        12585402,
+        12585403,
+        12585404,
+        12699581,
+        12699582
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1080-05",
+        "/us/571/1070-04",
+        "/us/571/1079-05",
+        "/us/571/1070-05",
+        "/s-ct/134/0723-01",
+        "/s-ct/134/0723-02",
+        "/s-ct/134/0723-03",
+        "/s-ct/134/0723-04",
+        "/s-ct/134/0723-05",
+        "/s-ct/134/0723-06",
+        "/us/571/1073-03",
+        "/us/571/1073-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 326,
+    "sha256": "8358961166b44c8c0c8c588b59bfd79a5f49cb2c704dacaf60f97e7dc46a5689",
+    "simhash": "1:72e7542717c0345c",
+    "word_count": 50
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elnora MOSES, petitioner,\nv.\nTEXAS COMMISSION ON ENVIRONMENTAL QUALITY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to file a petition for rehearing under seal with redacted copies for the public record granted. Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Elnora MOSES, petitioner,\nv.\nTEXAS COMMISSION ON ENVIRONMENTAL QUALITY.\nNo. 13-6739.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 723.\nMotion of petitioner for leave to file a petition for rehearing under seal with redacted copies for the public record granted. Petition for rehearing denied."
+  },
+  "file_name": "1056-04",
+  "first_page_order": 1056,
+  "last_page_order": 1056
+}

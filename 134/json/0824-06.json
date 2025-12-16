@@ -1,0 +1,85 @@
+{
+  "id": 12585803,
+  "name": "Brittany MORROW, et al., petitioners, v. Barry BALASKI, et al.",
+  "name_abbreviation": "Morrow v. Balaski",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u2013302.",
+  "first_page": "824",
+  "last_page": "825",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 824"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 686"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "719 F.3d 160",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4054667
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/719/0160-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26348157749737533
+    },
+    "sha256": "9f09074a2bc2b40cff53902d9ece78fc086d136a4bea7c6a0a3b109ec547642e",
+    "simhash": "1:733e52803fc1f7a8",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brittany MORROW, et al., petitioners,\nv.\nBarry BALASKI, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brittany MORROW, et al., petitioners,\nv.\nBarry BALASKI, et al.\nNo. 13-302.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 719 F.3d 160.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0824-06",
+  "first_page_order": 824,
+  "last_page_order": 825
+}

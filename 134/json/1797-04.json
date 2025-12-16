@@ -1,0 +1,75 @@
+{
+  "id": 12580134,
+  "name": "John Kristopher LARSGARD, petitioner, v. ARIZONA.",
+  "name_abbreviation": "Larsgard v. Arizona",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138702.",
+  "first_page": "1797",
+  "last_page": "1797",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1797"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 764"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 1908037",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 233,
+    "sha256": "3184273114c533ca8648b4b76ddb5f6d80bc037b8591dbbe230984bf7833b66d",
+    "simhash": "1:28af564f7c410495",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Kristopher LARSGARD, petitioner,\nv.\nARIZONA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Arizona, Division One, denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Kristopher LARSGARD, petitioner,\nv.\nARIZONA.\nNo. 13-8702.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 2013 WL 1908037.\nPetition for writ of certiorari to the Court of Appeals of Arizona, Division One, denied."
+  },
+  "file_name": "1797-04",
+  "first_page_order": 1797,
+  "last_page_order": 1797
+}

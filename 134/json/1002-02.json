@@ -1,0 +1,75 @@
+{
+  "id": 12577878,
+  "name": "Paul STANLEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Stanley v. United States",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20136950.",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1002"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 852"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "533 Fed.Appx. 325",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 240,
+    "sha256": "318367dce6b4eaaf530627cbdfdab1683efbde73739a73e9f63d6a8d112aa4d2",
+    "simhash": "1:53ff6646bf0d5311",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul STANLEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul STANLEY, petitioner,\nv.\nUNITED STATES.\nNo. 13-6950.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 533 Fed.Appx. 325.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1002-02",
+  "first_page_order": 1002,
+  "last_page_order": 1002
+}

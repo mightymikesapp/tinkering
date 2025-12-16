@@ -1,0 +1,75 @@
+{
+  "id": 12583233,
+  "name": "Hicham SADIK, petitioner, v. Eric H. HOLDER, Jr., Attorney General.",
+  "name_abbreviation": "Sadik v. Holder",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013158.",
+  "first_page": "318",
+  "last_page": "318",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 318"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 156"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 723",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 261,
+    "sha256": "8538b36a4c6fb78cd1381dbe665c76005ce40b0d188cde5882b285bc2de1aecb",
+    "simhash": "1:49af724319c685bb",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hicham SADIK, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Hicham SADIK, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General.\nNo. 13-158.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 525 Fed.Appx. 723.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0318-05",
+  "first_page_order": 318,
+  "last_page_order": 318
+}

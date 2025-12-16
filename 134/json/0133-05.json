@@ -1,0 +1,75 @@
+{
+  "id": 12578829,
+  "name": "Guillermo RUIZ, petitioner, v. Jeffery E. THOMAS, Warden.",
+  "name_abbreviation": "Ruiz v. Thomas",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310560.",
+  "first_page": "133",
+  "last_page": "133",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 133"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 94"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "510 Fed.Appx. 105",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 253,
+    "sha256": "6b17d8cca88ba4d3fac61c5efc6fc4d53825ee5c1048001af855d26098d4dfa8",
+    "simhash": "1:506fe2557fc186a8",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Guillermo RUIZ, petitioner,\nv.\nJeffery E. THOMAS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Guillermo RUIZ, petitioner,\nv.\nJeffery E. THOMAS, Warden.\nNo. 12-10560.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 510 Fed.Appx. 105.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0133-05",
+  "first_page_order": 133,
+  "last_page_order": 133
+}

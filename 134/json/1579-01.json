@@ -1,0 +1,103 @@
+{
+  "id": 12579735,
+  "name": "Ebrahim RADBOD, petitioner, v. Gabriel ARIAS, et al.",
+  "name_abbreviation": "Radbod v. Arias",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20137410.",
+  "first_page": "1579",
+  "last_page": "1579",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1579"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 586"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1008",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700920,
+        12700889,
+        12700921,
+        12700919,
+        12700917,
+        12700918,
+        12577911,
+        12577912,
+        12577913,
+        12577914,
+        12577915,
+        12577916
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1166-05",
+        "/us/571/1164-02",
+        "/us/571/1166-06",
+        "/us/571/1166-04",
+        "/us/571/1166-02",
+        "/us/571/1166-03",
+        "/s-ct/134/1008-01",
+        "/s-ct/134/1008-02",
+        "/s-ct/134/1008-03",
+        "/s-ct/134/1008-04",
+        "/s-ct/134/1008-05",
+        "/s-ct/134/1008-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 181,
+    "sha256": "8f610c0cc827df18b72cf8ef8c2972e97592ebafcc7a0b69c182d7a14d33becd",
+    "simhash": "1:a4bd3c0c10c0e312",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ebrahim RADBOD, petitioner,\nv.\nGabriel ARIAS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ebrahim RADBOD, petitioner,\nv.\nGabriel ARIAS, et al.\nNo. 13-7410.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 1008\nPetition for rehearing denied."
+  },
+  "file_name": "1579-01",
+  "first_page_order": 1579,
+  "last_page_order": 1579
+}

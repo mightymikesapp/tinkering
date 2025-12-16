@@ -1,0 +1,75 @@
+{
+  "id": 12582246,
+  "name": "Kwame A. ROCKWELL, petitioner, v. TEXAS.",
+  "name_abbreviation": "Rockwell v. Texas",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20138553.",
+  "first_page": "2724",
+  "last_page": "2724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2724"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 768"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 6529575",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 215,
+    "sha256": "a506a05c397aac20a496dde22601bd7bb4ce22dda935798450e060f66fb375f2",
+    "simhash": "1:79ed6444e7ed2581",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kwame A. ROCKWELL, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kwame A. ROCKWELL, petitioner,\nv.\nTEXAS.\nNo. 13-8553.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 2013 WL 6529575.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "2724-03",
+  "first_page_order": 2724,
+  "last_page_order": 2724
+}

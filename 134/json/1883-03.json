@@ -1,0 +1,85 @@
+{
+  "id": 12580345,
+  "name": "Anthony Dewayne TILLMAN, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Tillman v. Louisiana",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138632.",
+  "first_page": "1883",
+  "last_page": "1883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1883"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 921"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "110 So.3d 1248",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7020217
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/110/1248-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632999066740957
+    },
+    "sha256": "8920047d479bdefff02dc0cfe7886a584c4ae7cb826eec2cef42b4aa46da907e",
+    "simhash": "1:7aef724eaec76725",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony Dewayne TILLMAN, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of Louisiana, Second Circuit, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony Dewayne TILLMAN, petitioner,\nv.\nLOUISIANA.\nNo. 13-8632.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 110 So.3d 1248.\nPetition for writ of certiorari to the Court of Appeal of Louisiana, Second Circuit, denied."
+  },
+  "file_name": "1883-03",
+  "first_page_order": 1883,
+  "last_page_order": 1883
+}

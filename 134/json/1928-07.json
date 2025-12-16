@@ -1,0 +1,103 @@
+{
+  "id": 12580645,
+  "name": "Jeffrey SIEGEL, Administrator of the Estate of Moustapha Akkad, Deceased, et al., petitioners, v. HYATT INTERNATIONAL (EUROPE, AFRICA, MIDDLE EAST) LLC, et al.",
+  "name_abbreviation": "Siegel v. Hyatt Int'l (Europe, Afr., Middle East) LLC",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u2013774.",
+  "first_page": "1928",
+  "last_page": "1928",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1928"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 950"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1324",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578721,
+        12578722,
+        12578723,
+        12578724,
+        12578725,
+        12578726,
+        12701381,
+        12701382,
+        12701383,
+        12701606,
+        12701794,
+        12701373
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1324-01",
+        "/s-ct/134/1324-02",
+        "/s-ct/134/1324-03",
+        "/s-ct/134/1324-04",
+        "/s-ct/134/1324-05",
+        "/s-ct/134/1324-06",
+        "/us/571/1202-10",
+        "/us/571/1202-11",
+        "/us/571/1202-12",
+        "/us/571/1218-15",
+        "/us/571/1231-07",
+        "/us/571/1202-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 288,
+    "sha256": "314cd8dc6e48292a5229ffa3f0e9374b1e95b8eee2b825c5f4df6417ad74dbae",
+    "simhash": "1:33adbe04b4907bea",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey SIEGEL, Administrator of the Estate of Moustapha Akkad, Deceased, et al., petitioners,\nv.\nHYATT INTERNATIONAL (EUROPE, AFRICA, MIDDLE EAST) LLC, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey SIEGEL, Administrator of the Estate of Moustapha Akkad, Deceased, et al., petitioners,\nv.\nHYATT INTERNATIONAL (EUROPE, AFRICA, MIDDLE EAST) LLC, et al.\nNo. 13-774.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1324.\nPetition for rehearing denied."
+  },
+  "file_name": "1928-07",
+  "first_page_order": 1928,
+  "last_page_order": 1928
+}

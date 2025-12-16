@@ -1,0 +1,86 @@
+{
+  "id": 12584860,
+  "name": "James Glenn WILDER, petitioner, v. GEORGIA.",
+  "name_abbreviation": "Wilder v. Georgia",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136307.",
+  "first_page": "642",
+  "last_page": "642",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 642"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 425"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "320 Ga.App. 497",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        3800037
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga-app/320/0497-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 228,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26345184603426686
+    },
+    "sha256": "476cb5d8ec1433fb0a4ff1c8d491ce58ccd4150cc277042bb4207a9894b42701",
+    "simhash": "1:4caf66cc21c34e78",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Glenn WILDER, petitioner,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Glenn WILDER, petitioner,\nv.\nGEORGIA.\nNo. 13-6307.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 320 Ga.App. 497, 740 S.E.2d 241.\nPetition for writ of certiorari to the Court of Appeals of Georgia denied."
+  },
+  "file_name": "0642-01",
+  "first_page_order": 642,
+  "last_page_order": 642
+}

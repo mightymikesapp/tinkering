@@ -1,0 +1,85 @@
+{
+  "id": 12584001,
+  "name": "Russell DEFREITAS, aka Mohammed, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Defreitas v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136140.",
+  "first_page": "450",
+  "last_page": "450",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 450"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 301"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 115",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4050642
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0115-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 254,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634221145711584
+    },
+    "sha256": "34ed16df1d372cb356dbb97e2c12379dcc6937929cfd8a52f1080905b27942d1",
+    "simhash": "1:712de6c43bc7868d",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Russell DEFREITAS, aka Mohammed, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Russell DEFREITAS, aka Mohammed, petitioner,\nv.\nUNITED STATES.\nNo. 13-6140.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 718 F.3d 115.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0450-04",
+  "first_page_order": 450,
+  "last_page_order": 450
+}

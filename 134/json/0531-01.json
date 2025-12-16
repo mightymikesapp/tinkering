@@ -1,0 +1,75 @@
+{
+  "id": 12584494,
+  "name": "James GILLER, petitioner, v. ORACLE USA, INC.",
+  "name_abbreviation": "Giller v. Oracle United States, Inc.",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u2013355.",
+  "first_page": "531",
+  "last_page": "531",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 531"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 394"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Fed.Appx. 71",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 316,
+    "sha256": "be20ae7ebbffd2772af975f5e61f2d08b30371e740fdc71fb917e9a61f5f6b29",
+    "simhash": "1:b87df68e3fcecbc7",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James GILLER, petitioner,\nv.\nORACLE USA, INC."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James GILLER, petitioner,\nv.\nORACLE USA, INC.\nNo. 13-355.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 512 Fed.Appx. 71.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0531-01",
+  "first_page_order": 531,
+  "last_page_order": 531
+}

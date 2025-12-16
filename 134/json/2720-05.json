@@ -1,0 +1,103 @@
+{
+  "id": 12582223,
+  "name": "In re Mary Louise Richardson DOZIER, petitioner.",
+  "name_abbreviation": "In re Dozier",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20138123.",
+  "first_page": "2720",
+  "last_page": "2720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2720"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 757"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3696"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1542",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12705056,
+        12705062,
+        12705006,
+        12705022,
+        12705016,
+        12705017,
+        12579482,
+        12579483,
+        12579484,
+        12579485,
+        12579486,
+        12579487
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1019-06",
+        "/us/572/1019-07",
+        "/us/572/1015-01",
+        "/us/572/1016-06",
+        "/us/572/1015-12",
+        "/us/572/1016-05",
+        "/s-ct/134/1542-01",
+        "/s-ct/134/1542-02",
+        "/s-ct/134/1542-03",
+        "/s-ct/134/1542-04",
+        "/s-ct/134/1542-05",
+        "/s-ct/134/1542-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 176,
+    "sha256": "f9872f29fecf307f702816ffc9e6b719287dc4713ce9fb5b6ac2b4cd87726d6c",
+    "simhash": "1:f0ff34c42b1177c3",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Mary Louise Richardson DOZIER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Mary Louise Richardson DOZIER, petitioner.\nNo. 13-8123.\nSupreme Court of the United States\nJune 2, 2014.\nFormer decision, 134 S.Ct. 1542.\nPetition for rehearing denied."
+  },
+  "file_name": "2720-05",
+  "first_page_order": 2720,
+  "last_page_order": 2720
+}

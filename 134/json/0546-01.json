@@ -1,0 +1,75 @@
+{
+  "id": 12584588,
+  "name": "Robert Russell MATCOVICH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Matcovich v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136699.",
+  "first_page": "546",
+  "last_page": "546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 546"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 390"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "522 Fed.Appx. 850",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 253,
+    "sha256": "3ca84fd7ec2ed4c5e8bed65815e8b58d069cf86f7e88cb076c645aa7fdf93dd1",
+    "simhash": "1:68ede2c40b038093",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Russell MATCOVICH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Russell MATCOVICH, petitioner,\nv.\nUNITED STATES.\nNo. 13-6699.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 522 Fed.Appx. 850.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0546-01",
+  "first_page_order": 546,
+  "last_page_order": 546
+}

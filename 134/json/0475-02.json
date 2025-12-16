@@ -1,0 +1,75 @@
+{
+  "id": 12584162,
+  "name": "Arlus DANIEL, Jr., petitioner, v. Travis TRANI, Warden, et al.",
+  "name_abbreviation": "Daniel v. Trani",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20135836.",
+  "first_page": "475",
+  "last_page": "475",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 475"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 321"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "511 Fed.Appx. 794",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 258,
+    "sha256": "47a7da3bc474abad1cac7e8d630d5c00a6c3780bca250425fda1bd449a4c6a06",
+    "simhash": "1:b8afe4143f84d0bb",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arlus DANIEL, Jr., petitioner,\nv.\nTravis TRANI, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arlus DANIEL, Jr., petitioner,\nv.\nTravis TRANI, Warden, et al.\nNo. 13-5836.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 511 Fed.Appx. 794.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0475-02",
+  "first_page_order": 475,
+  "last_page_order": 475
+}

@@ -1,0 +1,86 @@
+{
+  "id": 12578246,
+  "name": "Robert PEALER, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Pealer v. Newyork",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310349.",
+  "first_page": "105",
+  "last_page": "105",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 105"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 77"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "20 N.Y.3d 447",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3754435
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny3d/20/0447-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632261572006708
+    },
+    "sha256": "ab724c39586e35011f8c344a78d2d2d68f434309d5e58e47d55318442a125358",
+    "simhash": "1:09afd2c733d30104",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert PEALER, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert PEALER, petitioner,\nv.\nNEW YORK.\nNo. 12-10349.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 20 N.Y.3d 447, 962 N.Y.S.2d 592, 985 N.E.2d 903\nPetition for writ of certiorari to the Court of Appeals of New York denied."
+  },
+  "file_name": "0105-03",
+  "first_page_order": 105,
+  "last_page_order": 105
+}

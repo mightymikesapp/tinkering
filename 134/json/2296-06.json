@@ -1,0 +1,83 @@
+{
+  "id": 12581337,
+  "name": "Bernardo COSTA, petitioner, v. MISSOURI.",
+  "name_abbreviation": "Costa v. Missouri",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20139001.",
+  "first_page": "2296",
+  "last_page": "2296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2296"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 181"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "412 S.W.3d 325",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7088140,
+        7088188
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/412/0325-01",
+        "/sw3d/412/0325-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 226,
+    "sha256": "7defd3ba57fae86b7768a27e0af82f2a96c3046dcedff96765f505d47f6d15f2",
+    "simhash": "1:184ffad6b883c531",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bernardo COSTA, petitioner,\nv.\nMISSOURI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Missouri, Western District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bernardo COSTA, petitioner,\nv.\nMISSOURI.\nNo. 13-9001.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 412 S.W.3d 325.\nPetition for writ of certiorari to the Court of Appeals of Missouri, Western District denied."
+  },
+  "file_name": "2296-06",
+  "first_page_order": 2296,
+  "last_page_order": 2296
+}

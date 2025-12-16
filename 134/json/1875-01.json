@@ -1,0 +1,75 @@
+{
+  "id": 12580294,
+  "name": "Charles RICE, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Rice v. Tennessee",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137773.",
+  "first_page": "1875",
+  "last_page": "1875",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1875"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 917"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 1229527",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 239,
+    "sha256": "9d9f6c4cc093eee1eeeb2fcc03dd61a6420a0eb69bbd56bd9295c1036cd9d4f4",
+    "simhash": "1:6927f486a3c15033",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles RICE, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles RICE, petitioner,\nv.\nTENNESSEE.\nNo. 13-7773.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 2013 WL 1229527.\nPetition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division, denied."
+  },
+  "file_name": "1875-01",
+  "first_page_order": 1875,
+  "last_page_order": 1875
+}

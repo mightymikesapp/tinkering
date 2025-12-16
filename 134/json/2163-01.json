@@ -1,0 +1,107 @@
+{
+  "id": 12581182,
+  "name": "Dana T. TOKLEY, petitioner, v. Angel SANTIAGO, Administrator, New Jersey State Prison, et al.",
+  "name_abbreviation": "Tokley v. Santiago",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20138355.",
+  "first_page": "2163",
+  "last_page": "2163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2163"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1145"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1366",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701287,
+        12701767,
+        12701799,
+        12701688,
+        12701790,
+        12701789,
+        12579000,
+        12579001,
+        12579002,
+        12579003,
+        12579004,
+        12579005,
+        12579006,
+        12701791
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1195-13",
+        "/us/571/1229-06",
+        "/us/571/1231-12",
+        "/us/571/1224-05",
+        "/us/571/1231-02",
+        "/us/571/1231-01",
+        "/s-ct/134/1366-01",
+        "/s-ct/134/1366-02",
+        "/s-ct/134/1366-03",
+        "/s-ct/134/1366-04",
+        "/s-ct/134/1366-05",
+        "/s-ct/134/1366-06",
+        "/s-ct/134/1366-07",
+        "/us/571/1231-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 220,
+    "sha256": "b3b08120da77cd661d06084e76fe63acd610c9b044c4a615e72b2ab291e7eca3",
+    "simhash": "1:807fb404a69c4e0c",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dana T. TOKLEY, petitioner,\nv.\nAngel SANTIAGO, Administrator, New Jersey State Prison, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dana T. TOKLEY, petitioner,\nv.\nAngel SANTIAGO, Administrator, New Jersey State Prison, et al.\nNo. 13-8355.\nSupreme Court of the United States\nMay 5, 2014.\nFormer decision, 134 S.Ct. 1366.\nPetition for rehearing denied."
+  },
+  "file_name": "2163-01",
+  "first_page_order": 2163,
+  "last_page_order": 2163
+}

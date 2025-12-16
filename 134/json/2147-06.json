@@ -1,0 +1,75 @@
+{
+  "id": 12581077,
+  "name": "Virgil Pinero NAVAREZ, petitioner v. L.E. SCRIBNER, Warden.",
+  "name_abbreviation": "Navarez v. Scribner",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20139472.",
+  "first_page": "2147",
+  "last_page": "2147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2147"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1134"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "551 Fed.Appx. 416",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 253,
+    "sha256": "626f8dbea4113d66643277213dc39af269f34d4db054f809cdd4f2c1a4ae7abe",
+    "simhash": "1:82ef564424842535",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Virgil Pinero NAVAREZ, petitioner\nv.\nL.E. SCRIBNER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Virgil Pinero NAVAREZ, petitioner\nv.\nL.E. SCRIBNER, Warden.\nNo. 13-9472.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 551 Fed.Appx. 416.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2147-06",
+  "first_page_order": 2147,
+  "last_page_order": 2147
+}

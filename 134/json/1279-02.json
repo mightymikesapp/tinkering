@@ -1,0 +1,85 @@
+{
+  "id": 12578424,
+  "name": "CITGO ASPHALT REFINING COMPANY, et al., petitioners, v. FRESCATI SHIPPING COMPANY, LTD., et al.",
+  "name_abbreviation": "Citgo Asphalt Ref. Co. v. Frescati Shipping Co.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013462.",
+  "first_page": "1279",
+  "last_page": "1279",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1279"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 298"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 184",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4048906
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0184-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 285,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632361963960061
+    },
+    "sha256": "b01e32c551953812bc6ec200ca6e8a0926df62af9f37f4b6c7cf0eecc7ac2b90",
+    "simhash": "1:bd3df484bfc0d32c",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CITGO ASPHALT REFINING COMPANY, et al., petitioners,\nv.\nFRESCATI SHIPPING COMPANY, LTD., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "CITGO ASPHALT REFINING COMPANY, et al., petitioners,\nv.\nFRESCATI SHIPPING COMPANY, LTD., et al.\nNo. 13-462.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 718 F.3d 184.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1279-02",
+  "first_page_order": 1279,
+  "last_page_order": 1279
+}

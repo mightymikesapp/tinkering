@@ -1,0 +1,75 @@
+{
+  "id": 12578650,
+  "name": "Rodney WASHINGTON, petitioner, v. WISCONSIN.",
+  "name_abbreviation": "Washington v. Wisconsin",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137904.",
+  "first_page": "1313",
+  "last_page": "1313",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1313"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 330"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "830 N.W.2d 723",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 227,
+    "sha256": "be369b8595036b4d51f0b2dfff7d18479ee1f21985e8037209e83d80f35dc83a",
+    "simhash": "1:a87f74caa7446338",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rodney WASHINGTON, petitioner,\nv.\nWISCONSIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Wisconsin, District I, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rodney WASHINGTON, petitioner,\nv.\nWISCONSIN.\nNo. 13-7904.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 830 N.W.2d 723.\nPetition for writ of certiorari to the Court of Appeals of Wisconsin, District I, denied."
+  },
+  "file_name": "1313-03",
+  "first_page_order": 1313,
+  "last_page_order": 1313
+}

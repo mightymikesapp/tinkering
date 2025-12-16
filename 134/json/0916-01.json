@@ -1,0 +1,83 @@
+{
+  "id": 12586100,
+  "name": "Gary Lee WILLIAMS, petitioner, v. FLORIDA, et al.",
+  "name_abbreviation": "Williams v. Florida",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137000.",
+  "first_page": "916",
+  "last_page": "916",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 916"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 794"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "121 So.3d 1114",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7001915
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/121/1114-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 242,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634976015976221
+    },
+    "sha256": "ce66ba7e6d6d19703bcddaf648ee9f3141ea031cc8e58acf6f3bc78173a23614",
+    "simhash": "1:697e003e70d38585",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary Lee WILLIAMS, petitioner,\nv.\nFLORIDA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gary Lee WILLIAMS, petitioner,\nv.\nFLORIDA, et al.\nNo. 13-7000.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 121 So.3d 1114.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Third District, denied."
+  },
+  "file_name": "0916-01",
+  "first_page_order": 916,
+  "last_page_order": 916
+}

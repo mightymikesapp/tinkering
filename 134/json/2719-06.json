@@ -1,0 +1,85 @@
+{
+  "id": 12582212,
+  "name": "Gerald CHARLESTON, petitioner, v. BOARD OF TRUSTEES OF the UNIVERSITY OF ILLINOIS AT CHICAGO, et al.",
+  "name_abbreviation": "Charleston v. Bd. of Trs. of the Univ. of Ill. At Chi.",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20131155.",
+  "first_page": "2719",
+  "last_page": "2720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2719"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 740"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "741 F.3d 769",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3898745
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/741/0769-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 292,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633643891979803
+    },
+    "sha256": "f41bef98c16d895fea2458dfbd649aa5793e4319c7406f42d37e61bfadc0bd88",
+    "simhash": "1:2c2b404e2b4552dd",
+    "word_count": 49
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gerald CHARLESTON, petitioner,\nv.\nBOARD OF TRUSTEES OF the UNIVERSITY OF ILLINOIS AT CHICAGO, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gerald CHARLESTON, petitioner,\nv.\nBOARD OF TRUSTEES OF the UNIVERSITY OF ILLINOIS AT CHICAGO, et al.\nNo. 13-1155.\nSupreme Court of the United States\nJune 2, 2014.\nCase below, 741 F.3d 769.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "2719-06",
+  "first_page_order": 2719,
+  "last_page_order": 2720
+}

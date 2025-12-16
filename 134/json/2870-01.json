@@ -1,0 +1,98 @@
+{
+  "id": 12582823,
+  "name": "WILDTANGENT, INC., petitioner, v. ULTRAMERCIAL, LLC, et al.",
+  "name_abbreviation": "Wildtangent, Inc. v. Ultramercial, LLC",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u2013255.",
+  "first_page": "2870",
+  "last_page": "2870",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2870"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 828"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 2347",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12581589
+      ],
+      "year": 2014,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/2347-01"
+      ]
+    },
+    {
+      "cite": "722 F.3d 1335",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4062081
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/722/1335-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 512,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26338523983444595
+    },
+    "sha256": "6978ec1ef142f862e1a6069cc28e290ce94617a037833eb35a51730a8b26fea0",
+    "simhash": "1:142d60442d42129c",
+    "word_count": 83
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WILDTANGENT, INC., petitioner,\nv.\nULTRAMERCIAL, LLC, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of Alice Corp. v. CLS Bank Int'l, 573 U.S. ----, 134 S.Ct. 2347, --- L.Ed.2d ---- (2014)."
+    ],
+    "corrections": "",
+    "head_matter": "WILDTANGENT, INC., petitioner,\nv.\nULTRAMERCIAL, LLC, et al.\nNo. 13-255.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 722 F.3d 1335.\nOn petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of Alice Corp. v. CLS Bank Int'l, 573 U.S. ----, 134 S.Ct. 2347, --- L.Ed.2d ---- (2014)."
+  },
+  "file_name": "2870-01",
+  "first_page_order": 2870,
+  "last_page_order": 2870
+}

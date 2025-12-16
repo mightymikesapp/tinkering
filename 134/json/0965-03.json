@@ -1,0 +1,85 @@
+{
+  "id": 12586424,
+  "name": "Eric C. DETERS, petitioner, v. KENTUCKY BAR ASSOCIATION.",
+  "name_abbreviation": "Deters v. Ky. Bar Ass'n",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013660.",
+  "first_page": "965",
+  "last_page": "965",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 965"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 787"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "406 S.W.3d 812",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7092597
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/406/0812-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 221,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635055171170211
+    },
+    "sha256": "3cd11115fa3791b34e73e9ca62f55559738989ce77b26e53e47bb51bc6d2b1e1",
+    "simhash": "1:cc67561430c50191",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric C. DETERS, petitioner,\nv.\nKENTUCKY BAR ASSOCIATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Kentucky denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric C. DETERS, petitioner,\nv.\nKENTUCKY BAR ASSOCIATION.\nNo. 13-660.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 406 S.W.3d 812.\nPetition for writ of certiorari to the Supreme Court of Kentucky denied."
+  },
+  "file_name": "0965-03",
+  "first_page_order": 965,
+  "last_page_order": 965
+}

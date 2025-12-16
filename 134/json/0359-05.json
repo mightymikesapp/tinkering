@@ -1,0 +1,75 @@
+{
+  "id": 12583510,
+  "name": "Billy E. NICHOLS, Sr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Nichols v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20136026.",
+  "first_page": "359",
+  "last_page": "359",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 359"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 249"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "527 Fed.Appx. 344",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 247,
+    "sha256": "a1512fa8df8188e2128711cd119ffb02895a258beb6d04d01ba131f212763809",
+    "simhash": "1:a0ef5647b3678a21",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Billy E. NICHOLS, Sr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Billy E. NICHOLS, Sr., petitioner,\nv.\nUNITED STATES.\nNo. 13-6026.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 527 Fed.Appx. 344.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0359-05",
+  "first_page_order": 359,
+  "last_page_order": 359
+}

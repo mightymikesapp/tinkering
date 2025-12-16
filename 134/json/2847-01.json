@@ -1,0 +1,75 @@
+{
+  "id": 12582663,
+  "name": "Robert L. MIKLAS, petitioner, v. OHIO.",
+  "name_abbreviation": "Miklas v. Ohio",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20139741.",
+  "first_page": "2847",
+  "last_page": "2847",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2847"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 813"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 6173861",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 221,
+    "sha256": "9179b6f8a8625ceabdfd30ede3f3c365d61ce42e0d8001f4eba602213bbace2a",
+    "simhash": "1:e86e56d853c493bb",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert L. MIKLAS, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Belmont County, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert L. MIKLAS, petitioner,\nv.\nOHIO.\nNo. 13-9741.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 2013 WL 6173861.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Belmont County, denied."
+  },
+  "file_name": "2847-01",
+  "first_page_order": 2847,
+  "last_page_order": 2847
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12579406,
+  "name": "Jason LORD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lord v. United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138566.",
+  "first_page": "1529",
+  "last_page": "1529",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1529"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 461"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "543 Fed.Appx. 995",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 241,
+    "sha256": "2161bb7bf5f79aa821ed3c055c5002cd56f32160584a98d79eb90971e3d14b5d",
+    "simhash": "1:526c26463f0d92d7",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason LORD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason LORD, petitioner,\nv.\nUNITED STATES.\nNo. 13-8566.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 543 Fed.Appx. 995.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1529-06",
+  "first_page_order": 1529,
+  "last_page_order": 1529
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12584811,
+  "name": "Edward C. FEUER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Feuer v. United States",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 12\u201310992.",
+  "first_page": "634",
+  "last_page": "634",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 634"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 413"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 210",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704066,
+        12580963,
+        12580964,
+        12580965,
+        12580966,
+        12580967,
+        12580968,
+        12703143,
+        12703144,
+        12703145,
+        12703146,
+        12703147
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0944-04",
+        "/s-ct/134/0210-01",
+        "/s-ct/134/0210-02",
+        "/s-ct/134/0210-03",
+        "/s-ct/134/0210-04",
+        "/s-ct/134/0210-05",
+        "/s-ct/134/0210-06",
+        "/us/571/0880-12",
+        "/us/571/0880-13",
+        "/us/571/0880-14",
+        "/us/571/0880-15",
+        "/us/571/0880-16"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 256,
+    "sha256": "42db96b71d04b9d2663d9bba3be26c94d7922c9093600604a34b08732c8e0fed",
+    "simhash": "1:99b93e4016acd64e",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward C. FEUER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edward C. FEUER, petitioner,\nv.\nUNITED STATES.\nNo. 12-10992.\nSupreme Court of the United States\nNov. 12, 2013.\nFormer decision, 134 S.Ct. 210\nPetition for rehearing denied.\nJustice SOTOMAYOR took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0634-06",
+  "first_page_order": 634,
+  "last_page_order": 634
+}

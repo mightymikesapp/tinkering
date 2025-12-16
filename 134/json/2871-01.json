@@ -1,0 +1,85 @@
+{
+  "id": 12582829,
+  "name": "FAMILY DOLLAR STORES, INC., petitioner, v. Luanna SCOTT, et al.",
+  "name_abbreviation": "Family Dollar Stores, Inc. v. Scott",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u2013899.",
+  "first_page": "2871",
+  "last_page": "2871",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2871"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 848"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3747"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "733 F.3d 105",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3715724
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/733/0105-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 351,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26338639820313847
+    },
+    "sha256": "87bef3fc59d663bca3d4d8fafe0563ee3df88df6e6ef361a39cdb0efe05a2fc3",
+    "simhash": "1:f3ac047c3b459691",
+    "word_count": 60
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FAMILY DOLLAR STORES, INC., petitioner,\nv.\nLuanna SCOTT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of the Retail Litigation Center, Inc. for leave to file a brief as amicus curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "FAMILY DOLLAR STORES, INC., petitioner,\nv.\nLuanna SCOTT, et al.\nNo. 13-899.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 733 F.3d 105.\nMotion of the Retail Litigation Center, Inc. for leave to file a brief as amicus curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2871-01",
+  "first_page_order": 2871,
+  "last_page_order": 2871
+}

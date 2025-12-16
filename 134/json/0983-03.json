@@ -1,0 +1,103 @@
+{
+  "id": 12586542,
+  "name": "Margaret BACH, petitioner, v. Richard LINHART, et al.",
+  "name_abbreviation": "Bach v. Linhart",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136326.",
+  "first_page": "983",
+  "last_page": "983",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 983"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 772"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 672",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699425,
+        12699268,
+        12699269,
+        12699270,
+        12585063,
+        12585064,
+        12585065,
+        12585066,
+        12585067,
+        12585068,
+        12699260,
+        12699261
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1033-06",
+        "/us/571/1022-10",
+        "/us/571/1022-11",
+        "/us/571/1022-12",
+        "/s-ct/134/0672-01",
+        "/s-ct/134/0672-02",
+        "/s-ct/134/0672-03",
+        "/s-ct/134/0672-04",
+        "/s-ct/134/0672-05",
+        "/s-ct/134/0672-06",
+        "/us/571/1022-01",
+        "/us/571/1022-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 251,
+    "sha256": "58f6982f1c9ce73b05655622b957b850ae5a28c3eaba77ed3d7734daa516ed1f",
+    "simhash": "1:e2ae365c6697ff9b",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Margaret BACH, petitioner,\nv.\nRichard LINHART, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Margaret BACH, petitioner,\nv.\nRichard LINHART, et al.\nNo. 13-6326.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 672.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0983-03",
+  "first_page_order": 983,
+  "last_page_order": 983
+}

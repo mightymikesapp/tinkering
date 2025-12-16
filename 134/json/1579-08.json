@@ -1,0 +1,107 @@
+{
+  "id": 12579742,
+  "name": "Adarus Mazio BLACK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Black v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20137771.",
+  "first_page": "1579",
+  "last_page": "1579",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1579"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 587"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 980",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12586528,
+        12700264,
+        12700265,
+        12700266,
+        12700767,
+        12700300,
+        12700301,
+        12700759,
+        12586522,
+        12586523,
+        12586524,
+        12586525,
+        12586526,
+        12586527
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0980-07",
+        "/us/571/1121-03",
+        "/us/571/1121-04",
+        "/us/571/1121-05",
+        "/us/571/1156-10",
+        "/us/571/1124-06",
+        "/us/571/1124-07",
+        "/us/571/1156-01",
+        "/s-ct/134/0980-01",
+        "/s-ct/134/0980-02",
+        "/s-ct/134/0980-03",
+        "/s-ct/134/0980-04",
+        "/s-ct/134/0980-05",
+        "/s-ct/134/0980-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 178,
+    "sha256": "d12a5719fd5894105cc441f877083d611b99edb907348e840a65842d941eea92",
+    "simhash": "1:603c7f479a8a621c",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adarus Mazio BLACK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Adarus Mazio BLACK, petitioner,\nv.\nUNITED STATES.\nNo. 13-7771.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 980.\nPetition for rehearing denied."
+  },
+  "file_name": "1579-08",
+  "first_page_order": 1579,
+  "last_page_order": 1579
+}

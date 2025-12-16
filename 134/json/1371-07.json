@@ -1,0 +1,103 @@
+{
+  "id": 12579047,
+  "name": "Talin A. TASCIYAN, petitioner, v. MEDICAL NUMERICS, et al.",
+  "name_abbreviation": "Tasciyan v. Med. Numerics",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137352.",
+  "first_page": "1371",
+  "last_page": "1371",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1371"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 368"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 942",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12586272,
+        12586273,
+        12586274,
+        12586275,
+        12586276,
+        12586277,
+        12700395,
+        12700590,
+        12700591,
+        12700592,
+        12700593,
+        12700594
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0942-01",
+        "/s-ct/134/0942-02",
+        "/s-ct/134/0942-03",
+        "/s-ct/134/0942-04",
+        "/s-ct/134/0942-05",
+        "/s-ct/134/0942-06",
+        "/us/571/1131-08",
+        "/us/571/1144-09",
+        "/us/571/1144-10",
+        "/us/571/1144-11",
+        "/us/571/1144-12",
+        "/us/571/1144-13"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 186,
+    "sha256": "32b4db874b0d823d262920b794f49c8df15e6269a562ef27a52b0cb479a70dc6",
+    "simhash": "1:30b51c4a17b5df6b",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Talin A. TASCIYAN, petitioner,\nv.\nMEDICAL NUMERICS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Talin A. TASCIYAN, petitioner,\nv.\nMEDICAL NUMERICS, et al.\nNo. 13-7352.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 942.\nPetition for rehearing denied."
+  },
+  "file_name": "1371-07",
+  "first_page_order": 1371,
+  "last_page_order": 1371
+}

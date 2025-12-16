@@ -1,0 +1,85 @@
+{
+  "id": 12579514,
+  "name": "Dawn BALL, petitioner, v. Dr. FAMIGLIO, et al.",
+  "name_abbreviation": "Ball v. Famiglio",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138254.",
+  "first_page": "1547",
+  "last_page": "1547",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1547"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 565"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "726 F.3d 448",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4074226
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/726/0448-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26327171970257723
+    },
+    "sha256": "bbd6cc6e3a3bf6bca4902b6a758c337b4e154c81e99f8c22ff7634514996b684",
+    "simhash": "1:b3ad06c42ac15789",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dawn BALL, petitioner,\nv.\nDr. FAMIGLIO, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dawn BALL, petitioner,\nv.\nDr. FAMIGLIO, et al.\nNo. 13-8254.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 726 F.3d 448.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1547-04",
+  "first_page_order": 1547,
+  "last_page_order": 1547
+}

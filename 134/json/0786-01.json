@@ -1,0 +1,75 @@
+{
+  "id": 12585536,
+  "name": "Debbie Lloyd DASH, petitioner, v. Arthur B. CHASEN, et al.",
+  "name_abbreviation": "Dash v. Chasen",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20136096.",
+  "first_page": "786",
+  "last_page": "786",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 786"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 598"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "503 Fed.Appx. 791",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 256,
+    "sha256": "c46675863871aa3f024d95c0644eb4eecdf499352a3dcbdd708dd52548963d77",
+    "simhash": "1:70afe0cc1b4f25ef",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Debbie Lloyd DASH, petitioner,\nv.\nArthur B. CHASEN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Debbie Lloyd DASH, petitioner,\nv.\nArthur B. CHASEN, et al.\nNo. 13-6096.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 503 Fed.Appx. 791.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0786-01",
+  "first_page_order": 786,
+  "last_page_order": 786
+}

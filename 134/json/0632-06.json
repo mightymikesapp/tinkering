@@ -1,0 +1,103 @@
+{
+  "id": 12584800,
+  "name": "Daniel David DYDZAK, petitioner, v. Arnold SCHWARZENEGGER, et al.",
+  "name_abbreviation": "Dydzak v. Schwarzenegger",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20135330.",
+  "first_page": "632",
+  "last_page": "632",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 632"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 399"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 272",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703556,
+        12703557,
+        12703558,
+        12582279,
+        12582280,
+        12582281,
+        12582282,
+        12582283,
+        12582284,
+        12702031,
+        12703567,
+        12703574
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0909-05",
+        "/us/571/0909-06",
+        "/us/571/0909-07",
+        "/s-ct/134/0272-01",
+        "/s-ct/134/0272-02",
+        "/s-ct/134/0272-03",
+        "/s-ct/134/0272-04",
+        "/s-ct/134/0272-05",
+        "/s-ct/134/0272-06",
+        "/us/571/0805-02",
+        "/us/571/0910-07",
+        "/us/571/0910-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 262,
+    "sha256": "77577bcd4947ae717455c0fff825fdb194eef7613dcd93e9669f0c2b3d512886",
+    "simhash": "1:a2a63774038c331a",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel David DYDZAK, petitioner,\nv.\nArnold SCHWARZENEGGER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel David DYDZAK, petitioner,\nv.\nArnold SCHWARZENEGGER, et al.\nNo. 13-5330.\nSupreme Court of the United States\nNov. 12, 2013.\nFormer decision, 134 S.Ct. 272\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0632-06",
+  "first_page_order": 632,
+  "last_page_order": 632
+}

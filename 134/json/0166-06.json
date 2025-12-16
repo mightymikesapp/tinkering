@@ -1,0 +1,75 @@
+{
+  "id": 12579824,
+  "name": "Miguel HERNANDEZ-MUNGUIA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hernandez-Munguia v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310746.",
+  "first_page": "166",
+  "last_page": "166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 166"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 115"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "511 Fed.Appx. 627",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 251,
+    "sha256": "16baea63dfbb970fa284426fb127655f33b4cb7d88d5cf4f8f23155639d8faa9",
+    "simhash": "1:e3ad76c01367c0b1",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miguel HERNANDEZ-MUNGUIA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Miguel HERNANDEZ-MUNGUIA, petitioner,\nv.\nUNITED STATES.\nNo. 12-10746.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 511 Fed.Appx. 627.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0166-06",
+  "first_page_order": 166,
+  "last_page_order": 166
+}

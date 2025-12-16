@@ -1,0 +1,85 @@
+{
+  "id": 12580300,
+  "name": "ARIZONA, et al., petitioners, v. VALLE DEL SOL, INC., et al.",
+  "name_abbreviation": "Arizona v. Valle Del Sol, Inc.",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u2013806.",
+  "first_page": "1876",
+  "last_page": "1876",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1876"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 911"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "732 F.3d 1006",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3709171
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/732/1006-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 252,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26329816912105686
+    },
+    "sha256": "385d0cd6ec6ecb140b1e3ac0f3215a1d1af8b67af266b23e7452afafd8dce3b9",
+    "simhash": "1:63377244af8437b4",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ARIZONA, et al., petitioners,\nv.\nVALLE DEL SOL, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "ARIZONA, et al., petitioners,\nv.\nVALLE DEL SOL, INC., et al.\nNo. 13-806.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 732 F.3d 1006.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1876-02",
+  "first_page_order": 1876,
+  "last_page_order": 1876
+}

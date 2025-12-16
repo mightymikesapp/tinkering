@@ -1,0 +1,85 @@
+{
+  "id": 12578436,
+  "name": "Michael D. PATTERSON, petitioner, v. NEVADA.",
+  "name_abbreviation": "Patterson v. Nevada",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137050.",
+  "first_page": "1280",
+  "last_page": "1280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1280"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 313"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "298 P.3d 433",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        12410904
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nev/129/0168-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 206,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26323677558035236
+    },
+    "sha256": "e4a0cb540956649d1ef39e10267a876acbbf67a3c0363036b8c7290a4c3d2d33",
+    "simhash": "1:f827e40432056191",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael D. PATTERSON, petitioner,\nv.\nNEVADA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Nevada denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael D. PATTERSON, petitioner,\nv.\nNEVADA.\nNo. 13-7050.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 298 P.3d 433.\nPetition for writ of certiorari to the Supreme Court of Nevada denied."
+  },
+  "file_name": "1280-02",
+  "first_page_order": 1280,
+  "last_page_order": 1280
+}

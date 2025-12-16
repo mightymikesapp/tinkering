@@ -1,0 +1,103 @@
+{
+  "id": 12586619,
+  "name": "Jalal BEYAH, petitioner, v. Leroy CARTLEDGE, Warden.",
+  "name_abbreviation": "Beyah v. Cartledge",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136153.",
+  "first_page": "994",
+  "last_page": "994",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 994"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 843"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 481",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704481,
+        12704482,
+        12704517,
+        12584203,
+        12584204,
+        12584205,
+        12584206,
+        12584207,
+        12584208,
+        12704526,
+        12704534,
+        12704535
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0974-13",
+        "/us/571/0974-14",
+        "/us/571/0977-06",
+        "/s-ct/134/0481-01",
+        "/s-ct/134/0481-02",
+        "/s-ct/134/0481-03",
+        "/s-ct/134/0481-04",
+        "/s-ct/134/0481-05",
+        "/s-ct/134/0481-06",
+        "/us/571/0978-08",
+        "/us/571/0978-09",
+        "/us/571/0978-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 180,
+    "sha256": "fb309989c865a8afaf530e520fd58705005575edb01e633222a42b0f84fda798",
+    "simhash": "1:7fb7364414f677d9",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jalal BEYAH, petitioner,\nv.\nLeroy CARTLEDGE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jalal BEYAH, petitioner,\nv.\nLeroy CARTLEDGE, Warden.\nNo. 13-6153.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 481.\nPetition for rehearing denied."
+  },
+  "file_name": "0994-05",
+  "first_page_order": 994,
+  "last_page_order": 994
+}

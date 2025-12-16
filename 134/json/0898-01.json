@@ -1,0 +1,85 @@
+{
+  "id": 12585983,
+  "name": "Elliot HEATH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Heath v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 12\u201311003.",
+  "first_page": "898",
+  "last_page": "898",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 898"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 774"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "26 A.3d 266",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7275200
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/26/0266-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 219,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26348910689387683
+    },
+    "sha256": "ec9626e81c702008b31b16b29138e9e97775414a1e46f1b87f175e0e4abd80bf",
+    "simhash": "1:69e674442201c391",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elliot HEATH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the District of Columbia Court of Appeals denied."
+    ],
+    "corrections": "",
+    "head_matter": "Elliot HEATH, petitioner,\nv.\nUNITED STATES.\nNo. 12-11003.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 26 A.3d 266.\nPetition for writ of certiorari to the District of Columbia Court of Appeals denied."
+  },
+  "file_name": "0898-01",
+  "first_page_order": 898,
+  "last_page_order": 898
+}

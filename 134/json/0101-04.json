@@ -1,0 +1,75 @@
+{
+  "id": 12577995,
+  "name": "Daniel R. GONZALES, petitioner, v. Michael STAINER, Acting Warden, et al.",
+  "name_abbreviation": "Gonzales v. Stainer",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310307.",
+  "first_page": "101",
+  "last_page": "101",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 101"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 74"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "507 Fed.Appx. 704",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 269,
+    "sha256": "61a30378e2afcb20d3e1be91152e4c4c568bc1414c394fcee0d5691126670e6f",
+    "simhash": "1:c33dda453b458692",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel R. GONZALES, petitioner,\nv.\nMichael STAINER, Acting Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel R. GONZALES, petitioner,\nv.\nMichael STAINER, Acting Warden, et al.\nNo. 12-10307.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 507 Fed.Appx. 704.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0101-04",
+  "first_page_order": 101,
+  "last_page_order": 101
+}

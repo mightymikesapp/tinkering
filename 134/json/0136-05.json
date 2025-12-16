@@ -1,0 +1,75 @@
+{
+  "id": 12579031,
+  "name": "Luis RODRIGUEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rodriguez v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310578.",
+  "first_page": "136",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 136"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 258"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "503 Fed.Appx. 72",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 323,
+    "sha256": "b441a0d92d0a9dce5e86df1418a79b93349c42bd03352962de530c2d63ef1079",
+    "simhash": "1:99ec7640590e964a",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luis RODRIGUEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Luis RODRIGUEZ, petitioner,\nv.\nUNITED STATES.\nNo. 12-10578.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 503 Fed.Appx. 72.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\nJustice SOTOMAYOR took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0136-05",
+  "first_page_order": 136,
+  "last_page_order": 136
+}

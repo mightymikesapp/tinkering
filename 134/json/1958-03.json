@@ -1,0 +1,75 @@
+{
+  "id": 12580845,
+  "name": "Bernard Everett REESE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Reese v. United States",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20139493.",
+  "first_page": "1958",
+  "last_page": "1958",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1958"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 975"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "548 Fed.Appx. 927",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 250,
+    "sha256": "0a33b59b4118ab600d4b90224da0d5bfb45715f99a381c5c574f13a49c4f7a86",
+    "simhash": "1:e3ef6644aac41211",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bernard Everett REESE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bernard Everett REESE, petitioner,\nv.\nUNITED STATES.\nNo. 13-9493.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 548 Fed.Appx. 927.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1958-03",
+  "first_page_order": 1958,
+  "last_page_order": 1958
+}

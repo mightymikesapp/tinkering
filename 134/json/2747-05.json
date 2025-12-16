@@ -1,0 +1,103 @@
+{
+  "id": 12582398,
+  "name": "Crawley David McFADDEN, petitioner, v. A.O. SMITH, et al.",
+  "name_abbreviation": "McFadden v. Smith",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20138107.",
+  "first_page": "2747",
+  "last_page": "2747",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2747"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 780"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1517",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704871,
+        12704872,
+        12704873,
+        12704874,
+        12704875,
+        12704876,
+        12579320,
+        12579321,
+        12579322,
+        12579323,
+        12579324,
+        12579325
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1004-11",
+        "/us/572/1004-12",
+        "/us/572/1004-13",
+        "/us/572/1004-14",
+        "/us/572/1004-15",
+        "/us/572/1004-16",
+        "/s-ct/134/1517-01",
+        "/s-ct/134/1517-02",
+        "/s-ct/134/1517-03",
+        "/s-ct/134/1517-04",
+        "/s-ct/134/1517-05",
+        "/s-ct/134/1517-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 185,
+    "sha256": "31f2742b4e0b54403881b5088740fdd773fc6f65b9e741f42ed4b44a8243ea5c",
+    "simhash": "1:74243cc41eece24b",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Crawley David McFADDEN, petitioner,\nv.\nA.O. SMITH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Crawley David McFADDEN, petitioner,\nv.\nA.O. SMITH, et al.\nNo. 13-8107.\nSupreme Court of the United States\nJune 9, 2014.\nFormer decision, 134 S.Ct. 1517.\nPetition for rehearing denied."
+  },
+  "file_name": "2747-05",
+  "first_page_order": 2747,
+  "last_page_order": 2747
+}

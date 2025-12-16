@@ -1,0 +1,75 @@
+{
+  "id": 12583830,
+  "name": "Randal ANKENEY, petitioner, v. Lou ARCHULETA, Warden, et al.",
+  "name_abbreviation": "Ankeney v. Archuleta",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135590.",
+  "first_page": "424",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 424"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 287"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "521 Fed.Appx. 650",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 256,
+    "sha256": "3dfda93b8204527e6077d9497e43d7681da7dfe65eb31f65be644629af8cbe10",
+    "simhash": "1:606ea64d3b85049b",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randal ANKENEY, petitioner,\nv.\nLou ARCHULETA, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Randal ANKENEY, petitioner,\nv.\nLou ARCHULETA, Warden, et al.\nNo. 13-5590.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 521 Fed.Appx. 650.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0424-04",
+  "first_page_order": 424,
+  "last_page_order": 424
+}

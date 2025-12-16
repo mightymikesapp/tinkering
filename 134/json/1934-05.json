@@ -1,0 +1,85 @@
+{
+  "id": 12580692,
+  "name": "NEW YORK, et al., petitioners, v. Alexina SIMON.",
+  "name_abbreviation": "Newyork v. Simon",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u2013600.",
+  "first_page": "1934",
+  "last_page": "1934",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1934"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 959"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "727 F.3d 167",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4077941
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/727/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633082083163922
+    },
+    "sha256": "b189cae6cfe2bf55deca7ffdad7441b02dee0693c2f9ea18b45483eb603e6a31",
+    "simhash": "1:637776c4bf845101",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NEW YORK, et al., petitioners,\nv.\nAlexina SIMON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "NEW YORK, et al., petitioners,\nv.\nAlexina SIMON.\nNo. 13-600.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 727 F.3d 167.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1934-05",
+  "first_page_order": 1934,
+  "last_page_order": 1934
+}

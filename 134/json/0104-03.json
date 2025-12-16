@@ -1,0 +1,93 @@
+{
+  "id": 12578192,
+  "name": "Andrew J. ARCHULETA, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Archuleta v. Washington",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310336.",
+  "first_page": "104",
+  "last_page": "104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 104"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 76"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 2877514",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "169 Wash.App. 1015",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4028385,
+        4029210,
+        4030612,
+        4029591
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-app/169/1015-03",
+        "/wash-app/169/1015-02",
+        "/wash-app/169/1015-01",
+        "/wash-app/169/1015-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "sha256": "82398303930e1f33d5f06fbaff94e0b3af1707c87a6295172e996ae557816ca9",
+    "simhash": "1:31afca22530184ad",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew J. ARCHULETA, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew J. ARCHULETA, petitioner,\nv.\nWASHINGTON.\nNo. 12-10336.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 169 Wash.App. 1015, 2012 WL 2877514.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+  },
+  "file_name": "0104-03",
+  "first_page_order": 104,
+  "last_page_order": 104
+}

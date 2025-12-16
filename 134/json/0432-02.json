@@ -1,0 +1,75 @@
+{
+  "id": 12583881,
+  "name": "David R. COBIN, petitioner, v. Lynn JOHNSON, Chief Justice, et al.",
+  "name_abbreviation": "Cobin v. Johnson",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135696.",
+  "first_page": "432",
+  "last_page": "432",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 432"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 291"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Fed.Appx. 200",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 263,
+    "sha256": "b9b5792197edaacf028320b4f52ed9ad8630c9b7770806b80616865423097e72",
+    "simhash": "1:323fe68c388505ad",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David R. COBIN, petitioner,\nv.\nLynn JOHNSON, Chief Justice, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David R. COBIN, petitioner,\nv.\nLynn JOHNSON, Chief Justice, et al.\nNo. 13-5696.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 519 Fed.Appx. 200.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0432-02",
+  "first_page_order": 432,
+  "last_page_order": 432
+}

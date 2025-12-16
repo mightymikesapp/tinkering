@@ -1,0 +1,75 @@
+{
+  "id": 12584732,
+  "name": "Juan Rudy ENRIQUEZ, petitioner, v. TEXAS.",
+  "name_abbreviation": "Enriquez v. Texas",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20136235.",
+  "first_page": "622",
+  "last_page": "622",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 622"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 403"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 749841",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 216,
+    "sha256": "92e585ab7f05d02f22842bccaac77dd4cd2d18f925f7d91b0dad693d60b75954",
+    "simhash": "1:292fae4623c544a8",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan Rudy ENRIQUEZ, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan Rudy ENRIQUEZ, petitioner,\nv.\nTEXAS.\nNo. 13-6235.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 2013 WL 749841.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0622-05",
+  "first_page_order": 622,
+  "last_page_order": 622
+}

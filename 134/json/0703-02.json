@@ -1,0 +1,75 @@
+{
+  "id": 12585267,
+  "name": "Brian J. CUMMINGS, petitioner, v. Hector SANTIAGO, Warden.",
+  "name_abbreviation": "Cummings v. Santiago",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136900.",
+  "first_page": "703",
+  "last_page": "703",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 703"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 566"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "527 Fed.Appx. 427",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 253,
+    "sha256": "132a71fabd04c358ba93b7b5f0c45d9396a554055347a968859ad98fccd0d515",
+    "simhash": "1:e06f6445714507a2",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian J. CUMMINGS, petitioner,\nv.\nHector SANTIAGO, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian J. CUMMINGS, petitioner,\nv.\nHector SANTIAGO, Warden.\nNo. 13-6900.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 527 Fed.Appx. 427.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0703-02",
+  "first_page_order": 703,
+  "last_page_order": 703
+}

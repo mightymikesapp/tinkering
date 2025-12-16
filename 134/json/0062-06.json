@@ -1,0 +1,85 @@
+{
+  "id": 12584781,
+  "name": "AMERICAN MANAGEMENT SERVICES, LLC, dba Pinnacle, petitioner, v. DEPARTMENT OF the ARMY.",
+  "name_abbreviation": "Am. Mgmt. Servs., LLC v. Dep't of the Army",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131233.",
+  "first_page": "62",
+  "last_page": "62",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 62"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 27"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "703 F.3d 724",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3649728
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/703/0724-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 278,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634489501125355
+    },
+    "sha256": "ff94786a8749956ae35afb77df2fe56ff90e400f627ba9ad17e3c760213be21f",
+    "simhash": "1:6bafe20cfbc5c5a9",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "AMERICAN MANAGEMENT SERVICES, LLC, dba Pinnacle, petitioner,\nv.\nDEPARTMENT OF the ARMY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "AMERICAN MANAGEMENT SERVICES, LLC, dba Pinnacle, petitioner,\nv.\nDEPARTMENT OF the ARMY.\nNo. 12-1233.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 703 F.3d 724.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0062-06",
+  "first_page_order": 62,
+  "last_page_order": 62
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583042,
+  "name": "Antonio CASTELLANO, petitioner, v. Leland McEWAN, Warden.",
+  "name_abbreviation": "Castellano v. McEwan",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135448.",
+  "first_page": "290",
+  "last_page": "290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 290"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 209"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "507 Fed.Appx. 713",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 252,
+    "sha256": "b8d63ecfb5f536ee47104a9dc9ba94aca562d15927b33436eb54db665ed0a946",
+    "simhash": "1:43efe244bb471738",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio CASTELLANO, petitioner,\nv.\nLeland McEWAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio CASTELLANO, petitioner,\nv.\nLeland McEWAN, Warden.\nNo. 13-5448.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 507 Fed.Appx. 713.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0290-04",
+  "first_page_order": 290,
+  "last_page_order": 290
+}

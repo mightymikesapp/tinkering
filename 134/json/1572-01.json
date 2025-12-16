@@ -1,0 +1,85 @@
+{
+  "id": 12579686,
+  "name": "Randall Justin McGEE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "McGee v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138810.",
+  "first_page": "1572",
+  "last_page": "1572",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1572"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 580"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "736 F.3d 263",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3726425
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/736/0263-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632767393002449
+    },
+    "sha256": "cdea3c87f8f8198b9a6e0825081b7c13c26d1f908c9da88b0983b95cde468659",
+    "simhash": "1:196de4443e254711",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randall Justin McGEE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Randall Justin McGEE, petitioner,\nv.\nUNITED STATES.\nNo. 13-8810.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 736 F.3d 263.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1572-01",
+  "first_page_order": 1572,
+  "last_page_order": 1572
+}

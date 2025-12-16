@@ -1,0 +1,91 @@
+{
+  "id": 12585631,
+  "name": "Jonathan ASHLEY, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Ashley v. Massachusetts",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310074.",
+  "first_page": "79",
+  "last_page": "79",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 79"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 62"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "978 N.E.2d 576",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "82 Mass.App.Ct. 748",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3848648
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass-app-ct/82/0748-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634746272852201
+    },
+    "sha256": "1c276032560552d049317822fa5ea98abc01cc9fd876d1b75d69eaa6bbb2e84d",
+    "simhash": "1:68f9f2de7df1039d",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jonathan ASHLEY, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appeals Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jonathan ASHLEY, petitioner,\nv.\nMASSACHUSETTS.\nNo. 12-10074.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 82 Mass.App.Ct. 748, 978 N.E.2d 576.\nPetition for writ of certiorari to the Appeals Court of Massachusetts denied."
+  },
+  "file_name": "0079-04",
+  "first_page_order": 79,
+  "last_page_order": 79
+}

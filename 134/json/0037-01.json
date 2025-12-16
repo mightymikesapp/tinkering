@@ -1,0 +1,91 @@
+{
+  "id": 12583643,
+  "name": "Jacqueline T. ROBINSON-REEDER, petitioner, v. Christine N. KEARNS, et al.",
+  "name_abbreviation": "Robinson-Reeder v. Kearns",
+  "decision_date": "2013-08-12",
+  "docket_number": "No. 12\u20139644.",
+  "first_page": "37",
+  "last_page": "37",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 37"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 950"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3079"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2803",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12696928,
+        12696938,
+        12696893,
+        12696925,
+        12696926,
+        12696927
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/1033-04",
+        "/us/569/1033-15",
+        "/us/569/1030-12",
+        "/us/569/1033-01",
+        "/us/569/1033-02",
+        "/us/569/1033-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 201,
+    "sha256": "6f08ba613a7240b164412b169e4a852e91fb5a31a5e802c2a78856b9b3a97bf4",
+    "simhash": "1:abaa745096a0530e",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jacqueline T. ROBINSON-REEDER, petitioner,\nv.\nChristine N. KEARNS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jacqueline T. ROBINSON-REEDER, petitioner,\nv.\nChristine N. KEARNS, et al.\nNo. 12-9644.\nSupreme Court of the United States\nAug. 12, 2013.\nFormer decision, 133 S.Ct. 2803\nPetition for rehearing denied."
+  },
+  "file_name": "0037-01",
+  "first_page_order": 37,
+  "last_page_order": 37
+}

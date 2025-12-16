@@ -1,0 +1,85 @@
+{
+  "id": 12579840,
+  "name": "Albert CUNNINGHAM, petitioner, v. Kevin CHAPPELL, Warden.",
+  "name_abbreviation": "Cunningham v. Chappell",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310762.",
+  "first_page": "169",
+  "last_page": "169",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 169"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 116"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "704 F.3d 1143",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3654802
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/704/1143-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 249,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26328040746777126
+    },
+    "sha256": "487641834eb2f26a4282befddd5c7e282ad12c22b9a83f6ff7aa8c1217c3f8ff",
+    "simhash": "1:c32f62653b600684",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albert CUNNINGHAM, petitioner,\nv.\nKevin CHAPPELL, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Albert CUNNINGHAM, petitioner,\nv.\nKevin CHAPPELL, Warden.\nNo. 12-10762.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 704 F.3d 1143.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0169-01",
+  "first_page_order": 169,
+  "last_page_order": 169
+}

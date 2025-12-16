@@ -1,0 +1,85 @@
+{
+  "id": 12581288,
+  "name": "Willena STARGELL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Stargell v. United States",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20138224.",
+  "first_page": "2289",
+  "last_page": "2289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2289"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 178"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "738 F.3d 1018",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3695766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/738/1018-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263332920181833
+    },
+    "sha256": "2f19dc7d7e21a4bed4d30f8e82b1ef4dbaecf9d5fa8b9dd7b84992504882e8a7",
+    "simhash": "1:d9ff76468b0f9503",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Willena STARGELL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Willena STARGELL, petitioner,\nv.\nUNITED STATES.\nNo. 13-8224.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 738 F.3d 1018.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2289-04",
+  "first_page_order": 2289,
+  "last_page_order": 2289
+}

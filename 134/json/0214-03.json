@@ -1,0 +1,75 @@
+{
+  "id": 12581092,
+  "name": "Troy Lamont KETCHMORE, petitioner, v. Harold W. CLARKE, Director, Virginia Department of Corrections.",
+  "name_abbreviation": "Ketchmore v. Clarke",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135010.",
+  "first_page": "214",
+  "last_page": "214",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 214"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 161"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "507 Fed.Appx. 324",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 298,
+    "sha256": "7497bd3c9766ed9052ed701374ea08d04f4bfca3518e359ac2bb79920e1f3093",
+    "simhash": "1:732f4604395087d2",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Troy Lamont KETCHMORE, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Troy Lamont KETCHMORE, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections.\nNo. 13-5010.\nSupreme Court of the United States\nOct. 07, 2013.\nCase below, 507 Fed.Appx. 324.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0214-03",
+  "first_page_order": 214,
+  "last_page_order": 214
+}

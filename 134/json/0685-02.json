@@ -1,0 +1,75 @@
+{
+  "id": 12585146,
+  "name": "Michael A. SCOTT, petitioner, v. CITY OF VIRGINIA BEACH, VIRGINIA, et al.",
+  "name_abbreviation": "Scott v. City of Va. Beach",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u2013362.",
+  "first_page": "685",
+  "last_page": "685",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 685"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 550"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 215",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 268,
+    "sha256": "8f648251b9306f2be3bba76daaf7ba500804d25f5ff54f066de72e7730d25da2",
+    "simhash": "1:7867468c32cc068b",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael A. SCOTT, petitioner,\nv.\nCITY OF VIRGINIA BEACH, VIRGINIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael A. SCOTT, petitioner,\nv.\nCITY OF VIRGINIA BEACH, VIRGINIA, et al.\nNo. 13-362.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 520 Fed.Appx. 215.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0685-02",
+  "first_page_order": 685,
+  "last_page_order": 685
+}

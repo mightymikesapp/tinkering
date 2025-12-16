@@ -1,0 +1,73 @@
+{
+  "id": 12578799,
+  "name": "Jeremy ELLIOTT, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Elliott v. Florida",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138106.",
+  "first_page": "1335",
+  "last_page": "1335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1335"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 343"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "124 So.3d 924",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "488a7c2c0150e79ff3c31bb61fdb6964fd014bcb66577ea857c025c344b8e411",
+    "simhash": "1:707fc646fc89c115",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeremy ELLIOTT, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jeremy ELLIOTT, petitioner,\nv.\nFLORIDA.\nNo. 13-8106.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 124 So.3d 924.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Second District, denied."
+  },
+  "file_name": "1335-05",
+  "first_page_order": 1335,
+  "last_page_order": 1335
+}

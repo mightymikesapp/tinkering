@@ -1,0 +1,103 @@
+{
+  "id": 12579010,
+  "name": "Lorna BEACH-MATHURA, petitioner, v. MIAMI-DADE COUNTY PUBLIC SCHOOLS, et al.",
+  "name_abbreviation": "Beach-Mathura v. Miami-Dade Cnty. Pub. Sch.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20135322.",
+  "first_page": "1367",
+  "last_page": "1367",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1367"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 364"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 680",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12585120,
+        12585121,
+        12699591,
+        12699598,
+        12699599,
+        12699600,
+        12699601,
+        12699602,
+        12585116,
+        12585117,
+        12585118,
+        12585119
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0680-05",
+        "/s-ct/134/0680-06",
+        "/us/571/1074-07",
+        "/us/571/1074-08",
+        "/us/571/1074-09",
+        "/us/571/1074-10",
+        "/us/571/1074-11",
+        "/us/571/1074-12",
+        "/s-ct/134/0680-01",
+        "/s-ct/134/0680-02",
+        "/s-ct/134/0680-03",
+        "/s-ct/134/0680-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 204,
+    "sha256": "064def215c47c1813ce09d17cb650f74b0620981af7da92b4ab427fae8445b46",
+    "simhash": "1:17ae044a4cd4df44",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lorna BEACH-MATHURA, petitioner,\nv.\nMIAMI-DADE COUNTY PUBLIC SCHOOLS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lorna BEACH-MATHURA, petitioner,\nv.\nMIAMI-DADE COUNTY PUBLIC SCHOOLS, et al.\nNo. 13-5322.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 680.\nPetition for rehearing denied."
+  },
+  "file_name": "1367-04",
+  "first_page_order": 1367,
+  "last_page_order": 1367
+}

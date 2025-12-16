@@ -1,0 +1,75 @@
+{
+  "id": 12584025,
+  "name": "Albert Juan ORTEGA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ortega v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136176.",
+  "first_page": "454",
+  "last_page": "454",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 454"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 304"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 626",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 245,
+    "sha256": "f5bf1dec1c1dc125c45db7fb8d182fa7ff00ddd0f4ddc5f5588d21eb3b3c2cfa",
+    "simhash": "1:63ec664230860699",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albert Juan ORTEGA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Albert Juan ORTEGA, petitioner,\nv.\nUNITED STATES.\nNo. 13-6176.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 520 Fed.Appx. 626.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0454-04",
+  "first_page_order": 454,
+  "last_page_order": 454
+}

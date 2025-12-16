@@ -1,0 +1,75 @@
+{
+  "id": 12585499,
+  "name": "Johnny Dale BLACK, petitioner, v. Anita TRAMWELL, Warden.",
+  "name_abbreviation": "Black v. Tramwell",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310030.",
+  "first_page": "73",
+  "last_page": "73",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 73"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 60"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "485 Fed.Appx. 335",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 253,
+    "sha256": "f18805645f98eacce6de74dfd9d03ffb4f8ca364e58366278b2082061364980e",
+    "simhash": "1:616f76467927838a",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnny Dale BLACK, petitioner,\nv.\nAnita TRAMWELL, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Johnny Dale BLACK, petitioner,\nv.\nAnita TRAMWELL, Warden.\nNo. 12-10030.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 485 Fed.Appx. 335.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0073-07",
+  "first_page_order": 73,
+  "last_page_order": 73
+}

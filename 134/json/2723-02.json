@@ -1,0 +1,85 @@
+{
+  "id": 12582239,
+  "name": "Sharon THURBER, petitioner, v. AETNA LIFE INSURANCE COMPANY, et al.",
+  "name_abbreviation": "Thurber v. Aetna Life Ins. Co.",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u2013130.",
+  "first_page": "2723",
+  "last_page": "2723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2723"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 778"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "712 F.3d 654",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3555717
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/712/0654-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 335,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26336496838232654
+    },
+    "sha256": "d1b27a8e480a3bd92897778f4b0dc83754d94363cc3949227bcd2f2a0083a55a",
+    "simhash": "1:ba65c406fba45ecb",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sharon THURBER, petitioner,\nv.\nAETNA LIFE INSURANCE COMPANY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYER took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice BREYER took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sharon THURBER, petitioner,\nv.\nAETNA LIFE INSURANCE COMPANY, et al.\nNo. 13-130.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 712 F.3d 654.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "2723-02",
+  "first_page_order": 2723,
+  "last_page_order": 2723
+}

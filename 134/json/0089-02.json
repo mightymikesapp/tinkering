@@ -1,0 +1,75 @@
+{
+  "id": 12585996,
+  "name": "Jaime LUEVANO, petitioner, v. TEXAS.",
+  "name_abbreviation": "Luevano v. Texas",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131343.",
+  "first_page": "89",
+  "last_page": "89",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 89"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 32"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 1883115",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 220,
+    "sha256": "908e43d7df52d493e4ce8d7b644b2f7c7ddbf2f371db17a1ae6738480501827a",
+    "simhash": "1:19aff65b52d3a0b1",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jaime LUEVANO, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Eighth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jaime LUEVANO, petitioner,\nv.\nTEXAS.\nNo. 12-1343.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2012 WL 1883115.\nPetition for writ of certiorari to the Court of Appeals of Texas, Eighth District, denied."
+  },
+  "file_name": "0089-02",
+  "first_page_order": 89,
+  "last_page_order": 89
+}

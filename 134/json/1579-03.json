@@ -1,0 +1,103 @@
+{
+  "id": 12579737,
+  "name": "Tiran Rodez CASTEEL, aka Tiran R. Casteel, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Casteel v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20137477.",
+  "first_page": "1579",
+  "last_page": "1579",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1579"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 586"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 954",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700645,
+        12700652,
+        12700653,
+        12700654,
+        12586351,
+        12586352,
+        12586353,
+        12586354,
+        12586355,
+        12586356,
+        12700559,
+        12700655
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1148-07",
+        "/us/571/1148-08",
+        "/us/571/1148-09",
+        "/us/571/1148-10",
+        "/s-ct/134/0954-01",
+        "/s-ct/134/0954-02",
+        "/s-ct/134/0954-03",
+        "/s-ct/134/0954-04",
+        "/s-ct/134/0954-05",
+        "/s-ct/134/0954-06",
+        "/us/571/1142-07",
+        "/us/571/1148-11"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 200,
+    "sha256": "9b68a19ffa71bfc01b708479d35c36dc322dcf180ea8e167dbca41f8026f0e25",
+    "simhash": "1:912d3e46128cf119",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tiran Rodez CASTEEL, aka Tiran R. Casteel, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tiran Rodez CASTEEL, aka Tiran R. Casteel, petitioner,\nv.\nUNITED STATES.\nNo. 13-7477.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 954\nPetition for rehearing denied."
+  },
+  "file_name": "1579-03",
+  "first_page_order": 1579,
+  "last_page_order": 1579
+}

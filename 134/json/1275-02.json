@@ -1,0 +1,83 @@
+{
+  "id": 12578405,
+  "name": "Lewis M. JORDAN, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Jordan v. Pennsylvania",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136006.",
+  "first_page": "1275",
+  "last_page": "1275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1275"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 311"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "65 A.3d 318",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4234443,
+        7308605
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/619/0513-01",
+        "/a3d/65/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 231,
+    "sha256": "ed99960902b71cebd35caa07f7596ec85782acd26b538d1e92c8c01178d0c00b",
+    "simhash": "1:dc6cd45c30814105",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lewis M. JORDAN, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lewis M. JORDAN, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-6006.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 65 A.3d 318.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+  },
+  "file_name": "1275-02",
+  "first_page_order": 1275,
+  "last_page_order": 1275
+}

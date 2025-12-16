@@ -1,0 +1,85 @@
+{
+  "id": 12578021,
+  "name": "MICHIGAN, petitioner, v. Jessie HARRISON.",
+  "name_abbreviation": "Michigan v. Harrison",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u2013451.",
+  "first_page": "1023",
+  "last_page": "1023",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1023"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 119"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3446"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "722 F.3d 768",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4062730
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/722/0768-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 231,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632197861728618
+    },
+    "sha256": "342ef1cf445d329393ae795402d21132ac23016a99d0c245540168aa4802e957",
+    "simhash": "1:79bde6043a811385",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MICHIGAN, petitioner,\nv.\nJessie HARRISON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "MICHIGAN, petitioner,\nv.\nJessie HARRISON.\nNo. 13-451.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 722 F.3d 768.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1023-05",
+  "first_page_order": 1023,
+  "last_page_order": 1023
+}

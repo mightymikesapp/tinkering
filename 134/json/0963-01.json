@@ -1,0 +1,75 @@
+{
+  "id": 12586410,
+  "name": "Ricky Walter DENTON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Denton v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137548.",
+  "first_page": "963",
+  "last_page": "963",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 963"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 822"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "535 Fed.Appx. 832",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 249,
+    "sha256": "7303e2dc7a241517acf22de7bf0d0921f0a2e7c997eea8bd89b3dffe87cbcd1d",
+    "simhash": "1:79ed764431065691",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ricky Walter DENTON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ricky Walter DENTON, petitioner,\nv.\nUNITED STATES.\nNo. 13-7548.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 535 Fed.Appx. 832.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0963-01",
+  "first_page_order": 963,
+  "last_page_order": 963
+}

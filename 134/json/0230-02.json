@@ -1,0 +1,86 @@
+{
+  "id": 12581422,
+  "name": "Lawrence RICE, petitioner, v. GEORGIA.",
+  "name_abbreviation": "Rice v. Georgia",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135100.",
+  "first_page": "230",
+  "last_page": "230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 230"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 171"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "292 Ga. 191",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        3651224
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/292/0191-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 215,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633383259023982
+    },
+    "sha256": "afbc7521e4188671af66d13b8449509a8a3e96cc6376e97ddffe569a55be421c",
+    "simhash": "1:42efd41c72b722bb",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lawrence RICE, petitioner,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lawrence RICE, petitioner,\nv.\nGEORGIA.\nNo. 13-5100.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 292 Ga. 191, 733 S.E.2d 755.\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "0230-02",
+  "first_page_order": 230,
+  "last_page_order": 230
+}

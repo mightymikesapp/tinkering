@@ -1,0 +1,75 @@
+{
+  "id": 12586073,
+  "name": "Siobhan DONEGAN, petitioner, v. Irene LIVINGSTON, et al.",
+  "name_abbreviation": "Donegan v. Livingston",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013497.",
+  "first_page": "911",
+  "last_page": "911",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 911"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 780"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "523 Fed.Appx. 195",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 251,
+    "sha256": "b7602b0cce80b23fb1d39261d67b7532a5cfec6e48b1dd01567a005e77d41e0b",
+    "simhash": "1:aeacd64c3ec117ae",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Siobhan DONEGAN, petitioner,\nv.\nIrene LIVINGSTON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Siobhan DONEGAN, petitioner,\nv.\nIrene LIVINGSTON, et al.\nNo. 13-497.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 523 Fed.Appx. 195.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0911-03",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

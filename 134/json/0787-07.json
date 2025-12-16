@@ -1,0 +1,87 @@
+{
+  "id": 12585548,
+  "name": "Paul GRAY, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Gray v. Louisiana",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20136652.",
+  "first_page": "787",
+  "last_page": "788",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 787"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 599"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "119 So.3d 599",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7000985,
+        7000882,
+        7000908,
+        7000958
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/119/0599-04",
+        "/so3d/119/0599-01",
+        "/so3d/119/0599-02",
+        "/so3d/119/0599-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 201,
+    "sha256": "b91197e90310ac679b63c5665abd3b09f107434a4f64e6a7ccc4b95cc1a61c60",
+    "simhash": "1:72ef67c452d4463f",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul GRAY, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Louisiana denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul GRAY, petitioner,\nv.\nLOUISIANA.\nNo. 13-6652.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 119 So.3d 599.\nPetition for writ of certiorari to the Supreme Court of Louisiana denied."
+  },
+  "file_name": "0787-07",
+  "first_page_order": 787,
+  "last_page_order": 788
+}

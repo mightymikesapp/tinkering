@@ -1,0 +1,97 @@
+{
+  "id": 12580352,
+  "name": "Luis Pelon MACIEL, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Maciel v. California",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138647.",
+  "first_page": "1884",
+  "last_page": "1884",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1884"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 921"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "304 P.3d 983",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "160 Cal.Rptr.3d 305",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 Cal.4th 482",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6054126
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/57/0482-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 249,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633000997355444
+    },
+    "sha256": "43dd3200d34dc405d943a2b114224f0cd51d2dc18f3577757cf7c9faedc531c1",
+    "simhash": "1:6977544e7895e375",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luis Pelon MACIEL, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "Luis Pelon MACIEL, petitioner,\nv.\nCALIFORNIA.\nNo. 13-8647.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 57 Cal.4th 482, 160 Cal.Rptr.3d 305, 304 P.3d 983.\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "1884-04",
+  "first_page_order": 1884,
+  "last_page_order": 1884
+}

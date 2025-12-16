@@ -1,0 +1,97 @@
+{
+  "id": 12579760,
+  "name": "In the Matter of Elie S. COURY.",
+  "name_abbreviation": "In re Coury",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. D\u20132768.",
+  "first_page": "1581",
+  "last_page": "1581",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1581"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1375",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701251,
+        12701834,
+        12701823,
+        12701844,
+        12701845,
+        12701846,
+        12579066,
+        12579067,
+        12579068,
+        12579069,
+        12579070,
+        12579071
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1193-05",
+        "/us/571/1233-12",
+        "/us/571/1233-11",
+        "/us/571/1234-03",
+        "/us/571/1234-04",
+        "/us/571/1234-05",
+        "/s-ct/134/1375-01",
+        "/s-ct/134/1375-02",
+        "/s-ct/134/1375-03",
+        "/s-ct/134/1375-04",
+        "/s-ct/134/1375-05",
+        "/s-ct/134/1375-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 416,
+    "sha256": "e3329cd089deb404fa274a6564936cf97aa9ff69d2330b1046d99c7a339e4805",
+    "simhash": "1:3a6d91541f88f72b",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Elie S. COURY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Elie S. COURY.\nNo. D-2768.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 134 S.Ct. 1375.\nElie S. Coury, of Danbury, Connecticut, having requested to resign as a member of the Bar of this Court, it is ordered that his name be stricken from the roll of attorneys permitted to the practice of law before this Court. The Rule to Show Cause, issued on February 24, 2014, is discharged."
+  },
+  "file_name": "1581-05",
+  "first_page_order": 1581,
+  "last_page_order": 1581
+}

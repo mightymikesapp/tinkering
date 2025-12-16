@@ -1,0 +1,75 @@
+{
+  "id": 12578962,
+  "name": "Glenn MARCUS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Marcus v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310571.",
+  "first_page": "135",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 135"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 258"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "517 Fed.Appx. 8",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 338,
+    "sha256": "29e7f1f209b1c220ca5aad48d0faa58eaaf612f98ff2a592934b684f6849bac8",
+    "simhash": "1:d97d26427766d989",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Glenn MARCUS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Glenn MARCUS, petitioner,\nv.\nUNITED STATES.\nNo. 12-10571.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 517 Fed.Appx. 8.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\nJustice SOTOMAYOR and Justice KAGAN took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0135-03",
+  "first_page_order": 135,
+  "last_page_order": 135
+}

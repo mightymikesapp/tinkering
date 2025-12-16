@@ -1,0 +1,103 @@
+{
+  "id": 12585464,
+  "name": "Luis A. SORO, petitioner, v. Jose L. SORO.",
+  "name_abbreviation": "Soro v. Soro",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20135245.",
+  "first_page": "731",
+  "last_page": "731",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 731"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 586"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 254",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12581729,
+        12581730,
+        12581731,
+        12581732,
+        12581733,
+        12581734,
+        12703500,
+        12703501,
+        12703182,
+        12703183,
+        12703502,
+        12703503
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0254-01",
+        "/s-ct/134/0254-02",
+        "/s-ct/134/0254-03",
+        "/s-ct/134/0254-04",
+        "/s-ct/134/0254-05",
+        "/s-ct/134/0254-06",
+        "/us/571/0905-10",
+        "/us/571/0905-11",
+        "/us/571/0883-07",
+        "/us/571/0883-08",
+        "/us/571/0905-12",
+        "/us/571/0905-13"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 168,
+    "sha256": "d08046f1732de4004d88094c0e6222bb564a57b595581eb716fb9ded976467e8",
+    "simhash": "1:78176e55358f42a6",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luis A. SORO, petitioner,\nv.\nJose L. SORO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Luis A. SORO, petitioner,\nv.\nJose L. SORO.\nNo. 13-5245.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 254\nPetition for rehearing denied."
+  },
+  "file_name": "0731-01",
+  "first_page_order": 731,
+  "last_page_order": 731
+}

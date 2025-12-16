@@ -1,0 +1,85 @@
+{
+  "id": 12579383,
+  "name": "Marcus L. QUINN, aka Brick, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Quinn v. United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138505.",
+  "first_page": "1526",
+  "last_page": "1526",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1526"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 459"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "736 F.3d 921",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3727523
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/736/0921-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 249,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26326650704346083
+    },
+    "sha256": "040759bbefbb7c8714d08d9991508ff3e438164480c97039f05a7a06f9a1d962",
+    "simhash": "1:182c50443b06d693",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marcus L. QUINN, aka Brick, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marcus L. QUINN, aka Brick, petitioner,\nv.\nUNITED STATES.\nNo. 13-8505.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 736 F.3d 921.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1526-01",
+  "first_page_order": 1526,
+  "last_page_order": 1526
+}

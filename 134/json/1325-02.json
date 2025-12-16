@@ -1,0 +1,75 @@
+{
+  "id": 12578728,
+  "name": "Thomas R. STOREY, petitioner, v. John P. KELLERHER.",
+  "name_abbreviation": "Storey v. Kellerher",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013785.",
+  "first_page": "1325",
+  "last_page": "1325",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1325"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 308"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 5864476",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 230,
+    "sha256": "383d785a70cddad34882a31d2153e56220517c5e40aa7e75dac1ace548dfdb95",
+    "simhash": "1:686e44469c8764b1",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas R. STOREY, petitioner,\nv.\nJohn P. KELLERHER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Nevada denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas R. STOREY, petitioner,\nv.\nJohn P. KELLERHER.\nNo. 13-785.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, --- P.3d ----, 2012 WL 5864476.\nPetition for writ of certiorari to the Supreme Court of Nevada denied."
+  },
+  "file_name": "1325-02",
+  "first_page_order": 1325,
+  "last_page_order": 1325
+}

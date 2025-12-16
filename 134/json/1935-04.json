@@ -1,0 +1,85 @@
+{
+  "id": 12580696,
+  "name": "Larry D. JESINOSKI, et ux., petitioners, v. COUNTRYWIDE HOME LOANS, INC., et al.",
+  "name_abbreviation": "Jesinoski v. Countrywide Home Loans, Inc.",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u2013684.",
+  "first_page": "1935",
+  "last_page": "1935",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1935"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 959"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "729 F.3d 1092",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3700297
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/729/1092-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 274,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26330878750073844
+    },
+    "sha256": "0dec0dc804f476bbf429c79697a7582289b1f3b9fb86136cc6e40c09c953ce78",
+    "simhash": "1:781b7246220111d0",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry D. JESINOSKI, et ux., petitioners,\nv.\nCOUNTRYWIDE HOME LOANS, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "Larry D. JESINOSKI, et ux., petitioners,\nv.\nCOUNTRYWIDE HOME LOANS, INC., et al.\nNo. 13-684.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 729 F.3d 1092.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit granted."
+  },
+  "file_name": "1935-04",
+  "first_page_order": 1935,
+  "last_page_order": 1935
+}

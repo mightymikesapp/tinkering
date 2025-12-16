@@ -1,0 +1,85 @@
+{
+  "id": 12582425,
+  "name": "Harrel Franklin BRADDY, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Braddy v. Florida",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135347.",
+  "first_page": "275",
+  "last_page": "275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 275"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 199"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "111 So.3d 810",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7005183
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/111/0810-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 210,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633726908402768
+    },
+    "sha256": "9a5aa4ef336f416b6e2616381156f8b9062ac0b692b21dd99cca88a7e7e54ca3",
+    "simhash": "1:c32c140c78e6023b",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harrel Franklin BRADDY, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Harrel Franklin BRADDY, petitioner,\nv.\nFLORIDA.\nNo. 13-5347.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 111 So.3d 810.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "0275-01",
+  "first_page_order": 275,
+  "last_page_order": 275
+}

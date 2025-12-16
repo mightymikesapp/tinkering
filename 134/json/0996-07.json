@@ -1,0 +1,103 @@
+{
+  "id": 12586637,
+  "name": "Tommy Delando BURNS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Burns v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136539.",
+  "first_page": "996",
+  "last_page": "996",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 996"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 845"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 534",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12584512,
+        12584513,
+        12584514,
+        12584515,
+        12584516,
+        12584517,
+        12704800,
+        12704809,
+        12704818,
+        12704819,
+        12704820,
+        12704638
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0534-01",
+        "/s-ct/134/0534-02",
+        "/s-ct/134/0534-03",
+        "/s-ct/134/0534-04",
+        "/s-ct/134/0534-05",
+        "/s-ct/134/0534-06",
+        "/us/571/0998-05",
+        "/us/571/0999-09",
+        "/us/571/0999-10",
+        "/us/571/0999-11",
+        "/us/571/0999-12",
+        "/us/571/0986-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 178,
+    "sha256": "166fd351405a0e2b9019f83da0dce5e566d828dc561a5b51457d91cd99c21997",
+    "simhash": "1:6daf34c6229f4f19",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tommy Delando BURNS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tommy Delando BURNS, petitioner,\nv.\nUNITED STATES.\nNo. 13-6539.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 534.\nPetition for rehearing denied."
+  },
+  "file_name": "0996-07",
+  "first_page_order": 996,
+  "last_page_order": 996
+}

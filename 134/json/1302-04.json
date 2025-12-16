@@ -1,0 +1,83 @@
+{
+  "id": 12578578,
+  "name": "GULF STATES REORGANIZATION GROUP, INC., petitioner, v. NUCOR CORPORATION.",
+  "name_abbreviation": "Gulf States Reorganization Grp., Inc. v. Nucor Corp.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013717.",
+  "first_page": "1302",
+  "last_page": "1302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1302"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 303"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 1281",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4197977,
+        5755695
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/br/495/1281-01",
+        "/f3d/721/1281-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 267,
+    "sha256": "75d9a6dea5d9a8ac324868f874180d0fc00c88edb4dd5bedbf8a5829e3883896",
+    "simhash": "1:39a546c4dd454633",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GULF STATES REORGANIZATION GROUP, INC., petitioner,\nv.\nNUCOR CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "GULF STATES REORGANIZATION GROUP, INC., petitioner,\nv.\nNUCOR CORPORATION.\nNo. 13-717.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 721 F.3d 1281.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1302-04",
+  "first_page_order": 1302,
+  "last_page_order": 1302
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12580566,
+  "name": "Eduardo ALVAREZ-MARQUEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Alvarez-Marquez v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139271.",
+  "first_page": "1917",
+  "last_page": "1917",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1917"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 942"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "542 Fed.Appx. 543",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 251,
+    "sha256": "e7f854cd3f9d561893f3fc116bc69a226f08fad8e17fe7f1982cc7022772b800",
+    "simhash": "1:63ee7004b5076339",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eduardo ALVAREZ-MARQUEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eduardo ALVAREZ-MARQUEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-9271.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 542 Fed.Appx. 543.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1917-03",
+  "first_page_order": 1917,
+  "last_page_order": 1917
+}

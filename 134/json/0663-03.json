@@ -1,0 +1,85 @@
+{
+  "id": 12585003,
+  "name": "Mani M. BATCHU, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Batchu v. United States",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136914.",
+  "first_page": "663",
+  "last_page": "663",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 663"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 438"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "724 F.3d 1",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4067838
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/724/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 234,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26345590032469074
+    },
+    "sha256": "58f57ccc7824cc748ab7cc8ea7b890e20dc06236ce7c2401b335b3c57e118cdb",
+    "simhash": "1:1cad66c43205d69e",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mani M. BATCHU, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mani M. BATCHU, petitioner,\nv.\nUNITED STATES.\nNo. 13-6914.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 724 F.3d 1.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0663-03",
+  "first_page_order": 663,
+  "last_page_order": 663
+}

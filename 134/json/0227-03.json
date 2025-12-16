@@ -1,0 +1,75 @@
+{
+  "id": 12581269,
+  "name": "Chandar A. SNOW, petitioner, v. B.A. BLEDSOE, Warden.",
+  "name_abbreviation": "Snow v. Bledsoe",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135080.",
+  "first_page": "227",
+  "last_page": "227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 227"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 169"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Fed.Appx. 149",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 248,
+    "sha256": "6dbc6c9d9b0ab69d801f985015e9ac6bb23af6a8484982345e6b00edac019894",
+    "simhash": "1:d02f520c59448680",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chandar A. SNOW, petitioner,\nv.\nB.A. BLEDSOE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Chandar A. SNOW, petitioner,\nv.\nB.A. BLEDSOE, Warden.\nNo. 13-5080.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 512 Fed.Appx. 149.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0227-03",
+  "first_page_order": 227,
+  "last_page_order": 227
+}

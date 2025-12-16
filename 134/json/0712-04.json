@@ -1,0 +1,85 @@
+{
+  "id": 12585330,
+  "name": "Dustin L. WORTHEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Worthey v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20137123.",
+  "first_page": "712",
+  "last_page": "712",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 712"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 572"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "716 F.3d 1107",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3569569
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/716/1107-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634663256429236
+    },
+    "sha256": "baeb505aae7f6ac1f286c9d8e5200a9653088aabe418452f2a02548a4cf2c919",
+    "simhash": "1:90ede04231274291",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dustin L. WORTHEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dustin L. WORTHEY, petitioner,\nv.\nUNITED STATES.\nNo. 13-7123.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 716 F.3d 1107.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0712-04",
+  "first_page_order": 712,
+  "last_page_order": 712
+}

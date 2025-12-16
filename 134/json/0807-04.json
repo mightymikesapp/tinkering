@@ -1,0 +1,81 @@
+{
+  "id": 12585678,
+  "name": "Ramon VELASCO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Velasco v. United States",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20137289.",
+  "first_page": "807",
+  "last_page": "807",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 807"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 611"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5716802",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "543 Fed.Appx. 759",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 256,
+    "sha256": "10ab60ed5f90a5af789c4c285e25fc829b9e236701f67a8b94e47c29200daab7",
+    "simhash": "1:0e6d66463b0287bd",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ramon VELASCO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ramon VELASCO, petitioner,\nv.\nUNITED STATES.\nNo. 13-7289.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 543 Fed.Appx. 759, 2013 WL 5716802.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0807-04",
+  "first_page_order": 807,
+  "last_page_order": 807
+}

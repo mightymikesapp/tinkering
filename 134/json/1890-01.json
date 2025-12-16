@@ -1,0 +1,75 @@
+{
+  "id": 12580391,
+  "name": "Alvin Ronnel ROSS, petitioner, v. Arnold SCHWARZENEGGER, former Governor of California, et al.",
+  "name_abbreviation": "Ross v. Schwarzenegger",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138713.",
+  "first_page": "1890",
+  "last_page": "1890",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1890"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 924"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "536 Fed.Appx. 689",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 291,
+    "sha256": "104729fa22f3f5ee6f6c275886a41d925b528e7de8a5cf301faa1e3e5b69344c",
+    "simhash": "1:e1af120cbd046301",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alvin Ronnel ROSS, petitioner,\nv.\nArnold SCHWARZENEGGER, former Governor of California, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alvin Ronnel ROSS, petitioner,\nv.\nArnold SCHWARZENEGGER, former Governor of California, et al.\nNo. 13-8713.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 536 Fed.Appx. 689.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1890-01",
+  "first_page_order": 1890,
+  "last_page_order": 1890
+}

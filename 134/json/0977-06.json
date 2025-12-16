@@ -1,0 +1,75 @@
+{
+  "id": 12586503,
+  "name": "Ivan BOSTON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Boston v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137701.",
+  "first_page": "977",
+  "last_page": "977",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 977"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 831"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "531 Fed.Appx. 98",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "sha256": "8fe7705dbe0f5f35eb0e8bbc6f8a791538b525fea36d0693b0df632867851372",
+    "simhash": "1:586e76c4f282d581",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ivan BOSTON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ivan BOSTON, petitioner,\nv.\nUNITED STATES.\nNo. 13-7701.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 531 Fed.Appx. 98.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0977-06",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

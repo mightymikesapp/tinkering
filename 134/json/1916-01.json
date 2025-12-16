@@ -1,0 +1,75 @@
+{
+  "id": 12580557,
+  "name": "Joseph HARVEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Harvey v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139244.",
+  "first_page": "1916",
+  "last_page": "1916",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1916"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 941"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "545 Fed.Appx. 881",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 244,
+    "sha256": "a1360d12c88af514bbccda6f2b05d9918a8f73e458179f4daf87913f8d34fa33",
+    "simhash": "1:eaed76c43f078151",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph HARVEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph HARVEY, petitioner,\nv.\nUNITED STATES.\nNo. 13-9244.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 545 Fed.Appx. 881.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1916-01",
+  "first_page_order": 1916,
+  "last_page_order": 1916
+}

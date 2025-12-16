@@ -1,0 +1,85 @@
+{
+  "id": 12580091,
+  "name": "David S. ZINK, et al., petitioners, v. George A. LOMBARDI, Director, Missouri Department of Corrections.",
+  "name_abbreviation": "Zink v. Lombardi",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138435.",
+  "first_page": "1790",
+  "last_page": "1790",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1790"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 760"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "741 F.3d 888",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3897061
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/741/0888-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 296,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26329179809324793
+    },
+    "sha256": "8dccaae75355b1b6e225c482a1d5d2f4ecb6326a5e5d692766501d844356f173",
+    "simhash": "1:7b3c668a350011a9",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David S. ZINK, et al., petitioners,\nv.\nGeorge A. LOMBARDI, Director, Missouri Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David S. ZINK, et al., petitioners,\nv.\nGeorge A. LOMBARDI, Director, Missouri Department of Corrections.\nNo. 13-8435.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 741 F.3d 888.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "1790-04",
+  "first_page_order": 1790,
+  "last_page_order": 1790
+}

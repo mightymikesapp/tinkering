@@ -1,0 +1,85 @@
+{
+  "id": 12583238,
+  "name": "Ryan A. BOWERSOX, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bowersox v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013168.",
+  "first_page": "319",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 319"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 157"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "72 M.J. 71",
+      "category": "reporters:specialty",
+      "reporter": "M.J.",
+      "case_ids": [
+        3976447
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mj/72/0071-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 233,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634035806720778
+    },
+    "sha256": "84e92e2f577d216ae4b210c7ac04c8f8586b5f101300e845bf2824d992ea9210",
+    "simhash": "1:81af66443be2d289",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ryan A. BOWERSOX, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ryan A. BOWERSOX, petitioner,\nv.\nUNITED STATES.\nNo. 13-168.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 72 M.J. 71.\nPetition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+  },
+  "file_name": "0319-04",
+  "first_page_order": 319,
+  "last_page_order": 319
+}

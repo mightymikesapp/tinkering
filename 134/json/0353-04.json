@@ -1,0 +1,85 @@
+{
+  "id": 12583472,
+  "name": "Michael SESSA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Sessa v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135942.",
+  "first_page": "353",
+  "last_page": "353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 353"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 264"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "711 F.3d 316",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3802435
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/711/0316-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 317,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26340860026974544
+    },
+    "sha256": "7181fb1188ddbfd7494b7bbae6f4453148cce28de6ef606167704e56842cf7d4",
+    "simhash": "1:b93f62847346964b",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael SESSA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael SESSA, petitioner,\nv.\nUNITED STATES.\nNo. 13-5942.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 711 F.3d 316.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\nJustice SOTOMAYOR took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0353-04",
+  "first_page_order": 353,
+  "last_page_order": 353
+}

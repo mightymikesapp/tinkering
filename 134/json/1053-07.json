@@ -1,0 +1,107 @@
+{
+  "id": 12578219,
+  "name": "In re Anthony L. WILLIAMS, petitioner.",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20135071.",
+  "first_page": "1053",
+  "last_page": "1053",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1053"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 140"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 637",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699301,
+        12699293,
+        12699289,
+        12699283,
+        12699284,
+        12699285,
+        12699286,
+        12584823,
+        12584824,
+        12584825,
+        12584826,
+        12584827,
+        12584828,
+        12584829
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1025-07",
+        "/us/571/1024-05",
+        "/us/571/1024-04",
+        "/us/571/1023-13",
+        "/us/571/1023-14",
+        "/us/571/1023-15",
+        "/us/571/1023-16",
+        "/s-ct/134/0637-01",
+        "/s-ct/134/0637-02",
+        "/s-ct/134/0637-03",
+        "/s-ct/134/0637-04",
+        "/s-ct/134/0637-05",
+        "/s-ct/134/0637-06",
+        "/s-ct/134/0637-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 166,
+    "sha256": "7fd6d846b8a4a03da1810d4a62e3211e2658361c02ba922731835a9281a0c3ed",
+    "simhash": "1:62b26cd6250cf54d",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Anthony L. WILLIAMS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Anthony L. WILLIAMS, petitioner.\nNo. 13-5071.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 637.\nPetition for rehearing denied."
+  },
+  "file_name": "1053-07",
+  "first_page_order": 1053,
+  "last_page_order": 1053
+}

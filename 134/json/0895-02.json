@@ -1,0 +1,85 @@
+{
+  "id": 12585969,
+  "name": "LIMELIGHT NETWORKS, INC., petitioner, v. AKAMAI TECHNOLOGIES, INC., et al.",
+  "name_abbreviation": "Limelight Networks, Inc. v. Akamai Techs., Inc.",
+  "decision_date": "2014-01-10",
+  "docket_number": "No. 12\u2013786.",
+  "first_page": "895",
+  "last_page": "895",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 895"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 701"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3403"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "692 F.3d 1301",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3513655
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/692/1301-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 345,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26348775546373554
+    },
+    "sha256": "651d25e3875184e1107878f54e6b85102d88506285913be83b3666ee8f0f3240",
+    "simhash": "1:bb255044bda6c6c0",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LIMELIGHT NETWORKS, INC., petitioner,\nv.\nAKAMAI TECHNOLOGIES, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "LIMELIGHT NETWORKS, INC., petitioner,\nv.\nAKAMAI TECHNOLOGIES, INC., et al.\nNo. 12-786.\nSupreme Court of the United States\nJan. 10, 2014.\nCase below, 692 F.3d 1301.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit granted."
+  },
+  "file_name": "0895-02",
+  "first_page_order": 895,
+  "last_page_order": 895
+}

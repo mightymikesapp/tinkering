@@ -1,0 +1,75 @@
+{
+  "id": 12583695,
+  "name": "Anne B. SANDERS, petitioner, v. DEPARTMENT OF HEALTH AND HUMAN SERVICES, et al.",
+  "name_abbreviation": "Sanders v. Dep't of Health & Human Servs.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139964.",
+  "first_page": "388",
+  "last_page": "388",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 388"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 56"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "508 Fed.Appx. 311",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 274,
+    "sha256": "2152ad79ce044f3d469baa8d2220823e3e6b3b41a2254cec00dc42594f71d350",
+    "simhash": "1:032a7608769087ea",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anne B. SANDERS, petitioner,\nv.\nDEPARTMENT OF HEALTH AND HUMAN SERVICES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anne B. SANDERS, petitioner,\nv.\nDEPARTMENT OF HEALTH AND HUMAN SERVICES, et al.\nNo. 12-9964.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 508 Fed.Appx. 311.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0388-03",
+  "first_page_order": 388,
+  "last_page_order": 388
+}

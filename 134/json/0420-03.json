@@ -1,0 +1,75 @@
+{
+  "id": 12583805,
+  "name": "Darien FISHER, petitioner, v. NORTH CAROLINA.",
+  "name_abbreviation": "Fisher v. Northcarolina",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 12\u20131368.",
+  "first_page": "420",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 420"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 279"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "725 S.E.2d 40",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 219,
+    "sha256": "09b5176c6428f5ca73b20dd04754307970c718d8d3b70b96eb406495ac073353",
+    "simhash": "1:60a7564bfcc5e4d9",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darien FISHER, petitioner,\nv.\nNORTH CAROLINA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of North Carolina denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darien FISHER, petitioner,\nv.\nNORTH CAROLINA.\nNo. 12-1368.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 725 S.E.2d 40.\nPetition for writ of certiorari to the Court of Appeals of North Carolina denied."
+  },
+  "file_name": "0420-03",
+  "first_page_order": 420,
+  "last_page_order": 420
+}

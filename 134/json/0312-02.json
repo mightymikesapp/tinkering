@@ -1,0 +1,85 @@
+{
+  "id": 12583194,
+  "name": "Jason COX, petitioner, v. KENTUCKY.",
+  "name_abbreviation": "Cox v. Kentuchy",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135570.",
+  "first_page": "312",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 312"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 221"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "394 S.W.3d 867",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7095182
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/394/0867-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 200,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26340165005759025
+    },
+    "sha256": "2299b054c853f5cdc8c5577a3633157f55d24a1ea17c948de0c268d9b1fa940d",
+    "simhash": "1:024d540478f725a7",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason COX, petitioner,\nv.\nKENTUCKY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Kentucky denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason COX, petitioner,\nv.\nKENTUCKY.\nNo. 13-5570.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 394 S.W.3d 867.\nPetition for writ of certiorari to the Supreme Court of Kentucky denied."
+  },
+  "file_name": "0312-02",
+  "first_page_order": 312,
+  "last_page_order": 312
+}

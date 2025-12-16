@@ -1,0 +1,75 @@
+{
+  "id": 12582662,
+  "name": "Eric Xavier MENDOZA, petitioner, v. TEXAS.",
+  "name_abbreviation": "Mendoza v. Texas",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20139739.",
+  "first_page": "2846",
+  "last_page": "2846",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2846"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 812"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 2645243",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 227,
+    "sha256": "992b9e66de51bc55d7f68948065f014609bc1f80340e33fc68844abe867b5c6f",
+    "simhash": "1:482f468653453075",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric Xavier MENDOZA, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Fourth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric Xavier MENDOZA, petitioner,\nv.\nTEXAS.\nNo. 13-9739.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 2013 WL 2645243.\nPetition for writ of certiorari to the Court of Appeals of Texas, Fourth District, denied."
+  },
+  "file_name": "2846-06",
+  "first_page_order": 2846,
+  "last_page_order": 2846
+}

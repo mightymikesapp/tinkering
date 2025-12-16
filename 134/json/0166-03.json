@@ -1,0 +1,91 @@
+{
+  "id": 12579821,
+  "name": "Dirk K. GREINEDER, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Greineder v. Massachusetts",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310743.",
+  "first_page": "166",
+  "last_page": "166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 166"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 114"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "984 N.E.2d 804",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "464 Mass. 580",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4275038
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/464/0580-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 243,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632794421605275
+    },
+    "sha256": "546add3d30eda07f01ee6088bc074cb3c66d9233c60b92b67d5d60e05dfb2c34",
+    "simhash": "1:65ee565d99ffc6a1",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dirk K. GREINEDER, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dirk K. GREINEDER, petitioner,\nv.\nMASSACHUSETTS.\nNo. 12-10743.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 464 Mass. 580, 984 N.E.2d 804.\nPetition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+  },
+  "file_name": "0166-03",
+  "first_page_order": 166,
+  "last_page_order": 166
+}

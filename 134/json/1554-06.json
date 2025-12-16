@@ -1,0 +1,75 @@
+{
+  "id": 12579568,
+  "name": "Edward Lee CROSS, petitioner, v. Robert M. STEVENSON, III, Warden.",
+  "name_abbreviation": "Cross v. Stevenson",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138437.",
+  "first_page": "1554",
+  "last_page": "1554",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1554"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 570"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "535 Fed.Appx. 229",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 264,
+    "sha256": "166120bdf19a2c212a4c986daaedb76fe05cc8407b59724c0e2c6c224be0acfd",
+    "simhash": "1:526c96d53ec8478c",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward Lee CROSS, petitioner,\nv.\nRobert M. STEVENSON, III, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edward Lee CROSS, petitioner,\nv.\nRobert M. STEVENSON, III, Warden.\nNo. 13-8437.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 535 Fed.Appx. 229.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1554-06",
+  "first_page_order": 1554,
+  "last_page_order": 1554
+}

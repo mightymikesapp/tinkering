@@ -1,0 +1,85 @@
+{
+  "id": 12586508,
+  "name": "Christopher EADS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Eads v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137747.",
+  "first_page": "978",
+  "last_page": "978",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 978"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 831"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "729 F.3d 769",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3700109
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/729/0769-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635086061002012
+    },
+    "sha256": "cda1c2343605e04e76c47c1737422de665cca5e9e1fab582640b36166a46ab93",
+    "simhash": "1:cdae62c627065290",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher EADS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher EADS, petitioner,\nv.\nUNITED STATES.\nNo. 13-7747.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 729 F.3d 769.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0978-05",
+  "first_page_order": 978,
+  "last_page_order": 978
+}

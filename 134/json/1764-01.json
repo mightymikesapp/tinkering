@@ -1,0 +1,85 @@
+{
+  "id": 12579916,
+  "name": "SANDOZ INC., et al., petitioners, v. ALLERGAN, INC.",
+  "name_abbreviation": "Sandoz Inc. v. Allergan, Inc.",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u2013889.",
+  "first_page": "1764",
+  "last_page": "1764",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1764"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 594"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "726 F.3d 1286",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073531
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/726/1286-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 245,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632848478810927
+    },
+    "sha256": "9c942299102aff519fdcbd288d3b7ef93ff088ba6add6255f915b9f3a425394b",
+    "simhash": "1:dbad62dcb50852b9",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SANDOZ INC., et al., petitioners,\nv.\nALLERGAN, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "SANDOZ INC., et al., petitioners,\nv.\nALLERGAN, INC.\nNo. 13-889.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 726 F.3d 1286.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "1764-01",
+  "first_page_order": 1764,
+  "last_page_order": 1764
+}

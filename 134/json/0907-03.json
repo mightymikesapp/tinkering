@@ -1,0 +1,75 @@
+{
+  "id": 12586042,
+  "name": "Garcia Glen WHITE, petitioner, v. William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.",
+  "name_abbreviation": "White v. Stephens",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136783.",
+  "first_page": "907",
+  "last_page": "907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 907"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 790"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "522 Fed.Appx. 226",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 331,
+    "sha256": "0fc4d652bf3baf5dacaa859ad80064c033b2c02a8d1a727985d0ba9c23556e2e",
+    "simhash": "1:fffd764efa81d2ed",
+    "word_count": 49
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Garcia Glen WHITE, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Garcia Glen WHITE, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.\nNo. 13-6783.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 522 Fed.Appx. 226.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0907-03",
+  "first_page_order": 907,
+  "last_page_order": 907
+}

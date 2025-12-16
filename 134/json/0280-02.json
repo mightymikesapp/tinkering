@@ -1,0 +1,85 @@
+{
+  "id": 12582466,
+  "name": "Trino MEDINA-CAMPO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Medina-Campo v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135382.",
+  "first_page": "280",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 280"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 202"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "714 F.3d 232",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5868847
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/714/0232-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633734630860718
+    },
+    "sha256": "41afc39bde3f1be99128bfa49e58b0ef10dc18eb83cdd5da651b0635840a79ea",
+    "simhash": "1:512cc6043942462f",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Trino MEDINA-CAMPO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Trino MEDINA-CAMPO, petitioner,\nv.\nUNITED STATES.\nNo. 13-5382.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 714 F.3d 232.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0280-02",
+  "first_page_order": 280,
+  "last_page_order": 280
+}

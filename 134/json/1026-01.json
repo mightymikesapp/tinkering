@@ -1,0 +1,85 @@
+{
+  "id": 12578035,
+  "name": "DIRECTV, et al., petitioners, v. K-TECH TELECOMMUNICATIONS, INC.",
+  "name_abbreviation": "Directv v. K-Tech Telecomms., Inc.",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u2013618.",
+  "first_page": "1026",
+  "last_page": "1026",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1026"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 139"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "714 F.3d 1277",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5864282
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/714/1277-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 339,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632207514801056
+    },
+    "sha256": "831122f5b979ebe5b227e59816005be8ad87a122e8958d81c645ff95225dc7a3",
+    "simhash": "1:bfb7e2863f0453cd",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DIRECTV, et al., petitioners,\nv.\nK-TECH TELECOMMUNICATIONS, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "DIRECTV, et al., petitioners,\nv.\nK-TECH TELECOMMUNICATIONS, INC.\nNo. 13-618.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 714 F.3d 1277.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied.\nThe CHIEF JUSTICE took no part in the consideration or decision of this petition."
+  },
+  "file_name": "1026-01",
+  "first_page_order": 1026,
+  "last_page_order": 1026
+}

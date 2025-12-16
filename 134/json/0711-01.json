@@ -1,0 +1,75 @@
+{
+  "id": 12585321,
+  "name": "Terrance EDWARDS, petitioner, v. Leroy CARTLEDGE, Warden.",
+  "name_abbreviation": "Edwards v. Cartledge",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20137097.",
+  "first_page": "711",
+  "last_page": "711",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 711"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 571"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "532 Fed.Appx. 403",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 253,
+    "sha256": "8e8117bf9f16c1fe523fda25dc798dfeb7f52e822e5e44a950b05bfaee6ed7d4",
+    "simhash": "1:5fef60441a4153af",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terrance EDWARDS, petitioner,\nv.\nLeroy CARTLEDGE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terrance EDWARDS, petitioner,\nv.\nLeroy CARTLEDGE, Warden.\nNo. 13-7097.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 532 Fed.Appx. 403.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0711-01",
+  "first_page_order": 711,
+  "last_page_order": 711
+}

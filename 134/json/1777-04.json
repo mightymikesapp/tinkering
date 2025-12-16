@@ -1,0 +1,75 @@
+{
+  "id": 12580001,
+  "name": "Terry Randall BELK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Belk v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138908.",
+  "first_page": "1777",
+  "last_page": "1777",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1777"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 605"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "540 Fed.Appx. 227",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 247,
+    "sha256": "4279ff56e06f618539f2b7edcb5e773fd61230f62d527c83cbe315445349d108",
+    "simhash": "1:52ef24043b804311",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terry Randall BELK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terry Randall BELK, petitioner,\nv.\nUNITED STATES.\nNo. 13-8908.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 540 Fed.Appx. 227.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1777-04",
+  "first_page_order": 1777,
+  "last_page_order": 1777
+}

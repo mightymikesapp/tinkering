@@ -1,0 +1,75 @@
+{
+  "id": 12586448,
+  "name": "Joe T. GARCIA, petitioner, v. NEW MEXICO.",
+  "name_abbreviation": "Garcia v. Mexico",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137615.",
+  "first_page": "969",
+  "last_page": "969",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 969"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 826"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "294 P.3d 1256",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 211,
+    "sha256": "744b4f166ea7843917385f3bdc9e86c1d79bfd55626dd90560ac34250b2229e6",
+    "simhash": "1:6e3f305636c1a594",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joe T. GARCIA, petitioner,\nv.\nNEW MEXICO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New Mexico denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joe T. GARCIA, petitioner,\nv.\nNEW MEXICO.\nNo. 13-7615.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 294 P.3d 1256.\nPetition for writ of certiorari to the Court of Appeals of New Mexico denied."
+  },
+  "file_name": "0969-04",
+  "first_page_order": 969,
+  "last_page_order": 969
+}

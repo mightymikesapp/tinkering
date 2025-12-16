@@ -1,0 +1,75 @@
+{
+  "id": 12579822,
+  "name": "Liza R. LEE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lee v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310744.",
+  "first_page": "166",
+  "last_page": "166",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 166"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 114"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "502 Fed.Appx. 916",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "sha256": "979858330feb652ed462dbdc9a30bee50b65816d8d5595aa40a192b2c8efe1ea",
+    "simhash": "1:a1ef16445187863d",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Liza R. LEE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Liza R. LEE, petitioner,\nv.\nUNITED STATES.\nNo. 12-10744.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 502 Fed.Appx. 916.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0166-04",
+  "first_page_order": 166,
+  "last_page_order": 166
+}

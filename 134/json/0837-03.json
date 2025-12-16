@@ -1,0 +1,103 @@
+{
+  "id": 12585884,
+  "name": "Mindy Jaye ZIED-CAMPBELL, et vir, petitioners, v. PENNSYLVANIA, et al.",
+  "name_abbreviation": "Zied-Campbell v. Pennsylvania",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20136226.",
+  "first_page": "837",
+  "last_page": "837",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 837"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 684"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 621",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699168,
+        12699169,
+        12699170,
+        12699180,
+        12584722,
+        12584723,
+        12584724,
+        12584725,
+        12584726,
+        12584727,
+        12699129,
+        12699167
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1011-02",
+        "/us/571/1011-03",
+        "/us/571/1011-04",
+        "/us/571/1012-05",
+        "/s-ct/134/0621-01",
+        "/s-ct/134/0621-02",
+        "/s-ct/134/0621-03",
+        "/s-ct/134/0621-04",
+        "/s-ct/134/0621-05",
+        "/s-ct/134/0621-06",
+        "/us/571/1007-03",
+        "/us/571/1011-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 269,
+    "sha256": "51a5adf2ffafe9dfd25816ae062ecdf6e04a50098b66fe0318a2fdfccbd25ec4",
+    "simhash": "1:26a5146807846b3a",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mindy Jaye ZIED-CAMPBELL, et vir, petitioners,\nv.\nPENNSYLVANIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioners for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mindy Jaye ZIED-CAMPBELL, et vir, petitioners,\nv.\nPENNSYLVANIA, et al.\nNo. 13-6226.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 621.\nMotion of petitioners for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0837-03",
+  "first_page_order": 837,
+  "last_page_order": 837
+}

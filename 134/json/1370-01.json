@@ -1,0 +1,103 @@
+{
+  "id": 12579033,
+  "name": "Herman MINOR, petitioner, v. Michael D. CREWS, Secretary, Florida Department of Corrections.",
+  "name_abbreviation": "Minor v. Crews",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136758.",
+  "first_page": "1370",
+  "last_page": "1370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1370"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 366"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 793",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699973,
+        12699974,
+        12699975,
+        12700044,
+        12585585,
+        12585586,
+        12585587,
+        12585588,
+        12585589,
+        12585590,
+        12699956,
+        12699967
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1099-07",
+        "/us/571/1099-08",
+        "/us/571/1099-09",
+        "/us/571/1104-08",
+        "/s-ct/134/0793-01",
+        "/s-ct/134/0793-02",
+        "/s-ct/134/0793-03",
+        "/s-ct/134/0793-04",
+        "/s-ct/134/0793-05",
+        "/s-ct/134/0793-06",
+        "/us/571/1098-04",
+        "/us/571/1099-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 220,
+    "sha256": "e25bd7d80e6df686fefc289610e6f3857c956823f5937c0ae3933e855c0eda81",
+    "simhash": "1:11395cca15f0c431",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Herman MINOR, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Herman MINOR, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections.\nNo. 13-6758.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 793.\nPetition for rehearing denied."
+  },
+  "file_name": "1370-01",
+  "first_page_order": 1370,
+  "last_page_order": 1370
+}

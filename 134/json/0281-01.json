@@ -1,0 +1,75 @@
+{
+  "id": 12582483,
+  "name": "Ramon Enriquez MENDEZ, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Mendez v. California",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135388.",
+  "first_page": "281",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 281"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 203"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 120935",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 245,
+    "sha256": "b0fde9a1026cc337af469e3b1a8465a6dea582a6eef5ffd5c14f4473f7291a58",
+    "simhash": "1:61ed441c79e588d1",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ramon Enriquez MENDEZ, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Third Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ramon Enriquez MENDEZ, petitioner,\nv.\nCALIFORNIA.\nNo. 13-5388.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2013 WL 120935.\nPetition for writ of certiorari to the Court of Appeal of California, Third Appellate District, denied."
+  },
+  "file_name": "0281-01",
+  "first_page_order": 281,
+  "last_page_order": 281
+}

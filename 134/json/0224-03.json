@@ -1,0 +1,85 @@
+{
+  "id": 12581248,
+  "name": "Paul Dennis REID, Jr., ex rel. Linda MARTINIANO, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Reid ex rel. Martiniano v. Tennessee",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135066.",
+  "first_page": "224",
+  "last_page": "224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 224"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 167"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "396 S.W.3d 478",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7093623
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/396/0478-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 258,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633309895673454
+    },
+    "sha256": "b84c1750d22469b4af0aee450e7d45aecc06446edddf7e37ba1b5bd7768c73aa",
+    "simhash": "1:492fd60459e1873d",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul Dennis REID, Jr., ex rel. Linda MARTINIANO, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Tennessee, Middle Division, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul Dennis REID, Jr., ex rel. Linda MARTINIANO, petitioner,\nv.\nTENNESSEE.\nNo. 13-5066.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 396 S.W.3d 478.\nPetition for writ of certiorari to the Supreme Court of Tennessee, Middle Division, denied."
+  },
+  "file_name": "0224-03",
+  "first_page_order": 224,
+  "last_page_order": 224
+}

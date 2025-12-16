@@ -1,0 +1,68 @@
+{
+  "id": 12578902,
+  "name": "In re Elton Gregg WOODARD, petitioner.",
+  "name_abbreviation": "In re Woodard",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138277.",
+  "first_page": "1350",
+  "last_page": "1350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1350"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 361"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 146,
+    "sha256": "559e7117fa279ee8b30c905b3b10c2bdb07ac3b75fb25314429eec8d1b364e57",
+    "simhash": "1:786b544a9e99c125",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Elton Gregg WOODARD, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Elton Gregg WOODARD, petitioner.\nNo. 13-8277.\nSupreme Court of the United States\nFeb. 24, 2014.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1350-05",
+  "first_page_order": 1350,
+  "last_page_order": 1350
+}

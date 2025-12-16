@@ -1,0 +1,75 @@
+{
+  "id": 12581691,
+  "name": "Kenni Daniel HERNANDEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hernandez v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135210.",
+  "first_page": "249",
+  "last_page": "249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 249"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 184"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "518 Fed.Appx. 282",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "sha256": "3a99619d79871545c0e2007600d228fca1928b9fd3f23bb8918093c852613924",
+    "simhash": "1:e3add44532219691",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenni Daniel HERNANDEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenni Daniel HERNANDEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-5210.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 518 Fed.Appx. 282.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0249-01",
+  "first_page_order": 249,
+  "last_page_order": 249
+}

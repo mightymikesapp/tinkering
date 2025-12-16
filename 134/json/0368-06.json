@@ -1,0 +1,75 @@
+{
+  "id": 12583571,
+  "name": "Allen WRIGHT, petitioner, v. Jason WEBBER, et al.",
+  "name_abbreviation": "Wright v. Webber",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13M9.",
+  "first_page": "368",
+  "last_page": "368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 368"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 10"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "507 Fed.Appx. 278",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 230,
+    "sha256": "d853a7686db95f0bc02375248a6946856dfe4a8bb7ab42f16c66baee3e69ae3f",
+    "simhash": "1:014dd0140fdd91be",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen WRIGHT, petitioner,\nv.\nJason WEBBER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Allen WRIGHT, petitioner,\nv.\nJason WEBBER, et al.\nNo. 13M9.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 507 Fed.Appx. 278.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0368-06",
+  "first_page_order": 368,
+  "last_page_order": 368
+}

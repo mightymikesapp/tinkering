@@ -1,0 +1,75 @@
+{
+  "id": 12586573,
+  "name": "Harold JULES, petitioner v. UNITED STATES.",
+  "name_abbreviation": "Jules v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 12\u20137788.",
+  "first_page": "989",
+  "last_page": "989",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 989"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 837"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 1266",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 171,
+    "sha256": "889b6b4ebf65b5dbc17e0d1ece006d042e5c08e442b307c3b38200e4c015b54f",
+    "simhash": "1:b0fd264226165213",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harold JULES, petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Harold JULES, petitioner\nv.\nUNITED STATES.\nNo. 12-7788.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 133 S.Ct. 1266.\nPetition for rehearing denied."
+  },
+  "file_name": "0989-02",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

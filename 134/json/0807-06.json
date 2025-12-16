@@ -1,0 +1,81 @@
+{
+  "id": 12585680,
+  "name": "Robert CUFF, aka DD0040, aka Slapalot, aka Robert E. Cuff, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cuff v. United States",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20137299.",
+  "first_page": "807",
+  "last_page": "807",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 807"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 611"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 4029278",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "538 Fed.Appx. 411",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 300,
+    "sha256": "0097215af9847a82f2e2f1ece85f92bcd7ee049096381fe0ceedd662303229ba",
+    "simhash": "1:93ef6404270387a5",
+    "word_count": 50
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert CUFF, aka DD0040, aka Slapalot, aka Robert E. Cuff, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert CUFF, aka DD0040, aka Slapalot, aka Robert E. Cuff, petitioner,\nv.\nUNITED STATES.\nNo. 13-7299.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 538 Fed.Appx. 411, 2013 WL 4029278.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0807-06",
+  "first_page_order": 807,
+  "last_page_order": 807
+}

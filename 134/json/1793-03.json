@@ -1,0 +1,75 @@
+{
+  "id": 12580107,
+  "name": "Walter Columbus SIMMONS, petitioner, v. SURRY COUNTY, NORTH CAROLINA.",
+  "name_abbreviation": "Simmons v. Surry Cnty.",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138504.",
+  "first_page": "1793",
+  "last_page": "1793",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1793"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 762"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "546 Fed.Appx. 323",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 266,
+    "sha256": "a465d018f28eac76cd417b5051394894388224af8dad082fe75b4896de260a17",
+    "simhash": "1:e33f46053921051d",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Walter Columbus SIMMONS, petitioner,\nv.\nSURRY COUNTY, NORTH CAROLINA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Walter Columbus SIMMONS, petitioner,\nv.\nSURRY COUNTY, NORTH CAROLINA.\nNo. 13-8504.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 546 Fed.Appx. 323.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1793-03",
+  "first_page_order": 1793,
+  "last_page_order": 1793
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12585921,
+  "name": "Norberto ROBLES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robles v. United States",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20136203.",
+  "first_page": "841",
+  "last_page": "841",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 841"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 698"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 457",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704354,
+        12704355,
+        12704356,
+        12704357,
+        12704358,
+        12584040,
+        12584041,
+        12584042,
+        12584043,
+        12584044,
+        12584045,
+        12704368
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0966-01",
+        "/us/571/0966-02",
+        "/us/571/0966-03",
+        "/us/571/0966-04",
+        "/us/571/0966-05",
+        "/s-ct/134/0457-01",
+        "/s-ct/134/0457-02",
+        "/s-ct/134/0457-03",
+        "/s-ct/134/0457-04",
+        "/s-ct/134/0457-05",
+        "/s-ct/134/0457-06",
+        "/us/571/0966-16"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 174,
+    "sha256": "bee44bc2e9e53b3bbaed3e64d1650e6d198600cea5e1b7eadc4aced2b6a5ca89",
+    "simhash": "1:e4ac0c86370b7314",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Norberto ROBLES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Norberto ROBLES, petitioner,\nv.\nUNITED STATES.\nNo. 13-6203.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 457.\nPetition for rehearing denied."
+  },
+  "file_name": "0841-06",
+  "first_page_order": 841,
+  "last_page_order": 841
+}

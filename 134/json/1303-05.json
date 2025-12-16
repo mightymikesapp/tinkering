@@ -1,0 +1,75 @@
+{
+  "id": 12578585,
+  "name": "Jason Scott DAY, petitioner, v. OKLAHOMA.",
+  "name_abbreviation": "Day v. Oklahoma",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137815.",
+  "first_page": "1303",
+  "last_page": "1303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1303"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 326"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "303 P.3d 291",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 217,
+    "sha256": "6f0e3e73bd9a3705fe868fe5541a6c22b41380f1543bd015320836d55904b4e4",
+    "simhash": "1:78353646ba91c03b",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason Scott DAY, petitioner,\nv.\nOKLAHOMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Oklahoma denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason Scott DAY, petitioner,\nv.\nOKLAHOMA.\nNo. 13-7815.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 303 P.3d 291.\nPetition for writ of certiorari to the Court of Criminal Appeals of Oklahoma denied."
+  },
+  "file_name": "1303-05",
+  "first_page_order": 1303,
+  "last_page_order": 1303
+}

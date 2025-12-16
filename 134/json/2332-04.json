@@ -1,0 +1,103 @@
+{
+  "id": 12581574,
+  "name": "Todd L. COOK, petitioner, v. NEBRASKA.",
+  "name_abbreviation": "Cook v. Nebrasks",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20138568.",
+  "first_page": "2332",
+  "last_page": "2332",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2332"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 205"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1795",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12705487,
+        12705488,
+        12705489,
+        12705426,
+        12705490,
+        12705552,
+        12580118,
+        12580119,
+        12580120,
+        12580121,
+        12580122,
+        12580123
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1049-02",
+        "/us/572/1049-03",
+        "/us/572/1049-04",
+        "/us/572/1044-02",
+        "/us/572/1049-05",
+        "/us/572/1053-07",
+        "/s-ct/134/1795-01",
+        "/s-ct/134/1795-02",
+        "/s-ct/134/1795-03",
+        "/s-ct/134/1795-04",
+        "/s-ct/134/1795-05",
+        "/s-ct/134/1795-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 166,
+    "sha256": "5a80acfd955eea48a3c11b22428d2dd1fe432bc0c1471c95e8fb134364921518",
+    "simhash": "1:61fe1c470d9c548a",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Todd L. COOK, petitioner,\nv.\nNEBRASKA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Todd L. COOK, petitioner,\nv.\nNEBRASKA.\nNo. 13-8568.\nSupreme Court of the United States\nMay 19, 2014.\nFormer decision, 134 S.Ct. 1795.\nPetition for rehearing denied."
+  },
+  "file_name": "2332-04",
+  "first_page_order": 2332,
+  "last_page_order": 2332
+}

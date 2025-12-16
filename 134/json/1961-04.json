@@ -1,0 +1,103 @@
+{
+  "id": 12580869,
+  "name": "Danny A. WESTBROOK, petitioner, v. Ronald W. KING, Superintendent, South Mississippi Correctional Institution.",
+  "name_abbreviation": "Westbrook v. King",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20138317.",
+  "first_page": "1961",
+  "last_page": "1961",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1961"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 978"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1501",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701920,
+        12701921,
+        12701919,
+        12701931,
+        12701965,
+        12579222,
+        12579223,
+        12579224,
+        12579225,
+        12579226,
+        12579227,
+        12701887
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1241-02",
+        "/us/571/1241-03",
+        "/us/571/1241-01",
+        "/us/571/1241-14",
+        "/us/571/1244-06",
+        "/s-ct/134/1501-01",
+        "/s-ct/134/1501-02",
+        "/s-ct/134/1501-03",
+        "/s-ct/134/1501-04",
+        "/s-ct/134/1501-05",
+        "/s-ct/134/1501-06",
+        "/us/571/1238-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 239,
+    "sha256": "266bf721769b2567ba7e7384dd8fdc09f0a34c6e1b656f2b662c3f9270d47ddd",
+    "simhash": "1:547e6ed6088b6fba",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Danny A. WESTBROOK, petitioner,\nv.\nRonald W. KING, Superintendent, South Mississippi Correctional Institution."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Danny A. WESTBROOK, petitioner,\nv.\nRonald W. KING, Superintendent, South Mississippi Correctional Institution.\nNo. 13-8317.\nSupreme Court of the United States\nApril 28, 2014.\nFormer decision, 134 S.Ct. 1501\nPetition for rehearing denied."
+  },
+  "file_name": "1961-04",
+  "first_page_order": 1961,
+  "last_page_order": 1961
+}

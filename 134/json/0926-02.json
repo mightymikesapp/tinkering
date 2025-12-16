@@ -1,0 +1,85 @@
+{
+  "id": 12586165,
+  "name": "Mark F. TAYLOR, petitioner, v. George GOOD, Warden.",
+  "name_abbreviation": "Taylor v. Good",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137124.",
+  "first_page": "926",
+  "last_page": "926",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 926"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 799"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "724 F.3d 806",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4068622
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/724/0806-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 263,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634987599663146
+    },
+    "sha256": "d79a513edc5bb4fdbbf70f57fe534dd8ba456f7175ef72e55de40259c9b4eeb6",
+    "simhash": "1:4aa5544c0d041739",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark F. TAYLOR, petitioner,\nv.\nGeorge GOOD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark F. TAYLOR, petitioner,\nv.\nGeorge GOOD, Warden.\nNo. 13-7124.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, Taylor v. Michael, 724 F.3d 806.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0926-02",
+  "first_page_order": 926,
+  "last_page_order": 926
+}

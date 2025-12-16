@@ -1,0 +1,85 @@
+{
+  "id": 12581001,
+  "name": "T-MOBILE SOUTH, LLC, petitioner, v. CITY OF ROSWELL, GEORGIA.",
+  "name_abbreviation": "T-Mobile S., LLC v. City of Roswell",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u2013975.",
+  "first_page": "2136",
+  "last_page": "2136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2136"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1123"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "731 F.3d 1213",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6048417
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/731/1213-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 349,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633236532322927
+    },
+    "sha256": "b18a199541bf8c7a735b8e3418d7920114c0e38f398b522764354a44caaf1b3d",
+    "simhash": "1:38a602447f802711",
+    "word_count": 57
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T-MOBILE SOUTH, LLC, petitioner,\nv.\nCITY OF ROSWELL, GEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Competitive Carriers Association for leave to file a brief as amicus curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "T-MOBILE SOUTH, LLC, petitioner,\nv.\nCITY OF ROSWELL, GEORGIA.\nNo. 13-975.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 731 F.3d 1213.\nMotion of Competitive Carriers Association for leave to file a brief as amicus curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit granted."
+  },
+  "file_name": "2136-02",
+  "first_page_order": 2136,
+  "last_page_order": 2136
+}

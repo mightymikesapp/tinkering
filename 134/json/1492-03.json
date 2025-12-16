@@ -1,0 +1,83 @@
+{
+  "id": 12579166,
+  "name": "SUN CAPITAL PARTNERS III, LP, et al., petitioners, v. NEW ENGLAND TEAMTERS & TRUCKING INDUSTRY PENSION FUND.",
+  "name_abbreviation": "Sun Capital Partners Iii, LP v. New Eng. Teamters & Trucking Indus. Pension Fund",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u2013648.",
+  "first_page": "1492",
+  "last_page": "1492",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1492"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 388"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "724 F.3d 129",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4201290,
+        4067851
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/br/497/0129-01",
+        "/f3d/724/0129-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 398,
+    "sha256": "319e53ace449898fa0575da8dcd1d639e16318ca92309a72b07f6e1581500dcb",
+    "simhash": "1:b72e46443bc5370b",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SUN CAPITAL PARTNERS III, LP, et al., petitioners,\nv.\nNEW ENGLAND TEAMTERS & TRUCKING INDUSTRY PENSION FUND."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Private Equity Growth Capital Council for leave to file a brief as amicus curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "SUN CAPITAL PARTNERS III, LP, et al., petitioners,\nv.\nNEW ENGLAND TEAMTERS & TRUCKING INDUSTRY PENSION FUND.\nNo. 13-648.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 724 F.3d 129.\nMotion of Private Equity Growth Capital Council for leave to file a brief as amicus curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "1492-03",
+  "first_page_order": 1492,
+  "last_page_order": 1492
+}

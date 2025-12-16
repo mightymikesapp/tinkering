@@ -1,0 +1,85 @@
+{
+  "id": 12586325,
+  "name": "JORDAN RIVER RESTORATION NETWORK, et al., petitioners, v. SALT LAKE CITY CORPORATION.",
+  "name_abbreviation": "Jordan River Restoration Network v. Salt Lake City Corp.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131355.",
+  "first_page": "94",
+  "last_page": "94",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 94"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 33"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "299 P.3d 990",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        6979956
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/p3d/299/0990-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 244,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635028142567385
+    },
+    "sha256": "702e3f6a5c4fd827c573c41c1b6aaefc4e240c14842a6d8136072a46a2ba3afe",
+    "simhash": "1:496f64f873450534",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JORDAN RIVER RESTORATION NETWORK, et al., petitioners,\nv.\nSALT LAKE CITY CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Utah denied."
+    ],
+    "corrections": "",
+    "head_matter": "JORDAN RIVER RESTORATION NETWORK, et al., petitioners,\nv.\nSALT LAKE CITY CORPORATION.\nNo. 12-1355.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 299 P.3d 990.\nPetition for writ of certiorari to the Supreme Court of Utah denied."
+  },
+  "file_name": "0094-05",
+  "first_page_order": 94,
+  "last_page_order": 94
+}

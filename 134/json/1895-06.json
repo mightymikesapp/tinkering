@@ -1,0 +1,81 @@
+{
+  "id": 12580423,
+  "name": "Darryl Willard CAIN, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Cain v. Michigan",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138904.",
+  "first_page": "1895",
+  "last_page": "1895",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1895"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 927"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "838 N.W.2d 150",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "495 Mich. 874",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 227,
+    "sha256": "176e4ca19bcd71ba09b8be7f82a50c8b7b442cd6fc1f97520bd4e31b0fb03f7f",
+    "simhash": "1:fa6f660cbe8f8235",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darryl Willard CAIN, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darryl Willard CAIN, petitioner,\nv.\nMICHIGAN.\nNo. 13-8904.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 495 Mich. 874, 838 N.W.2d 150.\nPetition for writ of certiorari to the Supreme Court of Michigan denied."
+  },
+  "file_name": "1895-06",
+  "first_page_order": 1895,
+  "last_page_order": 1895
+}

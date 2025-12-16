@@ -1,0 +1,85 @@
+{
+  "id": 12586446,
+  "name": "Miguel Angel ORDAZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ordaz v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137612.",
+  "first_page": "969",
+  "last_page": "969",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 969"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 826"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "720 F.3d 1245",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4058821
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/720/1245-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635060963013674
+    },
+    "sha256": "0b290b26cdb38816c4246d111b59e361fd60d80ac44ef335ce47f9c0b2478245",
+    "simhash": "1:816f764610834091",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miguel Angel ORDAZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Miguel Angel ORDAZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-7612.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 720 F.3d 1245.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0969-02",
+  "first_page_order": 969,
+  "last_page_order": 969
+}

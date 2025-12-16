@@ -1,0 +1,75 @@
+{
+  "id": 12582007,
+  "name": "Levon MINTZ, petitioner, v. Wayne C. McCABE, Warden.",
+  "name_abbreviation": "Mintz v. McCabe",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135304.",
+  "first_page": "268",
+  "last_page": "268",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 268"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 194"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Fed.Appx. 359",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 248,
+    "sha256": "0e098f1e8c48ee27daa2b6c8d17f364c3ac578afeeac733a9ea05ffd41928100",
+    "simhash": "1:73afe2057fe585af",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Levon MINTZ, petitioner,\nv.\nWayne C. McCABE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Levon MINTZ, petitioner,\nv.\nWayne C. McCABE, Warden.\nNo. 13-5304.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 512 Fed.Appx. 359.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0268-06",
+  "first_page_order": 268,
+  "last_page_order": 268
+}

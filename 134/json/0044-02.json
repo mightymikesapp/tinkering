@@ -1,0 +1,91 @@
+{
+  "id": 12583993,
+  "name": "Curtis PITTER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Pitter v. United States",
+  "decision_date": "2013-08-30",
+  "docket_number": "No. 12\u20139539.",
+  "first_page": "44",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 44"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 957"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2362",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698321,
+        12698322,
+        12698233,
+        12698234,
+        12698235,
+        12698236
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0989-08",
+        "/us/569/0989-09",
+        "/us/569/0983-12",
+        "/us/569/0983-13",
+        "/us/569/0983-14",
+        "/us/569/0983-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 168,
+    "sha256": "f7171fec3306fbd3468980a9bd48d6997bac9deff57721ea9874a8ccd39fcd40",
+    "simhash": "1:31ec144032bed294",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Curtis PITTER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Curtis PITTER, petitioner,\nv.\nUNITED STATES.\nNo. 12-9539.\nSupreme Court of the United States\nAug. 30, 2013.\nCase below, 133 S.Ct. 2362.\nPetition for rehearing denied."
+  },
+  "file_name": "0044-02",
+  "first_page_order": 44,
+  "last_page_order": 44
+}

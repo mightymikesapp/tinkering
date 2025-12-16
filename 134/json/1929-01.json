@@ -1,0 +1,99 @@
+{
+  "id": 12580646,
+  "name": "Rajesh M. PATEL, petitioner, v. GEORGIA DEPARTMENT OF BEHAVIORAL HEALTH AND DEVELOPMENT DISABILITIES.",
+  "name_abbreviation": "Patel v. Ga. Dep't of Behavioral Health & Dev. Disabilities",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u2013800",
+  "first_page": "1929",
+  "last_page": "1929",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1929"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 950"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1510",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701858,
+        12701859,
+        12701961,
+        12701870,
+        12579280,
+        12579281,
+        12579282,
+        12579283,
+        12579284,
+        12701881
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1236-02",
+        "/us/571/1236-03",
+        "/us/571/1244-01",
+        "/us/571/1237-02",
+        "/s-ct/134/1510-01",
+        "/s-ct/134/1510-02",
+        "/s-ct/134/1510-03",
+        "/s-ct/134/1510-04",
+        "/s-ct/134/1510-05",
+        "/us/571/1238-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 229,
+    "sha256": "3fcddff36cbbbd1103fc356ba3b952e9b37c1fac5d9aa9e66d3352a9e98536e0",
+    "simhash": "1:66253c000f235c12",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rajesh M. PATEL, petitioner,\nv.\nGEORGIA DEPARTMENT OF BEHAVIORAL HEALTH AND DEVELOPMENT DISABILITIES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rajesh M. PATEL, petitioner,\nv.\nGEORGIA DEPARTMENT OF BEHAVIORAL HEALTH AND DEVELOPMENT DISABILITIES.\nNo. 13-800\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1510.\nPetition for rehearing denied."
+  },
+  "file_name": "1929-01",
+  "first_page_order": 1929,
+  "last_page_order": 1929
+}

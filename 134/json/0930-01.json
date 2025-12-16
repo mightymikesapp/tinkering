@@ -1,0 +1,73 @@
+{
+  "id": 12586193,
+  "name": "Ryan WHITTINGTON, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Whittington v. Pennsylvania",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137174.",
+  "first_page": "930",
+  "last_page": "930",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 930"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 802"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "64 A.3d 9",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "56108d9b9a3db15408c481b07c8b263fc76ace164436bc7c3f8339f06dadbd55",
+    "simhash": "1:ed7f74dc1481d6f0",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ryan WHITTINGTON, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ryan WHITTINGTON, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-7174.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 64 A.3d 9.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Pittsburgh Office, denied."
+  },
+  "file_name": "0930-01",
+  "first_page_order": 930,
+  "last_page_order": 930
+}

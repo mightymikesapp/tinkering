@@ -1,0 +1,75 @@
+{
+  "id": 12578882,
+  "name": "Demuntray D. COX, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cox v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138250.",
+  "first_page": "1348",
+  "last_page": "1348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1348"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 351"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "544 Fed.Appx. 908",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "eabd08f6e2061643054ff3f767a52d34bd7fd169c6798d3d782f81a09e0a8790",
+    "simhash": "1:38ed64d60f05c715",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Demuntray D. COX, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Demuntray D. COX, petitioner,\nv.\nUNITED STATES.\nNo. 13-8250.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 544 Fed.Appx. 908.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1348-03",
+  "first_page_order": 1348,
+  "last_page_order": 1348
+}

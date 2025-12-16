@@ -1,0 +1,85 @@
+{
+  "id": 12579227,
+  "name": "NOVOZYMES A/S, et al., petitioners, v. DUPONT NUTRITION BIOSCIENCES APS, et al.",
+  "name_abbreviation": "A v. Aps",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u2013865.",
+  "first_page": "1501",
+  "last_page": "1502",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1501"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 388"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "723 F.3d 1336",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4066207
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/723/1336-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 272,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632609082614469
+    },
+    "sha256": "242868ba6b6d3d363feb1bbd78b62f74a086ccbf7afce503e3c58bb30c22b6ed",
+    "simhash": "1:1a2fe444ff842349",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NOVOZYMES A/S, et al., petitioners,\nv.\nDUPONT NUTRITION BIOSCIENCES APS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "NOVOZYMES A/S, et al., petitioners,\nv.\nDUPONT NUTRITION BIOSCIENCES APS, et al.\nNo. 13-865.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 723 F.3d 1336.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "1501-06",
+  "first_page_order": 1501,
+  "last_page_order": 1502
+}

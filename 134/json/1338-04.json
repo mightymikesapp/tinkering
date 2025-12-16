@@ -1,0 +1,75 @@
+{
+  "id": 12578816,
+  "name": "Thomas Demetrious JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138145.",
+  "first_page": "1338",
+  "last_page": "1338",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1338"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 345"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "534 Fed.Appx. 592",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 252,
+    "sha256": "95550eac4f58d28f9ed028f0cea7be3550c0f86c95023108ac9c464534a16b80",
+    "simhash": "1:f0ec74463b855315",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Demetrious JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Demetrious JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-8145.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 534 Fed.Appx. 592.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1338-04",
+  "first_page_order": 1338,
+  "last_page_order": 1338
+}

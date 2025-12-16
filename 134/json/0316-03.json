@@ -1,0 +1,75 @@
+{
+  "id": 12583219,
+  "name": "Lance BROWN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135602.",
+  "first_page": "316",
+  "last_page": "316",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 316"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 223"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "517 Fed.Appx. 657",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 240,
+    "sha256": "3d8568c779860050a8c74cd3d5d2b0a3bc09cff73508c4df4214572d91078435",
+    "simhash": "1:f1afe644730787b1",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lance BROWN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lance BROWN, petitioner,\nv.\nUNITED STATES.\nNo. 13-5602.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 517 Fed.Appx. 657.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0316-03",
+  "first_page_order": 316,
+  "last_page_order": 316
+}

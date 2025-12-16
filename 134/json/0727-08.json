@@ -1,0 +1,103 @@
+{
+  "id": 12585433,
+  "name": "Neil GRENNING, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Grenning v. Washington",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 12\u201310740.",
+  "first_page": "727",
+  "last_page": "727",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 727"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 583"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 166",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702912,
+        12702913,
+        12702914,
+        12579819,
+        12579820,
+        12579821,
+        12579822,
+        12579823,
+        12579824,
+        12702923,
+        12702930,
+        12702931
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0865-04",
+        "/us/571/0865-05",
+        "/us/571/0865-06",
+        "/s-ct/134/0166-01",
+        "/s-ct/134/0166-02",
+        "/s-ct/134/0166-03",
+        "/s-ct/134/0166-04",
+        "/s-ct/134/0166-05",
+        "/s-ct/134/0166-06",
+        "/us/571/0866-07",
+        "/us/571/0866-08",
+        "/us/571/0866-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 168,
+    "sha256": "fbd036e2286b09cb9f2913b75d2521468c0c794b027e486468c9f5ebcfa668b4",
+    "simhash": "1:70b37676179f738e",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Neil GRENNING, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Neil GRENNING, petitioner,\nv.\nWASHINGTON.\nNo. 12-10740.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 166\nPetition for rehearing denied."
+  },
+  "file_name": "0727-08",
+  "first_page_order": 727,
+  "last_page_order": 727
+}

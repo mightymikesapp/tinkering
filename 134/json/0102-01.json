@@ -1,0 +1,75 @@
+{
+  "id": 12578057,
+  "name": "Bridgette NEAL, petitioner, v. DUKE ENERGY, et al.",
+  "name_abbreviation": "Neal v. Duke Energy",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310317.",
+  "first_page": "102",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 102"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 258"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Fed.Appx. 280",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 344,
+    "sha256": "755e0687be98bf7b5698fb43094008d85452f44700ac5f61da9553933c045220",
+    "simhash": "1:292f92457be6d64e",
+    "word_count": 57
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bridgette NEAL, petitioner,\nv.\nDUKE ENERGY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bridgette NEAL, petitioner,\nv.\nDUKE ENERGY, et al.\nNo. 12-10317.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 509 Fed.Appx. 280.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied.\nJustice BREYER and Justice ALITO took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0102-01",
+  "first_page_order": 102,
+  "last_page_order": 102
+}

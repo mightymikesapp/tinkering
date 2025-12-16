@@ -1,0 +1,81 @@
+{
+  "id": 12579995,
+  "name": "William W. BOATLEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Boatley v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138897.",
+  "first_page": "1776",
+  "last_page": "1776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1776"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 605"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2014 WL 46126",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "551 Fed.Appx. 535",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 264,
+    "sha256": "e6f49d59621300daae759cbddc2f0181c1a67d358f98576434931f2b823de953",
+    "simhash": "1:40ad2644370bc305",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William W. BOATLEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William W. BOATLEY, petitioner,\nv.\nUNITED STATES.\nNo. 13-8897.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 551 Fed.Appx. 535, 2014 WL 46126.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1776-04",
+  "first_page_order": 1776,
+  "last_page_order": 1776
+}

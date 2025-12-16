@@ -1,0 +1,91 @@
+{
+  "id": 12584974,
+  "name": "Jack Kenneth DAVIS, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Davis v. California",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136866.",
+  "first_page": "659",
+  "last_page": "659",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 659"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 435"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "155 Cal.Rptr.3d 128",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "214 Cal.App.4th 1322",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        4264372
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/214/1322-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 270,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26345454889454945
+    },
+    "sha256": "b338edfb084122fb8b70d03a6427c601e9da332303edd34409846a160fa8e335",
+    "simhash": "1:6def6646349448bd",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jack Kenneth DAVIS, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, First Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jack Kenneth DAVIS, petitioner,\nv.\nCALIFORNIA.\nNo. 13-6866.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 214 Cal.App.4th 1322, 155 Cal.Rptr.3d 128.\nPetition for writ of certiorari to the Court of Appeal of California, First Appellate District, denied."
+  },
+  "file_name": "0659-04",
+  "first_page_order": 659,
+  "last_page_order": 659
+}

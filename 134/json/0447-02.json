@@ -1,0 +1,85 @@
+{
+  "id": 12583975,
+  "name": "Bradley Lee WINTERS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Winters v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136113.",
+  "first_page": "447",
+  "last_page": "447",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 447"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 312"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "716 F.3d 1098",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3569412
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/716/1098-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 320,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634205700795684
+    },
+    "sha256": "1cbad1afc3b0976473f9228af194ac7ee123b3772e26717da9eb1cab0e03066e",
+    "simhash": "1:fb2c7ac214074293",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradley Lee WINTERS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bradley Lee WINTERS, petitioner,\nv.\nUNITED STATES.\nNo. 13-6113.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 716 F.3d 1098.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0447-02",
+  "first_page_order": 447,
+  "last_page_order": 447
+}

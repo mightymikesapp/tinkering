@@ -1,0 +1,75 @@
+{
+  "id": 12580344,
+  "name": "Shong-Ching TONG, petitioner, v. Thomas CHO, et al.",
+  "name_abbreviation": "Tong v. Cho",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138623.",
+  "first_page": "1883",
+  "last_page": "1883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1883"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 920"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 3725038",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 251,
+    "sha256": "d2c32a997564599bc2ebed151644317aacff96b63734c52cdeae0b6bf26e5a3f",
+    "simhash": "1:792d669c3ec59113",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shong-Ching TONG, petitioner,\nv.\nThomas CHO, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shong-Ching TONG, petitioner,\nv.\nThomas CHO, et al.\nNo. 13-8623.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 2013 WL 3725038.\nPetition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+  },
+  "file_name": "1883-02",
+  "first_page_order": 1883,
+  "last_page_order": 1883
+}

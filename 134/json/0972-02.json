@@ -1,0 +1,75 @@
+{
+  "id": 12586470,
+  "name": "Steven T. ROBINSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robinson v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137647.",
+  "first_page": "972",
+  "last_page": "972",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 972"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 827"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "70 A.3d 259",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 224,
+    "sha256": "f6bc340e679db9a1d62be5a4c51824b6b5e55430070b1e0a3a89d15abb47884f",
+    "simhash": "1:6fce7446220ed491",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven T. ROBINSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the District of Columbia Court of Appeals denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven T. ROBINSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-7647.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 70 A.3d 259.\nPetition for writ of certiorari to the District of Columbia Court of Appeals denied."
+  },
+  "file_name": "0972-02",
+  "first_page_order": 972,
+  "last_page_order": 972
+}

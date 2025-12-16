@@ -1,0 +1,85 @@
+{
+  "id": 12582057,
+  "name": "Charles L. RYAN, Director, Arizona Department of Corrections, petitioner, v. Steven Craig JAMES.",
+  "name_abbreviation": "Ryan v. James",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20131073.",
+  "first_page": "2697",
+  "last_page": "2697",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2697"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 740"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "733 F.3d 911",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3714844
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/733/0911-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 286,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633607210304539
+    },
+    "sha256": "ef44e0371ae603b5be55b85758de45595e20661568f19ce75a91bdd9bef636cb",
+    "simhash": "1:c42c36468b05b381",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles L. RYAN, Director, Arizona Department of Corrections, petitioner,\nv.\nSteven Craig JAMES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles L. RYAN, Director, Arizona Department of Corrections, petitioner,\nv.\nSteven Craig JAMES.\nNo. 13-1073.\nSupreme Court of the United States\nJune 2, 2014.\nCase below, 733 F.3d 911.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2697-05",
+  "first_page_order": 2697,
+  "last_page_order": 2697
+}

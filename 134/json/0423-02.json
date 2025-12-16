@@ -1,0 +1,75 @@
+{
+  "id": 12583822,
+  "name": "Antonio URIBE-QUINTERO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Uribe-Quintero v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135399.",
+  "first_page": "423",
+  "last_page": "423",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 423"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 286"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 299",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 249,
+    "sha256": "02c5a0e6a7086c764a8d0a471beabb67d1d81a50d186c5ead0ad770102b48f0d",
+    "simhash": "1:b3ad76c43207429b",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio URIBE-QUINTERO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio URIBE-QUINTERO, petitioner,\nv.\nUNITED STATES.\nNo. 13-5399.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 520 Fed.Appx. 299.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0423-02",
+  "first_page_order": 423,
+  "last_page_order": 423
+}

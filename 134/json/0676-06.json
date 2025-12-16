@@ -1,0 +1,103 @@
+{
+  "id": 12585092,
+  "name": "Eric TURNER, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Turner v. Illinois",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20135344.",
+  "first_page": "676",
+  "last_page": "676",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 676"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 465"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 274",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12582414,
+        12582415,
+        12582416,
+        12582417,
+        12582418,
+        12582419,
+        12703568,
+        12703569,
+        12703570,
+        12703571,
+        12703580,
+        12703581
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0274-01",
+        "/s-ct/134/0274-02",
+        "/s-ct/134/0274-03",
+        "/s-ct/134/0274-04",
+        "/s-ct/134/0274-05",
+        "/s-ct/134/0274-06",
+        "/us/571/0910-01",
+        "/us/571/0910-02",
+        "/us/571/0910-03",
+        "/us/571/0910-04",
+        "/us/571/0910-14",
+        "/us/571/0910-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 164,
+    "sha256": "0d8544cfe8baefe5c598c8288a6eb16e37aebbbf8c5eba666e9cba5cf2726783",
+    "simhash": "1:328576d49685cf0a",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric TURNER, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric TURNER, petitioner,\nv.\nILLINOIS.\nNo. 13-5344.\nSupreme Court of the United States\nNov. 18, 2013.\nFormer decision, 134 S.Ct. 274\nPetition for rehearing denied."
+  },
+  "file_name": "0676-06",
+  "first_page_order": 676,
+  "last_page_order": 676
+}

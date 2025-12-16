@@ -1,0 +1,62 @@
+{
+  "id": 12582421,
+  "name": "In the Matter of DISCIPLINE OF Jeffrey David KAHL.",
+  "name_abbreviation": "In re Kahl",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. D\u20132780.",
+  "first_page": "2750",
+  "last_page": "2750",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2750"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 782"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 359,
+    "sha256": "0c9803cd00dd3cf2fb6fa4727a15ae22e50cd55f872d76764af26bca16d6d365",
+    "simhash": "1:6e8b7136bfcea7ee",
+    "word_count": 64
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Jeffrey David KAHL."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Jeffrey David KAHL.\nNo. D-2780.\nSupreme Court of the United States\nJune 9, 2014.\nJeffrey David Kahl, of Nottingham, Maryland, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "2750-02",
+  "first_page_order": 2750,
+  "last_page_order": 2750
+}

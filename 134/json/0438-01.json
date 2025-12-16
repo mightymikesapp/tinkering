@@ -1,0 +1,75 @@
+{
+  "id": 12583915,
+  "name": "Robert L. MACKEY, petitioner, v. Tim BRUNSMAN, Warden.",
+  "name_abbreviation": "Mackey v. Brunsman",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135787.",
+  "first_page": "438",
+  "last_page": "438",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 438"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 294"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 357",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 250,
+    "sha256": "a1d7806527ecf1ee9274412ee2219910f8b6433c645952513fb47a553693b192",
+    "simhash": "1:71ed47443cc515a9",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert L. MACKEY, petitioner,\nv.\nTim BRUNSMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert L. MACKEY, petitioner,\nv.\nTim BRUNSMAN, Warden.\nNo. 13-5787.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 525 Fed.Appx. 357.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0438-01",
+  "first_page_order": 438,
+  "last_page_order": 438
+}

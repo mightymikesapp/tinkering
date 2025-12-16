@@ -1,0 +1,75 @@
+{
+  "id": 12577941,
+  "name": "Sean DONOVAN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Donovan v. United States",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20137743.",
+  "first_page": "1011",
+  "last_page": "1011",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1011"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 858"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "539 Fed.Appx. 648",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "sha256": "6eeadd70c920a61744c0e31f5560cae4756e4150b0bb4e0398f68b8a6ecbdb74",
+    "simhash": "1:656f76463a87d791",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sean DONOVAN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sean DONOVAN, petitioner,\nv.\nUNITED STATES.\nNo. 13-7743.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 539 Fed.Appx. 648.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1011-05",
+  "first_page_order": 1011,
+  "last_page_order": 1011
+}

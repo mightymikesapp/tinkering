@@ -1,0 +1,75 @@
+{
+  "id": 12579229,
+  "name": "Jerrico LINDSEY, petitioner, v. HAWAI'I.",
+  "name_abbreviation": "Lindsey v. Hawai'i.",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u2013881.",
+  "first_page": "1502",
+  "last_page": "1502",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1502"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 378"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "301 P.3d 1268",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 219,
+    "sha256": "7cb4bef2fa9f49a18b324abc0018a223cee1f29044e5fa4fc5d2b98f570e677e",
+    "simhash": "1:bae712063e92c3b9",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerrico LINDSEY, petitioner,\nv.\nHAWAI'I."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Intermediate Court of Appeals of Hawai'i denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerrico LINDSEY, petitioner,\nv.\nHAWAI'I.\nNo. 13-881.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 301 P.3d 1268.\nPetition for writ of certiorari to the Intermediate Court of Appeals of Hawai'i denied."
+  },
+  "file_name": "1502-02",
+  "first_page_order": 1502,
+  "last_page_order": 1502
+}

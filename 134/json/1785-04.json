@@ -1,0 +1,75 @@
+{
+  "id": 12580055,
+  "name": "Leonard E. VINES, petitioner, v. WASHINGTON METROPOLITAN AREA TRANSPORTATION AUTHORITY, et al.",
+  "name_abbreviation": "Vines v. Wash. Metro. Area Transp. Auth.",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138340.",
+  "first_page": "1785",
+  "last_page": "1785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1785"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 597"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "541 Fed.Appx. 276",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 292,
+    "sha256": "f357981be6ef1ebe85bf393ea8bdf56ffc4fdb4529fcb5f3ac4ff4aab2045015",
+    "simhash": "1:732f941e3e89f6ab",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leonard E. VINES, petitioner,\nv.\nWASHINGTON METROPOLITAN AREA TRANSPORTATION AUTHORITY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leonard E. VINES, petitioner,\nv.\nWASHINGTON METROPOLITAN AREA TRANSPORTATION AUTHORITY, et al.\nNo. 13-8340.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 541 Fed.Appx. 276.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1785-04",
+  "first_page_order": 1785,
+  "last_page_order": 1785
+}

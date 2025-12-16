@@ -1,0 +1,85 @@
+{
+  "id": 12584711,
+  "name": "Inacio LOBO, et al., petitioners, v. CELEBRITY CRUISES, INC., et al.",
+  "name_abbreviation": "Lobo v. Celebrity Cruises, Inc.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131202.",
+  "first_page": "61",
+  "last_page": "61",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 61"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 26"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "704 F.3d 882",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3655454
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/704/0882-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 261,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634464403137017
+    },
+    "sha256": "4161c64208f0dfced7889f547670fe15d9a207fa62b0277626a6c6c7d997ea33",
+    "simhash": "1:b1aff60433c104b3",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Inacio LOBO, et al., petitioners,\nv.\nCELEBRITY CRUISES, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Inacio LOBO, et al., petitioners,\nv.\nCELEBRITY CRUISES, INC., et al.\nNo. 12-1202.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 704 F.3d 882.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0061-01",
+  "first_page_order": 61,
+  "last_page_order": 61
+}

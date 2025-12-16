@@ -1,0 +1,75 @@
+{
+  "id": 12584754,
+  "name": "Chester GARDNER, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Gardner v. Michigan",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20136487.",
+  "first_page": "626",
+  "last_page": "626",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 626"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 405"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 5853795",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 211,
+    "sha256": "1eeee18ca2a78e4cedcd21314cdb3d5cc47a7e730cfba9510a8aa97d2519735d",
+    "simhash": "1:3ced76c6a7c5c419",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chester GARDNER, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Chester GARDNER, petitioner,\nv.\nMICHIGAN.\nNo. 13-6487.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 2012 WL 5853795.\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "0626-03",
+  "first_page_order": 626,
+  "last_page_order": 626
+}

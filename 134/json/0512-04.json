@@ -1,0 +1,85 @@
+{
+  "id": 12584370,
+  "name": "Jorge Cabecera RODRIGUEZ, aka Jorge Cebecera, aka Jorge Paul Cabecera, aka Jorge P. Cabecera, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rodriguez v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 12\u201310695.",
+  "first_page": "512",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 512"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 365"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "711 F.3d 541",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3802620
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/711/0541-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 314,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634304162134549
+    },
+    "sha256": "490620d5536b4c9c5baf29730c7cf076bbc553e6b120d7e4649e117e7d66f469",
+    "simhash": "1:69fd66cd7b0d50d7",
+    "word_count": 51
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jorge Cabecera RODRIGUEZ, aka Jorge Cebecera, aka Jorge Paul Cabecera, aka Jorge P. Cabecera, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jorge Cabecera RODRIGUEZ, aka Jorge Cebecera, aka Jorge Paul Cabecera, aka Jorge P. Cabecera, petitioner,\nv.\nUNITED STATES.\nNo. 12-10695.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 711 F.3d 541.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0512-04",
+  "first_page_order": 512,
+  "last_page_order": 512
+}

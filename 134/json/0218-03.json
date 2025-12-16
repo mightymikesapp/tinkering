@@ -1,0 +1,75 @@
+{
+  "id": 12581211,
+  "name": "Arturo Neri PRADO, petitioner, v. CITY OF FREDERICKSBURG POLICE DEPARTMENT, et al.",
+  "name_abbreviation": "Prado v. City of Fredericksburg Police Dep't",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135034.",
+  "first_page": "218",
+  "last_page": "218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 218"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 164"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 262",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 277,
+    "sha256": "f4fe1c36e8df044c6439feaab4c8ae6513154ac51332f500660d0da80b87fb72",
+    "simhash": "1:e32f668c3aa513a5",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arturo Neri PRADO, petitioner,\nv.\nCITY OF FREDERICKSBURG POLICE DEPARTMENT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arturo Neri PRADO, petitioner,\nv.\nCITY OF FREDERICKSBURG POLICE DEPARTMENT, et al.\nNo. 13-5034.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 515 Fed.Appx. 262.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0218-03",
+  "first_page_order": 218,
+  "last_page_order": 218
+}

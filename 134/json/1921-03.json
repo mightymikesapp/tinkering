@@ -1,0 +1,75 @@
+{
+  "id": 12580596,
+  "name": "Daniel Eugene BIFIELD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bifield v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139340.",
+  "first_page": "1921",
+  "last_page": "1921",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1921"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 945"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "547 Fed.Appx. 273",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 250,
+    "sha256": "7c6ae1268ccb18723eff41ba760acbc68dc6b12a3639fa2d7c53a4d100dd6a8e",
+    "simhash": "1:7bed66443b0ed731",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel Eugene BIFIELD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel Eugene BIFIELD, petitioner,\nv.\nUNITED STATES.\nNo. 13-9340.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 547 Fed.Appx. 273.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1921-03",
+  "first_page_order": 1921,
+  "last_page_order": 1921
+}

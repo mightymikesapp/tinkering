@@ -1,0 +1,97 @@
+{
+  "id": 12582604,
+  "name": "In the Matter of DISBARMENT OF Lennox Jacinto SIMON.",
+  "name_abbreviation": "In re Simon",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. D\u20132769.",
+  "first_page": "2837",
+  "last_page": "2837",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2837"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 802"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1581",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12705251,
+        12705252,
+        12579756,
+        12579757,
+        12579758,
+        12579759,
+        12579760,
+        12579761,
+        12705241,
+        12705242,
+        12704988,
+        12704989
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1031-02",
+        "/us/572/1031-03",
+        "/s-ct/134/1581-01",
+        "/s-ct/134/1581-02",
+        "/s-ct/134/1581-03",
+        "/s-ct/134/1581-04",
+        "/s-ct/134/1581-05",
+        "/s-ct/134/1581-06",
+        "/us/572/1030-15",
+        "/us/572/1030-16",
+        "/us/572/1013-07",
+        "/us/572/1013-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 175,
+    "sha256": "4eb713330dd553c2b2a65281f8851ecb203051ffe4c46d9577d4ffb69ba77e50",
+    "simhash": "1:f229540c39a77560",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Lennox Jacinto SIMON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Lennox Jacinto SIMON.\nNo. D-2769.\nSupreme Court of the United States\nJune 16, 2014.\nFormer decision, 134 S.Ct. 1581.\nDisbarment order entered."
+  },
+  "file_name": "2837-08",
+  "first_page_order": 2837,
+  "last_page_order": 2837
+}

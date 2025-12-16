@@ -1,0 +1,103 @@
+{
+  "id": 12586608,
+  "name": "Andre B. DAVIS, petitioner, v. Edwin L. GULLECKSON, et al.",
+  "name_abbreviation": "Davis v. Gulleckson",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20135809.",
+  "first_page": "992",
+  "last_page": "992",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 992"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 841"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 472",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704457,
+        12704458,
+        12704490,
+        12704491,
+        12704492,
+        12704493,
+        12584144,
+        12584145,
+        12584146,
+        12584147,
+        12584148,
+        12584149
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0973-01",
+        "/us/571/0973-02",
+        "/us/571/0975-08",
+        "/us/571/0975-09",
+        "/us/571/0975-10",
+        "/us/571/0975-11",
+        "/s-ct/134/0472-01",
+        "/s-ct/134/0472-02",
+        "/s-ct/134/0472-03",
+        "/s-ct/134/0472-04",
+        "/s-ct/134/0472-05",
+        "/s-ct/134/0472-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 186,
+    "sha256": "c1175f0c9ad3e7dab5e5da2a33dd4028647aea4ef1e130db53090a55d807754c",
+    "simhash": "1:047c0646209056a2",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andre B. DAVIS, petitioner,\nv.\nEdwin L. GULLECKSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andre B. DAVIS, petitioner,\nv.\nEdwin L. GULLECKSON, et al.\nNo. 13-5809.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 472.\nPetition for rehearing denied."
+  },
+  "file_name": "0992-08",
+  "first_page_order": 992,
+  "last_page_order": 992
+}

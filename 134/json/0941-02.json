@@ -1,0 +1,85 @@
+{
+  "id": 12586267,
+  "name": "William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division, petitioner, v. Nelson GONGORA.",
+  "name_abbreviation": "Stephens v. Gongora",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013592.",
+  "first_page": "941",
+  "last_page": "941",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 941"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 834"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "710 F.3d 267",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3553047
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/710/0267-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 391,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635006905808022
+    },
+    "sha256": "ff9468c8dc21def7aaa28b620ed31700615eea3fbaf1fbef7b25e8552e0e9ab3",
+    "simhash": "1:6ba6744ea2a05605",
+    "word_count": 59
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division, petitioner,\nv.\nNelson GONGORA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division, petitioner,\nv.\nNelson GONGORA.\nNo. 13-592.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 710 F.3d 267.\nMotion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0941-02",
+  "first_page_order": 941,
+  "last_page_order": 941
+}

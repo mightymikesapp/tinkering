@@ -1,0 +1,103 @@
+{
+  "id": 12579755,
+  "name": "John Ernest DADE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Dade v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u2013610.",
+  "first_page": "1580",
+  "last_page": "1581",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1580"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 588"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 949",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700262,
+        12700774,
+        12586315,
+        12586316,
+        12586317,
+        12586318,
+        12586319,
+        12586320,
+        12700401,
+        12700624,
+        12700625,
+        12700626
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1121-01",
+        "/us/571/1157-07",
+        "/s-ct/134/0949-01",
+        "/s-ct/134/0949-02",
+        "/s-ct/134/0949-03",
+        "/s-ct/134/0949-04",
+        "/s-ct/134/0949-05",
+        "/s-ct/134/0949-06",
+        "/us/571/1131-14",
+        "/us/571/1146-11",
+        "/us/571/1146-12",
+        "/us/571/1146-13"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 175,
+    "sha256": "51ae46480645640091f08fd11a7b5a9ef56dd91786d74f11b0e9ccab3f645a65",
+    "simhash": "1:517c360616cb7e18",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Ernest DADE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Ernest DADE, petitioner,\nv.\nUNITED STATES.\nNo. 13-610.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 949.\nPetition for rehearing denied."
+  },
+  "file_name": "1580-07",
+  "first_page_order": 1580,
+  "last_page_order": 1581
+}

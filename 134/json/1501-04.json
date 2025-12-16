@@ -1,0 +1,83 @@
+{
+  "id": 12579225,
+  "name": "Delores BERG, et al., petitioners, v. Kathleen SEBELIUS, Secretary of Health and Human Services.",
+  "name_abbreviation": "Berg v. Sebelius",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u2013859.",
+  "first_page": "1501",
+  "last_page": "1501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1501"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 378"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 1110",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4050386,
+        4050132
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/1110-01",
+        "/f3d/718/1110-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 287,
+    "sha256": "b39f13017c290b8a245cb8682b1edb025965b94f02ac84b511617dea4b4af475",
+    "simhash": "1:d3ae7444730a3769",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Delores BERG, et al., petitioners,\nv.\nKathleen SEBELIUS, Secretary of Health and Human Services."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Delores BERG, et al., petitioners,\nv.\nKathleen SEBELIUS, Secretary of Health and Human Services.\nNo. 13-859.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 718 F.3d 1110.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1501-04",
+  "first_page_order": 1501,
+  "last_page_order": 1501
+}

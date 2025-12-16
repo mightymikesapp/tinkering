@@ -1,0 +1,91 @@
+{
+  "id": 12583105,
+  "name": "Sunni ALI, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ali v. United States",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12\u20139439.",
+  "first_page": "29",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 29"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 942"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2040",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698017,
+        12697962,
+        12697963,
+        12697972,
+        12697981,
+        12697982
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0969-10",
+        "/us/569/0965-04",
+        "/us/569/0965-05",
+        "/us/569/0966-09",
+        "/us/569/0966-10",
+        "/us/569/0966-11"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 169,
+    "sha256": "7179868293bda816d7903568ed09b05aad923b55a687e862401cd773eb062d52",
+    "simhash": "1:c1a81413528a12de",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sunni ALI, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sunni ALI, petitioner,\nv.\nUNITED STATES.\nNo. 12-9439.\nSupreme Court of the United States\nJuly 22, 2013.\nFormer decision, 133 S.Ct. 2040.\nPetition for rehearing denied."
+  },
+  "file_name": "0029-05",
+  "first_page_order": 29,
+  "last_page_order": 29
+}

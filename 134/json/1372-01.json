@@ -1,0 +1,103 @@
+{
+  "id": 12579049,
+  "name": "Mark C. JACKSON, petitioner, v. HARTFORD LIFE AND ACCIDENT INSURANCE COMPANY.",
+  "name_abbreviation": "Jackson v. Hartford Life & Accident Ins. Co.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137498.",
+  "first_page": "1372",
+  "last_page": "1372",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1372"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 368"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 957",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12586369,
+        12586370,
+        12586371,
+        12586372,
+        12586373,
+        12586374,
+        12700666,
+        12700667,
+        12700668,
+        12700669,
+        12700670,
+        12700671
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0957-01",
+        "/s-ct/134/0957-02",
+        "/s-ct/134/0957-03",
+        "/s-ct/134/0957-04",
+        "/s-ct/134/0957-05",
+        "/s-ct/134/0957-06",
+        "/us/571/1149-07",
+        "/us/571/1149-08",
+        "/us/571/1149-09",
+        "/us/571/1149-10",
+        "/us/571/1149-11",
+        "/us/571/1149-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 205,
+    "sha256": "607839598b663a708df1a54c8cff6040eeb4bd32d3204538dd7dd83e367e566a",
+    "simhash": "1:b5bd35161785658e",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark C. JACKSON, petitioner,\nv.\nHARTFORD LIFE AND ACCIDENT INSURANCE COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark C. JACKSON, petitioner,\nv.\nHARTFORD LIFE AND ACCIDENT INSURANCE COMPANY.\nNo. 13-7498.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 957.\nPetition for rehearing denied."
+  },
+  "file_name": "1372-01",
+  "first_page_order": 1372,
+  "last_page_order": 1372
+}

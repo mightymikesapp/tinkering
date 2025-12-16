@@ -1,0 +1,85 @@
+{
+  "id": 12582055,
+  "name": "TESORO CORPORATION and Subsidiaries, petitioners, v. ALASKA DEPARTMENT OF REVENUE.",
+  "name_abbreviation": "Tesoro Corp. v. Alaska Dep't of Revenue",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20131023.",
+  "first_page": "2697",
+  "last_page": "2697",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2697"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 740"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "312 P.3d 830",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        6971115
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/p3d/312/0830-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 243,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633603349075564
+    },
+    "sha256": "4514f514a60ee4e6def64c677cc1c30ad7e1b1baced52a186e597dbcd47eebf1",
+    "simhash": "1:682b3404baafc401",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TESORO CORPORATION and Subsidiaries, petitioners,\nv.\nALASKA DEPARTMENT OF REVENUE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Alaska denied."
+    ],
+    "corrections": "",
+    "head_matter": "TESORO CORPORATION and Subsidiaries, petitioners,\nv.\nALASKA DEPARTMENT OF REVENUE.\nNo. 13-1023.\nSupreme Court of the United States\nJune 2, 2014.\nCase below, 312 P.3d 830.\nPetition for writ of certiorari to the Supreme Court of Alaska denied."
+  },
+  "file_name": "2697-03",
+  "first_page_order": 2697,
+  "last_page_order": 2697
+}

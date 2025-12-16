@@ -1,0 +1,103 @@
+{
+  "id": 12585735,
+  "name": "William DOUGLAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Douglas v. United States",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 12\u201310866.",
+  "first_page": "815",
+  "last_page": "815",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 815"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 616"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 188",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703040,
+        12580385,
+        12580386,
+        12580387,
+        12580388,
+        12580389,
+        12580390,
+        12703041,
+        12702189,
+        12702166,
+        12703038,
+        12703039
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0873-11",
+        "/s-ct/134/0188-01",
+        "/s-ct/134/0188-02",
+        "/s-ct/134/0188-03",
+        "/s-ct/134/0188-04",
+        "/s-ct/134/0188-05",
+        "/s-ct/134/0188-06",
+        "/us/571/0873-12",
+        "/us/571/0814-22",
+        "/us/571/0813-25",
+        "/us/571/0873-09",
+        "/us/571/0873-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 173,
+    "sha256": "3a07b21bbe0a8b07b02cc59d5b111f72e55ea41f473d02bbe81e3eb179e179ed",
+    "simhash": "1:36a0044697075228",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William DOUGLAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "William DOUGLAS, petitioner,\nv.\nUNITED STATES.\nNo. 12-10866.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 188\nPetition for rehearing denied."
+  },
+  "file_name": "0815-06",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

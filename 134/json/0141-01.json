@@ -1,0 +1,75 @@
+{
+  "id": 12579102,
+  "name": "Jesse C. ADAMS, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Adams v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310604.",
+  "first_page": "141",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 141"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 99"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "483 Fed.Appx. 299",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 248,
+    "sha256": "5dfb56834aaf04fabc992921a3dc1f702c6659e669c42f9748f68d845b506507",
+    "simhash": "1:c5ef56447387d6b9",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesse C. ADAMS, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jesse C. ADAMS, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 12-10604.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 483 Fed.Appx. 299.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0141-01",
+  "first_page_order": 141,
+  "last_page_order": 141
+}

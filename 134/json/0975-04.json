@@ -1,0 +1,85 @@
+{
+  "id": 12586489,
+  "name": "Dennis Gale CHASE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Chase v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137682.",
+  "first_page": "975",
+  "last_page": "975",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 975"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 829"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "717 F.3d 651",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3575865
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/717/0651-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635076407929574
+    },
+    "sha256": "4cf1ca3d809723e1b13dbfdad1e24558c0775377b0f2f1b0157deeef17c91104",
+    "simhash": "1:ee2c744463819591",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dennis Gale CHASE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dennis Gale CHASE, petitioner,\nv.\nUNITED STATES.\nNo. 13-7682.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 717 F.3d 651.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0975-04",
+  "first_page_order": 975,
+  "last_page_order": 975
+}

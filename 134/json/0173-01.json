@@ -1,0 +1,87 @@
+{
+  "id": 12579866,
+  "name": "Donte THOMAS, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Thomas v. Pennsylvania",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310788.",
+  "first_page": "173",
+  "last_page": "173",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 173"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 119"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "54 A.3d 332",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7311185,
+        7311169,
+        3900488,
+        3900606
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/54/0332-02",
+        "/a3d/54/0332-01",
+        "/pa/618/0069-01",
+        "/pa/618/0070-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 242,
+    "sha256": "a0ef9dd69f48ebfda16d38e9bce01893eed9d0388e65cb64664ef8231b5977ea",
+    "simhash": "1:4aaf5458b8e504fb",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donte THOMAS, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Donte THOMAS, petitioner,\nv.\nPENNSYLVANIA.\nNo. 12-10788.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, --- Pa. ----, 54 A.3d 332.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+  },
+  "file_name": "0173-01",
+  "first_page_order": 173,
+  "last_page_order": 173
+}

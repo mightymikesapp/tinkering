@@ -1,0 +1,85 @@
+{
+  "id": 12583012,
+  "name": "Russell PAYTON, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Payton v. Louisiana",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135441.",
+  "first_page": "289",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 289"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 208"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "117 So.3d 99",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        6998773,
+        6998753,
+        6998741
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/117/0099-03",
+        "/so3d/117/0099-02",
+        "/so3d/117/0099-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 205,
+    "sha256": "e1516bed6f88145040a3efd337dab141960ecfea1510921c7c0a609ccd6b344c",
+    "simhash": "1:e8ebf61c3ec7c4af",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Russell PAYTON, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Louisiana denied."
+    ],
+    "corrections": "",
+    "head_matter": "Russell PAYTON, petitioner,\nv.\nLOUISIANA.\nNo. 13-5441.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 117 So.3d 99.\nPetition for writ of certiorari to the Supreme Court of Louisiana denied."
+  },
+  "file_name": "0289-02",
+  "first_page_order": 289,
+  "last_page_order": 289
+}

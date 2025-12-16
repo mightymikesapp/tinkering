@@ -1,0 +1,103 @@
+{
+  "id": 12586630,
+  "name": "Len VANDO, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Vando v. Pennsylvania",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136399.",
+  "first_page": "995",
+  "last_page": "995",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 995"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 844"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 531",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704801,
+        12704706,
+        12704802,
+        12584494,
+        12584495,
+        12584496,
+        12584497,
+        12584498,
+        12584499,
+        12699124,
+        12699125,
+        12704795
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0998-07",
+        "/us/571/0991-15",
+        "/us/571/0998-08",
+        "/s-ct/134/0531-01",
+        "/s-ct/134/0531-02",
+        "/s-ct/134/0531-03",
+        "/s-ct/134/0531-04",
+        "/s-ct/134/0531-05",
+        "/s-ct/134/0531-06",
+        "/us/571/1006-02",
+        "/us/571/1006-03",
+        "/us/571/0998-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 162,
+    "sha256": "fea1fe5315cf4971856f13e8213f5e2f3d3de687c63b401528a180fc04e4c4b1",
+    "simhash": "1:49ef15441cc8f682",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Len VANDO, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Len VANDO, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-6399.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 134 S.Ct. 531.\nPetition for rehearing denied."
+  },
+  "file_name": "0995-08",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

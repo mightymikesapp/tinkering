@@ -1,0 +1,86 @@
+{
+  "id": 12585249,
+  "name": "Joanne BAKER, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Baker v. Newyork",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u2013420.",
+  "first_page": "700",
+  "last_page": "700",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 700"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 552"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "104 A.D.3d 783",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3711076
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ad3d/104/0783-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 269,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634642019669873
+    },
+    "sha256": "97a9324b1a5fa8da99e72aa436014ddd8f034d30233d25c6e2bff04dbb84bd43",
+    "simhash": "1:6a7f725639b863a1",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joanne BAKER, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joanne BAKER, petitioner,\nv.\nNEW YORK.\nNo. 13-420.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 104 A.D.3d 783, 960 N.Y.S.2d 511.\nPetition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, denied."
+  },
+  "file_name": "0700-02",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12585198,
+  "name": "Clarence RANDOLPH, Jr., petitioner, v. LOUISIANA; and Clarence Randolph, Jr., petitioner v. Louisiana.",
+  "name_abbreviation": "Randolph v. Louisiana",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136514.",
+  "first_page": "692",
+  "last_page": "692",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 692"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 559"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "108 So.3d 1173",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7017568,
+        7017528,
+        7017614
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/108/1173-02",
+        "/so3d/108/1173-01",
+        "/so3d/108/1173-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 268,
+    "sha256": "06beb89a20a6532ab9d7bfa4d845275ff56f9e3b99b6a9fcfb00c617554cb2a5",
+    "simhash": "1:faff50245be662ae",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clarence RANDOLPH, Jr., petitioner,\nv.\nLOUISIANA; and Clarence Randolph, Jr., petitioner\nv.\nLouisiana."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Louisiana denied."
+    ],
+    "corrections": "",
+    "head_matter": "Clarence RANDOLPH, Jr., petitioner,\nv.\nLOUISIANA; and Clarence Randolph, Jr., petitioner\nv.\nLouisiana.\nNo. 13-6514.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 108 So.3d 1173.\nPetition for writ of certiorari to the Supreme Court of Louisiana denied."
+  },
+  "file_name": "0692-06",
+  "first_page_order": 692,
+  "last_page_order": 692
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12584311,
+  "name": "Henry Lee NELSON, aka Goldie, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Nelson v. United States",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20136530.",
+  "first_page": "497",
+  "last_page": "497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 497"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 336"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "518 Fed.Appx. 150",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 256,
+    "sha256": "78518925519031878d14756c331c31a68bd8198097ed80cfc4d47f8e27613ac7",
+    "simhash": "1:d3ece0443bcc5413",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry Lee NELSON, aka Goldie, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Henry Lee NELSON, aka Goldie, petitioner,\nv.\nUNITED STATES.\nNo. 13-6530.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 518 Fed.Appx. 150.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0497-06",
+  "first_page_order": 497,
+  "last_page_order": 497
+}

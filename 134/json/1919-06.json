@@ -1,0 +1,75 @@
+{
+  "id": 12580581,
+  "name": "Donovan Anthony LIVINGSTON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Livingston v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139319.",
+  "first_page": "1919",
+  "last_page": "1919",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1919"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 944"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "404 Fed.Appx. 685",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 254,
+    "sha256": "956c10d17c030d144ceb79c0fb3f295836e2a38f929b42c7add935ad1d550ca5",
+    "simhash": "1:e3ae50c43a47d625",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donovan Anthony LIVINGSTON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Donovan Anthony LIVINGSTON, petitioner,\nv.\nUNITED STATES.\nNo. 13-9319.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 404 Fed.Appx. 685.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1919-06",
+  "first_page_order": 1919,
+  "last_page_order": 1919
+}

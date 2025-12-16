@@ -1,0 +1,103 @@
+{
+  "id": 12585913,
+  "name": "Stephon WIGGINS, petitioner, v. ST. LUKES EPISCOPAL HEALTH SYSTEM.",
+  "name_abbreviation": "Wiggins v. St. Lukes Episcopal Health Sys.",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135515.",
+  "first_page": "840",
+  "last_page": "840",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 840"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 697"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 396",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703712,
+        12703588,
+        12583749,
+        12583750,
+        12583751,
+        12583752,
+        12583753,
+        12583754,
+        12703620,
+        12703786,
+        12703697,
+        12703542
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0919-06",
+        "/us/571/0911-06",
+        "/s-ct/134/0396-01",
+        "/s-ct/134/0396-02",
+        "/s-ct/134/0396-03",
+        "/s-ct/134/0396-04",
+        "/s-ct/134/0396-05",
+        "/s-ct/134/0396-06",
+        "/us/571/0913-07",
+        "/us/571/0924-06",
+        "/us/571/0918-06",
+        "/us/571/0908-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 194,
+    "sha256": "44078a9309a63fcf4906e5ee54f6158b1c315a32cb2fd3071634210d12649455",
+    "simhash": "1:44775408358b41a9",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephon WIGGINS, petitioner,\nv.\nST. LUKES EPISCOPAL HEALTH SYSTEM."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stephon WIGGINS, petitioner,\nv.\nST. LUKES EPISCOPAL HEALTH SYSTEM.\nNo. 13-5515.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 396.\nPetition for rehearing denied."
+  },
+  "file_name": "0840-06",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583251,
+  "name": "Gregory ROBERTSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robertson v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135636.",
+  "first_page": "320",
+  "last_page": "320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 320"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 225"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "67 M.J. 14",
+      "category": "reporters:specialty",
+      "reporter": "M.J.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 235,
+    "sha256": "40b8a698a676880376d82ef2fcf449449eab1a9e5ca140fb38a326c2a046f7b2",
+    "simhash": "1:73ef660473ca94bb",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory ROBERTSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory ROBERTSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-5636.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 67 M.J. 14.\nPetition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+  },
+  "file_name": "0320-04",
+  "first_page_order": 320,
+  "last_page_order": 320
+}

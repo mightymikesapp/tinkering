@@ -1,0 +1,75 @@
+{
+  "id": 12581410,
+  "name": "Eric CHAMBER, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Chamber v. Tennessee",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20139191.",
+  "first_page": "2307",
+  "last_page": "2307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2307"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 189"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 4677297",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 237,
+    "sha256": "954f9de572a848c304247574fa46d7149c38105f8b9d41131b5609aac40aec4d",
+    "simhash": "1:58ee94dea5c94493",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric CHAMBER, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric CHAMBER, petitioner,\nv.\nTENNESSEE.\nNo. 13-9191.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 2013 WL 4677297.\nPetition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division, denied."
+  },
+  "file_name": "2307-05",
+  "first_page_order": 2307,
+  "last_page_order": 2307
+}

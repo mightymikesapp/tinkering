@@ -1,0 +1,73 @@
+{
+  "id": 12582295,
+  "name": "Mary Lou DiFRANCESCO, petitioner, v. William M. McSWAIN, et al.",
+  "name_abbreviation": "Difrancesco v. McSwain",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20131210.",
+  "first_page": "2731",
+  "last_page": "2731",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2731"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 765"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "69 A.3d 1285",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 253,
+    "sha256": "b8b43aa6979021921c9a8ba82a25e152304590e88cf9c7c2f80ea21de9410f27",
+    "simhash": "1:247954249eb177c0",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mary Lou DiFRANCESCO, petitioner,\nv.\nWilliam M. McSWAIN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Mary Lou DiFRANCESCO, petitioner,\nv.\nWilliam M. McSWAIN, et al.\nNo. 13-1210.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 69 A.3d 1285.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office, denied."
+  },
+  "file_name": "2731-05",
+  "first_page_order": 2731,
+  "last_page_order": 2731
+}

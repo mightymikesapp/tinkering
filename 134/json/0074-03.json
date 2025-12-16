@@ -1,0 +1,68 @@
+{
+  "id": 12585503,
+  "name": "Ivan BUSTILLOS, petitioner, v. ARKANSAS.",
+  "name_abbreviation": "Bustillos v. Arkansas",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139977.",
+  "first_page": "74",
+  "last_page": "74",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 74"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 57"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 209,
+    "sha256": "77a4b04c2da83313a8ed4c840b9cb64dedfbaab412c04c383214fa1a8c4212a0",
+    "simhash": "1:48efee2e7bd7a7a9",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ivan BUSTILLOS, petitioner,\nv.\nARKANSAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Arkansas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ivan BUSTILLOS, petitioner,\nv.\nARKANSAS.\nNo. 12-9977.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, --- S.W.3d ----.\nPetition for writ of certiorari to the Court of Appeals of Arkansas denied."
+  },
+  "file_name": "0074-03",
+  "first_page_order": 74,
+  "last_page_order": 74
+}

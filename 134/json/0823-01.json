@@ -1,0 +1,86 @@
+{
+  "id": 12585792,
+  "name": "Jason Wade SCHAEFFER, petitioner, v. KANSAS.",
+  "name_abbreviation": "Schaeffer v. Kansas",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 12\u20139758.",
+  "first_page": "823",
+  "last_page": "823",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 823"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 685"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "295 Kan. 872",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        12131074
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/kan/295/0872-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 220,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634796468828878
+    },
+    "sha256": "743ee3b2f5bd429fd2109406985d125a8e079a73eb05de17a8025252d24edce4",
+    "simhash": "1:692f621e73f7f319",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason Wade SCHAEFFER, petitioner,\nv.\nKANSAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Kansas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason Wade SCHAEFFER, petitioner,\nv.\nKANSAS.\nNo. 12-9758.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 295 Kan. 872, 286 P.3d 889.\nPetition for writ of certiorari to the Supreme Court of Kansas denied."
+  },
+  "file_name": "0823-01",
+  "first_page_order": 823,
+  "last_page_order": 823
+}

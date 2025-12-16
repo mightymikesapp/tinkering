@@ -1,0 +1,75 @@
+{
+  "id": 12584182,
+  "name": "Alfred L. STONE, petitioner, v. Gregory A. BALLARD, et al.",
+  "name_abbreviation": "Stone v. Ballard",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20135911.",
+  "first_page": "478",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 478"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 323"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "526 Fed.Appx. 688",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 256,
+    "sha256": "d685b1cdca6ecf42f22d79c00cf2b78cf95b74f0ad2bc8212020fb0283046f4f",
+    "simhash": "1:53aff60c3e8517eb",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alfred L. STONE, petitioner,\nv.\nGregory A. BALLARD, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alfred L. STONE, petitioner,\nv.\nGregory A. BALLARD, et al.\nNo. 13-5911.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 526 Fed.Appx. 688.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0478-04",
+  "first_page_order": 478,
+  "last_page_order": 478
+}

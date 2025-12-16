@@ -1,0 +1,103 @@
+{
+  "id": 12582810,
+  "name": "Deafueh MONBO, petitioner, v. MORGAN PROPERTIES TRUST, et al.",
+  "name_abbreviation": "Monbo v. Morgan Props. Trust",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20139308.",
+  "first_page": "2868",
+  "last_page": "2868",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2868"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 827"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3733"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 2309",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706497,
+        12706498,
+        4072963,
+        12581416,
+        12581417,
+        12581418,
+        12581419,
+        12581420,
+        12706481,
+        12706482,
+        12706483,
+        12706492
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1124-06",
+        "/us/572/1124-07",
+        "/br/510/2309-01",
+        "/s-ct/134/2309-01",
+        "/s-ct/134/2309-02",
+        "/s-ct/134/2309-03",
+        "/s-ct/134/2309-04",
+        "/s-ct/134/2309-05",
+        "/us/572/1123-05",
+        "/us/572/1123-06",
+        "/us/572/1123-07",
+        "/us/572/1124-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 190,
+    "sha256": "e99b41b5cbb7b5177a468c707bf908f0b0aef26dcc68debefa16f24a51317b8a",
+    "simhash": "1:70272e863780fc5e",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Deafueh MONBO, petitioner,\nv.\nMORGAN PROPERTIES TRUST, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Deafueh MONBO, petitioner,\nv.\nMORGAN PROPERTIES TRUST, et al.\nNo. 13-9308.\nSupreme Court of the United States\nJune 23, 2014.\nFormer decision, 134 S.Ct. 2309.\nPetition for rehearing denied."
+  },
+  "file_name": "2868-08",
+  "first_page_order": 2868,
+  "last_page_order": 2868
+}

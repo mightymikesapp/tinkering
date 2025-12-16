@@ -1,0 +1,75 @@
+{
+  "id": 12586048,
+  "name": "Dennis Allen MAGGESE, petitioner, v. John STOIA, et al.",
+  "name_abbreviation": "Maggese v. Stoia",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136869.",
+  "first_page": "908",
+  "last_page": "908",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 908"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 791"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 523",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "sha256": "38d2547b7fbc97b8cb8c0887803f4b7df8bfd59dadbd703cd16f9d75f8c76770",
+    "simhash": "1:ab3ff44c60051188",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dennis Allen MAGGESE, petitioner,\nv.\nJohn STOIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dennis Allen MAGGESE, petitioner,\nv.\nJohn STOIA, et al.\nNo. 13-6869.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 525 Fed.Appx. 523.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0908-03",
+  "first_page_order": 908,
+  "last_page_order": 908
+}

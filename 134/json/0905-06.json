@@ -1,0 +1,85 @@
+{
+  "id": 12586033,
+  "name": "Robert Bryant MELSON, petitioner, v. Kim T. THOMAS, Commissioner, Alabama Department of Corrections.",
+  "name_abbreviation": "Melson v. Thomas",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136628.",
+  "first_page": "905",
+  "last_page": "906",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 905"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 790"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 1086",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3560132
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/1086-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 295,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634948987373395
+    },
+    "sha256": "942ab1da8111151b5a79a9122c2281007a3004fbe6a8b611b0f15c04fe80320f",
+    "simhash": "1:f9655244f181ded1",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Bryant MELSON, petitioner,\nv.\nKim T. THOMAS, Commissioner, Alabama Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Bryant MELSON, petitioner,\nv.\nKim T. THOMAS, Commissioner, Alabama Department of Corrections.\nNo. 13-6628.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 713 F.3d 1086.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0905-06",
+  "first_page_order": 905,
+  "last_page_order": 906
+}

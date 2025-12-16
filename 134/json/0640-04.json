@@ -1,0 +1,75 @@
+{
+  "id": 12584851,
+  "name": "Adrian MACIAS, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Macias v. California",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136257.",
+  "first_page": "640",
+  "last_page": "640",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 640"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 423"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 622941",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 239,
+    "sha256": "b36269e02bc1268004ffca0785bf57772c32c0fd6cd5e9aee24b48fe29ba8bcd",
+    "simhash": "1:086f469cb3c191f8",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adrian MACIAS, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Adrian MACIAS, petitioner,\nv.\nCALIFORNIA.\nNo. 13-6257.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 2013 WL 622941.\nPetition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+  },
+  "file_name": "0640-04",
+  "first_page_order": 640,
+  "last_page_order": 640
+}

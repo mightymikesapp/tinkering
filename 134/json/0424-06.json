@@ -1,0 +1,75 @@
+{
+  "id": 12583832,
+  "name": "Shumin ZHANG, et vir, petitioners, v. Jianong GUO, et al.",
+  "name_abbreviation": "Zhang v. Guo",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u2013148.",
+  "first_page": "424",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 424"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 281"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 3588430",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 255,
+    "sha256": "c7cf278ee47d4fea1a546cafbc393110fea49f05d0836fecadbf1b4061c4eb0d",
+    "simhash": "1:7b6fe69c85e7909f",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shumin ZHANG, et vir, petitioners,\nv.\nJianong GUO, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shumin ZHANG, et vir, petitioners,\nv.\nJianong GUO, et al.\nNo. 13-148.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 2012 WL 3588430.\nPetition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+  },
+  "file_name": "0424-06",
+  "first_page_order": 424,
+  "last_page_order": 424
+}

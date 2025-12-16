@@ -1,0 +1,75 @@
+{
+  "id": 12584736,
+  "name": "Shannon FATTA, petitioner, v. M & M PROPERTIES MANAGEMENT, INC.",
+  "name_abbreviation": "Fatta v. M&M Props. Mgmt., Inc.",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20136251.",
+  "first_page": "623",
+  "last_page": "623",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 623"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 404"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "735 S.E.2d 836",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 238,
+    "sha256": "43c4ce0a37993ef2c6394c41c746990198b6875758fa6e6ca568495fea9a54e6",
+    "simhash": "1:204f50c012c684ea",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shannon FATTA, petitioner,\nv.\nM & M PROPERTIES MANAGEMENT, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of North Carolina denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shannon FATTA, petitioner,\nv.\nM & M PROPERTIES MANAGEMENT, INC.\nNo. 13-6251.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 735 S.E.2d 836.\nPetition for writ of certiorari to the Court of Appeals of North Carolina denied."
+  },
+  "file_name": "0623-03",
+  "first_page_order": 623,
+  "last_page_order": 623
+}

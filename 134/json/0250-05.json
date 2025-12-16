@@ -1,0 +1,75 @@
+{
+  "id": 12581707,
+  "name": "Jesse James JETER, petitioner, v. PALMETTO HEALTH, dba Palmetto Health Internal Medicine Center.",
+  "name_abbreviation": "Jeter v. Palmetto Health",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135220.",
+  "first_page": "250",
+  "last_page": "250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 250"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 185"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 234",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 292,
+    "sha256": "c4d975944856480adf9eb06044ec2fd15682ebdce4e774e2b1a0f8f216351789",
+    "simhash": "1:0aaf821531050293",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesse James JETER, petitioner,\nv.\nPALMETTO HEALTH, dba Palmetto Health Internal Medicine Center."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jesse James JETER, petitioner,\nv.\nPALMETTO HEALTH, dba Palmetto Health Internal Medicine Center.\nNo. 13-5220.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 515 Fed.Appx. 234.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0250-05",
+  "first_page_order": 250,
+  "last_page_order": 250
+}

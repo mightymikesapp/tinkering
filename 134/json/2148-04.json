@@ -1,0 +1,85 @@
+{
+  "id": 12581081,
+  "name": "Samuel COHEN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cohen v. United States",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20131184.",
+  "first_page": "2148",
+  "last_page": "2148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2148"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1142"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "742 F.3d 856",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4072196
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/742/0856-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 310,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26332654915402404
+    },
+    "sha256": "377861ff894d8d66c6045997eece0d268d3b6bc80f45d4b8796c0af1a2c9b88e",
+    "simhash": "1:a3ff72462b84760a",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Samuel COHEN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYER took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice BREYER took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel COHEN, petitioner,\nv.\nUNITED STATES.\nNo. 13-1184.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 742 F.3d 856.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2148-04",
+  "first_page_order": 2148,
+  "last_page_order": 2148
+}

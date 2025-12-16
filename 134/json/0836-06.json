@@ -1,0 +1,103 @@
+{
+  "id": 12585881,
+  "name": "Dana Lydell SMITH, petitioner, v. IDAHO.",
+  "name_abbreviation": "Smith v. Idaho",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135841.",
+  "first_page": "836",
+  "last_page": "836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 836"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 684"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 343",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703904,
+        12583400,
+        12583401,
+        12583402,
+        12583403,
+        12583404,
+        12583405,
+        12703912,
+        12703893,
+        12703894,
+        12702039,
+        12703895
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0932-08",
+        "/s-ct/134/0343-01",
+        "/s-ct/134/0343-02",
+        "/s-ct/134/0343-03",
+        "/s-ct/134/0343-04",
+        "/s-ct/134/0343-05",
+        "/s-ct/134/0343-06",
+        "/us/571/0932-09",
+        "/us/571/0931-05",
+        "/us/571/0931-06",
+        "/us/571/0806-04",
+        "/us/571/0931-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 237,
+    "sha256": "1211c1f3c06dba58afd49a0b9ce998ed63c26773c4785b2562225de796ec8711",
+    "simhash": "1:66b8345c6587c792",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dana Lydell SMITH, petitioner,\nv.\nIDAHO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dana Lydell SMITH, petitioner,\nv.\nIDAHO.\nNo. 13-5841.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 343\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0836-06",
+  "first_page_order": 836,
+  "last_page_order": 836
+}

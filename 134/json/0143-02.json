@@ -1,0 +1,75 @@
+{
+  "id": 12579117,
+  "name": "Michael A. RENDER, petitioner, v. Michael D. CREWS, Secretary, Florida Department of Corrections.",
+  "name_abbreviation": "Render v. Crews",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310617.",
+  "first_page": "143",
+  "last_page": "143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 143"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 101"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "503 Fed.Appx. 823",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 296,
+    "sha256": "6dd44a801b2da62f3aa8cd645fe62b26e0b5c866fe486102eb1e3846331f2db6",
+    "simhash": "1:a0ef72de57428421",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael A. RENDER, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael A. RENDER, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections.\nNo. 12-10617.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 503 Fed.Appx. 823.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0143-02",
+  "first_page_order": 143,
+  "last_page_order": 143
+}

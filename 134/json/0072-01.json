@@ -1,0 +1,85 @@
+{
+  "id": 12585450,
+  "name": "Natalia KARNATCHEVA, et al., petitioners, v. JP MORGAN CHASE BANK, et al.",
+  "name_abbreviation": "Karnatcheva v. JP Morgan Chase Bank",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131303.",
+  "first_page": "72",
+  "last_page": "72",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 72"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 254"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "704 F.3d 545",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3654228
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/704/0545-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 341,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634688354417574
+    },
+    "sha256": "07f13ad503bedd59d44b54d0a54d620ffb9ecead74c492e5c8123a2f8882331c",
+    "simhash": "1:bb3ff644b7e613c2",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Natalia KARNATCHEVA, et al., petitioners,\nv.\nJP MORGAN CHASE BANK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Natalia KARNATCHEVA, et al., petitioners,\nv.\nJP MORGAN CHASE BANK, et al.\nNo. 12-1303.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 704 F.3d 545.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0072-01",
+  "first_page_order": 72,
+  "last_page_order": 72
+}

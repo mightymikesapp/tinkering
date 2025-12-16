@@ -1,0 +1,85 @@
+{
+  "id": 12585216,
+  "name": "Oscar Ray BOLIN, Jr., petitioner, v. FLORIDA.",
+  "name_abbreviation": "Bolin v. Florida",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136566.",
+  "first_page": "695",
+  "last_page": "695",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 695"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 561"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "117 So.3d 728",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7004699
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/117/0728-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 208,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26346342972119224
+    },
+    "sha256": "73537044beb572ab2344cedf272884d43d0b107474dec340ea7add1f9aa9299a",
+    "simhash": "1:ca51744679d7c096",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oscar Ray BOLIN, Jr., petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Oscar Ray BOLIN, Jr., petitioner,\nv.\nFLORIDA.\nNo. 13-6566.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 117 So.3d 728.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "0695-06",
+  "first_page_order": 695,
+  "last_page_order": 695
+}

@@ -1,0 +1,86 @@
+{
+  "id": 12580752,
+  "name": "Ramon Juan ESCARENO-MERAZ, petitioner, v. ARIZONA.",
+  "name_abbreviation": "Escareno-Meraz v. Arizona",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20138762.",
+  "first_page": "1943",
+  "last_page": "1943",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1943"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 967"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "232 Ariz. 586",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        4063975
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ariz/232/0586-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 248,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26331322791405987
+    },
+    "sha256": "0eb6ee4da38ecf4197daba2fea414a96343ec97062884d24c97de63ba6a50e0e",
+    "simhash": "1:607f7204ecc78419",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ramon Juan ESCARENO-MERAZ, petitioner,\nv.\nARIZONA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Arizona, Division Two, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ramon Juan ESCARENO-MERAZ, petitioner,\nv.\nARIZONA.\nNo. 13-8762.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 232 Ariz. 586, 307 P.3d 1013.\nPetition for writ of certiorari to the Court of Appeals of Arizona, Division Two, denied."
+  },
+  "file_name": "1943-06",
+  "first_page_order": 1943,
+  "last_page_order": 1943
+}

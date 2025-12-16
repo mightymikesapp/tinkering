@@ -1,0 +1,75 @@
+{
+  "id": 12578583,
+  "name": "Jose Luis ARROCHA, petitioner, v. CITY UNIVERSITY OF NEW YORK, et al.",
+  "name_abbreviation": "Arrocha v. City Univ. of N.Y.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137810.",
+  "first_page": "1303",
+  "last_page": "1303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1303"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 326"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "523 Fed.Appx. 66",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 265,
+    "sha256": "5697d8bfac568c09568fcca112ae55b10d13edcae537362071a05817890f4707",
+    "simhash": "1:3825444c5a816d0b",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Luis ARROCHA, petitioner,\nv.\nCITY UNIVERSITY OF NEW YORK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Luis ARROCHA, petitioner,\nv.\nCITY UNIVERSITY OF NEW YORK, et al.\nNo. 13-7810.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 523 Fed.Appx. 66.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1303-03",
+  "first_page_order": 1303,
+  "last_page_order": 1303
+}

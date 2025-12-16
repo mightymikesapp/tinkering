@@ -1,0 +1,103 @@
+{
+  "id": 12578000,
+  "name": "Sonja Lynn WILLIAMS, petitioner, v. PUBLISH AMERICA.",
+  "name_abbreviation": "Williams v. American",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20136723.",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1020"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 865"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3425"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 791",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12585573,
+        12585574,
+        12585575,
+        12585576,
+        12585577,
+        12585578,
+        12700043,
+        12699953,
+        12699954,
+        12699964,
+        12699965,
+        12699966
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0791-01",
+        "/s-ct/134/0791-02",
+        "/s-ct/134/0791-03",
+        "/s-ct/134/0791-04",
+        "/s-ct/134/0791-05",
+        "/s-ct/134/0791-06",
+        "/us/571/1104-07",
+        "/us/571/1098-01",
+        "/us/571/1098-02",
+        "/us/571/1098-13",
+        "/us/571/1098-14",
+        "/us/571/1098-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 175,
+    "sha256": "14efa27a17fbcb988c8643fa374200144099425ab67dac3a6be9860526a55f03",
+    "simhash": "1:19edacd41c8ff3c9",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sonja Lynn WILLIAMS, petitioner,\nv.\nPUBLISH AMERICA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sonja Lynn WILLIAMS, petitioner,\nv.\nPUBLISH AMERICA.\nNo. 13-6723.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 134 S.Ct. 791.\nPetition for rehearing denied."
+  },
+  "file_name": "1020-03",
+  "first_page_order": 1020,
+  "last_page_order": 1020
+}

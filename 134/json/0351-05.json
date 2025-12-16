@@ -1,0 +1,85 @@
+{
+  "id": 12583461,
+  "name": "Theodore McDOWELL, aka Cush, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "McDowell v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135929.",
+  "first_page": "351",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 351"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 244"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 571",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3557862
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0571-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 248,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26340821414684795
+    },
+    "sha256": "700c372a35c17841b6e801c50a590cc42c7f210663c89fe1c0306ad008c50069",
+    "simhash": "1:c32f764731e7c49b",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Theodore McDOWELL, aka Cush, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Theodore McDOWELL, aka Cush, petitioner,\nv.\nUNITED STATES.\nNo. 13-5929.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 713 F.3d 571.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0351-05",
+  "first_page_order": 351,
+  "last_page_order": 351
+}

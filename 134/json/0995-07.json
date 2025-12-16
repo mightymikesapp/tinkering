@@ -1,0 +1,107 @@
+{
+  "id": 12586629,
+  "name": "Terraine BRADSHAW, petitioner, v. W.L. MONTGOMERY, Acting Warden.",
+  "name_abbreviation": "Bradshaw v. Montgomery",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136394.",
+  "first_page": "995",
+  "last_page": "995",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 995"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 844"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 646",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699360,
+        12699272,
+        12699346,
+        12699347,
+        12699348,
+        12584885,
+        12584886,
+        12584887,
+        12584888,
+        12584889,
+        12584890,
+        12584891,
+        12699349,
+        12699350
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1028-16",
+        "/us/571/1023-01",
+        "/us/571/1028-01",
+        "/us/571/1028-02",
+        "/us/571/1028-03",
+        "/s-ct/134/0646-01",
+        "/s-ct/134/0646-02",
+        "/s-ct/134/0646-03",
+        "/s-ct/134/0646-04",
+        "/s-ct/134/0646-05",
+        "/s-ct/134/0646-06",
+        "/s-ct/134/0646-07",
+        "/us/571/1028-04",
+        "/us/571/1028-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 192,
+    "sha256": "25be3bb01a684a962765de3cf80c48d68e08946e2e38c9ff7e5732078c1c3057",
+    "simhash": "1:772f36d6f0832740",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terraine BRADSHAW, petitioner,\nv.\nW.L. MONTGOMERY, Acting Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terraine BRADSHAW, petitioner,\nv.\nW.L. MONTGOMERY, Acting Warden.\nNo. 13-6394.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 646\nPetition for rehearing denied."
+  },
+  "file_name": "0995-07",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

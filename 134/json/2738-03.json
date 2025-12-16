@@ -1,0 +1,75 @@
+{
+  "id": 12582336,
+  "name": "William RUPERT, petitioner, v. Susan BOND, et al.",
+  "name_abbreviation": "Rupert v. Bond",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20131328.",
+  "first_page": "2738",
+  "last_page": "2738",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2738"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 767"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "311 P.3d 527",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 213,
+    "sha256": "a06408b0f69fa3c0f75e800e485c44f8810d315a8681fa01e6bb33b7749d233f",
+    "simhash": "1:b4e52c5d65c554f9",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William RUPERT, petitioner,\nv.\nSusan BOND, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Oregon denied."
+    ],
+    "corrections": "",
+    "head_matter": "William RUPERT, petitioner,\nv.\nSusan BOND, et al.\nNo. 13-1328.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 311 P.3d 527.\nPetition for writ of certiorari to the Court of Appeals of Oregon denied."
+  },
+  "file_name": "2738-03",
+  "first_page_order": 2738,
+  "last_page_order": 2738
+}

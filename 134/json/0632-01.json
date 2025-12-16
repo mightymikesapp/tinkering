@@ -1,0 +1,85 @@
+{
+  "id": 12584795,
+  "name": "Darius Mark KIMBROUGH, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Kimbrough v. Florida",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20137259 (13A474).",
+  "first_page": "632",
+  "last_page": "632",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 632"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 412"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "125 So.3d 752",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7004320
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/125/0752-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 336,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634495292968818
+    },
+    "sha256": "df2be956e4654ff7c44351df4f71a2e46aadffac1eff05e80d076ce15cf5b4de",
+    "simhash": "1:604554142283cefa",
+    "word_count": 54
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darius Mark KIMBROUGH, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay of execution of sentence of death presented to Justice Thomas and referred to the Court denied. Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darius Mark KIMBROUGH, petitioner,\nv.\nFLORIDA.\nNo. 13-7259 (13A474).\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 125 So.3d 752.\nApplication for stay of execution of sentence of death presented to Justice Thomas and referred to the Court denied. Petition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "0632-01",
+  "first_page_order": 632,
+  "last_page_order": 632
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12584845,
+  "name": "Chadwick Dean GRANT, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Grant v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139738.",
+  "first_page": "63",
+  "last_page": "63",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 63"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 52"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "696 F.3d 780",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5864972
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/696/0780-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634512668499206
+    },
+    "sha256": "277cb0ac8a875edb0d08fe0c17f95e883536413368bf1a653e3af7a416b359f1",
+    "simhash": "1:60af76c85f278288",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chadwick Dean GRANT, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Chadwick Dean GRANT, petitioner,\nv.\nUNITED STATES.\nNo. 12-9738.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 696 F.3d 780.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0063-04",
+  "first_page_order": 63,
+  "last_page_order": 63
+}

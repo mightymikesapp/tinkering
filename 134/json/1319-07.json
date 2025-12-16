@@ -1,0 +1,75 @@
+{
+  "id": 12578690,
+  "name": "Gregory Michael HERNANDEZ, petitioner, v. David PARKER, Warden.",
+  "name_abbreviation": "Hernandez v. Parker",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137965.",
+  "first_page": "1319",
+  "last_page": "1320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1319"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 334"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Fed.Appx. 401",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 259,
+    "sha256": "d26466d31ead19b99da4f45f5fca0cbe29c7459065ccb9fa6988382548ce4dd6",
+    "simhash": "1:38ffd4cc19059127",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory Michael HERNANDEZ, petitioner,\nv.\nDavid PARKER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory Michael HERNANDEZ, petitioner,\nv.\nDavid PARKER, Warden.\nNo. 13-7965.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 524 Fed.Appx. 401.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1319-07",
+  "first_page_order": 1319,
+  "last_page_order": 1320
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12582726,
+  "name": "Tracy Margo COOK, petitioner, v. Joe KEFFER, Warden, et al.",
+  "name_abbreviation": "Cook v. Keffer",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u201310164.",
+  "first_page": "2856",
+  "last_page": "2856",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2856"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 818"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "558 Fed.Appx. 314",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 257,
+    "sha256": "62ad30409d5ace399a8f239113cdf834ea89f0f773c3e0630e9e876eb90831db",
+    "simhash": "1:526f94843ac4254a",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tracy Margo COOK, petitioner,\nv.\nJoe KEFFER, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tracy Margo COOK, petitioner,\nv.\nJoe KEFFER, Warden, et al.\nNo. 13-10164.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 558 Fed.Appx. 314.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2856-03",
+  "first_page_order": 2856,
+  "last_page_order": 2856
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12585257,
+  "name": "William Peter NEW, petitioner, v. Domingo URIBE, Jr., Warden, et al.",
+  "name_abbreviation": "New v. Uribe",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136794.",
+  "first_page": "701",
+  "last_page": "701",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 701"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 565"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "532 Fed.Appx. 743",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 263,
+    "sha256": "415548acf89ae8eee79b660ab1b2c6a7f5a3d70342f7c0b37e73e551979befeb",
+    "simhash": "1:432e240539475382",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Peter NEW, petitioner,\nv.\nDomingo URIBE, Jr., Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William Peter NEW, petitioner,\nv.\nDomingo URIBE, Jr., Warden, et al.\nNo. 13-6794.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 532 Fed.Appx. 743.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0701-04",
+  "first_page_order": 701,
+  "last_page_order": 701
+}

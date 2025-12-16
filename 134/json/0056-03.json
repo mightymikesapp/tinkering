@@ -1,0 +1,85 @@
+{
+  "id": 12584662,
+  "name": "James C. MAGEE, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Magee v. Louisiana",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139070.",
+  "first_page": "56",
+  "last_page": "56",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 56"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 49"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "103 So.3d 285",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7005951
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/103/0285-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 206,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26344142071603405
+    },
+    "sha256": "b67b93d38f9a1f8dcd416266bd0225b9e59c4b8390612b201360a38df0ce31a4",
+    "simhash": "1:60aba60c5fe624bf",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James C. MAGEE, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Louisiana denied."
+    ],
+    "corrections": "",
+    "head_matter": "James C. MAGEE, petitioner,\nv.\nLOUISIANA.\nNo. 12-9070.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 103 So.3d 285.\nPetition for writ of certiorari to the Supreme Court of Louisiana denied."
+  },
+  "file_name": "0056-03",
+  "first_page_order": 56,
+  "last_page_order": 56
+}

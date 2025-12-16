@@ -1,0 +1,75 @@
+{
+  "id": 12583858,
+  "name": "Justin Emar MOORE, petitioner, v. TEXAS.",
+  "name_abbreviation": "Moore v. Texas",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135650.",
+  "first_page": "429",
+  "last_page": "429",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 429"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 289"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 86592",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 223,
+    "sha256": "9cb361bf51cd68db869b0f16f733bb69086e2916287df852c3b0befa2d9e9a48",
+    "simhash": "1:698ec68ab9c580f5",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Justin Emar MOORE, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Fourth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Justin Emar MOORE, petitioner,\nv.\nTEXAS.\nNo. 13-5650.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 2013 WL 86592.\nPetition for writ of certiorari to the Court of Appeals of Texas, Fourth District, denied."
+  },
+  "file_name": "0429-03",
+  "first_page_order": 429,
+  "last_page_order": 429
+}

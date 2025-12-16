@@ -1,0 +1,103 @@
+{
+  "id": 12580211,
+  "name": "Craig ALFORD, petitioner, v. PENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al.",
+  "name_abbreviation": "Alford v. Pa. Bd. of Prob. & Parole",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20137634.",
+  "first_page": "1809",
+  "last_page": "1809",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1809"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 772"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3586"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1289",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701440,
+        12701441,
+        12701450,
+        12701457,
+        12701458,
+        12701459,
+        12578486,
+        12578487,
+        12578488,
+        12578489,
+        12578490,
+        12578491
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1207-03",
+        "/us/571/1207-04",
+        "/us/571/1208-07",
+        "/us/571/1208-08",
+        "/us/571/1208-09",
+        "/us/571/1208-10",
+        "/s-ct/134/1289-01",
+        "/s-ct/134/1289-02",
+        "/s-ct/134/1289-03",
+        "/s-ct/134/1289-04",
+        "/s-ct/134/1289-05",
+        "/s-ct/134/1289-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 208,
+    "sha256": "30dd37eb713c5d8bc2667a50229827693fc083b0af291d82dfd5404f9fee4bfb",
+    "simhash": "1:41ba365c1ed1757f",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Craig ALFORD, petitioner,\nv.\nPENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Craig ALFORD, petitioner,\nv.\nPENNSYLVANIA BOARD OF PROBATION AND PAROLE, et al.\nNo. 13-7634.\nSupreme Court of the United States\nApril 7, 2014.\nFormer decision, 134 S.Ct. 1289.\nPetition for rehearing denied."
+  },
+  "file_name": "1809-04",
+  "first_page_order": 1809,
+  "last_page_order": 1809
+}

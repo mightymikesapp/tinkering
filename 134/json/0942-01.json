@@ -1,0 +1,93 @@
+{
+  "id": 12586272,
+  "name": "Merlin Norman BELL, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Bell v. Washington",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137347.",
+  "first_page": "942",
+  "last_page": "942",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 942"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 809"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 6098277",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "172 Wash.App. 1018",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4141400,
+        4142745,
+        4144466,
+        4140906
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-app/172/1018-01",
+        "/wash-app/172/1018-04",
+        "/wash-app/172/1018-02",
+        "/wash-app/172/1018-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 251,
+    "sha256": "837ca2a72b3ccb68befba397dcc2c8b8a97602692b1b194c732cba5b67500066",
+    "simhash": "1:ecbb620643c0c59f",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Merlin Norman BELL, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Merlin Norman BELL, petitioner,\nv.\nWASHINGTON.\nNo. 13-7347.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 172 Wash.App. 1018, 2012 WL 6098277.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+  },
+  "file_name": "0942-01",
+  "first_page_order": 942,
+  "last_page_order": 942
+}

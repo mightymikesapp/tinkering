@@ -1,0 +1,75 @@
+{
+  "id": 12585295,
+  "name": "Ralph E. HAUCK, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hauck v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20137053.",
+  "first_page": "707",
+  "last_page": "707",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 707"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 569"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "532 Fed.Appx. 247",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 245,
+    "sha256": "dc36d01dead9b854efff4a812361ec3193392924c4c79f5296fc90707e2e8609",
+    "simhash": "1:192ef4626b495ba4",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ralph E. HAUCK, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ralph E. HAUCK, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 13-7053.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 532 Fed.Appx. 247.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0707-06",
+  "first_page_order": 707,
+  "last_page_order": 707
+}

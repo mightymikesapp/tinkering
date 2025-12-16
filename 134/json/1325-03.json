@@ -1,0 +1,75 @@
+{
+  "id": 12578729,
+  "name": "Bradley J. STINN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Stinn v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013792.",
+  "first_page": "1325",
+  "last_page": "1325",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1325"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 308"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 4",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "sha256": "e565aaefc095fab703261a738f611bab3a7d7f2880f05b8f793c4fc16b5c5154",
+    "simhash": "1:bd6cc4c23f04531d",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradley J. STINN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bradley J. STINN, petitioner,\nv.\nUNITED STATES.\nNo. 13-792.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 515 Fed.Appx. 4.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1325-03",
+  "first_page_order": 1325,
+  "last_page_order": 1325
+}

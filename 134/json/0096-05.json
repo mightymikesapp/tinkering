@@ -1,0 +1,75 @@
+{
+  "id": 12586455,
+  "name": "James D. LEWIS, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Lewis v. Illinois",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310268.",
+  "first_page": "96",
+  "last_page": "96",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 96"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 71"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 6951453",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 226,
+    "sha256": "3baf9ba83096c9efa5aec74ad8b0e182073a11672857e3b5f4bd62ce7babcb24",
+    "simhash": "1:c1ad5e16ea7e8510",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James D. LEWIS, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "James D. LEWIS, petitioner,\nv.\nILLINOIS.\nNo. 12-10268.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2012 WL 6951453.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+  },
+  "file_name": "0096-05",
+  "first_page_order": 96,
+  "last_page_order": 96
+}

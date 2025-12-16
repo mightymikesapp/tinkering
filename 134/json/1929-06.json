@@ -1,0 +1,103 @@
+{
+  "id": 12580651,
+  "name": "Wesley Ray ROGERS, petitioner, v. William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.",
+  "name_abbreviation": "Rogers v. Stephens",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137096.",
+  "first_page": "1929",
+  "last_page": "1929",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1929"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 951"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 922",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12586144,
+        12586145,
+        12700480,
+        12700481,
+        12700482,
+        12700483,
+        12700770,
+        12700255,
+        12586140,
+        12586141,
+        12586142,
+        12586143
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0922-05",
+        "/s-ct/134/0922-06",
+        "/us/571/1137-01",
+        "/us/571/1137-02",
+        "/us/571/1137-03",
+        "/us/571/1137-04",
+        "/us/571/1157-03",
+        "/us/571/1120-01",
+        "/s-ct/134/0922-01",
+        "/s-ct/134/0922-02",
+        "/s-ct/134/0922-03",
+        "/s-ct/134/0922-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 264,
+    "sha256": "b706bdb6c03a77b31d21231877764d90b955816c028a138fd5bb156e21197973",
+    "simhash": "1:7315304614ab5c6f",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wesley Ray ROGERS, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Wesley Ray ROGERS, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.\nNo. 13-7096.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 922.\nPetition for rehearing denied."
+  },
+  "file_name": "1929-06",
+  "first_page_order": 1929,
+  "last_page_order": 1929
+}

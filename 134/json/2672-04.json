@@ -1,0 +1,75 @@
+{
+  "id": 12581891,
+  "name": "Tommy Lee WALDRIP, petitioner, v. Carl HUMPHREY, Warden.",
+  "name_abbreviation": "Waldrip v. Humphrey",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20139324.",
+  "first_page": "2672",
+  "last_page": "2672",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2672"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 218"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3685"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "532 Fed.Appx. 878",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 254,
+    "sha256": "88f9828c43a89439c584cf18be5fa3e71ac398edfe26f87d75751b42540393cc",
+    "simhash": "1:7cef56c43d2810f7",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tommy Lee WALDRIP, petitioner,\nv.\nCarl HUMPHREY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tommy Lee WALDRIP, petitioner,\nv.\nCarl HUMPHREY, Warden.\nNo. 13-9324.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 532 Fed.Appx. 878.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2672-04",
+  "first_page_order": 2672,
+  "last_page_order": 2672
+}

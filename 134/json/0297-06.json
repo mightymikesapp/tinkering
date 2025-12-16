@@ -1,0 +1,75 @@
+{
+  "id": 12583088,
+  "name": "Bryan Scott EMMONS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Emmons v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135486.",
+  "first_page": "297",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 297"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 213"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Fed.Appx. 995",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "sha256": "a7a0457e6e02e12f7ed2d6a7f784b4ed61c4056c351eb347e08555cff752ec5b",
+    "simhash": "1:10ed464513258a21",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bryan Scott EMMONS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bryan Scott EMMONS, petitioner,\nv.\nUNITED STATES.\nNo. 13-5486.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 524 Fed.Appx. 995.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0297-06",
+  "first_page_order": 297,
+  "last_page_order": 297
+}

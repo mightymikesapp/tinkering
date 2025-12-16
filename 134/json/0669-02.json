@@ -1,0 +1,75 @@
+{
+  "id": 12585039,
+  "name": "Steven WEATHERSBY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Weathersby v. United States",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20137026.",
+  "first_page": "669",
+  "last_page": "669",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 669"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 442"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Fed.Appx. 987",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 244,
+    "sha256": "e692d22b108739b552e8470f5e54912bd1677613b6931f124873797f2802dfee",
+    "simhash": "1:85ed64cc230596bd",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven WEATHERSBY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven WEATHERSBY, petitioner,\nv.\nUNITED STATES.\nNo. 13-7026.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 524 Fed.Appx. 987.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0669-02",
+  "first_page_order": 669,
+  "last_page_order": 669
+}

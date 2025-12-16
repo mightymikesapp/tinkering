@@ -1,0 +1,85 @@
+{
+  "id": 12579333,
+  "name": "Dana WILLIAMSON, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Williamson v. Florida",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138139.",
+  "first_page": "1519",
+  "last_page": "1519",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1519"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 454"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "123 So.3d 1060",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7005345
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/123/1060-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 206,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632643833675245
+    },
+    "sha256": "3c50abaafae9bc85f4c24a674ff18ece91956d26a10db479f8ce1ef4dc3197ae",
+    "simhash": "1:e2ae14147c7de317",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dana WILLIAMSON, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dana WILLIAMSON, petitioner,\nv.\nFLORIDA.\nNo. 13-8139.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 123 So.3d 1060.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "1519-02",
+  "first_page_order": 1519,
+  "last_page_order": 1519
+}

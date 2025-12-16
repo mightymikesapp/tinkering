@@ -1,0 +1,85 @@
+{
+  "id": 12578088,
+  "name": "DeWayne COLLIER, aka Patrick Collier, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Collier v. Tennessee",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137576.",
+  "first_page": "1034",
+  "last_page": "1034",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1034"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 128"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "411 S.W.3d 886",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7090616
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/411/0886-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 249,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26322229597169566
+    },
+    "sha256": "cae34824e89fdd566c5d262e606b55173af3a868d8c53923da8a59cbbc1a8fc1",
+    "simhash": "1:7aaff404f26165b7",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DeWayne COLLIER, aka Patrick Collier, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Tennessee, Western Division, denied."
+    ],
+    "corrections": "",
+    "head_matter": "DeWayne COLLIER, aka Patrick Collier, petitioner,\nv.\nTENNESSEE.\nNo. 13-7576.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 411 S.W.3d 886.\nPetition for writ of certiorari to the Supreme Court of Tennessee, Western Division, denied."
+  },
+  "file_name": "1034-02",
+  "first_page_order": 1034,
+  "last_page_order": 1034
+}

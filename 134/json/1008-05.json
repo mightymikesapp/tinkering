@@ -1,0 +1,75 @@
+{
+  "id": 12577915,
+  "name": "Joseph Francois JEAN, petitioner, v. TEXAS.",
+  "name_abbreviation": "Jean v. Texas",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20137422.",
+  "first_page": "1008",
+  "last_page": "1008",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1008"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 856"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 3282956",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 219,
+    "sha256": "d15be9e6ff4105426bfadc12fa5c4a2cf9ec727606a9d9a5a2bad3c8127bf7a4",
+    "simhash": "1:e96ffcd6f2cd9595",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph Francois JEAN, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph Francois JEAN, petitioner,\nv.\nTEXAS.\nNo. 13-7422.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 2013 WL 3282956.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "1008-05",
+  "first_page_order": 1008,
+  "last_page_order": 1008
+}

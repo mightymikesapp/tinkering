@@ -1,0 +1,86 @@
+{
+  "id": 12581313,
+  "name": "Demarcus Ali SEARS, petitioner, v. Bruce CHATMAN, Warden.",
+  "name_abbreviation": "Sears v. Chatman",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20138725.",
+  "first_page": "2292",
+  "last_page": "2292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2292"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 179"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "294 Ga. 117",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        4240959
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/294/0117-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 234,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26333446467342303
+    },
+    "sha256": "b122f734f12c7eb383db3dc70b56903548b7e9a2a1b3fbe1ba5099a7d81e2b28",
+    "simhash": "1:4a2e541ce8b5649a",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Demarcus Ali SEARS, petitioner,\nv.\nBruce CHATMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Demarcus Ali SEARS, petitioner,\nv.\nBruce CHATMAN, Warden.\nNo. 13-8725.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 294 Ga. 117, 751 S.E.2d 365.\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "2292-05",
+  "first_page_order": 2292,
+  "last_page_order": 2292
+}

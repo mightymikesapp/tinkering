@@ -1,0 +1,103 @@
+{
+  "id": 12585717,
+  "name": "Kenn GOLDBLATT, petitioner, v. James DOERTY, Individually and in His Official Capacity as Judge of the Superior Court of Washington, King County.",
+  "name_abbreviation": "Goldblatt v. Doerty",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 12\u20131440.",
+  "first_page": "813",
+  "last_page": "813",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 813"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 614"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 163",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704033,
+        12702342,
+        12702343,
+        12702344,
+        12702345,
+        12702335,
+        12579802,
+        12579803,
+        12579804,
+        12579805,
+        12579806,
+        12579807
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0940-09",
+        "/us/571/0826-09",
+        "/us/571/0826-10",
+        "/us/571/0826-11",
+        "/us/571/0826-12",
+        "/us/571/0826-01",
+        "/s-ct/134/0163-01",
+        "/s-ct/134/0163-02",
+        "/s-ct/134/0163-03",
+        "/s-ct/134/0163-04",
+        "/s-ct/134/0163-05",
+        "/s-ct/134/0163-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 271,
+    "sha256": "46de2eb0a92b3272813360d030fd57a7c3e205b69006691e9082edf1cce563c8",
+    "simhash": "1:42391454349d520e",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenn GOLDBLATT, petitioner,\nv.\nJames DOERTY, Individually and in His Official Capacity as Judge of the Superior Court of Washington, King County."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenn GOLDBLATT, petitioner,\nv.\nJames DOERTY, Individually and in His Official Capacity as Judge of the Superior Court of Washington, King County.\nNo. 12-1440.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 163\nPetition for rehearing denied."
+  },
+  "file_name": "0813-03",
+  "first_page_order": 813,
+  "last_page_order": 813
+}

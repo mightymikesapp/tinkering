@@ -1,0 +1,75 @@
+{
+  "id": 12584093,
+  "name": "Armando SAUSEDA, Sr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Sauseda v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136300.",
+  "first_page": "464",
+  "last_page": "464",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 464"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 311"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "526 Fed.Appx. 349",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 247,
+    "sha256": "cff2b1ed4ea700f67060bc2baa9120f859aa4267787fb9911beedcbdb7b7b8c9",
+    "simhash": "1:c3ac74443e854659",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Armando SAUSEDA, Sr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Armando SAUSEDA, Sr., petitioner,\nv.\nUNITED STATES.\nNo. 13-6300.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 526 Fed.Appx. 349.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0464-04",
+  "first_page_order": 464,
+  "last_page_order": 464
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12578807,
+  "name": "Andrew Maxwell PARKER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Parker v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138122.",
+  "first_page": "1337",
+  "last_page": "1337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1337"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 344"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 244",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "sha256": "dcdd26fa5d3efd6defe89bd7c68a22a0f8cbd081c64b00d95cec475d3cc795aa",
+    "simhash": "1:b3ad74c53224c6b5",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew Maxwell PARKER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew Maxwell PARKER, petitioner,\nv.\nUNITED STATES.\nNo. 13-8122.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 520 Fed.Appx. 244.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1337-01",
+  "first_page_order": 1337,
+  "last_page_order": 1337
+}

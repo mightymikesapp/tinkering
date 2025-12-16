@@ -1,0 +1,75 @@
+{
+  "id": 12578294,
+  "name": "Eun S. KIM, petitioner, v. Joshua B. SUSSAL, et al.",
+  "name_abbreviation": "Kim v. Sussal",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310428.",
+  "first_page": "112",
+  "last_page": "112",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 112"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 82"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "207 Md.App. 778",
+      "category": "reporters:state",
+      "reporter": "Md. App.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 229,
+    "sha256": "a96e25e7d1017febfbdb6ad955e60b28c46a445d9191edf0a0e047e3efc53c1c",
+    "simhash": "1:db6be61871c59cb7",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eun S. KIM, petitioner,\nv.\nJoshua B. SUSSAL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Special Appeals of Maryland denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eun S. KIM, petitioner,\nv.\nJoshua B. SUSSAL, et al.\nNo. 12-10428.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 207 Md.App. 778.\nPetition for writ of certiorari to the Court of Special Appeals of Maryland denied."
+  },
+  "file_name": "0112-05",
+  "first_page_order": 112,
+  "last_page_order": 112
+}

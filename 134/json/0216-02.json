@@ -1,0 +1,75 @@
+{
+  "id": 12581198,
+  "name": "Jonathan HERNANDEZ, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Hernandez v. Illinois",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135021.",
+  "first_page": "216",
+  "last_page": "216",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 216"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 163"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 6951929",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 230,
+    "sha256": "382fe34bd76c3ebd8ee6f0be46b140359446e84cfd2cc9db8ac8bb30e0f244a5",
+    "simhash": "1:f0ad4614388d8191",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jonathan HERNANDEZ, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jonathan HERNANDEZ, petitioner,\nv.\nILLINOIS.\nNo. 13-5021.\nSupreme Court of the United States\nOct. 07, 2013.\nCase below, 2012 WL 6951929.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+  },
+  "file_name": "0216-02",
+  "first_page_order": 216,
+  "last_page_order": 216
+}

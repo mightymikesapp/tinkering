@@ -1,0 +1,91 @@
+{
+  "id": 12580798,
+  "name": "Peter J. SEBBEN, petitioner, v. CONNECTICUT.",
+  "name_abbreviation": "Sebben v. Connecticut",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20131106.",
+  "first_page": "1950",
+  "last_page": "1950",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1950"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 962"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "77 A.3d 811",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "145 Conn.App. 528",
+      "category": "reporters:state",
+      "reporter": "Conn. App.",
+      "case_ids": [
+        12415584
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/conn-app/145/0528-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 232,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633147724056499
+    },
+    "sha256": "b24589c5323fff9ca9d5aba10d0b3f81a909462e9a5e5761a9a0233d26eb1170",
+    "simhash": "1:f08be216ba20c1d0",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peter J. SEBBEN, petitioner,\nv.\nCONNECTICUT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Connecticut denied."
+    ],
+    "corrections": "",
+    "head_matter": "Peter J. SEBBEN, petitioner,\nv.\nCONNECTICUT.\nNo. 13-1106.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 145 Conn.App. 528, 77 A.3d 811.\nPetition for writ of certiorari to the Appellate Court of Connecticut denied."
+  },
+  "file_name": "1950-04",
+  "first_page_order": 1950,
+  "last_page_order": 1950
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12582826,
+  "name": "BANCORP SERVICES, LLC, petitioner, v. SUN LIFE ASSURANCE COMPANY OF CANADA (U.S.), et al.",
+  "name_abbreviation": "Bancorp Servs., LLC v. Sun Life Assurance Co. of Can.",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u2013584.",
+  "first_page": "2870",
+  "last_page": "2870",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2870"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 832"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "687 F.3d 1266",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5865822
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/687/1266-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 282,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633858190187922
+    },
+    "sha256": "b555d599e43b03b474d3189fee19e86d59251f24e9d64909ff770862a4965155",
+    "simhash": "1:3337a406b4c403c3",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BANCORP SERVICES, LLC, petitioner,\nv.\nSUN LIFE ASSURANCE COMPANY OF CANADA (U.S.), et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "BANCORP SERVICES, LLC, petitioner,\nv.\nSUN LIFE ASSURANCE COMPANY OF CANADA (U.S.), et al.\nNo. 13-584.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 687 F.3d 1266.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "2870-04",
+  "first_page_order": 2870,
+  "last_page_order": 2870
+}

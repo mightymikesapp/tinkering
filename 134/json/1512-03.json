@@ -1,0 +1,103 @@
+{
+  "id": 12579294,
+  "name": "SUNG KUN KIM, petitioner, v. Chuck HAGEL, Secretary of Defense.",
+  "name_abbreviation": "Kim v. Hagel",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20137628.",
+  "first_page": "1512",
+  "last_page": "1512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1512"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 390"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 970",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700730,
+        12700731,
+        12700299,
+        12700732,
+        12700789,
+        12586457,
+        12586458,
+        12586459,
+        12586460,
+        12586461,
+        12586462,
+        12700729
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1153-09",
+        "/us/571/1153-10",
+        "/us/571/1124-05",
+        "/us/571/1153-11",
+        "/us/571/1158-14",
+        "/s-ct/134/0970-01",
+        "/s-ct/134/0970-02",
+        "/s-ct/134/0970-03",
+        "/s-ct/134/0970-04",
+        "/s-ct/134/0970-05",
+        "/s-ct/134/0970-06",
+        "/us/571/1153-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 191,
+    "sha256": "f2a98fa36758902ccf565c6836d9995c2379ed3531f1d1f608f554aaa874819b",
+    "simhash": "1:5a2c54043f83f51a",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SUNG KUN KIM, petitioner,\nv.\nChuck HAGEL, Secretary of Defense."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "SUNG KUN KIM, petitioner,\nv.\nChuck HAGEL, Secretary of Defense.\nNo. 13-7628.\nSupreme Court of the United States\nMarch 3, 2014.\nFormer decision, 134 S.Ct. 970.\nPetition for rehearing denied."
+  },
+  "file_name": "1512-03",
+  "first_page_order": 1512,
+  "last_page_order": 1512
+}

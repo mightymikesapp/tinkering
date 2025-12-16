@@ -1,0 +1,75 @@
+{
+  "id": 12586158,
+  "name": "Willie J. JACKSON, petitioner, v. Donald SAMPSON, et al.",
+  "name_abbreviation": "Jackson v. Sampson",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137119.",
+  "first_page": "925",
+  "last_page": "925",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 925"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 799"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "536 Fed.Appx. 356",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 253,
+    "sha256": "9a67f7a18f78b343deac5fcb7d9aeb4d027ca46105c6f6b684492ecea9e9f8ae",
+    "simhash": "1:62269644a8811219",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Willie J. JACKSON, petitioner,\nv.\nDonald SAMPSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Willie J. JACKSON, petitioner,\nv.\nDonald SAMPSON, et al.\nNo. 13-7119.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 536 Fed.Appx. 356.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0925-01",
+  "first_page_order": 925,
+  "last_page_order": 925
+}

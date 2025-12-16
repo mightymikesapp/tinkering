@@ -1,0 +1,107 @@
+{
+  "id": 12586648,
+  "name": "In re Jefferey STRONG, petitioner.",
+  "name_abbreviation": "In re Strong",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137098.",
+  "first_page": "998",
+  "last_page": "998",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 998"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 846"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 669",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699276,
+        12699277,
+        12585038,
+        12585039,
+        12585040,
+        12585041,
+        12585042,
+        12585043,
+        12585044,
+        12699278,
+        12699469,
+        12699470,
+        12699471,
+        12699472
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1023-05",
+        "/us/571/1023-06",
+        "/s-ct/134/0669-01",
+        "/s-ct/134/0669-02",
+        "/s-ct/134/0669-03",
+        "/s-ct/134/0669-04",
+        "/s-ct/134/0669-05",
+        "/s-ct/134/0669-06",
+        "/s-ct/134/0669-07",
+        "/us/571/1023-07",
+        "/us/571/1036-04",
+        "/us/571/1036-05",
+        "/us/571/1036-06",
+        "/us/571/1036-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 162,
+    "sha256": "847e9e4e1db55713a7f0a9faaa4a017c6396425aeb77688dfe76033261f85331",
+    "simhash": "1:e0b774ca2397e762",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jefferey STRONG, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Jefferey STRONG, petitioner.\nNo. 13-7098.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 669.\nPetition for rehearing denied."
+  },
+  "file_name": "0998-02",
+  "first_page_order": 998,
+  "last_page_order": 998
+}

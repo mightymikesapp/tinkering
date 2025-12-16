@@ -1,0 +1,98 @@
+{
+  "id": 12586277,
+  "name": "Anthony ZEI, petitioner, v. MARYLAND TRANSIT ADMINISTRATION.",
+  "name_abbreviation": "Zei v. Md. Transit Admin.",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013601.",
+  "first_page": "942",
+  "last_page": "942",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 942"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 785"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "71 A.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        3720682,
+        3685661
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/433/0254-01"
+      ]
+    },
+    {
+      "cite": "433 Md. 254",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        3720682
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/433/0254-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635010767036997
+    },
+    "sha256": "292e28fc49589aee2c87c2a78152c325e3f60269181f0779b273ceba002a6f8d",
+    "simhash": "1:7dff4646309915b7",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony ZEI, petitioner,\nv.\nMARYLAND TRANSIT ADMINISTRATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Maryland denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony ZEI, petitioner,\nv.\nMARYLAND TRANSIT ADMINISTRATION.\nNo. 13-601.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 433 Md. 254, 71 A.3d 1.\nPetition for writ of certiorari to the Court of Appeals of Maryland denied."
+  },
+  "file_name": "0942-06",
+  "first_page_order": 942,
+  "last_page_order": 942
+}

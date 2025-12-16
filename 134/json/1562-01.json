@@ -1,0 +1,75 @@
+{
+  "id": 12579619,
+  "name": "Kerby AURELHOMME, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Aurelhomme v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138662.",
+  "first_page": "1562",
+  "last_page": "1562",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1562"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 573"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "535 Fed.Appx. 819",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 247,
+    "sha256": "495add9ae3e09272f18a867d31decbc712c15432a42549c7d46f45876392e87c",
+    "simhash": "1:7cac76c43b25869d",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kerby AURELHOMME, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kerby AURELHOMME, petitioner,\nv.\nUNITED STATES.\nNo. 13-8662.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 535 Fed.Appx. 819.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1562-01",
+  "first_page_order": 1562,
+  "last_page_order": 1562
+}

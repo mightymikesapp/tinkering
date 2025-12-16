@@ -1,0 +1,85 @@
+{
+  "id": 12578746,
+  "name": "Renee Gill PRATT, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Pratt v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138053.",
+  "first_page": "1328",
+  "last_page": "1328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1328"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 338"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "728 F.3d 463",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3696510
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/728/0463-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632462355913414
+    },
+    "sha256": "1b960056dc08fa688e2111dba8fcbcd5069354afd70239146b12385e47df230d",
+    "simhash": "1:b0ac54c427854c17",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Renee Gill PRATT, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Renee Gill PRATT, petitioner,\nv.\nUNITED STATES.\nNo. 13-8053.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 728 F.3d 463.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1328-01",
+  "first_page_order": 1328,
+  "last_page_order": 1328
+}

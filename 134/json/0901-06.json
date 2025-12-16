@@ -1,0 +1,85 @@
+{
+  "id": 12586011,
+  "name": "Larry C. MAYO, et al., petitioners, v. BOARD OF EDUCATION OF PRINCE GEORGE'S COUNTY, et al.",
+  "name_abbreviation": "Mayo v. Bd. of Educ. of Prince George's Cnty.",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013309.",
+  "first_page": "901",
+  "last_page": "902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 901"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 777"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 735",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3559555
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0735-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 282,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634918097541594
+    },
+    "sha256": "3c027d237d2b3eba6b223d6281e26210cdc6869ed01d8db2a82a1073b3ab983a",
+    "simhash": "1:ab17c0c413c0d508",
+    "word_count": 49
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry C. MAYO, et al., petitioners,\nv.\nBOARD OF EDUCATION OF PRINCE GEORGE'S COUNTY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Larry C. MAYO, et al., petitioners,\nv.\nBOARD OF EDUCATION OF PRINCE GEORGE'S COUNTY, et al.\nNo. 13-309.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 713 F.3d 735.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0901-06",
+  "first_page_order": 901,
+  "last_page_order": 902
+}

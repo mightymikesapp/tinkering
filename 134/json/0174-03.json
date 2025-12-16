@@ -1,0 +1,75 @@
+{
+  "id": 12579877,
+  "name": "Donald G. JONES, petitioner, v. DEPARTMENT OF THE TREASURY, et al.",
+  "name_abbreviation": "Jones v. Dep't of the Treasury",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131456.",
+  "first_page": "174",
+  "last_page": "174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 174"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 255"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 4774653",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 351,
+    "sha256": "f870b683ec1ebb3acac5fb84679066eda32d72fe220719589e8a8f96ebf48d0a",
+    "simhash": "1:b93f124cbbe68622",
+    "word_count": 59
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald G. JONES, petitioner,\nv.\nDEPARTMENT OF THE TREASURY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Donald G. JONES, petitioner,\nv.\nDEPARTMENT OF THE TREASURY, et al.\nNo. 12-1456.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2012 WL 4774653.\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "0174-03",
+  "first_page_order": 174,
+  "last_page_order": 174
+}

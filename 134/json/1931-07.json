@@ -1,0 +1,107 @@
+{
+  "id": 12580674,
+  "name": "Charles J. SECHLER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Sechler v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138092.",
+  "first_page": "1931",
+  "last_page": "1931",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1931"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 953"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1332",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701638,
+        12701639,
+        12701640,
+        12701641,
+        12701648,
+        12701649,
+        12701650,
+        12578776,
+        12578777,
+        12578778,
+        12578779,
+        12578780,
+        12578781,
+        12578782
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1221-01",
+        "/us/571/1221-02",
+        "/us/571/1221-03",
+        "/us/571/1221-04",
+        "/us/571/1221-12",
+        "/us/571/1221-13",
+        "/us/571/1221-14",
+        "/s-ct/134/1332-01",
+        "/s-ct/134/1332-02",
+        "/s-ct/134/1332-03",
+        "/s-ct/134/1332-04",
+        "/s-ct/134/1332-05",
+        "/s-ct/134/1332-06",
+        "/s-ct/134/1332-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 179,
+    "sha256": "8d63859aff12fafd9c962e8ce52b1ca38a3a9caca0b4b7885270436d528b2d80",
+    "simhash": "1:233e364415a35c9b",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles J. SECHLER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles J. SECHLER, petitioner,\nv.\nUNITED STATES.\nNo. 13-8092.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1332.\nPetition for rehearing denied."
+  },
+  "file_name": "1931-07",
+  "first_page_order": 1931,
+  "last_page_order": 1931
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12579983,
+  "name": "Ricky Vincent PENDLETON, petitioner, v. David BALLARD, Warden.",
+  "name_abbreviation": "Pendleton v. Ballard",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138852.",
+  "first_page": "1774",
+  "last_page": "1774",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1774"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 604"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5508222",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 246,
+    "sha256": "5bced4f979b454cbc371a77c1733f141904db3c938388d343c8c29c2ed5899f1",
+    "simhash": "1:c86d145c9c84a4d0",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ricky Vincent PENDLETON, petitioner,\nv.\nDavid BALLARD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ricky Vincent PENDLETON, petitioner,\nv.\nDavid BALLARD, Warden.\nNo. 13-8852.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 2013 WL 5508222.\nPetition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+  },
+  "file_name": "1774-03",
+  "first_page_order": 1774,
+  "last_page_order": 1774
+}

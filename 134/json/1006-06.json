@@ -1,0 +1,75 @@
+{
+  "id": 12577904,
+  "name": "Michael Izell SEALS, petitioner, v. Rodney K. MITCHELL, et al.",
+  "name_abbreviation": "Seals v. Mitchell",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20137380.",
+  "first_page": "1006",
+  "last_page": "1006",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1006"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 855"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 Fed.Appx. 566",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 258,
+    "sha256": "a8e07c959d56ae1858b328365f2c36ecacb4b9b66db8c6b07e7a1b37d20a96d8",
+    "simhash": "1:f72f64457b45c342",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Izell SEALS, petitioner,\nv.\nRodney K. MITCHELL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Izell SEALS, petitioner,\nv.\nRodney K. MITCHELL, et al.\nNo. 13-7380.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 506 Fed.Appx. 566.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1006-06",
+  "first_page_order": 1006,
+  "last_page_order": 1006
+}

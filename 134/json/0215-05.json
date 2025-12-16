@@ -1,0 +1,87 @@
+{
+  "id": 12581159,
+  "name": "Nathan B. FELLER, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Feller v. Illinois",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135018.",
+  "first_page": "215",
+  "last_page": "215",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 215"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 162"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "978 N.E.2d 1103",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "365 Ill.Dec. 600",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2012 IL App (3d) 110164",
+      "category": "reporters:neutral",
+      "reporter": "IL App (3d)",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 271,
+    "sha256": "e6c45b621e655bf1dd087235354fae0ea8c0ca2134afe01f70ef204dd970583d",
+    "simhash": "1:91aba654b08d0180",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nathan B. FELLER, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Third District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nathan B. FELLER, petitioner,\nv.\nILLINOIS.\nNo. 13-5018.\nSupreme Court of the United States\nOct. 07, 2013.\nCase below, 2012 IL App (3d) 110164, 365 Ill.Dec. 600, 978 N.E.2d 1103.\nPetition for writ of certiorari to the Appellate Court of Illinois, Third District, denied."
+  },
+  "file_name": "0215-05",
+  "first_page_order": 215,
+  "last_page_order": 215
+}

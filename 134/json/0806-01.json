@@ -1,0 +1,81 @@
+{
+  "id": 12585669,
+  "name": "Tyren ALI, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ali v. United States",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20137261.",
+  "first_page": "806",
+  "last_page": "806",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 806"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 610"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5422961",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "537 Fed.Appx. 117",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 252,
+    "sha256": "f8b19f5bb8d60d81005b648ecd00a9a8d54b250eefcf09184d3537c3c6374a97",
+    "simhash": "1:116ee2c63b67468d",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tyren ALI, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tyren ALI, petitioner,\nv.\nUNITED STATES.\nNo. 13-7261.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 537 Fed.Appx. 117, 2013 WL 5422961.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0806-01",
+  "first_page_order": 806,
+  "last_page_order": 806
+}

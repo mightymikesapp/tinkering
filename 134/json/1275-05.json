@@ -1,0 +1,85 @@
+{
+  "id": 12578408,
+  "name": "Juan Martin RUELAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ruelas v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136149.",
+  "first_page": "1275",
+  "last_page": "1275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1275"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 311"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "711 F.3d 1194",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3802913
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/711/1194-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26323465190441603
+    },
+    "sha256": "821b3bc18288f1f5471c9d82ca321528a9ecf71673532ce3d550537996cb7290",
+    "simhash": "1:392d644603045399",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan Martin RUELAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan Martin RUELAS, petitioner,\nv.\nUNITED STATES.\nNo. 13-6149.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 711 F.3d 1194.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1275-05",
+  "first_page_order": 1275,
+  "last_page_order": 1275
+}

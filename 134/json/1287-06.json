@@ -1,0 +1,75 @@
+{
+  "id": 12578479,
+  "name": "Jason Tye MYERS, petitioner, v. Stason L. WIETE, et al.",
+  "name_abbreviation": "Myers v. Wiete",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137593.",
+  "first_page": "1287",
+  "last_page": "1288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1287"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 316"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "983 N.E.2d 1201",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 242,
+    "sha256": "c3d751b40d8ebb971b3306285785b135b34ec5e4667a1396f96bbf43dd1cbfac",
+    "simhash": "1:38ff14ddbe20e097",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason Tye MYERS, petitioner,\nv.\nStason L. WIETE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Indiana, Second District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason Tye MYERS, petitioner,\nv.\nStason L. WIETE, et al.\nNo. 13-7593.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 983 N.E.2d 1201.\nPetition for writ of certiorari to the Court of Appeals of Indiana, Second District, denied."
+  },
+  "file_name": "1287-06",
+  "first_page_order": 1287,
+  "last_page_order": 1288
+}

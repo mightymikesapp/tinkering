@@ -1,0 +1,81 @@
+{
+  "id": 12585150,
+  "name": "Joseph Lee McFADDEN, petitioner, v. John C. JEPERTINGER.",
+  "name_abbreviation": "McFadden v. Jepertinger",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136409.",
+  "first_page": "685",
+  "last_page": "685",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 685"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 555"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 3802868",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "534 Fed.Appx. 195",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 269,
+    "sha256": "77ecf03c99f2b8d1264b362e0fe41b4c2e85b19fd59a52072b11064910b3c1a9",
+    "simhash": "1:1857f4443bc4c397",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph Lee McFADDEN, petitioner,\nv.\nJohn C. JEPERTINGER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph Lee McFADDEN, petitioner,\nv.\nJohn C. JEPERTINGER.\nNo. 13-6409.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 534 Fed.Appx. 195, 2013 WL 3802868.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0685-06",
+  "first_page_order": 685,
+  "last_page_order": 685
+}

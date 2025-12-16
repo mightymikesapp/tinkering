@@ -1,0 +1,107 @@
+{
+  "id": 12585462,
+  "name": "Jeffrey L. REAGLE, petitioner, v. Justin JONES, Director, Oklahoma Department of Corrections.",
+  "name_abbreviation": "Reagle v. Jones",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20135189.",
+  "first_page": "730",
+  "last_page": "730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 730"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 586"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 245",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12581664,
+        12581665,
+        12581666,
+        12581667,
+        12581668,
+        12581669,
+        12581670,
+        12702144,
+        12703434,
+        12703435,
+        12703436,
+        12703445,
+        12703164,
+        12703453
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0245-01",
+        "/s-ct/134/0245-02",
+        "/s-ct/134/0245-03",
+        "/s-ct/134/0245-04",
+        "/s-ct/134/0245-05",
+        "/s-ct/134/0245-06",
+        "/s-ct/134/0245-07",
+        "/us/571/0813-02",
+        "/us/571/0901-02",
+        "/us/571/0901-03",
+        "/us/571/0901-04",
+        "/us/571/0902-08",
+        "/us/571/0882-02",
+        "/us/571/0902-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 219,
+    "sha256": "af967be6c5ae00b93a0571ba34aa7aac5725ce016bc3ad3b654a51e31057b12d",
+    "simhash": "1:f71f324475c8c3a6",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey L. REAGLE, petitioner,\nv.\nJustin JONES, Director, Oklahoma Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey L. REAGLE, petitioner,\nv.\nJustin JONES, Director, Oklahoma Department of Corrections.\nNo. 13-5189.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 245\nPetition for rehearing denied."
+  },
+  "file_name": "0730-07",
+  "first_page_order": 730,
+  "last_page_order": 730
+}

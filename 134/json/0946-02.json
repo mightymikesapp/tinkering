@@ -1,0 +1,75 @@
+{
+  "id": 12586298,
+  "name": "Ramsey LEWIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lewis v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137395.",
+  "first_page": "946",
+  "last_page": "946",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 946"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 812"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "538 Fed.Appx. 321",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 240,
+    "sha256": "20f85950aff42c6a8c825ea14b5aa44281b5234c922135fdd386c477aa98eea3",
+    "simhash": "1:efed42c4bb065591",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ramsey LEWIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ramsey LEWIS, petitioner,\nv.\nUNITED STATES.\nNo. 13-7395.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 538 Fed.Appx. 321.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0946-02",
+  "first_page_order": 946,
+  "last_page_order": 946
+}

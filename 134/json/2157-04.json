@@ -1,0 +1,75 @@
+{
+  "id": 12581141,
+  "name": "David BALLARD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ballard v. United States",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20139608.",
+  "first_page": "2157",
+  "last_page": "2157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2157"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1141"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "551 Fed.Appx. 33",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 237,
+    "sha256": "a00479f4cc94902739ea9b38ac68196fc1317218ca8c2d1dbff0235c914e8ae2",
+    "simhash": "1:ddad76c43b067331",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David BALLARD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David BALLARD, petitioner,\nv.\nUNITED STATES.\nNo. 13-9608.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 551 Fed.Appx. 33.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "2157-04",
+  "first_page_order": 2157,
+  "last_page_order": 2157
+}

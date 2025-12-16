@@ -1,0 +1,75 @@
+{
+  "id": 12582418,
+  "name": "Richard Len TAYLOR, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Taylor v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135345.",
+  "first_page": "274",
+  "last_page": "274",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 274"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 198"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Fed.Appx. 284",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 250,
+    "sha256": "2db54f98730382d4a31b5c404cc9b2b93b9a9ba30db13ec71854834fb99eda52",
+    "simhash": "1:41afe4252b66d619",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard Len TAYLOR, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard Len TAYLOR, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 13-5345.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 516 Fed.Appx. 284.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0274-05",
+  "first_page_order": 274,
+  "last_page_order": 274
+}

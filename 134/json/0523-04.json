@@ -1,0 +1,75 @@
+{
+  "id": 12584442,
+  "name": "Daniel IBARRA, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Ibarra v. California",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136105.",
+  "first_page": "523",
+  "last_page": "523",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 523"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 377"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 1614103",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 239,
+    "sha256": "0f2bdd5438f22cdf155ac5e4c73e4fb005dba1246bf1ceda54a1783aad13bf50",
+    "simhash": "1:796de6cc73c58191",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel IBARRA, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel IBARRA, petitioner,\nv.\nCALIFORNIA.\nNo. 13-6105.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 2013 WL 1614103.\nPetition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+  },
+  "file_name": "0523-04",
+  "first_page_order": 523,
+  "last_page_order": 523
+}

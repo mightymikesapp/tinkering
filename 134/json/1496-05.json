@@ -1,0 +1,75 @@
+{
+  "id": 12579191,
+  "name": "Byron THOMAS, petitioner, v. CITY OF HOUSTON, TEXAS, et al.",
+  "name_abbreviation": "Thomas v. City of Hous.",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20138065.",
+  "first_page": "1496",
+  "last_page": "1496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1496"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 381"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "537 Fed.Appx. 593",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 255,
+    "sha256": "033df6ef9580af9a3c38a7720e1ef9f3c57e7b00135d26aec5d2f04f32b20492",
+    "simhash": "1:b36fd6c6be4d37cd",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Byron THOMAS, petitioner,\nv.\nCITY OF HOUSTON, TEXAS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Byron THOMAS, petitioner,\nv.\nCITY OF HOUSTON, TEXAS, et al.\nNo. 13-8065.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 537 Fed.Appx. 593.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1496-05",
+  "first_page_order": 1496,
+  "last_page_order": 1496
+}

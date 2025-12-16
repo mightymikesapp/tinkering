@@ -1,0 +1,75 @@
+{
+  "id": 12583234,
+  "name": "Aslan T. SOOBZOKOV, petitioner, v. Eric H. HOLDER, Jr., Attorney General, et al.",
+  "name_abbreviation": "Soobzokov v. Holder",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013159.",
+  "first_page": "318",
+  "last_page": "318",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 318"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 157"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 98",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 273,
+    "sha256": "59c70912224ec4aa9d13f5c64d72eb6d7c11c044ed8fbeb64a16a30e70a2de93",
+    "simhash": "1:a32ee6842f049fa9",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aslan T. SOOBZOKOV, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Aslan T. SOOBZOKOV, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General, et al.\nNo. 13-159.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 515 Fed.Appx. 98.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0318-06",
+  "first_page_order": 318,
+  "last_page_order": 318
+}

@@ -1,0 +1,83 @@
+{
+  "id": 12579965,
+  "name": "Emma TURNER, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Turner v. Pennsylvania",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138796.",
+  "first_page": "1771",
+  "last_page": "1771",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1771"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 602"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "80 A.3d 754",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7303667,
+        4281046
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/80/0754-01",
+        "/pa/622/0318-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 228,
+    "sha256": "0f09e699aa26926f0414bb23a26d4a0ffcb1730b414ff5650a06e17b8d16c5be",
+    "simhash": "1:e4ef945c3089377b",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emma TURNER, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Emma TURNER, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-8796.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 80 A.3d 754.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+  },
+  "file_name": "1771-04",
+  "first_page_order": 1771,
+  "last_page_order": 1771
+}

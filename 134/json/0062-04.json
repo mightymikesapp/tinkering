@@ -1,0 +1,85 @@
+{
+  "id": 12584779,
+  "name": "Elwood H. JONES, petitioner, v. Margaret BAGLEY, Warden.",
+  "name_abbreviation": "Jones v. Bagley",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139678.",
+  "first_page": "62",
+  "last_page": "62",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 62"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 51"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "696 F.3d 475",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5864047
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/696/0475-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 246,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263448563989638
+    },
+    "sha256": "5ed2f90b5c39aabbd8bf0befa4ea5701079b909a07d20bbed6b7a936e2aeea9b",
+    "simhash": "1:622f5a4e1fe5c423",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elwood H. JONES, petitioner,\nv.\nMargaret BAGLEY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Elwood H. JONES, petitioner,\nv.\nMargaret BAGLEY, Warden.\nNo. 12-9678.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 696 F.3d 475.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0062-04",
+  "first_page_order": 62,
+  "last_page_order": 62
+}

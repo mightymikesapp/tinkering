@@ -1,0 +1,97 @@
+{
+  "id": 12578306,
+  "name": "Steven HOMICK, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Homick v. California",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310444.",
+  "first_page": "114",
+  "last_page": "114",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 114"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 83"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "289 P.3d 791",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "150 Cal.Rptr.3d 1",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "55 Cal.4th 816",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        3932274
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/55/0816-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 242,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26322905312240213
+    },
+    "sha256": "f542d0b3b00f7a0b548d93b12b1b0f100b8dc72f7539e546d482198f8c3c3802",
+    "simhash": "1:582d504c7ad703bb",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven HOMICK, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven HOMICK, petitioner,\nv.\nCALIFORNIA.\nNo. 12-10444.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 55 Cal.4th 816, 150 Cal.Rptr.3d 1, 289 P.3d 791.\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "0114-04",
+  "first_page_order": 114,
+  "last_page_order": 114
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12579546,
+  "name": "Leo E. STRINE, Jr., et al., petitioners, v. DELAWARE COALITION FOR OPEN GOVERNMENT, INC.",
+  "name_abbreviation": "Strine v. Del. Coal. for Open Gov't, Inc.",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u2013869.",
+  "first_page": "1551",
+  "last_page": "1551",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1551"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 581"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "733 F.3d 510",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3714430
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/733/0510-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 420,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26327229888692355
+    },
+    "sha256": "17864e668aa416c721f5b7dad37b087d4fc716e6bb4e01e0d2f700dff1bffd03",
+    "simhash": "1:b3acc2145bb197c8",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leo E. STRINE, Jr., et al., petitioners,\nv.\nDELAWARE COALITION FOR OPEN GOVERNMENT, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of TechNet for leave to file a brief as amicus curiae granted. Motion of Law Firms for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leo E. STRINE, Jr., et al., petitioners,\nv.\nDELAWARE COALITION FOR OPEN GOVERNMENT, INC.\nNo. 13-869.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 733 F.3d 510.\nMotion of TechNet for leave to file a brief as amicus curiae granted. Motion of Law Firms for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1551-02",
+  "first_page_order": 1551,
+  "last_page_order": 1551
+}

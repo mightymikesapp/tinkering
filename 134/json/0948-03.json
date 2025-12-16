@@ -1,0 +1,91 @@
+{
+  "id": 12586311,
+  "name": "Mary A. DYARMAN, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Dyarman v. Pennsylvania",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013611.",
+  "first_page": "948",
+  "last_page": "948",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 948"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 785"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "73 A.3d 565",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7306627,
+        4081603,
+        4080135,
+        4081488,
+        7306612,
+        7306616
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/73/0565-03",
+        "/pa/621/0088-02",
+        "/pa/621/0087-01",
+        "/pa/621/0088-01",
+        "/a3d/73/0565-01",
+        "/a3d/73/0565-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 229,
+    "sha256": "42bf2efc07c2a85a829e9f1da3407e354c1ef89f81f8efc23fe365ee7aae7018",
+    "simhash": "1:494f444c30805694",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mary A. DYARMAN, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mary A. DYARMAN, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-611.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 73 A.3d 565.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District, denied."
+  },
+  "file_name": "0948-03",
+  "first_page_order": 948,
+  "last_page_order": 948
+}

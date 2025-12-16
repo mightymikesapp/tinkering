@@ -1,0 +1,103 @@
+{
+  "id": 12580059,
+  "name": "Dennis Lee MAXBERRY, petitioner, v. SALLIE MAE EDUCATION LOANS.",
+  "name_abbreviation": "Maxberry v. Sallie Mae Educ. Loans",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20137339.",
+  "first_page": "1786",
+  "last_page": "1786",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1786"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 611"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1004",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12577888,
+        12577889,
+        12577890,
+        12577891,
+        12577892,
+        12700900,
+        12700876,
+        12700910,
+        12700911,
+        12700912,
+        12700888,
+        12577887
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1004-02",
+        "/s-ct/134/1004-03",
+        "/s-ct/134/1004-04",
+        "/s-ct/134/1004-05",
+        "/s-ct/134/1004-06",
+        "/us/571/1164-14",
+        "/us/571/1163-01",
+        "/us/571/1165-10",
+        "/us/571/1165-11",
+        "/us/571/1165-12",
+        "/us/571/1164-01",
+        "/s-ct/134/1004-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 193,
+    "sha256": "cbbafd9c983fa5dbd6032e65fe9bf9caa785175e30b43c4f2c63fccf215d333b",
+    "simhash": "1:b0253c4644fb67c8",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dennis Lee MAXBERRY, petitioner,\nv.\nSALLIE MAE EDUCATION LOANS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dennis Lee MAXBERRY, petitioner,\nv.\nSALLIE MAE EDUCATION LOANS.\nNo. 13-7339.\nSupreme Court of the United States\nMarch 31, 2014.\nFormer decision, 134 S.Ct. 1004.\nPetition for rehearing denied."
+  },
+  "file_name": "1786-02",
+  "first_page_order": 1786,
+  "last_page_order": 1786
+}

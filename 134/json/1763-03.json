@@ -1,0 +1,75 @@
+{
+  "id": 12579912,
+  "name": "Glenn BROOKS, petitioner, v. Chris FUNK, et al.",
+  "name_abbreviation": "Brooks v. Funk",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138375.",
+  "first_page": "1763",
+  "last_page": "1763",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1763"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 598"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "539 Fed.Appx. 146",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 245,
+    "sha256": "9ad29fd1c119f2e1342ce83142a18924ca754f39236d8e125611633bac87f499",
+    "simhash": "1:723f50040f8013c3",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Glenn BROOKS, petitioner,\nv.\nChris FUNK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Glenn BROOKS, petitioner,\nv.\nChris FUNK, et al.\nNo. 13-8375.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 539 Fed.Appx. 146.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1763-03",
+  "first_page_order": 1763,
+  "last_page_order": 1763
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12580469,
+  "name": "Darnell BLACK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Black v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139100.",
+  "first_page": "1902",
+  "last_page": "1902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1902"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 932"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "737 F.3d 280",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3731679
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/737/0280-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633024164729295
+    },
+    "sha256": "7d8f1473282ed4d6f44e308c440c8622313d2cb16645f35ba349d5b5beac42b8",
+    "simhash": "1:636c4604bb47ee31",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darnell BLACK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darnell BLACK, petitioner,\nv.\nUNITED STATES.\nNo. 13-9100.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 737 F.3d 280.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1902-04",
+  "first_page_order": 1902,
+  "last_page_order": 1902
+}

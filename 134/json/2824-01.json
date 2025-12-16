@@ -1,0 +1,93 @@
+{
+  "id": 12582513,
+  "name": "Jason Jacob-Michael MACK, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Mack v. Washington",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. 13\u20139634.",
+  "first_page": "2824",
+  "last_page": "2824",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2824"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 790"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3719"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 3946550",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "175 Wash.App. 1060",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4192242,
+        4192991,
+        4190130,
+        4193127
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-app/175/1060-03",
+        "/wash-app/175/1060-04",
+        "/wash-app/175/1060-01",
+        "/wash-app/175/1060-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 257,
+    "sha256": "a0bf068c6c30f51c17c4f1bc6496daddc4ebcb6770be4b2d1006dd35451045b1",
+    "simhash": "1:f8b7664cdec755b5",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason Jacob-Michael MACK, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason Jacob-Michael MACK, petitioner,\nv.\nWASHINGTON.\nNo. 13-9634.\nSupreme Court of the United States\nJune 16, 2014.\nCase below, 175 Wash.App. 1060, 2013 WL 3946550.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+  },
+  "file_name": "2824-01",
+  "first_page_order": 2824,
+  "last_page_order": 2824
+}

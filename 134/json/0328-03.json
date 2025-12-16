@@ -1,0 +1,75 @@
+{
+  "id": 12583301,
+  "name": "Christopher L. BEY, petitioner, v. Greg CAPELLO, Warden.",
+  "name_abbreviation": "Bey v. Capello",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135701.",
+  "first_page": "328",
+  "last_page": "328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 328"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 230"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 405",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 251,
+    "sha256": "64484edc7ca4c56a3d3ad0f2fb8b80d4b41af35733760c3f8e954f0ac31f6f75",
+    "simhash": "1:62ad56451c6585a9",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher L. BEY, petitioner,\nv.\nGreg CAPELLO, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher L. BEY, petitioner,\nv.\nGreg CAPELLO, Warden.\nNo. 13-5701.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 525 Fed.Appx. 405.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0328-03",
+  "first_page_order": 328,
+  "last_page_order": 328
+}

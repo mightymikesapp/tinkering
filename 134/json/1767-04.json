@@ -1,0 +1,75 @@
+{
+  "id": 12579936,
+  "name": "Rodney J. SMITH, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Smith v. California",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138526.",
+  "first_page": "1767",
+  "last_page": "1767",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1767"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 600"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 3043341",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 242,
+    "sha256": "51709c8f7bef54c57a6332d9100b87d5ae1ae5cc7b5e22e8450ca03b5389ff70",
+    "simhash": "1:696c4406bd9d43e1",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rodney J. SMITH, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, First Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rodney J. SMITH, petitioner,\nv.\nCALIFORNIA.\nNo. 13-8526.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 2013 WL 3043341.\nPetition for writ of certiorari to the Court of Appeal of California, First Appellate District, denied."
+  },
+  "file_name": "1767-04",
+  "first_page_order": 1767,
+  "last_page_order": 1767
+}

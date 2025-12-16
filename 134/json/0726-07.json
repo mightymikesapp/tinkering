@@ -1,0 +1,103 @@
+{
+  "id": 12585424,
+  "name": "Michael M. REVELES, petitioner, v. Lizzy TEGELS, Warden.",
+  "name_abbreviation": "Reveles v. Tegels",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 12\u201310427.",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 726"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 581"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 112",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702665,
+        12702673,
+        12578290,
+        12578291,
+        12578292,
+        12578293,
+        12578294,
+        12578295,
+        12702674,
+        12702652,
+        12702653,
+        12702654
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0849-08",
+        "/us/571/0849-09",
+        "/s-ct/134/0112-01",
+        "/s-ct/134/0112-02",
+        "/s-ct/134/0112-03",
+        "/s-ct/134/0112-04",
+        "/s-ct/134/0112-05",
+        "/s-ct/134/0112-06",
+        "/us/571/0849-10",
+        "/us/571/0848-02",
+        "/us/571/0848-03",
+        "/us/571/0848-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 183,
+    "sha256": "17d59cb2c47bc791035fb05a9d51e87ec0c560c69d185350b37967164822158b",
+    "simhash": "1:405732723453638e",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael M. REVELES, petitioner,\nv.\nLizzy TEGELS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael M. REVELES, petitioner,\nv.\nLizzy TEGELS, Warden.\nNo. 12-10427.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 112\nPetition for rehearing denied."
+  },
+  "file_name": "0726-07",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

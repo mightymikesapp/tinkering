@@ -1,0 +1,75 @@
+{
+  "id": 12583214,
+  "name": "Steven Richard KOCIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Kocis v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135594.",
+  "first_page": "315",
+  "last_page": "315",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 315"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 223"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "504 Fed.Appx. 865",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 249,
+    "sha256": "6e33d7418ae6fbdecc2d237b4f93f71f89ed24338a0cd5dee1e2eab53cd51306",
+    "simhash": "1:72ade6459727841b",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven Richard KOCIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven Richard KOCIS, petitioner,\nv.\nUNITED STATES.\nNo. 13-5594.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 504 Fed.Appx. 865.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0315-03",
+  "first_page_order": 315,
+  "last_page_order": 315
+}

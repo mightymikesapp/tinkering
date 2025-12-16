@@ -1,0 +1,85 @@
+{
+  "id": 12578156,
+  "name": "Rohan G. HERON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Heron v. United States",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137931.",
+  "first_page": "1044",
+  "last_page": "1044",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1044"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 134"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 896",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5756383
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/721/0896-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26322519189342697
+    },
+    "sha256": "43d56a76b5af2220ccfdc8a3d63397746cee354fa69a95f81b691cee978906e3",
+    "simhash": "1:c9a964440b050217",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rohan G. HERON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rohan G. HERON, petitioner,\nv.\nUNITED STATES.\nNo. 13-7931.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 721 F.3d 896.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1044-03",
+  "first_page_order": 1044,
+  "last_page_order": 1044
+}

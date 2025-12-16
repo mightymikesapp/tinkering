@@ -1,0 +1,86 @@
+{
+  "id": 12585377,
+  "name": "Winston Clay BARRETT, petitioner, v. GEORGIA.",
+  "name_abbreviation": "Barrett v. Georgia",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139958.",
+  "first_page": "71",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 71"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 56"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "292 Ga. 160",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        3652451
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/292/0160-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 221,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26346729095016735
+    },
+    "sha256": "8500b6707e7214cf0d10dee0a4c7617485c3e03b99541b8b3e8eb6b626b0db64",
+    "simhash": "1:60a9d41478268c31",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Winston Clay BARRETT, petitioner,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Winston Clay BARRETT, petitioner,\nv.\nGEORGIA.\nNo. 12-9958.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 292 Ga. 160, 733 S.E.2d 304\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "0071-02",
+  "first_page_order": 71,
+  "last_page_order": 71
+}

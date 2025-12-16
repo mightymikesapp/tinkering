@@ -1,0 +1,86 @@
+{
+  "id": 12584902,
+  "name": "Thomas M. ALBRIGHT, et al., petitioners, v. EXXON MOBIL CORPORATION.",
+  "name_abbreviation": "Albright v. Exxon Mobil Corp.",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u2013383.",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 648"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 449"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "433 Md. 303",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        3720462
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/md/433/0303-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 322,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634524252186131
+    },
+    "sha256": "ed14094370c9b07bac43109b65c2af37dc66391068fa80b8fab0eee138620c3f",
+    "simhash": "1:09df5c8a33ecf2ce",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas M. ALBRIGHT, et al., petitioners,\nv.\nEXXON MOBIL CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Maryland denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas M. ALBRIGHT, et al., petitioners,\nv.\nEXXON MOBIL CORPORATION.\nNo. 13-383.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 433 Md. 303, 71 A.3d 30.\nPetition for writ of certiorari to the Court of Appeals of Maryland denied."
+  },
+  "file_name": "0648-05",
+  "first_page_order": 648,
+  "last_page_order": 648
+}

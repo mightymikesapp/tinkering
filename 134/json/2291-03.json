@@ -1,0 +1,75 @@
+{
+  "id": 12581306,
+  "name": "Markcus GOODE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Goode v. United States",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20138577.",
+  "first_page": "2291",
+  "last_page": "2291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2291"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 179"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "550 Fed.Appx. 84",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "sha256": "9380f235abb91b619197f73dbf3da4184cc481753d87f611bf4791a398d788d0",
+    "simhash": "1:793e7406ff475619",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Markcus GOODE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Markcus GOODE, petitioner,\nv.\nUNITED STATES.\nNo. 13-8577.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 550 Fed.Appx. 84.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "2291-03",
+  "first_page_order": 2291,
+  "last_page_order": 2291
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583135,
+  "name": "Dennis Boyd PITTMAN, petitioner, v. TEXAS.",
+  "name_abbreviation": "Pittman v. Texas",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135519.",
+  "first_page": "304",
+  "last_page": "304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 304"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 216"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 5356306",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 227,
+    "sha256": "8c097d68aea6890b10686229237074006f2ca211ca6e124b7a0ee8c30a901df2",
+    "simhash": "1:09af4407d3c085f9",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dennis Boyd PITTMAN, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Twelfth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dennis Boyd PITTMAN, petitioner,\nv.\nTEXAS.\nNo. 13-5519.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2012 WL 5356306.\nPetition for writ of certiorari to the Court of Appeals of Texas, Twelfth District, denied."
+  },
+  "file_name": "0304-01",
+  "first_page_order": 304,
+  "last_page_order": 304
+}

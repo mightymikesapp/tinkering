@@ -1,0 +1,75 @@
+{
+  "id": 12579780,
+  "name": "Compton JONES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jones v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310717.",
+  "first_page": "160",
+  "last_page": "160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 160"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 112"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "502 Fed.Appx. 600",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 242,
+    "sha256": "4be677d030c4475081bab4dfa76d153e2ac21be23de5508a0af7d38d80eb20a7",
+    "simhash": "1:e1ad764763c78229",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Compton JONES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Compton JONES, petitioner,\nv.\nUNITED STATES.\nNo. 12-10717.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 502 Fed.Appx. 600.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0160-02",
+  "first_page_order": 160,
+  "last_page_order": 160
+}

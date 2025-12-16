@@ -1,0 +1,83 @@
+{
+  "id": 12585961,
+  "name": "Gary R. HERBERT, Governor of Utah, et al., applicants, v. Derek KITCHEN, et al.",
+  "name_abbreviation": "Herbert v. Kitchen",
+  "decision_date": "2014-01-06",
+  "docket_number": "No. 13A687.",
+  "first_page": "893",
+  "last_page": "893",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 893"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 699"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "961 F.Supp.2d 1181",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        3873929
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-supp-2d/961/1181-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 510,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26348679015649173
+    },
+    "sha256": "408857ff365ea5813668bfd57aabe955460844965ecf19eb99ef4e014358ad27",
+    "simhash": "1:6ef67c06af80c4df",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary R. HERBERT, Governor of Utah, et al., applicants,\nv.\nDerek KITCHEN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Gary R. HERBERT, Governor of Utah, et al., applicants,\nv.\nDerek KITCHEN, et al.\nNo. 13A687.\nSupreme Court of the United States\nJan. 6, 2014.\nCase below, 961 F.Supp.2d 1181.\nApplication for stay presented to Justice SOTOMAYOR and by her referred to the Court granted. Permanent injunction issued by the United States District Court for the District of Utah, case No. 2:13-cv-217, on December 20, 2013, stayed pending final disposition of the appeal by the United States Court of Appeals for the Tenth Circuit."
+  },
+  "file_name": "0893-03",
+  "first_page_order": 893,
+  "last_page_order": 893
+}

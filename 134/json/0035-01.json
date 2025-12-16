@@ -1,0 +1,91 @@
+{
+  "id": 12583512,
+  "name": "Elijah JACKSON, Jr., petitioner, v. FLORIDA DEPARTMENT OF CORRECTIONS, et al.",
+  "name_abbreviation": "Jackson v. Fla. Dep't of Corr.",
+  "decision_date": "2013-08-12",
+  "docket_number": "No. 12\u20138885.",
+  "first_page": "35",
+  "last_page": "35",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 35"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 948"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3079"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2050",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697888,
+        12698029,
+        12698030,
+        12697904,
+        12697905,
+        12698008
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0960-06",
+        "/us/569/0969-13",
+        "/us/569/0969-14",
+        "/us/569/0961-07",
+        "/us/569/0961-08",
+        "/us/569/0968-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 205,
+    "sha256": "0db085cfd4cec57b59c283559f17504aad525aeb75950fae0b7c0c0579ec2c59",
+    "simhash": "1:b73b044496c89106",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elijah JACKSON, Jr., petitioner,\nv.\nFLORIDA DEPARTMENT OF CORRECTIONS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Elijah JACKSON, Jr., petitioner,\nv.\nFLORIDA DEPARTMENT OF CORRECTIONS, et al.\nNo. 12-8885.\nSupreme Court of the United States\nAug. 12, 2013.\nFormer decision, 133 S.Ct. 2050\nPetition for rehearing denied."
+  },
+  "file_name": "0035-01",
+  "first_page_order": 35,
+  "last_page_order": 35
+}

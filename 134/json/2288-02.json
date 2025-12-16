@@ -1,0 +1,85 @@
+{
+  "id": 12581281,
+  "name": "DECKERS OUTDOOR CORPORATION, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Deckers Outdoor Corp. v. United States",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u2013803.",
+  "first_page": "2288",
+  "last_page": "2288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2288"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 201"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "714 F.3d 1363",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5866509
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/714/1363-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 374,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633323409974867
+    },
+    "sha256": "f5b780a090dfd8004073ebfa29cc935a5d869fa3f51f896dd27daf2e9b2221b9",
+    "simhash": "1:1bacf2462947458b",
+    "word_count": 62
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DECKERS OUTDOOR CORPORATION, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of American Association of Exporters and Importers for leave to file a brief as amicus curiae out of time is denied. Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "DECKERS OUTDOOR CORPORATION, petitioner,\nv.\nUNITED STATES.\nNo. 13-803.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 714 F.3d 1363.\nMotion of American Association of Exporters and Importers for leave to file a brief as amicus curiae out of time is denied. Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "2288-02",
+  "first_page_order": 2288,
+  "last_page_order": 2288
+}

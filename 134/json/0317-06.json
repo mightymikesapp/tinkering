@@ -1,0 +1,68 @@
+{
+  "id": 12583228,
+  "name": "Carlos VAZQUEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Vazquez v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135618.",
+  "first_page": "317",
+  "last_page": "317",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 317"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 224"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "3e5c5d5f438f44d327eba0c247d8c55c3e3af52c334849d36558d3588d6b872c",
+    "simhash": "1:33ae6646ba261605",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos VAZQUEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos VAZQUEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-5618.\nSupreme Court of the United States\nOct. 7, 2013.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0317-06",
+  "first_page_order": 317,
+  "last_page_order": 317
+}

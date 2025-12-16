@@ -1,0 +1,103 @@
+{
+  "id": 12585466,
+  "name": "Deric Lavelle MAY, petitioner, v. Tony PATTERSON, et al.",
+  "name_abbreviation": "May v. Patterson",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20135297.",
+  "first_page": "731",
+  "last_page": "731",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 731"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 586"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 265",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703549,
+        12581805,
+        12581806,
+        12581807,
+        12581808,
+        12581809,
+        12581810,
+        12703546,
+        12703547,
+        12703548,
+        12703197,
+        12703550
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0908-14",
+        "/s-ct/134/0265-01",
+        "/s-ct/134/0265-02",
+        "/s-ct/134/0265-03",
+        "/s-ct/134/0265-04",
+        "/s-ct/134/0265-05",
+        "/s-ct/134/0265-06",
+        "/us/571/0908-11",
+        "/us/571/0908-12",
+        "/us/571/0908-13",
+        "/us/571/0884-08",
+        "/us/571/0908-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 182,
+    "sha256": "fc9ec9ba361dee030841fc5b71f66f8df0101a2a98b8ff388645b7e70ba1757e",
+    "simhash": "1:3473365306d87b8e",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Deric Lavelle MAY, petitioner,\nv.\nTony PATTERSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Deric Lavelle MAY, petitioner,\nv.\nTony PATTERSON, et al.\nNo. 13-5297.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 265\nPetition for rehearing denied."
+  },
+  "file_name": "0731-03",
+  "first_page_order": 731,
+  "last_page_order": 731
+}

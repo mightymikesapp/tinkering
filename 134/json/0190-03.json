@@ -1,0 +1,75 @@
+{
+  "id": 12580517,
+  "name": "Andres GONZALEZ, petitioner, v. Edward J. CADEN, Warden.",
+  "name_abbreviation": "Gonzalez v. Caden",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310881.",
+  "first_page": "190",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 190"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 129"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "513 Fed.Appx. 672",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 252,
+    "sha256": "dfab9bb4e154b8cb461a8de44dc67b29bf4785e896a42b6cf4f9e94a29f446cc",
+    "simhash": "1:5b2ff46cbc679728",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andres GONZALEZ, petitioner,\nv.\nEdward J. CADEN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andres GONZALEZ, petitioner,\nv.\nEdward J. CADEN, Warden.\nNo. 12-10881.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 513 Fed.Appx. 672.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0190-03",
+  "first_page_order": 190,
+  "last_page_order": 190
+}

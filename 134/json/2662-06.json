@@ -1,0 +1,85 @@
+{
+  "id": 12581828,
+  "name": "Roderick Lynn SMITH, petitioner, v. OKLAHOMA.",
+  "name_abbreviation": "Smith v. Oklahoma",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20138706.",
+  "first_page": "2662",
+  "last_page": "2663",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2662"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 213"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3685"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "306 P.3d 557",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        6969030
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/p3d/306/0557-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 220,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26335299857250366
+    },
+    "sha256": "9a94ada403b16421b139ef3d3d8fcec9527848f08ba2974f684afe4088af3382",
+    "simhash": "1:79fcf6062aa594d0",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roderick Lynn SMITH, petitioner,\nv.\nOKLAHOMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Oklahoma denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roderick Lynn SMITH, petitioner,\nv.\nOKLAHOMA.\nNo. 13-8706.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 306 P.3d 557.\nPetition for writ of certiorari to the Court of Criminal Appeals of Oklahoma denied."
+  },
+  "file_name": "2662-06",
+  "first_page_order": 2662,
+  "last_page_order": 2663
+}

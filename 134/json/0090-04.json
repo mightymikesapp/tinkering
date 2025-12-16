@@ -1,0 +1,73 @@
+{
+  "id": 12586062,
+  "name": "Michael SWAIN, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Swain v. Florida",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310196.",
+  "first_page": "90",
+  "last_page": "90",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 90"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 4"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "117 So.3d 424",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 320,
+    "sha256": "fb3ae90fc91e6013486630eb191fe654a3d3216d116d13c5d40f2edec8477d0d",
+    "simhash": "1:4bcb6e7cf87f891d",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael SWAIN, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael SWAIN, petitioner,\nv.\nFLORIDA.\nNo. 12-10196.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 117 So.3d 424.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the District Court of Appeal of Florida, Third District, dismissed. See Rule 39.8."
+  },
+  "file_name": "0090-04",
+  "first_page_order": 90,
+  "last_page_order": 90
+}

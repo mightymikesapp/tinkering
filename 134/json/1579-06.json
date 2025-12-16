@@ -1,0 +1,103 @@
+{
+  "id": 12579740,
+  "name": "Christine Marie HAM, petitioner, v. BOARD OF TRUSTEES OF the LELAND STANFORD JUNIOR UNIVERSITY.",
+  "name_abbreviation": "Ham v. Bd. of Trs. of the Leland Stanford Junior Univ.",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20137636.",
+  "first_page": "1579",
+  "last_page": "1579",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1579"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 587"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1035",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701100,
+        12578093,
+        12578094,
+        12578095,
+        12578096,
+        12578097,
+        12578098,
+        12701107,
+        12701108,
+        12701109,
+        12701110,
+        12701053
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1180-01",
+        "/s-ct/134/1035-01",
+        "/s-ct/134/1035-02",
+        "/s-ct/134/1035-03",
+        "/s-ct/134/1035-04",
+        "/s-ct/134/1035-05",
+        "/s-ct/134/1035-06",
+        "/us/571/1180-09",
+        "/us/571/1180-10",
+        "/us/571/1180-11",
+        "/us/571/1180-12",
+        "/us/571/1176-11"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 225,
+    "sha256": "016f9ff5fc21fa7b10d7d02a7577b91f66aa00ce3f1466943637141e19ac1c49",
+    "simhash": "1:656b14461c5e622c",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christine Marie HAM, petitioner,\nv.\nBOARD OF TRUSTEES OF the LELAND STANFORD JUNIOR UNIVERSITY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christine Marie HAM, petitioner,\nv.\nBOARD OF TRUSTEES OF the LELAND STANFORD JUNIOR UNIVERSITY.\nNo. 13-7636.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 1035.\nPetition for rehearing denied."
+  },
+  "file_name": "1579-06",
+  "first_page_order": 1579,
+  "last_page_order": 1579
+}

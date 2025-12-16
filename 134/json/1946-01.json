@@ -1,0 +1,91 @@
+{
+  "id": 12580765,
+  "name": "Xavier DEGOLLADO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Degollado v. United States",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20138803.",
+  "first_page": "1946",
+  "last_page": "1946",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1946"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 956"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1710",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706995,
+        12579853
+      ],
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/0434-01",
+        "/s-ct/134/1710-01"
+      ]
+    },
+    {
+      "cite": "547 Fed.Appx. 592",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 561,
+    "sha256": "b20681c830276b5991d7335d609b2678e1f63e562f4f3a3de6f1b20d1c3cff02",
+    "simhash": "1:67a5e6c4230b861d",
+    "word_count": 91
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Xavier DEGOLLADO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Paroline v. United States, 572 U.S. ----, 134 S.Ct. 1710, 188 L.Ed.2d 714 (2014)."
+    ],
+    "corrections": "",
+    "head_matter": "Xavier DEGOLLADO, petitioner,\nv.\nUNITED STATES.\nNo. 13-8803.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 547 Fed.Appx. 592.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Paroline v. United States, 572 U.S. ----, 134 S.Ct. 1710, 188 L.Ed.2d 714 (2014)."
+  },
+  "file_name": "1946-01",
+  "first_page_order": 1946,
+  "last_page_order": 1946
+}

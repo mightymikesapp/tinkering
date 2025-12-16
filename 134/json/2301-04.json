@@ -1,0 +1,75 @@
+{
+  "id": 12581373,
+  "name": "Jorge GUTIERREZ, petitioner, v. TEXAS.",
+  "name_abbreviation": "Gutierrez v. Texas",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20139092.",
+  "first_page": "2301",
+  "last_page": "2301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2301"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 185"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 4822923",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 221,
+    "sha256": "a9a0e27eeb600d61f3c426c7a1fe0a4d00adde74980ecb6a51c50461b3a55208",
+    "simhash": "1:fd5e52d7f9c1b5b9",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jorge GUTIERREZ, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Third District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jorge GUTIERREZ, petitioner,\nv.\nTEXAS.\nNo. 13-9092.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 2013 WL 4822923.\nPetition for writ of certiorari to the Court of Appeals of Texas, Third District, denied."
+  },
+  "file_name": "2301-04",
+  "first_page_order": 2301,
+  "last_page_order": 2301
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12581629,
+  "name": "AGRIUM INCORPORATED, et al, v. MINN-CHEM, INCORPORATED, et al.",
+  "name_abbreviation": "Agrium Inc. v. Minn-Chem, Inc.",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12650; R46\u2013021.",
+  "first_page": "23",
+  "last_page": "23",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 23"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 936"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3070"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "683 F.3d 845",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3894048
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/683/0845-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 266,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633448899916559
+    },
+    "sha256": "8fe1a8c0648c4228c056420ce82d5dfda308a580fe4752aee6eadb2f15c98442",
+    "simhash": "1:c98e009dbacbd65b",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "AGRIUM INCORPORATED, et al,\nv.\nMINN-CHEM, INCORPORATED, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46.1 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "AGRIUM INCORPORATED, et al,\nv.\nMINN-CHEM, INCORPORATED, et al.\nNo. 12650, R46-021.\nSupreme Court of the United States\nJuly 22, 2013.\nCase below, 683 F.3d 845.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46.1 of the Rules of this Court."
+  },
+  "file_name": "0023-01",
+  "first_page_order": 23,
+  "last_page_order": 23
+}

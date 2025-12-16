@@ -1,0 +1,75 @@
+{
+  "id": 12580349,
+  "name": "Billy Ray MANEY, petitioner, v. Richard NEELY, Superintendent, Piedmont Correctional Institution.",
+  "name_abbreviation": "Maney v. Neely",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138638.",
+  "first_page": "1884",
+  "last_page": "1884",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1884"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 921"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "536 Fed.Appx. 323",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 299,
+    "sha256": "d732a5b5edf66ffc483809d1ea970299819c39f7814baafbe823c31c36aaffeb",
+    "simhash": "1:727f6625ec000e0b",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Billy Ray MANEY, petitioner,\nv.\nRichard NEELY, Superintendent, Piedmont Correctional Institution."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Billy Ray MANEY, petitioner,\nv.\nRichard NEELY, Superintendent, Piedmont Correctional Institution.\nNo. 13-8638.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 536 Fed.Appx. 323\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1884-01",
+  "first_page_order": 1884,
+  "last_page_order": 1884
+}

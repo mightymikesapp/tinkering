@@ -1,0 +1,107 @@
+{
+  "id": 12585754,
+  "name": "Jesse L. YOUNGBLOOD, petitioner, v. M.S. EVANS, Warden, et al.",
+  "name_abbreviation": "Youngblood v. Evans",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20135509.",
+  "first_page": "818",
+  "last_page": "818",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 818"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 619"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 301",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702151,
+        12703719,
+        12703720,
+        12583116,
+        12583117,
+        12583118,
+        12583119,
+        12583120,
+        12583121,
+        12583122,
+        12703220,
+        12703707,
+        12703708,
+        12703709
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0813-09",
+        "/us/571/0919-14",
+        "/us/571/0919-15",
+        "/s-ct/134/0301-01",
+        "/s-ct/134/0301-02",
+        "/s-ct/134/0301-03",
+        "/s-ct/134/0301-04",
+        "/s-ct/134/0301-05",
+        "/s-ct/134/0301-06",
+        "/s-ct/134/0301-07",
+        "/us/571/0886-05",
+        "/us/571/0919-01",
+        "/us/571/0919-02",
+        "/us/571/0919-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 188,
+    "sha256": "313893d4e239c6746b64ba18ab87f8cc6e468425b5c3fd71ee9651b93118a2b7",
+    "simhash": "1:53b90e4436df668e",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesse L. YOUNGBLOOD, petitioner,\nv.\nM.S. EVANS, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jesse L. YOUNGBLOOD, petitioner,\nv.\nM.S. EVANS, Warden, et al.\nNo. 13-5509.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 301\nPetition for rehearing denied."
+  },
+  "file_name": "0818-02",
+  "first_page_order": 818,
+  "last_page_order": 818
+}

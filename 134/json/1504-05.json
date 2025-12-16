@@ -1,0 +1,75 @@
+{
+  "id": 12579244,
+  "name": "Kevin DYE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Dye v. United States",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20138426.",
+  "first_page": "1504",
+  "last_page": "1504",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1504"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 385"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "538 Fed.Appx. 654",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 236,
+    "sha256": "edebfb5ff3be89aa8d6c5d8e8a56607fc507e1faf63f0694d5ac9318ebe87b64",
+    "simhash": "1:d1ed56463b21d715",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin DYE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin DYE, petitioner,\nv.\nUNITED STATES.\nNo. 13-8426.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 538 Fed.Appx. 654.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1504-05",
+  "first_page_order": 1504,
+  "last_page_order": 1504
+}

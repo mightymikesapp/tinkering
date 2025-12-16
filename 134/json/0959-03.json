@@ -1,0 +1,75 @@
+{
+  "id": 12586383,
+  "name": "Christopher Alan CARLSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Carlson v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137522.",
+  "first_page": "959",
+  "last_page": "959",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 959"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 820"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "533 Fed.Appx. 743",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 251,
+    "sha256": "fd69fb6bee97b6e4cd3f2613f874a001ab6c1ae3c7fc93128fdd5671548d9782",
+    "simhash": "1:43ec44442b02d793",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher Alan CARLSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher Alan CARLSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-7522.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 533 Fed.Appx. 743.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0959-03",
+  "first_page_order": 959,
+  "last_page_order": 959
+}

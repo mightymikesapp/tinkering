@@ -1,0 +1,103 @@
+{
+  "id": 12582222,
+  "name": "Phillip L. BROWN, petitioner, v. Fred FOULK, Acting Warden.",
+  "name_abbreviation": "Brown v. Foulk",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20138041.",
+  "first_page": "2720",
+  "last_page": "2720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2720"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 757"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3696"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1495",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701892,
+        12701893,
+        12701894,
+        12579181,
+        12579182,
+        12579183,
+        12579184,
+        12579185,
+        12579186,
+        12701904,
+        12701910,
+        12701911
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1239-02",
+        "/us/571/1239-03",
+        "/us/571/1239-04",
+        "/s-ct/134/1495-01",
+        "/s-ct/134/1495-02",
+        "/s-ct/134/1495-03",
+        "/s-ct/134/1495-04",
+        "/s-ct/134/1495-05",
+        "/s-ct/134/1495-06",
+        "/us/571/1240-06",
+        "/us/571/1240-07",
+        "/us/571/1240-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 187,
+    "sha256": "bded6a71883ce9134aabd7bcfc839e28e33465178eeb9afce0a9e67f9f1f41a9",
+    "simhash": "1:502c36045145558f",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Phillip L. BROWN, petitioner,\nv.\nFred FOULK, Acting Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Phillip L. BROWN, petitioner,\nv.\nFred FOULK, Acting Warden.\nNo. 13-8041.\nSupreme Court of the United States\nJune 2, 2014.\nFormer decision, 134 S.Ct. 1495.\nPetition for rehearing denied."
+  },
+  "file_name": "2720-04",
+  "first_page_order": 2720,
+  "last_page_order": 2720
+}

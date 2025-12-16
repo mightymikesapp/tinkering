@@ -1,0 +1,75 @@
+{
+  "id": 12581978,
+  "name": "Lucas ROBINSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robinson v. United States",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20139878.",
+  "first_page": "2686",
+  "last_page": "2686",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2686"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 227"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3686"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "551 Fed.Appx. 286",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 241,
+    "sha256": "9abae842c9af8cda97cd64689f95da34aff8e35f0dc7fdf525cf96d8e8c2c48f",
+    "simhash": "1:49aff646bb2e53e1",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lucas ROBINSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lucas ROBINSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-9878.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 551 Fed.Appx. 286.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "2686-01",
+  "first_page_order": 2686,
+  "last_page_order": 2686
+}

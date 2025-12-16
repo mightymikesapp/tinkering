@@ -1,0 +1,75 @@
+{
+  "id": 12578963,
+  "name": "Randy HOLKESVIG, petitioner, v. NORTH DAKOTA.",
+  "name_abbreviation": "Holkesvig v. Dakota",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131413.",
+  "first_page": "135",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 135"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 38"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "828 N.W.2d 546",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 214,
+    "sha256": "61be90c25687bae8f352635057a843537492b43865893b57887ef895e261d674",
+    "simhash": "1:c32f64187ad62499",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randy HOLKESVIG, petitioner,\nv.\nNORTH DAKOTA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of North Dakota denied."
+    ],
+    "corrections": "",
+    "head_matter": "Randy HOLKESVIG, petitioner,\nv.\nNORTH DAKOTA.\nNo. 12-1413.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 828 N.W.2d 546.\nPetition for writ of certiorari to the Supreme Court of North Dakota denied."
+  },
+  "file_name": "0135-04",
+  "first_page_order": 135,
+  "last_page_order": 135
+}

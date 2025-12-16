@@ -1,0 +1,103 @@
+{
+  "id": 12580866,
+  "name": "Hakim Abdulah RASHID, aka Rodney Buchanan, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rashid v. United States",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20138121.",
+  "first_page": "1961",
+  "last_page": "1961",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1961"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 977"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1336",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701666,
+        12701656,
+        12578801,
+        12578802,
+        12578803,
+        12578804,
+        12578805,
+        12578806,
+        12701652,
+        12701653,
+        12701654,
+        12701655
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1222-16",
+        "/us/571/1222-05",
+        "/s-ct/134/1336-01",
+        "/s-ct/134/1336-02",
+        "/s-ct/134/1336-03",
+        "/s-ct/134/1336-04",
+        "/s-ct/134/1336-05",
+        "/s-ct/134/1336-06",
+        "/us/571/1222-01",
+        "/us/571/1222-02",
+        "/us/571/1222-03",
+        "/us/571/1222-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 202,
+    "sha256": "44cc30c18b25935ec53352fa1a5fae48c27c4faaba195a5b7543820ee7f56601",
+    "simhash": "1:123d26c221c7dc16",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hakim Abdulah RASHID, aka Rodney Buchanan, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Hakim Abdulah RASHID, aka Rodney Buchanan, petitioner,\nv.\nUNITED STATES.\nNo. 13-8121.\nSupreme Court of the United States\nApril 28, 2014.\nFormer decision, 134 S.Ct. 1336.\nPetition for rehearing denied."
+  },
+  "file_name": "1961-01",
+  "first_page_order": 1961,
+  "last_page_order": 1961
+}

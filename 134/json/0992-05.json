@@ -1,0 +1,103 @@
+{
+  "id": 12586605,
+  "name": "Brenda PARKER, petitioner, v. DEPARTMENT OF BEHAVIORAL HEALTH, et al.",
+  "name_abbreviation": "Parker v. Dep't of Behavioral Health",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20135591.",
+  "first_page": "992",
+  "last_page": "992",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 992"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 841"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 314",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703776,
+        12703777,
+        12583206,
+        12583207,
+        12583208,
+        12583209,
+        12583210,
+        12583211,
+        12703247,
+        12703248,
+        12703249,
+        12703775
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0923-11",
+        "/us/571/0923-12",
+        "/s-ct/134/0314-01",
+        "/s-ct/134/0314-02",
+        "/s-ct/134/0314-03",
+        "/s-ct/134/0314-04",
+        "/s-ct/134/0314-05",
+        "/s-ct/134/0314-06",
+        "/us/571/0888-06",
+        "/us/571/0888-07",
+        "/us/571/0888-08",
+        "/us/571/0923-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 197,
+    "sha256": "acb588f98ed5414d8d292e5e571f72b0b4070247dff149c25106688c30d81ab8",
+    "simhash": "1:60341c4c169057c0",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brenda PARKER, petitioner,\nv.\nDEPARTMENT OF BEHAVIORAL HEALTH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brenda PARKER, petitioner,\nv.\nDEPARTMENT OF BEHAVIORAL HEALTH, et al.\nNo. 13-5591.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 314.\nPetition for rehearing denied."
+  },
+  "file_name": "0992-05",
+  "first_page_order": 992,
+  "last_page_order": 992
+}

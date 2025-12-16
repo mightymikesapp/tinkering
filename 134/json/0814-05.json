@@ -1,0 +1,103 @@
+{
+  "id": 12585726,
+  "name": "Timothy SNEED, petitioner, v. FLORIDA DEPARTMENT OF CORRECTIONS.",
+  "name_abbreviation": "Sneed v. Fla. Dep't of Corr.",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 12\u201310499.",
+  "first_page": "814",
+  "last_page": "814",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 814"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 615"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 391",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702656,
+        12583719,
+        12583720,
+        12583721,
+        12583722,
+        12583723,
+        12583724,
+        12702762,
+        12702702,
+        12702672,
+        12702777,
+        12702747
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0848-06",
+        "/s-ct/134/0391-01",
+        "/s-ct/134/0391-02",
+        "/s-ct/134/0391-03",
+        "/s-ct/134/0391-04",
+        "/s-ct/134/0391-05",
+        "/s-ct/134/0391-06",
+        "/us/571/0855-06",
+        "/us/571/0851-06",
+        "/us/571/0849-07",
+        "/us/571/0856-06",
+        "/us/571/0854-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 191,
+    "sha256": "85f5054c1c2927a22aa89b2769e965a227de8479e0e6e36d7f11a551ad98823d",
+    "simhash": "1:2268341097c7c727",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Timothy SNEED, petitioner,\nv.\nFLORIDA DEPARTMENT OF CORRECTIONS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Timothy SNEED, petitioner,\nv.\nFLORIDA DEPARTMENT OF CORRECTIONS.\nNo. 12-10499.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 391\nPetition for rehearing denied."
+  },
+  "file_name": "0814-05",
+  "first_page_order": 814,
+  "last_page_order": 814
+}

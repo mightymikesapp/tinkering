@@ -1,0 +1,103 @@
+{
+  "id": 12585476,
+  "name": "In re Derrick Anthony POLLY, petitioner.",
+  "name_abbreviation": "In re Polly",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20135748.",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 588"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 333",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702176,
+        12583336,
+        12583337,
+        12583338,
+        12583339,
+        12583340,
+        12583341,
+        12703865,
+        12703866,
+        12703867,
+        12703868,
+        12703869
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0814-08",
+        "/s-ct/134/0333-01",
+        "/s-ct/134/0333-02",
+        "/s-ct/134/0333-03",
+        "/s-ct/134/0333-04",
+        "/s-ct/134/0333-05",
+        "/s-ct/134/0333-06",
+        "/us/571/0929-09",
+        "/us/571/0929-10",
+        "/us/571/0929-11",
+        "/us/571/0929-12",
+        "/us/571/0929-13"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 166,
+    "sha256": "9e99dc4dd82c4df0a298a57dd66f24bdb4762cd6d4698e48d93e871f30c1162e",
+    "simhash": "1:7abb54433f01c38e",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Derrick Anthony POLLY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Derrick Anthony POLLY, petitioner.\nNo. 13-5748.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 333\nPetition for rehearing denied."
+  },
+  "file_name": "0732-05",
+  "first_page_order": 732,
+  "last_page_order": 732
+}

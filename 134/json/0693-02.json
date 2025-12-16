@@ -1,0 +1,75 @@
+{
+  "id": 12585200,
+  "name": "Thomas E. WOODS, petitioner, v. Michael WENEROWICZ, Superintendent, State Correctional Institution at Graterford, et al.",
+  "name_abbreviation": "Woods v. Wenerowicz",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136521.",
+  "first_page": "693",
+  "last_page": "693",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 693"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 560"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Fed.Appx. 225",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 315,
+    "sha256": "351ecad34ea184c8a07b31344d6162385ddeb957012a74e84a3796ba97ae73fd",
+    "simhash": "1:21255244394940ab",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas E. WOODS, petitioner,\nv.\nMichael WENEROWICZ, Superintendent, State Correctional Institution at Graterford, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas E. WOODS, petitioner,\nv.\nMichael WENEROWICZ, Superintendent, State Correctional Institution at Graterford, et al.\nNo. 13-6521.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 514 Fed.Appx. 225.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0693-02",
+  "first_page_order": 693,
+  "last_page_order": 693
+}

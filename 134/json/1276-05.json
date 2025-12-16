@@ -1,0 +1,75 @@
+{
+  "id": 12578413,
+  "name": "Allen MORTON, et ux., petitioners, v. U.S. BANK, N.A.",
+  "name_abbreviation": "Morton v. U.S. Bank, N.A.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013411.",
+  "first_page": "1276",
+  "last_page": "1276",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1276"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 297"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "504 Fed.Appx. 30",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 286,
+    "sha256": "a576badba5052030499e95b97dd80be42f6e663bd5d538b4710f74a89ace5a5e",
+    "simhash": "1:31b654c4ff24c1ad",
+    "word_count": 49
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen MORTON, et ux., petitioners,\nv.\nU.S. BANK, N.A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Allen MORTON, et ux., petitioners,\nv.\nU.S. BANK, N.A.\nNo. 13-411.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, U.S. Bank, N.A. v. Squadron VCD, LLC, 504 Fed.Appx. 30.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1276-05",
+  "first_page_order": 1276,
+  "last_page_order": 1276
+}

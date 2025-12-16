@@ -1,0 +1,75 @@
+{
+  "id": 12580263,
+  "name": "Nathaniel SINGLETON, petitioner, v. Mildred L. RIVERA, Warden, et al.",
+  "name_abbreviation": "Singleton v. Rivera",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310858.",
+  "first_page": "186",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 186"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 127"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "489 Fed.Appx. 727",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 266,
+    "sha256": "784abf2aa7407ee0c1e1437f03c84b53d44e3e6ae7a925f027b0303dec4cafbb",
+    "simhash": "1:f36f8885bac1859f",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nathaniel SINGLETON, petitioner,\nv.\nMildred L. RIVERA, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nathaniel SINGLETON, petitioner,\nv.\nMildred L. RIVERA, Warden, et al.\nNo. 12-10858.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 489 Fed.Appx. 727.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0186-04",
+  "first_page_order": 186,
+  "last_page_order": 186
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583952,
+  "name": "Alfred PETROSSIAN, petitioner, v. Jerry S. COLLINS, et al.",
+  "name_abbreviation": "Petrossian v. Collins",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135982.",
+  "first_page": "443",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 443"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 296"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "523 Fed.Appx. 861",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 254,
+    "sha256": "0e7817729845d7370493f9564f5b4288ffe2bea9126a90fcc5468ef85634470f",
+    "simhash": "1:e2ade688385186ad",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alfred PETROSSIAN, petitioner,\nv.\nJerry S. COLLINS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alfred PETROSSIAN, petitioner,\nv.\nJerry S. COLLINS, et al.\nNo. 13-5982.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 523 Fed.Appx. 861.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0443-02",
+  "first_page_order": 443,
+  "last_page_order": 443
+}

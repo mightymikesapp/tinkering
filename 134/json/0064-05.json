@@ -1,0 +1,75 @@
+{
+  "id": 12584914,
+  "name": "NEW MEXICO, petitioner, v. Arnoldo NAVARETTE.",
+  "name_abbreviation": "Mexico v. Navarette",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131256.",
+  "first_page": "64",
+  "last_page": "64",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 64"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 254"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "294 P.3d 435",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 279,
+    "sha256": "59730f74bfc7cd7a267aba8e4768bc2b9855ce4536907eb8b1e4094903be6594",
+    "simhash": "1:4aad745c39e2a71e",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NEW MEXICO, petitioner,\nv.\nArnoldo NAVARETTE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the Supreme Court of New Mexico denied."
+    ],
+    "corrections": "",
+    "head_matter": "NEW MEXICO, petitioner,\nv.\nArnoldo NAVARETTE.\nNo. 12-1256.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 294 P.3d 435.\nMotion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the Supreme Court of New Mexico denied."
+  },
+  "file_name": "0064-05",
+  "first_page_order": 64,
+  "last_page_order": 64
+}

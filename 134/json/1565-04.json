@@ -1,0 +1,85 @@
+{
+  "id": 12579640,
+  "name": "Vicki Dillard CROWE, aka Vicki R. Dillard, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Crowe v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138717.",
+  "first_page": "1565",
+  "last_page": "1565",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1565"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 575"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "735 F.3d 1229",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3722000
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/735/1229-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 265,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632755809315524
+    },
+    "sha256": "2dd62edfa60d11b276e50ca6ab0b722028ac039207799c67ba6bc15c7ea6dd4c",
+    "simhash": "1:21edc6461944c419",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Vicki Dillard CROWE, aka Vicki R. Dillard, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Vicki Dillard CROWE, aka Vicki R. Dillard, petitioner,\nv.\nUNITED STATES.\nNo. 13-8717.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 735 F.3d 1229.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1565-04",
+  "first_page_order": 1565,
+  "last_page_order": 1565
+}

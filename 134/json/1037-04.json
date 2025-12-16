@@ -1,0 +1,85 @@
+{
+  "id": 12578108,
+  "name": "Antonio FIGUEROA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Figueroa v. United States",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137715.",
+  "first_page": "1037",
+  "last_page": "1037",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1037"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 130"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "729 F.3d 267",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3700976
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/729/0267-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632234543403882
+    },
+    "sha256": "1ef93d2dcc669362b0f0ef408e8f91087f4b4e4d9f4470d172ecb49bf4eb7a80",
+    "simhash": "1:fcaff6042b0fd28d",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio FIGUEROA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio FIGUEROA, petitioner,\nv.\nUNITED STATES.\nNo. 13-7715.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 729 F.3d 267.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1037-04",
+  "first_page_order": 1037,
+  "last_page_order": 1037
+}

@@ -1,0 +1,93 @@
+{
+  "id": 12584196,
+  "name": "In Re Robert HEXIMER, petitioner.",
+  "name_abbreviation": "In re Heximer",
+  "decision_date": "2013-08-30",
+  "docket_number": "No. 12\u20139595.",
+  "first_page": "47",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 47"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 960"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2048",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697839,
+        12697841,
+        12697842,
+        12697849,
+        12697850,
+        12697851,
+        12697852
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0956-06",
+        "/us/569/0957-01",
+        "/us/569/0957-02",
+        "/us/569/0957-10",
+        "/us/569/0957-11",
+        "/us/569/0957-12",
+        "/us/569/0957-13"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 184,
+    "sha256": "7d0f2f36d72e86e2f0c90381e6fd80c36731f5923a0332f880a8b4567029a7e4",
+    "simhash": "1:f32f54131edbc35e",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Robert HEXIMER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Robert HEXIMER, petitioner.\nNo. 12-9595.\nSupreme Court of the United States\nAug. 30, 2013.\nCase below, 133 S.Ct. 2048.\nMotion for leave to file a petition for rehearing denied."
+  },
+  "file_name": "0047-06",
+  "first_page_order": 47,
+  "last_page_order": 47
+}

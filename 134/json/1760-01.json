@@ -1,0 +1,85 @@
+{
+  "id": 12579893,
+  "name": "Jose E. CARRION, petitioner, v. AGFA CONSTRUCTION, INC.",
+  "name_abbreviation": "Carrion v. Agfa Constr., Inc.",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u2013689.",
+  "first_page": "1760",
+  "last_page": "1760",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1760"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 593"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "720 F.3d 382",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4057006
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/720/0382-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 247,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26328368951240017
+    },
+    "sha256": "7151801998ffe5ea97cbc442dbb6b8d2f4fa149cd8522810b5872334ee67285e",
+    "simhash": "1:926de6557b0102a7",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose E. CARRION, petitioner,\nv.\nAGFA CONSTRUCTION, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose E. CARRION, petitioner,\nv.\nAGFA CONSTRUCTION, INC.\nNo. 13-689.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 720 F.3d 382.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1760-01",
+  "first_page_order": 1760,
+  "last_page_order": 1760
+}

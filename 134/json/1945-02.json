@@ -1,0 +1,75 @@
+{
+  "id": 12580760,
+  "name": "Michael E. RICK, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Rick v. Louisiana",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20138787.",
+  "first_page": "1945",
+  "last_page": "1945",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1945"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 968"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 1791839",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 229,
+    "sha256": "2dd4ad2c1ae9da0091c98f95a541a04e56e8e31badc8936a4de4a34205173bce",
+    "simhash": "1:e0a6e6c6aac77091",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael E. RICK, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of Louisiana, First Circuit, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael E. RICK, petitioner,\nv.\nLOUISIANA.\nNo. 13-8787.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 2013 WL 1791839.\nPetition for writ of certiorari to the Court of Appeal of Louisiana, First Circuit, denied."
+  },
+  "file_name": "1945-02",
+  "first_page_order": 1945,
+  "last_page_order": 1945
+}

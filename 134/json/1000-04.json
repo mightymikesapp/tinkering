@@ -1,0 +1,85 @@
+{
+  "id": 12577868,
+  "name": "Jose Alberto PEREZ-GUERRERO, petitioner, v. Eric H. HOLDER, Jr., Attorney General.",
+  "name_abbreviation": "Perez-Guerrero v. Holder",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u2013323.",
+  "first_page": "1000",
+  "last_page": "1000",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1000"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 850"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "717 F.3d 1224",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3575265
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/717/1224-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 276,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26321495963664293
+    },
+    "sha256": "ea874e7a40ab8a1b97956b52d44fbae0d948a7b584d844677af0dc32024b5c56",
+    "simhash": "1:70ef76c45f83c1d9",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Alberto PEREZ-GUERRERO, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Alberto PEREZ-GUERRERO, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General.\nNo. 13-323.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 717 F.3d 1224.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1000-04",
+  "first_page_order": 1000,
+  "last_page_order": 1000
+}

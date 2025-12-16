@@ -1,0 +1,75 @@
+{
+  "id": 12585280,
+  "name": "Garry Victor FRASIER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Frasier v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136968.",
+  "first_page": "705",
+  "last_page": "705",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 705"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 567"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Fed.Appx. 799",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 249,
+    "sha256": "dc3c9f1aa58460f33970fe8ec70295ae542cfd96dda769e6e89e595597b99fb5",
+    "simhash": "1:00c476443b07409b",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Garry Victor FRASIER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Garry Victor FRASIER, petitioner,\nv.\nUNITED STATES.\nNo. 13-6968.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 516 Fed.Appx. 799.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0705-03",
+  "first_page_order": 705,
+  "last_page_order": 705
+}

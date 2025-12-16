@@ -1,0 +1,75 @@
+{
+  "id": 12579573,
+  "name": "Kenneth J. MOUTON, petitioner, v. LOUISIANA, et al.",
+  "name_abbreviation": "Mouton v. Louisiana",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138447.",
+  "first_page": "1555",
+  "last_page": "1555",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1555"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 570"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "544 Fed.Appx. 513",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 248,
+    "sha256": "aa009c081b460a40e6f1035e83b82656371aa2d5d0c08ff9b113e69035d5136c",
+    "simhash": "1:b0aff6dcba85535f",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth J. MOUTON, petitioner,\nv.\nLOUISIANA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenneth J. MOUTON, petitioner,\nv.\nLOUISIANA, et al.\nNo. 13-8447.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 544 Fed.Appx. 513.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1555-05",
+  "first_page_order": 1555,
+  "last_page_order": 1555
+}

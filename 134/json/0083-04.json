@@ -1,0 +1,85 @@
+{
+  "id": 12585906,
+  "name": "Ireneo RECINTO, et al., petitioners, v. Eric K. SHINSEKI, Secretary of Veterans Affairs, et al.",
+  "name_abbreviation": "Recinto v. Shinseki",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131329.",
+  "first_page": "83",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 83"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 31"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "706 F.3d 1171",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3662442
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/706/1171-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 286,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634844734191067
+    },
+    "sha256": "3858d52fc1cdba908ff87c25d2a912f91997ead57307db44d57dfa1635c88b1e",
+    "simhash": "1:eb2fe6489da51782",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ireneo RECINTO, et al., petitioners,\nv.\nEric K. SHINSEKI, Secretary of Veterans Affairs, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ireneo RECINTO, et al., petitioners,\nv.\nEric K. SHINSEKI, Secretary of Veterans Affairs, et al.\nNo. 12-1329.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 706 F.3d 1171.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0083-04",
+  "first_page_order": 83,
+  "last_page_order": 83
+}

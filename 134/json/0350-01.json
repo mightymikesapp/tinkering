@@ -1,0 +1,75 @@
+{
+  "id": 12583451,
+  "name": "Francis R. FERRI, petitioner, v. Kathleen KANE, Attorney General of Pennsylvania, et al.",
+  "name_abbreviation": "Ferri v. Kane",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135908.",
+  "first_page": "350",
+  "last_page": "350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 350"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 243"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "513 Fed.Appx. 124",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 283,
+    "sha256": "375a27a7c4599d91732131b49debfaf1451c106568b06ce32fbc658f4cf2c24b",
+    "simhash": "1:232e364c7b67c729",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Francis R. FERRI, petitioner,\nv.\nKathleen KANE, Attorney General of Pennsylvania, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Francis R. FERRI, petitioner,\nv.\nKathleen KANE, Attorney General of Pennsylvania, et al.\nNo. 13-5908.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 513 Fed.Appx. 124.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0350-01",
+  "first_page_order": 350,
+  "last_page_order": 350
+}

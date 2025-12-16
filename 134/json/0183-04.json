@@ -1,0 +1,75 @@
+{
+  "id": 12580241,
+  "name": "Byron NEAL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Neal v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310838.",
+  "first_page": "183",
+  "last_page": "183",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 183"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 125"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Fed.Appx. 302",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 237,
+    "sha256": "6d817f40190cf34d6e278c8ad5e8c112df71bbbca20c94b82ec63037e845e961",
+    "simhash": "1:e1af56457327c6bd",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Byron NEAL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Byron NEAL, petitioner,\nv.\nUNITED STATES.\nNo. 12-10838.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 509 Fed.Appx. 302.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0183-04",
+  "first_page_order": 183,
+  "last_page_order": 183
+}

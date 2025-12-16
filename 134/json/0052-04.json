@@ -1,0 +1,75 @@
+{
+  "id": 12584485,
+  "name": "Brian K. BARNER, petitioner, v. Troy WILLIAMSON, Warden, et al.",
+  "name_abbreviation": "Barner v. Williamson",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20138385.",
+  "first_page": "52",
+  "last_page": "52",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 52"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 47"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "461 Fed.Appx. 92",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 257,
+    "sha256": "3a5740149b19ff5f06167133130c55d8d517c0013fe09dbd6ad934b58f42de73",
+    "simhash": "1:43ae7c6e3bc19e2a",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian K. BARNER, petitioner,\nv.\nTroy WILLIAMSON, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian K. BARNER, petitioner,\nv.\nTroy WILLIAMSON, Warden, et al.\nNo. 12-8385.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 461 Fed.Appx. 92.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0052-04",
+  "first_page_order": 52,
+  "last_page_order": 52
+}

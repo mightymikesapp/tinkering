@@ -1,0 +1,85 @@
+{
+  "id": 12579476,
+  "name": "MOBILITY MEDICAL, INC., et al., petitioners, v. MISSISSIPPI DEPARTMENT OF REVENUE.",
+  "name_abbreviation": "Mobility Med., Inc. v. Miss. Dep't of Revenue",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u2013651.",
+  "first_page": "1541",
+  "last_page": "1541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1541"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 557"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "119 So.3d 1002",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7003508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/119/1002-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 251,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26326959602664096
+    },
+    "sha256": "bdc4a8bfadd75dfe29296d56f259a5bf3b584e96d3e2d0a8eb9d57d2ce2cf529",
+    "simhash": "1:e8ed66069ae16190",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MOBILITY MEDICAL, INC., et al., petitioners,\nv.\nMISSISSIPPI DEPARTMENT OF REVENUE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "MOBILITY MEDICAL, INC., et al., petitioners,\nv.\nMISSISSIPPI DEPARTMENT OF REVENUE.\nNo. 13-651.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 119 So.3d 1002.\nPetition for writ of certiorari to the Supreme Court of Mississippi denied."
+  },
+  "file_name": "1541-01",
+  "first_page_order": 1541,
+  "last_page_order": 1541
+}

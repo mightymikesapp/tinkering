@@ -1,0 +1,96 @@
+{
+  "id": 12583025,
+  "name": "ALABAMA DEPARTMENT OF REVENUE, et al., petitioners, v. CSX TRANSPORTATION, INC.",
+  "name_abbreviation": "Ala. Dep't of Revenue v. CSX Transp., Inc.",
+  "decision_date": "2014-07-01",
+  "docket_number": "No. 13\u2013553.",
+  "first_page": "2900",
+  "last_page": "2900",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2900"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 854"
+    },
+    {
+      "type": "vendor",
+      "cite": "83 U.S.L.W. 3011"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "49 U.S.C. \u00a7 11501",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(4)"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "720 F.3d 863",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4057791
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/720/0863-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 612,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26339585821412753
+    },
+    "sha256": "73085f8cbec698db4b64e778d4c031dc78eeb0c6c52d93eff8d355f352f955df",
+    "simhash": "1:dd64f4845f46840b",
+    "word_count": 100
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ALABAMA DEPARTMENT OF REVENUE, et al., petitioners,\nv.\nCSX TRANSPORTATION, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit granted. In addition to the question presented by the petition, the parties are directed to brief and argue the following question: Whether, in resolving a claim of unlawful tax discrimination under 49 U.S.C. \u00a7 11501(b)(4), a court should consider other aspects of the State's tax scheme rather than focusing solely on the challenged tax provision."
+    ],
+    "corrections": "",
+    "head_matter": "ALABAMA DEPARTMENT OF REVENUE, et al., petitioners,\nv.\nCSX TRANSPORTATION, INC.\nNo. 13-553.\nSupreme Court of the United States\nJuly 1, 2014.\nCase below, 720 F.3d 863.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit granted. In addition to the question presented by the petition, the parties are directed to brief and argue the following question: Whether, in resolving a claim of unlawful tax discrimination under 49 U.S.C. \u00a7 11501(b)(4), a court should consider other aspects of the State's tax scheme rather than focusing solely on the challenged tax provision."
+  },
+  "file_name": "2900-02",
+  "first_page_order": 2900,
+  "last_page_order": 2900
+}

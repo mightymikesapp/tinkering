@@ -1,0 +1,75 @@
+{
+  "id": 12584155,
+  "name": "Anne M. PARR, petitioner, v. Stephen HULBERT, et al.",
+  "name_abbreviation": "Parr v. Hulbert",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u2013216.",
+  "first_page": "473",
+  "last_page": "473",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 473"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 318"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3233"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "518 Fed.Appx. 275",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 247,
+    "sha256": "35f76940ff4cd5bed301e8c588842e85fde418500039dd679bf2c338b3fcd315",
+    "simhash": "1:57aee6543ae503cb",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anne M. PARR, petitioner,\nv.\nStephen HULBERT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anne M. PARR, petitioner,\nv.\nStephen HULBERT, et al.\nNo. 13-216.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 518 Fed.Appx. 275.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0473-06",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12578062,
+  "name": "Greg SHRADER, petitioner, v. Earik BEANN, et al.",
+  "name_abbreviation": "Shrader v. Beann",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310326.",
+  "first_page": "102",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 102"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 75"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "503 Fed.Appx. 650",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 244,
+    "sha256": "ebc2b4ea095d70e4f38c25d1655976febccdcd25d70308727a8e74375a47149a",
+    "simhash": "1:12eef45e3bee8eab",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Greg SHRADER, petitioner,\nv.\nEarik BEANN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Greg SHRADER, petitioner,\nv.\nEarik BEANN, et al.\nNo. 12-10326.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 503 Fed.Appx. 650.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0102-06",
+  "first_page_order": 102,
+  "last_page_order": 102
+}

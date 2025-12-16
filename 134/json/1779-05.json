@@ -1,0 +1,75 @@
+{
+  "id": 12580014,
+  "name": "Kyjahre Hasan RILEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Riley v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138951.",
+  "first_page": "1779",
+  "last_page": "1779",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1779"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 607"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "542 Fed.Appx. 290",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "sha256": "4548b54715e17a673a29075756903dbc1ee8c29845c47e2eeb8ae571ed484145",
+    "simhash": "1:502e6244b5005415",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kyjahre Hasan RILEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kyjahre Hasan RILEY, petitioner,\nv.\nUNITED STATES.\nNo. 13-8951.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 542 Fed.Appx. 290.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1779-05",
+  "first_page_order": 1779,
+  "last_page_order": 1779
+}

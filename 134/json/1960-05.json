@@ -1,0 +1,103 @@
+{
+  "id": 12580865,
+  "name": "Michael MATTHEWS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Matthews v. United States",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20138044.",
+  "first_page": "1960",
+  "last_page": "1960",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1960"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 977"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1327",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701608,
+        12701617,
+        12701618,
+        12701619,
+        12578740,
+        12578741,
+        12578742,
+        12578743,
+        12578744,
+        12578745,
+        12701620,
+        12701621
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1219-01",
+        "/us/571/1219-11",
+        "/us/571/1219-12",
+        "/us/571/1219-13",
+        "/s-ct/134/1327-01",
+        "/s-ct/134/1327-02",
+        "/s-ct/134/1327-03",
+        "/s-ct/134/1327-04",
+        "/s-ct/134/1327-05",
+        "/s-ct/134/1327-06",
+        "/us/571/1219-14",
+        "/us/571/1219-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 176,
+    "sha256": "c0e6f5cd43a37aa18b102df95b7fcc9192ad3e201fc42c912dfe589bc368fd23",
+    "simhash": "1:603f36c600875619",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael MATTHEWS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael MATTHEWS, petitioner,\nv.\nUNITED STATES.\nNo. 13-8044.\nSupreme Court of the United States\nApril 28, 2014.\nFormer decision, 134 S.Ct. 1327\nPetition for rehearing denied."
+  },
+  "file_name": "1960-05",
+  "first_page_order": 1960,
+  "last_page_order": 1960
+}

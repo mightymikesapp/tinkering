@@ -1,0 +1,75 @@
+{
+  "id": 12578517,
+  "name": "Victor A. WHITTAKER, petitioner, v. MORGAN STATE UNIVERSITY, et al.",
+  "name_abbreviation": "Whittaker v. Morgan State Univ.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013695.",
+  "first_page": "1293",
+  "last_page": "1293",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1293"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 302"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Fed.Appx. 58",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 262,
+    "sha256": "b67233c0ffd24e7dad753899cf1d6a14446c0d88162de3fbdc3d77a7d9f1cee7",
+    "simhash": "1:392fc60efbb07127",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Victor A. WHITTAKER, petitioner,\nv.\nMORGAN STATE UNIVERSITY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Victor A. WHITTAKER, petitioner,\nv.\nMORGAN STATE UNIVERSITY, et al.\nNo. 13-695.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 524 Fed.Appx. 58.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1293-03",
+  "first_page_order": 1293,
+  "last_page_order": 1293
+}

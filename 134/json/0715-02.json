@@ -1,0 +1,75 @@
+{
+  "id": 12585347,
+  "name": "Prentis Trewayne ROBERTS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Roberts v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20137165.",
+  "first_page": "715",
+  "last_page": "715",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 715"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 574"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "501 Fed.Appx. 228",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 251,
+    "sha256": "0af9d90d1d015ddd67c59d15f4ebb345fe59cd74a7f6f55589984868b7db9075",
+    "simhash": "1:506dc00435454719",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Prentis Trewayne ROBERTS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Prentis Trewayne ROBERTS, petitioner,\nv.\nUNITED STATES.\nNo. 13-7165.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 501 Fed.Appx. 228.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0715-02",
+  "first_page_order": 715,
+  "last_page_order": 715
+}

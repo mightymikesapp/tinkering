@@ -1,0 +1,75 @@
+{
+  "id": 12582632,
+  "name": "John Thomas SHIPLEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Shipley v. United States",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20139231.",
+  "first_page": "2842",
+  "last_page": "2842",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2842"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 810"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "546 Fed.Appx. 450",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "7cf1213870ab6745bf24329aeda88e8f9ad31bce8b0f4b256962676db917e4a6",
+    "simhash": "1:d22d54453304461f",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Thomas SHIPLEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Thomas SHIPLEY, petitioner,\nv.\nUNITED STATES.\nNo. 13-9231.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 546 Fed.Appx. 450.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "2842-01",
+  "first_page_order": 2842,
+  "last_page_order": 2842
+}

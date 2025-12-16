@@ -1,0 +1,75 @@
+{
+  "id": 12578624,
+  "name": "William Thomas HUDSON, III, petitioner, v. WISCONSIN.",
+  "name_abbreviation": "Hudson v. Wisconsin",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310538.",
+  "first_page": "130",
+  "last_page": "130",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 130"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 91"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "822 N.W.2d 736",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 237,
+    "sha256": "56f3dcd3f99685378a0d73757e70ea2b24376618ec848bab742d05c5d4b458a4",
+    "simhash": "1:cb6fe65eb8d38279",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Thomas HUDSON, III, petitioner,\nv.\nWISCONSIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Wisconsin, District IV, denied."
+    ],
+    "corrections": "",
+    "head_matter": "William Thomas HUDSON, III, petitioner,\nv.\nWISCONSIN.\nNo. 12-10538.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 822 N.W.2d 736.\nPetition for writ of certiorari to the Court of Appeals of Wisconsin, District IV, denied."
+  },
+  "file_name": "0130-03",
+  "first_page_order": 130,
+  "last_page_order": 130
+}

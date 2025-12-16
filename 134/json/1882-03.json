@@ -1,0 +1,75 @@
+{
+  "id": 12580339,
+  "name": "Pedro SANCHEZ, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Sanchez v. Illinois",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138609.",
+  "first_page": "1882",
+  "last_page": "1882",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1882"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 920"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 4033811",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 226,
+    "sha256": "1b01d616fcc3c571bcf730ce01064e6858f7aab331a032781e189b56d9720533",
+    "simhash": "1:d0e752c41a010102",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro SANCHEZ, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Third District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro SANCHEZ, petitioner,\nv.\nILLINOIS.\nNo. 13-8609.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 2013 WL 4033811.\nPetition for writ of certiorari to the Appellate Court of Illinois, Third District, denied."
+  },
+  "file_name": "1882-03",
+  "first_page_order": 1882,
+  "last_page_order": 1882
+}

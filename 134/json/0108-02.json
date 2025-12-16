@@ -1,0 +1,75 @@
+{
+  "id": 12578265,
+  "name": "Thurman Leroy SPENCER, petitioner, v. CALIFORNIA, et al.",
+  "name_abbreviation": "Spencer v. California",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310379.",
+  "first_page": "108",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 108"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 79"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Fed.Appx. 682",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 252,
+    "sha256": "aa0e74d6dca8da42e9ecaf767fc3361ff3433fe649465f60029a68297b49e990",
+    "simhash": "1:f1adf609bfc48faf",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thurman Leroy SPENCER, petitioner,\nv.\nCALIFORNIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thurman Leroy SPENCER, petitioner,\nv.\nCALIFORNIA, et al.\nNo. 12-10379.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 512 Fed.Appx. 682.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0108-02",
+  "first_page_order": 108,
+  "last_page_order": 108
+}

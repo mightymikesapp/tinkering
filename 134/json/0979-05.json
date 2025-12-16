@@ -1,0 +1,75 @@
+{
+  "id": 12586514,
+  "name": "Bernard TALBERT, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Talbert v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137762.",
+  "first_page": "979",
+  "last_page": "979",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 979"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 832"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "537 Fed.Appx. 496",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 242,
+    "sha256": "6b12173ee4478c5f59f0d0bcea0bf51b2deb23e8b0ed53d8d0005b49b81129f8",
+    "simhash": "1:cbef5444358d5685",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bernard TALBERT, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bernard TALBERT, petitioner,\nv.\nUNITED STATES.\nNo. 13-7762.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 537 Fed.Appx. 496.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0979-05",
+  "first_page_order": 979,
+  "last_page_order": 979
+}

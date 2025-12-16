@@ -1,0 +1,75 @@
+{
+  "id": 12581929,
+  "name": "Christopher CAIN, petitioner, v. Henry PONTON, Warden.",
+  "name_abbreviation": "Cain v. Ponton",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20131243.",
+  "first_page": "2678",
+  "last_page": "2678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2678"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 211"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3685"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "545 Fed.Appx. 222",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 250,
+    "sha256": "4bbfae794e8d68a7ee973fbd1d806178861cfc44d4b86d6e7bcfdc551eeccf13",
+    "simhash": "1:927fd6c458289707",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher CAIN, petitioner,\nv.\nHenry PONTON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher CAIN, petitioner,\nv.\nHenry PONTON, Warden.\nNo. 13-1243.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 545 Fed.Appx. 222.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2678-05",
+  "first_page_order": 2678,
+  "last_page_order": 2678
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12580467,
+  "name": "Tommie DUNN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Dunn v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139094.",
+  "first_page": "1902",
+  "last_page": "1902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1902"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 932"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "549 Fed.Appx. 397",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "sha256": "20798995f2f1cdaabe5070bdb8af99f0a144f55f2d469d5e7b8e5f777ca44b43",
+    "simhash": "1:616d74041b06d735",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tommie DUNN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tommie DUNN, petitioner,\nv.\nUNITED STATES.\nNo. 13-9094.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 549 Fed.Appx. 397.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1902-02",
+  "first_page_order": 1902,
+  "last_page_order": 1902
+}

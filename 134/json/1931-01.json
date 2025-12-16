@@ -1,0 +1,103 @@
+{
+  "id": 12580668,
+  "name": "Amber YBARRA, petitioner, v. ARKANSAS.",
+  "name_abbreviation": "Ybarra v. Arkansas",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137863.",
+  "first_page": "1931",
+  "last_page": "1931",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1931"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 953"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1306",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701540,
+        12701541,
+        12578598,
+        12578599,
+        12578600,
+        12578601,
+        12578602,
+        12578603,
+        12701542,
+        12701523,
+        12701524,
+        12701535
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1214-06",
+        "/us/571/1214-07",
+        "/s-ct/134/1306-01",
+        "/s-ct/134/1306-02",
+        "/s-ct/134/1306-03",
+        "/s-ct/134/1306-04",
+        "/s-ct/134/1306-05",
+        "/s-ct/134/1306-06",
+        "/us/571/1214-08",
+        "/us/571/1213-02",
+        "/us/571/1213-03",
+        "/us/571/1214-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 168,
+    "sha256": "959a172fe2f525ee9fb4ee7df282a87408c6887b3df2700b1fba272ab0b6483f",
+    "simhash": "1:e2af2e0e348775ce",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Amber YBARRA, petitioner,\nv.\nARKANSAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Amber YBARRA, petitioner,\nv.\nARKANSAS.\nNo. 13-7863.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1306.\nPetition for rehearing denied."
+  },
+  "file_name": "1931-01",
+  "first_page_order": 1931,
+  "last_page_order": 1931
+}

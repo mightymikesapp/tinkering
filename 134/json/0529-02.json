@@ -1,0 +1,71 @@
+{
+  "id": 12584477,
+  "name": "Permon THOMAS, petitioner, v. Julio POVEDA, et al.",
+  "name_abbreviation": "Thomas v. Poveda",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136334.",
+  "first_page": "529",
+  "last_page": "529",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 529"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "518 Fed.Appx. 614",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 248,
+    "sha256": "e302a69ed3ad863ab59f82aa759a509b0708845136f4ed85b331511ae47af546",
+    "simhash": "1:7366c2c61bc992f3",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Permon THOMAS, petitioner,\nv.\nJulio POVEDA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Permon THOMAS, petitioner,\nv.\nJulio POVEDA, et al.\nNo. 13-6334.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 518 Fed.Appx. 614.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0529-02",
+  "first_page_order": 529,
+  "last_page_order": 529
+}

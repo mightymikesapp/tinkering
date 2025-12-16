@@ -1,0 +1,75 @@
+{
+  "id": 12579199,
+  "name": "Thracy Robin PARKS, petitioner, v. MARYLAND.",
+  "name_abbreviation": "Parks v. Maryland",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20138109.",
+  "first_page": "1498",
+  "last_page": "1498",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1498"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 381"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "212 Md.App. 784",
+      "category": "reporters:state",
+      "reporter": "Md. App.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 222,
+    "sha256": "3897bb38019a10cd723147b19465d765a83c32e16748466006654eba9a53088c",
+    "simhash": "1:d2ef4457628b3191",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thracy Robin PARKS, petitioner,\nv.\nMARYLAND."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Special Appeals of Maryland denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thracy Robin PARKS, petitioner,\nv.\nMARYLAND.\nNo. 13-8109.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 212 Md.App. 784.\nPetition for writ of certiorari to the Court of Special Appeals of Maryland denied."
+  },
+  "file_name": "1498-02",
+  "first_page_order": 1498,
+  "last_page_order": 1498
+}

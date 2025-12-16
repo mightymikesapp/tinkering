@@ -1,0 +1,85 @@
+{
+  "id": 12578949,
+  "name": "Jafari T. MOORE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Moore v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138383.",
+  "first_page": "1358",
+  "last_page": "1358",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1358"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 358"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "733 F.3d 171",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3714974
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/733/0171-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26325357192639415
+    },
+    "sha256": "c41869392055d38b32642bac3310e4f028f0fd18b78a20e484e8619bac1e143e",
+    "simhash": "1:f0ed44469a24d305",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jafari T. MOORE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jafari T. MOORE, petitioner,\nv.\nUNITED STATES.\nNo. 13-8383.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 733 F.3d 171.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1358-04",
+  "first_page_order": 1358,
+  "last_page_order": 1358
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583478,
+  "name": "Theophile J. TAKEN ALIVE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Alive v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135956.",
+  "first_page": "354",
+  "last_page": "354",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 354"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 246"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "507 Fed.Appx. 609",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 251,
+    "sha256": "af296791bf5c062674933d604c60839963cb1b6c674329503498db40d86bf3d0",
+    "simhash": "1:794de2444b0f97b1",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Theophile J. TAKEN ALIVE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Theophile J. TAKEN ALIVE, petitioner,\nv.\nUNITED STATES.\nNo. 13-5956.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 507 Fed.Appx. 609.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0354-04",
+  "first_page_order": 354,
+  "last_page_order": 354
+}

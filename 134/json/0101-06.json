@@ -1,0 +1,86 @@
+{
+  "id": 12577997,
+  "name": "Michael James HAYWARD, petitioner, v. Jeff PREMO, Superintendent, Oregon State Penitentiary.",
+  "name_abbreviation": "Hayward v. Premo",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310316.",
+  "first_page": "101",
+  "last_page": "101",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 101"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 75"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "248 Or.App. 141",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        4217926
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/or-app/248/0141-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 274,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26321920698851553
+    },
+    "sha256": "32122dd817f878dba776a5cfc3479a2dff25a14d2a81984e878af609cbd2db61",
+    "simhash": "1:206f544753c789ac",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael James HAYWARD, petitioner,\nv.\nJeff PREMO, Superintendent, Oregon State Penitentiary."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Oregon denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael James HAYWARD, petitioner,\nv.\nJeff PREMO, Superintendent, Oregon State Penitentiary.\nNo. 12-10316.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 248 Or.App. 141, 273 P.3d 926.\nPetition for writ of certiorari to the Court of Appeals of Oregon denied."
+  },
+  "file_name": "0101-06",
+  "first_page_order": 101,
+  "last_page_order": 101
+}

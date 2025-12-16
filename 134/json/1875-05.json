@@ -1,0 +1,93 @@
+{
+  "id": 12580298,
+  "name": "Julius GREER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Greer v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137916.",
+  "first_page": "1875",
+  "last_page": "1875",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1875"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 905"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3608"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2151",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699057
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/570/0099-01"
+      ]
+    },
+    {
+      "cite": "527 Fed.Appx. 225",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 556,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26329778299815937
+    },
+    "sha256": "bc39c0da0eb7777cb4933d37b3c767d1aa5f8e8d89b620ba1e7289437bd9b9a3",
+    "simhash": "1:652572c42d221719",
+    "word_count": 91
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Julius GREER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of Alleyne v. United States, 570 U.S. ----, 133 S.Ct. 2151, 186 L.Ed.2d 314 (2013)."
+    ],
+    "corrections": "",
+    "head_matter": "Julius GREER, petitioner,\nv.\nUNITED STATES.\nNo. 13-7916.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 527 Fed.Appx. 225.\nOn petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of Alleyne v. United States, 570 U.S. ----, 133 S.Ct. 2151, 186 L.Ed.2d 314 (2013)."
+  },
+  "file_name": "1875-05",
+  "first_page_order": 1875,
+  "last_page_order": 1875
+}

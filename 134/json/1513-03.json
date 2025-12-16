@@ -1,0 +1,81 @@
+{
+  "id": 12579300,
+  "name": "The FALLS CHURCH, aka The Church at the Falls-The Falls Church, petitioner, v. The PROTESTANT EPISCOPAL CHURCH IN THE UNITED STATES of America, et al.",
+  "name_abbreviation": "Falls Church v. Protestant Episcopal Church in the United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u2013449.",
+  "first_page": "1513",
+  "last_page": "1513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1513"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 449"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "740 S.E.2d 530",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "285 Va. 651",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 329,
+    "sha256": "9d8ca5fb8bf6a0f922c6d21be64dc8bd5a1c8f7c870bb70907609fd9af6645df",
+    "simhash": "1:6227142426958882",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The FALLS CHURCH, aka The Church at the Falls-The Falls Church, petitioner,\nv.\nThe PROTESTANT EPISCOPAL CHURCH IN THE UNITED STATES of America, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "The FALLS CHURCH, aka The Church at the Falls-The Falls Church, petitioner,\nv.\nThe PROTESTANT EPISCOPAL CHURCH IN THE UNITED STATES of America, et al.\nNo. 13-449.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 285 Va. 651, 740 S.E.2d 530.\nPetition for writ of certiorari to the Supreme Court of Virginia denied."
+  },
+  "file_name": "1513-03",
+  "first_page_order": 1513,
+  "last_page_order": 1513
+}

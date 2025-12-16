@@ -1,0 +1,91 @@
+{
+  "id": 12584195,
+  "name": "Corine CARR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Carr v. United States",
+  "decision_date": "2013-08-30",
+  "docket_number": "No. 12\u20139567.",
+  "first_page": "47",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 47"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 960"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2775",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12696753,
+        12696754,
+        12696755,
+        12696764,
+        12696765,
+        12696766
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/1021-01",
+        "/us/569/1021-02",
+        "/us/569/1021-03",
+        "/us/569/1021-13",
+        "/us/569/1021-14",
+        "/us/569/1022-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 193,
+    "sha256": "06df875f9a110bae680dca84940c2921dbb1ddf79840c3578888cd68b1f89fb9",
+    "simhash": "1:f1ad540316ea631c",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Corine CARR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Corine CARR, petitioner,\nv.\nUNITED STATES.\nNo. 12-9567.\nSupreme Court of the United States\nAug. 30, 2013.\nCase below, 133 S.Ct. 2775.\nMotion for leave to file a petition for rehearing denied."
+  },
+  "file_name": "0047-05",
+  "first_page_order": 47,
+  "last_page_order": 47
+}

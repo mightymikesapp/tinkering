@@ -1,0 +1,75 @@
+{
+  "id": 12583460,
+  "name": "Kevin J. McCORMICK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "McCormick v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135928.",
+  "first_page": "351",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 351"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 244"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "517 Fed.Appx. 411",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "sha256": "b6a2065e14c8d53bec6c060fe2f8d6af533a6ee81d0d97a323ce5f5842ce5ab8",
+    "simhash": "1:39ad62c033a4d4b1",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin J. McCORMICK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin J. McCORMICK, petitioner,\nv.\nUNITED STATES.\nNo. 13-5928.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 517 Fed.Appx. 411.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0351-04",
+  "first_page_order": 351,
+  "last_page_order": 351
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12578795,
+  "name": "MONTANA, petitioner, v. Eric H. HOLDER, Jr., Attorney General.",
+  "name_abbreviation": "Montana v. Holder",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013805.",
+  "first_page": "1335",
+  "last_page": "1335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1335"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 308"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "727 F.3d 975",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4076464
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/727/0975-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632485523287265
+    },
+    "sha256": "0c031bd95156c08a1faec2e8e2df4596282e8d3511a4c49bfcab7a3edfec2815",
+    "simhash": "1:70e5f2408f844707",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MONTANA, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "MONTANA, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General.\nNo. 13-805.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 727 F.3d 975.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1335-01",
+  "first_page_order": 1335,
+  "last_page_order": 1335
+}

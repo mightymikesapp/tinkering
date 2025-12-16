@@ -1,0 +1,75 @@
+{
+  "id": 12585527,
+  "name": "Erick Daniel DAVILA, petitioner, v. TEXAS.",
+  "name_abbreviation": "Davila v. Texas",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20135583.",
+  "first_page": "784",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 784"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 597"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 1655549",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 217,
+    "sha256": "7f33244ce0c66960466c5569a6197ac96cb7d9959291ac450f4e044903ebfa33",
+    "simhash": "1:6b67e4d671e1048d",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Erick Daniel DAVILA, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Erick Daniel DAVILA, petitioner,\nv.\nTEXAS.\nNo. 13-5583.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 2013 WL 1655549.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0784-03",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

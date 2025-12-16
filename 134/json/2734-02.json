@@ -1,0 +1,85 @@
+{
+  "id": 12582310,
+  "name": "Lonnie MASSEY, aka Lonnie Gene Massey, aka Kenneth Ball, petitioner v. MISSISSIPPI.",
+  "name_abbreviation": "Massey v. Mississippi",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20139707.",
+  "first_page": "2734",
+  "last_page": "2734",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2734"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 772"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "131 So.3d 1213",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7282754
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/131/1213-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 254,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633690226727504
+    },
+    "sha256": "8bab328bc67fef05f188058bef903962f56495d92524b2e8f41787ca387a3fdf",
+    "simhash": "1:ffad141573c561fc",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lonnie MASSEY, aka Lonnie Gene Massey, aka Kenneth Ball, petitioner\nv.\nMISSISSIPPI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lonnie MASSEY, aka Lonnie Gene Massey, aka Kenneth Ball, petitioner\nv.\nMISSISSIPPI.\nNo. 13-9707.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 131 So.3d 1213.\nPetition for writ of certiorari to the Court of Appeals of Mississippi denied."
+  },
+  "file_name": "2734-02",
+  "first_page_order": 2734,
+  "last_page_order": 2734
+}

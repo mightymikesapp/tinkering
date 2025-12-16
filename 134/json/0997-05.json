@@ -1,0 +1,107 @@
+{
+  "id": 12586643,
+  "name": "In re Danielle BITON, petitioner.",
+  "name_abbreviation": "In re Biton",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136885.",
+  "first_page": "997",
+  "last_page": "997",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 997"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 846"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 661",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12584992,
+        12584993,
+        12584994,
+        12699420,
+        12699430,
+        12699431,
+        12699432,
+        12699433,
+        12699274,
+        12699421,
+        12584988,
+        12584989,
+        12584990,
+        12584991
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0661-05",
+        "/s-ct/134/0661-06",
+        "/s-ct/134/0661-07",
+        "/us/571/1033-01",
+        "/us/571/1033-12",
+        "/us/571/1033-13",
+        "/us/571/1033-14",
+        "/us/571/1033-15",
+        "/us/571/1023-03",
+        "/us/571/1033-02",
+        "/s-ct/134/0661-01",
+        "/s-ct/134/0661-02",
+        "/s-ct/134/0661-03",
+        "/s-ct/134/0661-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 161,
+    "sha256": "580cff46c087d0485fdd65581e29618fedbf87ed49bb7decf20a45af84216a49",
+    "simhash": "1:759f344632b257e0",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Danielle BITON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Danielle BITON, petitioner.\nNo. 13-6885.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 661.\nPetition for rehearing denied."
+  },
+  "file_name": "0997-05",
+  "first_page_order": 997,
+  "last_page_order": 997
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583122,
+  "name": "Robert RHODES, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Rhodes v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013117.",
+  "first_page": "301",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 301"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 154"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Fed.Appx. 703",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 246,
+    "sha256": "1ec65b63d0311d0d86c8cb0efad3de5fe56152462965a15998d4673c3a837ba2",
+    "simhash": "1:312fc6ce7fe40789",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert RHODES, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert RHODES, petitioner,\nv.\nUNITED STATES, et al.\nNo. 13-117.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 519 Fed.Appx. 703.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0301-07",
+  "first_page_order": 301,
+  "last_page_order": 302
+}

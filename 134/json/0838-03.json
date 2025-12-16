@@ -1,0 +1,103 @@
+{
+  "id": 12585890,
+  "name": "Oscar Henry BRANHAM, petitioner, v. Kameron HARVANEK, Warden.",
+  "name_abbreviation": "Branham v. Harvanek",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 12\u201310050.",
+  "first_page": "838",
+  "last_page": "838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 838"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 695"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 77",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702498,
+        12702179,
+        12702499,
+        12702500,
+        12702501,
+        12585519,
+        12585520,
+        12585521,
+        12585522,
+        12585523,
+        12585524,
+        12702011
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0837-08",
+        "/us/571/0814-18",
+        "/us/571/0837-09",
+        "/us/571/0837-10",
+        "/us/571/0837-11",
+        "/s-ct/134/0077-01",
+        "/s-ct/134/0077-02",
+        "/s-ct/134/0077-03",
+        "/s-ct/134/0077-04",
+        "/s-ct/134/0077-05",
+        "/s-ct/134/0077-06",
+        "/us/571/0802-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 188,
+    "sha256": "82ab1395e891159d9328678dd24753a1801a6a9a10ba77fa9e3607f0e59b2220",
+    "simhash": "1:413f1c4637895686",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oscar Henry BRANHAM, petitioner,\nv.\nKameron HARVANEK, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Oscar Henry BRANHAM, petitioner,\nv.\nKameron HARVANEK, Warden.\nNo. 12-10050.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 77\nPetition for rehearing denied."
+  },
+  "file_name": "0838-03",
+  "first_page_order": 838,
+  "last_page_order": 838
+}

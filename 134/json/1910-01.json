@@ -1,0 +1,85 @@
+{
+  "id": 12580521,
+  "name": "Terry Lee ADAMS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Adams v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139184.",
+  "first_page": "1910",
+  "last_page": "1910",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1910"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 937"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "739 F.3d 873",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4083404
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/739/0873-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633041540259683
+    },
+    "sha256": "d62c83996381d3d4f95f646ed56aa944c81945c21aa5e05208d4f403586252cc",
+    "simhash": "1:656d70063207da25",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terry Lee ADAMS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terry Lee ADAMS, petitioner,\nv.\nUNITED STATES.\nNo. 13-9184.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 739 F.3d 873.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1910-01",
+  "first_page_order": 1910,
+  "last_page_order": 1910
+}

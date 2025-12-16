@@ -1,0 +1,68 @@
+{
+  "id": 12582251,
+  "name": "James G. BLAKELY, petitioner, v. Robert WARDS, et al.",
+  "name_abbreviation": "Blakely v. Wards",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20138905.",
+  "first_page": "2725",
+  "last_page": "2725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2725"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 768"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 218,
+    "sha256": "67a048caacac5f6bc55676af52db3043c64665ed4e44d79ac2e782e5ae836e4c",
+    "simhash": "1:722f94043b811748",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James G. BLAKELY, petitioner,\nv.\nRobert WARDS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James G. BLAKELY, petitioner,\nv.\nRobert WARDS, et al.\nNo. 13-8905.\nSupreme Court of the United States\nJune 9, 2014.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2725-02",
+  "first_page_order": 2725,
+  "last_page_order": 2725
+}

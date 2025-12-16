@@ -1,0 +1,68 @@
+{
+  "id": 12578148,
+  "name": "In re Michael Paul PUZEY, petitioner.",
+  "name_abbreviation": "In re Puzey",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137908.",
+  "first_page": "1043",
+  "last_page": "1043",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1043"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 139"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "9d294c8ba1b250171054b128ac377f6859a973819ba6f3f101ec26f383b05b5e",
+    "simhash": "1:ecf34054f0111025",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Michael Paul PUZEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Michael Paul PUZEY, petitioner.\nNo. 13-7908.\nSupreme Court of the United States\nJan. 27, 2014.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1043-02",
+  "first_page_order": 1043,
+  "last_page_order": 1043
+}

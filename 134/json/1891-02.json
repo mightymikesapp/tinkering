@@ -1,0 +1,75 @@
+{
+  "id": 12580396,
+  "name": "Jason Evan BROWNE, petitioner, v. Renee BAKER, Warden, et al.",
+  "name_abbreviation": "Browne v. Baker",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138782.",
+  "first_page": "1891",
+  "last_page": "1891",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1891"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 925"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "545 Fed.Appx. 674",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 258,
+    "sha256": "ecc8cbff84e85506f04539dfde519f15514bc4a543c9a0b95d26fb4f6cd1fe34",
+    "simhash": "1:63adf6403b439707",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason Evan BROWNE, petitioner,\nv.\nRenee BAKER, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason Evan BROWNE, petitioner,\nv.\nRenee BAKER, Warden, et al.\nNo. 13-8782.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 545 Fed.Appx. 674.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1891-02",
+  "first_page_order": 1891,
+  "last_page_order": 1891
+}

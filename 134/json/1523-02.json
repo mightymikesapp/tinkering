@@ -1,0 +1,75 @@
+{
+  "id": 12579365,
+  "name": "Gary Owen KENDALL, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Kendall v. United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138402.",
+  "first_page": "1523",
+  "last_page": "1523",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1523"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 456"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "541 Fed.Appx. 781",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 252,
+    "sha256": "8f622ce692f037a7a0c4b92d12ed52e7b79e4b8e902e1a37fd3b2e1189331415",
+    "simhash": "1:22af76421c05571d",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary Owen KENDALL, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gary Owen KENDALL, petitioner,\nv.\nUNITED STATES, et al.\nNo. 13-8402.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 541 Fed.Appx. 781.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1523-02",
+  "first_page_order": 1523,
+  "last_page_order": 1523
+}

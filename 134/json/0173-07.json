@@ -1,0 +1,75 @@
+{
+  "id": 12579872,
+  "name": "Troy Alan LEWIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lewis v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310794.",
+  "first_page": "173",
+  "last_page": "174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 173"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 259"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "505 Fed.Appx. 1",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 332,
+    "sha256": "3bea15b0eadaaf8218b301af468d6b4b5d1db4103c8f3434b075e761fa6ae1c0",
+    "simhash": "1:99af724673c6961a",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Troy Alan LEWIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Troy Alan LEWIS, petitioner,\nv.\nUNITED STATES.\nNo. 12-10794.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 505 Fed.Appx. 1.\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "0173-07",
+  "first_page_order": 173,
+  "last_page_order": 174
+}

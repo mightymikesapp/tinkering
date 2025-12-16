@@ -1,0 +1,107 @@
+{
+  "id": 12580673,
+  "name": "Clayton E. BUTSCH, petitioner, v. Mike OBENLAND, Superintendent, Clallam Bay Corrections Center.",
+  "name_abbreviation": "Butsch v. Obenland",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138085.",
+  "first_page": "1931",
+  "last_page": "1931",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1931"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 953"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1332",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701638,
+        12701639,
+        12701640,
+        12701641,
+        12701648,
+        12701649,
+        12701650,
+        12578776,
+        12578777,
+        12578778,
+        12578779,
+        12578780,
+        12578781,
+        12578782
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1221-01",
+        "/us/571/1221-02",
+        "/us/571/1221-03",
+        "/us/571/1221-04",
+        "/us/571/1221-12",
+        "/us/571/1221-13",
+        "/us/571/1221-14",
+        "/s-ct/134/1332-01",
+        "/s-ct/134/1332-02",
+        "/s-ct/134/1332-03",
+        "/s-ct/134/1332-04",
+        "/s-ct/134/1332-05",
+        "/s-ct/134/1332-06",
+        "/s-ct/134/1332-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 226,
+    "sha256": "e7ef4838d6d60758a60fa82a375900fc384ddf376ed9c3a37ae4bce860d79e13",
+    "simhash": "1:733b224f1ec4fd03",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clayton E. BUTSCH, petitioner,\nv.\nMike OBENLAND, Superintendent, Clallam Bay Corrections Center."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Clayton E. BUTSCH, petitioner,\nv.\nMike OBENLAND, Superintendent, Clallam Bay Corrections Center.\nNo. 13-8085.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1332.\nPetition for rehearing denied."
+  },
+  "file_name": "1931-06",
+  "first_page_order": 1931,
+  "last_page_order": 1931
+}

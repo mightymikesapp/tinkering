@@ -1,0 +1,81 @@
+{
+  "id": 12585668,
+  "name": "Karol Ray McATEE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "McAtee v. United States",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20137260.",
+  "first_page": "805",
+  "last_page": "805",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 805"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 610"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 4029279",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "538 Fed.Appx. 414",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 259,
+    "sha256": "0d1588053458b396c5901786e77ea7bcc84888cdf95f97c2e9a5aaa89468607d",
+    "simhash": "1:37bd64e42727460d",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Karol Ray McATEE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Karol Ray McATEE, petitioner,\nv.\nUNITED STATES.\nNo. 13-7260.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 538 Fed.Appx. 414, 2013 WL 4029279.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0805-04",
+  "first_page_order": 805,
+  "last_page_order": 805
+}

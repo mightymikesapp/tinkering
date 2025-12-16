@@ -1,0 +1,97 @@
+{
+  "id": 12580753,
+  "name": "Bryan Maurice JONES, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Jones v. California",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20138767.",
+  "first_page": "1944",
+  "last_page": "1944",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1944"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 967"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "306 P.3d 1136",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "161 Cal.Rptr.3d 295",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "57 Cal.4th 899",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6053995
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-4th/57/0899-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633134209755086
+    },
+    "sha256": "83b914d9a7ddb1d6d82f36f842fe684d2884630a6402d85579ada418b53816dd",
+    "simhash": "1:7967340eea84825f",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bryan Maurice JONES, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bryan Maurice JONES, petitioner,\nv.\nCALIFORNIA.\nNo. 13-8767.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 57 Cal.4th 899, 161 Cal.Rptr.3d 295, 306 P.3d 1136.\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "1944-01",
+  "first_page_order": 1944,
+  "last_page_order": 1944
+}

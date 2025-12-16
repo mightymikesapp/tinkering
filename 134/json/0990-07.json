@@ -1,0 +1,103 @@
+{
+  "id": 12586592,
+  "name": "Roderick Olaf FONSECA, petitioner, v. Larry SMALL, Warden.",
+  "name_abbreviation": "Fonseca v. Small",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 12\u201310980.",
+  "first_page": "990",
+  "last_page": "990",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 990"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 839"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 208",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703117,
+        12703118,
+        12703119,
+        12703120,
+        12703121,
+        12580951,
+        12580952,
+        12580953,
+        12580954,
+        12580955,
+        12580956,
+        12704063
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0879-01",
+        "/us/571/0879-02",
+        "/us/571/0879-03",
+        "/us/571/0879-04",
+        "/us/571/0879-05",
+        "/s-ct/134/0208-01",
+        "/s-ct/134/0208-02",
+        "/s-ct/134/0208-03",
+        "/s-ct/134/0208-04",
+        "/s-ct/134/0208-05",
+        "/s-ct/134/0208-06",
+        "/us/571/0944-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 187,
+    "sha256": "5b6e5e94aed4c2800c617ea4a871513acdf396dd397c8aa6153e9a7418756943",
+    "simhash": "1:453f34c825c10380",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roderick Olaf FONSECA, petitioner,\nv.\nLarry SMALL, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roderick Olaf FONSECA, petitioner,\nv.\nLarry SMALL, Warden.\nNo. 12-10980.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 208.\nPetition for rehearing denied."
+  },
+  "file_name": "0990-07",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

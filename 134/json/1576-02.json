@@ -1,0 +1,99 @@
+{
+  "id": 12579712,
+  "name": "Timothy Andrew FUGIT, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Fugit v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 12\u201310591.",
+  "first_page": "1576",
+  "last_page": "1576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1576"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 583"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 999",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12586656,
+        12586657,
+        12700875,
+        12700879,
+        12700857,
+        12700858,
+        12700859,
+        12586653,
+        12586654,
+        12586655
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0999-04",
+        "/s-ct/134/0999-05",
+        "/us/571/1163-04",
+        "/us/571/1163-05",
+        "/us/571/1161-03",
+        "/us/571/1161-04",
+        "/us/571/1161-05",
+        "/s-ct/134/0999-01",
+        "/s-ct/134/0999-02",
+        "/s-ct/134/0999-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 181,
+    "sha256": "f289f7be673d2511cc8c45b193b49df9adcec75068f7a06b9e88a118cc651295",
+    "simhash": "1:e1ac3e46168ad61c",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Timothy Andrew FUGIT, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Timothy Andrew FUGIT, petitioner,\nv.\nUNITED STATES.\nNo. 12-10591.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 999.\nPetition for rehearing denied."
+  },
+  "file_name": "1576-02",
+  "first_page_order": 1576,
+  "last_page_order": 1576
+}

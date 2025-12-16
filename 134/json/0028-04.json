@@ -1,0 +1,91 @@
+{
+  "id": 12583020,
+  "name": "Mario A. WILLIAMS, petitioner, v. PEEL, et al.",
+  "name_abbreviation": "Williams v. Peel",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12\u20139205.",
+  "first_page": "28",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 28"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 941"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2352",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698187,
+        12698188,
+        12698189,
+        12698190,
+        12698191,
+        12698192
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0980-10",
+        "/us/569/0980-11",
+        "/us/569/0980-12",
+        "/us/569/0980-13",
+        "/us/569/0980-14",
+        "/us/569/0980-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 175,
+    "sha256": "9624adb882d61f864ba7d64331a79db1bf56c0b6cbae82ead8142da6a7a478b7",
+    "simhash": "1:d23214521f883696",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mario A. WILLIAMS, petitioner,\nv.\nPEEL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mario A. WILLIAMS, petitioner,\nv.\nPEEL, et al.\nNo. 12-9205.\nSupreme Court of the United States\nJuly 22, 2013.\nFormer decision, 133 S.Ct. 2352.\nPetition for rehearing denied."
+  },
+  "file_name": "0028-04",
+  "first_page_order": 28,
+  "last_page_order": 28
+}

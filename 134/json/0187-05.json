@@ -1,0 +1,75 @@
+{
+  "id": 12580324,
+  "name": "Richard A. VAN AUKEN, Beneficiary, petitioner, v. Fletcher R. CATRON.",
+  "name_abbreviation": "Van Auken v. Catron",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131476.",
+  "first_page": "187",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 187"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 44"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 596658",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 239,
+    "sha256": "dca4aee36d5630f079df5fa7b3169b0ceeee8010f6c41d57bc244c8af535e734",
+    "simhash": "1:a16c5e07dbc3851b",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard A. VAN AUKEN, Beneficiary, petitioner,\nv.\nFletcher R. CATRON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New Mexico denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard A. VAN AUKEN, Beneficiary, petitioner,\nv.\nFletcher R. CATRON.\nNo. 12-1476.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2013 WL 596658.\nPetition for writ of certiorari to the Court of Appeals of New Mexico denied."
+  },
+  "file_name": "0187-05",
+  "first_page_order": 187,
+  "last_page_order": 187
+}

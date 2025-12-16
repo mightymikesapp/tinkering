@@ -1,0 +1,75 @@
+{
+  "id": 12580007,
+  "name": "Michael Edward ALCANTAR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Alcantar v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138931.",
+  "first_page": "1778",
+  "last_page": "1778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1778"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 606"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "540 Fed.Appx. 697",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 251,
+    "sha256": "43766cc35a40a2cbd246857b26560ff5cc521641689e06179cab2dda392024bb",
+    "simhash": "1:c2ac54462a816759",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Edward ALCANTAR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Edward ALCANTAR, petitioner,\nv.\nUNITED STATES.\nNo. 13-8931.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 540 Fed.Appx. 697.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1778-04",
+  "first_page_order": 1778,
+  "last_page_order": 1778
+}

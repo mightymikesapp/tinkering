@@ -1,0 +1,85 @@
+{
+  "id": 12581512,
+  "name": "Dwight A. THOMAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Thomas v. United States",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20139751.",
+  "first_page": "2323",
+  "last_page": "2323",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2323"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 198"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "737 F.3d 1202",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3730895
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/737/1202-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 239,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26334199406992453
+    },
+    "sha256": "d5f45846b5f1d8efc64f9ac94d740f185f991f24ce91e4eeaa1f47bdc96a37d4",
+    "simhash": "1:53aed446ab0cc101",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwight A. THOMAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dwight A. THOMAS, petitioner,\nv.\nUNITED STATES.\nNo. 13-9751.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 737 F.3d 1202.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "2323-04",
+  "first_page_order": 2323,
+  "last_page_order": 2323
+}

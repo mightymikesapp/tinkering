@@ -1,0 +1,75 @@
+{
+  "id": 12586449,
+  "name": "Eddie HARRIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Harris v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137616.",
+  "first_page": "969",
+  "last_page": "969",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 969"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 826"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "536 Fed.Appx. 858",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 242,
+    "sha256": "8e2328cd773b2331b7a9fd56654f9da13e5e89165392cb9eac138b11f566404c",
+    "simhash": "1:26af464413070491",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eddie HARRIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eddie HARRIS, petitioner,\nv.\nUNITED STATES.\nNo. 13-7616.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 536 Fed.Appx. 858.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0969-05",
+  "first_page_order": 969,
+  "last_page_order": 969
+}

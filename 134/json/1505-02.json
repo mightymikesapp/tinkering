@@ -1,0 +1,81 @@
+{
+  "id": 12579246,
+  "name": "Shermaine Donnell WHITLEY, petitioner, v. Eric WILSON, Warden.",
+  "name_abbreviation": "Whitley v. Wilson",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20138431.",
+  "first_page": "1505",
+  "last_page": "1505",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1505"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 385"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 6139512",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "546 Fed.Appx. 324",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 276,
+    "sha256": "f6391bbf11236562ceca0b99a542c0ac7617b4963ce92bbcf8bbc7c8171d5da8",
+    "simhash": "1:5a2fc4c43c801332",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shermaine Donnell WHITLEY, petitioner,\nv.\nEric WILSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shermaine Donnell WHITLEY, petitioner,\nv.\nEric WILSON, Warden.\nNo. 13-8431.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 546 Fed.Appx. 324, 2013 WL 6139512.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1505-02",
+  "first_page_order": 1505,
+  "last_page_order": 1505
+}

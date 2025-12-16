@@ -1,0 +1,101 @@
+{
+  "id": 12580698,
+  "name": "John E. WETZEL, Secretary, Pennsylvania Department of Corrections, et al., petitioners, v. James WASHINGTON.",
+  "name_abbreviation": "Wetzel v. Washington",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u2013699.",
+  "first_page": "1935",
+  "last_page": "1936",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1935"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 957"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1697",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706994,
+        12579839
+      ],
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/0415-01",
+        "/s-ct/134/1697-01"
+      ]
+    },
+    {
+      "cite": "726 F.3d 471",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4074559
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/726/0471-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 611,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263309173623636
+    },
+    "sha256": "8e87a7aef34ee10ea3846eb34a24dd4d424fa28b4d55c68d381905b749840329",
+    "simhash": "1:772e62c22500161d",
+    "word_count": 98
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John E. WETZEL, Secretary, Pennsylvania Department of Corrections, et al., petitioners,\nv.\nJames WASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Motion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of White v. Woodall, 572 U.S. ----, 134 S.Ct. 1697, 188 L.E.2d 698 (2014)."
+    ],
+    "corrections": "",
+    "head_matter": "John E. WETZEL, Secretary, Pennsylvania Department of Corrections, et al., petitioners,\nv.\nJames WASHINGTON.\nNo. 13-699.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 726 F.3d 471.\nOn petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Motion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of White v. Woodall, 572 U.S. ----, 134 S.Ct. 1697, 188 L.E.2d 698 (2014)."
+  },
+  "file_name": "1935-06",
+  "first_page_order": 1935,
+  "last_page_order": 1936
+}

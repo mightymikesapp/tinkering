@@ -1,0 +1,85 @@
+{
+  "id": 12586154,
+  "name": "Clayton LOCKETT, petitioner, v. Anita TRAMMELL, Warden.",
+  "name_abbreviation": "Lockett v. Trammell",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137114.",
+  "first_page": "924",
+  "last_page": "924",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 924"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 799"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "711 F.3d 1218",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3804479
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/711/1218-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 247,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634983738434171
+    },
+    "sha256": "a8160e973a44100741f4dc4df9641593b0847215f3de84052ca09a670b90cf45",
+    "simhash": "1:482f564644c41688",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clayton LOCKETT, petitioner,\nv.\nAnita TRAMMELL, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Clayton LOCKETT, petitioner,\nv.\nAnita TRAMMELL, Warden.\nNo. 13-7114.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 711 F.3d 1218.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0924-03",
+  "first_page_order": 924,
+  "last_page_order": 924
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12581825,
+  "name": "OKLAHOMA, et al., petitioners, v. ENVIRONMENTAL PROTECTION AGENCY, et al.",
+  "name_abbreviation": "Oklahoma v. Envtl. Prot. Agency",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u2013921.",
+  "first_page": "2662",
+  "last_page": "2662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2662"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 230"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3686"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "723 F.3d 1201",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4066097
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/723/1201-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 340,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633524193881574
+    },
+    "sha256": "c179b38744a2011e9fe2adfbfcaf4514474b00d17bfbc1ffd58133a6baa4987f",
+    "simhash": "1:38bdf686f9e4d3cb",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "OKLAHOMA, et al., petitioners,\nv.\nENVIRONMENTAL PROTECTION AGENCY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "OKLAHOMA, et al., petitioners,\nv.\nENVIRONMENTAL PROTECTION AGENCY, et al.\nNo. 13-921.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 723 F.3d 1201.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "2662-03",
+  "first_page_order": 2662,
+  "last_page_order": 2662
+}

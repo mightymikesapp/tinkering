@@ -1,0 +1,75 @@
+{
+  "id": 12578834,
+  "name": "Lonnie Edward MALONE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Malone v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138167.",
+  "first_page": "1340",
+  "last_page": "1340",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1340"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 347"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5977344",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 266,
+    "sha256": "8a32816a61882eb946f1f240d44c0cfe88ae8b4c2b3d6bfa76d46796aca5f149",
+    "simhash": "1:78ef2444be02d715",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lonnie Edward MALONE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lonnie Edward MALONE, petitioner,\nv.\nUNITED STATES.\nNo. 13-8167.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, --- Fed.Appx. ----, 2013 WL 5977344.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1340-04",
+  "first_page_order": 1340,
+  "last_page_order": 1340
+}

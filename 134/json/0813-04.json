@@ -1,0 +1,103 @@
+{
+  "id": 12585718,
+  "name": "Paul James KOUMJIAN, petitioner, v. William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.",
+  "name_abbreviation": "Koumjian v. Stephens",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 12\u20138616.",
+  "first_page": "813",
+  "last_page": "813",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 813"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 614"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 387",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12583687,
+        12583688,
+        12583689,
+        12583690,
+        12583691,
+        12583692,
+        12702439,
+        12702451,
+        12702424,
+        12702425,
+        12702396,
+        12702366
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0387-01",
+        "/s-ct/134/0387-02",
+        "/s-ct/134/0387-03",
+        "/s-ct/134/0387-04",
+        "/s-ct/134/0387-05",
+        "/s-ct/134/0387-06",
+        "/us/571/0833-05",
+        "/us/571/0834-03",
+        "/us/571/0832-04",
+        "/us/571/0832-05",
+        "/us/571/0830-05",
+        "/us/571/0828-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 264,
+    "sha256": "e266746c521ffc5d738af5979f414b10d9b5aad9c472d0e78e5123edec0ffd01",
+    "simhash": "1:52794426364a52ed",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul James KOUMJIAN, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul James KOUMJIAN, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.\nNo. 12-8616.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 387.\nPetition for rehearing denied."
+  },
+  "file_name": "0813-04",
+  "first_page_order": 813,
+  "last_page_order": 813
+}

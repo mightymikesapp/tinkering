@@ -1,0 +1,103 @@
+{
+  "id": 12585425,
+  "name": "Timothy Scott MARCUM, et ux., petitioners, v. Haskel AYERS, et ux.",
+  "name_abbreviation": "Marcum v. Ayers",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 12\u201310441.",
+  "first_page": "726",
+  "last_page": "726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 726"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 582"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 114",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578304,
+        12578305,
+        12578306,
+        12578307,
+        12578308,
+        12702666,
+        12702667,
+        12702668,
+        12702669,
+        12702670,
+        12702680,
+        12578303
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0114-02",
+        "/s-ct/134/0114-03",
+        "/s-ct/134/0114-04",
+        "/s-ct/134/0114-05",
+        "/s-ct/134/0114-06",
+        "/us/571/0849-01",
+        "/us/571/0849-02",
+        "/us/571/0849-03",
+        "/us/571/0849-04",
+        "/us/571/0849-05",
+        "/us/571/0849-16",
+        "/s-ct/134/0114-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 193,
+    "sha256": "833b04bf95c730d3cdf66bdb3b45f92ecf97d555409c38c5479086886a883284",
+    "simhash": "1:50771476178f4b8e",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Timothy Scott MARCUM, et ux., petitioners,\nv.\nHaskel AYERS, et ux."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Timothy Scott MARCUM, et ux., petitioners,\nv.\nHaskel AYERS, et ux.\nNo. 12-10441.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 114\nPetition for rehearing denied."
+  },
+  "file_name": "0726-08",
+  "first_page_order": 726,
+  "last_page_order": 726
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12580008,
+  "name": "Robert A. TRUJILLO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Trujillo v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138936.",
+  "first_page": "1778",
+  "last_page": "1778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1778"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 606"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "544 Fed.Appx. 484",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "e18b1baf684f4f7633a8932515d07e9c98f5aae513ee730376b197bd16b54a13",
+    "simhash": "1:43afe04607005683",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert A. TRUJILLO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert A. TRUJILLO, petitioner,\nv.\nUNITED STATES.\nNo. 13-8936.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 544 Fed.Appx. 484.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1778-05",
+  "first_page_order": 1778,
+  "last_page_order": 1778
+}

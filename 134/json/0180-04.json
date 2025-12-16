@@ -1,0 +1,81 @@
+{
+  "id": 12580219,
+  "name": "Pierre YATES, petitioner, v. OHIO.",
+  "name_abbreviation": "Yates v. Ohio",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310822.",
+  "first_page": "180",
+  "last_page": "180",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 180"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 123"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "984 N.E.2d 1101",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "134 Ohio St.3d 1506",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 218,
+    "sha256": "c0fa9eeaf1ccf1248e0b5ea3233ce05c5d157e9d64092e976cfa5dc0438c7ff7",
+    "simhash": "1:6a2f74107aaea7ab",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pierre YATES, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Ohio denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pierre YATES, petitioner,\nv.\nOHIO.\nNo. 12-10822.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 134 Ohio St.3d 1506, 984 N.E.2d 1101.\nPetition for writ of certiorari to the Supreme Court of Ohio denied."
+  },
+  "file_name": "0180-04",
+  "first_page_order": 180,
+  "last_page_order": 180
+}

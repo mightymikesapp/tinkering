@@ -1,0 +1,75 @@
+{
+  "id": 12580116,
+  "name": "Henrick TOWNSEND, petitioner, v. ACCOMACK COUNTY, VIRGINIA, et al.",
+  "name_abbreviation": "Townsend v. Accomack Cnty.",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138537.",
+  "first_page": "1794",
+  "last_page": "1794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1794"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 763"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "540 Fed.Appx. 207",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 263,
+    "sha256": "d00e22f681471312fff7e0028e809759e4daf26fc44e4e62ba710802c319d422",
+    "simhash": "1:623dc4853e814203",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henrick TOWNSEND, petitioner,\nv.\nACCOMACK COUNTY, VIRGINIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Henrick TOWNSEND, petitioner,\nv.\nACCOMACK COUNTY, VIRGINIA, et al.\nNo. 13-8537.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 540 Fed.Appx. 207.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1794-06",
+  "first_page_order": 1794,
+  "last_page_order": 1794
+}

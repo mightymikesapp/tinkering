@@ -1,0 +1,75 @@
+{
+  "id": 12578629,
+  "name": "Phillip E. LAPOINTE, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Lapointe v. Illinois",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137882.",
+  "first_page": "1310",
+  "last_page": "1310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1310"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 329"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 3777128",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 232,
+    "sha256": "3ed6134973e8021fa7dc9b1324837f86510a6b3913e63a9c7e9d497235f9f049",
+    "simhash": "1:f4eff6f69b9dc506",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Phillip E. LAPOINTE, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Second District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Phillip E. LAPOINTE, petitioner,\nv.\nILLINOIS.\nNo. 13-7882.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 2013 WL 3777128.\nPetition for writ of certiorari to the Appellate Court of Illinois, Second District, denied."
+  },
+  "file_name": "1310-01",
+  "first_page_order": 1310,
+  "last_page_order": 1310
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12579107,
+  "name": "Steven D. PATTON, petitioner, v. D. MILLS.",
+  "name_abbreviation": "Patton v. Mills",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310609.",
+  "first_page": "141",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 141"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 100"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "511 Fed.Appx. 629",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 238,
+    "sha256": "64697e5c0894594100250f1c5438c8499c20d8ba38c32016754fb6e0909b3d55",
+    "simhash": "1:e3afe6403ba497a8",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven D. PATTON, petitioner,\nv.\nD. MILLS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven D. PATTON, petitioner,\nv.\nD. MILLS.\nNo. 12-10609.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 511 Fed.Appx. 629.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0141-06",
+  "first_page_order": 141,
+  "last_page_order": 141
+}

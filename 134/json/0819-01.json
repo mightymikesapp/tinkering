@@ -1,0 +1,103 @@
+{
+  "id": 12585761,
+  "name": "Timothy WHALEN, petitioner, v. MISSOURI.",
+  "name_abbreviation": "Whalen v. Missouri",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20135665.",
+  "first_page": "819",
+  "last_page": "819",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 819"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 620"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 430",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12583872,
+        12704169,
+        12704233,
+        12704239,
+        12704240,
+        12704241,
+        12704242,
+        12583867,
+        12583868,
+        12583869,
+        12583870,
+        12583871
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0430-06",
+        "/us/571/0953-03",
+        "/us/571/0958-06",
+        "/us/571/0958-07",
+        "/us/571/0958-08",
+        "/us/571/0958-09",
+        "/us/571/0958-10",
+        "/s-ct/134/0430-01",
+        "/s-ct/134/0430-02",
+        "/s-ct/134/0430-03",
+        "/s-ct/134/0430-04",
+        "/s-ct/134/0430-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 167,
+    "sha256": "4b0e6ce4f16d62ece4e6a713b510c7d3f66f9fca5e71714d5643d9ba5ab691a8",
+    "simhash": "1:12af0454b6afe72e",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Timothy WHALEN, petitioner,\nv.\nMISSOURI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Timothy WHALEN, petitioner,\nv.\nMISSOURI.\nNo. 13-5665.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 430.\nPetition for rehearing denied."
+  },
+  "file_name": "0819-01",
+  "first_page_order": 819,
+  "last_page_order": 819
+}

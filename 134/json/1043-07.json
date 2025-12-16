@@ -1,0 +1,75 @@
+{
+  "id": 12578153,
+  "name": "Pierre E. DAWSON, petitioner, v. James N. CROSS, Jr., Warden.",
+  "name_abbreviation": "Dawson v. Cross",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137924.",
+  "first_page": "1043",
+  "last_page": "1044",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1043"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 134"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "533 Fed.Appx. 469",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 257,
+    "sha256": "7fb11456ba73395c18432e898a6e04f1a873c52216c25ac69e4d26943a85fead",
+    "simhash": "1:ffff70e427089615",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pierre E. DAWSON, petitioner,\nv.\nJames N. CROSS, Jr., Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pierre E. DAWSON, petitioner,\nv.\nJames N. CROSS, Jr., Warden.\nNo. 13-7924.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 533 Fed.Appx. 469.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1043-07",
+  "first_page_order": 1043,
+  "last_page_order": 1044
+}

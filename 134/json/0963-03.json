@@ -1,0 +1,85 @@
+{
+  "id": 12586412,
+  "name": "Cameron DOUGLAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Douglas v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013649.",
+  "first_page": "963",
+  "last_page": "963",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 963"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 787"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 694",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3558793
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0694-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635051309941236
+    },
+    "sha256": "7127d5b2339743e4075cf9f7bc2e9fc1729e317e11c07ddbb145c7da58a59b0a",
+    "simhash": "1:fc2fe644a5815d51",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cameron DOUGLAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cameron DOUGLAS, petitioner,\nv.\nUNITED STATES.\nNo. 13-649.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 713 F.3d 694.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0963-03",
+  "first_page_order": 963,
+  "last_page_order": 963
+}

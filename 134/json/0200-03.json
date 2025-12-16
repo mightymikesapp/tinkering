@@ -1,0 +1,75 @@
+{
+  "id": 12580901,
+  "name": "Paul Antonio CASTRO-LOPEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Castro-Lopez v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310938.",
+  "first_page": "200",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 200"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 136"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Fed.Appx. 641",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 252,
+    "sha256": "40fae2e062fa4a51750dd40612066ed693c9a58ce81026598151c360c7e5a452",
+    "simhash": "1:c3ed76041be7058d",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul Antonio CASTRO-LOPEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul Antonio CASTRO-LOPEZ, petitioner,\nv.\nUNITED STATES.\nNo. 12-10938.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 514 Fed.Appx. 641.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0200-03",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

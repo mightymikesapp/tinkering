@@ -1,0 +1,85 @@
+{
+  "id": 12583836,
+  "name": "Brenda PARKER, petitioner, v. Michael C. CLARK, Superior Court of Georgia, Gwinnett County.",
+  "name_abbreviation": "Parker v. Clark",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135598.",
+  "first_page": "425",
+  "last_page": "425",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 425"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 287"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "742 S.E.2d 479",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "case_ids": [
+        3852174
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga-app/321/0656-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 256,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263416901912042
+    },
+    "sha256": "66f1e1c68fbeeef3c031606978ae6f385818600ed91603d17cbace30b766cde4",
+    "simhash": "1:f1301c0c109523fd",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brenda PARKER, petitioner,\nv.\nMichael C. CLARK, Superior Court of Georgia, Gwinnett County."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brenda PARKER, petitioner,\nv.\nMichael C. CLARK, Superior Court of Georgia, Gwinnett County.\nNo. 13-5598.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 742 S.E.2d 479.\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "0425-04",
+  "first_page_order": 425,
+  "last_page_order": 425
+}

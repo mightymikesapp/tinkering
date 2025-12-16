@@ -1,0 +1,75 @@
+{
+  "id": 12585831,
+  "name": "Jerry BROWN, petitioner, v. ILLINOIS DEPARTMENT OF NATURAL RESOURCES.",
+  "name_abbreviation": "Brown v. Ill. Dep't of Natural Res.",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20136860.",
+  "first_page": "829",
+  "last_page": "829",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 829"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 690"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Fed.Appx. 930",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 267,
+    "sha256": "ec95658d962f8a9c135e31a4ccd77ca20cf59d6753fc8b29eae9497160be9091",
+    "simhash": "1:7d2f50ce2904cf80",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry BROWN, petitioner,\nv.\nILLINOIS DEPARTMENT OF NATURAL RESOURCES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerry BROWN, petitioner,\nv.\nILLINOIS DEPARTMENT OF NATURAL RESOURCES.\nNo. 13-6860.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 519 Fed.Appx. 930.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0829-05",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

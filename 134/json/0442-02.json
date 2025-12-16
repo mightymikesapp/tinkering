@@ -1,0 +1,75 @@
+{
+  "id": 12583946,
+  "name": "Angel ASENCIO, petitioner, v. WELLS FARGO BANK, N.A.",
+  "name_abbreviation": "Asencio v. Wells Fargo Bank, N.A.",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u2013245.",
+  "first_page": "442",
+  "last_page": "442",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 442"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 285"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 798",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 250,
+    "sha256": "fa54101c3118af17fae966d4affb914b0d90ce8360193b56f6ba0679bb2607e1",
+    "simhash": "1:f3ad66cc13048799",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Angel ASENCIO, petitioner,\nv.\nWELLS FARGO BANK, N.A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Angel ASENCIO, petitioner,\nv.\nWELLS FARGO BANK, N.A.\nNo. 13-245.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 520 Fed.Appx. 798.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0442-02",
+  "first_page_order": 442,
+  "last_page_order": 442
+}

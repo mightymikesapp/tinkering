@@ -1,0 +1,75 @@
+{
+  "id": 12579957,
+  "name": "Ruth PATRAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Patras v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u2013978.",
+  "first_page": "1770",
+  "last_page": "1770",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1770"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 595"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "544 Fed.Appx. 137",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "sha256": "a8ecbb2a8281e69b36649a8d36084dc33f1dd7f02c22f3b5d0ff19bc052f8303",
+    "simhash": "1:d2ec6244ab88079f",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ruth PATRAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ruth PATRAS, petitioner,\nv.\nUNITED STATES.\nNo. 13-978.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 544 Fed.Appx. 137.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1770-01",
+  "first_page_order": 1770,
+  "last_page_order": 1770
+}

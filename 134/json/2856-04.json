@@ -1,0 +1,75 @@
+{
+  "id": 12582727,
+  "name": "Gregory GRAVES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Graves v. United States",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u201310170.",
+  "first_page": "2856",
+  "last_page": "2856",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2856"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 818"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "551 Fed.Appx. 680",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 243,
+    "sha256": "f1cf5aca07614ea1a9caa6bd99d1bd9db3e2b56111554f73f7ecca85b264469a",
+    "simhash": "1:59eda4443b06550f",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory GRAVES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory GRAVES, petitioner,\nv.\nUNITED STATES.\nNo. 13-10170.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 551 Fed.Appx. 680.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2856-04",
+  "first_page_order": 2856,
+  "last_page_order": 2856
+}

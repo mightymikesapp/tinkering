@@ -1,0 +1,85 @@
+{
+  "id": 12578278,
+  "name": "Samuel MORELAND, petitioner, v. Norm ROBINSON, Warden.",
+  "name_abbreviation": "Moreland v. Robinson",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310405.",
+  "first_page": "110",
+  "last_page": "110",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 110"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 81"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "699 F.3d 908",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3632897
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/699/0908-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 245,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632271225079146
+    },
+    "sha256": "5b8540d694c23c9b44c612043361588b04973c914263d88ef76e51b0f7b62b56",
+    "simhash": "1:712de2443785048d",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Samuel MORELAND, petitioner,\nv.\nNorm ROBINSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel MORELAND, petitioner,\nv.\nNorm ROBINSON, Warden.\nNo. 12-10405.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 699 F.3d 908.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0110-03",
+  "first_page_order": 110,
+  "last_page_order": 110
+}

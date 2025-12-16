@@ -1,0 +1,85 @@
+{
+  "id": 12577939,
+  "name": "Bobbie H. KEYS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Keys v. United States",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20137732.",
+  "first_page": "1011",
+  "last_page": "1011",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1011"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 858"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 512",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5755087
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/721/0512-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632176624969255
+    },
+    "sha256": "503e95703d9eff6f9bf5ec6da0665a0d7d8ad0d3ab541867055eff0c766560cb",
+    "simhash": "1:c12fe4463a070395",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bobbie H. KEYS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bobbie H. KEYS, petitioner,\nv.\nUNITED STATES.\nNo. 13-7732.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 721 F.3d 512.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "1011-03",
+  "first_page_order": 1011,
+  "last_page_order": 1011
+}

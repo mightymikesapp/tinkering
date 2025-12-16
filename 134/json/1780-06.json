@@ -1,0 +1,75 @@
+{
+  "id": 12580027,
+  "name": "Henry P. BENNETT, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bennett v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138973.",
+  "first_page": "1780",
+  "last_page": "1780",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1780"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 608"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "548 Fed.Appx. 897",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 250,
+    "sha256": "6a9de2171cf1a536a520be5c6f0742a44aeedc613492162dda48dd436781e635",
+    "simhash": "1:132c4244bb884611",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry P. BENNETT, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Henry P. BENNETT, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 13-8973.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 548 Fed.Appx. 897.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1780-06",
+  "first_page_order": 1780,
+  "last_page_order": 1780
+}

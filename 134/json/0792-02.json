@@ -1,0 +1,85 @@
+{
+  "id": 12585580,
+  "name": "Sylvia BAPTE, Individually and as Personal Representative of the Estate of Christiane Bapte, Deceased, et al., petitioners, v. WEST CARIBBEAN AIRWAYS, et al.",
+  "name_abbreviation": "Bapte v. W. Caribbean Airways",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u2013429.",
+  "first_page": "792",
+  "last_page": "792",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 792"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 595"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "715 F.3d 1290",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3565998
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/715/1290-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 350,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634730827936301
+    },
+    "sha256": "12ddb58a87eea5eb5f2ccff419fea4b8d5b56f0786cc77730a4b6043d7afa66c",
+    "simhash": "1:6ba6c68c7122336f",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sylvia BAPTE, Individually and as Personal Representative of the Estate of Christiane Bapte, Deceased, et al., petitioners,\nv.\nWEST CARIBBEAN AIRWAYS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sylvia BAPTE, Individually and as Personal Representative of the Estate of Christiane Bapte, Deceased, et al., petitioners,\nv.\nWEST CARIBBEAN AIRWAYS, et al.\nNo. 13-429.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 715 F.3d 1290.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0792-02",
+  "first_page_order": 792,
+  "last_page_order": 792
+}

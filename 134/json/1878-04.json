@@ -1,0 +1,75 @@
+{
+  "id": 12580313,
+  "name": "Efraim GARCIA, petitioner, v. Carmen PALMER, Warden.",
+  "name_abbreviation": "Garcia v. Palmer",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u2013924.",
+  "first_page": "1878",
+  "last_page": "1878",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1878"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 912"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "536 Fed.Appx. 511",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 248,
+    "sha256": "2830e0ed4402604a4a98a0b77a8e3a984574216ec920ec7095672a4140fdfb87",
+    "simhash": "1:66a554041ac50623",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Efraim GARCIA, petitioner,\nv.\nCarmen PALMER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Efraim GARCIA, petitioner,\nv.\nCarmen PALMER, Warden.\nNo. 13-924.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 536 Fed.Appx. 511.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1878-04",
+  "first_page_order": 1878,
+  "last_page_order": 1878
+}

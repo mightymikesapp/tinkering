@@ -1,0 +1,85 @@
+{
+  "id": 12580598,
+  "name": "Steven Carmichael WARREN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Warren v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139348.",
+  "first_page": "1921",
+  "last_page": "1921",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1921"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 945"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "737 F.3d 1278",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3732697
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/737/1278-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26330608464045585
+    },
+    "sha256": "ebf4883f3b7bd614e5e08399913ed75779ad6eca17dbf1102ec4a5de4192eb86",
+    "simhash": "1:f16e744619278639",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven Carmichael WARREN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven Carmichael WARREN, petitioner,\nv.\nUNITED STATES.\nNo. 13-9348.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 737 F.3d 1278.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1921-05",
+  "first_page_order": 1921,
+  "last_page_order": 1921
+}

@@ -1,0 +1,105 @@
+{
+  "id": 12580287,
+  "name": "David WILLAN, petitioner, v. OHIO.",
+  "name_abbreviation": "Willan v. Ohio",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137621.",
+  "first_page": "1873",
+  "last_page": "1873",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1873"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 905"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3608"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2151",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699057
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/570/0099-01"
+      ]
+    },
+    {
+      "cite": "994 N.E.2d 400",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "136 Ohio St.3d 222",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 3d",
+      "case_ids": [
+        4123223
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ohio-st-3d/136/0222-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 502,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632964315680181
+    },
+    "sha256": "4c17553d83eeb03501ae5429f09591c658fc85e53019712bad845ce72ce6e513",
+    "simhash": "1:6e2022062ca22798",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David WILLAN, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Supreme Court of Ohio. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Ohio for further consideration in light of Alleyne v. United States, 570 U.S. ----, 133 S.Ct. 2151, 186 L.Ed.2d 314 (2013)."
+    ],
+    "corrections": "",
+    "head_matter": "David WILLAN, petitioner,\nv.\nOHIO.\nNo. 13-7621.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 136 Ohio St.3d 222, 994 N.E.2d 400.\nOn petition for writ of certiorari to the Supreme Court of Ohio. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Ohio for further consideration in light of Alleyne v. United States, 570 U.S. ----, 133 S.Ct. 2151, 186 L.Ed.2d 314 (2013)."
+  },
+  "file_name": "1873-05",
+  "first_page_order": 1873,
+  "last_page_order": 1873
+}

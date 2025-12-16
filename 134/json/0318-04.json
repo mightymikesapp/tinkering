@@ -1,0 +1,75 @@
+{
+  "id": 12583232,
+  "name": "Joseph E. HOOTEN, petitioner, v. IKARD SERVI GAS, dba Heritage Propane, et al.",
+  "name_abbreviation": "Hooten v. Gas",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013157.",
+  "first_page": "318",
+  "last_page": "318",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 318"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 156"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 663",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 272,
+    "sha256": "fbfed9540d065f285cf39eb93db44e61b738b37bbcb9ecb2f09a6d29e513c797",
+    "simhash": "1:822dd24d3ac703b9",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph E. HOOTEN, petitioner,\nv.\nIKARD SERVI GAS, dba Heritage Propane, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph E. HOOTEN, petitioner,\nv.\nIKARD SERVI GAS, dba Heritage Propane, et al.\nNo. 13-157.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 525 Fed.Appx. 663.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0318-04",
+  "first_page_order": 318,
+  "last_page_order": 318
+}

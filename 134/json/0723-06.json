@@ -1,0 +1,75 @@
+{
+  "id": 12585404,
+  "name": "Elnora MOSES, petitioner, v. TEXAS COMMISSION ON ENVIRONMENTAL QUALITY.",
+  "name_abbreviation": "Moses v. Tex. Comm'n On Envtl. Quality",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136739.",
+  "first_page": "723",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 723"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 565"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "489 Fed.Appx. 753",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 266,
+    "sha256": "7bcd48cd7c389d5a7fac5cbd2498d5353c529f8805f0c16c7d196a68c99e4068",
+    "simhash": "1:72e77465360506a2",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elnora MOSES, petitioner,\nv.\nTEXAS COMMISSION ON ENVIRONMENTAL QUALITY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Elnora MOSES, petitioner,\nv.\nTEXAS COMMISSION ON ENVIRONMENTAL QUALITY.\nNo. 13-6739.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 489 Fed.Appx. 753.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0723-06",
+  "first_page_order": 723,
+  "last_page_order": 724
+}

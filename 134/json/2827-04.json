@@ -1,0 +1,81 @@
+{
+  "id": 12582532,
+  "name": "Keith Lamont JORDAN, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Jordan v. Florida",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. 13\u20139960.",
+  "first_page": "2827",
+  "last_page": "2827",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2827"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 792"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3719"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "130 So.3d 276",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7266826,
+        7266771
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/130/0276-02",
+        "/so3d/130/0276-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 236,
+    "sha256": "b9ab3e1aa24f35026b739d074d60e0edb4cc0e2d85179f22b113bdfd3533c83b",
+    "simhash": "1:d20f566e58014731",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keith Lamont JORDAN, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Keith Lamont JORDAN, petitioner,\nv.\nFLORIDA.\nNo. 13-9960.\nSupreme Court of the United States\nJune 16, 2014.\nCase below, 130 So.3d 276.\nPetition for writ of certiorari to the District Court of Appeal of Florida, First District, denied."
+  },
+  "file_name": "2827-04",
+  "first_page_order": 2827,
+  "last_page_order": 2827
+}

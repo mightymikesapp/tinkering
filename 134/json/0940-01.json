@@ -1,0 +1,75 @@
+{
+  "id": 12586260,
+  "name": "Arthur Charles GALLEGOS, petitioner, v. ARIZONA.",
+  "name_abbreviation": "Gallegos v. Arizona",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137307.",
+  "first_page": "940",
+  "last_page": "940",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 940"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 808"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Fed.Appx. 626",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 244,
+    "sha256": "42d90496cf22ce1ef6d5767450ef7a11bce2528bff901255fc132cd2b77129ce",
+    "simhash": "1:e7ae76469c8557f1",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arthur Charles GALLEGOS, petitioner,\nv.\nARIZONA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arthur Charles GALLEGOS, petitioner,\nv.\nARIZONA.\nNo. 13-7307.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 509 Fed.Appx. 626.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0940-01",
+  "first_page_order": 940,
+  "last_page_order": 940
+}

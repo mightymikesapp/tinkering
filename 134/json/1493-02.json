@@ -1,0 +1,75 @@
+{
+  "id": 12579170,
+  "name": "John Gregory LAMBROS, petitioner, v. Claude MAYE, Warden.",
+  "name_abbreviation": "Lambros v. Maye",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20137980.",
+  "first_page": "1493",
+  "last_page": "1493",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1493"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 372"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "533 Fed.Appx. 855",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 344,
+    "sha256": "9524495adbd619e22920664b104c35bc7b46ea2938c39dd4d8ad1648c33b7b59",
+    "simhash": "1:62ef66c42a31971d",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Gregory LAMBROS, petitioner,\nv.\nClaude MAYE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit, dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "John Gregory LAMBROS, petitioner,\nv.\nClaude MAYE, Warden.\nNo. 13-7980.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 533 Fed.Appx. 855.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit, dismissed. See Rule 39.8."
+  },
+  "file_name": "1493-02",
+  "first_page_order": 1493,
+  "last_page_order": 1493
+}

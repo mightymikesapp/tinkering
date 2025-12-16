@@ -1,0 +1,85 @@
+{
+  "id": 12584798,
+  "name": "Claude TOWNSEND, petitioner, v. NEW JERSEY TRANSIT.",
+  "name_abbreviation": "Townsend v. Transit",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 12\u201311004.",
+  "first_page": "632",
+  "last_page": "632",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 632"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 399"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 381",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3656950
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/br/500/0381-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 245,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26344972235833053
+    },
+    "sha256": "d8f08d63ee35791c5aadbe03fe156a415f3d6cba5ebff6148a4046973d46e809",
+    "simhash": "1:42e8bc50230eaada",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Claude TOWNSEND, petitioner,\nv.\nNEW JERSEY TRANSIT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Claude TOWNSEND, petitioner,\nv.\nNEW JERSEY TRANSIT.\nNo. 12-11004.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 134 S.Ct. 381.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0632-04",
+  "first_page_order": 632,
+  "last_page_order": 632
+}

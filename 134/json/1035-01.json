@@ -1,0 +1,91 @@
+{
+  "id": 12578093,
+  "name": "Christine Marie HAM, petitioner, v. BOARD OF TRUSTEES OF the LELAND STANFORD JUNIOR UNIVERSITY.",
+  "name_abbreviation": "Ham v. Bd. of Trs. of the Leland Stanford Junior Univ.",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137636.",
+  "first_page": "1035",
+  "last_page": "1035",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1035"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 129"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "156 Cal.Rptr.3d 893",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "216 Cal.App.4th 330",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        6054723
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/216/0330-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 318,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632228751560419
+    },
+    "sha256": "666de8126105003855d8243b6e1ec4116cf9b3eaf7c1ddda6a447ad11eefc3e2",
+    "simhash": "1:68ef664622475005",
+    "word_count": 49
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christine Marie HAM, petitioner,\nv.\nBOARD OF TRUSTEES OF the LELAND STANFORD JUNIOR UNIVERSITY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Sixth Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christine Marie HAM, petitioner,\nv.\nBOARD OF TRUSTEES OF the LELAND STANFORD JUNIOR UNIVERSITY.\nNo. 13-7636.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 216 Cal.App.4th 330, 156 Cal.Rptr.3d 893.\nPetition for writ of certiorari to the Court of Appeal of California, Sixth Appellate District, denied."
+  },
+  "file_name": "1035-01",
+  "first_page_order": 1035,
+  "last_page_order": 1035
+}

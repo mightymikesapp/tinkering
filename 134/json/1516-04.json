@@ -1,0 +1,85 @@
+{
+  "id": 12579319,
+  "name": "Hugo ROSALES, petitioner, v. ICICLE SEAFOODS, INC., et al.",
+  "name_abbreviation": "Rosales v. Icicle Seafoods, Inc.",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138072.",
+  "first_page": "1516",
+  "last_page": "1517",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1516"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 452"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "316 P.3d 580",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        7260106
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/p3d/316/0580-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 221,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26326380418317824
+    },
+    "sha256": "9ed85781e6b06606e01b9f1ff58d3956746b0179d6ef5f23872c5e8437a099c5",
+    "simhash": "1:f02d1416289c00d5",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hugo ROSALES, petitioner,\nv.\nICICLE SEAFOODS, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Alaska denied."
+    ],
+    "corrections": "",
+    "head_matter": "Hugo ROSALES, petitioner,\nv.\nICICLE SEAFOODS, INC., et al.\nNo. 13-8072.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 316 P.3d 580.\nPetition for writ of certiorari to the Supreme Court of Alaska denied."
+  },
+  "file_name": "1516-04",
+  "first_page_order": 1516,
+  "last_page_order": 1517
+}

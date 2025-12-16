@@ -1,0 +1,81 @@
+{
+  "id": 12580531,
+  "name": "Bernard LANE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lane v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139207.",
+  "first_page": "1911",
+  "last_page": "1911",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1911"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 938"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2014 WL 752270",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "556 Fed.Appx. 43",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 256,
+    "sha256": "195915362c6a1fea59fca1614fc02155be7b3009c48d76b761eb8d7ebfffef14",
+    "simhash": "1:f17e56c435071b05",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bernard LANE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bernard LANE, petitioner,\nv.\nUNITED STATES.\nNo. 13-9207.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 556 Fed.Appx. 43, 2014 WL 752270.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1911-05",
+  "first_page_order": 1911,
+  "last_page_order": 1911
+}

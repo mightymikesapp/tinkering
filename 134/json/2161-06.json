@@ -1,0 +1,103 @@
+{
+  "id": 12581172,
+  "name": "Randall K. VENZIE, petitioner, v. Meg W. YATAURO, Administrator, Adult Diagnostic and Treatment Center.",
+  "name_abbreviation": "Venzie v. Yatauro",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20137763.",
+  "first_page": "2161",
+  "last_page": "2161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2161"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1144"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1298",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701484,
+        12578545,
+        12578546,
+        12578547,
+        12578548,
+        12578549,
+        12578550,
+        12701493,
+        12701498,
+        12701499,
+        12701500,
+        12701341
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1210-06",
+        "/s-ct/134/1298-01",
+        "/s-ct/134/1298-02",
+        "/s-ct/134/1298-03",
+        "/s-ct/134/1298-04",
+        "/s-ct/134/1298-05",
+        "/s-ct/134/1298-06",
+        "/us/571/1211-05",
+        "/us/571/1211-06",
+        "/us/571/1211-07",
+        "/us/571/1211-08",
+        "/us/571/1199-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 230,
+    "sha256": "4a3d6d7d0295dbfb5f8d02ee39a62b3f9b8876f8c8c0090b7ce2f8ffcb7b8934",
+    "simhash": "1:55a7344483ba5e18",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randall K. VENZIE, petitioner,\nv.\nMeg W. YATAURO, Administrator, Adult Diagnostic and Treatment Center."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Randall K. VENZIE, petitioner,\nv.\nMeg W. YATAURO, Administrator, Adult Diagnostic and Treatment Center.\nNo. 13-7763.\nSupreme Court of the United States\nMay 5, 2014.\nFormer decision, 134 S.Ct. 1298.\nPetition for rehearing denied."
+  },
+  "file_name": "2161-06",
+  "first_page_order": 2161,
+  "last_page_order": 2161
+}

@@ -1,0 +1,82 @@
+{
+  "id": 12585797,
+  "name": "Andrew MOSS, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Moss v. Newyork",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135592.",
+  "first_page": "823",
+  "last_page": "824",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 823"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "21 N.Y.3d 1",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3751612
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny3d/21/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 234,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634806121901315
+    },
+    "sha256": "1f50a8187efb8b492727894c934d2b11833ea70dbe34f70051ebbfb34035d127",
+    "simhash": "1:2abf748631892194",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew MOSS, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew MOSS, petitioner,\nv.\nNEW YORK.\nNo. 13-5592.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 21 N.Y.3d 1, 966 N.Y.S.2d 747, 989 N.E.2d 9.\nPetition for writ of certiorari to the Court of Appeal of New York denied."
+  },
+  "file_name": "0823-06",
+  "first_page_order": 823,
+  "last_page_order": 824
+}

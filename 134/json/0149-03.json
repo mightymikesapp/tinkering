@@ -1,0 +1,75 @@
+{
+  "id": 12579212,
+  "name": "Chen HALE, petitioner, v. VACAVILLE HOUSING AUTHORITY.",
+  "name_abbreviation": "Hale v. Vacaville Hous. Auth.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310657.",
+  "first_page": "149",
+  "last_page": "149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 149"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 105"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "491 Fed.Appx. 839",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 250,
+    "sha256": "f5a6ae27dfb648a2e6cbd7889ee301551cd93ac754c5c776cea604edcbc580a9",
+    "simhash": "1:e1efc204396097a0",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chen HALE, petitioner,\nv.\nVACAVILLE HOUSING AUTHORITY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Chen HALE, petitioner,\nv.\nVACAVILLE HOUSING AUTHORITY.\nNo. 12-10657.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 491 Fed.Appx. 839.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0149-03",
+  "first_page_order": 149,
+  "last_page_order": 149
+}

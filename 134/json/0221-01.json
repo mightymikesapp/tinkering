@@ -1,0 +1,85 @@
+{
+  "id": 12581229,
+  "name": "William STEGMEIER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Stegmeier v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u201314.",
+  "first_page": "221",
+  "last_page": "221",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 221"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 144"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "701 F.3d 574",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5710679
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/701/0574-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633296381372041
+    },
+    "sha256": "0e1581857c713e323aede832b548c5712359310e4264537f035afc2c9e3c33e0",
+    "simhash": "1:a12ce6463b6797b1",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William STEGMEIER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William STEGMEIER, petitioner,\nv.\nUNITED STATES.\nNo. 13-14.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 701 F.3d 574.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0221-01",
+  "first_page_order": 221,
+  "last_page_order": 221
+}

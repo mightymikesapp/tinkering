@@ -1,0 +1,85 @@
+{
+  "id": 12585095,
+  "name": "Tim WOOD and Rob Savage, petitioners, v. Michael MOSS, et al.",
+  "name_abbreviation": "Wood v. Moss",
+  "decision_date": "2013-11-26",
+  "docket_number": "No. 13\u2013115.",
+  "first_page": "677",
+  "last_page": "677",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 677"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 544"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "675 F.3d 1213",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3752562
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/675/1213-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 253,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634574448162808
+    },
+    "sha256": "5687930a50118902147d79f0ed71cc283aef312310bc9661f556a052f1843540",
+    "simhash": "1:72bf604c3a9551ce",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tim WOOD and Rob Savage, petitioners,\nv.\nMichael MOSS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "Tim WOOD and Rob Savage, petitioners,\nv.\nMichael MOSS, et al.\nNo. 13-115.\nSupreme Court of the United States\nNov. 26, 2013.\nCase below, 675 F.3d 1213.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted."
+  },
+  "file_name": "0677-01",
+  "first_page_order": 677,
+  "last_page_order": 677
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12585882,
+  "name": "LeRoy K. WHEELER, petitioner, v. Rena M. DeSAUTEL, et al.",
+  "name_abbreviation": "Wheeler v. Desautel",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135862.",
+  "first_page": "837",
+  "last_page": "837",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 837"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 684"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 476",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12584167,
+        12584168,
+        12584169,
+        12584170,
+        12584171,
+        12584172,
+        12704506,
+        12704507,
+        12704508,
+        12704509,
+        12704510,
+        12704415
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0476-01",
+        "/s-ct/134/0476-02",
+        "/s-ct/134/0476-03",
+        "/s-ct/134/0476-04",
+        "/s-ct/134/0476-05",
+        "/s-ct/134/0476-06",
+        "/us/571/0976-10",
+        "/us/571/0976-11",
+        "/us/571/0976-12",
+        "/us/571/0976-13",
+        "/us/571/0976-14",
+        "/us/571/0970-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 254,
+    "sha256": "f03d013abd83d2566e14a3655dc536c66ebb9b240e5eea021bacd7a76b2c8e55",
+    "simhash": "1:66b77c0242aeef9a",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LeRoy K. WHEELER, petitioner,\nv.\nRena M. DeSAUTEL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "LeRoy K. WHEELER, petitioner,\nv.\nRena M. DeSAUTEL, et al.\nNo. 13-5862.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 476\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0837-01",
+  "first_page_order": 837,
+  "last_page_order": 837
+}

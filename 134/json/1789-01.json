@@ -1,0 +1,75 @@
+{
+  "id": 12580076,
+  "name": "Todd F. FUHR, petitioner, v. TRINITY HEALTH CORPORATION, et al.",
+  "name_abbreviation": "Fuhr v. Trinity Health Corp.",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u2013793.",
+  "first_page": "1789",
+  "last_page": "1789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1789"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 758"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "837 N.W.2d 275",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 228,
+    "sha256": "8db0f14aab309c44d43e2a2a9d08db027e58273909b1b08fa28815fb2c3a8606",
+    "simhash": "1:fa2a374ceaf5411d",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Todd F. FUHR, petitioner,\nv.\nTRINITY HEALTH CORPORATION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Todd F. FUHR, petitioner,\nv.\nTRINITY HEALTH CORPORATION, et al.\nNo. 13-793.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 837 N.W.2d 275.\nPetition for writ of certiorari to the Supreme Court of Michigan denied."
+  },
+  "file_name": "1789-01",
+  "first_page_order": 1789,
+  "last_page_order": 1789
+}

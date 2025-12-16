@@ -1,0 +1,85 @@
+{
+  "id": 12580504,
+  "name": "Cesar GOMEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gomez v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139168.",
+  "first_page": "1908",
+  "last_page": "1908",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1908"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 936"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "725 F.3d 1121",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071733
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/725/1121-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 235,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26330318871872455
+    },
+    "sha256": "252476a1ac100004fb256ad81fc347d60489da2d23535c771df00b327924a757",
+    "simhash": "1:d7ee7644290756b1",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cesar GOMEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cesar GOMEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-9168.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 725 F.3d 1121.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1908-02",
+  "first_page_order": 1908,
+  "last_page_order": 1908
+}

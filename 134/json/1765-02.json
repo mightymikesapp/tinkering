@@ -1,0 +1,98 @@
+{
+  "id": 12579922,
+  "name": "In the Matter of an ATTORNEY (ANONYMOUS), petitioner, v. GRIEVANCE COMMITTEE FOR the SEVENTH JUDICIAL DISTRICT.",
+  "name_abbreviation": "Attorney v. Grievance Comm. for the Seventh Judicial Dist.",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u2013903.",
+  "first_page": "1765",
+  "last_page": "1765",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1765"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 594"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "981 N.Y.S.2d 358",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        4297202
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny3d/22/1051-04"
+      ]
+    },
+    {
+      "cite": "22 N.Y.3d 1052",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4295269
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny3d/22/1052-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 312,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632852340039902
+    },
+    "sha256": "07014fddd2e67682544e50022ad29680ea2ef72eb95035f1fea15e7abfc17611",
+    "simhash": "1:623f000230c113f1",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of an ATTORNEY (ANONYMOUS), petitioner,\nv.\nGRIEVANCE COMMITTEE FOR the SEVENTH JUDICIAL DISTRICT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "In the Matter of an ATTORNEY (ANONYMOUS), petitioner,\nv.\nGRIEVANCE COMMITTEE FOR the SEVENTH JUDICIAL DISTRICT.\nNo. 13-903.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 22 N.Y.3d 1052, 981 N.Y.S.2d 358, 4 N.E.3d 370.\nPetition for writ of certiorari to the Court of Appeals of New York denied."
+  },
+  "file_name": "1765-02",
+  "first_page_order": 1765,
+  "last_page_order": 1765
+}

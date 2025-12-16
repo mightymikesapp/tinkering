@@ -1,0 +1,85 @@
+{
+  "id": 12585034,
+  "name": "Lamar CARRIGAN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Carrigan v. United States",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20137013.",
+  "first_page": "668",
+  "last_page": "668",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 668"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 441"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "724 F.3d 39",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4068076
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/724/0039-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 235,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634562864475883
+    },
+    "sha256": "1fb9047a07cafce4aa48b78c3d6704bca9d53ee68eeb3d5d1c53ac89f0b8fea0",
+    "simhash": "1:07ef66c63a05d69e",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lamar CARRIGAN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lamar CARRIGAN, petitioner,\nv.\nUNITED STATES.\nNo. 13-7013.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 724 F.3d 39.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0668-03",
+  "first_page_order": 668,
+  "last_page_order": 668
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12581669,
+  "name": "Peter M. SINCLAIR, petitioner, v. CITI MORTGAGE, INC., et al.",
+  "name_abbreviation": "Sinclair v. Citi Mortg., Inc.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135191.",
+  "first_page": "245",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 245"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 182"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Fed.Appx. 737",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 256,
+    "sha256": "c5d22142be30d9e9a6c6af77b04ef0157f26aed157ff8bf82c6d2b0ee5c5e60e",
+    "simhash": "1:e52ef0443fc19f2b",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peter M. SINCLAIR, petitioner,\nv.\nCITI MORTGAGE, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Peter M. SINCLAIR, petitioner,\nv.\nCITI MORTGAGE, INC., et al.\nNo. 13-5191.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 519 Fed.Appx. 737.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0245-06",
+  "first_page_order": 245,
+  "last_page_order": 245
+}

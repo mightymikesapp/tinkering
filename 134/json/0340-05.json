@@ -1,0 +1,85 @@
+{
+  "id": 12583387,
+  "name": "James Roger THORNE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Thorne v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013208.",
+  "first_page": "340",
+  "last_page": "340",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 340"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 158"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "55 A.3d 873",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7312091
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/55/0873-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 222,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26340705577815543
+    },
+    "sha256": "0473a1986e8601d62f85c0abcbbf6f95bb9882c8111afd6519d7aa6209a989ba",
+    "simhash": "1:ebec76463bcf84b5",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Roger THORNE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the District of Columbia Court of Appeals denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Roger THORNE, petitioner,\nv.\nUNITED STATES.\nNo. 13-208.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 55 A.3d 873.\nPetition for writ of certiorari to the District of Columbia Court of Appeals denied."
+  },
+  "file_name": "0340-05",
+  "first_page_order": 340,
+  "last_page_order": 340
+}

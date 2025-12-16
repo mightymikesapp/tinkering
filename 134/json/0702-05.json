@@ -1,0 +1,85 @@
+{
+  "id": 12585264,
+  "name": "Ronald J. STRONG, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Strong v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136890.",
+  "first_page": "702",
+  "last_page": "702",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 702"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 566"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "724 F.3d 51",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4068465
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/724/0051-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26346478115133354
+    },
+    "sha256": "897b99c4041b46ae0acfa2a9fbfa50ae3cfa9fd1a30e1cebd092f437b7673560",
+    "simhash": "1:ba6d66c43a05d6ab",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald J. STRONG, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ronald J. STRONG, petitioner,\nv.\nUNITED STATES.\nNo. 13-6890.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 724 F.3d 51.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0702-05",
+  "first_page_order": 702,
+  "last_page_order": 702
+}

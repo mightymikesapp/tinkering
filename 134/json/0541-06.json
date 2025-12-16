@@ -1,0 +1,75 @@
+{
+  "id": 12584564,
+  "name": "Nicholas M. RAGOSTA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ragosta v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136633.",
+  "first_page": "541",
+  "last_page": "542",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 541"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 388"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "522 Fed.Appx. 663",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "sha256": "8e4a9540e3fbf294bbbd01dc6e83fe9ee9616b5d4d69616a9c242fd15ff47482",
+    "simhash": "1:52ac8244030702bb",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nicholas M. RAGOSTA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nicholas M. RAGOSTA, petitioner,\nv.\nUNITED STATES.\nNo. 13-6633.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 522 Fed.Appx. 663.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0541-06",
+  "first_page_order": 541,
+  "last_page_order": 542
+}

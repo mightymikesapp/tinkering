@@ -1,0 +1,73 @@
+{
+  "id": 12583335,
+  "name": "Lance TYLER, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Tyler v. Pennsylvania",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135743.",
+  "first_page": "332",
+  "last_page": "333",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 332"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 233"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "60 A.3d 580",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 230,
+    "sha256": "cc5875899a2893106715ce1670eaf8779ec21c8ebf58fc54f0b10917fd239b30",
+    "simhash": "1:d96f723d6aa78fe0",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lance TYLER, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Lance TYLER, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-5743.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 60 A.3d 580.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office, denied."
+  },
+  "file_name": "0332-06",
+  "first_page_order": 332,
+  "last_page_order": 333
+}

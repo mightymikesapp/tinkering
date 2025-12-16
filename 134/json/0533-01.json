@@ -1,0 +1,73 @@
+{
+  "id": 12584506,
+  "name": "Bruce THOMPSON, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Thompson v. Pennsylvania",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136499.",
+  "first_page": "533",
+  "last_page": "533",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 533"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 382"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "60 A.3d 861",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 247,
+    "sha256": "d699dea49f7b664db7d303cf7795f4b2e3fec68c794585a2672a88641b7f0a45",
+    "simhash": "1:486f64c8128987f7",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bruce THOMPSON, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Bruce THOMPSON, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-6499.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, --- Pa. ----, 60 A.3d 861.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office, denied."
+  },
+  "file_name": "0533-01",
+  "first_page_order": 533,
+  "last_page_order": 533
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12581558,
+  "name": "Waseem DAKER, petitioner, v. Neil WARREN, Sheriff, Cobb County, Georgia.",
+  "name_abbreviation": "Daker v. Warren",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20137378.",
+  "first_page": "2330",
+  "last_page": "2330",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2330"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 203"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1006",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700905,
+        12700906,
+        12577899,
+        12577900,
+        12577901,
+        12577902,
+        12577903,
+        12577904,
+        12700915,
+        12700923,
+        12700924,
+        12700925
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1165-04",
+        "/us/571/1165-05",
+        "/s-ct/134/1006-01",
+        "/s-ct/134/1006-02",
+        "/s-ct/134/1006-03",
+        "/s-ct/134/1006-04",
+        "/s-ct/134/1006-05",
+        "/s-ct/134/1006-06",
+        "/us/571/1166-08",
+        "/us/571/1166-09",
+        "/us/571/1166-10",
+        "/us/571/1166-11"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 200,
+    "sha256": "a7543cfaa658ca76c5b93505df2f8a94919a65fbf193eea21578d6d2eeef7d10",
+    "simhash": "1:50a816c681b5562d",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Waseem DAKER, petitioner,\nv.\nNeil WARREN, Sheriff, Cobb County, Georgia."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Waseem DAKER, petitioner,\nv.\nNeil WARREN, Sheriff, Cobb County, Georgia.\nNo. 13-7378.\nSupreme Court of the United States\nMay 19, 2014.\nFormer decision, 134 S.Ct. 1006.\nPetition for rehearing denied."
+  },
+  "file_name": "2330-02",
+  "first_page_order": 2330,
+  "last_page_order": 2330
+}

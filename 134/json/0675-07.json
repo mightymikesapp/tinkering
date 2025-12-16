@@ -1,0 +1,103 @@
+{
+  "id": 12585086,
+  "name": "Udeme T. NDON, petitioner, v. UNIVERSITY OF WISCONSIN-MILWAUKEE.",
+  "name_abbreviation": "Ndon v. Univ. of Wisconsin-Milwaukee",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 12\u201310622.",
+  "first_page": "675",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 675"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 464"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 392",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702944,
+        12702853,
+        12702822,
+        12702792,
+        12583725,
+        12583726,
+        12583727,
+        12583728,
+        12583729,
+        12583730,
+        12702929,
+        12702975
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0867-06",
+        "/us/571/0861-06",
+        "/us/571/0859-06",
+        "/us/571/0857-06",
+        "/s-ct/134/0392-01",
+        "/s-ct/134/0392-02",
+        "/s-ct/134/0392-03",
+        "/s-ct/134/0392-04",
+        "/s-ct/134/0392-05",
+        "/s-ct/134/0392-06",
+        "/us/571/0866-06",
+        "/us/571/0869-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 192,
+    "sha256": "386e90643b2e5eb8a577988ea6b1976a309c232d4c83cad18972de8fbfa27de2",
+    "simhash": "1:143f34c415c87982",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Udeme T. NDON, petitioner,\nv.\nUNIVERSITY OF WISCONSIN-MILWAUKEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Udeme T. NDON, petitioner,\nv.\nUNIVERSITY OF WISCONSIN-MILWAUKEE.\nNo. 12-10622.\nSupreme Court of the United States\nNov. 18, 2013.\nFormer decision, 134 S.Ct. 392\nPetition for rehearing denied."
+  },
+  "file_name": "0675-07",
+  "first_page_order": 675,
+  "last_page_order": 675
+}

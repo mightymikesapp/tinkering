@@ -1,0 +1,103 @@
+{
+  "id": 12582808,
+  "name": "Michael J. GREEN, petitioner, v. ALABAMA, et al.",
+  "name_abbreviation": "Green v. Alabama",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20139074.",
+  "first_page": "2868",
+  "last_page": "2868",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2868"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 827"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3733"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1949",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706080,
+        12706081,
+        12706082,
+        12580783,
+        12580784,
+        12580785,
+        12580786,
+        12580787,
+        12580788,
+        12706003,
+        12706078,
+        12706079
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1093-11",
+        "/us/572/1093-12",
+        "/us/572/1093-13",
+        "/s-ct/134/1949-01",
+        "/s-ct/134/1949-02",
+        "/s-ct/134/1949-03",
+        "/s-ct/134/1949-04",
+        "/s-ct/134/1949-05",
+        "/s-ct/134/1949-06",
+        "/us/572/1088-02",
+        "/us/572/1093-09",
+        "/us/572/1093-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 177,
+    "sha256": "8e8213caa4bc015a004fd73a5726a72fa0315c97327131a86e113a975c3341d0",
+    "simhash": "1:40270c8607b0d4ca",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael J. GREEN, petitioner,\nv.\nALABAMA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael J. GREEN, petitioner,\nv.\nALABAMA, et al.\nNo. 13-9074.\nSupreme Court of the United States\nJune 23, 2014.\nFormer decision, 134 S.Ct. 1949.\nPetition for rehearing denied."
+  },
+  "file_name": "2868-06",
+  "first_page_order": 2868,
+  "last_page_order": 2868
+}

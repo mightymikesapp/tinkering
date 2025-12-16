@@ -1,0 +1,91 @@
+{
+  "id": 12583381,
+  "name": "Wilhelmina MOORE, petitioner, v. WILLIAMSBURG COUNTY SCHOOL DISTRICT, et al.",
+  "name_abbreviation": "Moore v. Williamsburg Cnty. Sch. Dist.",
+  "decision_date": "2013-08-12",
+  "docket_number": "No. 12\u20131097.",
+  "first_page": "33",
+  "last_page": "33",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 33"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 947"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3079"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2344",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698084,
+        12698134,
+        12698135,
+        12698072,
+        12698073,
+        12698074
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0974-05",
+        "/us/569/0977-04",
+        "/us/569/0977-05",
+        "/us/569/0973-01",
+        "/us/569/0973-02",
+        "/us/569/0973-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 204,
+    "sha256": "f146d884c357c6fabf057bb5d527716a48049c872bf119edc9cb36bc3f64ddae",
+    "simhash": "1:3a2f36509e804216",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wilhelmina MOORE, petitioner,\nv.\nWILLIAMSBURG COUNTY SCHOOL DISTRICT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Wilhelmina MOORE, petitioner,\nv.\nWILLIAMSBURG COUNTY SCHOOL DISTRICT, et al.\nNo. 12-1097.\nSupreme Court of the United States\nAug. 12, 2013.\nFormer decision, 133 S.Ct. 2344\nPetition for rehearing denied."
+  },
+  "file_name": "0033-04",
+  "first_page_order": 33,
+  "last_page_order": 33
+}

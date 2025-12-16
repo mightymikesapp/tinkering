@@ -1,0 +1,85 @@
+{
+  "id": 12578264,
+  "name": "Larry LITTLE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Little v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310378.",
+  "first_page": "108",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 108"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 79"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "708 F.3d 1286",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3541547
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/708/1286-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26322673638501703
+    },
+    "sha256": "a0061c53fe66779866dbaa5ae7ef9cac08677c0a78e3f212f9a7915d3b1b070b",
+    "simhash": "1:b1ed7674b347c799",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry LITTLE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Larry LITTLE, petitioner,\nv.\nUNITED STATES.\nNo. 12-10378.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 708 F.3d 1286.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0108-01",
+  "first_page_order": 108,
+  "last_page_order": 108
+}

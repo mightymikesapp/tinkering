@@ -1,0 +1,73 @@
+{
+  "id": 12585955,
+  "name": "Brian M. CASEY, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Casey v. Florida",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310186.",
+  "first_page": "88",
+  "last_page": "88",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 88"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 67"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "100 So.3d 687",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 232,
+    "sha256": "27781dc6dab9d0931bfec2d77036e0cdaab18431c3c462eee33d48673dab598a",
+    "simhash": "1:605b760758b9c9b5",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian M. CASEY, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Brian M. CASEY, petitioner,\nv.\nFLORIDA.\nNo. 12-10186.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 100 So.3d 687.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Second District, denied."
+  },
+  "file_name": "0088-03",
+  "first_page_order": 88,
+  "last_page_order": 88
+}

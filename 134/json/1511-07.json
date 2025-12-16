@@ -1,0 +1,103 @@
+{
+  "id": 12579291,
+  "name": "Marcellino ESCOBAR, petitioner, v. Jerry CHRISMAN, Warden.",
+  "name_abbreviation": "Escobar v. Chrisman",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20137173.",
+  "first_page": "1511",
+  "last_page": "1511",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1511"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 390"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 929",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700512,
+        12700513,
+        12700514,
+        12586182,
+        12586183,
+        12586184,
+        12586185,
+        12586186,
+        12586187,
+        12700509,
+        12700510,
+        12700511
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1139-04",
+        "/us/571/1139-05",
+        "/us/571/1139-06",
+        "/s-ct/134/0929-01",
+        "/s-ct/134/0929-02",
+        "/s-ct/134/0929-03",
+        "/s-ct/134/0929-04",
+        "/s-ct/134/0929-05",
+        "/s-ct/134/0929-06",
+        "/us/571/1139-01",
+        "/us/571/1139-02",
+        "/us/571/1139-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 186,
+    "sha256": "9fb80e692c2970bff367941e544416dee7197f50e94912182b8feb54aaa82a01",
+    "simhash": "1:30bd1e425d983747",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marcellino ESCOBAR, petitioner,\nv.\nJerry CHRISMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marcellino ESCOBAR, petitioner,\nv.\nJerry CHRISMAN, Warden.\nNo. 13-7173.\nSupreme Court of the United States\nMarch 3, 2014.\nFormer decision, 134 S.Ct. 929.\nPetition for rehearing denied."
+  },
+  "file_name": "1511-07",
+  "first_page_order": 1511,
+  "last_page_order": 1511
+}

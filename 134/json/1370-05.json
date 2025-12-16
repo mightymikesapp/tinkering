@@ -1,0 +1,103 @@
+{
+  "id": 12579037,
+  "name": "Marlan C. BONDS, petitioner, v. Bill K. WILSON, Superintendent, Indiana State Prison.",
+  "name_abbreviation": "Bonds v. Wilson",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136859.",
+  "first_page": "1370",
+  "last_page": "1370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1370"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 367"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 829",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700160,
+        12700161,
+        12585827,
+        12585828,
+        12585829,
+        12585830,
+        12585831,
+        12585832,
+        12700170,
+        12700171,
+        12700158,
+        12700159
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1112-03",
+        "/us/571/1112-04",
+        "/s-ct/134/0829-01",
+        "/s-ct/134/0829-02",
+        "/s-ct/134/0829-03",
+        "/s-ct/134/0829-04",
+        "/s-ct/134/0829-05",
+        "/s-ct/134/0829-06",
+        "/us/571/1112-14",
+        "/us/571/1112-15",
+        "/us/571/1112-01",
+        "/us/571/1112-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 213,
+    "sha256": "698d88894e8695251df12f241b20098a8e8e43cd75b12d85bb076be831d89ea2",
+    "simhash": "1:fe3c7e46158ef622",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marlan C. BONDS, petitioner,\nv.\nBill K. WILSON, Superintendent, Indiana State Prison."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marlan C. BONDS, petitioner,\nv.\nBill K. WILSON, Superintendent, Indiana State Prison.\nNo. 13-6859.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 829.\nPetition for rehearing denied."
+  },
+  "file_name": "1370-05",
+  "first_page_order": 1370,
+  "last_page_order": 1370
+}

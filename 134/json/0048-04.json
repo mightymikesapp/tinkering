@@ -1,0 +1,85 @@
+{
+  "id": 12584261,
+  "name": "TOLL BROS., INC, et al. v. Mehdi NOOHI, et al.",
+  "name_abbreviation": "Toll Bros., Inc. v. Noohi",
+  "decision_date": "2013-09-26",
+  "docket_number": "No. 13\u201355; R46\u2013026.",
+  "first_page": "48",
+  "last_page": "48",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 48"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 961"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "708 F.3d 599",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3542291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/708/0599-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 251,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634282925375186
+    },
+    "sha256": "d93f2decd8c87977557f9b9e911f45978abce4534e3cab0d86af9b8f89c03f4f",
+    "simhash": "1:73cf10442ac8585b",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TOLL BROS., INC, et al.\nv.\nMehdi NOOHI, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46.1 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "TOLL BROS., INC, et al.\nv.\nMehdi NOOHI, et al.\nNo. 13-55, R46-026.\nSupreme Court of the United States\nSept. 26, 2013.\nCase below, 708 F.3d 599.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46.1 of the Rules of this Court."
+  },
+  "file_name": "0048-04",
+  "first_page_order": 48,
+  "last_page_order": 48
+}

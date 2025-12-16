@@ -1,0 +1,91 @@
+{
+  "id": 12585842,
+  "name": "Justin TATUM, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Tatum v. Massachusetts",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20136997.",
+  "first_page": "830",
+  "last_page": "830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 830"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 691"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "992 N.E.2d 987",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "466 Mass. 45",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4224741
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/466/0045-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634829289275166
+    },
+    "sha256": "9d51fb2aea620419f3ee8cdee609e41bf537ec2fb6ea28d113e368e827abc34f",
+    "simhash": "1:607cd68e3ac54787",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Justin TATUM, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Justin TATUM, petitioner,\nv.\nMASSACHUSETTS.\nNo. 13-6997.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 466 Mass. 45, 992 N.E.2d 987.\nPetition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+  },
+  "file_name": "0830-05",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

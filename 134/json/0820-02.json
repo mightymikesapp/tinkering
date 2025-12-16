@@ -1,0 +1,103 @@
+{
+  "id": 12585776,
+  "name": "Gregory PAPADOPOULOS, petitioner, v. Barack H. OBAMA, President of the United States, et al.",
+  "name_abbreviation": "Papadopoulos v. Obama",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20136088.",
+  "first_page": "820",
+  "last_page": "820",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 820"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 621"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 446",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12583968,
+        12583969,
+        12583970,
+        12583971,
+        12583972,
+        12583973,
+        12704296,
+        12704201,
+        12704202,
+        12704305,
+        12704313,
+        12704314
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0446-01",
+        "/s-ct/134/0446-02",
+        "/s-ct/134/0446-03",
+        "/s-ct/134/0446-04",
+        "/s-ct/134/0446-05",
+        "/s-ct/134/0446-06",
+        "/us/571/0962-06",
+        "/us/571/0955-10",
+        "/us/571/0955-11",
+        "/us/571/0963-08",
+        "/us/571/0963-09",
+        "/us/571/0963-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 219,
+    "sha256": "a40cf934ab742016a2e3c4706b63e7506403562967b777f118b815e20281d2c5",
+    "simhash": "1:72278ec61c8347de",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory PAPADOPOULOS, petitioner,\nv.\nBarack H. OBAMA, President of the United States, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory PAPADOPOULOS, petitioner,\nv.\nBarack H. OBAMA, President of the United States, et al.\nNo. 13-6088.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 446.\nPetition for rehearing denied."
+  },
+  "file_name": "0820-02",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

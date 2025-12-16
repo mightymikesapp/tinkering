@@ -1,0 +1,103 @@
+{
+  "id": 12583004,
+  "name": "Julian Gago de MEDEIROS, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "De Medeiros v. California",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20139129.",
+  "first_page": "2898",
+  "last_page": "2898",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2898"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 852"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3747"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1950",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12580800,
+        12706083,
+        12706121,
+        12706027,
+        12706004,
+        12706005,
+        12706071,
+        12580795,
+        12580796,
+        12580797,
+        12580798,
+        12580799
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1950-06",
+        "/us/572/1093-14",
+        "/us/572/1096-07",
+        "/us/572/1089-14",
+        "/us/572/1088-03",
+        "/us/572/1088-04",
+        "/us/572/1093-01",
+        "/s-ct/134/1950-01",
+        "/s-ct/134/1950-02",
+        "/s-ct/134/1950-03",
+        "/s-ct/134/1950-04",
+        "/s-ct/134/1950-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 179,
+    "sha256": "d69ffa73b08c66ba6f9b20455dea83c2f22ca6d0c2f096f3d00225af2571e8ce",
+    "simhash": "1:51742cc430f5ef4e",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Julian Gago de MEDEIROS, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Julian Gago de MEDEIROS, petitioner,\nv.\nCALIFORNIA.\nNo. 13-9129.\nSupreme Court of the United States\nJune 30, 2014.\nFormer decision, 134 S.Ct. 1950\nPetition for rehearing denied."
+  },
+  "file_name": "2898-04",
+  "first_page_order": 2898,
+  "last_page_order": 2898
+}

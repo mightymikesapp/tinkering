@@ -1,0 +1,86 @@
+{
+  "id": 12581334,
+  "name": "Corey COGGINS, petitioner, v. GEORGIA.",
+  "name_abbreviation": "Coggins v. Georgia",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20138978.",
+  "first_page": "2296",
+  "last_page": "2296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2296"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 181"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "293 Ga. 864",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        4242717
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/293/0864-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 215,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633358161035643
+    },
+    "sha256": "0ac81d6cb28b0e82fb74e3d9e3d07e795060e7140259600489022e9592df529b",
+    "simhash": "1:59ded61c7a35e277",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Corey COGGINS, petitioner,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Corey COGGINS, petitioner,\nv.\nGEORGIA.\nNo. 13-8978.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 293 Ga. 864, 750 S.E.2d 331.\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "2296-03",
+  "first_page_order": 2296,
+  "last_page_order": 2296
+}

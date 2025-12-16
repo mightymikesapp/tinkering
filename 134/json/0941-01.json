@@ -1,0 +1,75 @@
+{
+  "id": 12586266,
+  "name": "William C. DALTON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Dalton v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013589.",
+  "first_page": "941",
+  "last_page": "941",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 941"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 784"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "72 M.J. 446",
+      "category": "reporters:specialty",
+      "reporter": "M.J.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 236,
+    "sha256": "1bf2175a5214e5648744102a0a81a0242fd071e3389756e7a3d4a9014472b400",
+    "simhash": "1:8bac604420005591",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William C. DALTON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+    ],
+    "corrections": "",
+    "head_matter": "William C. DALTON, petitioner,\nv.\nUNITED STATES.\nNo. 13-589.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 72 M.J. 446.\nPetition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+  },
+  "file_name": "0941-01",
+  "first_page_order": 941,
+  "last_page_order": 941
+}

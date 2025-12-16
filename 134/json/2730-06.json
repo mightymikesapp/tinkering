@@ -1,0 +1,83 @@
+{
+  "id": 12582290,
+  "name": "Robert Lee BROWN, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Brown v. Florida",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20139546.",
+  "first_page": "2730",
+  "last_page": "2730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2730"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 771"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "24 So.3d 671",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7050531
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/24/0671-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 231,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633682504269554
+    },
+    "sha256": "c0e8ef0c5efd7fac6956907a9458abdb587e7b972df89f23783c4f1bf55b3987",
+    "simhash": "1:d06a1456ec0d4d89",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Lee BROWN, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert Lee BROWN, petitioner,\nv.\nFLORIDA.\nNo. 13-9546.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 24 So.3d 671.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Fifth District, denied."
+  },
+  "file_name": "2730-06",
+  "first_page_order": 2730,
+  "last_page_order": 2730
+}

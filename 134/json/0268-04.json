@@ -1,0 +1,99 @@
+{
+  "id": 12582005,
+  "name": "Wayne HORAN, aka Dino Caroselli, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Horan v. Newyork",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135301.",
+  "first_page": "268",
+  "last_page": "268",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 268"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 194"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "952 N.Y.S.2d 473",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        3488374
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ad3d/99/1021-01"
+      ]
+    },
+    {
+      "cite": "99 A.D.3d 1021",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3489884,
+        3488374
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ad3d/99/1021-02",
+        "/ad3d/99/1021-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 289,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26335821123162007
+    },
+    "sha256": "d82223d20c3188a1030f215d916695da96f9ae531e7acb94b77ff1d5a0e59058",
+    "simhash": "1:686fd2547ae42221",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wayne HORAN, aka Dino Caroselli, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Wayne HORAN, aka Dino Caroselli, petitioner,\nv.\nNEW YORK.\nNo. 13-5301.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 99 A.D.3d 1021, 952 N.Y.S.2d 473.\nPetition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, denied."
+  },
+  "file_name": "0268-04",
+  "first_page_order": 268,
+  "last_page_order": 268
+}

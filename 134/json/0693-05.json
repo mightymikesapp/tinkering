@@ -1,0 +1,81 @@
+{
+  "id": 12585203,
+  "name": "Michael Alan WIGGINS, petitioner, v. MARYLAND.",
+  "name_abbreviation": "Wiggins v. Maryland",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136524.",
+  "first_page": "693",
+  "last_page": "693",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 693"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 560"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "68 A.3d 287",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "209 Md.App. 768",
+      "category": "reporters:state",
+      "reporter": "Md. App.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 236,
+    "sha256": "351f3658c01902e71274a29416b6628d86f50a9e32f0754fd8d87b2889131661",
+    "simhash": "1:facf4656031a758b",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Alan WIGGINS, petitioner,\nv.\nMARYLAND."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Special Appeals of Maryland denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Alan WIGGINS, petitioner,\nv.\nMARYLAND.\nNo. 13-6524.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 209 Md.App. 768, 68 A.3d 287.\nPetition for writ of certiorari to the Court of Special Appeals of Maryland denied."
+  },
+  "file_name": "0693-05",
+  "first_page_order": 693,
+  "last_page_order": 693
+}

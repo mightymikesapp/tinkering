@@ -1,0 +1,85 @@
+{
+  "id": 12580405,
+  "name": "JOHNSTON & JOHNSTON, petitioner, v. CONSECO LIFE INSURANCE COMPANY.",
+  "name_abbreviation": "Johnston v. Conseco Life Ins. Co.",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20131022.",
+  "first_page": "1892",
+  "last_page": "1892",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1892"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 914"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "732 F.3d 555",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3710305
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/732/0555-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 259,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263301258104237
+    },
+    "sha256": "7cf8bdd55ba7c4efc09a85d1871ff0608b33fb55841865a7c7b7bf05736b2057",
+    "simhash": "1:f36774463dc1c791",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JOHNSTON & JOHNSTON, petitioner,\nv.\nCONSECO LIFE INSURANCE COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "JOHNSTON & JOHNSTON, petitioner,\nv.\nCONSECO LIFE INSURANCE COMPANY.\nNo. 13-1022.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 732 F.3d 555.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1892-05",
+  "first_page_order": 1892,
+  "last_page_order": 1892
+}

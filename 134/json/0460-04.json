@@ -1,0 +1,75 @@
+{
+  "id": 12584069,
+  "name": "Kevin FORREST, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Forrest v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136249.",
+  "first_page": "460",
+  "last_page": "460",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 460"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 308"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 257",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 240,
+    "sha256": "9d2bd4e41ee0ddb74ee53d9f7ee681a7cdc2fbf41c314789af06da64f56f3140",
+    "simhash": "1:f3ef768c26a746bf",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin FORREST, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin FORREST, petitioner,\nv.\nUNITED STATES.\nNo. 13-6249.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 520 Fed.Appx. 257.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0460-04",
+  "first_page_order": 460,
+  "last_page_order": 460
+}

@@ -1,0 +1,91 @@
+{
+  "id": 12583102,
+  "name": "Eric Emanuel TAYLOR, petitioner, v. Barack H. OBAMA, President of the United States, et al.",
+  "name_abbreviation": "Taylor v. Obama",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12\u20139328.",
+  "first_page": "29",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 29"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 941"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2356",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698194,
+        12698104,
+        12698203,
+        12698204,
+        12698205,
+        12698206
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0981-01",
+        "/us/569/0975-08",
+        "/us/569/0981-11",
+        "/us/569/0981-12",
+        "/us/569/0981-13",
+        "/us/569/0981-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 220,
+    "sha256": "229f0e4c416a1624a6e7a94a1a1e01923b3fa9695e5da34007b44e55489bb9ac",
+    "simhash": "1:333b94021ec817de",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric Emanuel TAYLOR, petitioner,\nv.\nBarack H. OBAMA, President of the United States, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric Emanuel TAYLOR, petitioner,\nv.\nBarack H. OBAMA, President of the United States, et al.\nNo. 12-9328.\nSupreme Court of the United States\nJuly 22, 2013.\nFormer decision, 133 S.Ct. 2356.\nPetition for rehearing denied."
+  },
+  "file_name": "0029-02",
+  "first_page_order": 29,
+  "last_page_order": 29
+}

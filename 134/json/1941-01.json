@@ -1,0 +1,85 @@
+{
+  "id": 12580734,
+  "name": "Enrique SUAREZ, et al., petitioners, v. Marjorie CHARRON, et al.",
+  "name_abbreviation": "Suarez v. Charron",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20131000.",
+  "first_page": "1941",
+  "last_page": "1941",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1941"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 961"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "731 F.3d 241",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3705599
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/731/0241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 257,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26331226260681606
+    },
+    "sha256": "5cc89d9148711e87253e069c419796af737fec203b4d32b21196cccf75cbcc8c",
+    "simhash": "1:fa27d6c4bec41b09",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Enrique SUAREZ, et al., petitioners,\nv.\nMarjorie CHARRON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Enrique SUAREZ, et al., petitioners,\nv.\nMarjorie CHARRON, et al.\nNo. 13-1000.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 731 F.3d 241.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1941-01",
+  "first_page_order": 1941,
+  "last_page_order": 1941
+}

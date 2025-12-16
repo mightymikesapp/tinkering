@@ -1,0 +1,75 @@
+{
+  "id": 12584700,
+  "name": "Risa KAPLAN, et al., petitioners, v. CODE BLUE BILLING & CODING, INC., et al.",
+  "name_abbreviation": "Kaplan v. Billing",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u2013179.",
+  "first_page": "618",
+  "last_page": "618",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 618"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 400"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "504 Fed.Appx. 831",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 275,
+    "sha256": "ee223c7db7e7ee1d717c7c3b19bcdfaca20a55ea2b911b74b87ea2251c5f1cbf",
+    "simhash": "1:21adf604bbc196f9",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Risa KAPLAN, et al., petitioners,\nv.\nCODE BLUE BILLING & CODING, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Risa KAPLAN, et al., petitioners,\nv.\nCODE BLUE BILLING & CODING, INC., et al.\nNo. 13-179.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 504 Fed.Appx. 831.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0618-02",
+  "first_page_order": 618,
+  "last_page_order": 618
+}

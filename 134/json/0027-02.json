@@ -1,0 +1,93 @@
+{
+  "id": 12582457,
+  "name": "Isal BEHIS, petitioner, v. TEXAS; and Isal Behis, petitioner, v. Texas.",
+  "name_abbreviation": "Behis v. Texas",
+  "decision_date": "2013-07-22",
+  "docket_number": "No. 12\u20138958.",
+  "first_page": "27",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 27"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 939"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3063"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2029",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697921,
+        12697922,
+        12697923,
+        12697924,
+        12697925,
+        12697926,
+        12697914
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0962-08",
+        "/us/569/0962-09",
+        "/us/569/0962-10",
+        "/us/569/0962-11",
+        "/us/569/0962-12",
+        "/us/569/0962-13",
+        "/us/569/0962-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 200,
+    "sha256": "96898addb18c1605e614da46335eb2c9e88893c8c83b88318407389628e74695",
+    "simhash": "1:850a2652ded8128f",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Isal BEHIS, petitioner,\nv.\nTEXAS; and Isal Behis, petitioner,\nv.\nTexas."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Isal BEHIS, petitioner,\nv.\nTEXAS; and Isal Behis, petitioner,\nv.\nTexas.\nNo. 12-8958.\nSupreme Court of the United States\nJuly 22, 2013.\nFormer decision, 133 S.Ct. 2029.\nPetition for rehearing denied."
+  },
+  "file_name": "0027-02",
+  "first_page_order": 27,
+  "last_page_order": 27
+}

@@ -1,0 +1,106 @@
+{
+  "id": 12580299,
+  "name": "LG ELECTRONICS, INC., et al., petitioners, v. INTERDIGITAL COMMUNICATIONS, LLC, et al.",
+  "name_abbreviation": "LG Elecs., Inc. v. Interdigital Commc'ns, LLC",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u2013796.",
+  "first_page": "1876",
+  "last_page": "1876",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1876"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 905"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3608"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": -1
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 2,
+      "year": 1950,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    },
+    {
+      "cite": "718 F.3d 1336",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4049236
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/1336-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 549,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632979760596081
+    },
+    "sha256": "1f5cd01dceb782d3fd941c260ba7e06b91de1c9576ae97b24defe2e2cf5df5e2",
+    "simhash": "1:2fbfe2cca8c01781",
+    "word_count": 91
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LG ELECTRONICS, INC., et al., petitioners,\nv.\nINTERDIGITAL COMMUNICATIONS, LLC, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit with instructions to dismiss the case as moot. See United States v. Munsingwear, Inc., 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950)."
+    ],
+    "corrections": "",
+    "head_matter": "LG ELECTRONICS, INC., et al., petitioners,\nv.\nINTERDIGITAL COMMUNICATIONS, LLC, et al.\nNo. 13-796.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 718 F.3d 1336.\nOn petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit with instructions to dismiss the case as moot. See United States v. Munsingwear, Inc., 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950)."
+  },
+  "file_name": "1876-01",
+  "first_page_order": 1876,
+  "last_page_order": 1876
+}

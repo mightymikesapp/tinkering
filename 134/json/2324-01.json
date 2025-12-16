@@ -1,0 +1,75 @@
+{
+  "id": 12581515,
+  "name": "Grant Decatur ALLEN, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Allen v. United States",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20139758.",
+  "first_page": "2324",
+  "last_page": "2324",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2324"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 199"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "533 Fed.Appx. 908",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 253,
+    "sha256": "fb365fb0c5fa2427b923c7d11bca5e58e5593c24804abd1b6157f4051b6097dc",
+    "simhash": "1:5dced646a3055411",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Grant Decatur ALLEN, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Grant Decatur ALLEN, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 13-9758.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 533 Fed.Appx. 908.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2324-01",
+  "first_page_order": 2324,
+  "last_page_order": 2324
+}

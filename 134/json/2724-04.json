@@ -1,0 +1,85 @@
+{
+  "id": 12582247,
+  "name": "WFC HOLDINGS CORPORATION, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "WFC Holdings Corp. v. United States",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20131037.",
+  "first_page": "2724",
+  "last_page": "2724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2724"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 763"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "728 F.3d 736",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3696574
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/728/0736-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26336593368957034
+    },
+    "sha256": "d3b6293ca278390fc752c33094b49d3b695254027dd3023cd8b7cc6e10498f8d",
+    "simhash": "1:5aade4446c240681",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WFC HOLDINGS CORPORATION, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "WFC HOLDINGS CORPORATION, petitioner,\nv.\nUNITED STATES.\nNo. 13-1037.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 728 F.3d 736.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "2724-04",
+  "first_page_order": 2724,
+  "last_page_order": 2724
+}

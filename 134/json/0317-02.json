@@ -1,0 +1,75 @@
+{
+  "id": 12583224,
+  "name": "Alexander ASSARIATHU, et al., petitioners, v. LONE STAR HEALTH MANAGEMENT ASSOCIATES, LP, et al.",
+  "name_abbreviation": "Assariathu v. Lone Star Health Mgmt. Assocs., LP",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013156.",
+  "first_page": "317",
+  "last_page": "317",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 317"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 156"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Fed.Appx. 315",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 290,
+    "sha256": "45a242775b91f5a9c1268cbeb239552f3b2630217598a3c2c3928640dd7c5f83",
+    "simhash": "1:21afe64ebfc582b9",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alexander ASSARIATHU, et al., petitioners,\nv.\nLONE STAR HEALTH MANAGEMENT ASSOCIATES, LP, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alexander ASSARIATHU, et al., petitioners,\nv.\nLONE STAR HEALTH MANAGEMENT ASSOCIATES, LP, et al.\nNo. 13-156.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 516 Fed.Appx. 315.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0317-02",
+  "first_page_order": 317,
+  "last_page_order": 317
+}

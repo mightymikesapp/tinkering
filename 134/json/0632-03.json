@@ -1,0 +1,103 @@
+{
+  "id": 12584797,
+  "name": "In re Anthony Leroy DAVIS, petitioner.",
+  "name_abbreviation": "In re Davis",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 12\u201310869.",
+  "first_page": "632",
+  "last_page": "632",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 632"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 399"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 188",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703040,
+        12580385,
+        12580386,
+        12580387,
+        12580388,
+        12580389,
+        12580390,
+        12703041,
+        12702189,
+        12702166,
+        12703038,
+        12703039
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0873-11",
+        "/s-ct/134/0188-01",
+        "/s-ct/134/0188-02",
+        "/s-ct/134/0188-03",
+        "/s-ct/134/0188-04",
+        "/s-ct/134/0188-05",
+        "/s-ct/134/0188-06",
+        "/us/571/0873-12",
+        "/us/571/0814-22",
+        "/us/571/0813-25",
+        "/us/571/0873-09",
+        "/us/571/0873-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 311,
+    "sha256": "4e4cff718228409428325f0669c0628ffb0490652a3276b74c115caeef007d45",
+    "simhash": "1:2ab07844040ee35a",
+    "word_count": 50
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Anthony Leroy DAVIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this motion.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this motion."
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Anthony Leroy DAVIS, petitioner.\nNo. 12-10869.\nSupreme Court of the United States\nNov. 12, 2013.\nFormer decision, 134 S.Ct. 188\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0632-03",
+  "first_page_order": 632,
+  "last_page_order": 632
+}

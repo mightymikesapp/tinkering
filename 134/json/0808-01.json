@@ -1,0 +1,85 @@
+{
+  "id": 12585681,
+  "name": "Fabian DUNBAR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Dunbar v. United States",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20137300.",
+  "first_page": "808",
+  "last_page": "808",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 808"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 611"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 1268",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4048692
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/1268-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 235,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634767509611564
+    },
+    "sha256": "167a86d3ce80b3185b85af38e0a60db3dec0d81164a19cf2850b7745cdae6d92",
+    "simhash": "1:1b6df6c6312796ad",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fabian DUNBAR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fabian DUNBAR, petitioner,\nv.\nUNITED STATES.\nNo. 13-7300.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 718 F.3d 1268.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0808-01",
+  "first_page_order": 808,
+  "last_page_order": 808
+}

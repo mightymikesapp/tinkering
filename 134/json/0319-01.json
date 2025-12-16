@@ -1,0 +1,85 @@
+{
+  "id": 12583235,
+  "name": "James MERCER, petitioner, v. Rajat K. GUPTA.",
+  "name_abbreviation": "Mercer v. Gupta",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013160.",
+  "first_page": "319",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 319"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 157"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "712 F.3d 756",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3556143
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/712/0756-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 234,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26340319454918026
+    },
+    "sha256": "facc83e290955e8abf532894afa526c877bd339b5fe8e6bdeb086b27ba861a1e",
+    "simhash": "1:526de644be4284a9",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James MERCER, petitioner,\nv.\nRajat K. GUPTA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James MERCER, petitioner,\nv.\nRajat K. GUPTA.\nNo. 13-160.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 712 F.3d 756.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0319-01",
+  "first_page_order": 319,
+  "last_page_order": 319
+}

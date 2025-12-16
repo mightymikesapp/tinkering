@@ -1,0 +1,99 @@
+{
+  "id": 12581024,
+  "name": "TRANSPORTAZUMAH LLC, petitioner, v. CITY OF NEW YORK, NEW YORK.",
+  "name_abbreviation": "Transportazumah LLC v. City of N.Y.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20138.",
+  "first_page": "213",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 213"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 143"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "955 N.Y.S.2d 333",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        3701340
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ad3d/101/0465-02"
+      ]
+    },
+    {
+      "cite": "101 A.D.3d 465",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3701340,
+        3699735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ad3d/101/0465-02",
+        "/ad3d/101/0465-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 291,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633240393551902
+    },
+    "sha256": "e0baf031ed44ad9d3550fad330a9fdcc85b8fd4fe11776dcf6da161b1bec955a",
+    "simhash": "1:e8efa6567ab0a125",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TRANSPORTAZUMAH LLC, petitioner,\nv.\nCITY OF NEW YORK, NEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, First Judicial Department, denied."
+    ],
+    "corrections": "",
+    "head_matter": "TRANSPORTAZUMAH LLC, petitioner,\nv.\nCITY OF NEW YORK, NEW YORK.\nNo. 13-8.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 101 A.D.3d 465, 955 N.Y.S.2d 333.\nPetition for writ of certiorari to the Appellate Division, Supreme Court of New York, First Judicial Department, denied."
+  },
+  "file_name": "0213-02",
+  "first_page_order": 213,
+  "last_page_order": 213
+}

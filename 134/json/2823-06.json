@@ -1,0 +1,81 @@
+{
+  "id": 12582511,
+  "name": "Alfredo R. PRIETO, petitioner, v. Eddie PEARSON, Warden.",
+  "name_abbreviation": "Prieto v. Pearson",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. 13\u20139622.",
+  "first_page": "2823",
+  "last_page": "2823",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2823"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 790"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3719"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "748 S.E.2d 94",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "286 Va. 99",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 233,
+    "sha256": "418f6b67ec5fa3e922fd8e6f02fc2590a3ddc481728548ba039988935428e692",
+    "simhash": "1:d823544428a72790",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alfredo R. PRIETO, petitioner,\nv.\nEddie PEARSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alfredo R. PRIETO, petitioner,\nv.\nEddie PEARSON, Warden.\nNo. 13-9622.\nSupreme Court of the United States\nJune 16, 2014.\nCase below, 286 Va. 99, 748 S.E.2d 94.\nPetition for writ of certiorari to the Supreme Court of Virginia denied."
+  },
+  "file_name": "2823-06",
+  "first_page_order": 2823,
+  "last_page_order": 2823
+}

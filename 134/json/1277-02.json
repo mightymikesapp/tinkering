@@ -1,0 +1,85 @@
+{
+  "id": 12578415,
+  "name": "SEARS, ROEBUCK AND COMPANY, petitioner, v. Larry BUTLER, et al., Individually and on Behalf of All Others Similarly Situated.",
+  "name_abbreviation": "Sears, Roebuck & Co. v. Butler",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013430.",
+  "first_page": "1277",
+  "last_page": "1277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1277"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 298"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "727 F.3d 796",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4076816
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/727/0796-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 317,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632350380273136
+    },
+    "sha256": "ec6c62b001aa4c1b8a85a905ea039276c8bbd9bd51e8370f245858b25f09f5da",
+    "simhash": "1:6c2774441f040221",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SEARS, ROEBUCK AND COMPANY, petitioner,\nv.\nLarry BUTLER, et al., Individually and on Behalf of All Others Similarly Situated."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "SEARS, ROEBUCK AND COMPANY, petitioner,\nv.\nLarry BUTLER, et al., Individually and on Behalf of All Others Similarly Situated.\nNo. 13-430.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 727 F.3d 796.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1277-02",
+  "first_page_order": 1277,
+  "last_page_order": 1277
+}

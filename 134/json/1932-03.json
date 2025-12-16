@@ -1,0 +1,103 @@
+{
+  "id": 12580678,
+  "name": "Jerry Lee SWISHER, petitioner, v. Michael D. CREWS, Secretary, Florida Department of Corrections.",
+  "name_abbreviation": "Swisher v. Crews",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138201.",
+  "first_page": "1932",
+  "last_page": "1932",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1932"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 954"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1343",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701697,
+        12578850,
+        12578851,
+        12578852,
+        12578853,
+        12578854,
+        12578855,
+        12701705,
+        12701706,
+        12701707,
+        12701708,
+        12701709
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1225-08",
+        "/s-ct/134/1343-01",
+        "/s-ct/134/1343-02",
+        "/s-ct/134/1343-03",
+        "/s-ct/134/1343-04",
+        "/s-ct/134/1343-05",
+        "/s-ct/134/1343-06",
+        "/us/571/1225-09",
+        "/us/571/1225-10",
+        "/us/571/1225-11",
+        "/us/571/1225-12",
+        "/us/571/1225-13"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 227,
+    "sha256": "c097fa2bff849184cdc181e3c6767ca87638a3e019a9fdd836679f5b80b0b5d3",
+    "simhash": "1:b17f768a15c2d02d",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry Lee SWISHER, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerry Lee SWISHER, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections.\nNo. 13-8201.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1343.\nPetition for rehearing denied."
+  },
+  "file_name": "1932-03",
+  "first_page_order": 1932,
+  "last_page_order": 1932
+}

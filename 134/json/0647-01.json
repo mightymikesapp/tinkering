@@ -1,0 +1,75 @@
+{
+  "id": 12584892,
+  "name": "Allen WRIGHT, petitioner, v. Dr. BEARDEN, et al.",
+  "name_abbreviation": "Wright v. Bearden",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136397.",
+  "first_page": "647",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 647"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 428"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "517 Fed.Appx. 151",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 245,
+    "sha256": "de58c32b207ab4bce2383c87084fb061254b68d05d154d7904f0ed64f5b7817c",
+    "simhash": "1:13cd80cc33cc57b6",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen WRIGHT, petitioner,\nv.\nDr. BEARDEN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Allen WRIGHT, petitioner,\nv.\nDr. BEARDEN, et al.\nNo. 13-6397.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 517 Fed.Appx. 151.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0647-01",
+  "first_page_order": 647,
+  "last_page_order": 647
+}

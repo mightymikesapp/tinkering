@@ -1,0 +1,68 @@
+{
+  "id": 12582554,
+  "name": "In re Henry Uliomereyon JONES, petitioner.",
+  "name_abbreviation": "In re Jones",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. 13\u201310124.",
+  "first_page": "2830",
+  "last_page": "2830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2830"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 799"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3719"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 149,
+    "sha256": "93ff5fbdba3ac45cf38cb651a84d4de6a0df98f8ebcd1e009b7cef0d85371f5f",
+    "simhash": "1:f8a13410b9030159",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Henry Uliomereyon JONES, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Henry Uliomereyon JONES, petitioner.\nNo. 13-10124.\nSupreme Court of the United States\nJune 16, 2014.\nPetition for writ of prohibition denied."
+  },
+  "file_name": "2830-04",
+  "first_page_order": 2830,
+  "last_page_order": 2830
+}

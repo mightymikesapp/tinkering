@@ -1,0 +1,85 @@
+{
+  "id": 12585807,
+  "name": "LIBERTARIAN PARTY OF MICHIGAN, et al., petitioners, v. Ruth JOHNSON, Michigan Secretary of State, et al.",
+  "name_abbreviation": "Libertarian Party of Mich. v. Johnson",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u2013421.",
+  "first_page": "825",
+  "last_page": "825",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 825"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 686"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "714 F.3d 929",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5867221
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/714/0929-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 294,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634819636202728
+    },
+    "sha256": "cd56771e2e5ff474f42da1b9e07a92eea56c370112318b15a3efbdb401ee4fb2",
+    "simhash": "1:34aff60e738056ce",
+    "word_count": 49
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LIBERTARIAN PARTY OF MICHIGAN, et al., petitioners,\nv.\nRuth JOHNSON, Michigan Secretary of State, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "LIBERTARIAN PARTY OF MICHIGAN, et al., petitioners,\nv.\nRuth JOHNSON, Michigan Secretary of State, et al.\nNo. 13-421.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 714 F.3d 929.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0825-04",
+  "first_page_order": 825,
+  "last_page_order": 825
+}

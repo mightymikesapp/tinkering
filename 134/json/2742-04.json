@@ -1,0 +1,85 @@
+{
+  "id": 12582367,
+  "name": "Roger Allan ROYBAL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Roybal v. United States",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u201310096.",
+  "first_page": "2742",
+  "last_page": "2742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2742"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 777"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "737 F.3d 621",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3731230
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/737/0621-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633713394101355
+    },
+    "sha256": "35fed531cb4109bfd6df2fa66e099d77e3ac81297b9bf7f29a9cfdcb053508d5",
+    "simhash": "1:f1ec5644af270601",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roger Allan ROYBAL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roger Allan ROYBAL, petitioner,\nv.\nUNITED STATES.\nNo. 13-10096.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 737 F.3d 621.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2742-04",
+  "first_page_order": 2742,
+  "last_page_order": 2742
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12579717,
+  "name": "Carl George JAEGEL, et ux., petitioners, v. SKAGIT COUNTY, WASHINGTON.",
+  "name_abbreviation": "Jaegel v. Skagit Cnty.",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u2013656.",
+  "first_page": "1576",
+  "last_page": "1576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1576"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 583"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1009",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12577920,
+        12577921,
+        12577922,
+        12700931,
+        12700922,
+        12700938,
+        12700939,
+        12700890,
+        12700891,
+        12577917,
+        12577918,
+        12577919
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1009-04",
+        "/s-ct/134/1009-05",
+        "/s-ct/134/1009-06",
+        "/us/571/1167-07",
+        "/us/571/1166-07",
+        "/us/571/1167-08",
+        "/us/571/1167-09",
+        "/us/571/1164-03",
+        "/us/571/1164-04",
+        "/s-ct/134/1009-01",
+        "/s-ct/134/1009-02",
+        "/s-ct/134/1009-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 199,
+    "sha256": "4b17d06a4a76344ee07600fffd1233fe2602e35db2057be2f383207310254b63",
+    "simhash": "1:50021c421be5f00a",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carl George JAEGEL, et ux., petitioners,\nv.\nSKAGIT COUNTY, WASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carl George JAEGEL, et ux., petitioners,\nv.\nSKAGIT COUNTY, WASHINGTON.\nNo. 13-656.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 1009.\nPetition for rehearing denied."
+  },
+  "file_name": "1576-07",
+  "first_page_order": 1576,
+  "last_page_order": 1576
+}

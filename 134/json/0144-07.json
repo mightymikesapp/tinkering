@@ -1,0 +1,75 @@
+{
+  "id": 12579128,
+  "name": "Adam CASSANO, petitioner, v. OHIO.",
+  "name_abbreviation": "Cassano v. Ohio",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310629.",
+  "first_page": "144",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 144"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 102"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 3860656",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 218,
+    "sha256": "f7028af9074936eaeb21f7bca27e8ce437554b97dd66a4fa747dc497465b8640",
+    "simhash": "1:41ef56191bc785bd",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adam CASSANO, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Adam CASSANO, petitioner,\nv.\nOHIO.\nNo. 12-10629.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2012 WL 3860656.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County, denied."
+  },
+  "file_name": "0144-07",
+  "first_page_order": 144,
+  "last_page_order": 145
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12583783,
+  "name": "ASIA PULP & PAPER COMPANY, LTD., et al., v. JPMORGAN CHASE BANK. N.A., Successor in Interest to the First National Bank of Chicago.",
+  "name_abbreviation": "Pulp v. Jpmorgan Chase Bank N.A.",
+  "decision_date": "2013-10-09",
+  "docket_number": "No. 12\u20131502; R46\u2013001.",
+  "first_page": "417",
+  "last_page": "417",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 417"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 273"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "707 F.3d 853",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3537727
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/707/0853-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 334,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634126545601693
+    },
+    "sha256": "a499f0f313b9cd16339ed8c53fc344514ee237b1ef44857eba8e4b85b7d6e33b",
+    "simhash": "1:67ef14d47ce6d69b",
+    "word_count": 58
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ASIA PULP & PAPER COMPANY, LTD., et al.,\nv.\nJPMORGAN CHASE BANK. N.A., Successor in Interest to the First National Bank of Chicago."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "ASIA PULP & PAPER COMPANY, LTD., et al.,\nv.\nJPMORGAN CHASE BANK. N.A., Successor in Interest to the First National Bank of Chicago.\nNo. 12-1502, R46-001.\nSupreme Court of the United States\nOct. 9, 2013.\nCase below, 707 F.3d 853.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+  },
+  "file_name": "0417-01",
+  "first_page_order": 417,
+  "last_page_order": 417
+}

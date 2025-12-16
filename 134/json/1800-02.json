@@ -1,0 +1,81 @@
+{
+  "id": 12580156,
+  "name": "P. Theodore BABIY, et al., petitioners, v. CONTINENTAL BANK.",
+  "name_abbreviation": "Babiy v. Cont'l Bank",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20131072.",
+  "first_page": "1800",
+  "last_page": "1800",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1800"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 759"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "64 A.3d 30",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "64 A.3d 31",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "weight": 3,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 293,
+    "sha256": "3f3f4300e08b172701ecb38912245875e348d454cdeef36616d9fbc74493553f",
+    "simhash": "1:ea5e22a31d899abf",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "P. Theodore BABIY, et al., petitioners,\nv.\nCONTINENTAL BANK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "P. Theodore BABIY, et al., petitioners,\nv.\nCONTINENTAL BANK.\nNo. 13-1072.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 64 A.3d 31,64 A.3d 31,64 A.3d 30,64 A.3d 31,64 A.3d 30.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office, denied."
+  },
+  "file_name": "1800-02",
+  "first_page_order": 1800,
+  "last_page_order": 1800
+}

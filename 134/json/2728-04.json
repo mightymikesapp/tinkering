@@ -1,0 +1,75 @@
+{
+  "id": 12582270,
+  "name": "Randolph COPES, petitioner, v. Dr. CLEM, et al.",
+  "name_abbreviation": "Copes v. Clem",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20139503.",
+  "first_page": "2728",
+  "last_page": "2728",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2728"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 769"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "539 Fed.Appx. 168",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 243,
+    "sha256": "6ce7fb3c7f82bd943d7191c14d5af1b487695c92a075053b385be57f8dd7b4cd",
+    "simhash": "1:302f165479c56713",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randolph COPES, petitioner,\nv.\nDr. CLEM, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Randolph COPES, petitioner,\nv.\nDr. CLEM, et al.\nNo. 13-9503.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 539 Fed.Appx. 168.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2728-04",
+  "first_page_order": 2728,
+  "last_page_order": 2728
+}

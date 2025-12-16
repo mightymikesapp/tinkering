@@ -1,0 +1,93 @@
+{
+  "id": 12578417,
+  "name": "CARMAX AUTO SUPERSTORES CALIFORNIA, LLC, et al., petitioners, v. John Wade FOWLER, et al.",
+  "name_abbreviation": "Carmax Auto Superstores Cal., LLC v. Fowler",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013439.",
+  "first_page": "1277",
+  "last_page": "1277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1277"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 290"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2304",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698468
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/570/0228-01"
+      ]
+    },
+    {
+      "cite": "2013 WL 1208111",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 568,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26323542415021106
+    },
+    "sha256": "e2646c5c05c51fa2fa6f397c01623871d619a17c20eb9f9d60dddac290a42d79",
+    "simhash": "1:696662dc92c123d8",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CARMAX AUTO SUPERSTORES CALIFORNIA, LLC, et al., petitioners,\nv.\nJohn Wade FOWLER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Court of Appeal of California, Second Appellate District. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Appeal of California, Second Appellate District, for further consideration in light of American Express Co. v. Italian Colors Restaurant, 570 U.S. ----, 133 S.Ct. 2304, 186 L.Ed.2d 417 (2013)."
+    ],
+    "corrections": "",
+    "head_matter": "CARMAX AUTO SUPERSTORES CALIFORNIA, LLC, et al., petitioners,\nv.\nJohn Wade FOWLER, et al.\nNo. 13-439.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 2013 WL 1208111.\nOn petition for writ of certiorari to the Court of Appeal of California, Second Appellate District. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Appeal of California, Second Appellate District, for further consideration in light of American Express Co. v. Italian Colors Restaurant, 570 U.S. ----, 133 S.Ct. 2304, 186 L.Ed.2d 417 (2013)."
+  },
+  "file_name": "1277-04",
+  "first_page_order": 1277,
+  "last_page_order": 1277
+}

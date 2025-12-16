@@ -1,0 +1,85 @@
+{
+  "id": 12579158,
+  "name": "Uwe Andreas Josef ROMEIKE, et al., petitioners, v. Eric H. HOLDER, Jr., Attorney General.",
+  "name_abbreviation": "Romeike v. Holder",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u2013471.",
+  "first_page": "1491",
+  "last_page": "1491",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1491"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 387"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 528",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4050441
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0528-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 376,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632582054011643
+    },
+    "sha256": "31b4d5570d4648086bc82a759774c51706f0d3a2275a55e178bab89e9675e514",
+    "simhash": "1:52f7d44676b10729",
+    "word_count": 64
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Uwe Andreas Josef ROMEIKE, et al., petitioners,\nv.\nEric H. HOLDER, Jr., Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Alliance Defending Freedom, et al., for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Uwe Andreas Josef ROMEIKE, et al., petitioners,\nv.\nEric H. HOLDER, Jr., Attorney General.\nNo. 13-471.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 718 F.3d 528.\nMotion of Alliance Defending Freedom, et al., for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1491-01",
+  "first_page_order": 1491,
+  "last_page_order": 1491
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12582759,
+  "name": "Shelley Lynn DUNKEL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Dunkel v. United States",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20131407.",
+  "first_page": "2860",
+  "last_page": "2860",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2860"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 810"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "550 Fed.Appx. 511",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "sha256": "234a6e3bacd4226907295db7d166d128ed253f68d7f8ca75536b04abefe29101",
+    "simhash": "1:d3ed66853b065709",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shelley Lynn DUNKEL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shelley Lynn DUNKEL, petitioner,\nv.\nUNITED STATES.\nNo. 13-1407.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 550 Fed.Appx. 511.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2860-05",
+  "first_page_order": 2860,
+  "last_page_order": 2860
+}

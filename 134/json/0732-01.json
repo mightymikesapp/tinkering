@@ -1,0 +1,107 @@
+{
+  "id": 12585472,
+  "name": "In re Gary E. SUTTON, petitioner.",
+  "name_abbreviation": "In re Sutton",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20135551.",
+  "first_page": "732",
+  "last_page": "732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 732"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 587"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 308",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703747,
+        12703748,
+        12703749,
+        12702155,
+        12702192,
+        12702034,
+        12702196,
+        12583160,
+        12583161,
+        12583162,
+        12583163,
+        12583164,
+        12583165,
+        12583166
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0921-12",
+        "/us/571/0921-13",
+        "/us/571/0921-14",
+        "/us/571/0813-13",
+        "/us/571/0814-25",
+        "/us/571/0805-05",
+        "/us/571/0815-03",
+        "/s-ct/134/0308-01",
+        "/s-ct/134/0308-02",
+        "/s-ct/134/0308-03",
+        "/s-ct/134/0308-04",
+        "/s-ct/134/0308-05",
+        "/s-ct/134/0308-06",
+        "/s-ct/134/0308-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 159,
+    "sha256": "a4ef5db02e8b482b826ee38a0b55a105978cf96a8cdd9db8c79a8abda606448a",
+    "simhash": "1:f23072d33a9965a6",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gary E. SUTTON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Gary E. SUTTON, petitioner.\nNo. 13-5551.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 308\nPetition for rehearing denied."
+  },
+  "file_name": "0732-01",
+  "first_page_order": 732,
+  "last_page_order": 732
+}

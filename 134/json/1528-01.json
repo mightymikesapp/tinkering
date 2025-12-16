@@ -1,0 +1,85 @@
+{
+  "id": 12579395,
+  "name": "Kendrick O'Brian CRAWFORD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Crawford v. United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138539.",
+  "first_page": "1528",
+  "last_page": "1528",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1528"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 460"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "734 F.3d 339",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3718925
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/734/0339-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 249,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632668931663584
+    },
+    "sha256": "8583910aa260bb3f69db3ac8b7667f902258ac065872117bfe850973e54dd77b",
+    "simhash": "1:52ed66453b285311",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kendrick O'Brian CRAWFORD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kendrick O'Brian CRAWFORD, petitioner,\nv.\nUNITED STATES.\nNo. 13-8539.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 734 F.3d 339.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1528-01",
+  "first_page_order": 1528,
+  "last_page_order": 1528
+}

@@ -1,0 +1,107 @@
+{
+  "id": 12581566,
+  "name": "Lamar BURKS, petitioner, v. Denise COLLINS, et al.",
+  "name_abbreviation": "Burks v. Collins",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20138270.",
+  "first_page": "2331",
+  "last_page": "2331",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2331"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 204"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1548",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12579520,
+        12579521,
+        12579522,
+        12579523,
+        12579524,
+        12705007,
+        12705071,
+        12705072,
+        12705073,
+        12705074,
+        12705075,
+        12705085,
+        12579518,
+        12579519
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1548-03",
+        "/s-ct/134/1548-04",
+        "/s-ct/134/1548-05",
+        "/s-ct/134/1548-06",
+        "/s-ct/134/1548-07",
+        "/us/572/1015-02",
+        "/us/572/1020-01",
+        "/us/572/1020-02",
+        "/us/572/1020-03",
+        "/us/572/1020-04",
+        "/us/572/1020-05",
+        "/us/572/1021-07",
+        "/s-ct/134/1548-01",
+        "/s-ct/134/1548-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 178,
+    "sha256": "246fc4fab1b2e151b8014e15b46d22d696a748211e017c0c5cd390c8100544d9",
+    "simhash": "1:517d3cc49495dd48",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lamar BURKS, petitioner,\nv.\nDenise COLLINS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lamar BURKS, petitioner,\nv.\nDenise COLLINS, et al.\nNo. 13-8270.\nSupreme Court of the United States\nMay 19, 2014.\nFormer decision, 134 S.Ct. 1548.\nPetition for rehearing denied."
+  },
+  "file_name": "2331-03",
+  "first_page_order": 2331,
+  "last_page_order": 2331
+}

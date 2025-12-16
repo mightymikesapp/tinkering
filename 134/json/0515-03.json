@@ -1,0 +1,85 @@
+{
+  "id": 12584387,
+  "name": "NATIONAL UNION OF HEALTHCARE WORKERS, et al., petitioners, v. SERVICE EMPLOYERS INTERNATIONAL UNION, et al.",
+  "name_abbreviation": "Nat'l Union of Healthcare Workers v. Serv. Emp'rs Int'l Union",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u2013247.",
+  "first_page": "515",
+  "last_page": "515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 515"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 366"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 1036",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4050220
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/1036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 297,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263431960705045
+    },
+    "sha256": "bb59234206ccf568a26e1067dad2b9233fb024000fbb47c323f42b317e77b1eb",
+    "simhash": "1:25bde6c43bc116ce",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NATIONAL UNION OF HEALTHCARE WORKERS, et al., petitioners,\nv.\nSERVICE EMPLOYERS INTERNATIONAL UNION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "NATIONAL UNION OF HEALTHCARE WORKERS, et al., petitioners,\nv.\nSERVICE EMPLOYERS INTERNATIONAL UNION, et al.\nNo. 13-247.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 718 F.3d 1036.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0515-03",
+  "first_page_order": 515,
+  "last_page_order": 515
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12586438,
+  "name": "Kevin PONIS, petitioner, v. Steve HARTLEY, Warden, et al.",
+  "name_abbreviation": "Ponis v. Hartley",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137601.",
+  "first_page": "967",
+  "last_page": "967",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 967"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 825"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "534 Fed.Appx. 801",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 253,
+    "sha256": "46b8982b184e71049c872d4c846d795abb9570aea910edc751c2bf6b60d769ad",
+    "simhash": "1:08af744438848291",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin PONIS, petitioner,\nv.\nSteve HARTLEY, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin PONIS, petitioner,\nv.\nSteve HARTLEY, Warden, et al.\nNo. 13-7601.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 534 Fed.Appx. 801.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0967-06",
+  "first_page_order": 967,
+  "last_page_order": 967
+}

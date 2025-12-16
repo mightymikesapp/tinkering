@@ -1,0 +1,81 @@
+{
+  "id": 12580122,
+  "name": "Sukit KUMVACHIRAPITAG, petitioner, v. Bill GATES, et al.",
+  "name_abbreviation": "Kumvachirapitag v. Gates",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138557.",
+  "first_page": "1795",
+  "last_page": "1795",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1795"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 764"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2014 WL 243489",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "551 Fed.Appx. 71",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 268,
+    "sha256": "841835bc3a8fe8066adb9d82ec9b2f985bbda1dcb2e3647f59d726273b0b9b99",
+    "simhash": "1:6a2de6843b81452d",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sukit KUMVACHIRAPITAG, petitioner,\nv.\nBill GATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sukit KUMVACHIRAPITAG, petitioner,\nv.\nBill GATES, et al.\nNo. 13-8557.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 551 Fed.Appx. 71, 2014 WL 243489.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1795-05",
+  "first_page_order": 1795,
+  "last_page_order": 1795
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12579363,
+  "name": "James Freddie CAVITT, petitioner, v. Vince CULLEN, Warden.",
+  "name_abbreviation": "Cavitt v. Cullen",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138350.",
+  "first_page": "1522",
+  "last_page": "1523",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1522"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 456"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "728 F.3d 1000",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3697326
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/728/1000-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 251,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632655417362171
+    },
+    "sha256": "b1b68f449130f1c59618a2637728bb487f505ce497d5369339a4a649d0262414",
+    "simhash": "1:faff764439805700",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Freddie CAVITT, petitioner,\nv.\nVince CULLEN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Freddie CAVITT, petitioner,\nv.\nVince CULLEN, Warden.\nNo. 13-8350.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 728 F.3d 1000.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1522-07",
+  "first_page_order": 1522,
+  "last_page_order": 1523
+}

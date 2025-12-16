@@ -1,0 +1,75 @@
+{
+  "id": 12578267,
+  "name": "Richard Bryan LESTER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lester v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310384.",
+  "first_page": "108",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 108"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 79"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "500 Fed.Appx. 259",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "sha256": "4e8f4af88a57490cccf95f1049315033b3fcd48859c462a664664ab6a010d442",
+    "simhash": "1:f3ad5604532e842f",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard Bryan LESTER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard Bryan LESTER, petitioner,\nv.\nUNITED STATES.\nNo. 12-10384.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 500 Fed.Appx. 259.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0108-04",
+  "first_page_order": 108,
+  "last_page_order": 108
+}

@@ -1,0 +1,81 @@
+{
+  "id": 12578879,
+  "name": "George Curry HUDSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hudson v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138244.",
+  "first_page": "1347",
+  "last_page": "1348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1347"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 351"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 6698073",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "550 Fed.Appx. 793",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 266,
+    "sha256": "2438ee8ead1bc09cd918e6f4fe4cb86970a9209616ae16430979fc130c7a8281",
+    "simhash": "1:b1ed56c61727c41d",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George Curry HUDSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George Curry HUDSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-8244.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 550 Fed.Appx. 793, 2013 WL 6698073.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1347-07",
+  "first_page_order": 1347,
+  "last_page_order": 1348
+}

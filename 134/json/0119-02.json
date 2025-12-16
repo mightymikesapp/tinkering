@@ -1,0 +1,85 @@
+{
+  "id": 12578342,
+  "name": "Mark R. MARASCHIELLO, petitioner, v. CITY OF BUFFALO POLICE DEPARTMENT, et al.",
+  "name_abbreviation": "Maraschiello v. City of Buffalo Police Dep't",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131397.",
+  "first_page": "119",
+  "last_page": "119",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 119"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 36"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "709 F.3d 87",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3546396
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/709/0087-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 268,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26323059761399215
+    },
+    "sha256": "6235f4b0df1b7acaad067797a1da409ad530fd03724ad4eb8f725603f193ba31",
+    "simhash": "1:192fc64c3fc101a9",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark R. MARASCHIELLO, petitioner,\nv.\nCITY OF BUFFALO POLICE DEPARTMENT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark R. MARASCHIELLO, petitioner,\nv.\nCITY OF BUFFALO POLICE DEPARTMENT, et al.\nNo. 12-1397.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 709 F.3d 87.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0119-02",
+  "first_page_order": 119,
+  "last_page_order": 119
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12584735,
+  "name": "Travis Hunter BLANK, petitioner, v. Harold EAVENSON, et al.",
+  "name_abbreviation": "Blank v. Eavenson",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20136248.",
+  "first_page": "623",
+  "last_page": "623",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 623"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 404"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "530 Fed.Appx. 364",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 255,
+    "sha256": "0bfb05fd40fe26b7009ccbe1ed71e110e37aab7f1a02ca34b3137945e4b46d87",
+    "simhash": "1:513f62853a75d6ec",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Travis Hunter BLANK, petitioner,\nv.\nHarold EAVENSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Travis Hunter BLANK, petitioner,\nv.\nHarold EAVENSON, et al.\nNo. 13-6248.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 530 Fed.Appx. 364.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0623-02",
+  "first_page_order": 623,
+  "last_page_order": 623
+}

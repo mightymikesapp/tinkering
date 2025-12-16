@@ -1,0 +1,91 @@
+{
+  "id": 12580686,
+  "name": "Tommy Dale DANIEL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Daniel v. United States",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20135251.",
+  "first_page": "1933",
+  "last_page": "1933",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1933"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 956"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1710",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706995,
+        12579853
+      ],
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/0434-01",
+        "/s-ct/134/1710-01"
+      ]
+    },
+    {
+      "cite": "532 Fed.Appx. 522",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 562,
+    "sha256": "aa3983b5eb9c1fdfda61542a8b3dce9a5e531f344693f4ba2a1eb866b6216e4d",
+    "simhash": "1:67ad76c423030619",
+    "word_count": 92
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tommy Dale DANIEL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Paroline v. United States, 572 U.S. ----, 134 S.Ct. 1710, 188 L.Ed.2d 714 (2014)."
+    ],
+    "corrections": "",
+    "head_matter": "Tommy Dale DANIEL, petitioner,\nv.\nUNITED STATES.\nNo. 13-5251.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 532 Fed.Appx. 522.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Paroline v. United States, 572 U.S. ----, 134 S.Ct. 1710, 188 L.Ed.2d 714 (2014)."
+  },
+  "file_name": "1933-03",
+  "first_page_order": 1933,
+  "last_page_order": 1933
+}

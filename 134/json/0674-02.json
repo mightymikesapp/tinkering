@@ -1,0 +1,75 @@
+{
+  "id": 12585075,
+  "name": "James I. McCABE, petitioner, v. PENNSYLVANIA DEPARTMENT OF CORRECTIONS, et al.",
+  "name_abbreviation": "McCabe v. Pa. Dep't of Corr.",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136283.",
+  "first_page": "674",
+  "last_page": "674",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 674"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 424"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "523 Fed.Appx. 858",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 274,
+    "sha256": "5cf3b91b1f130054fa5852c26724925ea2d506727d7fe7a59b09f5bac894e9a2",
+    "simhash": "1:05af60c43bc1972b",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James I. McCABE, petitioner,\nv.\nPENNSYLVANIA DEPARTMENT OF CORRECTIONS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James I. McCABE, petitioner,\nv.\nPENNSYLVANIA DEPARTMENT OF CORRECTIONS, et al.\nNo. 13-6283.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 523 Fed.Appx. 858.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0674-02",
+  "first_page_order": 674,
+  "last_page_order": 674
+}

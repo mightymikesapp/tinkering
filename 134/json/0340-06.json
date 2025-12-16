@@ -1,0 +1,75 @@
+{
+  "id": 12583388,
+  "name": "Luis TORRES-CORONADO, petitioner, v. Eric H. HOLDER, Jr., Attorney General.",
+  "name_abbreviation": "Torres-Coronado v. Holder",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013210.",
+  "first_page": "340",
+  "last_page": "340",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 340"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 158"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Fed.Appx. 314",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 269,
+    "sha256": "8700c01fb13de35ebf24a15236e4a9bdade33ac2826f53173fda9f171bcfbfbf",
+    "simhash": "1:72aed4053da58588",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luis TORRES-CORONADO, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Luis TORRES-CORONADO, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General.\nNo. 13-210.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 519 Fed.Appx. 314.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0340-06",
+  "first_page_order": 340,
+  "last_page_order": 340
+}

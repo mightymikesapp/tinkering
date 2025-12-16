@@ -1,0 +1,73 @@
+{
+  "id": 12585523,
+  "name": "Annette JOHNSON, et vir, petitioners, v. HSBC BANK USA, et al.",
+  "name_abbreviation": "Johnson v. HSBC Bank United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310055.",
+  "first_page": "77",
+  "last_page": "77",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 77"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 61"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "106 So.3d 932",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 254,
+    "sha256": "d30609f5529843f37ce7b6bd3111023fce2f84fc677995c9c9daeec16d298fd1",
+    "simhash": "1:db6f5e467bfb053b",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Annette JOHNSON, et vir, petitioners,\nv.\nHSBC BANK USA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Annette JOHNSON, et vir, petitioners,\nv.\nHSBC BANK USA, et al.\nNo. 12-10055.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 106 So.3d 932.\nPetition for writ of certiorari to the District Court of Appeal of Florida, First District, denied."
+  },
+  "file_name": "0077-05",
+  "first_page_order": 77,
+  "last_page_order": 77
+}

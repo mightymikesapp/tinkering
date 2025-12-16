@@ -1,0 +1,85 @@
+{
+  "id": 12582970,
+  "name": "Yesi Ivan Hernandez SANDOVAL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Sandoval v. United States",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u201310348.",
+  "first_page": "2893",
+  "last_page": "2893",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2893"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 848"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3747"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "747 F.3d 464",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4180140
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/747/0464-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 253,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26339412066108875
+    },
+    "sha256": "b3713e2a5c31a50066c0f704c42d66271e038d1df9d63759e834d6b05132f9fa",
+    "simhash": "1:c78d24443f450614",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yesi Ivan Hernandez SANDOVAL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Yesi Ivan Hernandez SANDOVAL, petitioner,\nv.\nUNITED STATES.\nNo. 13-10348.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 747 F.3d 464.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "2893-02",
+  "first_page_order": 2893,
+  "last_page_order": 2893
+}

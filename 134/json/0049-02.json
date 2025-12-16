@@ -1,0 +1,85 @@
+{
+  "id": 12584327,
+  "name": "UNITED STATES, petitioner, v. James Alvin CASTLEMAN.",
+  "name_abbreviation": "United States v. Castleman",
+  "decision_date": "2013-10-01",
+  "docket_number": "No. 12\u20131371.",
+  "first_page": "49",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 49"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 962"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "695 F.3d 582",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3527382
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/695/0582-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634292578447624
+    },
+    "sha256": "54e9bd11df92c49ca195f8319d3f1279cda56531422efaff2cdab60157fb0d01",
+    "simhash": "1:716fd606301506a1",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, petitioner,\nv.\nJames Alvin CASTLEMAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, petitioner,\nv.\nJames Alvin CASTLEMAN.\nNo. 12-1371.\nSupreme Court of the United States\nOct. 01, 2013.\nCase below, 695 F.3d 582.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit granted."
+  },
+  "file_name": "0049-02",
+  "first_page_order": 49,
+  "last_page_order": 49
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12581184,
+  "name": "Rochelle DRIESSEN, petitioner, v. CITIBANK, N.A.",
+  "name_abbreviation": "Driessen v. Citibank, N.A.",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20138439.",
+  "first_page": "2163",
+  "last_page": "2163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2163"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1145"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1505",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701952,
+        12579245,
+        12579246,
+        12579247,
+        12579248,
+        12579249,
+        12701935,
+        3825715,
+        12701936,
+        12701966,
+        12701934,
+        12701945
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1243-08",
+        "/s-ct/134/1505-01",
+        "/s-ct/134/1505-02",
+        "/s-ct/134/1505-03",
+        "/s-ct/134/1505-04",
+        "/s-ct/134/1505-05",
+        "/us/571/1242-03",
+        "/br/506/1505-01",
+        "/us/571/1242-04",
+        "/us/571/1244-07",
+        "/us/571/1242-02",
+        "/us/571/1243-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 175,
+    "sha256": "8b32c178bc974332818cdf802895bf0086f7f94b034854aeda82c02396ec952e",
+    "simhash": "1:cab756561689d00a",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rochelle DRIESSEN, petitioner,\nv.\nCITIBANK, N.A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rochelle DRIESSEN, petitioner,\nv.\nCITIBANK, N.A.\nNo. 13-8439.\nSupreme Court of the United States\nMay 5, 2014.\nFormer decision, 134 S.Ct. 1505.\nPetition for rehearing denied."
+  },
+  "file_name": "2163-03",
+  "first_page_order": 2163,
+  "last_page_order": 2163
+}

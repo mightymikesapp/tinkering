@@ -1,0 +1,75 @@
+{
+  "id": 12582732,
+  "name": "Michael Scott GUMULA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gumula v. United States",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u201310175.",
+  "first_page": "2857",
+  "last_page": "2857",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2857"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 818"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "554 Fed.Appx. 222",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 249,
+    "sha256": "cc05a3292ef1b5c163b2b6cf984ada85ae0a411bad8c3137e9c035ebf1c4412b",
+    "simhash": "1:d26d46843920d411",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Scott GUMULA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Scott GUMULA, petitioner,\nv.\nUNITED STATES.\nNo. 13-10175.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 554 Fed.Appx. 222.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2857-02",
+  "first_page_order": 2857,
+  "last_page_order": 2857
+}

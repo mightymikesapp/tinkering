@@ -1,0 +1,81 @@
+{
+  "id": 12578134,
+  "name": "Robert SHIELDS, III, petitioner, v. CONNECTICUT.",
+  "name_abbreviation": "Shields v. Connecticut",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u2013725.",
+  "first_page": "1040",
+  "last_page": "1041",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1040"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 123"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3446"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "69 A.3d 293",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "308 Conn. 678",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 228,
+    "sha256": "37ee8e8f501f3f9a5f473b7b8daba35f9ad5f79a5c9d85c69a93fdbbf72d46de",
+    "simhash": "1:e8ef5444ba21a69f",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert SHIELDS, III, petitioner,\nv.\nCONNECTICUT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Connecticut denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert SHIELDS, III, petitioner,\nv.\nCONNECTICUT.\nNo. 13-725.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 308 Conn. 678, 69 A.3d 293.\nPetition for writ of certiorari to the Supreme Court of Connecticut denied."
+  },
+  "file_name": "1040-06",
+  "first_page_order": 1040,
+  "last_page_order": 1041
+}

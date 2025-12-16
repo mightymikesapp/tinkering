@@ -1,0 +1,75 @@
+{
+  "id": 12584163,
+  "name": "Daniel J. MASTERSON, petitioner, v. Silvia HUERTA-GARCIA, et al.",
+  "name_abbreviation": "Masterson v. Huerta-Garcia",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20135845.",
+  "first_page": "475",
+  "last_page": "475",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 475"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 321"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "499 Fed.Appx. 687",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 260,
+    "sha256": "c1b89aa64734c4cef05a214dad72abe97a7d0ce2e8747dbafb0ff3680d0f6faa",
+    "simhash": "1:a32ff644bec5c7c5",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel J. MASTERSON, petitioner,\nv.\nSilvia HUERTA-GARCIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel J. MASTERSON, petitioner,\nv.\nSilvia HUERTA-GARCIA, et al.\nNo. 13-5845.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 499 Fed.Appx. 687.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0475-03",
+  "first_page_order": 475,
+  "last_page_order": 475
+}

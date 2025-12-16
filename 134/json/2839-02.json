@@ -1,0 +1,86 @@
+{
+  "id": 12582611,
+  "name": "NATIVE WHOLESALE SUPPLY COMPANY, petitioner, v. IDAHO, et al.",
+  "name_abbreviation": "Native Wholesale Supply Co. v. Idaho",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u2013838.",
+  "first_page": "2839",
+  "last_page": "2839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2839"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 806"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3731"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "155 Idaho 337",
+      "category": "reporters:state",
+      "reporter": "Idaho",
+      "case_ids": [
+        4105009
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/idaho/155/0337-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 237,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633782896222907
+    },
+    "sha256": "4d2ebc885b7ddd5b639ef4ef31e92c8ba73b53eb69f835b9f6bfab85164261a2",
+    "simhash": "1:fae544147225f214",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NATIVE WHOLESALE SUPPLY COMPANY, petitioner,\nv.\nIDAHO, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Idaho denied."
+    ],
+    "corrections": "",
+    "head_matter": "NATIVE WHOLESALE SUPPLY COMPANY, petitioner,\nv.\nIDAHO, et al.\nNo. 13-838.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 155 Idaho 337, 312 P.3d 1257.\nPetition for writ of certiorari to the Supreme Court of Idaho denied."
+  },
+  "file_name": "2839-02",
+  "first_page_order": 2839,
+  "last_page_order": 2839
+}

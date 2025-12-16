@@ -1,0 +1,101 @@
+{
+  "id": 12579053,
+  "name": "In the Matter of DISBARMENT OF Richard Lawrence James McGARRY.",
+  "name_abbreviation": "In re Mcgarry",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. D\u20132743.",
+  "first_page": "1372",
+  "last_page": "1372",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1372"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 369"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 634",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699139,
+        12699235,
+        12699236,
+        12584806,
+        12584807,
+        12584808,
+        12584809,
+        12584810,
+        12584811,
+        12584812,
+        12699237,
+        12699243,
+        12699244,
+        12699245
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1008-04",
+        "/us/571/1019-01",
+        "/us/571/1019-02",
+        "/s-ct/134/0634-01",
+        "/s-ct/134/0634-02",
+        "/s-ct/134/0634-03",
+        "/s-ct/134/0634-04",
+        "/s-ct/134/0634-05",
+        "/s-ct/134/0634-06",
+        "/s-ct/134/0634-07",
+        "/us/571/1019-03",
+        "/us/571/1019-10",
+        "/us/571/1019-11",
+        "/us/571/1019-12"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 184,
+    "sha256": "aec1988980a59ae260e15298cfd1981cb635d5af340536cb4df5e9b068318ea4",
+    "simhash": "1:20be555eb7f7b340",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Richard Lawrence James McGARRY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Richard Lawrence James McGARRY.\nNo. D-2743.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 634.\nDisbarment order entered."
+  },
+  "file_name": "1372-05",
+  "first_page_order": 1372,
+  "last_page_order": 1372
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12582798,
+  "name": "Cornelio D. McDONALD, petitioner, v. UNITED STATES POSTAL SERVICE, et al.",
+  "name_abbreviation": "McDonald v. U.S. Postal Serv.",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u201310214.",
+  "first_page": "2867",
+  "last_page": "2867",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2867"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 820"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "547 Fed.Appx. 23",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 270,
+    "sha256": "4f7a4eb6b775aa46e3cd1863e54f01ef5023b98901e366ba8d03c2381b23c345",
+    "simhash": "1:602bc4c43b24710c",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cornelio D. McDONALD, petitioner,\nv.\nUNITED STATES POSTAL SERVICE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cornelio D. McDONALD, petitioner,\nv.\nUNITED STATES POSTAL SERVICE, et al.\nNo. 13-10214.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 547 Fed.Appx. 23.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "2867-01",
+  "first_page_order": 2867,
+  "last_page_order": 2867
+}

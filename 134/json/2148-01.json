@@ -1,0 +1,85 @@
+{
+  "id": 12581078,
+  "name": "Shannakay Marie HUNTER, aka Shannakay Marie Priest, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hunter v. United States",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20139473.",
+  "first_page": "2148",
+  "last_page": "2148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2148"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1134"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3650"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "739 F.3d 492",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4084912
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/739/0492-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 270,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26332616303112655
+    },
+    "sha256": "4bd069352358be5a697e21e48efbc7e91c7976458b1d2950ec0482f258bbce1a",
+    "simhash": "1:252c724428071691",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shannakay Marie HUNTER, aka Shannakay Marie Priest, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shannakay Marie HUNTER, aka Shannakay Marie Priest, petitioner,\nv.\nUNITED STATES.\nNo. 13-9473.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 739 F.3d 492.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "2148-01",
+  "first_page_order": 2148,
+  "last_page_order": 2148
+}

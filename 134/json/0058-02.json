@@ -1,0 +1,85 @@
+{
+  "id": 12584674,
+  "name": "Nicolas CARPIO-LEON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Carpio-Leon v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20139291.",
+  "first_page": "58",
+  "last_page": "58",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 58"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 50"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "701 F.3d 974",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5709241
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/701/0974-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26344277214617534
+    },
+    "sha256": "f319ce368e2c2ba036216fa08130aa805896f20d1acc40266733781470b780f2",
+    "simhash": "1:09ecc6043b448c3d",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nicolas CARPIO-LEON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nicolas CARPIO-LEON, petitioner,\nv.\nUNITED STATES.\nNo. 12-9291.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 701 F.3d 974.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0058-02",
+  "first_page_order": 58,
+  "last_page_order": 58
+}

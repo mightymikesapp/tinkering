@@ -1,0 +1,75 @@
+{
+  "id": 12578316,
+  "name": "Darrell Lewis STURKEY, petitioner, v. Michael McCALL, Warden.",
+  "name_abbreviation": "Sturkey v. McCall",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310447.",
+  "first_page": "115",
+  "last_page": "115",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 115"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 84"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Fed.Appx. 315",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 258,
+    "sha256": "cb5bbc5d36bcfb6de8a75925e1346c62e8100aabe45878d6a513ba784e3c0646",
+    "simhash": "1:733fe205ba438323",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darrell Lewis STURKEY, petitioner,\nv.\nMichael McCALL, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darrell Lewis STURKEY, petitioner,\nv.\nMichael McCALL, Warden.\nNo. 12-10447.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 512 Fed.Appx. 315.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0115-01",
+  "first_page_order": 115,
+  "last_page_order": 115
+}

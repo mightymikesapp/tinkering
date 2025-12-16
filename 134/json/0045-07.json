@@ -1,0 +1,91 @@
+{
+  "id": 12584064,
+  "name": "Sandra P. GANDY, petitioner, v. J. Harrell REID, Sheriff, Hamilton County, Florida.",
+  "name_abbreviation": "Gandy v. Reid",
+  "decision_date": "2013-08-30",
+  "docket_number": "No. 12\u20139950.",
+  "first_page": "45",
+  "last_page": "45",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 45"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 958"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2809",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12696968,
+        12697020,
+        12696954,
+        12696955,
+        12696956,
+        12696957
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/1035-16",
+        "/us/569/1039-05",
+        "/us/569/1035-01",
+        "/us/569/1035-02",
+        "/us/569/1035-03",
+        "/us/569/1035-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 207,
+    "sha256": "95f0f7496272a3b20ba99dcea0063fd85f2c3fafae1576fd0911d6d95fbd2196",
+    "simhash": "1:20257ee236e756ea",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sandra P. GANDY, petitioner,\nv.\nJ. Harrell REID, Sheriff, Hamilton County, Florida."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sandra P. GANDY, petitioner,\nv.\nJ. Harrell REID, Sheriff, Hamilton County, Florida.\nNo. 12-9950.\nSupreme Court of the United States\nAug. 30, 2013.\nCase below, 133 S.Ct. 2809.\nPetition for rehearing denied."
+  },
+  "file_name": "0045-07",
+  "first_page_order": 45,
+  "last_page_order": 45
+}

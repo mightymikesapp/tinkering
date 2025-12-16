@@ -1,0 +1,75 @@
+{
+  "id": 12580961,
+  "name": "Travis James HUSNIK, petitioner, v. Corporal ENGLES, et al.",
+  "name_abbreviation": "Husnik v. Engles",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310990.",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 209"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 141"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "495 Fed.Appx. 719",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 257,
+    "sha256": "94ae00d37c37fc7d45ea0e6a0b6ba4a2233bfcfee5043a960f3d864958344c8d",
+    "simhash": "1:e2aff449bbe486ba",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Travis James HUSNIK, petitioner,\nv.\nCorporal ENGLES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Travis James HUSNIK, petitioner,\nv.\nCorporal ENGLES, et al.\nNo. 12-10990.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 495 Fed.Appx. 719.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0209-05",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

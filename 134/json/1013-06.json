@@ -1,0 +1,75 @@
+{
+  "id": 12577954,
+  "name": "David C. KEETER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Keeter v. United States",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20137803.",
+  "first_page": "1013",
+  "last_page": "1013",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1013"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 860"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "435 Fed.Appx. 270",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "sha256": "5e7c8f123763bca3994bd94c89e9b2f38d112d1af03f0426e39eb8211f277c4c",
+    "simhash": "1:694fb4443b87d149",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David C. KEETER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David C. KEETER, petitioner,\nv.\nUNITED STATES.\nNo. 13-7803.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 435 Fed.Appx. 270.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1013-06",
+  "first_page_order": 1013,
+  "last_page_order": 1013
+}

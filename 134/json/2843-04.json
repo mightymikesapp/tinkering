@@ -1,0 +1,68 @@
+{
+  "id": 12582642,
+  "name": "Joe T. YOUNG, petitioner, v. Michael T. SIMPSON, et al.",
+  "name_abbreviation": "Young v. Simpson",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20139692.",
+  "first_page": "2843",
+  "last_page": "2843",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2843"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 811"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 223,
+    "sha256": "e1c512aeea85dc6c1c3be2e62cc1018839622be6aa8fc96e604e82c70a52cddc",
+    "simhash": "1:f02d16043b0110eb",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joe T. YOUNG, petitioner,\nv.\nMichael T. SIMPSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joe T. YOUNG, petitioner,\nv.\nMichael T. SIMPSON, et al.\nNo. 13-9692.\nSupreme Court of the United States\nJune 23, 2014.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2843-04",
+  "first_page_order": 2843,
+  "last_page_order": 2843
+}

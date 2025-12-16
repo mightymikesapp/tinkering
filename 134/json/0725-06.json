@@ -1,0 +1,103 @@
+{
+  "id": 12585416,
+  "name": "Kenneth HUNT, petitioner, v. William R. WILSON, Jr., et al.",
+  "name_abbreviation": "Hunt v. Wilson",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 12\u201310104.",
+  "first_page": "725",
+  "last_page": "725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 725"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 580"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 81",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702524,
+        12585769,
+        12585770,
+        12585771,
+        12585772,
+        12585773,
+        12585774,
+        12702506,
+        12702518,
+        12702263,
+        12702264,
+        12702012
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0839-07",
+        "/s-ct/134/0081-01",
+        "/s-ct/134/0081-02",
+        "/s-ct/134/0081-03",
+        "/s-ct/134/0081-04",
+        "/s-ct/134/0081-05",
+        "/s-ct/134/0081-06",
+        "/us/571/0838-01",
+        "/us/571/0839-06",
+        "/us/571/0820-10",
+        "/us/571/0820-11",
+        "/us/571/0802-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 185,
+    "sha256": "15ce91a543821aebc65bccbd7dbc86d8eccfe17a207daa5124ca360367c7dc36",
+    "simhash": "1:727e144437cb4a8e",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth HUNT, petitioner,\nv.\nWilliam R. WILSON, Jr., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenneth HUNT, petitioner,\nv.\nWilliam R. WILSON, Jr., et al.\nNo. 12-10104.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 81\nPetition for rehearing denied."
+  },
+  "file_name": "0725-06",
+  "first_page_order": 725,
+  "last_page_order": 725
+}

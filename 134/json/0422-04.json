@@ -1,0 +1,86 @@
+{
+  "id": 12583818,
+  "name": "677 NEW LOUDON CORPORATION, dba Nite Moves, petitioner, v. NEW YORK TAX APPEALS TRIBUNAL, et al.",
+  "name_abbreviation": "677 New Loudon Corp. v. Tribunal",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u201338.",
+  "first_page": "422",
+  "last_page": "422",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 422"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 280"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "19 N.Y.3d 1058",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        3755853
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny3d/19/1058-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 298,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634159366047982
+    },
+    "sha256": "71f9f0c1fbb50208f657fc9b3f0059f618526cf2263a4ff1d026bd9bb178cee6",
+    "simhash": "1:24be944a00d56170",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "677 NEW LOUDON CORPORATION, dba Nite Moves, petitioner,\nv.\nNEW YORK TAX APPEALS TRIBUNAL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "677 NEW LOUDON CORPORATION, dba Nite Moves, petitioner,\nv.\nNEW YORK TAX APPEALS TRIBUNAL, et al.\nNo. 13-38.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 19 N.Y.3d 1058, 955 N.Y.S.2d 795, 979 N.E.2d 1121.\nPetition for writ of certiorari to the Court of Appeals of New York denied."
+  },
+  "file_name": "0422-04",
+  "first_page_order": 422,
+  "last_page_order": 422
+}

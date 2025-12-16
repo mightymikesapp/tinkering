@@ -1,0 +1,103 @@
+{
+  "id": 12585480,
+  "name": "Bobby Earl KEYS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Keys v. United States",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136161.",
+  "first_page": "733",
+  "last_page": "733",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 733"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 588"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 452",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704193,
+        12704194,
+        12704195,
+        12704327,
+        12704328,
+        12584010,
+        12584011,
+        12584012,
+        12584013,
+        12584014,
+        12584015,
+        12704337
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0955-01",
+        "/us/571/0955-02",
+        "/us/571/0955-03",
+        "/us/571/0964-06",
+        "/us/571/0964-07",
+        "/s-ct/134/0452-01",
+        "/s-ct/134/0452-02",
+        "/s-ct/134/0452-03",
+        "/s-ct/134/0452-04",
+        "/s-ct/134/0452-05",
+        "/s-ct/134/0452-06",
+        "/us/571/0965-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 173,
+    "sha256": "c5cc2f4f8f31d6429803abd8835415f95616dc5ffd23e89b4424ff9b2765dcba",
+    "simhash": "1:4add36d71707ea8e",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bobby Earl KEYS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petitions for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bobby Earl KEYS, petitioner,\nv.\nUNITED STATES.\nNo. 13-6161.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 452\nPetitions for rehearing denied."
+  },
+  "file_name": "0733-01",
+  "first_page_order": 733,
+  "last_page_order": 733
+}

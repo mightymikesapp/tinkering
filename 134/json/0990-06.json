@@ -1,0 +1,103 @@
+{
+  "id": 12586591,
+  "name": "Paige Louis BENNER, petitioner, v. TEXAS.",
+  "name_abbreviation": "Benner v. Texas",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 12\u201310672.",
+  "first_page": "990",
+  "last_page": "990",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 990"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 839"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 151",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702849,
+        12702850,
+        12702851,
+        12702852,
+        12579339,
+        12579340,
+        12579341,
+        12579342,
+        12579343,
+        12579344,
+        12704053,
+        12702330
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0861-02",
+        "/us/571/0861-03",
+        "/us/571/0861-04",
+        "/us/571/0861-05",
+        "/s-ct/134/0151-01",
+        "/s-ct/134/0151-02",
+        "/s-ct/134/0151-03",
+        "/s-ct/134/0151-04",
+        "/s-ct/134/0151-05",
+        "/s-ct/134/0151-06",
+        "/us/571/0943-02",
+        "/us/571/0825-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 170,
+    "sha256": "b57dab8cb62f7cf3186b564a733d649e0504b0a082ef2e033e7a1582141146f7",
+    "simhash": "1:a5373046248945ca",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paige Louis BENNER, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paige Louis BENNER, petitioner,\nv.\nTEXAS.\nNo. 12-10672.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 151.\nPetition for rehearing denied."
+  },
+  "file_name": "0990-06",
+  "first_page_order": 990,
+  "last_page_order": 990
+}

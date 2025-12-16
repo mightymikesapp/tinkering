@@ -1,0 +1,85 @@
+{
+  "id": 12584744,
+  "name": "Gary FUNG, et al., v. COLUMBIA PICTURES INDUSTRIES, INC., et al.",
+  "name_abbreviation": "Fung v. Columbia Pictures Indus., Inc.",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u2013334 (R46\u2013003).",
+  "first_page": "624",
+  "last_page": "624",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 624"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 398"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "710 F.3d 1020",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3551851
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/710/1020-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 277,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634474056209455
+    },
+    "sha256": "733093e610e706bdcd5e3ca595c4216e1d81d66ba9c5948c1745142d2235d333",
+    "simhash": "1:0b2f309cb86c468e",
+    "word_count": 49
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary FUNG, et al.,\nv.\nCOLUMBIA PICTURES INDUSTRIES, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "Gary FUNG, et al.,\nv.\nCOLUMBIA PICTURES INDUSTRIES, INC., et al.\nNo. 13-334 (R46-003).\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 9 Cir., 710 F.3d 1020.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+  },
+  "file_name": "0624-05",
+  "first_page_order": 624,
+  "last_page_order": 624
+}

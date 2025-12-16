@@ -1,0 +1,75 @@
+{
+  "id": 12584617,
+  "name": "Arthur Lee HAIRSTON, Sr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hairston v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136759.",
+  "first_page": "550",
+  "last_page": "550",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 550"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 395"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "505 Fed.Appx. 272",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 328,
+    "sha256": "209deaa86654c8f37d42c925fd5892bf1e0a54589ef9ee1951d56e11dd6294d6",
+    "simhash": "1:593df2863b8ed644",
+    "word_count": 54
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arthur Lee HAIRSTON, Sr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arthur Lee HAIRSTON, Sr., petitioner,\nv.\nUNITED STATES.\nNo. 13-6759.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 505 Fed.Appx. 272.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0550-01",
+  "first_page_order": 550,
+  "last_page_order": 550
+}

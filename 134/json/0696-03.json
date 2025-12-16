@@ -1,0 +1,75 @@
+{
+  "id": 12585219,
+  "name": "Narend CHAND, petitioner, v. Erasmo BRAVO, Warden, et al.",
+  "name_abbreviation": "Chand v. Bravo",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136576.",
+  "first_page": "696",
+  "last_page": "696",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 696"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 562"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "517 Fed.Appx. 640",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "sha256": "67e7a95e1af20c35f5e89e59e55e33e53ded0ce2ba63aab8731f849b96684a45",
+    "simhash": "1:3a1d74c43acdc3ab",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Narend CHAND, petitioner,\nv.\nErasmo BRAVO, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Narend CHAND, petitioner,\nv.\nErasmo BRAVO, Warden, et al.\nNo. 13-6576.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 517 Fed.Appx. 640.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0696-03",
+  "first_page_order": 696,
+  "last_page_order": 696
+}

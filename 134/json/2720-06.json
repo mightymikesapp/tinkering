@@ -1,0 +1,103 @@
+{
+  "id": 12582224,
+  "name": "Roderick GUNN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gunn v. United States",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20138330.",
+  "first_page": "2720",
+  "last_page": "2720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2720"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 758"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3696"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1354",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701760,
+        12578922,
+        12578923,
+        12578924,
+        12578925,
+        12578926,
+        12578927,
+        12701746,
+        12701756,
+        12701757,
+        12701758,
+        12701759
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1228-16",
+        "/s-ct/134/1354-01",
+        "/s-ct/134/1354-02",
+        "/s-ct/134/1354-03",
+        "/s-ct/134/1354-04",
+        "/s-ct/134/1354-05",
+        "/s-ct/134/1354-06",
+        "/us/571/1228-01",
+        "/us/571/1228-12",
+        "/us/571/1228-13",
+        "/us/571/1228-14",
+        "/us/571/1228-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 172,
+    "sha256": "6d0751b2019cc6548daf858389b8e691208a3a129ab60614469df269e6645b23",
+    "simhash": "1:108d1400058755cb",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roderick GUNN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roderick GUNN, petitioner,\nv.\nUNITED STATES.\nNo. 13-8330.\nSupreme Court of the United States\nJune 2, 2014.\nFormer decision, 134 S.Ct. 1354.\nPetition for rehearing denied."
+  },
+  "file_name": "2720-06",
+  "first_page_order": 2720,
+  "last_page_order": 2720
+}

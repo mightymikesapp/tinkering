@@ -1,0 +1,103 @@
+{
+  "id": 12585094,
+  "name": "Matthew CORZINE, petitioner, v. DEPARTMENT OF the ARMY, at al.",
+  "name_abbreviation": "Corzine v. Dep't of the Army",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20135764.",
+  "first_page": "676",
+  "last_page": "676",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 676"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 465"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3300"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 334",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703872,
+        12583342,
+        12583343,
+        12583344,
+        12583345,
+        12583346,
+        12583347,
+        12703858,
+        12703859,
+        12703860,
+        12703870,
+        12703871
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0929-16",
+        "/s-ct/134/0334-01",
+        "/s-ct/134/0334-02",
+        "/s-ct/134/0334-03",
+        "/s-ct/134/0334-04",
+        "/s-ct/134/0334-05",
+        "/s-ct/134/0334-06",
+        "/us/571/0929-01",
+        "/us/571/0929-02",
+        "/us/571/0929-03",
+        "/us/571/0929-14",
+        "/us/571/0929-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 189,
+    "sha256": "cca49bca2c9570f6368a9dbc2da79d2016d0ff4ad679cc89af2ac32fb2f2f470",
+    "simhash": "1:0516244670c8f38c",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Matthew CORZINE, petitioner,\nv.\nDEPARTMENT OF the ARMY, at al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Matthew CORZINE, petitioner,\nv.\nDEPARTMENT OF the ARMY, at al.\nNo. 13-5764.\nSupreme Court of the United States\nNov. 18, 2013.\nFormer decision, 134 S.Ct. 334\nPetition for rehearing denied."
+  },
+  "file_name": "0676-08",
+  "first_page_order": 676,
+  "last_page_order": 676
+}

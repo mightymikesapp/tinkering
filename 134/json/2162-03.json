@@ -1,0 +1,107 @@
+{
+  "id": 12581177,
+  "name": "In re Crystal BITON, petitioner.",
+  "name_abbreviation": "In re Biton",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20137889.",
+  "first_page": "2162",
+  "last_page": "2162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2162"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1144"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1311",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701536,
+        12701537,
+        12701289,
+        12701290,
+        12578635,
+        12578636,
+        12578637,
+        12578638,
+        12578639,
+        12578640,
+        12578641,
+        12701291,
+        12701368,
+        12701369
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1214-01",
+        "/us/571/1214-02",
+        "/us/571/1195-16",
+        "/us/571/1195-17",
+        "/s-ct/134/1311-01",
+        "/s-ct/134/1311-02",
+        "/s-ct/134/1311-03",
+        "/s-ct/134/1311-04",
+        "/s-ct/134/1311-05",
+        "/s-ct/134/1311-06",
+        "/s-ct/134/1311-07",
+        "/us/571/1195-18",
+        "/us/571/1201-10",
+        "/us/571/1201-11"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 154,
+    "sha256": "0a1d5990d28d48934bfd3ca6be7b7c53408aca571828ef9c687bb70895f76d7c",
+    "simhash": "1:83f51456bd2ce72f",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Crystal BITON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Crystal BITON, petitioner.\nNo. 13-7889.\nSupreme Court of the United States\nMay 5, 2014.\nCase below, 134 S.Ct. 1311.\nPetition for rehearing denied."
+  },
+  "file_name": "2162-03",
+  "first_page_order": 2162,
+  "last_page_order": 2162
+}

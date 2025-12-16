@@ -1,0 +1,73 @@
+{
+  "id": 12586157,
+  "name": "Robert LEONARD, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Leonard v. Florida",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137118.",
+  "first_page": "924",
+  "last_page": "924",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 924"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 799"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "119 So.3d 449",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "454c7a32a38b570c3b0a8467dddf9c7e1c1a49361b20912e537f76c3ce4b6d0a",
+    "simhash": "1:78675656f0b9cc31",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert LEONARD, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert LEONARD, petitioner,\nv.\nFLORIDA.\nNo. 13-7118.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 119 So.3d 449.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Second District, denied."
+  },
+  "file_name": "0924-06",
+  "first_page_order": 924,
+  "last_page_order": 924
+}

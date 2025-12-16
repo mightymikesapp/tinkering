@@ -1,0 +1,75 @@
+{
+  "id": 12584095,
+  "name": "Chigbo Peter UMEH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Umeh v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136315.",
+  "first_page": "464",
+  "last_page": "464",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 464"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 311"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "527 Fed.Appx. 57",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "sha256": "457327f2956a70d4f0f490117799d1c0e6eabee0b610e6af9fae2eb25a8111cd",
+    "simhash": "1:71ee66423c2544b5",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chigbo Peter UMEH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Chigbo Peter UMEH, petitioner,\nv.\nUNITED STATES.\nNo. 13-6315.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 527 Fed.Appx. 57.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0464-06",
+  "first_page_order": 464,
+  "last_page_order": 464
+}

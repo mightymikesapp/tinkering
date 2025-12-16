@@ -1,0 +1,75 @@
+{
+  "id": 12585322,
+  "name": "Albert Terrill JONES, petitioner, v. Jorge L. PASTRANA, Warden.",
+  "name_abbreviation": "Jones v. Pastrana",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20137099.",
+  "first_page": "711",
+  "last_page": "711",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 711"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 571"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "520 Fed.Appx. 942",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 261,
+    "sha256": "a62fdbe1c7f4771c3df73fca50f7fe98c7847e0f48e04632445d9dc7548c47e8",
+    "simhash": "1:30a572c43b6747ab",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albert Terrill JONES, petitioner,\nv.\nJorge L. PASTRANA, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Albert Terrill JONES, petitioner,\nv.\nJorge L. PASTRANA, Warden.\nNo. 13-7099.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 520 Fed.Appx. 942.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0711-02",
+  "first_page_order": 711,
+  "last_page_order": 711
+}

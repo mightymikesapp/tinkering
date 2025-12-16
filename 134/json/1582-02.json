@@ -1,0 +1,85 @@
+{
+  "id": 12579763,
+  "name": "MADISON COUNTY AND ONEIDA COUNTY, NEW YORK, v. ONEIDA INDIAN NATION OF NEW YORK, et al.",
+  "name_abbreviation": "Madison Cnty. & Oneida Cnty. v. Oneida Indian Nation Newyork",
+  "decision_date": "2014-03-26",
+  "docket_number": "No. 12\u2013604 (R46\u2013011).",
+  "first_page": "1582",
+  "last_page": "1582",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1582"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 589"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "665 F.3d 408",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3862752
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/665/0408-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 301,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632773184845912
+    },
+    "sha256": "483d0b9086a50ffd120d0c8d0206b2c41ba7336ed9083a324e8bc33669c15e93",
+    "simhash": "1:c02f145cfce9e293",
+    "word_count": 54
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MADISON COUNTY AND ONEIDA COUNTY, NEW YORK,\nv.\nONEIDA INDIAN NATION OF NEW YORK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "MADISON COUNTY AND ONEIDA COUNTY, NEW YORK,\nv.\nONEIDA INDIAN NATION OF NEW YORK, et al.\nNo. 12-604 (R46-011).\nSupreme Court of the United States\nMarch 26, 2014.\nCase below, 2d Cir., 665 F.3d 408.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+  },
+  "file_name": "1582-02",
+  "first_page_order": 1582,
+  "last_page_order": 1582
+}

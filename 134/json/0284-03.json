@@ -1,0 +1,75 @@
+{
+  "id": 12582684,
+  "name": "Brad R. JOHNSON, petitioner, v. Winford BARR, et al.",
+  "name_abbreviation": "Johnson v. Barr",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u201390.",
+  "first_page": "284",
+  "last_page": "284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 284"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 151"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Fed.Appx. 343",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 246,
+    "sha256": "202d3d7f1b85d5bc66a6aa7c1533bdbc51f3d4e41256b4e526a3d1bfebdd1bf1",
+    "simhash": "1:233fe6841ac08029",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brad R. JOHNSON, petitioner,\nv.\nWinford BARR, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brad R. JOHNSON, petitioner,\nv.\nWinford BARR, et al.\nNo. 13-90.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 514 Fed.Appx. 343.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0284-03",
+  "first_page_order": 284,
+  "last_page_order": 284
+}

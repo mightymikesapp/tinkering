@@ -1,0 +1,103 @@
+{
+  "id": 12579024,
+  "name": "Marie E. LUONGO, petitioner, v. MASSACHUSETTS DEPARTMENT OF DEVELOPMENTAL SERVICES, et al.",
+  "name_abbreviation": "Luongo v. Mass. Dep't of Developmental Servs.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136719.",
+  "first_page": "1369",
+  "last_page": "1369",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1369"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 366"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 791",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12585573,
+        12585574,
+        12585575,
+        12585576,
+        12585577,
+        12585578,
+        12700043,
+        12699953,
+        12699954,
+        12699964,
+        12699965,
+        12699966
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0791-01",
+        "/s-ct/134/0791-02",
+        "/s-ct/134/0791-03",
+        "/s-ct/134/0791-04",
+        "/s-ct/134/0791-05",
+        "/s-ct/134/0791-06",
+        "/us/571/1104-07",
+        "/us/571/1098-01",
+        "/us/571/1098-02",
+        "/us/571/1098-13",
+        "/us/571/1098-14",
+        "/us/571/1098-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 218,
+    "sha256": "e8b59780fd7a27d63bd81eb340ffc0f28c68a76208fce7caf5889a5a8c019cb0",
+    "simhash": "1:32393e00178c534a",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marie E. LUONGO, petitioner,\nv.\nMASSACHUSETTS DEPARTMENT OF DEVELOPMENTAL SERVICES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marie E. LUONGO, petitioner,\nv.\nMASSACHUSETTS DEPARTMENT OF DEVELOPMENTAL SERVICES, et al.\nNo. 13-6719.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 791.\nPetition for rehearing denied."
+  },
+  "file_name": "1369-05",
+  "first_page_order": 1369,
+  "last_page_order": 1369
+}

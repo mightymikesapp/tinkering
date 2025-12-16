@@ -1,0 +1,85 @@
+{
+  "id": 12583736,
+  "name": "David MORALES, petitioner, v. William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.",
+  "name_abbreviation": "Morales v. Stephens",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u201359.",
+  "first_page": "393",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 393"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 148"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "714 F.3d 295",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5869075
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/714/0295-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 319,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634114961914768
+    },
+    "sha256": "00345da6d88abeab30cafec172c6ded32452e7fb2edff571c356abb49a42b868",
+    "simhash": "1:57bd566c7a2586ed",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David MORALES, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David MORALES, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.\nNo. 13-59.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 714 F.3d 295.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0393-06",
+  "first_page_order": 393,
+  "last_page_order": 393
+}

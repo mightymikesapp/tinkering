@@ -1,0 +1,91 @@
+{
+  "id": 12586289,
+  "name": "Gregory R. SAUNDERS, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Saunders v. Pennsylvania",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137377.",
+  "first_page": "944",
+  "last_page": "944",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 944"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 811"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "60 A.2d 162",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "74 R.I. 245",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        4452314
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ri/74/0245-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 263,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635014628265972
+    },
+    "sha256": "23f65944eaaf17932cade0f3f8124c00b2d53012a26f9e361a3acc57f12b2ac8",
+    "simhash": "1:652fd45e3280559b",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory R. SAUNDERS, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory R. SAUNDERS, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-7377.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, Romeo v. Pate, 74 R.I. 245, 60 A.2d 162.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+  },
+  "file_name": "0944-05",
+  "first_page_order": 944,
+  "last_page_order": 944
+}

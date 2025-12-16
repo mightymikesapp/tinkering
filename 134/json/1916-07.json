@@ -1,0 +1,75 @@
+{
+  "id": 12580563,
+  "name": "C. Douglass THOMAS, et al., petitioners, v. Jack D. PIPPIN.",
+  "name_abbreviation": "Thomas v. Pippin",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20131151.",
+  "first_page": "1916",
+  "last_page": "1917",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1916"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 915"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "534 Fed.Appx. 992",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 258,
+    "sha256": "fc689ba90d890e0d136be56e269e2feeab3f17d746425b0d018bcd660e96cc75",
+    "simhash": "1:3f6f70c43b461321",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. Douglass THOMAS, et al., petitioners,\nv.\nJack D. PIPPIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "C. Douglass THOMAS, et al., petitioners,\nv.\nJack D. PIPPIN.\nNo. 13-1151.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 534 Fed.Appx. 992.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "1916-07",
+  "first_page_order": 1916,
+  "last_page_order": 1917
+}

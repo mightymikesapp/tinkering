@@ -1,0 +1,103 @@
+{
+  "id": 12586641,
+  "name": "Ingrid Cotterell INGRAM, petitioner, v. JUST ENERGY.",
+  "name_abbreviation": "Ingram v. Energy",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136727.",
+  "first_page": "997",
+  "last_page": "997",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 997"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 846"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 629",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699137,
+        12584770,
+        12584771,
+        12584772,
+        12584773,
+        12584774,
+        12584775,
+        12699208,
+        12699209,
+        12699210,
+        12699239,
+        12699221
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1008-02",
+        "/s-ct/134/0629-01",
+        "/s-ct/134/0629-02",
+        "/s-ct/134/0629-03",
+        "/s-ct/134/0629-04",
+        "/s-ct/134/0629-05",
+        "/s-ct/134/0629-06",
+        "/us/571/1014-01",
+        "/us/571/1014-02",
+        "/us/571/1014-03",
+        "/us/571/1019-06",
+        "/us/571/1014-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 180,
+    "sha256": "317fec598bce558210aeb5dc053a824efcefb7f2525693c62b1930b8e0f3b6b6",
+    "simhash": "1:ec2f3c4c158747e2",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ingrid Cotterell INGRAM, petitioner,\nv.\nJUST ENERGY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ingrid Cotterell INGRAM, petitioner,\nv.\nJUST ENERGY.\nNo. 13-6727.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 629.\nPetition for rehearing denied."
+  },
+  "file_name": "0997-03",
+  "first_page_order": 997,
+  "last_page_order": 997
+}

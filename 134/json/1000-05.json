@@ -1,0 +1,75 @@
+{
+  "id": 12577869,
+  "name": "Patrick A. MISSUD, petitioner, v. SUPERIOR COURT OF CALIFORNIA, SAN FRANCISCO COUNTY, et al.",
+  "name_abbreviation": "Missud v. Superior Court of Cal.",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20136518.",
+  "first_page": "1000",
+  "last_page": "1000",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1000"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 852"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "538 Fed.Appx. 745",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 287,
+    "sha256": "4060d721c5954fb61403455b61da44fb5ea75a46cc8e48867c31e443dac569a4",
+    "simhash": "1:fb7f76843b0757c2",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick A. MISSUD, petitioner,\nv.\nSUPERIOR COURT OF CALIFORNIA, SAN FRANCISCO COUNTY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick A. MISSUD, petitioner,\nv.\nSUPERIOR COURT OF CALIFORNIA, SAN FRANCISCO COUNTY, et al.\nNo. 13-6518.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 538 Fed.Appx. 745\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1000-05",
+  "first_page_order": 1000,
+  "last_page_order": 1000
+}

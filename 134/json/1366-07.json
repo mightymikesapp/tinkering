@@ -1,0 +1,107 @@
+{
+  "id": 12579006,
+  "name": "Jodie A. PENNINGTON, petitioner, v. UNIVERSITY OF ARKANSAS BOARD OF TRUSTEES, et al.",
+  "name_abbreviation": "Pennington v. Univ. of Ark. Bd. of Trs.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013503.",
+  "first_page": "1366",
+  "last_page": "1366",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1366"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 363"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 797",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12585609,
+        12585610,
+        12585611,
+        12585612,
+        12585613,
+        12585614,
+        12585615,
+        12699916,
+        12699889,
+        12699982,
+        12699983,
+        12699993,
+        12699994,
+        12699995
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0797-01",
+        "/s-ct/134/0797-02",
+        "/s-ct/134/0797-03",
+        "/s-ct/134/0797-04",
+        "/s-ct/134/0797-05",
+        "/s-ct/134/0797-06",
+        "/s-ct/134/0797-07",
+        "/us/571/1095-09",
+        "/us/571/1093-06",
+        "/us/571/1100-01",
+        "/us/571/1100-02",
+        "/us/571/1100-13",
+        "/us/571/1100-14",
+        "/us/571/1100-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 211,
+    "sha256": "49e3099f3171b0ee8ce584ad332958075043bb8e8cf84aca54a623f437cee798",
+    "simhash": "1:72bd5c0614ded56a",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jodie A. PENNINGTON, petitioner,\nv.\nUNIVERSITY OF ARKANSAS BOARD OF TRUSTEES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jodie A. PENNINGTON, petitioner,\nv.\nUNIVERSITY OF ARKANSAS BOARD OF TRUSTEES, et al.\nNo. 13-503.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 797.\nPetition for rehearing denied."
+  },
+  "file_name": "1366-07",
+  "first_page_order": 1366,
+  "last_page_order": 1366
+}

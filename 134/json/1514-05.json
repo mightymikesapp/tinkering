@@ -1,0 +1,85 @@
+{
+  "id": 12579308,
+  "name": "Richard BISTLINE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bistline v. United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u2013557.",
+  "first_page": "1514",
+  "last_page": "1514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1514"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 463"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "720 F.3d 631",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4057990
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/720/0631-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 315,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632626458144857
+    },
+    "sha256": "083f4da03ebb92d7c7e1cfe0d3dd8ceb2edb0bb1a2ed8c5007afd8a1fe69417c",
+    "simhash": "1:387d7e06bf04d801",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard BISTLINE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard BISTLINE, petitioner,\nv.\nUNITED STATES.\nNo. 13-557.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 720 F.3d 631.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1514-05",
+  "first_page_order": 1514,
+  "last_page_order": 1514
+}

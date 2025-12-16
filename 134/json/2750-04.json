@@ -1,0 +1,85 @@
+{
+  "id": 12582423,
+  "name": "BP EXPLORATION & PRODUCTION INC., et al., applicants, v. LAKE EUGENIE LAND & DEVELOPMENT, INC., et al.",
+  "name_abbreviation": "BP Exploration & Prod. Inc. v. Lake Eugenie Land & Dev., Inc.",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13A1177.",
+  "first_page": "2750",
+  "last_page": "2750",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2750"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 760"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "744 F.3d 370",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4120735
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/744/0370-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 364,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26337249777882804
+    },
+    "sha256": "b1e54411148d6bf4bf7d51ae49f37a653ea1a41e7f4e2151fd0b44db9e2c39e0",
+    "simhash": "1:70695c1dbf0d144f",
+    "word_count": 61
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BP EXPLORATION & PRODUCTION INC., et al., applicants,\nv.\nLAKE EUGENIE LAND & DEVELOPMENT, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application to recall and stay the mandate of the United States Court of Appeals for the Fifth Circuit presented to Justice SCALIA and by him referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "BP EXPLORATION & PRODUCTION INC., et al., applicants,\nv.\nLAKE EUGENIE LAND & DEVELOPMENT, INC., et al.\nNo. 13A1177.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 744 F.3d 370.\nApplication to recall and stay the mandate of the United States Court of Appeals for the Fifth Circuit presented to Justice SCALIA and by him referred to the Court denied."
+  },
+  "file_name": "2750-04",
+  "first_page_order": 2750,
+  "last_page_order": 2750
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12578082,
+  "name": "McLANE SOUTHERN, INC., petitioner, v. Cynthia BRIDGES, Secretary, Louisiana Department of Revenue.",
+  "name_abbreviation": "Mclane S., Inc. v. Bridges",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u2013657.",
+  "first_page": "1033",
+  "last_page": "1033",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1033"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 121"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3446"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "110 So.3d 1262",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7020373
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/110/1262-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 282,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632219098487981
+    },
+    "sha256": "649c1d185c3ad723fbdbbcd2bfee0c593f720a1ff236eb9908b283adfd01e7db",
+    "simhash": "1:e8b7e604b2bd0115",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McLANE SOUTHERN, INC., petitioner,\nv.\nCynthia BRIDGES, Secretary, Louisiana Department of Revenue."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of Louisiana, First Circuit, denied."
+    ],
+    "corrections": "",
+    "head_matter": "McLANE SOUTHERN, INC., petitioner,\nv.\nCynthia BRIDGES, Secretary, Louisiana Department of Revenue.\nNo. 13-657.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 110 So.3d 1262.\nPetition for writ of certiorari to the Court of Appeal of Louisiana, First Circuit, denied."
+  },
+  "file_name": "1033-02",
+  "first_page_order": 1033,
+  "last_page_order": 1033
+}

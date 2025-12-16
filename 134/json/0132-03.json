@@ -1,0 +1,93 @@
+{
+  "id": 12578760,
+  "name": "Earl Bookert FLEMING, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Fleming v. Washington",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310552.",
+  "first_page": "132",
+  "last_page": "132",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 132"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 93"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 1977282",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "168 Wash.App. 1028",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4026834,
+        4026290,
+        4028125,
+        4026030
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-app/168/1028-03",
+        "/wash-app/168/1028-02",
+        "/wash-app/168/1028-01",
+        "/wash-app/168/1028-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 253,
+    "sha256": "846fcbc5d8de99223040b3018e372c67f5b20b9164f578cf0b41d59af3c74348",
+    "simhash": "1:bc3f460ed8418499",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Earl Bookert FLEMING, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Earl Bookert FLEMING, petitioner,\nv.\nWASHINGTON.\nNo. 12-10552.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 168 Wash.App. 1028, 2012 WL 1977282.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+  },
+  "file_name": "0132-03",
+  "first_page_order": 132,
+  "last_page_order": 132
+}

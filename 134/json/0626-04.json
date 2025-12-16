@@ -1,0 +1,75 @@
+{
+  "id": 12584755,
+  "name": "Morton BERGER, petitioner, v. Tom HORNE, Attorney General of Arizona, et al.",
+  "name_abbreviation": "Berger v. Horne",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u2013391.",
+  "first_page": "626",
+  "last_page": "626",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 626"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 401"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "525 Fed.Appx. 543",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 271,
+    "sha256": "e955cfa7c7c89e8f8195c9d457d32619f33fdc59751acfa9b80d11479ff9cbfb",
+    "simhash": "1:61ad72c4b78557aa",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Morton BERGER, petitioner,\nv.\nTom HORNE, Attorney General of Arizona, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Morton BERGER, petitioner,\nv.\nTom HORNE, Attorney General of Arizona, et al.\nNo. 13-391.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 525 Fed.Appx. 543.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0626-04",
+  "first_page_order": 626,
+  "last_page_order": 626
+}

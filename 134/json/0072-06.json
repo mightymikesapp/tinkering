@@ -1,0 +1,75 @@
+{
+  "id": 12585455,
+  "name": "Gabriel RIVERA, petitioner, v. Michael VENDITTO, Jr.",
+  "name_abbreviation": "Rivera v. Venditto",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310014.",
+  "first_page": "72",
+  "last_page": "72",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 72"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 59"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "979 N.E.2d 239",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 223,
+    "sha256": "e1cf888172dd548b19fde2e30b0fbe74aa6c4985f2ebc828f7b3d5c997ed75b6",
+    "simhash": "1:e1ef1015d3f1c588",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gabriel RIVERA, petitioner,\nv.\nMichael VENDITTO, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appeals Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gabriel RIVERA, petitioner,\nv.\nMichael VENDITTO, Jr.\nNo. 12-10014.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 979 N.E.2d 239.\nPetition for writ of certiorari to the Appeals Court of Massachusetts denied."
+  },
+  "file_name": "0072-06",
+  "first_page_order": 72,
+  "last_page_order": 72
+}

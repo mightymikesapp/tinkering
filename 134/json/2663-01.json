@@ -1,0 +1,85 @@
+{
+  "id": 12581829,
+  "name": "Duane Edward BUCK, petitioner, v. TEXAS.",
+  "name_abbreviation": "Buck v. Texas",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20138707.",
+  "first_page": "2663",
+  "last_page": "2663",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2663"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 213"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3685"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "418 S.W.3d 98",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7253149
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/418/0098-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 213,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633531916339524
+    },
+    "sha256": "12aed12d33fbb12151e47a0f2370be3357464784991e9bd05cdeea48e8648447",
+    "simhash": "1:797f80b673ed15d5",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Duane Edward BUCK, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Duane Edward BUCK, petitioner,\nv.\nTEXAS.\nNo. 13-8707.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 418 S.W.3d 98.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "2663-01",
+  "first_page_order": 2663,
+  "last_page_order": 2663
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12584830,
+  "name": "Cora M. HILL, petitioner, v. James C. HAWKS, Judge, Circuit Court of the City of Portsmouth, Virginia, et al.",
+  "name_abbreviation": "Hill v. Hawks",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20135207.",
+  "first_page": "638",
+  "last_page": "638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 638"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 422"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 234",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 306,
+    "sha256": "66312bbf2d7227ada59bc3c598394ebb5153af1401f28b8fe0b1d0ad322ca2cc",
+    "simhash": "1:044fc0c439c150a4",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cora M. HILL, petitioner,\nv.\nJames C. HAWKS, Judge, Circuit Court of the City of Portsmouth, Virginia, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cora M. HILL, petitioner,\nv.\nJames C. HAWKS, Judge, Circuit Court of the City of Portsmouth, Virginia, et al.\nNo. 13-5207.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 515 Fed.Appx. 234.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0638-01",
+  "first_page_order": 638,
+  "last_page_order": 638
+}

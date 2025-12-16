@@ -1,0 +1,85 @@
+{
+  "id": 12578877,
+  "name": "Jesus M. DIAZ-CORREA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Diaz-Correa v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138241.",
+  "first_page": "1347",
+  "last_page": "1347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1347"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 350"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "726 F.3d 17",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073454
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/726/0017-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632512551890091
+    },
+    "sha256": "0d31b770a7aa2983bf230530dbfdc52038fdf584a68193f2a4f3b63900147605",
+    "simhash": "1:faed44442e27d315",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesus M. DIAZ-CORREA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jesus M. DIAZ-CORREA, petitioner,\nv.\nUNITED STATES.\nNo. 13-8241.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 726 F.3d 17.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "1347-05",
+  "first_page_order": 1347,
+  "last_page_order": 1347
+}

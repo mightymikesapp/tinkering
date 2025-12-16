@@ -1,0 +1,91 @@
+{
+  "id": 12586268,
+  "name": "Norman LE, et al., petitioners, v. Duc TAN, et al.",
+  "name_abbreviation": "Le v. Tan",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013595.",
+  "first_page": "941",
+  "last_page": "941",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 941"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 784"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "300 P.3d 356",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "177 Wash.2d 649",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131779
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-2d/177/0649-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 232,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26350088364225094
+    },
+    "sha256": "e4af2a14ef8772bf53f9c10d8d26af55915e7050ea18e2b82b179f2e6a11002b",
+    "simhash": "1:e9af5684728117b3",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Norman LE, et al., petitioners,\nv.\nDuc TAN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Washington denied."
+    ],
+    "corrections": "",
+    "head_matter": "Norman LE, et al., petitioners,\nv.\nDuc TAN, et al.\nNo. 13-595.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 177 Wash.2d 649, 300 P.3d 356.\nPetition for writ of certiorari to the Supreme Court of Washington denied."
+  },
+  "file_name": "0941-03",
+  "first_page_order": 941,
+  "last_page_order": 941
+}

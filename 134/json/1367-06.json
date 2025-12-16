@@ -1,0 +1,103 @@
+{
+  "id": 12579012,
+  "name": "Christopher G. WILEY, III, petitioner, v. Cleo FIELDS, et al.",
+  "name_abbreviation": "Wiley v. Fields",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136110.",
+  "first_page": "1367",
+  "last_page": "1367",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1367"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 364"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 523",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704764,
+        12704752,
+        12704753,
+        12704754,
+        12704725,
+        12584439,
+        12584440,
+        12584441,
+        12584442,
+        12584443,
+        12584444,
+        12704765
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0995-14",
+        "/us/571/0995-01",
+        "/us/571/0995-02",
+        "/us/571/0995-03",
+        "/us/571/0993-05",
+        "/s-ct/134/0523-01",
+        "/s-ct/134/0523-02",
+        "/s-ct/134/0523-03",
+        "/s-ct/134/0523-04",
+        "/s-ct/134/0523-05",
+        "/s-ct/134/0523-06",
+        "/us/571/0995-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 189,
+    "sha256": "79793fc903d1433fb36aa28dd24cf24f0f27d04838f8f6cd4cb2b73beecc65d8",
+    "simhash": "1:31e51646149d5b4a",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher G. WILEY, III, petitioner,\nv.\nCleo FIELDS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher G. WILEY, III, petitioner,\nv.\nCleo FIELDS, et al.\nNo. 13-6110.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 523.\nPetition for rehearing denied."
+  },
+  "file_name": "1367-06",
+  "first_page_order": 1367,
+  "last_page_order": 1367
+}

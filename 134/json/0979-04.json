@@ -1,0 +1,81 @@
+{
+  "id": 12586513,
+  "name": "Rafael VILLANUEVA-JIMENEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Villanueva-Jimenez v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137761.",
+  "first_page": "979",
+  "last_page": "979",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 979"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 832"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5769917",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "543 Fed.Appx. 436",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 269,
+    "sha256": "069eb5e5d973f9c1f4301a0f2d7262ab0c057b2bf52674e41068a3b20c629a2c",
+    "simhash": "1:edee7444270106f5",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rafael VILLANUEVA-JIMENEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rafael VILLANUEVA-JIMENEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-7761.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 543 Fed.Appx. 436, 2013 WL 5769917.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0979-04",
+  "first_page_order": 979,
+  "last_page_order": 979
+}

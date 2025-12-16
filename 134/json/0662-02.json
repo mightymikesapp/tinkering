@@ -1,0 +1,75 @@
+{
+  "id": 12584996,
+  "name": "Calvin WINBUSH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Winbush v. United States",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136901.",
+  "first_page": "662",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 662"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 437"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Fed.Appx. 914",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 242,
+    "sha256": "843b584c1a8c273a935f13e8db74bdda9765f96526e049f663da63001ef96747",
+    "simhash": "1:51cec08e3bc0541d",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Calvin WINBUSH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Calvin WINBUSH, petitioner,\nv.\nUNITED STATES.\nNo. 13-6901.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 524 Fed.Appx. 914.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0662-02",
+  "first_page_order": 662,
+  "last_page_order": 662
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12585526,
+  "name": "Neal CRISPIN, petitioner, v. COMMISSIONER OF INTERNAL REVENUE.",
+  "name_abbreviation": "Crispin v. Comm'r",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u201399.",
+  "first_page": "784",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 784"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 594"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "708 F.3d 507",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3540516
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/708/0507-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 250,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26347115217914246
+    },
+    "sha256": "a3eeda4befcb4eee5455d36955090fe899abe3f190a1230e1b840a17ebded9d1",
+    "simhash": "1:ebadd4ec376797ae",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Neal CRISPIN, petitioner,\nv.\nCOMMISSIONER OF INTERNAL REVENUE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Neal CRISPIN, petitioner,\nv.\nCOMMISSIONER OF INTERNAL REVENUE.\nNo. 13-99.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 708 F.3d 507.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0784-02",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

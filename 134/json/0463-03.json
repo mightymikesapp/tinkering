@@ -1,0 +1,75 @@
+{
+  "id": 12584086,
+  "name": "Eric SANCHEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Sanchez v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136278.",
+  "first_page": "463",
+  "last_page": "463",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 463"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 310"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "527 Fed.Appx. 488",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "sha256": "fa4aa07be5b63b2b239274abab76344e9d8a050b956befb2dea9a14dc14ebcd3",
+    "simhash": "1:e9ec6247ba05c421",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric SANCHEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric SANCHEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-6278.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 527 Fed.Appx. 488.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0463-03",
+  "first_page_order": 463,
+  "last_page_order": 463
+}

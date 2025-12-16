@@ -1,0 +1,81 @@
+{
+  "id": 12580500,
+  "name": "Robert HUBBARD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hubbard v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139164.",
+  "first_page": "1907",
+  "last_page": "1907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1907"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 935"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2014 WL 341997",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "553 Fed.Appx. 330",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 259,
+    "sha256": "259a092e34730c93199a5f7b90bf66dd0129a3a0401b834a40c57f7a945799c9",
+    "simhash": "1:616ca4063b47d415",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert HUBBARD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert HUBBARD, petitioner,\nv.\nUNITED STATES.\nNo. 13-9164.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 553 Fed.Appx. 330, 2014 WL 341997.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1907-04",
+  "first_page_order": 1907,
+  "last_page_order": 1907
+}

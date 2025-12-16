@@ -1,0 +1,85 @@
+{
+  "id": 12579311,
+  "name": "PUBLIC EMPLOYEES' RETIREMENT SYSTEM OF MISSISSIPPI, petitioner, v. INDYMAC MBS, INC., et al.",
+  "name_abbreviation": "Pub. Employees' Ret. Sys. of Miss. v. Indymac MBS, Inc.",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u2013640.",
+  "first_page": "1515",
+  "last_page": "1515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1515"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 449"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 95",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5756223
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/721/0095-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 359,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632628388759345
+    },
+    "sha256": "3c70fee3d27478b38bad21f8e1a66a2afddefeb65d96369c1028ca4717fd5a94",
+    "simhash": "1:9219660e780447a1",
+    "word_count": 59
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PUBLIC EMPLOYEES' RETIREMENT SYSTEM OF MISSISSIPPI, petitioner,\nv.\nINDYMAC MBS, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "PUBLIC EMPLOYEES' RETIREMENT SYSTEM OF MISSISSIPPI, petitioner,\nv.\nINDYMAC MBS, INC., et al.\nNo. 13-640.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, Police and Fire Retirement System of City of Detroit v. IndyMac MBS, Inc., 721 F.3d 95.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit granted."
+  },
+  "file_name": "1515-02",
+  "first_page_order": 1515,
+  "last_page_order": 1515
+}

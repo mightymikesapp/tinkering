@@ -1,0 +1,85 @@
+{
+  "id": 12585036,
+  "name": "Robert LOFFREDI, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Loffredi v. United States",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20137017.",
+  "first_page": "668",
+  "last_page": "668",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 668"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 442"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 991",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4048858
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0991-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263456479509037
+    },
+    "sha256": "dc2e806f8954e7c86f361fb4ee79a278360fb862666559a12b75bb6b2b0ea42a",
+    "simhash": "1:05ad64c6bbe21618",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert LOFFREDI, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert LOFFREDI, petitioner,\nv.\nUNITED STATES.\nNo. 13-7017.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 718 F.3d 991.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0668-05",
+  "first_page_order": 668,
+  "last_page_order": 668
+}

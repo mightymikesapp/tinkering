@@ -1,0 +1,75 @@
+{
+  "id": 12584745,
+  "name": "Dwight Johannes DOWNS, petitioner, v. UNITED STATES ARMY CORPS OF ENGINEERS.",
+  "name_abbreviation": "Downs v. U.S. Army Corps of Eng'rs",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u2013341.",
+  "first_page": "624",
+  "last_page": "624",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 624"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 411"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "517 Fed.Appx. 717",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 351,
+    "sha256": "0811c6f0bed3c75b0c12e022a68db177602f0f1213064260f71041d9f161a4ae",
+    "simhash": "1:29a7f6c4330edbcb",
+    "word_count": 57
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwight Johannes DOWNS, petitioner,\nv.\nUNITED STATES ARMY CORPS OF ENGINEERS."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dwight Johannes DOWNS, petitioner,\nv.\nUNITED STATES ARMY CORPS OF ENGINEERS.\nNo. 13-341.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 517 Fed.Appx. 717.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0624-06",
+  "first_page_order": 624,
+  "last_page_order": 624
+}

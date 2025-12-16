@@ -1,0 +1,75 @@
+{
+  "id": 12581643,
+  "name": "Maurice RICHARDS, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Richards v. Illinois",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135165.",
+  "first_page": "241",
+  "last_page": "241",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 241"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 178"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 7037330",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 228,
+    "sha256": "75ff3eff36978583b99df4c5938939254ee32fd5795e8c066a917cd6c76280b2",
+    "simhash": "1:112df25499acc303",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maurice RICHARDS, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Fourth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Maurice RICHARDS, petitioner,\nv.\nILLINOIS.\nNo. 13-5165.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 2012 WL 7037330.\nPetition for writ of certiorari to the Appellate Court of Illinois, Fourth District, denied."
+  },
+  "file_name": "0241-04",
+  "first_page_order": 241,
+  "last_page_order": 241
+}

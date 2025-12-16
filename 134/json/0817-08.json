@@ -1,0 +1,103 @@
+{
+  "id": 12585752,
+  "name": "Anthony Jesus SANDERS, petitioner, v. VIRGINIA, et al.",
+  "name_abbreviation": "Sanders v. Virginia",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20135454.",
+  "first_page": "817",
+  "last_page": "817",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 817"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 618"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 291",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12583045,
+        12583046,
+        12583047,
+        12583048,
+        12583049,
+        12583050,
+        12703660,
+        12703661,
+        12703662,
+        12703663,
+        12703664,
+        12703674
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0291-01",
+        "/s-ct/134/0291-02",
+        "/s-ct/134/0291-03",
+        "/s-ct/134/0291-04",
+        "/s-ct/134/0291-05",
+        "/s-ct/134/0291-06",
+        "/us/571/0916-01",
+        "/us/571/0916-02",
+        "/us/571/0916-03",
+        "/us/571/0916-04",
+        "/us/571/0916-05",
+        "/us/571/0916-16"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 180,
+    "sha256": "50880fea19003fa380df5607c104e63a47946535e067296742e5e91260eafdd2",
+    "simhash": "1:363d144614d7464e",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony Jesus SANDERS, petitioner,\nv.\nVIRGINIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony Jesus SANDERS, petitioner,\nv.\nVIRGINIA, et al.\nNo. 13-5454.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 291\nPetition for rehearing denied."
+  },
+  "file_name": "0817-08",
+  "first_page_order": 817,
+  "last_page_order": 817
+}

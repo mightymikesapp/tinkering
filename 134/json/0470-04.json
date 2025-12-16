@@ -1,0 +1,75 @@
+{
+  "id": 12584135,
+  "name": "Shou Yu CHEN, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Chen v. Michigan",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 12\u201310492.",
+  "first_page": "470",
+  "last_page": "470",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 470"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 317"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3233"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 516062",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 208,
+    "sha256": "0a6f2900f6dd7134df77bf9bed3be0c1f6453ccccf9035201d20777e7af84fe3",
+    "simhash": "1:f9dfe452934fe515",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shou Yu CHEN, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shou Yu CHEN, petitioner,\nv.\nMICHIGAN.\nNo. 12-10492.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 2012 WL 516062.\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "0470-04",
+  "first_page_order": 470,
+  "last_page_order": 470
+}

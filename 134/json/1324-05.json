@@ -1,0 +1,91 @@
+{
+  "id": 12578725,
+  "name": "Fredric SANAI, petitioner, v. WASHINGTON STATE BAR ASSOCIATION DISCIPLINARY BOARD.",
+  "name_abbreviation": "Sanai v. Wash. State Bar Ass'n Disciplinary Bd.",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013782.",
+  "first_page": "1324",
+  "last_page": "1324",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1324"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 307"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "302 P.3d 864",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "177 Wash.2d 743",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        4131609
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-2d/177/0743-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 264,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26324527028409767
+    },
+    "sha256": "cabc2ab424530f3d652a4c74ec547aa92f82f5294464e2ec7f37ddae0597e65b",
+    "simhash": "1:686e1484d301c019",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fredric SANAI, petitioner,\nv.\nWASHINGTON STATE BAR ASSOCIATION DISCIPLINARY BOARD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Washington denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fredric SANAI, petitioner,\nv.\nWASHINGTON STATE BAR ASSOCIATION DISCIPLINARY BOARD.\nNo. 13-782.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 177 Wash.2d 743, 302 P.3d 864.\nPetition for writ of certiorari to the Supreme Court of Washington denied."
+  },
+  "file_name": "1324-05",
+  "first_page_order": 1324,
+  "last_page_order": 1324
+}

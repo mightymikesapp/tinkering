@@ -1,0 +1,75 @@
+{
+  "id": 12580295,
+  "name": "Ernest BUSTOS, petitioner, v. Paul S. RUBERA, et al.",
+  "name_abbreviation": "Bustos v. Rubera",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137789.",
+  "first_page": "1875",
+  "last_page": "1875",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1875"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 917"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "535 Fed.Appx. 553",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 249,
+    "sha256": "acd1242ed9ebcb51410f17d6cedd66e78e963b3d93055a8738fceea505062bac",
+    "simhash": "1:73ad74443e050222",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ernest BUSTOS, petitioner,\nv.\nPaul S. RUBERA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ernest BUSTOS, petitioner,\nv.\nPaul S. RUBERA, et al.\nNo. 13-7789.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 535 Fed.Appx. 553.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1875-02",
+  "first_page_order": 1875,
+  "last_page_order": 1875
+}

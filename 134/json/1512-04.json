@@ -1,0 +1,99 @@
+{
+  "id": 12579295,
+  "name": "William Robert ARMSTRONG, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Armstrong v. United States",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20137690.",
+  "first_page": "1512",
+  "last_page": "1512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1512"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 390"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 976",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12586496,
+        12586497,
+        12700746,
+        12700747,
+        12700757,
+        12700410,
+        12586492,
+        12586493,
+        12586494,
+        12586495
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0976-05",
+        "/s-ct/134/0976-06",
+        "/us/571/1154-09",
+        "/us/571/1154-10",
+        "/us/571/1155-01",
+        "/us/571/1132-07",
+        "/s-ct/134/0976-01",
+        "/s-ct/134/0976-02",
+        "/s-ct/134/0976-03",
+        "/s-ct/134/0976-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 188,
+    "sha256": "aca28ba1fb86ee89c25f21434a5b5adb0b1312c7f7d36cd35f6ec8eaed9b645f",
+    "simhash": "1:92e92440132a5548",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Robert ARMSTRONG, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "William Robert ARMSTRONG, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 13-7690.\nSupreme Court of the United States\nMarch 3, 2014.\nFormer decision, 134 S.Ct. 976.\nPetition for rehearing denied."
+  },
+  "file_name": "1512-04",
+  "first_page_order": 1512,
+  "last_page_order": 1512
+}

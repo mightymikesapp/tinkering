@@ -1,0 +1,75 @@
+{
+  "id": 12584788,
+  "name": "Joseph Kennard SHELTON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Shelton v. United States",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20136789.",
+  "first_page": "631",
+  "last_page": "631",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 631"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 408"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "531 Fed.Appx. 400",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 250,
+    "sha256": "99aa09fabe5c31f9b3be252b44b8091ee44c290c5386339e00291a5c12e3c1ba",
+    "simhash": "1:2a2d04c43a44c609",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph Kennard SHELTON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph Kennard SHELTON, petitioner,\nv.\nUNITED STATES.\nNo. 13-6789.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 531 Fed.Appx. 400.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0631-01",
+  "first_page_order": 631,
+  "last_page_order": 631
+}

@@ -1,0 +1,66 @@
+{
+  "id": 12582572,
+  "name": "KBR, INCORPORATED, et al., petitioners, v. Alan METZGAR, et al.",
+  "name_abbreviation": "KBR, Inc. v. Metzgar",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. 13\u20131241.",
+  "first_page": "2833",
+  "last_page": "2833",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2833"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 784"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3718"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 233,
+    "sha256": "dd9a3ce574991de02d8907101c0eb09d9f25d26b932cfc0b7b7820f4563bef0c",
+    "simhash": "1:b2bd068cbb82d469",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "KBR, INCORPORATED, et al., petitioners,\nv.\nAlan METZGAR, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "KBR, INCORPORATED, et al., petitioners,\nv.\nAlan METZGAR, et al.\nNo. 13-1241.\nSupreme Court of the United States\nJune 16, 2014.\nThe Solicitor General is invited to file a brief in this case expressing the views of the United States."
+  },
+  "file_name": "2833-03",
+  "first_page_order": 2833,
+  "last_page_order": 2833
+}

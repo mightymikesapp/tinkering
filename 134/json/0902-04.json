@@ -1,0 +1,99 @@
+{
+  "id": 12586015,
+  "name": "Antonio AVILES, petitioner, v. TEXAS.",
+  "name_abbreviation": "Aviles v. Texas",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136353.",
+  "first_page": "902",
+  "last_page": "902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 902"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 767"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 1552",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12697040
+      ],
+      "weight": 2,
+      "year": 2013,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/0141-01"
+      ]
+    },
+    {
+      "cite": "385 S.W.3d 110",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7094375
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/385/0110-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 522,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26349258199995446
+    },
+    "sha256": "fdabf4c999b8ddb4ed6668c19dda736533839780bdcfe362beb6e222f7aed6f4",
+    "simhash": "1:2ea76a96e0c104d8",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio AVILES, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Court of Appeals of Texas, Fourth District. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Appeals of Texas, Fourth District, for further consideration in light of Missouri v. McNeely, 569 U.S. ----, 133 S.Ct. 1552, 185 L.Ed.2d 696 (2013)."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio AVILES, petitioner,\nv.\nTEXAS.\nNo. 13-6353.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 385 S.W.3d 110.\nOn petition for writ of certiorari to the Court of Appeals of Texas, Fourth District. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Appeals of Texas, Fourth District, for further consideration in light of Missouri v. McNeely, 569 U.S. ----, 133 S.Ct. 1552, 185 L.Ed.2d 696 (2013)."
+  },
+  "file_name": "0902-04",
+  "first_page_order": 902,
+  "last_page_order": 902
+}

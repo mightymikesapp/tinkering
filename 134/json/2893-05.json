@@ -1,0 +1,68 @@
+{
+  "id": 12582973,
+  "name": "In re Joseph R. FLYING HORSE, petitioner.",
+  "name_abbreviation": "In re Horse",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u201310366.",
+  "first_page": "2893",
+  "last_page": "2893",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2893"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 850"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3747"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 150,
+    "sha256": "f586be66b8faf046447f3816102deb43a4c6cf67044474c6f579d45e08e76dba",
+    "simhash": "1:78ef40449b114745",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Joseph R. FLYING HORSE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Joseph R. FLYING HORSE, petitioner.\nNo. 13-10366.\nSupreme Court of the United States\nJune 30, 2014.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2893-05",
+  "first_page_order": 2893,
+  "last_page_order": 2893
+}

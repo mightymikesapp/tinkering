@@ -1,0 +1,75 @@
+{
+  "id": 12584529,
+  "name": "Clyde Thomas HULL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hull v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136575.",
+  "first_page": "536",
+  "last_page": "537",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 536"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 384"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "529 Fed.Appx. 256",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "sha256": "b26ac51b6412c12be9ddde47d8bc95303b4df234780d91c984bff582ede83094",
+    "simhash": "1:d5bc66c43e4116b1",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clyde Thomas HULL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Clyde Thomas HULL, petitioner,\nv.\nUNITED STATES.\nNo. 13-6575.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 529 Fed.Appx. 256.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0536-06",
+  "first_page_order": 536,
+  "last_page_order": 537
+}

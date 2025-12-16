@@ -1,0 +1,75 @@
+{
+  "id": 12580175,
+  "name": "Danny HARMES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Harmes v. United States",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20139033.",
+  "first_page": "1803",
+  "last_page": "1803",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1803"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 768"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "547 Fed.Appx. 500",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "sha256": "d3ead4859695dc8a7a7ab27d35c31a4fa37da8d035e828170681a536e71e6bd5",
+    "simhash": "1:7f3c76462b25551f",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Danny HARMES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Danny HARMES, petitioner,\nv.\nUNITED STATES.\nNo. 13-9033.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 547 Fed.Appx. 500.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1803-03",
+  "first_page_order": 1803,
+  "last_page_order": 1803
+}

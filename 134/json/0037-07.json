@@ -1,0 +1,91 @@
+{
+  "id": 12583649,
+  "name": "Taras LaFrance EDWARDS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Edwards v. United States",
+  "decision_date": "2013-08-12",
+  "docket_number": "No. 12\u20139796.",
+  "first_page": "37",
+  "last_page": "37",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 37"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 951"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3079"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2402",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12696482,
+        12698439,
+        12698448,
+        12698456,
+        12698392,
+        12698457
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/569/1001-10",
+        "/us/569/0998-06",
+        "/us/569/0999-08",
+        "/us/569/0999-09",
+        "/us/569/0995-03",
+        "/us/569/0999-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 181,
+    "sha256": "1af1e94c99c8db3a5420db3aa8810220fdce3819584b67e9e497b9651cfa5b75",
+    "simhash": "1:e0ac36561eac7216",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Taras LaFrance EDWARDS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Taras LaFrance EDWARDS, petitioner,\nv.\nUNITED STATES.\nNo. 12-9796.\nSupreme Court of the United States\nAug. 12, 2013.\nFormer decision, 133 S.Ct. 2402\nPetition for rehearing denied."
+  },
+  "file_name": "0037-07",
+  "first_page_order": 37,
+  "last_page_order": 37
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12579914,
+  "name": "Matthew E. KOCH, petitioner, v. Katherine GREGORY, et al.",
+  "name_abbreviation": "Koch v. Gregory",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138385.",
+  "first_page": "1763",
+  "last_page": "1763",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1763"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 598"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "536 Fed.Appx. 659",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 256,
+    "sha256": "a13e595e80d3d7bc863d520083740eaac2aa236dc0f85974c5e4853690381f6a",
+    "simhash": "1:40ad744c19841693",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Matthew E. KOCH, petitioner,\nv.\nKatherine GREGORY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Matthew E. KOCH, petitioner,\nv.\nKatherine GREGORY, et al.\nNo. 13-8385.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 536 Fed.Appx. 659.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1763-05",
+  "first_page_order": 1763,
+  "last_page_order": 1763
+}

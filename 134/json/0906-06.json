@@ -1,0 +1,85 @@
+{
+  "id": 12586039,
+  "name": "ENTERTAINMENT PRODUCTIONS, INC., et al., petitioners, v. SHELBY COUNTY, TENNESSEE, et al.",
+  "name_abbreviation": "Entm't Prods., Inc. v. Shelby Cnty.",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013437.",
+  "first_page": "906",
+  "last_page": "907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 906"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 778"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 729",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5756111
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/721/0729-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 279,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26349567098313453
+    },
+    "sha256": "e0602efd6faf443573b11152d86a3c4bf0d0ef67f3185eff6c6fdc28d19cf5e1",
+    "simhash": "1:adade6463e401f21",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ENTERTAINMENT PRODUCTIONS, INC., et al., petitioners,\nv.\nSHELBY COUNTY, TENNESSEE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "ENTERTAINMENT PRODUCTIONS, INC., et al., petitioners,\nv.\nSHELBY COUNTY, TENNESSEE, et al.\nNo. 13-437.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 721 F.3d 729.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0906-06",
+  "first_page_order": 906,
+  "last_page_order": 907
+}

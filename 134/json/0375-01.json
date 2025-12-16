@@ -1,0 +1,66 @@
+{
+  "id": 12583616,
+  "name": "MEDTRONIC, INC., petitioner, v. Richard STENGEL, et ux.",
+  "name_abbreviation": "Medtronic, Inc. v. Stengel",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131351.",
+  "first_page": "375",
+  "last_page": "375",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 375"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 15"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 224,
+    "sha256": "63426de1cecc110bc90e9811ed72269129bdb84df1b470974dfe1b9a87f4bad4",
+    "simhash": "1:f2bd962c3ffecc28",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MEDTRONIC, INC., petitioner,\nv.\nRichard STENGEL, et ux."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MEDTRONIC, INC., petitioner,\nv.\nRichard STENGEL, et ux.\nNo. 12-1351.\nSupreme Court of the United States\nOct. 7, 2013.\nThe Solicitor General is invited to file a brief in this case expressing the views of the United States."
+  },
+  "file_name": "0375-01",
+  "first_page_order": 375,
+  "last_page_order": 375
+}

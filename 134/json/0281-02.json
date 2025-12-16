@@ -1,0 +1,85 @@
+{
+  "id": 12582484,
+  "name": "Jeremiah S. BERG, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Berg v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135389.",
+  "first_page": "281",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 281"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 203"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "714 F.3d 490",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5867857
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/714/0490-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 239,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26337500757766186
+    },
+    "sha256": "e73e85d8d1a690f9feec7c230921318bc3b39c56b93af3e975ddb147fbf75113",
+    "simhash": "1:79ac6646792602b1",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeremiah S. BERG, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeremiah S. BERG, petitioner,\nv.\nUNITED STATES.\nNo. 13-5389.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 714 F.3d 490.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0281-02",
+  "first_page_order": 281,
+  "last_page_order": 281
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12585629,
+  "name": "Nathaniel GRAYTON, petitioner, v. William LEE, Superintendent, Green Haven Correctional Facility.",
+  "name_abbreviation": "Grayton v. Lee",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310069.",
+  "first_page": "79",
+  "last_page": "79",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 79"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 62"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "691 F.3d 165",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3509686
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/691/0165-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 289,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26347443422377137
+    },
+    "sha256": "ef22a9b7e0530d6681011994d1d06b543b47ffb423baa3f380d4eb23ce7d788a",
+    "simhash": "1:713df6007b6101a9",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nathaniel GRAYTON, petitioner,\nv.\nWilliam LEE, Superintendent, Green Haven Correctional Facility."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nathaniel GRAYTON, petitioner,\nv.\nWilliam LEE, Superintendent, Green Haven Correctional Facility.\nNo. 12-10069.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 691 F.3d 165.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0079-02",
+  "first_page_order": 79,
+  "last_page_order": 79
+}

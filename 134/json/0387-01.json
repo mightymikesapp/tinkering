@@ -1,0 +1,85 @@
+{
+  "id": 12583687,
+  "name": "LUMINANT GENERATION COMPANY LLC, et al., petitioners, v. ENVIRONMENTAL PROTECTION AGENCY.",
+  "name_abbreviation": "Luminant Generation Co. v. Agency",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131484.",
+  "first_page": "387",
+  "last_page": "387",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 387"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 45"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "714 F.3d 841",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5869451
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/714/0841-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 279,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634111100685793
+    },
+    "sha256": "bf5d6e18dc98e4cec94b5ce16b35d127f300b7798ea4444685ba6b6c5399e6e7",
+    "simhash": "1:2baf7605f53c86a9",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LUMINANT GENERATION COMPANY LLC, et al., petitioners,\nv.\nENVIRONMENTAL PROTECTION AGENCY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "LUMINANT GENERATION COMPANY LLC, et al., petitioners,\nv.\nENVIRONMENTAL PROTECTION AGENCY.\nNo. 12-1484.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 714 F.3d 841.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0387-01",
+  "first_page_order": 387,
+  "last_page_order": 387
+}

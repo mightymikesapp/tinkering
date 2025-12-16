@@ -1,0 +1,103 @@
+{
+  "id": 12585757,
+  "name": "Brenda PARKER, petitioner, v. Michael C. CLARK, Superior Court of Georgia, Gwinnett County.",
+  "name_abbreviation": "Parker v. Clark",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20135598.",
+  "first_page": "818",
+  "last_page": "818",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 818"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 619"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 425",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704217,
+        12704173,
+        12704174,
+        12704205,
+        12704218,
+        12704409,
+        12583833,
+        12583834,
+        12583835,
+        12583836,
+        12583837,
+        12583838
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0956-14",
+        "/us/571/0953-08",
+        "/us/571/0953-09",
+        "/us/571/0956-01",
+        "/us/571/0956-15",
+        "/us/571/0969-07",
+        "/s-ct/134/0425-01",
+        "/s-ct/134/0425-02",
+        "/s-ct/134/0425-03",
+        "/s-ct/134/0425-04",
+        "/s-ct/134/0425-05",
+        "/s-ct/134/0425-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 217,
+    "sha256": "0d5c92cd881d6539891d71dfd2fb11fe7acfae9da0efaeed033e1903d2001f93",
+    "simhash": "1:f3710cc61e8f47ae",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brenda PARKER, petitioner,\nv.\nMichael C. CLARK, Superior Court of Georgia, Gwinnett County."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brenda PARKER, petitioner,\nv.\nMichael C. CLARK, Superior Court of Georgia, Gwinnett County.\nNo. 13-5598.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 425\nPetition for rehearing denied."
+  },
+  "file_name": "0818-05",
+  "first_page_order": 818,
+  "last_page_order": 818
+}

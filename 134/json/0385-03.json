@@ -1,0 +1,85 @@
+{
+  "id": 12583678,
+  "name": "Steve GARCIA, petitioner, v. NEVADA.",
+  "name_abbreviation": "Garcia v. Nevada",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131100.",
+  "first_page": "385",
+  "last_page": "385",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 385"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 25"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "291 P.3d 1274",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        12412209
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nev/128/0598-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 198,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26341072394568177
+    },
+    "sha256": "a2b06ab3405b74a08377858c359f99e52c7cffe51d1169acad277601718b799b",
+    "simhash": "1:42af760e1ae707b5",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steve GARCIA, petitioner,\nv.\nNEVADA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Nevada denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steve GARCIA, petitioner,\nv.\nNEVADA.\nNo. 12-1100.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 291 P.3d 1274.\nPetition for writ of certiorari to the Supreme Court of Nevada denied."
+  },
+  "file_name": "0385-03",
+  "first_page_order": 385,
+  "last_page_order": 385
+}

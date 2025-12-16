@@ -1,0 +1,75 @@
+{
+  "id": 12582488,
+  "name": "Floyd P. DONLEY, Sr., petitioner, v. HUDSONS SALVAGE, L.L.C., et al.",
+  "name_abbreviation": "Donley v. Hudsons Salvage, L.L.C.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135393.",
+  "first_page": "281",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 281"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 203"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "517 Fed.Appx. 216",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 263,
+    "sha256": "e5a475cfa369b5a497b6c06a25567e7cfee255902bccf625f8b7c4d5302d0f83",
+    "simhash": "1:f1aff4cc33818aa9",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Floyd P. DONLEY, Sr., petitioner,\nv.\nHUDSONS SALVAGE, L.L.C., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Floyd P. DONLEY, Sr., petitioner,\nv.\nHUDSONS SALVAGE, L.L.C., et al.\nNo. 13-5393.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 517 Fed.Appx. 216.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0281-06",
+  "first_page_order": 281,
+  "last_page_order": 281
+}

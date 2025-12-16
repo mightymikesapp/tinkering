@@ -1,0 +1,86 @@
+{
+  "id": 12578092,
+  "name": "Aaron GUTIERREZ, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Gutierrez v. Newyork",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20137632.",
+  "first_page": "1034",
+  "last_page": "1034",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1034"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 129"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "100 A.D.3d 656",
+      "category": "reporters:state",
+      "reporter": "A.D.3d",
+      "case_ids": [
+        3491962
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ad3d/100/0656-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 274,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26322268209459315
+    },
+    "sha256": "556f207073b5ce55755b96cc1b1349a92c14ab31ce6b9acdc3bb812ae6f11c7b",
+    "simhash": "1:f8ab7254b9982211",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aaron GUTIERREZ, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Aaron GUTIERREZ, petitioner,\nv.\nNEW YORK.\nNo. 13-7632.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 100 A.D.3d 656, 952 N.Y.S.2d 897.\nPetition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, denied."
+  },
+  "file_name": "1034-06",
+  "first_page_order": 1034,
+  "last_page_order": 1034
+}

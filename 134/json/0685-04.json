@@ -1,0 +1,75 @@
+{
+  "id": 12585148,
+  "name": "Jerome WILLIAMS, petitioner, v. Bill K. WILSON, Superintendent, Indiana State Prison.",
+  "name_abbreviation": "Williams v. Wilson",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136401.",
+  "first_page": "685",
+  "last_page": "685",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 685"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 555"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 6068078",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 280,
+    "sha256": "2f1ee75239fcc9f9bda35f64c4d9aee767073f14e254094c643b976e82ebaa1e",
+    "simhash": "1:eb6e76ce3b4686a3",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerome WILLIAMS, petitioner,\nv.\nBill K. WILSON, Superintendent, Indiana State Prison."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerome WILLIAMS, petitioner,\nv.\nBill K. WILSON, Superintendent, Indiana State Prison.\nNo. 13-6401.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 2013 WL 6068078.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0685-04",
+  "first_page_order": 685,
+  "last_page_order": 685
+}

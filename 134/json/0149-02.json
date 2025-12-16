@@ -1,0 +1,75 @@
+{
+  "id": 12579211,
+  "name": "Willie Orlando McKINNON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "McKinnon v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310655.",
+  "first_page": "149",
+  "last_page": "149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 149"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 105"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "481 Fed.Appx. 72",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 250,
+    "sha256": "cadef8add0e03f5286c636fd6354edd70fcfe3c211b96156852c48a831973780",
+    "simhash": "1:f1afe6045b838623",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Willie Orlando McKINNON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Willie Orlando McKINNON, petitioner,\nv.\nUNITED STATES.\nNo. 12-10655.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 481 Fed.Appx. 72.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0149-02",
+  "first_page_order": 149,
+  "last_page_order": 149
+}

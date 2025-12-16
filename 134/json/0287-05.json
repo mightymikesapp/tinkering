@@ -1,0 +1,75 @@
+{
+  "id": 12582885,
+  "name": "Rohan George Ramgeet WILSON, petitioner, v. Eric H. HOLDER, Jr., Attorney General, et al.",
+  "name_abbreviation": "Wilson v. Holder",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135432.",
+  "first_page": "287",
+  "last_page": "287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 287"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 207"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Fed.Appx. 169",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 284,
+    "sha256": "64eb9b977e718d36119c4ba71c1cf51693e66dedc9e555bf0566b000c96e46dd",
+    "simhash": "1:732df60c7fc18e39",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rohan George Ramgeet WILSON, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rohan George Ramgeet WILSON, petitioner,\nv.\nEric H. HOLDER, Jr., Attorney General, et al.\nNo. 13-5432.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 514 Fed.Appx. 169.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0287-05",
+  "first_page_order": 287,
+  "last_page_order": 287
+}

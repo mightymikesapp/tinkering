@@ -1,0 +1,75 @@
+{
+  "id": 12581552,
+  "name": "Robert GALLAGHER, petitioner, v. Richard LONG, et al.",
+  "name_abbreviation": "Gallagher v. Long",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u201328.",
+  "first_page": "232",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 232"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 145"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "65 A.3d 616",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 213,
+    "sha256": "29fe1529336113621d641edb5c2e375673a2d1ee3d363a6d0aab716458b83a79",
+    "simhash": "1:702fb618daf5020c",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert GALLAGHER, petitioner,\nv.\nRichard LONG, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Delaware denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert GALLAGHER, petitioner,\nv.\nRichard LONG, et al.\nNo. 13-28.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 65 A.3d 616.\nPetition for writ of certiorari to the Supreme Court of Delaware denied."
+  },
+  "file_name": "0232-02",
+  "first_page_order": 232,
+  "last_page_order": 232
+}

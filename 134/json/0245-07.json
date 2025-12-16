@@ -1,0 +1,81 @@
+{
+  "id": 12581670,
+  "name": "Ann Marie TRUSCIO, petitioner, v. NEW YORK; and Ann Marie Truscio, petitioner, v. New York.",
+  "name_abbreviation": "Truscio v. Newyork",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u201337.",
+  "first_page": "245",
+  "last_page": "246",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 245"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 146"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "985 N.E.2d 927",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "985 N.E.2d 926",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 272,
+    "sha256": "b289b044130ca44727be2b4ad60e3dec26b71a85cf15db596f9ce7204334dfc6",
+    "simhash": "1:0adc1a1bd8d72292",
+    "word_count": 48
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ann Marie TRUSCIO, petitioner,\nv.\nNEW YORK; and Ann Marie Truscio, petitioner,\nv.\nNew York."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ann Marie TRUSCIO, petitioner,\nv.\nNEW YORK; and Ann Marie Truscio, petitioner,\nv.\nNew York.\nNo. 13-37.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 985 N.E.2d 926;985 N.E.2d 927.\nPetition for writ of certiorari to the Court of Appeals of New York denied."
+  },
+  "file_name": "0245-07",
+  "first_page_order": 245,
+  "last_page_order": 246
+}

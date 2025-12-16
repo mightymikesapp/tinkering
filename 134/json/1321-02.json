@@ -1,0 +1,75 @@
+{
+  "id": 12578704,
+  "name": "Don Nell HAWKINS, petitioner, v. Kuma J. DEBOO, Warden.",
+  "name_abbreviation": "Hawkins v. Deboo",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20137975.",
+  "first_page": "1321",
+  "last_page": "1321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1321"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 335"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "511 Fed.Appx. 261",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 252,
+    "sha256": "6816d2664e18d5d99d4fde14aa92bc5c91f85576c8c3365d70e51dcf934c445a",
+    "simhash": "1:fb6f0694b840c311",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Don Nell HAWKINS, petitioner,\nv.\nKuma J. DEBOO, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Don Nell HAWKINS, petitioner,\nv.\nKuma J. DEBOO, Warden.\nNo. 13-7975.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 511 Fed.Appx. 261.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1321-02",
+  "first_page_order": 1321,
+  "last_page_order": 1321
+}

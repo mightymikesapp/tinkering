@@ -1,0 +1,68 @@
+{
+  "id": 12582673,
+  "name": "In re Jack R. KOCH, petitioner.",
+  "name_abbreviation": "In re Koch",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20139778.",
+  "first_page": "2848",
+  "last_page": "2848",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2848"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 825"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3733"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 153,
+    "sha256": "359823751b00a4caaa15b35d0ce64d75121f87b6fc24b5840638fa405e4bae64",
+    "simhash": "1:3a6546f72a13040e",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jack R. KOCH, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Jack R. KOCH, petitioner.\nNo. 13-9778.\nSupreme Court of the United States\nJune 23, 2014.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "2848-05",
+  "first_page_order": 2848,
+  "last_page_order": 2848
+}

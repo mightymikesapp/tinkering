@@ -1,0 +1,85 @@
+{
+  "id": 12584951,
+  "name": "Franklin OWUSU-ANSAH, petitioner, v. The COCA-COLA COMPANY.",
+  "name_abbreviation": "Owusu-Ansah v. Coca-Cola Co.",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u2013460.",
+  "first_page": "655",
+  "last_page": "655",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 655"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 449"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "715 F.3d 1306",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3567091
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/715/1306-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 330,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26345416277165196
+    },
+    "sha256": "4625ec06777da44b966c4860a77b81efe7f8e8bde8951cace47a001f67f9954a",
+    "simhash": "1:8caf74c6f384d7ea",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Franklin OWUSU-ANSAH, petitioner,\nv.\nThe COCA-COLA COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Franklin OWUSU-ANSAH, petitioner,\nv.\nThe COCA-COLA COMPANY.\nNo. 13-460.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 715 F.3d 1306.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0655-05",
+  "first_page_order": 655,
+  "last_page_order": 655
+}

@@ -1,0 +1,68 @@
+{
+  "id": 12585062,
+  "name": "Janet MARCUSSE, petitioner, v. John V. FLOURNOY, Warden.",
+  "name_abbreviation": "Marcusse v. John",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20135926.",
+  "first_page": "671",
+  "last_page": "672",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 671"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 417"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 222,
+    "sha256": "5206e71c65f3416fe9086fd5de9c97245b7d18d0ed6362b4eb50a3cc1e5cc3ab",
+    "simhash": "1:e2f5785ce524bb3b",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Janet MARCUSSE, petitioner,\nv.\nJohn V. FLOURNOY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Janet MARCUSSE, petitioner,\nv.\nJohn V. FLOURNOY, Warden.\nNo. 13-5926.\nSupreme Court of the United States\nNov. 18, 2013.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0671-06",
+  "first_page_order": 671,
+  "last_page_order": 672
+}

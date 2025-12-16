@@ -1,0 +1,75 @@
+{
+  "id": 12583859,
+  "name": "Adam FRANK, petitioner, v. Burl CAIN, Warden.",
+  "name_abbreviation": "Frank v. Cain",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20135656.",
+  "first_page": "429",
+  "last_page": "429",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 429"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 289"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Fed.Appx. 414",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 241,
+    "sha256": "473c7eae98da3f7b2288eb36315b4939e0d245ea08fbe648d0bff00959a4a37d",
+    "simhash": "1:532f768c10a4843f",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adam FRANK, petitioner,\nv.\nBurl CAIN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Adam FRANK, petitioner,\nv.\nBurl CAIN, Warden.\nNo. 13-5656.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 514 Fed.Appx. 414.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0429-04",
+  "first_page_order": 429,
+  "last_page_order": 429
+}

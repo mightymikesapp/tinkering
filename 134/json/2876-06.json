@@ -1,0 +1,86 @@
+{
+  "id": 12582862,
+  "name": "Shawna FORDE, petitioner, v. ARIZONA.",
+  "name_abbreviation": "Forde v. Arizona",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20139382.",
+  "first_page": "2876",
+  "last_page": "2876",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2876"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 839"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "233 Ariz. 543",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        3856521
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ariz/233/0543-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 216,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633902594321136
+    },
+    "sha256": "5a58126f53ca10aa195ad40f8fb24cb593ebb4247633e298ed4817f7dfd041fe",
+    "simhash": "1:c0be34547907a5b6",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shawna FORDE, petitioner,\nv.\nARIZONA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Arizona denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shawna FORDE, petitioner,\nv.\nARIZONA.\nNo. 13-9382.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 233 Ariz. 543, 315 P.3d 1200.\nPetition for writ of certiorari to the Supreme Court of Arizona denied."
+  },
+  "file_name": "2876-06",
+  "first_page_order": 2876,
+  "last_page_order": 2876
+}

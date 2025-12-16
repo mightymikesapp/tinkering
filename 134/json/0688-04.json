@@ -1,0 +1,85 @@
+{
+  "id": 12585166,
+  "name": "Shawn HIGGINS, petitioner, v. Burl CAIN, Warden.",
+  "name_abbreviation": "Higgins v. Cain",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136463.",
+  "first_page": "688",
+  "last_page": "688",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 688"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 557"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "720 F.3d 255",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4057468
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/720/0255-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26346207829105095
+    },
+    "sha256": "08077a577eb07ad7d85610046c9ea196472f502aeba605a9da003e7b6abd8daa",
+    "simhash": "1:3c7f744416e513ae",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shawn HIGGINS, petitioner,\nv.\nBurl CAIN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shawn HIGGINS, petitioner,\nv.\nBurl CAIN, Warden.\nNo. 13-6463.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 720 F.3d 255.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0688-04",
+  "first_page_order": 688,
+  "last_page_order": 688
+}

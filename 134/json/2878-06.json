@@ -1,0 +1,75 @@
+{
+  "id": 12582874,
+  "name": "William T. HENDERSON, petitioner, v. Frank L. PERRY, Secretary, North Carolina Department of Public Safety.",
+  "name_abbreviation": "Henderson v. Perry",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20139791.",
+  "first_page": "2878",
+  "last_page": "2879",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2878"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 840"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "753 S.E.2d 657",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 279,
+    "sha256": "4ed1f2e504ec3b224e6f3a00d2af1612262159fa5825de58c68c1f951c0b0d59",
+    "simhash": "1:ff4f541439a52556",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William T. HENDERSON, petitioner,\nv.\nFrank L. PERRY, Secretary, North Carolina Department of Public Safety."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of North Carolina denied."
+    ],
+    "corrections": "",
+    "head_matter": "William T. HENDERSON, petitioner,\nv.\nFrank L. PERRY, Secretary, North Carolina Department of Public Safety.\nNo. 13-9791.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 753 S.E.2d 657.\nPetition for writ of certiorari to the Supreme Court of North Carolina denied."
+  },
+  "file_name": "2878-06",
+  "first_page_order": 2878,
+  "last_page_order": 2879
+}

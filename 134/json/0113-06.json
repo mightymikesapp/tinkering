@@ -1,0 +1,85 @@
+{
+  "id": 12578301,
+  "name": "Charles R. GARRIS, petitioner, v. MISSOURI.",
+  "name_abbreviation": "Garris v. Missouri",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310440.",
+  "first_page": "113",
+  "last_page": "114",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 113"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 83"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "389 S.W.3d 648",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7095283
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/389/0648-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 209,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632282808766071
+    },
+    "sha256": "7dbea86af5a4cc69768a32c0a2ac0497c4ba0b5779aa454277e0f5c826d97cd1",
+    "simhash": "1:40ed541e58f7e4f0",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles R. GARRIS, petitioner,\nv.\nMISSOURI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Missouri denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles R. GARRIS, petitioner,\nv.\nMISSOURI.\nNo. 12-10440.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 389 S.W.3d 648.\nPetition for writ of certiorari to the Supreme Court of Missouri denied."
+  },
+  "file_name": "0113-06",
+  "first_page_order": 113,
+  "last_page_order": 114
+}

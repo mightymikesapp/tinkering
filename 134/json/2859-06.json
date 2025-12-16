@@ -1,0 +1,75 @@
+{
+  "id": 12582748,
+  "name": "Alton COLES, aka Naseem Coles, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Coles v. United States",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u201310220.",
+  "first_page": "2859",
+  "last_page": "2859",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2859"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 820"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "558 Fed.Appx. 173",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 257,
+    "sha256": "a8e9e1ebeaecc946d56e04e63d4649e26b04411d34da9d7a24be6e3c33917921",
+    "simhash": "1:d02f740433021725",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alton COLES, aka Naseem Coles, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alton COLES, aka Naseem Coles, petitioner,\nv.\nUNITED STATES.\nNo. 13-10220.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 558 Fed.Appx. 173.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "2859-06",
+  "first_page_order": 2859,
+  "last_page_order": 2859
+}

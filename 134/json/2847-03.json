@@ -1,0 +1,75 @@
+{
+  "id": 12582665,
+  "name": "Kerry L. WILLIAMS, petitioner, v. INDIANA.",
+  "name_abbreviation": "Williams v. Indiana",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20139744.",
+  "first_page": "2847",
+  "last_page": "2847",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2847"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 813"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "982 N.E.2d 484",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 227,
+    "sha256": "eea2ef4ef8b77d4751cf8fbeaea1b3c83872483effaf7dfc4b4c9d92973cbc31",
+    "simhash": "1:60ec944631c59597",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kerry L. WILLIAMS, petitioner,\nv.\nINDIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Indiana, Third District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kerry L. WILLIAMS, petitioner,\nv.\nINDIANA.\nNo. 13-9744.\nSupreme Court of the United States\nJune 23, 2014.\nCase below, 982 N.E.2d 484.\nPetition for writ of certiorari to the Court of Appeals of Indiana, Third District, denied."
+  },
+  "file_name": "2847-03",
+  "first_page_order": 2847,
+  "last_page_order": 2847
+}

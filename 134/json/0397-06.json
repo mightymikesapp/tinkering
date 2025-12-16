@@ -1,0 +1,91 @@
+{
+  "id": 12583760,
+  "name": "Laura A. JENNINGS, petitioner, v. Chuck HAGEL, Secretary of Defense.",
+  "name_abbreviation": "Jennings v. Hagel",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310059.",
+  "first_page": "397",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 397"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 272"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2864",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698758,
+        12698759,
+        12698760,
+        12698650,
+        12698715,
+        4179325
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/570/0922-12",
+        "/us/570/0922-13",
+        "/us/570/0922-14",
+        "/us/570/0914-03",
+        "/us/570/0919-11",
+        "/br/493/2864-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 196,
+    "sha256": "1d25b9541377224a5122b95016223b6c92d23ab5564d841adb67d2009348c404",
+    "simhash": "1:622c74047a04b412",
+    "word_count": 30
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Laura A. JENNINGS, petitioner,\nv.\nChuck HAGEL, Secretary of Defense."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Laura A. JENNINGS, petitioner,\nv.\nChuck HAGEL, Secretary of Defense.\nNo. 12-10059.\nSupreme Court of the United States\nOct. 7, 2013.\nFormer decision, 133 S.Ct. 2864\nPetition for rehearing denied."
+  },
+  "file_name": "0397-06",
+  "first_page_order": 397,
+  "last_page_order": 397
+}

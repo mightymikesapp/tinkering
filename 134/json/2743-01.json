@@ -1,0 +1,85 @@
+{
+  "id": 12582371,
+  "name": "Todd LYONS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lyons v. United States",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u201310108.",
+  "first_page": "2743",
+  "last_page": "2743",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2743"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 777"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "740 F.3d 702",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3825814
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/740/0702-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 232,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26337153247158424
+    },
+    "sha256": "844d74c7c05dfbfb02539de258dcb8b5dbb43ad58f6e0ee00e2259461bb4c606",
+    "simhash": "1:336c76451e255611",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Todd LYONS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Todd LYONS, petitioner,\nv.\nUNITED STATES.\nNo. 13-10108.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 740 F.3d 702.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "2743-01",
+  "first_page_order": 2743,
+  "last_page_order": 2743
+}

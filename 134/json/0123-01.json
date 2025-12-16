@@ -1,0 +1,86 @@
+{
+  "id": 12578367,
+  "name": "Darren Paul POLLOCK, petitioner, v. OREGON.",
+  "name_abbreviation": "Pollock v. Oregon",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310498.",
+  "first_page": "123",
+  "last_page": "123",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 123"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 87"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "251 Or.App. 755",
+      "category": "reporters:state",
+      "reporter": "Or. App.",
+      "case_ids": [
+        4220471
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/or-app/251/0755-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 226,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26323156292123595
+    },
+    "sha256": "e6ba3fde1c56cee4ea1b1520a853f8473d128c96743f56c0fdc8cf915b3c9983",
+    "simhash": "1:644fe4cd7bc084b9",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darren Paul POLLOCK, petitioner,\nv.\nOREGON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Oregon denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darren Paul POLLOCK, petitioner,\nv.\nOREGON.\nNo. 12-10498.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 251 Or.App. 755, 284 P.3d 1222.\nPetition for writ of certiorari to the Court of Appeals of Oregon denied."
+  },
+  "file_name": "0123-01",
+  "first_page_order": 123,
+  "last_page_order": 123
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12578442,
+  "name": "Justin Michael WOLFE, petitioner, v. Harold W. CLARKE, Director, Virginia Department of Corrections.",
+  "name_abbreviation": "Wolfe v. Clarke",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013555.",
+  "first_page": "1281",
+  "last_page": "1281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1281"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 299"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 277",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4050457
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0277-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 291,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632375478261474
+    },
+    "sha256": "228127b8a0598260d0fd5969d76360ea7a1a3419af322c98137f132701d7e8b7",
+    "simhash": "1:326fd4c418000724",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Justin Michael WOLFE, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Justin Michael WOLFE, petitioner,\nv.\nHarold W. CLARKE, Director, Virginia Department of Corrections.\nNo. 13-555.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 718 F.3d 277.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1281-02",
+  "first_page_order": 1281,
+  "last_page_order": 1281
+}

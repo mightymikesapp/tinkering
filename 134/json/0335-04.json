@@ -1,0 +1,75 @@
+{
+  "id": 12583351,
+  "name": "Brian Keith WATTS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Watts v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135777.",
+  "first_page": "335",
+  "last_page": "335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 335"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 264"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "507 Fed.Appx. 292",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 321,
+    "sha256": "cd69781211ee0956c2faf72061988353409376633cc0ef8b92c3a8f65950c156",
+    "simhash": "1:593fe6c431c6da8f",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian Keith WATTS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian Keith WATTS, petitioner,\nv.\nUNITED STATES.\nNo. 13-5777.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 507 Fed.Appx. 292.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0335-04",
+  "first_page_order": 335,
+  "last_page_order": 335
+}

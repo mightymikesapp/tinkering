@@ -1,0 +1,103 @@
+{
+  "id": 12578216,
+  "name": "Joseph Oquendo SALADINO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Saladino v. United States",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 12\u201310264.",
+  "first_page": "1053",
+  "last_page": "1053",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1053"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 140"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 96",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702585,
+        12586451,
+        12586452,
+        12586453,
+        12586454,
+        12586455,
+        12586456,
+        12702584,
+        12702586,
+        12702587,
+        12702588,
+        12702589
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0843-10",
+        "/s-ct/134/0096-01",
+        "/s-ct/134/0096-02",
+        "/s-ct/134/0096-03",
+        "/s-ct/134/0096-04",
+        "/s-ct/134/0096-05",
+        "/s-ct/134/0096-06",
+        "/us/571/0843-09",
+        "/us/571/0843-11",
+        "/us/571/0843-12",
+        "/us/571/0843-13",
+        "/us/571/0843-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 182,
+    "sha256": "535322b5975c480739555b63f30fb7f99fd3eec2bf0eecaffc914b9ba1ad368f",
+    "simhash": "1:cd6d6446048ed65d",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph Oquendo SALADINO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph Oquendo SALADINO, petitioner,\nv.\nUNITED STATES.\nNo. 12-10264.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 96.\nPetition for rehearing denied."
+  },
+  "file_name": "1053-04",
+  "first_page_order": 1053,
+  "last_page_order": 1053
+}

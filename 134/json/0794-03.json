@@ -1,0 +1,75 @@
+{
+  "id": 12585593,
+  "name": "Faustino CORONA, petitioner, v. Amy MILLER, Warden.",
+  "name_abbreviation": "Corona v. Miller",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20136763.",
+  "first_page": "794",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 794"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 603"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "532 Fed.Appx. 740",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 246,
+    "sha256": "fb2ec9a45247e31cbf56d2dfd3f75eabb9190655b10eb604b02a1cb3d686b296",
+    "simhash": "1:53bd64443f40b7a4",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Faustino CORONA, petitioner,\nv.\nAmy MILLER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Faustino CORONA, petitioner,\nv.\nAmy MILLER, Warden.\nNo. 13-6763.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 532 Fed.Appx. 740.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0794-03",
+  "first_page_order": 794,
+  "last_page_order": 794
+}

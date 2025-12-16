@@ -1,0 +1,103 @@
+{
+  "id": 12586624,
+  "name": "James I. McCABE, petitioner, v. PENNSYLVANIA DEPARTMENT OF CORRECTIONS, et al.",
+  "name_abbreviation": "McCabe v. Pa. Dep't of Corr.",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136283.",
+  "first_page": "995",
+  "last_page": "995",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 995"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 843"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 674",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699335,
+        12699336,
+        12699319,
+        12699247,
+        12585074,
+        12585075,
+        12585076,
+        12585077,
+        12585078,
+        12585079,
+        12699320,
+        12699321
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1027-05",
+        "/us/571/1027-06",
+        "/us/571/1026-03",
+        "/us/571/1020-02",
+        "/s-ct/134/0674-01",
+        "/s-ct/134/0674-02",
+        "/s-ct/134/0674-03",
+        "/s-ct/134/0674-04",
+        "/s-ct/134/0674-05",
+        "/s-ct/134/0674-06",
+        "/us/571/1026-04",
+        "/us/571/1026-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 206,
+    "sha256": "05e81be9a48c23a33fd299446383fa8cb58c479d9f41a7a26f7ff43a8af9420b",
+    "simhash": "1:e5ef3c5a6a91d5c2",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James I. McCABE, petitioner,\nv.\nPENNSYLVANIA DEPARTMENT OF CORRECTIONS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "James I. McCABE, petitioner,\nv.\nPENNSYLVANIA DEPARTMENT OF CORRECTIONS, et al.\nNo. 13-6283.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 674.\nPetition for rehearing denied."
+  },
+  "file_name": "0995-02",
+  "first_page_order": 995,
+  "last_page_order": 995
+}

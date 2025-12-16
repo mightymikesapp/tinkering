@@ -1,0 +1,85 @@
+{
+  "id": 12585529,
+  "name": "Abasi S. BAKER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Baker v. United States",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u2013188.",
+  "first_page": "784",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 784"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 594"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 558",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3559493
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0558-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 234,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26347153830204
+    },
+    "sha256": "fccee0933a21f6b1e114d50f732b99d164166efb9f457b77a0861ec91b58e3b3",
+    "simhash": "1:425ff6c63306868b",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Abasi S. BAKER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Abasi S. BAKER, petitioner,\nv.\nUNITED STATES.\nNo. 13-188.\nSupreme Court of the United States\nDec. 9, 2013.\nCase below, 713 F.3d 558.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0784-05",
+  "first_page_order": 784,
+  "last_page_order": 784
+}

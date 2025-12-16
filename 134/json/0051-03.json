@@ -1,0 +1,85 @@
+{
+  "id": 12584416,
+  "name": "Donald Wayne STROUTH, petitioner, v. Roland COLSON, Warden.",
+  "name_abbreviation": "Strouth v. Colson",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20137720.",
+  "first_page": "51",
+  "last_page": "52",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 51"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 47"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "680 F.3d 596",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3882296
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/680/0596-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 249,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26343292601228874
+    },
+    "sha256": "9ccf58df3b5ba6c5f470ba82ca41215eea063fc6d5a0fcfc9456856d8353ff88",
+    "simhash": "1:722f74143b35d2a1",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald Wayne STROUTH, petitioner,\nv.\nRoland COLSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Donald Wayne STROUTH, petitioner,\nv.\nRoland COLSON, Warden.\nNo. 12-7720.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 680 F.3d 596.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0051-03",
+  "first_page_order": 51,
+  "last_page_order": 52
+}

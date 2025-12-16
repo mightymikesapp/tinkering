@@ -1,0 +1,85 @@
+{
+  "id": 12583978,
+  "name": "Adib BRANTLEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brantley v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136122.",
+  "first_page": "447",
+  "last_page": "447",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 447"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 299"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "717 F.3d 287",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3575518
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/717/0287-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634207631410171
+    },
+    "sha256": "f2fda6250cb9ad839a4ef9bd9e35ae300506e327ca804578e9b2e797cd787fc9",
+    "simhash": "1:616ce6ce3987c519",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Adib BRANTLEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Adib BRANTLEY, petitioner,\nv.\nUNITED STATES.\nNo. 13-6122.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 717 F.3d 287.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0447-05",
+  "first_page_order": 447,
+  "last_page_order": 447
+}

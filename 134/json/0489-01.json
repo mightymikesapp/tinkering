@@ -1,0 +1,75 @@
+{
+  "id": 12584252,
+  "name": "Bernard Keith MARTIN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Martin v. United States",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20136388.",
+  "first_page": "489",
+  "last_page": "489",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 489"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 330"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 210",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "sha256": "6a10042b9e19b9d240d5c6857be7b27f5eb09bc19cca724345b77cb908e240e1",
+    "simhash": "1:d2cce2c42ac44215",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bernard Keith MARTIN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bernard Keith MARTIN, petitioner,\nv.\nUNITED STATES.\nNo. 13-6388.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 515 Fed.Appx. 210.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0489-01",
+  "first_page_order": 489,
+  "last_page_order": 489
+}

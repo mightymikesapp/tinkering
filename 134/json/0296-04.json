@@ -1,0 +1,85 @@
+{
+  "id": 12583080,
+  "name": "Michael JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013110.",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 153"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "707 F.3d 655",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3536598
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/707/0655-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 235,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633985610744101
+    },
+    "sha256": "a984514480a5edd5803e8509a9af6d279e5ce9b2b6384f071aeac0413916a560",
+    "simhash": "1:e0ed64443985d4b3",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-110.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 707 F.3d 655.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0296-04",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

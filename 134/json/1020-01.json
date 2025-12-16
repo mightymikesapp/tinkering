@@ -1,0 +1,111 @@
+{
+  "id": 12577998,
+  "name": "In re William A. GINGLEN, petitioner.",
+  "name_abbreviation": "In re Ginglen",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20136640.",
+  "first_page": "1020",
+  "last_page": "1020",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1020"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 865"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3425"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 498",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704448,
+        12704449,
+        12704450,
+        12704451,
+        12704452,
+        12704453,
+        12704454,
+        12704439,
+        12584312,
+        12584313,
+        12584314,
+        12584315,
+        12584316,
+        12584317,
+        12584318,
+        12584319
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0972-10",
+        "/us/571/0972-11",
+        "/us/571/0972-12",
+        "/us/571/0972-13",
+        "/us/571/0972-14",
+        "/us/571/0972-15",
+        "/us/571/0972-16",
+        "/us/571/0972-09",
+        "/s-ct/134/0498-01",
+        "/s-ct/134/0498-02",
+        "/s-ct/134/0498-03",
+        "/s-ct/134/0498-04",
+        "/s-ct/134/0498-05",
+        "/s-ct/134/0498-06",
+        "/s-ct/134/0498-07",
+        "/s-ct/134/0498-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 160,
+    "sha256": "a915645aa9bb526b8bb9a1a6630a3e67c490c57f6d389aaf51a5cecf83842171",
+    "simhash": "1:187f2cd6da8be3c7",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William A. GINGLEN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re William A. GINGLEN, petitioner.\nNo. 13-6640.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 134 S.Ct. 498.\nPetition for rehearing denied."
+  },
+  "file_name": "1020-01",
+  "first_page_order": 1020,
+  "last_page_order": 1020
+}

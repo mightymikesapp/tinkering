@@ -1,0 +1,85 @@
+{
+  "id": 12580699,
+  "name": "Daniel BURNS, petitioner, v. Michael D. CREWS, Secretary, Florida Department of Corrections, et al.",
+  "name_abbreviation": "Burns v. Crews",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20137788.",
+  "first_page": "1936",
+  "last_page": "1936",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1936"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 964"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "720 F.3d 1296",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4057025
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/720/1296-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 295,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26330936668508476
+    },
+    "sha256": "ea63c11b8c547ddd6822831882d6c604055f6ee2f4666e70e882386ebb4711df",
+    "simhash": "1:306b76ce2f449013",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel BURNS, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel BURNS, petitioner,\nv.\nMichael D. CREWS, Secretary, Florida Department of Corrections, et al.\nNo. 13-7788.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 720 F.3d 1296.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1936-01",
+  "first_page_order": 1936,
+  "last_page_order": 1936
+}

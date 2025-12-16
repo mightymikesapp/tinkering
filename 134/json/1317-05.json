@@ -1,0 +1,85 @@
+{
+  "id": 12578676,
+  "name": "Steve MORSA, petitioner, v. PATENT AND TRADEMARK OFFICE.",
+  "name_abbreviation": "Morsa v. Office",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013755.",
+  "first_page": "1317",
+  "last_page": "1317",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1317"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 306"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 104",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3559930
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0104-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 248,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26324430497685386
+    },
+    "sha256": "4576d9fbebb6f7b37cd81a186a183e91b3f1b5e9bf258a31d166b80a42a523a2",
+    "simhash": "1:fa6e74c4bf85d58b",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steve MORSA, petitioner,\nv.\nPATENT AND TRADEMARK OFFICE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steve MORSA, petitioner,\nv.\nPATENT AND TRADEMARK OFFICE.\nNo. 13-755.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 713 F.3d 104.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "1317-05",
+  "first_page_order": 1317,
+  "last_page_order": 1317
+}

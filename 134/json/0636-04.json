@@ -1,0 +1,85 @@
+{
+  "id": 12584821,
+  "name": "HALLIBURTON CO., et al., petitioners, v. ERICA P. JOHN FUND, INC., fka Archdiocese of Milwaukee Supporting Fund, Inc.",
+  "name_abbreviation": "Halliburton Co. v. Erica P. John Fund, Inc.",
+  "decision_date": "2013-11-15",
+  "docket_number": "No. 13\u2013317.",
+  "first_page": "636",
+  "last_page": "636",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 636"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 415"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 423",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4050199
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0423-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 308,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634501084812281
+    },
+    "sha256": "0a20d3cbb13dfc58b922cdf70477e7bb060dccb58b7f253a3994be1ab9e08b24",
+    "simhash": "1:7d1df0cc33c1f2bc",
+    "word_count": 51
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HALLIBURTON CO., et al., petitioners,\nv.\nERICA P. JOHN FUND, INC., fka Archdiocese of Milwaukee Supporting Fund, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "HALLIBURTON CO., et al., petitioners,\nv.\nERICA P. JOHN FUND, INC., fka Archdiocese of Milwaukee Supporting Fund, Inc.\nNo. 13-317.\nSupreme Court of the United States\nNov. 15, 2013.\nCase below, 718 F.3d 423.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit granted."
+  },
+  "file_name": "0636-04",
+  "first_page_order": 636,
+  "last_page_order": 636
+}

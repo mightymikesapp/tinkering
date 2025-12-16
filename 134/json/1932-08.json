@@ -1,0 +1,103 @@
+{
+  "id": 12580683,
+  "name": "Mitchell Scott JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138403.",
+  "first_page": "1932",
+  "last_page": "1932",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1932"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 954"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1503",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12579234,
+        12579235,
+        12579236,
+        12579237,
+        12579238,
+        12579239,
+        12701937,
+        12701938,
+        12701939,
+        12701940,
+        12701970,
+        12701975
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1503-01",
+        "/s-ct/134/1503-02",
+        "/s-ct/134/1503-03",
+        "/s-ct/134/1503-04",
+        "/s-ct/134/1503-05",
+        "/s-ct/134/1503-06",
+        "/us/571/1242-06",
+        "/us/571/1242-07",
+        "/us/571/1242-08",
+        "/us/571/1242-09",
+        "/us/571/1245-05",
+        "/us/571/1245-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 260,
+    "sha256": "36e1444179e30bb129bff09f904ae8d5aa1efd308f6963c1a50d9104b8a6aea3",
+    "simhash": "1:93343e8225065a4a",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mitchell Scott JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mitchell Scott JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-8403.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1503.\nPetition for rehearing denied."
+  },
+  "file_name": "1932-08",
+  "first_page_order": 1932,
+  "last_page_order": 1932
+}

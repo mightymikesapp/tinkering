@@ -1,0 +1,75 @@
+{
+  "id": 12586334,
+  "name": "Cedric MARTINO, petitioner, v. Wayne C. McCABE, Warden.",
+  "name_abbreviation": "Martino v. McCabe",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137446.",
+  "first_page": "951",
+  "last_page": "951",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 951"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 815"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "536 Fed.Appx. 335",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 252,
+    "sha256": "8b3c0924fe6f67fc4bd49f4181242a641cc9321e3d09105b542f0d11041dd987",
+    "simhash": "1:62a702443e454389",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cedric MARTINO, petitioner,\nv.\nWayne C. McCABE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cedric MARTINO, petitioner,\nv.\nWayne C. McCABE, Warden.\nNo. 13-7446.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 536 Fed.Appx. 335.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0951-02",
+  "first_page_order": 951,
+  "last_page_order": 951
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12583554,
+  "name": "Richard Alan ARLEDGE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Arledge v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013277.",
+  "first_page": "366",
+  "last_page": "366",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 366"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 160"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "524 Fed.Appx. 83",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "sha256": "58dc842020796d842031b9c3c76df772ed918b5e791133fbf6f3ed9165c3fffc",
+    "simhash": "1:d3ae76465b03841b",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard Alan ARLEDGE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard Alan ARLEDGE, petitioner,\nv.\nUNITED STATES.\nNo. 13-277.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 524 Fed.Appx. 83.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0366-02",
+  "first_page_order": 366,
+  "last_page_order": 366
+}

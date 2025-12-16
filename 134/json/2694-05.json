@@ -1,0 +1,103 @@
+{
+  "id": 12582037,
+  "name": "Patricia A. EADDY, petitioner, v. Carolyn W. COLVIN, Acting Commissioner of Social Security.",
+  "name_abbreviation": "Eaddy v. Colvin",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20138588.",
+  "first_page": "2694",
+  "last_page": "2694",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2694"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 233"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3686"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1768",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12705344,
+        12705345,
+        12705346,
+        12579939,
+        12579940,
+        12579941,
+        12579942,
+        12579943,
+        12579944,
+        12705347,
+        12705298,
+        12705340
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1038-11",
+        "/us/572/1038-12",
+        "/us/572/1038-13",
+        "/s-ct/134/1768-01",
+        "/s-ct/134/1768-02",
+        "/s-ct/134/1768-03",
+        "/s-ct/134/1768-04",
+        "/s-ct/134/1768-05",
+        "/s-ct/134/1768-06",
+        "/us/572/1038-14",
+        "/us/572/1035-09",
+        "/us/572/1038-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 220,
+    "sha256": "696dd4afca39ba5f31486496e2ed789ed9f91134c10abed05ddec5d366d388a5",
+    "simhash": "1:43f6bac1019e7fa7",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patricia A. EADDY, petitioner,\nv.\nCarolyn W. COLVIN, Acting Commissioner of Social Security."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patricia A. EADDY, petitioner,\nv.\nCarolyn W. COLVIN, Acting Commissioner of Social Security.\nNo. 13-8588.\nSupreme Court of the United States\nMay 27, 2014.\nFormer decision, 134 S.Ct. 1768.\nPetition for rehearing denied."
+  },
+  "file_name": "2694-05",
+  "first_page_order": 2694,
+  "last_page_order": 2694
+}

@@ -1,0 +1,99 @@
+{
+  "id": 12584428,
+  "name": "Ward BROCKMAN, petitioner, v. GEORGIA.",
+  "name_abbreviation": "Brockman v. Georgia",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136068.",
+  "first_page": "521",
+  "last_page": "521",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 521"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 375"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "739 S.E.2d 332",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "case_ids": [
+        3654344
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/292/0707-02"
+      ]
+    },
+    {
+      "cite": "292 Ga. 707",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        3654344,
+        3654111
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ga/292/0707-02",
+        "/ga/292/0707-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 215,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634333121351863
+    },
+    "sha256": "abcb7217e8531021bbc1679b19a151d05a68301f61c2b48f67a994d0560504a7",
+    "simhash": "1:46a7c40478d505f0",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ward BROCKMAN, petitioner,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ward BROCKMAN, petitioner,\nv.\nGEORGIA.\nNo. 13-6068.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 292 Ga. 707, 739 S.E.2d 332.\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "0521-03",
+  "first_page_order": 521,
+  "last_page_order": 521
+}

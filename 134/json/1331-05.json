@@ -1,0 +1,91 @@
+{
+  "id": 12578774,
+  "name": "Roy DUMAS, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Dumas v. Massachusetts",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138083.",
+  "first_page": "1331",
+  "last_page": "1331",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1331"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 341"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "986 N.E.2d 878",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "83 Mass.App.Ct. 536",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "case_ids": [
+        3849270
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass-app-ct/83/0536-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 232,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632477800829315
+    },
+    "sha256": "9d17ff82299069e9c37dfafe1156738e019ff49e49d26991e2371919f872e2d9",
+    "simhash": "1:b9eff8dcbfc7d480",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roy DUMAS, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appeals Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roy DUMAS, petitioner,\nv.\nMASSACHUSETTS.\nNo. 13-8083.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 83 Mass.App.Ct. 536, 986 N.E.2d 878.\nPetition for writ of certiorari to the Appeals Court of Massachusetts denied."
+  },
+  "file_name": "1331-05",
+  "first_page_order": 1331,
+  "last_page_order": 1331
+}

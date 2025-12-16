@@ -1,0 +1,85 @@
+{
+  "id": 12585379,
+  "name": "John O. MURRIN, III, petitioner, v. OFFICE OF LAWYERS PROFESSIONAL RESPONSIBILITY BOARD.",
+  "name_abbreviation": "Murrin v. Office of Lawyers Prof'l Responsibility Bd.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131298.",
+  "first_page": "71",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 71"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 29"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "821 N.W.2d 195",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7067146
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nw2d/821/0195-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 254,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634674840116161
+    },
+    "sha256": "36449a088600eed76baee7e850e29320ce191243fb4d76eb4b1e55cba6d28c13",
+    "simhash": "1:48af545e7b55a3be",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John O. MURRIN, III, petitioner,\nv.\nOFFICE OF LAWYERS PROFESSIONAL RESPONSIBILITY BOARD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Minnesota denied."
+    ],
+    "corrections": "",
+    "head_matter": "John O. MURRIN, III, petitioner,\nv.\nOFFICE OF LAWYERS PROFESSIONAL RESPONSIBILITY BOARD.\nNo. 12-1298.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 821 N.W.2d 195.\nPetition for writ of certiorari to the Supreme Court of Minnesota denied."
+  },
+  "file_name": "0071-04",
+  "first_page_order": 71,
+  "last_page_order": 71
+}

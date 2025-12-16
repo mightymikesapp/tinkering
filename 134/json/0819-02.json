@@ -1,0 +1,103 @@
+{
+  "id": 12585762,
+  "name": "Senora L. BOLARINWA, petitioner, v. Sabrina KAPLAN, Superintendent, Bedford Hills Correctional Facility.",
+  "name_abbreviation": "Bolarinwa v. Kaplan",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20135688.",
+  "first_page": "819",
+  "last_page": "819",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 819"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 620"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 326",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703834,
+        12703815,
+        12703816,
+        12703817,
+        12703835,
+        12703826,
+        12583286,
+        12583287,
+        12583288,
+        12583289,
+        12583290,
+        12583291
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0927-09",
+        "/us/571/0926-05",
+        "/us/571/0926-06",
+        "/us/571/0926-07",
+        "/us/571/0927-10",
+        "/us/571/0927-08",
+        "/s-ct/134/0326-01",
+        "/s-ct/134/0326-02",
+        "/s-ct/134/0326-03",
+        "/s-ct/134/0326-04",
+        "/s-ct/134/0326-05",
+        "/s-ct/134/0326-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 231,
+    "sha256": "be0daf47e1a83846b50f70e3008a69209530d02f3b5bc048fb51c9a294c6b7c6",
+    "simhash": "1:226406029007472e",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Senora L. BOLARINWA, petitioner,\nv.\nSabrina KAPLAN, Superintendent, Bedford Hills Correctional Facility."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Senora L. BOLARINWA, petitioner,\nv.\nSabrina KAPLAN, Superintendent, Bedford Hills Correctional Facility.\nNo. 13-5688.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 326.\nPetition for rehearing denied."
+  },
+  "file_name": "0819-02",
+  "first_page_order": 819,
+  "last_page_order": 819
+}

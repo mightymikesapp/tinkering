@@ -1,0 +1,85 @@
+{
+  "id": 12578019,
+  "name": "Bruce N. SAFFRAN, petitioner, v. JOHNSON & JOHNSON, et al.",
+  "name_abbreviation": "Saffran v. Johnson",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u2013405.",
+  "first_page": "1023",
+  "last_page": "1023",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1023"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 138"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "712 F.3d 549",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3556113
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/712/0549-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 327,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632195931114131
+    },
+    "sha256": "01374db348111aa0bc2890826377a27f6f2d4e32c8d1dbb9b2a71b9c035a95b4",
+    "simhash": "1:fbbff606b30db7ca",
+    "word_count": 55
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bruce N. SAFFRAN, petitioner,\nv.\nJOHNSON & JOHNSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bruce N. SAFFRAN, petitioner,\nv.\nJOHNSON & JOHNSON, et al.\nNo. 13-405.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 712 F.3d 549.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "1023-03",
+  "first_page_order": 1023,
+  "last_page_order": 1023
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12585401,
+  "name": "Regis J. COSTELLO, petitioner, v. UNIVERSITY OF WASHINGTON MEDICAL CENTER, et al.",
+  "name_abbreviation": "Costello v. Univ. of Wash. Med. Ctr.",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u2013489.",
+  "first_page": "723",
+  "last_page": "723",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 723"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 553"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 4335957",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 264,
+    "sha256": "38092eec7b16f742b5af444176e61d1d7b555808d81d28a65caccb253782600e",
+    "simhash": "1:3a37c60e13c1c98a",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Regis J. COSTELLO, petitioner,\nv.\nUNIVERSITY OF WASHINGTON MEDICAL CENTER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Regis J. COSTELLO, petitioner,\nv.\nUNIVERSITY OF WASHINGTON MEDICAL CENTER, et al.\nNo. 13-489.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 2012 WL 4335957.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+  },
+  "file_name": "0723-03",
+  "first_page_order": 723,
+  "last_page_order": 723
+}

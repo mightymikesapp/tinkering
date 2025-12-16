@@ -1,0 +1,85 @@
+{
+  "id": 12583788,
+  "name": "SONY COMPUTER ENTERTAINMENT AMERICA LLC, et al., petitioners, v. 1ST MEDIA, LLC.",
+  "name_abbreviation": "Sony Computer Entm't Am. LLC v. 1ST Media, LLC.",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 12\u20131086.",
+  "first_page": "418",
+  "last_page": "418",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 418"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 278"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "694 F.3d 1367",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3522872
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/694/1367-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 274,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26341342680596436
+    },
+    "sha256": "41d443e1407a764939f55e70fdead16dee2d9e48e78c4622545e24109111722d",
+    "simhash": "1:63af6244350482ef",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SONY COMPUTER ENTERTAINMENT AMERICA LLC, et al., petitioners,\nv.\n1ST MEDIA, LLC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "SONY COMPUTER ENTERTAINMENT AMERICA LLC, et al., petitioners,\nv.\n1ST MEDIA, LLC.\nNo. 12-1086.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 694 F.3d 1367.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0418-01",
+  "first_page_order": 418,
+  "last_page_order": 418
+}

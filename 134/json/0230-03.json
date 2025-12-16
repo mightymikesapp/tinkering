@@ -1,0 +1,75 @@
+{
+  "id": 12581423,
+  "name": "Bertrand EDWARDS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Edwards v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135101.",
+  "first_page": "230",
+  "last_page": "230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 230"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 171"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Fed.Appx. 411",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 244,
+    "sha256": "24fbc59f3cc343fafc0f2f8e7f365fe641c98ce1fd7d3e1ed4d840f2d05352f1",
+    "simhash": "1:cfad644733660629",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bertrand EDWARDS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bertrand EDWARDS, petitioner,\nv.\nUNITED STATES.\nNo. 13-5101.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 519 Fed.Appx. 411.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0230-03",
+  "first_page_order": 230,
+  "last_page_order": 230
+}

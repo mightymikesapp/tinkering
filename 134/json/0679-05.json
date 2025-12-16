@@ -1,0 +1,83 @@
+{
+  "id": 12585108,
+  "name": "Johnnie H. BEASLEY, petitioner, v. Eric K. SHINSEKI, Secretary of Veterans Affairs.",
+  "name_abbreviation": "Beasley v. Shinseki",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 12\u20131419.",
+  "first_page": "679",
+  "last_page": "679",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 679"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 548"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "709 F.3d 1154",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3547163,
+        4075771
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/709/1154-01",
+        "/vet-app/26/1154-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 276,
+    "sha256": "ad4c494db8390b1da14699ef39f3adb716b3077c1c44dbffc1ae9235a4af9eb2",
+    "simhash": "1:313774c43b240386",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnnie H. BEASLEY, petitioner,\nv.\nEric K. SHINSEKI, Secretary of Veterans Affairs."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Johnnie H. BEASLEY, petitioner,\nv.\nEric K. SHINSEKI, Secretary of Veterans Affairs.\nNo. 12-1419.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 709 F.3d 1154.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0679-05",
+  "first_page_order": 679,
+  "last_page_order": 679
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12583030,
+  "name": "DIRECT MARKETING ASSOCIATION, petitioner, v. Barbara BROHL, Executive Director, Colorado Department of Revenue.",
+  "name_abbreviation": "Direct Mktg. Ass'n v. Brohl",
+  "decision_date": "2014-07-01",
+  "docket_number": "No. 13\u20131032.",
+  "first_page": "2901",
+  "last_page": "2901",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2901"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 855"
+    },
+    {
+      "type": "vendor",
+      "cite": "83 U.S.L.W. 3011"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "735 F.3d 904",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3722204
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/735/0904-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 302,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26339663045992256
+    },
+    "sha256": "8b916f8ac64b498be4cb63feed273370711a5396972ad399480eb17f9d34e0fd",
+    "simhash": "1:daa756067a64940d",
+    "word_count": 46
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DIRECT MARKETING ASSOCIATION, petitioner,\nv.\nBarbara BROHL, Executive Director, Colorado Department of Revenue."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "DIRECT MARKETING ASSOCIATION, petitioner,\nv.\nBarbara BROHL, Executive Director, Colorado Department of Revenue.\nNo. 13-1032.\nSupreme Court of the United States\nJuly 1, 2014.\nCase below, 735 F.3d 904.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit granted."
+  },
+  "file_name": "2901-02",
+  "first_page_order": 2901,
+  "last_page_order": 2901
+}

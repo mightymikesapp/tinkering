@@ -1,0 +1,85 @@
+{
+  "id": 12581642,
+  "name": "HALLIBURTON, INC., et al., petitioners, v. Kathy Joy KIRKENDALL, et al.",
+  "name_abbreviation": "Halliburton, Inc. v. Kirkendall",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u201336.",
+  "first_page": "241",
+  "last_page": "241",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 241"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 146"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "707 F.3d 173",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3536942
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/707/0173-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 260,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26334546917600216
+    },
+    "sha256": "b4aa5766f452dea02c23437733315ce7287cb7f7c6a290608f78026503743466",
+    "simhash": "1:692f664c7dc019ab",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HALLIBURTON, INC., et al., petitioners,\nv.\nKathy Joy KIRKENDALL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "HALLIBURTON, INC., et al., petitioners,\nv.\nKathy Joy KIRKENDALL, et al.\nNo. 13-36.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 707 F.3d 173.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0241-03",
+  "first_page_order": 241,
+  "last_page_order": 241
+}

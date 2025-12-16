@@ -1,0 +1,75 @@
+{
+  "id": 12583942,
+  "name": "Chance Marcus CLYCE, petitioner, v. HUNT COUNTY, TEXAS, et al.",
+  "name_abbreviation": "Clyce v. Hunt Cnty.",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u2013235.",
+  "first_page": "441",
+  "last_page": "441",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 441"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 285"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 319",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 257,
+    "sha256": "c02f59d5890fa3773b8b3d66a81927dec167e3b59e6ecd442e93f2e02235f37e",
+    "simhash": "1:e3efe68c3e8153c9",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chance Marcus CLYCE, petitioner,\nv.\nHUNT COUNTY, TEXAS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Chance Marcus CLYCE, petitioner,\nv.\nHUNT COUNTY, TEXAS, et al.\nNo. 13-235.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 515 Fed.Appx. 319.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0441-04",
+  "first_page_order": 441,
+  "last_page_order": 441
+}

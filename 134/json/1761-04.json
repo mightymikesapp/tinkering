@@ -1,0 +1,85 @@
+{
+  "id": 12579901,
+  "name": "Anthony Lawrence DASH, petitioner, v. Floyd MAYWEATHER, Jr., et al.",
+  "name_abbreviation": "Dash v. Mayweather",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u2013867.",
+  "first_page": "1761",
+  "last_page": "1761",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1761"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 593"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "731 F.3d 303",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6049092
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/731/0303-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 259,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26328446175819514
+    },
+    "sha256": "3dad296ca634a2bc8a5a9cf757a50eb0d76ce33fb731944807310593f0dc078d",
+    "simhash": "1:5a6e548cbac45733",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony Lawrence DASH, petitioner,\nv.\nFloyd MAYWEATHER, Jr., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony Lawrence DASH, petitioner,\nv.\nFloyd MAYWEATHER, Jr., et al.\nNo. 13-867.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 731 F.3d 303.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1761-04",
+  "first_page_order": 1761,
+  "last_page_order": 1761
+}

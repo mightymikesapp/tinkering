@@ -1,0 +1,75 @@
+{
+  "id": 12582445,
+  "name": "Lamont Van HARRIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Van Harris v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135370.",
+  "first_page": "278",
+  "last_page": "278",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 278"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 201"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 204",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "sha256": "de00cff888f55ed4c573f47698ab40976caebfa71fb8701fb8dca96dcad26bd2",
+    "simhash": "1:13edc60528448605",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lamont Van HARRIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lamont Van HARRIS, petitioner,\nv.\nUNITED STATES.\nNo. 13-5370.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 515 Fed.Appx. 204.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0278-02",
+  "first_page_order": 278,
+  "last_page_order": 278
+}

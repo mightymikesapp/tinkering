@@ -1,0 +1,75 @@
+{
+  "id": 12586333,
+  "name": "William Sedrick ROLLERSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rollerson v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137443.",
+  "first_page": "951",
+  "last_page": "951",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 951"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 815"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "538 Fed.Appx. 318",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 253,
+    "sha256": "4575c1538335fd2b9f1c8d5eec3d824e2fa415da7c98e6867887b8f3870e2567",
+    "simhash": "1:a3af40440e895711",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Sedrick ROLLERSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William Sedrick ROLLERSON, petitioner,\nv.\nUNITED STATES.\nNo. 13-7443.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 538 Fed.Appx. 318.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0951-01",
+  "first_page_order": 951,
+  "last_page_order": 951
+}

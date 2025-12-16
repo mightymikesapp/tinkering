@@ -1,0 +1,75 @@
+{
+  "id": 12584396,
+  "name": "Peter GAKUBA, petitioner, v. Kate C. KURTZ, et al.",
+  "name_abbreviation": "Gakuba v. Kurtz",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20135984.",
+  "first_page": "517",
+  "last_page": "517",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 517"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 373"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "523 Fed.Appx. 402",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 247,
+    "sha256": "f81221971734edd033dfe93c6e96256a1d2f4dec8c28bd16b779bbf702a03a88",
+    "simhash": "1:43adf6cc3ac896eb",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peter GAKUBA, petitioner,\nv.\nKate C. KURTZ, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Peter GAKUBA, petitioner,\nv.\nKate C. KURTZ, et al.\nNo. 13-5984.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 523 Fed.Appx. 402.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0517-01",
+  "first_page_order": 517,
+  "last_page_order": 517
+}

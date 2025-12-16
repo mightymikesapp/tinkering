@@ -1,0 +1,87 @@
+{
+  "id": 12582043,
+  "name": "Paul Gamboa TAYLOR, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Taylor v. Pennsylvania",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u20138261.",
+  "first_page": "2695",
+  "last_page": "2695",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2695"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 743"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3695"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "67 A.3d 1245",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        7309555,
+        4328404,
+        4328063,
+        7309583
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/a3d/67/1245-01",
+        "/pa/620/0429-01",
+        "/pa/620/0428-01",
+        "/a3d/67/1245-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 234,
+    "sha256": "25b3a53abd5391eb9a21c879f7ef8f896d14c8becc1224dc5f58c1724da43cac",
+    "simhash": "1:4a6e1404388705d3",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul Gamboa TAYLOR, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul Gamboa TAYLOR, petitioner,\nv.\nPENNSYLVANIA.\nNo. 13-8261.\nSupreme Court of the United States\nJune 2, 2014.\nCase below, 67 A.3d 1245.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+  },
+  "file_name": "2695-03",
+  "first_page_order": 2695,
+  "last_page_order": 2695
+}

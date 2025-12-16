@@ -1,0 +1,85 @@
+{
+  "id": 12585813,
+  "name": "LOCKHEED MARTIN CORPORATION, et al., petitioners, v. Anthony ABBOTT, et al.",
+  "name_abbreviation": "Lockheed Martin Corp. v. Abbott",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u2013447.",
+  "first_page": "826",
+  "last_page": "826",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 826"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 686"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3364"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "725 F.3d 803",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071645
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/725/0803-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 267,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634821566817216
+    },
+    "sha256": "6ea15b1388acfab22868b38ebed3de7ae9d10fbdd479ffe1498d668be96b4bc0",
+    "simhash": "1:452ff68c2b041600",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LOCKHEED MARTIN CORPORATION, et al., petitioners,\nv.\nAnthony ABBOTT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "LOCKHEED MARTIN CORPORATION, et al., petitioners,\nv.\nAnthony ABBOTT, et al.\nNo. 13-447.\nSupreme Court of the United States\nDec. 16, 2013.\nCase below, 725 F.3d 803.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0826-05",
+  "first_page_order": 826,
+  "last_page_order": 826
+}

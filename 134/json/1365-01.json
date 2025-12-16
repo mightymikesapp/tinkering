@@ -1,0 +1,85 @@
+{
+  "id": 12578994,
+  "name": "NATIONAL RIFLE ASSOCIATION OF AMERICA, INC., petitioner, v. Steven C. McCRAW, in His Official Capacity as Director of the Texas Department of Public Safety.",
+  "name_abbreviation": "Nat'l Rifle Ass'n of Am., Inc. v. McCraw",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013390.",
+  "first_page": "1365",
+  "last_page": "1365",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1365"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 297"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "719 F.3d 338",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4055912
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/719/0338-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 346,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632543441721892
+    },
+    "sha256": "625c67d0098f8a50951532e265cf662c90fab335c036e775b42bbb72c437cffc",
+    "simhash": "1:3f2d56463ec1670f",
+    "word_count": 57
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NATIONAL RIFLE ASSOCIATION OF AMERICA, INC., petitioner,\nv.\nSteven C. McCRAW, in His Official Capacity as Director of the Texas Department of Public Safety."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "NATIONAL RIFLE ASSOCIATION OF AMERICA, INC., petitioner,\nv.\nSteven C. McCRAW, in His Official Capacity as Director of the Texas Department of Public Safety.\nNo. 13-390.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 719 F.3d 338.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1365-01",
+  "first_page_order": 1365,
+  "last_page_order": 1365
+}

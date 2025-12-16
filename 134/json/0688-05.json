@@ -1,0 +1,75 @@
+{
+  "id": 12585167,
+  "name": "Frederick BAGLEY, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Bagley v. Illinois",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136465.",
+  "first_page": "688",
+  "last_page": "688",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 688"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 557"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 6952085",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 227,
+    "sha256": "6667630fe57ffacabbbfc92283f3a261e42efd1cd1d45d1d133f656b76b44aa8",
+    "simhash": "1:1063f812380cc180",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Frederick BAGLEY, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Frederick BAGLEY, petitioner,\nv.\nILLINOIS.\nNo. 13-6465.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 2012 WL 6952085.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+  },
+  "file_name": "0688-05",
+  "first_page_order": 688,
+  "last_page_order": 688
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12585910,
+  "name": "Dwight L. ALLEN, petitioner, v. Wayne BENNETT, Sheriff, Glynn County, Georgia, et al.",
+  "name_abbreviation": "Allen v. Bennett",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135143.",
+  "first_page": "840",
+  "last_page": "840",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 840"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 697"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 237",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12581609,
+        12581610,
+        12581611,
+        12581612,
+        12581613,
+        12581614,
+        12703402,
+        12704077,
+        12703388,
+        12703389,
+        12703390,
+        12703391
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0237-01",
+        "/s-ct/134/0237-02",
+        "/s-ct/134/0237-03",
+        "/s-ct/134/0237-04",
+        "/s-ct/134/0237-05",
+        "/s-ct/134/0237-06",
+        "/us/571/0899-07",
+        "/us/571/0945-04",
+        "/us/571/0898-01",
+        "/us/571/0898-02",
+        "/us/571/0898-03",
+        "/us/571/0898-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 213,
+    "sha256": "6d03026413e6dc18386b6e0ebb232f2259123a758f837f64e9c334c8f5152367",
+    "simhash": "1:e0bf5e5227d47bce",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwight L. ALLEN, petitioner,\nv.\nWayne BENNETT, Sheriff, Glynn County, Georgia, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dwight L. ALLEN, petitioner,\nv.\nWayne BENNETT, Sheriff, Glynn County, Georgia, et al.\nNo. 13-5143.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 237.\nPetition for rehearing denied."
+  },
+  "file_name": "0840-03",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12578218,
+  "name": "Mario BOERI, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Boeri v. United States",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u2013549.",
+  "first_page": "1053",
+  "last_page": "1053",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1053"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 140"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 801",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699910,
+        12699911,
+        12585641,
+        12585642,
+        12585643,
+        12585644,
+        12585645,
+        12585646,
+        12700009,
+        12700010,
+        12699997,
+        12699998
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1095-02",
+        "/us/571/1095-03",
+        "/s-ct/134/0801-01",
+        "/s-ct/134/0801-02",
+        "/s-ct/134/0801-03",
+        "/s-ct/134/0801-04",
+        "/s-ct/134/0801-05",
+        "/s-ct/134/0801-06",
+        "/us/571/1101-14",
+        "/us/571/1101-15",
+        "/us/571/1101-01",
+        "/us/571/1101-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 169,
+    "sha256": "e2f9f5863ac07f8f65957e3cdc0e268fbf8a3dd9817cf31845c48afedba67ad6",
+    "simhash": "1:18ac240437885655",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mario BOERI, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mario BOERI, petitioner,\nv.\nUNITED STATES.\nNo. 13-549.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 801.\nPetition for rehearing denied."
+  },
+  "file_name": "1053-06",
+  "first_page_order": 1053,
+  "last_page_order": 1053
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12586594,
+  "name": "Jeffrey P. DATTO, petitioner, v. Brian HARRISON, et al.",
+  "name_abbreviation": "Datto v. Harrison",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013267.",
+  "first_page": "991",
+  "last_page": "991",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 991"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 839"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 522",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704679,
+        12584433,
+        12584434,
+        12584435,
+        12584436,
+        12584437,
+        12584438,
+        12704690,
+        12704691,
+        12704761,
+        12704762,
+        12704763
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0990-01",
+        "/s-ct/134/0522-01",
+        "/s-ct/134/0522-02",
+        "/s-ct/134/0522-03",
+        "/s-ct/134/0522-04",
+        "/s-ct/134/0522-05",
+        "/s-ct/134/0522-06",
+        "/us/571/0990-13",
+        "/us/571/0990-14",
+        "/us/571/0995-11",
+        "/us/571/0995-12",
+        "/us/571/0995-13"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 182,
+    "sha256": "ed7f25a2f3f446432ca7efb9d5cc27491db910d54f3dd29553d679e1e50e9de5",
+    "simhash": "1:25ba6e4480b57b46",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey P. DATTO, petitioner,\nv.\nBrian HARRISON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey P. DATTO, petitioner,\nv.\nBrian HARRISON, et al.\nNo. 13-267.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 522.\nPetition for rehearing denied."
+  },
+  "file_name": "0991-02",
+  "first_page_order": 991,
+  "last_page_order": 991
+}

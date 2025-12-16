@@ -1,0 +1,85 @@
+{
+  "id": 12584610,
+  "name": "Mikel BOLANDER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bolander v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136755.",
+  "first_page": "549",
+  "last_page": "549",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 549"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 392"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "722 F.3d 199",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4062527
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/722/0199-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26343910397864895
+    },
+    "sha256": "16214c6afa05d75397f36341d4b64c402ca733f29951d41a82208c23452d62fd",
+    "simhash": "1:517de4442f82c7b9",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mikel BOLANDER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mikel BOLANDER, petitioner,\nv.\nUNITED STATES.\nNo. 13-6755.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 722 F.3d 199.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0549-06",
+  "first_page_order": 549,
+  "last_page_order": 549
+}

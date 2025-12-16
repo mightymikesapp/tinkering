@@ -1,0 +1,75 @@
+{
+  "id": 12586305,
+  "name": "Carlos GONZALEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gonzalez v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137407.",
+  "first_page": "947",
+  "last_page": "947",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 947"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 813"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "539 Fed.Appx. 438",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 242,
+    "sha256": "1bfe48a3c7e4432c3c454da3098a8aaa65dca04d54fe211b9ece5ec5cb9dd6ec",
+    "simhash": "1:acef56c63e850795",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos GONZALEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos GONZALEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-7407.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 539 Fed.Appx. 438.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0947-03",
+  "first_page_order": 947,
+  "last_page_order": 947
+}

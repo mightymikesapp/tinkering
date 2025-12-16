@@ -1,0 +1,75 @@
+{
+  "id": 12579596,
+  "name": "Michael Wayne FLEMING, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Fleming v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138617.",
+  "first_page": "1559",
+  "last_page": "1559",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1559"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 572"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "535 Fed.Appx. 770",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 249,
+    "sha256": "f5b91e44a5f10ab7027a69f8e8baf6a2bed7c4cbacf0615f572150e52477205e",
+    "simhash": "1:502c56c63a00d285",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Wayne FLEMING, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Wayne FLEMING, petitioner,\nv.\nUNITED STATES.\nNo. 13-8617.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 535 Fed.Appx. 770.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1559-03",
+  "first_page_order": 1559,
+  "last_page_order": 1559
+}

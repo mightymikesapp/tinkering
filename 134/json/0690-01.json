@@ -1,0 +1,75 @@
+{
+  "id": 12585181,
+  "name": "Martin DIGGS, petitioner, v. Thomas LaVALLEY, Superintendent, Clinton Correctional Facility.",
+  "name_abbreviation": "Diggs v. Lavalley",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u20136477.",
+  "first_page": "690",
+  "last_page": "690",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 690"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 558"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 6068590",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 286,
+    "sha256": "e39a9e72abdd9c9aacbe42deb550f6c8922c203330105b112275a8e2cb0910b3",
+    "simhash": "1:1a24f6807b45070b",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Martin DIGGS, petitioner,\nv.\nThomas LaVALLEY, Superintendent, Clinton Correctional Facility."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Martin DIGGS, petitioner,\nv.\nThomas LaVALLEY, Superintendent, Clinton Correctional Facility.\nNo. 13-6477.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 2013 WL 6068590.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0690-01",
+  "first_page_order": 690,
+  "last_page_order": 690
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12581757,
+  "name": "Bruce Edward PETERSON, petitioner, v. Rae TIMME, Warden. et al.",
+  "name_abbreviation": "Peterson v. Timme",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135256.",
+  "first_page": "258",
+  "last_page": "258",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 258"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 189"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Fed.Appx. 830",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 258,
+    "sha256": "59dca6786dd1b5d300c5e6a461f788d5c239a9efb6eb079c38489284b4c71a65",
+    "simhash": "1:212df65d1b5797af",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bruce Edward PETERSON, petitioner,\nv.\nRae TIMME, Warden. et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bruce Edward PETERSON, petitioner,\nv.\nRae TIMME, Warden. et al.\nNo. 13-5256.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 509 Fed.Appx. 830.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0258-04",
+  "first_page_order": 258,
+  "last_page_order": 258
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12582876,
+  "name": "Bobby Ray GRADY, petitioner, v. Branson VICKORY, III, et al.",
+  "name_abbreviation": "Grady v. Vickory",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20139796.",
+  "first_page": "2879",
+  "last_page": "2879",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2879"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 840"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "544 Fed.Appx. 191",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 257,
+    "sha256": "e99475b7855134a406bece7725423825a1db72bf215ed4d5845a45c042f0e24b",
+    "simhash": "1:e33fd0860f84d757",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bobby Ray GRADY, petitioner,\nv.\nBranson VICKORY, III, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bobby Ray GRADY, petitioner,\nv.\nBranson VICKORY, III, et al.\nNo. 13-9796.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 544 Fed.Appx. 191.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2879-02",
+  "first_page_order": 2879,
+  "last_page_order": 2879
+}

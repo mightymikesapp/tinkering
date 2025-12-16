@@ -1,0 +1,103 @@
+{
+  "id": 12577990,
+  "name": "Steven Barker SIROIS, petitioner, v. William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.",
+  "name_abbreviation": "Sirois v. Stephens",
+  "decision_date": "2014-01-21",
+  "docket_number": "No. 13\u20136320.",
+  "first_page": "1019",
+  "last_page": "1019",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1019"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 864"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3425"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 642",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12584864,
+        12584865,
+        12699330,
+        12699337,
+        12699338,
+        12699339,
+        12699340,
+        12699341,
+        12584860,
+        12584861,
+        12584862,
+        12584863
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0642-05",
+        "/s-ct/134/0642-06",
+        "/us/571/1027-07",
+        "/us/571/1027-08",
+        "/us/571/1027-09",
+        "/us/571/1027-10",
+        "/us/571/1027-11",
+        "/us/571/1027-12",
+        "/s-ct/134/0642-01",
+        "/s-ct/134/0642-02",
+        "/s-ct/134/0642-03",
+        "/s-ct/134/0642-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 261,
+    "sha256": "48e242ce53ff441ab3ab6b2bab83d14e6f344d1677b276f084ae320288c3e741",
+    "simhash": "1:334d7846120bd3cd",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven Barker SIROIS, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven Barker SIROIS, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.\nNo. 13-6320.\nSupreme Court of the United States\nJan. 21, 2014.\nCase below, 134 S.Ct. 642.\nPetition for rehearing denied."
+  },
+  "file_name": "1019-06",
+  "first_page_order": 1019,
+  "last_page_order": 1019
+}

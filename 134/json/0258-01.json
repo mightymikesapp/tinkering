@@ -1,0 +1,91 @@
+{
+  "id": 12581754,
+  "name": "DWIGHT R., petitioner, v. CHRISTY B.",
+  "name_abbreviation": "Dwight R. v. Christy B.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u201366.",
+  "first_page": "258",
+  "last_page": "258",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 258"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 149"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "151 Cal.Rptr.3d 406",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "212 Cal.App.4th 697",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 4th",
+      "case_ids": [
+        3701002
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/cal-app-4th/212/0697-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 271,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26334952346642604
+    },
+    "sha256": "4bc7a11f9b4eb26628c726b5ee903741c8e6f54ff926775b604d2d1893540ffe",
+    "simhash": "1:23ac675441cb43e8",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DWIGHT R., petitioner,\nv.\nCHRISTY B."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division Two, denied."
+    ],
+    "corrections": "",
+    "head_matter": "DWIGHT R., petitioner,\nv.\nCHRISTY B.\nNo. 13-66.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 212 Cal.App.4th 697, 151 Cal.Rptr.3d 406.\nPetition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division Two, denied."
+  },
+  "file_name": "0258-01",
+  "first_page_order": 258,
+  "last_page_order": 258
+}

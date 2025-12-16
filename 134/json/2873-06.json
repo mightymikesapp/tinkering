@@ -1,0 +1,75 @@
+{
+  "id": 12582845,
+  "name": "UNITED STATES, petitioner, v. Marlene JUNE, Conservator.",
+  "name_abbreviation": "United States v. June",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20131075.",
+  "first_page": "2873",
+  "last_page": "2873",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2873"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 832"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "550 Fed.Appx. 505",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 253,
+    "sha256": "34f284b6ea9d779c02cb43020725902c39995673bf7c1b7543a804c3e0208310",
+    "simhash": "1:12af90443c041547",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, petitioner,\nv.\nMarlene JUNE, Conservator."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, petitioner,\nv.\nMarlene JUNE, Conservator.\nNo. 13-1075.\nSupreme Court of the United States\nJune 30, 2014.\nCase below, 550 Fed.Appx. 505.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted."
+  },
+  "file_name": "2873-06",
+  "first_page_order": 2873,
+  "last_page_order": 2873
+}

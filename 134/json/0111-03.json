@@ -1,0 +1,85 @@
+{
+  "id": 12578285,
+  "name": "Chau Kieu NGUYEN, as Representative of Dung Kim Nguyen, and the Estate of Luong Trung Nguyen, petitioner, v. JP MORGAN CHASE BANK, NA.",
+  "name_abbreviation": "Nguyen v. JP Morgan Chase Bank",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131382.",
+  "first_page": "111",
+  "last_page": "111",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 111"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 255"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "709 F.3d 1342",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3546455
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/709/1342-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 405,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26322750863081207
+    },
+    "sha256": "39409919b7b1c2f21c80289812bcfb44bfa8400914361c6c16fbd030eeb89bd3",
+    "simhash": "1:b3b7d6d673669723",
+    "word_count": 69
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chau Kieu NGUYEN, as Representative of Dung Kim Nguyen, and the Estate of Luong Trung Nguyen, petitioner,\nv.\nJP MORGAN CHASE BANK, NA."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Chau Kieu NGUYEN, as Representative of Dung Kim Nguyen, and the Estate of Luong Trung Nguyen, petitioner,\nv.\nJP MORGAN CHASE BANK, NA.\nNo. 12-1382.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 709 F.3d 1342.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0111-03",
+  "first_page_order": 111,
+  "last_page_order": 111
+}

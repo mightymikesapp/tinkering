@@ -1,0 +1,81 @@
+{
+  "id": 12580907,
+  "name": "Jose RIVERA, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Rivera v. Illinois",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131492.",
+  "first_page": "201",
+  "last_page": "201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 201"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 46"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "986 N.E.2d 634",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "369 Ill.Dec. 321",
+      "category": "reporters:state",
+      "reporter": "Ill. Dec.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 220,
+    "sha256": "d2582f2b57c09a8b69affc007346ee4d666281c6cb71ead4e4782ebd9149db7b",
+    "simhash": "1:ca2c741cf8b7a493",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose RIVERA, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Illinois denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose RIVERA, petitioner,\nv.\nILLINOIS.\nNo. 12-1492.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 369 Ill.Dec. 321, 986 N.E.2d 634.\nPetition for writ of certiorari to the Supreme Court of Illinois denied."
+  },
+  "file_name": "0201-02",
+  "first_page_order": 201,
+  "last_page_order": 201
+}

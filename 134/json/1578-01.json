@@ -1,0 +1,103 @@
+{
+  "id": 12579727,
+  "name": "Shayne E. TODD, petitioner, v. Al BIGELOW, Warden.",
+  "name_abbreviation": "Todd v. Bigelow",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20137122.",
+  "first_page": "1578",
+  "last_page": "1578",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1578"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 585"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 926",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700515,
+        12700496,
+        12700497,
+        12700498,
+        12700499,
+        12586164,
+        12586165,
+        12586166,
+        12586167,
+        12586168,
+        12586169,
+        12700508
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1139-08",
+        "/us/571/1138-03",
+        "/us/571/1138-04",
+        "/us/571/1138-05",
+        "/us/571/1138-06",
+        "/s-ct/134/0926-01",
+        "/s-ct/134/0926-02",
+        "/s-ct/134/0926-03",
+        "/s-ct/134/0926-04",
+        "/s-ct/134/0926-05",
+        "/s-ct/134/0926-06",
+        "/us/571/1139-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 178,
+    "sha256": "b72226e73fbb07abde887fa7e3fd6f257428a20076779731f0eba793e613c3c0",
+    "simhash": "1:c03536451ec2f50e",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shayne E. TODD, petitioner,\nv.\nAl BIGELOW, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shayne E. TODD, petitioner,\nv.\nAl BIGELOW, Warden.\nNo. 13-7122.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 926\nPetition for rehearing denied."
+  },
+  "file_name": "1578-01",
+  "first_page_order": 1578,
+  "last_page_order": 1578
+}

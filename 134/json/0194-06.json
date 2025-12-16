@@ -1,0 +1,112 @@
+{
+  "id": 12580794,
+  "name": "David GARCIA, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Garcia v. Newyork",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310911.",
+  "first_page": "194",
+  "last_page": "195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 194"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 5"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": " per curiam "
+        },
+        {
+          "parenthetical": " per curiam "
+        },
+        {
+          "parenthetical": " per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    },
+    {
+      "cite": "960 N.Y.S.2d 657",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        3719465,
+        3709286
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/ad3d/104/0874-01",
+        "/ad3d/104/0862-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 90,
+    "char_count": 728,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633141932213036
+    },
+    "sha256": "e9e4531e83c44dd059a573f53c05389fef6dbb391f65940b7723b9916db4433b",
+    "simhash": "1:e9eaa54e3025c629",
+    "word_count": 118
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David GARCIA, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) ( per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "David GARCIA, petitioner,\nv.\nNEW YORK.\nNo. 12-10911.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 960 N.Y.S.2d 657.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department, dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) ( per curiam )."
+  },
+  "file_name": "0194-06",
+  "first_page_order": 194,
+  "last_page_order": 195
+}

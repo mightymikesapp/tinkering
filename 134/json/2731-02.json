@@ -1,0 +1,75 @@
+{
+  "id": 12582292,
+  "name": "Kyle Richard ECKARDT, petitioner, v. Justin JONES, Director, Oklahoma Department of Corrections.",
+  "name_abbreviation": "Eckardt v. Jones",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20139555.",
+  "first_page": "2731",
+  "last_page": "2731",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2731"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 771"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "550 Fed.Appx. 657",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 291,
+    "sha256": "ad26afbaf6f1c39d24196e5a1d8cc52648642027b3ab82f3c862ac6b227b5d88",
+    "simhash": "1:b52d74465f84d663",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kyle Richard ECKARDT, petitioner,\nv.\nJustin JONES, Director, Oklahoma Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kyle Richard ECKARDT, petitioner,\nv.\nJustin JONES, Director, Oklahoma Department of Corrections.\nNo. 13-9555.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 550 Fed.Appx. 657.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "2731-02",
+  "first_page_order": 2731,
+  "last_page_order": 2731
+}

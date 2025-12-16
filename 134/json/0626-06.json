@@ -1,0 +1,86 @@
+{
+  "id": 12584757,
+  "name": "Kenneth M. SOBCZAK, petitioner, v. WISCONSIN.",
+  "name_abbreviation": "Sobczak v. Wisconsin",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20136549.",
+  "first_page": "626",
+  "last_page": "626",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 626"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 406"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "347 Wis.2d 724",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        3692818
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/wis-2d/347/0724-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 227,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634475986823942
+    },
+    "sha256": "f5415f8404ae4c8f0bc995a134e15abeb41ae2145384ab46287a1380a3f81b75",
+    "simhash": "1:566e1546bb0f63f8",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth M. SOBCZAK, petitioner,\nv.\nWISCONSIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Wisconsin denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenneth M. SOBCZAK, petitioner,\nv.\nWISCONSIN.\nNo. 13-6549.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 347 Wis.2d 724, 833 N.W.2d 59.\nPetition for writ of certiorari to the Supreme Court of Wisconsin denied."
+  },
+  "file_name": "0626-06",
+  "first_page_order": 626,
+  "last_page_order": 626
+}

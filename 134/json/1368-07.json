@@ -1,0 +1,103 @@
+{
+  "id": 12579019,
+  "name": "Annette FLUKER, petitioner, v. REYNOLD'S AMERICAN INCORPORATION.",
+  "name_abbreviation": "Fluker v. Reynold's Am. Incorporation",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136479.",
+  "first_page": "1368",
+  "last_page": "1368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1368"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 365"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 690",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12585184,
+        12585185,
+        12585186,
+        12699622,
+        12699623,
+        12699624,
+        12699625,
+        12699626,
+        12699636,
+        12585181,
+        12585182,
+        12585183
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0690-04",
+        "/s-ct/134/0690-05",
+        "/s-ct/134/0690-06",
+        "/us/571/1076-01",
+        "/us/571/1076-02",
+        "/us/571/1076-03",
+        "/us/571/1076-04",
+        "/us/571/1076-05",
+        "/us/571/1076-16",
+        "/s-ct/134/0690-01",
+        "/s-ct/134/0690-02",
+        "/s-ct/134/0690-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 192,
+    "sha256": "6b735983ae4afa281ff085dbff21cb3378cb0e6eae07f88fca6e722e31904240",
+    "simhash": "1:3038344c17dcd508",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Annette FLUKER, petitioner,\nv.\nREYNOLD'S AMERICAN INCORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Annette FLUKER, petitioner,\nv.\nREYNOLD'S AMERICAN INCORPORATION.\nNo. 13-6479.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 690.\nPetition for rehearing denied."
+  },
+  "file_name": "1368-07",
+  "first_page_order": 1368,
+  "last_page_order": 1368
+}

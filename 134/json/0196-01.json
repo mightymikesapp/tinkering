@@ -1,0 +1,85 @@
+{
+  "id": 12580872,
+  "name": "Eugene Milton CLEMONS, II, petitioner, v. ALABAMA.",
+  "name_abbreviation": "Clemons v. Alabama",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131478.",
+  "first_page": "196",
+  "last_page": "196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 196"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 44"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "123 So.3d 1",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        6997237
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/123/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 223,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633167030201375
+    },
+    "sha256": "097bf6928d6b8abe06cdcc86b44307f73673811c795588a7e4d1a708b2331b5f",
+    "simhash": "1:60afaefe73e38498",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eugene Milton CLEMONS, II, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eugene Milton CLEMONS, II, petitioner,\nv.\nALABAMA.\nNo. 12-1478.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 123 So.3d 1.\nPetition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+  },
+  "file_name": "0196-01",
+  "first_page_order": 196,
+  "last_page_order": 196
+}

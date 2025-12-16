@@ -1,0 +1,75 @@
+{
+  "id": 12581402,
+  "name": "Ramiro Alex HUERTA, petitioner, v. Derral G. ADAMS, Warden.",
+  "name_abbreviation": "Huerta v. Adams",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20139170.",
+  "first_page": "2306",
+  "last_page": "2306",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2306"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 188"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3673"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "545 Fed.Appx. 671",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 254,
+    "sha256": "3714587d97aabf24d4b0085b9f075c1d205c5c8ffe83658543751137ef0fd8ca",
+    "simhash": "1:5a6e50c43c038501",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ramiro Alex HUERTA, petitioner,\nv.\nDerral G. ADAMS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ramiro Alex HUERTA, petitioner,\nv.\nDerral G. ADAMS, Warden.\nNo. 13-9170.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 545 Fed.Appx. 671.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2306-03",
+  "first_page_order": 2306,
+  "last_page_order": 2306
+}

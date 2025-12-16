@@ -1,0 +1,107 @@
+{
+  "id": 12586646,
+  "name": "In re Robert Charles JONES, petitioner.",
+  "name_abbreviation": "In re Jones",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137014.",
+  "first_page": "997",
+  "last_page": "997",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 997"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 846"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 631",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699146,
+        12699147,
+        12699148,
+        12699149,
+        12584788,
+        12584789,
+        12584790,
+        12584791,
+        12584792,
+        12584793,
+        12584794,
+        12699227,
+        12699228,
+        12699229
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1009-05",
+        "/us/571/1009-06",
+        "/us/571/1009-07",
+        "/us/571/1009-08",
+        "/s-ct/134/0631-01",
+        "/s-ct/134/0631-02",
+        "/s-ct/134/0631-03",
+        "/s-ct/134/0631-04",
+        "/s-ct/134/0631-05",
+        "/s-ct/134/0631-06",
+        "/s-ct/134/0631-07",
+        "/us/571/1015-06",
+        "/us/571/1015-07",
+        "/us/571/1015-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 167,
+    "sha256": "e719f33fc8c511d68da155e1d2a941807b519433b583ab05316b281c301f79f8",
+    "simhash": "1:072a34023792e4c3",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert Charles JONES, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Robert Charles JONES, petitioner.\nNo. 13-7014.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 631.\nPetition for rehearing denied."
+  },
+  "file_name": "0997-08",
+  "first_page_order": 997,
+  "last_page_order": 997
+}

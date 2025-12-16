@@ -1,0 +1,75 @@
+{
+  "id": 12584373,
+  "name": "Clifton BARNES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Barnes v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20135002.",
+  "first_page": "513",
+  "last_page": "513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 513"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 371"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Fed.Appx. 257",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 241,
+    "sha256": "4f75e1519b56121b95f9231c66506c4f68fa22c7ee27e313ba15aea309aebf91",
+    "simhash": "1:4bed46043b8ad6b4",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clifton BARNES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Clifton BARNES, petitioner,\nv.\nUNITED STATES.\nNo. 13-5002.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 509 Fed.Appx. 257.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0513-01",
+  "first_page_order": 513,
+  "last_page_order": 513
+}

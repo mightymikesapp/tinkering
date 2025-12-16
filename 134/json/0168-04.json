@@ -1,0 +1,75 @@
+{
+  "id": 12579836,
+  "name": "Javary Treymayne TRIGG, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Trigg v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310759.",
+  "first_page": "168",
+  "last_page": "168",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 168"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 116"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Fed.Appx. 418",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 249,
+    "sha256": "406e203a8cda52ace09c4e0c0669156ab990cc0f7375686aeae24f856422d165",
+    "simhash": "1:23ef748c1323163d",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Javary Treymayne TRIGG, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Javary Treymayne TRIGG, petitioner,\nv.\nUNITED STATES.\nNo. 12-10759.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 514 Fed.Appx. 418.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0168-04",
+  "first_page_order": 168,
+  "last_page_order": 168
+}

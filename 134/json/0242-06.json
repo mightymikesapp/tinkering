@@ -1,0 +1,75 @@
+{
+  "id": 12581651,
+  "name": "Juan Antonio ACEVEDO-HERRERA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Acevedo-Herrera v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135174.",
+  "first_page": "242",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 242"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 179"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "516 Fed.Appx. 239",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 255,
+    "sha256": "d02e3cab322a0e8e4be10c153d73661c179ce9fa48bc97757e49a6749d166b2a",
+    "simhash": "1:41ede6052bc7d709",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan Antonio ACEVEDO-HERRERA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan Antonio ACEVEDO-HERRERA, petitioner,\nv.\nUNITED STATES.\nNo. 13-5174.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 516 Fed.Appx. 239.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0242-06",
+  "first_page_order": 242,
+  "last_page_order": 242
+}

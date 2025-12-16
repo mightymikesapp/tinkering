@@ -1,0 +1,85 @@
+{
+  "id": 12580538,
+  "name": "David K. MENSAH, aka Willberforce Appiah, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Mensah v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139216.",
+  "first_page": "1912",
+  "last_page": "1912",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1912"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 939"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "737 F.3d 789",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3732318
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/737/0789-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 263,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26330492627176333
+    },
+    "sha256": "579c7bac79afe8dcddf09a93ec9c4c88d8c93215297c0df0376efd9cdedffa7d",
+    "simhash": "1:f36d66443a27d635",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David K. MENSAH, aka Willberforce Appiah, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David K. MENSAH, aka Willberforce Appiah, petitioner,\nv.\nUNITED STATES.\nNo. 13-9216.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 737 F.3d 789.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "1912-06",
+  "first_page_order": 1912,
+  "last_page_order": 1912
+}

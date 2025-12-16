@@ -1,0 +1,75 @@
+{
+  "id": 12579805,
+  "name": "William Thomas DICKSON, petitioner, v. PUBLIC SERVICE COMPANY OF OKLAHOMA.",
+  "name_abbreviation": "Dickson v. Pub. Serv. Co. of Okla.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131441.",
+  "first_page": "163",
+  "last_page": "163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 163"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 255"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "511 Fed.Appx. 753",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 346,
+    "sha256": "69807f4f55a9f4e752c0135ad2305706d9990b221b54cd198a4520e7d321090a",
+    "simhash": "1:d9a9f60e3146d7ab",
+    "word_count": 56
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Thomas DICKSON, petitioner,\nv.\nPUBLIC SERVICE COMPANY OF OKLAHOMA."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William Thomas DICKSON, petitioner,\nv.\nPUBLIC SERVICE COMPANY OF OKLAHOMA.\nNo. 12-1441.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 511 Fed.Appx. 753.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0163-04",
+  "first_page_order": 163,
+  "last_page_order": 163
+}

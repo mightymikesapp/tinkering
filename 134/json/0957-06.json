@@ -1,0 +1,75 @@
+{
+  "id": 12586374,
+  "name": "Antonio SANCHEZ, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Sanchez v. Massachusetts",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137511.",
+  "first_page": "957",
+  "last_page": "957",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 957"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 819"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "979 N.E.2d 239",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 226,
+    "sha256": "fed8b90a1ae2db162a35d2d621437874dc3c825fd1990f892b88ad8caf9a6566",
+    "simhash": "1:6cee545470d54795",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio SANCHEZ, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio SANCHEZ, petitioner,\nv.\nMASSACHUSETTS.\nNo. 13-7511.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 979 N.E.2d 239.\nPetition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+  },
+  "file_name": "0957-06",
+  "first_page_order": 957,
+  "last_page_order": 957
+}

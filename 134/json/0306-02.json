@@ -1,0 +1,75 @@
+{
+  "id": 12583149,
+  "name": "Juan Jose VELASQUEZ-LOPEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Velasquez-Lopez v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135534.",
+  "first_page": "306",
+  "last_page": "306",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 306"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 218"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "510 Fed.Appx. 559",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 251,
+    "sha256": "e02e0755d660667e90525724157a2c07e669af0658107182f13b6537a99e0041",
+    "simhash": "1:c3ef76053b4784b9",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan Jose VELASQUEZ-LOPEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan Jose VELASQUEZ-LOPEZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-5534.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 510 Fed.Appx. 559.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0306-02",
+  "first_page_order": 306,
+  "last_page_order": 306
+}

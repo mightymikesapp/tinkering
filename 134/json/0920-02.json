@@ -1,0 +1,91 @@
+{
+  "id": 12586129,
+  "name": "Richard L. HARRINGTON, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Harrington v. Washington",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137054.",
+  "first_page": "920",
+  "last_page": "920",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 920"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 796"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 5342494",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "170 Wash.App. 1025",
+      "category": "reporters:state",
+      "reporter": "Wash. App.",
+      "case_ids": [
+        4030720,
+        4033254,
+        4029879
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/wash-app/170/1025-03",
+        "/wash-app/170/1025-01",
+        "/wash-app/170/1025-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 254,
+    "sha256": "44ba2b773bfe702b3e93c3503999fdf3d6f2011133500914e8399955face048e",
+    "simhash": "1:e8e70140e3c1a59c",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard L. HARRINGTON, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 2, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard L. HARRINGTON, petitioner,\nv.\nWASHINGTON.\nNo. 13-7054.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 170 Wash.App. 1025, 2012 WL 5342494.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 2, denied."
+  },
+  "file_name": "0920-02",
+  "first_page_order": 920,
+  "last_page_order": 920
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12578894,
+  "name": "Stanley Price PARSON, aka Stanley Price Perrin, petitioner, v. TEXAS.",
+  "name_abbreviation": "Parson v. Texas",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310564.",
+  "first_page": "134",
+  "last_page": "134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 134"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 95"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "392 S.W.3d 809",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7095519
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/392/0809-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 255,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26325202743480414
+    },
+    "sha256": "c286cf6f48e603a5a21336eff7294f7b66e485eb637d61c8a462f9196ab7cd08",
+    "simhash": "1:194d6217526189b8",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stanley Price PARSON, aka Stanley Price Perrin, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Eleventh District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stanley Price PARSON, aka Stanley Price Perrin, petitioner,\nv.\nTEXAS.\nNo. 12-10564.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 392 S.W.3d 809.\nPetition for writ of certiorari to the Court of Appeals of Texas, Eleventh District, denied."
+  },
+  "file_name": "0134-03",
+  "first_page_order": 134,
+  "last_page_order": 134
+}

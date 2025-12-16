@@ -1,0 +1,85 @@
+{
+  "id": 12584923,
+  "name": "Joseph TRUESDELL, petitioner, v. NEVADA.",
+  "name_abbreviation": "Truesdell v. Nevada",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136696.",
+  "first_page": "651",
+  "last_page": "651",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 651"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 430"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "304 P.3d 396",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "case_ids": [
+        12411005
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nev/129/0194-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 202,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634533905258569
+    },
+    "sha256": "c6f3804a80a0c11147e2e82065f78a470fd3138646ee71cbfe8bab24f6bc78eb",
+    "simhash": "1:4c871444b2e5071c",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph TRUESDELL, petitioner,\nv.\nNEVADA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Nevada denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph TRUESDELL, petitioner,\nv.\nNEVADA.\nNo. 13-6696.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 304 P.3d 396.\nPetition for writ of certiorari to the Supreme Court of Nevada denied."
+  },
+  "file_name": "0651-02",
+  "first_page_order": 651,
+  "last_page_order": 651
+}

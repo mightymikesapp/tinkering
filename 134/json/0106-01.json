@@ -1,0 +1,81 @@
+{
+  "id": 12578250,
+  "name": "James LATTIMORE, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Lattimore v. Massachusetts",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310353.",
+  "first_page": "106",
+  "last_page": "106",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 106"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 77"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "978 N.E.2d 106",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "82 Mass.App.Ct. 1121",
+      "category": "reporters:state",
+      "reporter": "Mass. App. Ct.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 239,
+    "sha256": "c0cd438675c6b9897b10e12604cfad321207064feabee8a5867e05b471d7b8df",
+    "simhash": "1:618ff25c7dbf83a5",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James LATTIMORE, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appeals Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "James LATTIMORE, petitioner,\nv.\nMASSACHUSETTS.\nNo. 12-10353.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 82 Mass.App.Ct. 1121, 978 N.E.2d 106.\nPetition for writ of certiorari to the Appeals Court of Massachusetts denied."
+  },
+  "file_name": "0106-01",
+  "first_page_order": 106,
+  "last_page_order": 106
+}

@@ -1,0 +1,86 @@
+{
+  "id": 12584685,
+  "name": "BIG SKY COLONY, INC., et al., petitioners, v. MONTANA DEPARTMENT OF LABOR AND INDUSTRY.",
+  "name_abbreviation": "Big Sky Colony, Inc. v. Mont. Dep't of Labor & Indus.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131191.",
+  "first_page": "59",
+  "last_page": "59",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 59"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 26"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "368 Mont. 66",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        3757989
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/mont/368/0066-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 264,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26344412357631664
+    },
+    "sha256": "0b4bfada3de0b54f0069e4d51f39460313027300d10c52e1186c9e9df3c4923b",
+    "simhash": "1:60e7501c78b2141b",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BIG SKY COLONY, INC., et al., petitioners,\nv.\nMONTANA DEPARTMENT OF LABOR AND INDUSTRY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Montana denied."
+    ],
+    "corrections": "",
+    "head_matter": "BIG SKY COLONY, INC., et al., petitioners,\nv.\nMONTANA DEPARTMENT OF LABOR AND INDUSTRY.\nNo. 12-1191.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 368 Mont. 66, 291 P.3d 1231.\nPetition for writ of certiorari to the Supreme Court of Montana denied."
+  },
+  "file_name": "0059-05",
+  "first_page_order": 59,
+  "last_page_order": 59
+}

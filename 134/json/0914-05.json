@@ -1,0 +1,75 @@
+{
+  "id": 12586093,
+  "name": "Patricia Ann PERRY, petitioner, v. SOUTHERN WINE & SPIRITS, et al.",
+  "name_abbreviation": "Perry v. Wine",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013506.",
+  "first_page": "914",
+  "last_page": "914",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 914"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 780"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "511 Fed.Appx. 888",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 264,
+    "sha256": "638a0f701bcd631291b6e84015fb172c25c29f84ecd194385bc8d217a2a0ad5c",
+    "simhash": "1:e2af34e476415617",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patricia Ann PERRY, petitioner,\nv.\nSOUTHERN WINE & SPIRITS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patricia Ann PERRY, petitioner,\nv.\nSOUTHERN WINE & SPIRITS, et al.\nNo. 13-506.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 511 Fed.Appx. 888.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0914-05",
+  "first_page_order": 914,
+  "last_page_order": 914
+}

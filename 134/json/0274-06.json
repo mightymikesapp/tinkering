@@ -1,0 +1,75 @@
+{
+  "id": 12582419,
+  "name": "Luther S. RYALS, Jr., petitioner, v. MONTGOMERY COUNTY, PENNSYLVANIA, et al.",
+  "name_abbreviation": "Ryals v. Montgomery Cnty.",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135346.",
+  "first_page": "274",
+  "last_page": "274",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 274"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 198"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "515 Fed.Appx. 75",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 270,
+    "sha256": "737fc7c510f54d20d9b5a3ca957ef87ecb9519ecc2ba0a33984459642650f167",
+    "simhash": "1:333d06402b4452b1",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luther S. RYALS, Jr., petitioner,\nv.\nMONTGOMERY COUNTY, PENNSYLVANIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Luther S. RYALS, Jr., petitioner,\nv.\nMONTGOMERY COUNTY, PENNSYLVANIA, et al.\nNo. 13-5346.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 515 Fed.Appx. 75.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0274-06",
+  "first_page_order": 274,
+  "last_page_order": 274
+}

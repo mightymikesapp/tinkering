@@ -1,0 +1,75 @@
+{
+  "id": 12581301,
+  "name": "Michael BELL, petitioner, v. Pam BONDI, Attorney General of Florida, et al.",
+  "name_abbreviation": "Bell v. Bondi",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20138415.",
+  "first_page": "2290",
+  "last_page": "2290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2290"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 179"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3672"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "461 Fed.Appx. 843",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 273,
+    "sha256": "22fc3b66c3c018d4461d313c4782ea41a6a216bd6e82b9055305b19973674855",
+    "simhash": "1:73eed08e3945d517",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael BELL, petitioner,\nv.\nPam BONDI, Attorney General of Florida, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael BELL, petitioner,\nv.\nPam BONDI, Attorney General of Florida, et al.\nNo. 13-8415.\nSupreme Court of the United States\nMay 19, 2014.\nCase below, 461 Fed.Appx. 843.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2290-04",
+  "first_page_order": 2290,
+  "last_page_order": 2290
+}

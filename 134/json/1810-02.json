@@ -1,0 +1,103 @@
+{
+  "id": 12580223,
+  "name": "In re Ulysses T. WARE, petitioner.",
+  "name_abbreviation": "In re Ware",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20137937.",
+  "first_page": "1810",
+  "last_page": "1810",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1810"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 773"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3586"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1315",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578660,
+        12578661,
+        12578662,
+        12578663,
+        12578664,
+        12578665,
+        12701226,
+        12701551,
+        12701552,
+        12701553,
+        12701562,
+        12701278
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1315-01",
+        "/s-ct/134/1315-02",
+        "/s-ct/134/1315-03",
+        "/s-ct/134/1315-04",
+        "/s-ct/134/1315-05",
+        "/s-ct/134/1315-06",
+        "/us/571/1190-04",
+        "/us/571/1215-03",
+        "/us/571/1215-04",
+        "/us/571/1215-05",
+        "/us/571/1216-07",
+        "/us/571/1195-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 245,
+    "sha256": "3ee8007e7a6082cfb78723559504a7626a9e722581f05ecafa2f013dc6654076",
+    "simhash": "1:8b3e7e82742f5d4e",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Ulysses T. WARE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Ulysses T. WARE, petitioner.\nNo. 13-7937.\nSupreme Court of the United States\nApril 7, 2014.\nFormer decision, 134 S.Ct. 1315.\nPetition for rehearing denied.\nJustice SOTOMAYOR took no part in the consideration or decision of this petition."
+  },
+  "file_name": "1810-02",
+  "first_page_order": 1810,
+  "last_page_order": 1810
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12579732,
+  "name": "Angela S. LAFONTA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lafonta v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20137390.",
+  "first_page": "1578",
+  "last_page": "1578",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1578"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 585"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 945",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700608,
+        12700609,
+        12700610,
+        12700773,
+        12586291,
+        12586292,
+        12586293,
+        12586294,
+        12586295,
+        12586296,
+        12700606,
+        12700607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1145-11",
+        "/us/571/1145-12",
+        "/us/571/1145-13",
+        "/us/571/1157-06",
+        "/s-ct/134/0945-01",
+        "/s-ct/134/0945-02",
+        "/s-ct/134/0945-03",
+        "/s-ct/134/0945-04",
+        "/s-ct/134/0945-05",
+        "/s-ct/134/0945-06",
+        "/us/571/1145-09",
+        "/us/571/1145-10"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 176,
+    "sha256": "96129ef8629927ba8f57705926e83e5789962427f863ae860ad9db1d297368fa",
+    "simhash": "1:048d3643968ee29a",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Angela S. LAFONTA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Angela S. LAFONTA, petitioner,\nv.\nUNITED STATES.\nNo. 13-7390.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 945\nPetition for rehearing denied."
+  },
+  "file_name": "1578-06",
+  "first_page_order": 1578,
+  "last_page_order": 1578
+}

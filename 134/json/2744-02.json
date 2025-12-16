@@ -1,0 +1,85 @@
+{
+  "id": 12582378,
+  "name": "Dean Earl WILKENS, petitioner, v. UNITED STATES",
+  "name_abbreviation": "Wilkens v. United States",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u201310140.",
+  "first_page": "2744",
+  "last_page": "2744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2744"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 778"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "742 F.3d 354",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4071026
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/742/0354-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 239,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633719185944818
+    },
+    "sha256": "4e7c0de31a9bbce930838d2db2c4f5a0f48423c8d0a1890c2fd5af8326e8f578",
+    "simhash": "1:732d76476f270601",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dean Earl WILKENS, petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dean Earl WILKENS, petitioner,\nv.\nUNITED STATES\nNo. 13-10140.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 742 F.3d 354.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "2744-02",
+  "first_page_order": 2744,
+  "last_page_order": 2744
+}

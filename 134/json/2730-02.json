@@ -1,0 +1,73 @@
+{
+  "id": 12582286,
+  "name": "Michael SMART, petitioner, v. NEW JERSEY.",
+  "name_abbreviation": "Smart v. Newjersey",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20139532.",
+  "first_page": "2730",
+  "last_page": "2730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2730"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 770"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 2450093",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 231,
+    "sha256": "3005cf57c0b2b9e6168548fe8062c81a562a3cc7943c1ab2333e185904f5c315",
+    "simhash": "1:e0e35256fa8f6592",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael SMART, petitioner,\nv.\nNEW JERSEY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael SMART, petitioner,\nv.\nNEW JERSEY.\nNo. 13-9532.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 2013 WL 2450093.\nPetition for writ of certiorari to the Superior Court of New Jersey, Appellate Division, denied."
+  },
+  "file_name": "2730-02",
+  "first_page_order": 2730,
+  "last_page_order": 2730
+}

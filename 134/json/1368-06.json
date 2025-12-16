@@ -1,0 +1,103 @@
+{
+  "id": 12579018,
+  "name": "Paul DAVIS, petitioner, v. CITY OF ST. LOUIS, MISSOURI, et al.",
+  "name_abbreviation": "Davis v. City of St. Louis",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136476.",
+  "first_page": "1368",
+  "last_page": "1368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1368"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 365"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 689",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699777,
+        12585169,
+        12585170,
+        12585171,
+        12585172,
+        12585173,
+        12585174,
+        12699575,
+        12699633,
+        12699634,
+        12699635,
+        12699547
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1086-07",
+        "/s-ct/134/0689-01",
+        "/s-ct/134/0689-02",
+        "/s-ct/134/0689-03",
+        "/s-ct/134/0689-04",
+        "/s-ct/134/0689-05",
+        "/s-ct/134/0689-06",
+        "/us/571/1072-11",
+        "/us/571/1076-13",
+        "/us/571/1076-14",
+        "/us/571/1076-15",
+        "/us/571/1070-09"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 190,
+    "sha256": "888b0d987e3955927de30ed1784517a284ddcfbc0d324db7121e1cc0b6f5cc02",
+    "simhash": "1:60241e8699dd7f2f",
+    "word_count": 31
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul DAVIS, petitioner,\nv.\nCITY OF ST. LOUIS, MISSOURI, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul DAVIS, petitioner,\nv.\nCITY OF ST. LOUIS, MISSOURI, et al.\nNo. 13-6476.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 689.\nPetition for rehearing denied."
+  },
+  "file_name": "1368-06",
+  "first_page_order": 1368,
+  "last_page_order": 1368
+}

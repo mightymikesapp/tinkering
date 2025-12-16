@@ -1,0 +1,85 @@
+{
+  "id": 12580707,
+  "name": "Maurice A. MASON, petitioner, v. Rod B. JOHNSON, Warden.",
+  "name_abbreviation": "Mason v. Johnson",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20138148.",
+  "first_page": "1937",
+  "last_page": "1937",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1937"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 964"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "729 F.3d 545",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3699972
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/729/0545-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 248,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633103319923285
+    },
+    "sha256": "f4116da671001a8c87714589887385b6614d7cb6bc580c3298406de07608d154",
+    "simhash": "1:f62746061cc41221",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Maurice A. MASON, petitioner,\nv.\nRod B. JOHNSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Maurice A. MASON, petitioner,\nv.\nRod B. JOHNSON, Warden.\nNo. 13-8148.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 729 F.3d 545.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1937-03",
+  "first_page_order": 1937,
+  "last_page_order": 1937
+}

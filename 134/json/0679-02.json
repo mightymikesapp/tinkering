@@ -1,0 +1,75 @@
+{
+  "id": 12585105,
+  "name": "Joan A. DEMAREST, petitioner, v. OCWEN LOAN SERVICING, LLC, et al.",
+  "name_abbreviation": "Demarest v. Ocwen Loan Servicing, LLC",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 12\u201310134.",
+  "first_page": "679",
+  "last_page": "679",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 679"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 548"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "481 Fed.Appx. 352",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 262,
+    "sha256": "1a8e872dba2859495caf4ec3c4b558359f5aed569e194c7ba2ad34ff17e2fe05",
+    "simhash": "1:7207f2443fc5138a",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joan A. DEMAREST, petitioner,\nv.\nOCWEN LOAN SERVICING, LLC, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joan A. DEMAREST, petitioner,\nv.\nOCWEN LOAN SERVICING, LLC, et al.\nNo. 12-10134.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 481 Fed.Appx. 352.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0679-02",
+  "first_page_order": 679,
+  "last_page_order": 679
+}

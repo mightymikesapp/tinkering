@@ -1,0 +1,75 @@
+{
+  "id": 12586169,
+  "name": "Taharga MOTT, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Mott v. Massachusetts",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137138.",
+  "first_page": "926",
+  "last_page": "926",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 926"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 800"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "987 N.E.2d 620",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 214,
+    "sha256": "3346e245127ba8cb81735f32b856c0606081debaf418ef24d92ef5a34708e1d2",
+    "simhash": "1:28cf7296d6d180b0",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Taharga MOTT, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appeals Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Taharga MOTT, petitioner,\nv.\nMASSACHUSETTS.\nNo. 13-7138.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 987 N.E.2d 620.\nPetition for writ of certiorari to the Appeals Court of Massachusetts denied."
+  },
+  "file_name": "0926-06",
+  "first_page_order": 926,
+  "last_page_order": 926
+}

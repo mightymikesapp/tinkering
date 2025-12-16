@@ -1,0 +1,85 @@
+{
+  "id": 12579975,
+  "name": "Hanjuan JIN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jin v. United States",
+  "decision_date": "2014-03-31",
+  "docket_number": "No. 13\u20138836.",
+  "first_page": "1773",
+  "last_page": "1773",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1773"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 603"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "733 F.3d 718",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3715184
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/733/0718-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26328774380282405
+    },
+    "sha256": "a3f13387f4ae77624c7f3363e9331a5d33b11a37f258874c54fcc92c104fdf44",
+    "simhash": "1:d12e6647bb2e9281",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hanjuan JIN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Hanjuan JIN, petitioner,\nv.\nUNITED STATES.\nNo. 13-8836.\nSupreme Court of the United States\nMarch 31, 2014.\nCase below, 733 F.3d 718.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1773-01",
+  "first_page_order": 1773,
+  "last_page_order": 1773
+}

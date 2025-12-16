@@ -1,0 +1,103 @@
+{
+  "id": 12579016,
+  "name": "Richard Raymus RONDENO, petitioner, v. The LAW OFFICE OF WILLIAM S. VINCENT, JR., et al.",
+  "name_abbreviation": "Rondeno v. Law Office of William S. Vincent",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136392.",
+  "first_page": "1368",
+  "last_page": "1368",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1368"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 365"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 684",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12699776,
+        3664389,
+        12699596,
+        12699565,
+        12699570,
+        12699571,
+        12585140,
+        12585141,
+        12585142,
+        12585143,
+        12585144,
+        12699775
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1086-06",
+        "/br/502/0684-01",
+        "/us/571/1074-05",
+        "/us/571/1072-05",
+        "/us/571/1072-06",
+        "/us/571/1072-07",
+        "/s-ct/134/0684-01",
+        "/s-ct/134/0684-02",
+        "/s-ct/134/0684-03",
+        "/s-ct/134/0684-04",
+        "/s-ct/134/0684-05",
+        "/us/571/1086-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 216,
+    "sha256": "1572e87a015422cbab142baa9b64fd75b6a7e5e587dfa2aee38683e5718d8934",
+    "simhash": "1:63b37e0c96c5516a",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard Raymus RONDENO, petitioner,\nv.\nThe LAW OFFICE OF WILLIAM S. VINCENT, JR., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard Raymus RONDENO, petitioner,\nv.\nThe LAW OFFICE OF WILLIAM S. VINCENT, JR., et al.\nNo. 13-6392.\nSupreme Court of the United States\nFeb. 24, 2014.\nFormer decision, 134 S.Ct. 684.\nPetition for rehearing denied."
+  },
+  "file_name": "1368-04",
+  "first_page_order": 1368,
+  "last_page_order": 1368
+}

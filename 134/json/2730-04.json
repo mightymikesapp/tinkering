@@ -1,0 +1,86 @@
+{
+  "id": 12582288,
+  "name": "Andre COLLIER, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Collier v. Newyork",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20139537.",
+  "first_page": "2730",
+  "last_page": "2730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2730"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 770"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "22 N.Y.3d 429",
+      "category": "reporters:state",
+      "reporter": "N.Y.3d",
+      "case_ids": [
+        4293561
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/ny3d/22/0429-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 235,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633680573655066
+    },
+    "sha256": "83722a3a5cbeb3ce93a845a2edf593b8a0386cd65d3072f9c92e4aeed01f3466",
+    "simhash": "1:7f2d1240a2d1c5c9",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andre COLLIER, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andre COLLIER, petitioner,\nv.\nNEW YORK.\nNo. 13-9537.\nSupreme Court of the United States\nJune 9, 2014.\nCase below, 22 N.Y.3d 429, 982 N.Y.S.2d 34, 5 N.E.3d 5.\nPetition for writ of certiorari to the Court of Appeals of New York denied."
+  },
+  "file_name": "2730-04",
+  "first_page_order": 2730,
+  "last_page_order": 2730
+}

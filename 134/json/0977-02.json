@@ -1,0 +1,85 @@
+{
+  "id": 12586499,
+  "name": "Craig Michael NASH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Nash v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137696.",
+  "first_page": "977",
+  "last_page": "977",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 977"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 830"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "729 F.3d 400",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3700398
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/729/0400-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 240,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26350841303875244
+    },
+    "sha256": "b3c49f6b9a455277e3b45f8ce42f6ee0a6f28c3f702066f12faedd41b699c631",
+    "simhash": "1:f6ae56442401d290",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Craig Michael NASH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Craig Michael NASH, petitioner,\nv.\nUNITED STATES.\nNo. 13-7696.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 729 F.3d 400.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0977-02",
+  "first_page_order": 977,
+  "last_page_order": 977
+}

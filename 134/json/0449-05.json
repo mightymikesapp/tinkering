@@ -1,0 +1,85 @@
+{
+  "id": 12583990,
+  "name": "Daniel L. DELANEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Delaney v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136134.",
+  "first_page": "449",
+  "last_page": "449",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 449"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 301"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "717 F.3d 553",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3576607
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/717/0553-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634217284482609
+    },
+    "sha256": "4497835ceb9c652fcb695ec902b586343f369db327a13879197e1e2b4915b99a",
+    "simhash": "1:41ef6641382fc631",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel L. DELANEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel L. DELANEY, petitioner,\nv.\nUNITED STATES.\nNo. 13-6134.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 717 F.3d 553.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0449-05",
+  "first_page_order": 449,
+  "last_page_order": 449
+}

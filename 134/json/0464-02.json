@@ -1,0 +1,75 @@
+{
+  "id": 12584091,
+  "name": "Martin R. VANDEMERWE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Vandemerwe v. United States",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136294.",
+  "first_page": "464",
+  "last_page": "464",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 464"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 310"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "527 Fed.Appx. 745",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 247,
+    "sha256": "e9f7e40876e37a77ddfac02b97d44910fac904883dbeeb4a7c135adec0f9683f",
+    "simhash": "1:0f2c66c2320780b1",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Martin R. VANDEMERWE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Martin R. VANDEMERWE, petitioner,\nv.\nUNITED STATES.\nNo. 13-6294.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 527 Fed.Appx. 745.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0464-02",
+  "first_page_order": 464,
+  "last_page_order": 464
+}

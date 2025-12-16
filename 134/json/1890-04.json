@@ -1,0 +1,75 @@
+{
+  "id": 12580394,
+  "name": "Joel CHAVEZ, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Chavez v. Illinois",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138774.",
+  "first_page": "1890",
+  "last_page": "1890",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1890"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 924"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 2444218",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 225,
+    "sha256": "77b7f1a20660e2d91732d0fe577fbe5999b19e94fedc15e5ee0509aadf22e681",
+    "simhash": "1:e0e7f6465a0085b3",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joel CHAVEZ, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Second District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joel CHAVEZ, petitioner,\nv.\nILLINOIS.\nNo. 13-8774.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 2013 WL 2444218.\nPetition for writ of certiorari to the Appellate Court of Illinois, Second District, denied."
+  },
+  "file_name": "1890-04",
+  "first_page_order": 1890,
+  "last_page_order": 1890
+}

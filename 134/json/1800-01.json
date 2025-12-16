@@ -1,0 +1,85 @@
+{
+  "id": 12580155,
+  "name": "Harry HUMPHRIES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Humphries v. United States",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138932.",
+  "first_page": "1800",
+  "last_page": "1800",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1800"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 766"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "728 F.3d 1028",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3696810
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/728/1028-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632925703390429
+    },
+    "sha256": "f449d705d8d1758e8a4cffbda000744d6955868b3c969056f10b6d06d163a281",
+    "simhash": "1:f1ad62c6ad255405",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harry HUMPHRIES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Harry HUMPHRIES, petitioner,\nv.\nUNITED STATES.\nNo. 13-8932.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 728 F.3d 1028.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1800-01",
+  "first_page_order": 1800,
+  "last_page_order": 1800
+}

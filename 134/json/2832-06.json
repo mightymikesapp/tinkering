@@ -1,0 +1,68 @@
+{
+  "id": 12582568,
+  "name": "In re Carel A. PRATER, petitioner.",
+  "name_abbreviation": "In re Prater",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. 13\u201310236.",
+  "first_page": "2832",
+  "last_page": "2832",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2832"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 798"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3719"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 143,
+    "sha256": "5efe09c994375f206c1de914ed7e30e335ddc77cf9d88ae426ad24c76878a8bb",
+    "simhash": "1:78ab205e7fd54f61",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Carel A. PRATER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Carel A. PRATER, petitioner.\nNo. 13-10236.\nSupreme Court of the United States\nJune 16, 2014.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2832-06",
+  "first_page_order": 2832,
+  "last_page_order": 2832
+}

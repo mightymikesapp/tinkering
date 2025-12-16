@@ -1,0 +1,85 @@
+{
+  "id": 12586280,
+  "name": "Keith Brian DONNELL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Donnell v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137364.",
+  "first_page": "943",
+  "last_page": "943",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 943"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 810"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "726 F.3d 1054",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073832
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/726/1054-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635012697651485
+    },
+    "sha256": "4f8c89e6690246ae7e07c5f8e1e5214a840fdaf44a3ead9b5e5a5bf4f86a34d5",
+    "simhash": "1:dbae7646200511b0",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keith Brian DONNELL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Keith Brian DONNELL, petitioner,\nv.\nUNITED STATES.\nNo. 13-7364.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 726 F.3d 1054.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0943-03",
+  "first_page_order": 943,
+  "last_page_order": 943
+}

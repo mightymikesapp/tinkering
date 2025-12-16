@@ -1,0 +1,85 @@
+{
+  "id": 12583549,
+  "name": "Yufeng WEI, aka Annie Wei, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Wei v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u2013270.",
+  "first_page": "365",
+  "last_page": "365",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 365"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 160"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "711 F.3d 1",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3803202
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/711/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 243,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26340995169988674
+    },
+    "sha256": "a3f99b8255922536c156849db09bb1cb0c0db722ea1f494caff28aaa23a86f63",
+    "simhash": "1:a16d6644126714bd",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Yufeng WEI, aka Annie Wei, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Yufeng WEI, aka Annie Wei, petitioner,\nv.\nUNITED STATES.\nNo. 13-270.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 711 F.3d 1.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0365-02",
+  "first_page_order": 365,
+  "last_page_order": 365
+}

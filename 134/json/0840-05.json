@@ -1,0 +1,103 @@
+{
+  "id": 12585912,
+  "name": "Dwight L. ALLEN, petitioner, v. Dennis AVANCE.",
+  "name_abbreviation": "Allen v. Avance",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135433.",
+  "first_page": "840",
+  "last_page": "840",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 840"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 697"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 288",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703648,
+        12582945,
+        12582946,
+        12582947,
+        12582948,
+        12582949,
+        12582950,
+        12703657,
+        12703658,
+        12703645,
+        12703646,
+        12703647
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0915-04",
+        "/s-ct/134/0288-01",
+        "/s-ct/134/0288-02",
+        "/s-ct/134/0288-03",
+        "/s-ct/134/0288-04",
+        "/s-ct/134/0288-05",
+        "/s-ct/134/0288-06",
+        "/us/571/0915-14",
+        "/us/571/0915-15",
+        "/us/571/0915-01",
+        "/us/571/0915-02",
+        "/us/571/0915-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 174,
+    "sha256": "ac5eb46604319050921fcc8b006eabd032a0d0e408a8271fe3454c8f6e4c6ab5",
+    "simhash": "1:a23f7c4236aee60f",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwight L. ALLEN, petitioner,\nv.\nDennis AVANCE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dwight L. ALLEN, petitioner,\nv.\nDennis AVANCE.\nNo. 13-5433.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 288.\nPetition for rehearing denied."
+  },
+  "file_name": "0840-05",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

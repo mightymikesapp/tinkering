@@ -1,0 +1,85 @@
+{
+  "id": 12580689,
+  "name": "IOWA, petitioner, v. Leon KOOIMA.",
+  "name_abbreviation": "Iowa v. Kooima",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u2013393.",
+  "first_page": "1934",
+  "last_page": "1934",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1934"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 959"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3629"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "833 N.W.2d 202",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "case_ids": [
+        7057677
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/nw2d/833/0202-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 195,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633076291320459
+    },
+    "sha256": "b743108c209b1dfcf94d8e087796ab31584ce718b429fbc5c5f37defaa90a084",
+    "simhash": "1:604760c4ba437011",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IOWA, petitioner,\nv.\nLeon KOOIMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Iowa denied."
+    ],
+    "corrections": "",
+    "head_matter": "IOWA, petitioner,\nv.\nLeon KOOIMA.\nNo. 13-393.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 833 N.W.2d 202.\nPetition for writ of certiorari to the Supreme Court of Iowa denied."
+  },
+  "file_name": "1934-02",
+  "first_page_order": 1934,
+  "last_page_order": 1934
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12579846,
+  "name": "Ryan HOLNESS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Holness v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310768.",
+  "first_page": "169",
+  "last_page": "170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 169"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 117"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "706 F.3d 579",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6048512
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/706/0579-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 235,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26328060052922003
+    },
+    "sha256": "bc6e6e7b22c49521889a3c92b254b52b75a642d15f5084c6fafb8bd5169c2b8d",
+    "simhash": "1:532df2543fedc625",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ryan HOLNESS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ryan HOLNESS, petitioner,\nv.\nUNITED STATES.\nNo. 12-10768.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 706 F.3d 579.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0169-07",
+  "first_page_order": 169,
+  "last_page_order": 170
+}

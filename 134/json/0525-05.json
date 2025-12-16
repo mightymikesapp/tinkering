@@ -1,0 +1,85 @@
+{
+  "id": 12584456,
+  "name": "Hans J. RAPOLD, petitioner, v. BAXTER INTERNATIONAL, INC.",
+  "name_abbreviation": "Rapold v. Baxter Int'l, Inc.",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u2013287.",
+  "first_page": "525",
+  "last_page": "525",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 525"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 367"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 602",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4048708
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0602-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 248,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26343369825808377
+    },
+    "sha256": "d568c747e60161ea757bef77d9529711771b3a82a6da6601c396b393eeaf5a1a",
+    "simhash": "1:f56fd2cc33c32614",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hans J. RAPOLD, petitioner,\nv.\nBAXTER INTERNATIONAL, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Hans J. RAPOLD, petitioner,\nv.\nBAXTER INTERNATIONAL, INC.\nNo. 13-287.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 718 F.3d 602.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0525-05",
+  "first_page_order": 525,
+  "last_page_order": 525
+}

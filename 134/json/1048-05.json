@@ -1,0 +1,85 @@
+{
+  "id": 12578182,
+  "name": "Robert GARCIA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Garcia v. United States",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. 13\u20138027.",
+  "first_page": "1048",
+  "last_page": "1048",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1048"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 138"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "703 F.3d 471",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3649861
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/703/0471-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632255780163245
+    },
+    "sha256": "bacdd6610cb77445fc02c1ead17ed51075c52a819244713d9270a96c49fc0ce8",
+    "simhash": "1:e7af6444bb4f979d",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert GARCIA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert GARCIA, petitioner,\nv.\nUNITED STATES.\nNo. 13-8027.\nSupreme Court of the United States\nJan. 27, 2014.\nCase below, 703 F.3d 471.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "1048-05",
+  "first_page_order": 1048,
+  "last_page_order": 1048
+}

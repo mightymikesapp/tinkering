@@ -1,0 +1,103 @@
+{
+  "id": 12585915,
+  "name": "Danny CROMEANS, petitioner, v. ARKANSAS.",
+  "name_abbreviation": "Cromeans v. Arkansas",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135883.",
+  "first_page": "840",
+  "last_page": "840",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 840"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 697"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 476",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12584167,
+        12584168,
+        12584169,
+        12584170,
+        12584171,
+        12584172,
+        12704506,
+        12704507,
+        12704508,
+        12704509,
+        12704510,
+        12704415
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0476-01",
+        "/s-ct/134/0476-02",
+        "/s-ct/134/0476-03",
+        "/s-ct/134/0476-04",
+        "/s-ct/134/0476-05",
+        "/s-ct/134/0476-06",
+        "/us/571/0976-10",
+        "/us/571/0976-11",
+        "/us/571/0976-12",
+        "/us/571/0976-13",
+        "/us/571/0976-14",
+        "/us/571/0970-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 168,
+    "sha256": "50237bf22970bf6a7182ac249b222e7393672a89135b4d4f79145dadbfaea7e0",
+    "simhash": "1:e0a354063f8be386",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Danny CROMEANS, petitioner,\nv.\nARKANSAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Danny CROMEANS, petitioner,\nv.\nARKANSAS.\nNo. 13-5883.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 476.\nPetition for rehearing denied."
+  },
+  "file_name": "0840-08",
+  "first_page_order": 840,
+  "last_page_order": 840
+}

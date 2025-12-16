@@ -1,0 +1,75 @@
+{
+  "id": 12578422,
+  "name": "Jose GUTIERRES-LANDEROS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gutierres-Landeros v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20136851.",
+  "first_page": "1278",
+  "last_page": "1278",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1278"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 312"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "537 Fed.Appx. 319",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 250,
+    "sha256": "f5fa86c0651b9713e0de92979085de71e1e3aa7d6007dfa3dfd059bbda0f38d3",
+    "simhash": "1:a96e54c52e0c5505",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose GUTIERRES-LANDEROS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose GUTIERRES-LANDEROS, petitioner,\nv.\nUNITED STATES.\nNo. 13-6851.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 537 Fed.Appx. 319.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1278-04",
+  "first_page_order": 1278,
+  "last_page_order": 1278
+}

@@ -1,0 +1,107 @@
+{
+  "id": 12585902,
+  "name": "In re Eduardo DE LA CRUZ, petitioner.",
+  "name_abbreviation": "In re La Cruz",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 13\u20135072.",
+  "first_page": "839",
+  "last_page": "839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 839"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 696"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 226",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703328,
+        12703329,
+        12703330,
+        12581260,
+        12581261,
+        12581262,
+        12581263,
+        12581264,
+        12581265,
+        12581266,
+        12703340,
+        12703348,
+        12703349,
+        12702205
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0894-03",
+        "/us/571/0894-04",
+        "/us/571/0894-05",
+        "/s-ct/134/0226-01",
+        "/s-ct/134/0226-02",
+        "/s-ct/134/0226-03",
+        "/s-ct/134/0226-04",
+        "/s-ct/134/0226-05",
+        "/s-ct/134/0226-06",
+        "/s-ct/134/0226-07",
+        "/us/571/0895-08",
+        "/us/571/0895-09",
+        "/us/571/0895-10",
+        "/us/571/0815-13"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 165,
+    "sha256": "9bfc1c57c1c2e148ff95a373c217425c50e3f897ede37bb2bce39ff8f279a400",
+    "simhash": "1:68bf56ce179c7732",
+    "word_count": 27
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Eduardo DE LA CRUZ, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Eduardo DE LA CRUZ, petitioner.\nNo. 13-5072.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 226.\nPetition for rehearing denied."
+  },
+  "file_name": "0839-08",
+  "first_page_order": 839,
+  "last_page_order": 839
+}

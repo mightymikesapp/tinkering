@@ -1,0 +1,103 @@
+{
+  "id": 12586614,
+  "name": "Joseph Glenn JONES, petitioner, v. Earnest LEE, Warden.",
+  "name_abbreviation": "Jones v. Lee",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20136005.",
+  "first_page": "993",
+  "last_page": "993",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 993"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 842"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 480",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12704512,
+        12704513,
+        12704514,
+        12704515,
+        12704516,
+        12584197,
+        12584198,
+        12584199,
+        12584200,
+        12584201,
+        12584202,
+        12704626
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0977-01",
+        "/us/571/0977-02",
+        "/us/571/0977-03",
+        "/us/571/0977-04",
+        "/us/571/0977-05",
+        "/s-ct/134/0480-01",
+        "/s-ct/134/0480-02",
+        "/s-ct/134/0480-03",
+        "/s-ct/134/0480-04",
+        "/s-ct/134/0480-05",
+        "/s-ct/134/0480-06",
+        "/us/571/0984-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 183,
+    "sha256": "e282ffd67b6a5bf213f10d1314d0c64d036f8052c1a2aea32c7de6760072e236",
+    "simhash": "1:e927064414848730",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph Glenn JONES, petitioner,\nv.\nEarnest LEE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph Glenn JONES, petitioner,\nv.\nEarnest LEE, Warden.\nNo. 13-6005.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 480.\nPetition for rehearing denied."
+  },
+  "file_name": "0993-06",
+  "first_page_order": 993,
+  "last_page_order": 993
+}

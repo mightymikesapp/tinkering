@@ -1,0 +1,85 @@
+{
+  "id": 12582002,
+  "name": "Tony PATTERSON, Warden, et al., petitioners, v. Ricky ADKINS.",
+  "name_abbreviation": "Patterson v. Adkins",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u201385.",
+  "first_page": "268",
+  "last_page": "268",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 268"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 260"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "710 F.3d 1241",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3550600
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/710/1241-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 322,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633578251087226
+    },
+    "sha256": "fbd53d4d3e7dfdab06fd2f9006f0c80c777e2643bc7a828ad4222459e6a7fbeb",
+    "simhash": "1:49ade64d75458619",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tony PATTERSON, Warden, et al., petitioners,\nv.\nRicky ADKINS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tony PATTERSON, Warden, et al., petitioners,\nv.\nRicky ADKINS.\nNo. 13-85.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 710 F.3d 1241.\nMotion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0268-01",
+  "first_page_order": 268,
+  "last_page_order": 268
+}

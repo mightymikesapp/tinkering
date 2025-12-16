@@ -1,0 +1,75 @@
+{
+  "id": 12580098,
+  "name": "William David GOLDEN, petitioner, v. Janet Sue GOLDEN.",
+  "name_abbreviation": "Golden v. Golden",
+  "decision_date": "2014-04-07",
+  "docket_number": "No. 13\u20138463.",
+  "first_page": "1791",
+  "last_page": "1791",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1791"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 761"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 485764",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 237,
+    "sha256": "360bc49ca912909a463d19f2296a6b9ba407bc02798530b35b82ff6a0158ee88",
+    "simhash": "1:e83d6202f4c11439",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William David GOLDEN, petitioner,\nv.\nJanet Sue GOLDEN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "William David GOLDEN, petitioner,\nv.\nJanet Sue GOLDEN.\nNo. 13-8463.\nSupreme Court of the United States\nApril 7, 2014.\nCase below, 2013 WL 485764.\nPetition for writ of certiorari to the Court of Appeals of Texas, First District, denied."
+  },
+  "file_name": "1791-06",
+  "first_page_order": 1791,
+  "last_page_order": 1791
+}

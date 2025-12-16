@@ -1,0 +1,97 @@
+{
+  "id": 12578238,
+  "name": "In the Matter of DISBARMENT OF Joseph Louis LISONI.",
+  "name_abbreviation": "In re Lisoni",
+  "decision_date": "2014-01-27",
+  "docket_number": "No. D\u20132733.",
+  "first_page": "1056",
+  "last_page": "1056",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1056"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 554",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12584640,
+        12584641,
+        12584642,
+        12584643,
+        12584644,
+        12584645,
+        12704641,
+        12704642,
+        12704643,
+        12704644,
+        12704772,
+        12704786
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0554-01",
+        "/s-ct/134/0554-02",
+        "/s-ct/134/0554-03",
+        "/s-ct/134/0554-04",
+        "/s-ct/134/0554-05",
+        "/s-ct/134/0554-06",
+        "/us/571/0987-01",
+        "/us/571/0987-02",
+        "/us/571/0987-03",
+        "/us/571/0987-04",
+        "/us/571/0996-06",
+        "/us/571/0997-05"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 173,
+    "sha256": "ad31acae93913ff12dd8e57456787409d476641578c7bdbe5212b02315ddc692",
+    "simhash": "1:602364963240fe6c",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Joseph Louis LISONI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Joseph Louis LISONI.\nNo. D-2733.\nSupreme Court of the United States\nJan. 27, 2014.\nFormer decision, 134 S.Ct. 554.\nDisbarment order entered."
+  },
+  "file_name": "1056-05",
+  "first_page_order": 1056,
+  "last_page_order": 1056
+}

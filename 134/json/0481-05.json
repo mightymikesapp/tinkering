@@ -1,0 +1,75 @@
+{
+  "id": 12584207,
+  "name": "Paul DOWELL, petitioner, v. KENTUCKY.",
+  "name_abbreviation": "Dowell v. Kentuchy",
+  "decision_date": "2013-10-21",
+  "docket_number": "No. 13\u20136181.",
+  "first_page": "481",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 481"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 325"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2012 WL 2628068",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 207,
+    "sha256": "25a76c969961621b6a97e4de56a38eac2f1ec32109708ba485c34072b7dccf72",
+    "simhash": "1:f83d621035e7c0f7",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul DOWELL, petitioner,\nv.\nKENTUCKY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Kentucky denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul DOWELL, petitioner,\nv.\nKENTUCKY.\nNo. 13-6181.\nSupreme Court of the United States\nOct. 21, 2013.\nCase below, 2012 WL 2628068.\nPetition for writ of certiorari to the Court of Appeals of Kentucky denied."
+  },
+  "file_name": "0481-05",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

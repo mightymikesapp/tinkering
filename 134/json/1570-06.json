@@ -1,0 +1,85 @@
+{
+  "id": 12579679,
+  "name": "Guadalupe ALCANTAR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Alcantar v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138792.",
+  "first_page": "1570",
+  "last_page": "1570",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1570"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 579"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "733 F.3d 143",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3714677
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/733/0143-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 241,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26327654623879615
+    },
+    "sha256": "f8ed7eb39f8bba9d785b9007ca28757a0b943103f96760b2e35f1244444fb813",
+    "simhash": "1:f1ef66453a8dd397",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Guadalupe ALCANTAR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Guadalupe ALCANTAR, petitioner,\nv.\nUNITED STATES.\nNo. 13-8792.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 733 F.3d 143.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1570-06",
+  "first_page_order": 1570,
+  "last_page_order": 1570
+}

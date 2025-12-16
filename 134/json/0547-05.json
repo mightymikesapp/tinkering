@@ -1,0 +1,75 @@
+{
+  "id": 12584598,
+  "name": "Robert V. JUSTICE, petitioner, v. INTERNAL REVENUE SERVICE.",
+  "name_abbreviation": "In re Robert V. Justice",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u2013427.",
+  "first_page": "547",
+  "last_page": "547",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 547"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 370"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "485 Fed.Appx. 439",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 268,
+    "sha256": "93c90a30867e9bd852022a18c1bbcb366f39c408c44c643e440939d73252d1c5",
+    "simhash": "1:5b4feec43b4d87e3",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert V. JUSTICE, petitioner,\nv.\nINTERNAL REVENUE SERVICE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert V. JUSTICE, petitioner,\nv.\nINTERNAL REVENUE SERVICE.\nNo. 13-427.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 485 Fed.Appx. 439.\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "0547-05",
+  "first_page_order": 547,
+  "last_page_order": 547
+}

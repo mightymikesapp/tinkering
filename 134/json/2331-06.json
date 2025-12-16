@@ -1,0 +1,103 @@
+{
+  "id": 12581569,
+  "name": "Virgil BREEDEN, Jr., petitioner, v. MISSISSIPPI.",
+  "name_abbreviation": "Breeden v. Mississippi",
+  "decision_date": "2014-05-19",
+  "docket_number": "No. 13\u20138377.",
+  "first_page": "2331",
+  "last_page": "2331",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2331"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 204"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3674"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1763",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12705317,
+        12579910,
+        12579911,
+        12579912,
+        12579913,
+        12579914,
+        12579915,
+        12705318,
+        12705319,
+        12705326,
+        12705305,
+        12705306
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1036-14",
+        "/s-ct/134/1763-01",
+        "/s-ct/134/1763-02",
+        "/s-ct/134/1763-03",
+        "/s-ct/134/1763-04",
+        "/s-ct/134/1763-05",
+        "/s-ct/134/1763-06",
+        "/us/572/1036-15",
+        "/us/572/1037-07",
+        "/us/572/1037-08",
+        "/us/572/1036-01",
+        "/us/572/1036-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 176,
+    "sha256": "a1a860e2dc7265bbea17a8a3d162a05adfea13fa35b8d6d0107da5587ac93f7a",
+    "simhash": "1:50be101603daf48b",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Virgil BREEDEN, Jr., petitioner,\nv.\nMISSISSIPPI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Virgil BREEDEN, Jr., petitioner,\nv.\nMISSISSIPPI.\nNo. 13-8377.\nSupreme Court of the United States\nMay 19, 2014.\nFormer decision, 134 S.Ct. 1763.\nPetition for rehearing denied."
+  },
+  "file_name": "2331-06",
+  "first_page_order": 2331,
+  "last_page_order": 2331
+}

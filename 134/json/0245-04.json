@@ -1,0 +1,75 @@
+{
+  "id": 12581667,
+  "name": "Jeffrey L. REAGLE, petitioner, v. Justin JONES, Director, Oklahoma Department of Corrections.",
+  "name_abbreviation": "Reagle v. Jones",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135189.",
+  "first_page": "245",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 245"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 181"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "514 Fed.Appx. 749",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 288,
+    "sha256": "f1732f0f8e5ce05f2dc342c93513519c61ecaece3a4e32cc6e3260500536215e",
+    "simhash": "1:b76ff64479f090bb",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey L. REAGLE, petitioner,\nv.\nJustin JONES, Director, Oklahoma Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey L. REAGLE, petitioner,\nv.\nJustin JONES, Director, Oklahoma Department of Corrections.\nNo. 13-5189.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 514 Fed.Appx. 749.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0245-04",
+  "first_page_order": 245,
+  "last_page_order": 245
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12581173,
+  "name": "Chanel E. TAYLOR, petitioner, v. Elisa Marie OMEECHEVARRIA.",
+  "name_abbreviation": "Taylor v. Omeechevarria",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. 13\u20137841.",
+  "first_page": "2161",
+  "last_page": "2161",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2161"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1144"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1305",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578592,
+        12578593,
+        12578594,
+        12578595,
+        12578596,
+        12578597,
+        12701522,
+        12701530,
+        12701531,
+        12701532,
+        12701533,
+        12701534
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/1305-01",
+        "/s-ct/134/1305-02",
+        "/s-ct/134/1305-03",
+        "/s-ct/134/1305-04",
+        "/s-ct/134/1305-05",
+        "/s-ct/134/1305-06",
+        "/us/571/1213-01",
+        "/us/571/1213-10",
+        "/us/571/1213-11",
+        "/us/571/1213-12",
+        "/us/571/1213-13",
+        "/us/571/1213-14"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 186,
+    "sha256": "7fffdf4f862574cdd473d50773149019cb366f004ae27f2a9323dea6999f8b03",
+    "simhash": "1:c03554161ab4460c",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Chanel E. TAYLOR, petitioner,\nv.\nElisa Marie OMEECHEVARRIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Chanel E. TAYLOR, petitioner,\nv.\nElisa Marie OMEECHEVARRIA.\nNo. 13-7841.\nSupreme Court of the United States\nMay 5, 2014.\nFormer decision, 134 S.Ct. 1305.\nPetition for rehearing denied."
+  },
+  "file_name": "2161-07",
+  "first_page_order": 2161,
+  "last_page_order": 2161
+}

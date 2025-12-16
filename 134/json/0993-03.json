@@ -1,0 +1,103 @@
+{
+  "id": 12586611,
+  "name": "Jose Gabriel CORRO, petitioner, v. William STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.",
+  "name_abbreviation": "Corro v. Stephens",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20135886.",
+  "first_page": "993",
+  "last_page": "993",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 993"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 842"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 477",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12584173,
+        12584174,
+        12584175,
+        12584176,
+        12584177,
+        12584178,
+        12704498,
+        12704499,
+        12704500,
+        12704501,
+        12704502,
+        12704511
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0477-01",
+        "/s-ct/134/0477-02",
+        "/s-ct/134/0477-03",
+        "/s-ct/134/0477-04",
+        "/s-ct/134/0477-05",
+        "/s-ct/134/0477-06",
+        "/us/571/0976-01",
+        "/us/571/0976-02",
+        "/us/571/0976-03",
+        "/us/571/0976-04",
+        "/us/571/0976-05",
+        "/us/571/0977-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 264,
+    "sha256": "ef727ce8d011d4e1b7f861b818a7b684f065fcd14adb6c268e5a808fbaa52b44",
+    "simhash": "1:7177346630aad6ce",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Gabriel CORRO, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Gabriel CORRO, petitioner,\nv.\nWilliam STEPHENS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.\nNo. 13-5886.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 477.\nPetition for rehearing denied."
+  },
+  "file_name": "0993-03",
+  "first_page_order": 993,
+  "last_page_order": 993
+}

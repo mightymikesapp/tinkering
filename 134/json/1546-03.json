@@ -1,0 +1,85 @@
+{
+  "id": 12579507,
+  "name": "Anita TRAMMELL, Warden, petitioner, v. Rocky Eugene DODD.",
+  "name_abbreviation": "Trammell v. Dodd",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u2013850.",
+  "first_page": "1546",
+  "last_page": "1546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1546"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 581"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "730 F.3d 1177",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3703336
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/730/1177-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 318,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26327133357967974
+    },
+    "sha256": "d49d01c7dc7091fb13d036a69ad1b78b316c143560c268c6bf9cc31f0dcb223c",
+    "simhash": "1:1b2794561ce1861a",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anita TRAMMELL, Warden, petitioner,\nv.\nRocky Eugene DODD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anita TRAMMELL, Warden, petitioner,\nv.\nRocky Eugene DODD.\nNo. 13-850.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 730 F.3d 1177.\nMotion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1546-03",
+  "first_page_order": 1546,
+  "last_page_order": 1546
+}

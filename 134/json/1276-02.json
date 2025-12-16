@@ -1,0 +1,83 @@
+{
+  "id": 12578410,
+  "name": "PENNSYLVANIA, petitioner, v. Ronald Grant CHAMPNEY.",
+  "name_abbreviation": "Pennsylvania v. Champney",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u2013389.",
+  "first_page": "1276",
+  "last_page": "1276",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1276"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 359"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "65 A.3d 386",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        4232489,
+        7308751
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/619/0627-01",
+        "/a3d/65/0386-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 304,
+    "sha256": "514c987f7d164fc87df16ab50517e1e5da67e3575fee732b183f6ec63ac6ef06",
+    "simhash": "1:1b6e455a18e1631c",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PENNSYLVANIA, petitioner,\nv.\nRonald Grant CHAMPNEY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "PENNSYLVANIA, petitioner,\nv.\nRonald Grant CHAMPNEY.\nNo. 13-389.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 65 A.3d 386.\nMotion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District, denied."
+  },
+  "file_name": "1276-02",
+  "first_page_order": 1276,
+  "last_page_order": 1276
+}

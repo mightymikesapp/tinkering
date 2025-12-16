@@ -1,0 +1,83 @@
+{
+  "id": 12586118,
+  "name": "Patricia WILLITS, et al., petitioners, v. PEABODY COAL COMPANY, LLC, et al.",
+  "name_abbreviation": "Willits v. Peabody Coal Co.",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013527.",
+  "first_page": "919",
+  "last_page": "919",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 919"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 782"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "400 S.W.3d 442",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7093402,
+        7093414
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/400/0442-01",
+        "/sw3d/400/0442-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 262,
+    "sha256": "4ca78a702436e38ac1002013ba7a0fffcc59a3446daa37e159832459868c9fcf",
+    "simhash": "1:68ee4406e0813398",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patricia WILLITS, et al., petitioners,\nv.\nPEABODY COAL COMPANY, LLC, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Missouri, Eastern District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patricia WILLITS, et al., petitioners,\nv.\nPEABODY COAL COMPANY, LLC, et al.\nNo. 13-527.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 400 S.W.3d 442.\nPetition for writ of certiorari to the Court of Appeals of Missouri, Eastern District, denied."
+  },
+  "file_name": "0919-02",
+  "first_page_order": 919,
+  "last_page_order": 919
+}

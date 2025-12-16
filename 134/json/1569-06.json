@@ -1,0 +1,75 @@
+{
+  "id": 12579666,
+  "name": "Alex RODGER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rodger v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138771.",
+  "first_page": "1569",
+  "last_page": "1569",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1569"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 579"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "521 Fed.Appx. 824",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 242,
+    "sha256": "e170de092c615d234d84f9e81ea8aa84507234dc66d6e2488236564b92655cd0",
+    "simhash": "1:fc6d36459b2bc29d",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alex RODGER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alex RODGER, petitioner,\nv.\nUNITED STATES.\nNo. 13-8771.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 521 Fed.Appx. 824.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1569-06",
+  "first_page_order": 1569,
+  "last_page_order": 1569
+}

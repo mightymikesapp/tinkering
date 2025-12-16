@@ -1,0 +1,68 @@
+{
+  "id": 12582321,
+  "name": "In re James H. MAXWELL, petitioner.",
+  "name_abbreviation": "In re Maxwell",
+  "decision_date": "2014-06-09",
+  "docket_number": "No. 13\u20131303.",
+  "first_page": "2736",
+  "last_page": "2736",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2736"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 779"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3708"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 137,
+    "sha256": "022d05bbb617087383419dd4aba537d2469ce2e6781ad204be96ca1fb0627de2",
+    "simhash": "1:c8651604ec212037",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re James H. MAXWELL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re James H. MAXWELL, petitioner.\nNo. 13-1303.\nSupreme Court of the United States\nJune 9, 2014.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "2736-01",
+  "first_page_order": 2736,
+  "last_page_order": 2736
+}

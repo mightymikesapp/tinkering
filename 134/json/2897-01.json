@@ -1,0 +1,107 @@
+{
+  "id": 12582993,
+  "name": "Leslie Gordon SMITH, petitioner, v. R. DIAZ, Warden.",
+  "name_abbreviation": "Smith v. Diaz",
+  "decision_date": "2014-06-30",
+  "docket_number": "No. 13\u20138520.",
+  "first_page": "2897",
+  "last_page": "2897",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2897"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 850"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3747"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1794",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12705486,
+        12580111,
+        12580112,
+        12580113,
+        12580114,
+        12580115,
+        12580116,
+        12580117,
+        12705494,
+        12705495,
+        12705496,
+        12705497,
+        12705498,
+        12705499
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1049-01",
+        "/s-ct/134/1794-01",
+        "/s-ct/134/1794-02",
+        "/s-ct/134/1794-03",
+        "/s-ct/134/1794-04",
+        "/s-ct/134/1794-05",
+        "/s-ct/134/1794-06",
+        "/s-ct/134/1794-07",
+        "/us/572/1049-10",
+        "/us/572/1049-11",
+        "/us/572/1049-12",
+        "/us/572/1049-13",
+        "/us/572/1049-14",
+        "/us/572/1049-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 180,
+    "sha256": "215bf8ac93200266c090689e579248f80c379eebec4f8917840e5f086511f203",
+    "simhash": "1:5af554d4310f475e",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leslie Gordon SMITH, petitioner,\nv.\nR. DIAZ, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leslie Gordon SMITH, petitioner,\nv.\nR. DIAZ, Warden.\nNo. 13-8520.\nSupreme Court of the United States\nJune 30, 2014.\nFormer decision, 134 S.Ct. 1794\nPetition for rehearing denied."
+  },
+  "file_name": "2897-01",
+  "first_page_order": 2897,
+  "last_page_order": 2897
+}

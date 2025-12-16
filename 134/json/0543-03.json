@@ -1,0 +1,85 @@
+{
+  "id": 12584573,
+  "name": "Mariano ANGUIANO-MORFIN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Anguiano-Morfin v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u20136662.",
+  "first_page": "543",
+  "last_page": "543",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 543"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 389"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 1208",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3558548
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/1208-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 245,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26343813867140514
+    },
+    "sha256": "bc815e650d04effd56a7871f75a7787317efb25c441032927ecdcd37c61c8877",
+    "simhash": "1:c02d76452385d2d3",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mariano ANGUIANO-MORFIN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mariano ANGUIANO-MORFIN, petitioner,\nv.\nUNITED STATES.\nNo. 13-6662.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 713 F.3d 1208.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0543-03",
+  "first_page_order": 543,
+  "last_page_order": 543
+}

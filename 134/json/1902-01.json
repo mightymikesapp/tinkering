@@ -1,0 +1,75 @@
+{
+  "id": 12580466,
+  "name": "Carlos Jose TREJO-RUIZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Trejo-Ruiz v. United States",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20139087.",
+  "first_page": "1902",
+  "last_page": "1902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1902"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 931"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "551 Fed.Appx. 52",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 250,
+    "sha256": "a06dd4040317ada9364a61b5f0ca21d4e011947dc8cb82dd93a643f066071aec",
+    "simhash": "1:596d62453b864521",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos Jose TREJO-RUIZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos Jose TREJO-RUIZ, petitioner,\nv.\nUNITED STATES.\nNo. 13-9087.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 551 Fed.Appx. 52.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1902-01",
+  "first_page_order": 1902,
+  "last_page_order": 1902
+}

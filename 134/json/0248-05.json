@@ -1,0 +1,91 @@
+{
+  "id": 12581688,
+  "name": "Jeffrey HARDY, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Hardy v. Massachusetts",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135208.",
+  "first_page": "248",
+  "last_page": "248",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 248"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 184"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "984 N.E.2d 727",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": -1
+    },
+    {
+      "cite": "464 Mass. 660",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        4274482
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/mass/464/0660-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633460483603484
+    },
+    "sha256": "26c8c49cf8699f805ae33fa1b465e472466cc1b261c00cb38ba093279c3ce0a9",
+    "simhash": "1:606f52dd19f4ae91",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey HARDY, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey HARDY, petitioner,\nv.\nMASSACHUSETTS.\nNo. 13-5208.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 464 Mass. 660, 984 N.E.2d 727.\nPetition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+  },
+  "file_name": "0248-05",
+  "first_page_order": 248,
+  "last_page_order": 248
+}

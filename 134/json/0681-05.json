@@ -1,0 +1,85 @@
+{
+  "id": 12585126,
+  "name": "Charles JUDD, et al., petitioners, v. LIBERTARIAN PARTY OF VIRGINIA, et al.",
+  "name_abbreviation": "Judd v. Libertarian Party of Va.",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 13\u2013231.",
+  "first_page": "681",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 681"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 549"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 308",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4049554
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0308-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 265,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26345937543076836
+    },
+    "sha256": "1278ee9d18f8fc1fc9602ff6605c8f855ce6cf179bface689eaf624577bd5a9b",
+    "simhash": "1:7bafe4843fd32417",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles JUDD, et al., petitioners,\nv.\nLIBERTARIAN PARTY OF VIRGINIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles JUDD, et al., petitioners,\nv.\nLIBERTARIAN PARTY OF VIRGINIA, et al.\nNo. 13-231.\nSupreme Court of the United States\nDec. 2, 2013.\nCase below, 718 F.3d 308.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0681-05",
+  "first_page_order": 681,
+  "last_page_order": 681
+}

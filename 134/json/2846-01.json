@@ -1,0 +1,68 @@
+{
+  "id": 12582657,
+  "name": "In re Raj SINGH, petitioner.",
+  "name_abbreviation": "In re Singh",
+  "decision_date": "2014-06-23",
+  "docket_number": "No. 13\u20139729.",
+  "first_page": "2846",
+  "last_page": "2846",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2846"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 825"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3733"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 131,
+    "sha256": "0fad41a093d50358879faec91cc5881bdb6cc1c46cc6da9ffdc1ec1f01c7af1c",
+    "simhash": "1:d8610455fb31547f",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Raj SINGH, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Raj SINGH, petitioner.\nNo. 13-9729.\nSupreme Court of the United States\nJune 23, 2014.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "2846-01",
+  "first_page_order": 2846,
+  "last_page_order": 2846
+}

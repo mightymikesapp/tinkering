@@ -1,0 +1,107 @@
+{
+  "id": 12585087,
+  "name": "Michael Lee McLEOD, petitioner, v. Larry W. JARVIS, Warden.",
+  "name_abbreviation": "McLeod v. Jarvis",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 12\u201310718.",
+  "first_page": "676",
+  "last_page": "676",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 676"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 464"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct 160",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12579779,
+        12579780,
+        12579781,
+        12579782,
+        12579783,
+        12579784,
+        12579785,
+        12702894,
+        12702895,
+        12702896,
+        12702897,
+        12702162,
+        12702906,
+        12702907
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0160-01",
+        "/s-ct/134/0160-02",
+        "/s-ct/134/0160-03",
+        "/s-ct/134/0160-04",
+        "/s-ct/134/0160-05",
+        "/s-ct/134/0160-06",
+        "/s-ct/134/0160-07",
+        "/us/571/0864-01",
+        "/us/571/0864-02",
+        "/us/571/0864-03",
+        "/us/571/0864-04",
+        "/us/571/0813-21",
+        "/us/571/0864-14",
+        "/us/571/0864-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 186,
+    "sha256": "3138db62d72d43625309be04a75b022f16520d63abefa3acb831d625c8aa32e2",
+    "simhash": "1:04b414543585f304",
+    "word_count": 29
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Lee McLEOD, petitioner,\nv.\nLarry W. JARVIS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Lee McLEOD, petitioner,\nv.\nLarry W. JARVIS, Warden.\nNo. 12-10718.\nSupreme Court of the United States\nNov. 18, 2013.\nFormer decision, 134 S.Ct 160\nPetition for rehearing denied."
+  },
+  "file_name": "0676-01",
+  "first_page_order": 676,
+  "last_page_order": 676
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12579782,
+  "name": "Brian C. PRINCE, petitioner, v. Jeffery E. THOMAS, Warden.",
+  "name_abbreviation": "Prince v. Thomas",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310719.",
+  "first_page": "160",
+  "last_page": "160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 160"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 112"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "519 Fed.Appx. 170",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 255,
+    "sha256": "5a336d4c1b2e4b988aae6762430c7a03c8d6282763579f5499dc06f2fcbc210a",
+    "simhash": "1:732fe005bb42c781",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian C. PRINCE, petitioner,\nv.\nJeffery E. THOMAS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian C. PRINCE, petitioner,\nv.\nJeffery E. THOMAS, Warden.\nNo. 12-10719.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 519 Fed.Appx. 170.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0160-04",
+  "first_page_order": 160,
+  "last_page_order": 160
+}

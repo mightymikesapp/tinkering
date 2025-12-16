@@ -1,0 +1,75 @@
+{
+  "id": 12578889,
+  "name": "Rodney LUCAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lucas v. United States",
+  "decision_date": "2014-02-24",
+  "docket_number": "No. 13\u20138264.",
+  "first_page": "1349",
+  "last_page": "1349",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1349"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 352"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "542 Fed.Appx. 283",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 240,
+    "sha256": "85b84104373129695b3f11126be056dbfa7189cba532e7b0e65b0c0c1c5fa3d7",
+    "simhash": "1:79efe484fb45d617",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rodney LUCAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rodney LUCAS, petitioner,\nv.\nUNITED STATES.\nNo. 13-8264.\nSupreme Court of the United States\nFeb. 24, 2014.\nCase below, 542 Fed.Appx. 283.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1349-04",
+  "first_page_order": 1349,
+  "last_page_order": 1349
+}

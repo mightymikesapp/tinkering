@@ -1,0 +1,75 @@
+{
+  "id": 12580740,
+  "name": "Kinney Wayne COMPTON, petitioner, v. Kevin CHAPPELL, Warden.",
+  "name_abbreviation": "Compton v. Chappell",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20138718.",
+  "first_page": "1942",
+  "last_page": "1942",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1942"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 966"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "539 Fed.Appx. 746",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 257,
+    "sha256": "c584976d3e4212a989b5809de1a3e044b97ece469911266bb5674c3ef184629a",
+    "simhash": "1:e2777614ae6533b4",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kinney Wayne COMPTON, petitioner,\nv.\nKevin CHAPPELL, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kinney Wayne COMPTON, petitioner,\nv.\nKevin CHAPPELL, Warden.\nNo. 13-8718.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 539 Fed.Appx. 746.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1942-01",
+  "first_page_order": 1942,
+  "last_page_order": 1942
+}

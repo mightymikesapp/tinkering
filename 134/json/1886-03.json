@@ -1,0 +1,104 @@
+{
+  "id": 12580362,
+  "name": "Jerry L. THOMAS, petitioner, v. Claude CHESTER, Warden.",
+  "name_abbreviation": "Thomas v. Chester",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138661.",
+  "first_page": "1886",
+  "last_page": "1886",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1886"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 906"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": " per curiam "
+        },
+        {
+          "parenthetical": " per curiam "
+        },
+        {
+          "parenthetical": " per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    },
+    {
+      "cite": "548 Fed.Appx. 508",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 89,
+    "char_count": 725,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633002927969932
+    },
+    "sha256": "c2efed7ca9e4dbffc5152e317a398d9d6b2266121272d621791dc98cdca0f010",
+    "simhash": "1:69e265442145d62d",
+    "word_count": 119
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry L. THOMAS, petitioner,\nv.\nClaude CHESTER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) ( per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Jerry L. THOMAS, petitioner,\nv.\nClaude CHESTER, Warden.\nNo. 13-8661.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 548 Fed.Appx. 508.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) ( per curiam )."
+  },
+  "file_name": "1886-03",
+  "first_page_order": 1886,
+  "last_page_order": 1886
+}

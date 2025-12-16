@@ -1,0 +1,103 @@
+{
+  "id": 12582593,
+  "name": "Shaun KIDD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Kidd v. United States",
+  "decision_date": "2014-06-16",
+  "docket_number": "No. 13\u20139039.",
+  "first_page": "2836",
+  "last_page": "2836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2836"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 800"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3719"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1803",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12705540,
+        12705541,
+        12705542,
+        12705543,
+        12705544,
+        12705545,
+        12580173,
+        12580174,
+        12580175,
+        12580176,
+        12580177,
+        12580178
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/1052-11",
+        "/us/572/1052-12",
+        "/us/572/1052-13",
+        "/us/572/1052-14",
+        "/us/572/1052-15",
+        "/us/572/1052-16",
+        "/s-ct/134/1803-01",
+        "/s-ct/134/1803-02",
+        "/s-ct/134/1803-03",
+        "/s-ct/134/1803-04",
+        "/s-ct/134/1803-05",
+        "/s-ct/134/1803-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 170,
+    "sha256": "297e8a93062b6411c1abc8652e2f507272ac41a78b7b175ca389a2dfbb8d07b3",
+    "simhash": "1:502d364616876701",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shaun KIDD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shaun KIDD, petitioner,\nv.\nUNITED STATES.\nNo. 13-9039.\nSupreme Court of the United States\nJune 16, 2014.\nFormer decision, 134 S.Ct. 1803.\nPetition for rehearing denied."
+  },
+  "file_name": "2836-05",
+  "first_page_order": 2836,
+  "last_page_order": 2836
+}

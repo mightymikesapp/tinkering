@@ -1,0 +1,85 @@
+{
+  "id": 12579164,
+  "name": "Paul HESTER, petitioner, v. INDIANA STATE DEPARTMENT OF HEALTH.",
+  "name_abbreviation": "Hester v. Ind. State Dep't of Health",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u20137273.",
+  "first_page": "1492",
+  "last_page": "1492",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1492"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 378"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "726 F.3d 942",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4073941
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/726/0942-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 256,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26325936376985687
+    },
+    "sha256": "7b21cf3f37b1deca4ee44a3cd4b79f3a9293e945951bc4ea028ea4bf8cad8ed7",
+    "simhash": "1:c1ede4043a000531",
+    "word_count": 42
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul HESTER, petitioner,\nv.\nINDIANA STATE DEPARTMENT OF HEALTH."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paul HESTER, petitioner,\nv.\nINDIANA STATE DEPARTMENT OF HEALTH.\nNo. 13-7273.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 726 F.3d 942.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1492-01",
+  "first_page_order": 1492,
+  "last_page_order": 1492
+}

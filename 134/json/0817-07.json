@@ -1,0 +1,103 @@
+{
+  "id": 12585751,
+  "name": "Tyrone Davis SMITH, petitioner, v. Marc CLEMENTS, Warden.",
+  "name_abbreviation": "Smith v. Clements",
+  "decision_date": "2013-12-09",
+  "docket_number": "No. 13\u20135438.",
+  "first_page": "817",
+  "last_page": "817",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 817"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 618"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 288",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12703648,
+        12582945,
+        12582946,
+        12582947,
+        12582948,
+        12582949,
+        12582950,
+        12703657,
+        12703658,
+        12703645,
+        12703646,
+        12703647
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0915-04",
+        "/s-ct/134/0288-01",
+        "/s-ct/134/0288-02",
+        "/s-ct/134/0288-03",
+        "/s-ct/134/0288-04",
+        "/s-ct/134/0288-05",
+        "/s-ct/134/0288-06",
+        "/us/571/0915-14",
+        "/us/571/0915-15",
+        "/us/571/0915-01",
+        "/us/571/0915-02",
+        "/us/571/0915-03"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 183,
+    "sha256": "a69b7f858add7d99346c7a211553e41f49ce39b4e15d1fc5ffe13b560a1387a7",
+    "simhash": "1:623c4c4476c1462a",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tyrone Davis SMITH, petitioner,\nv.\nMarc CLEMENTS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tyrone Davis SMITH, petitioner,\nv.\nMarc CLEMENTS, Warden.\nNo. 13-5438.\nSupreme Court of the United States\nDec. 9, 2013.\nFormer decision, 134 S.Ct. 288\nPetition for rehearing denied."
+  },
+  "file_name": "0817-07",
+  "first_page_order": 817,
+  "last_page_order": 817
+}

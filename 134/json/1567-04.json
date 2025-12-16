@@ -1,0 +1,75 @@
+{
+  "id": 12579652,
+  "name": "Kevin WALKER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Walker v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138741.",
+  "first_page": "1567",
+  "last_page": "1567",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1567"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 577"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "547 Fed.Appx. 358",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 241,
+    "sha256": "ca6ab6fa2c44bf73f1174acb2b998c302cd06971c73a4d917f7fa0b80e562fad",
+    "simhash": "1:53edd654bb88c61d",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin WALKER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin WALKER, petitioner,\nv.\nUNITED STATES.\nNo. 13-8741.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 547 Fed.Appx. 358.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1567-04",
+  "first_page_order": 1567,
+  "last_page_order": 1567
+}

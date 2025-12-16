@@ -1,0 +1,99 @@
+{
+  "id": 12580310,
+  "name": "Bruce E. TASSONE, petitioner, v. FOXWOODS RESORT CASINO, et al.",
+  "name_abbreviation": "Tassone v. Foxwoods Resort Casino",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20138341.",
+  "first_page": "1878",
+  "last_page": "1878",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1878"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 909"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1510",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701858,
+        12701859,
+        12701961,
+        12701870,
+        12579280,
+        12579281,
+        12579282,
+        12579283,
+        12579284,
+        12701881
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1236-02",
+        "/us/571/1236-03",
+        "/us/571/1244-01",
+        "/us/571/1237-02",
+        "/s-ct/134/1510-01",
+        "/s-ct/134/1510-02",
+        "/s-ct/134/1510-03",
+        "/s-ct/134/1510-04",
+        "/s-ct/134/1510-05",
+        "/us/571/1238-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 263,
+    "sha256": "ed15b2577af8b310f903ff878bbad8c847efc70a8e23b7fae13ffa0a803f22d9",
+    "simhash": "1:e2bd364c0586fb52",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bruce E. TASSONE, petitioner,\nv.\nFOXWOODS RESORT CASINO, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bruce E. TASSONE, petitioner,\nv.\nFOXWOODS RESORT CASINO, et al.\nNo. 13-8341.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1510.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "1878-01",
+  "first_page_order": 1878,
+  "last_page_order": 1878
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12584599,
+  "name": "Vikram DATTA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Datta v. United States",
+  "decision_date": "2013-11-04",
+  "docket_number": "No. 13\u2013440.",
+  "first_page": "548",
+  "last_page": "548",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 548"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 370"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "512 Fed.Appx. 60",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 237,
+    "sha256": "12a2483df35ab62198bb7034884601e2c8092f6b9628436b136eaba9d075585a",
+    "simhash": "1:fc6de6ceeb8b8691",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Vikram DATTA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Vikram DATTA, petitioner,\nv.\nUNITED STATES.\nNo. 13-440.\nSupreme Court of the United States\nNov. 4, 2013.\nCase below, 512 Fed.Appx. 60.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0548-01",
+  "first_page_order": 548,
+  "last_page_order": 548
+}

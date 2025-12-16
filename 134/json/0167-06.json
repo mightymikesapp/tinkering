@@ -1,0 +1,75 @@
+{
+  "id": 12579830,
+  "name": "Tony Bernard ALEXANDER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Alexander v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310753.",
+  "first_page": "167",
+  "last_page": "167",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 167"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 259"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "490 Fed.Appx. 575",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 327,
+    "sha256": "dd12d87da94c07c32e6e4f0aaec27531576a5fe769c34ab75e497e91e13d6619",
+    "simhash": "1:6b7f70043bc6d717",
+    "word_count": 53
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tony Bernard ALEXANDER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tony Bernard ALEXANDER, petitioner,\nv.\nUNITED STATES.\nNo. 12-10753.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 490 Fed.Appx. 575.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0167-06",
+  "first_page_order": 167,
+  "last_page_order": 167
+}

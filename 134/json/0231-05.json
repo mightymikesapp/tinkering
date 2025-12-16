@@ -1,0 +1,75 @@
+{
+  "id": 12581490,
+  "name": "Marc S. CRAIG, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Craig v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135110.",
+  "first_page": "231",
+  "last_page": "231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 231"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 172"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "513 Fed.Appx. 487",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 239,
+    "sha256": "9c2b4d7ec27ed104cfe86e3158f64a3d15cffad34441a7493209c44d8da288f1",
+    "simhash": "1:61ad74063b249611",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marc S. CRAIG, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marc S. CRAIG, petitioner,\nv.\nUNITED STATES.\nNo. 13-5110.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 513 Fed.Appx. 487.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0231-05",
+  "first_page_order": 231,
+  "last_page_order": 231
+}

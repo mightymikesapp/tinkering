@@ -1,0 +1,75 @@
+{
+  "id": 12584194,
+  "name": "Gregory SCHMITT, petitioner, v. Deirdre MORGAN, Warden.",
+  "name_abbreviation": "Schmitt v. Morgan",
+  "decision_date": "2013-08-30",
+  "docket_number": "No. 12\u20138338.",
+  "first_page": "47",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 47"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 959"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3099"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 1640",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 206,
+    "sha256": "357d85a1780f791c1c9a51a8ef64eb75826197d4e4dcc0e985758b9769e31785",
+    "simhash": "1:b0af5e1736fd435e",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory SCHMITT, petitioner,\nv.\nDeirdre MORGAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory SCHMITT, petitioner,\nv.\nDeirdre MORGAN, Warden.\nNo. 12-8338.\nSupreme Court of the United States\nAug. 30, 2013.\nCase below, 133 S.Ct. 1640.\nMotion for leave to file a petition for rehearing denied."
+  },
+  "file_name": "0047-04",
+  "first_page_order": 47,
+  "last_page_order": 47
+}

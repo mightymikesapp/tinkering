@@ -1,0 +1,103 @@
+{
+  "id": 12585893,
+  "name": "Kevin BROMWELL, et al., petitioners, v. George LOMBARDI, Director, Missouri Department of Corrections, et al.",
+  "name_abbreviation": "Bromwell v. Lombardi",
+  "decision_date": "2013-12-16",
+  "docket_number": "No. 12\u201310501.",
+  "first_page": "838",
+  "last_page": "838",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 838"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 695"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 123",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12578368,
+        12578369,
+        12578370,
+        12578371,
+        12578372,
+        12702699,
+        12702700,
+        12702701,
+        12702711,
+        12702719,
+        12702718,
+        12578367
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0123-02",
+        "/s-ct/134/0123-03",
+        "/s-ct/134/0123-04",
+        "/s-ct/134/0123-05",
+        "/s-ct/134/0123-06",
+        "/us/571/0851-03",
+        "/us/571/0851-04",
+        "/us/571/0851-05",
+        "/us/571/0852-07",
+        "/us/571/0852-09",
+        "/us/571/0852-08",
+        "/s-ct/134/0123-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 237,
+    "sha256": "b2e725712a688147ba4b4335800616a9205894ef869e6a1e05363ddf8a6a696b",
+    "simhash": "1:2a233c8637887c04",
+    "word_count": 35
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin BROMWELL, et al., petitioners,\nv.\nGeorge LOMBARDI, Director, Missouri Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin BROMWELL, et al., petitioners,\nv.\nGeorge LOMBARDI, Director, Missouri Department of Corrections, et al.\nNo. 12-10501.\nSupreme Court of the United States\nDec. 16, 2013.\nFormer decision, 134 S.Ct. 123\nPetition for rehearing denied."
+  },
+  "file_name": "0838-06",
+  "first_page_order": 838,
+  "last_page_order": 838
+}

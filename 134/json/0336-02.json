@@ -1,0 +1,85 @@
+{
+  "id": 12583355,
+  "name": "Tyree Davon WASHINGTON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Washington v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20135778.",
+  "first_page": "336",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 336"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 235"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "714 F.3d 962",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5869010
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/714/0962-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26340589740946285
+    },
+    "sha256": "f9a859234ebcb5e0c2863192b29614fe7cd582e8144a63f106953254dfffc9cc",
+    "simhash": "1:35ad760413c7c625",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tyree Davon WASHINGTON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tyree Davon WASHINGTON, petitioner,\nv.\nUNITED STATES.\nNo. 13-5778.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 714 F.3d 962.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0336-02",
+  "first_page_order": 336,
+  "last_page_order": 336
+}

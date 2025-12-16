@@ -1,0 +1,75 @@
+{
+  "id": 12581026,
+  "name": "Kay A. KINGSLEY, et al., petitioners, v. N. Eugene BRUNDIGE, et al.",
+  "name_abbreviation": "Kingsley v. Brundige",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 13\u20139.",
+  "first_page": "213",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 213"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 143"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "513 Fed.Appx. 492",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 259,
+    "sha256": "428ddd8bd279c654bbfe400d055f780b8eda0beb4ac4ef86753ca7736a6b2f4d",
+    "simhash": "1:43eff60c7fe09629",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kay A. KINGSLEY, et al., petitioners,\nv.\nN. Eugene BRUNDIGE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kay A. KINGSLEY, et al., petitioners,\nv.\nN. Eugene BRUNDIGE, et al.\nNo. 13-9.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 513 Fed.Appx. 492.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0213-04",
+  "first_page_order": 213,
+  "last_page_order": 213
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12584616,
+  "name": "ATLANTIC MEDICAL CENTER, INC., et al., petitioners, v. Lorenzo Gonzalez FELICIANO, Secretary, Puerto Rico Department of Health, et al.",
+  "name_abbreviation": "Atl. Med. Ctr., Inc. v. Feliciano",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u20131043.",
+  "first_page": "54",
+  "last_page": "55",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 54"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 24"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "695 F.3d 83",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3527731
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/695/0083-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 323,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263439876224444
+    },
+    "sha256": "231457d6a94631f884f8ba6f3f4a7d7291199bc8d3c1ea3fab9692d54062c942",
+    "simhash": "1:632e564c3ee60688",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ATLANTIC MEDICAL CENTER, INC., et al., petitioners,\nv.\nLorenzo Gonzalez FELICIANO, Secretary, Puerto Rico Department of Health, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "ATLANTIC MEDICAL CENTER, INC., et al., petitioners,\nv.\nLorenzo Gonzalez FELICIANO, Secretary, Puerto Rico Department of Health, et al.\nNo. 12-1043.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 695 F.3d 83.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0054-06",
+  "first_page_order": 54,
+  "last_page_order": 55
+}

@@ -1,0 +1,75 @@
+{
+  "id": 12585993,
+  "name": "Tamera Nicole KING, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "King v. United States",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20135878.",
+  "first_page": "899",
+  "last_page": "899",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 899"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 788"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "507 Fed.Appx. 853",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 248,
+    "sha256": "e789ed66c991de0c4be27a739385567d49dc6e42aba4433783c826977f1c7bf1",
+    "simhash": "1:a52e52c4210f4691",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tamera Nicole KING, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tamera Nicole KING, petitioner,\nv.\nUNITED STATES.\nNo. 13-5878.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 507 Fed.Appx. 853.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0899-05",
+  "first_page_order": 899,
+  "last_page_order": 899
+}

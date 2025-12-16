@@ -1,0 +1,93 @@
+{
+  "id": 12583707,
+  "name": "In re Christopher S. BARKSDALE, petitioner.",
+  "name_abbreviation": "In re Barksdale",
+  "decision_date": "2013-08-12",
+  "docket_number": "No. 12\u20139829.",
+  "first_page": "38",
+  "last_page": "38",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 38"
+    },
+    {
+      "type": "parallel",
+      "cite": "186 L. Ed. 2d 952"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3079"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "133 S.Ct. 2834",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        4179209,
+        12698507,
+        12698540,
+        12698541,
+        12698581,
+        12698519,
+        12698520
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/br/493/2834-01",
+        "/us/570/0904-01",
+        "/us/570/0906-12",
+        "/us/570/0906-13",
+        "/us/570/0909-10",
+        "/us/570/0905-03",
+        "/us/570/0905-04"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 171,
+    "sha256": "be6c2d89ca6dd6e43b84b97016176a056e97424b62217e469d7d4eb2b1e138ba",
+    "simhash": "1:e23b16c616d04306",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Christopher S. BARKSDALE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Christopher S. BARKSDALE, petitioner.\nNo. 12-9829.\nSupreme Court of the United States\nAug. 12, 2013.\nFormer decision, 133 S.Ct. 2834\nPetition for rehearing denied."
+  },
+  "file_name": "0038-03",
+  "first_page_order": 38,
+  "last_page_order": 38
+}

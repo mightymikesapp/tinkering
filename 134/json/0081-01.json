@@ -1,0 +1,75 @@
+{
+  "id": 12585769,
+  "name": "Gabriel M. ROBLES, petitioner, v. AMARR GARAGE DOORS, et al.",
+  "name_abbreviation": "Robles v. Doors",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310098.",
+  "first_page": "81",
+  "last_page": "81",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 81"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 63"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "509 Fed.Appx. 741",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 256,
+    "sha256": "273a37145d800a44486d6886f6e682a3e01595a8f9556fd31af7bcc868bcce96",
+    "simhash": "1:2aafd4563bc293a3",
+    "word_count": 43
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gabriel M. ROBLES, petitioner,\nv.\nAMARR GARAGE DOORS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gabriel M. ROBLES, petitioner,\nv.\nAMARR GARAGE DOORS, et al.\nNo. 12-10098.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 509 Fed.Appx. 741.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0081-01",
+  "first_page_order": 81,
+  "last_page_order": 81
+}

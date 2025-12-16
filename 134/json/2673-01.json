@@ -1,0 +1,75 @@
+{
+  "id": 12581894,
+  "name": "Sarah Nicole TOLEDO, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Toledo v. California",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20139331.",
+  "first_page": "2673",
+  "last_page": "2673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2673"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 219"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3685"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5635991",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 245,
+    "sha256": "ba88186168655b8d1e19a5a60393f7d005b1c79e1c3f6fe4e6c98d1623cd6da8",
+    "simhash": "1:7067c69cfae593b1",
+    "word_count": 38
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sarah Nicole TOLEDO, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sarah Nicole TOLEDO, petitioner,\nv.\nCALIFORNIA.\nNo. 13-9331.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 2013 WL 5635991.\nPetition for writ of certiorari to the Court of Appeal of California, Second Appellate District, denied."
+  },
+  "file_name": "2673-01",
+  "first_page_order": 2673,
+  "last_page_order": 2673
+}

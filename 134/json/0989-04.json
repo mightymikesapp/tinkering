@@ -1,0 +1,103 @@
+{
+  "id": 12586575,
+  "name": "Jackson GUMISIRIZA, petitioner, v. Timothy E. BUSBY, Warden.",
+  "name_abbreviation": "Gumisiriza v. Busby",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 12\u20139935.",
+  "first_page": "989",
+  "last_page": "989",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 989"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 837"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 69",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702438,
+        12702448,
+        12702456,
+        12702454,
+        12702455,
+        12702008,
+        12585242,
+        12585243,
+        12585244,
+        12585245,
+        12585246,
+        12585247
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0833-04",
+        "/us/571/0834-06",
+        "/us/571/0834-09",
+        "/us/571/0834-07",
+        "/us/571/0834-08",
+        "/us/571/0802-02",
+        "/s-ct/134/0069-01",
+        "/s-ct/134/0069-02",
+        "/s-ct/134/0069-03",
+        "/s-ct/134/0069-04",
+        "/s-ct/134/0069-05",
+        "/s-ct/134/0069-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 187,
+    "sha256": "1f75cefc7ff4d25ee25bf7686b482558d0bc864592143f0735c875bbbddebdcf",
+    "simhash": "1:80a3284634b046d0",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackson GUMISIRIZA, petitioner,\nv.\nTimothy E. BUSBY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jackson GUMISIRIZA, petitioner,\nv.\nTimothy E. BUSBY, Warden.\nNo. 12-9935.\nSupreme Court of the United States\nJan. 13, 2014.\nFormer decision, 134 S.Ct. 69.\nPetition for rehearing denied."
+  },
+  "file_name": "0989-04",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

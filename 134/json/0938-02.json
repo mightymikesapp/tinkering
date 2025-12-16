@@ -1,0 +1,81 @@
+{
+  "id": 12586243,
+  "name": "Marvin W. MILLSAPS, petitioner, v. Lewis SMITH, Administrator, Albemarle Correctional Institution.",
+  "name_abbreviation": "Millsaps v. Smith",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u20137288.",
+  "first_page": "938",
+  "last_page": "938",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 938"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 807"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3406"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 5692001",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    },
+    {
+      "cite": "542 Fed.Appx. 296",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 312,
+    "sha256": "bc2e36267e63fafb4f87770aa341468a7fd3f4300e4a140f2a501c4d53fb5ec4",
+    "simhash": "1:536f9444bccc6535",
+    "word_count": 47
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marvin W. MILLSAPS, petitioner,\nv.\nLewis SMITH, Administrator, Albemarle Correctional Institution."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marvin W. MILLSAPS, petitioner,\nv.\nLewis SMITH, Administrator, Albemarle Correctional Institution.\nNo. 13-7288.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 542 Fed.Appx. 296, 2013 WL 5692001.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0938-02",
+  "first_page_order": 938,
+  "last_page_order": 938
+}

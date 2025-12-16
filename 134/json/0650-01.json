@@ -1,0 +1,68 @@
+{
+  "id": 12584916,
+  "name": "Elena STRUJAN, petitioner, v. MERCK AND COMPANY, INCORPORATED.",
+  "name_abbreviation": "Strujan v. Merck & Co.",
+  "decision_date": "2013-11-18",
+  "docket_number": "No. 13\u20136591.",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 650"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 461"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 336,
+    "sha256": "abda260fe003534deccc218b51ea7c65cfd722ee0f897fdb71e0d2b1d7eaca97",
+    "simhash": "1:5fef70d4b3a4d746",
+    "word_count": 53
+  },
+  "last_updated": "2021-08-27T21:04:34.235101+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elena STRUJAN, petitioner,\nv.\nMERCK AND COMPANY, INCORPORATED."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Elena STRUJAN, petitioner,\nv.\nMERCK AND COMPANY, INCORPORATED.\nNo. 13-6591.\nSupreme Court of the United States\nNov. 18, 2013.\nCase below, 532 Fed.Appx. ----.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0650-01",
+  "first_page_order": 650,
+  "last_page_order": 650
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12580701,
+  "name": "Thomas Morocco HAGER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hager v. United States",
+  "decision_date": "2014-04-28",
+  "docket_number": "No. 13\u20137913.",
+  "first_page": "1936",
+  "last_page": "1936",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1936"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 964"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3630"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "721 F.3d 167",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5756169
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/721/0167-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 244,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26330975280798224
+    },
+    "sha256": "3d9e55444933f5c86b7dbce0ecec2a68bafe35bfd1f36c6025059ca6711da3ad",
+    "simhash": "1:33ce46862a835015",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Morocco HAGER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Morocco HAGER, petitioner,\nv.\nUNITED STATES.\nNo. 13-7913.\nSupreme Court of the United States\nApril 28, 2014.\nCase below, 721 F.3d 167.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1936-03",
+  "first_page_order": 1936,
+  "last_page_order": 1936
+}

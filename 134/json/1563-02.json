@@ -1,0 +1,85 @@
+{
+  "id": 12579626,
+  "name": "Marquez Lanell LAWHORN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lawhorn v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20138687.",
+  "first_page": "1563",
+  "last_page": "1563",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1563"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 574"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "735 F.3d 817",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3722050
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/735/0817-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 246,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632746156243086
+    },
+    "sha256": "44a93250a558ed0af48cc2ad294d09717a94314e3ed55fe997f5ed41d3a3bf1e",
+    "simhash": "1:7d7df4449b202798",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marquez Lanell LAWHORN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marquez Lanell LAWHORN, petitioner,\nv.\nUNITED STATES.\nNo. 13-8687.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 735 F.3d 817.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "1563-02",
+  "first_page_order": 1563,
+  "last_page_order": 1563
+}

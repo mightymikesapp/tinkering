@@ -1,0 +1,75 @@
+{
+  "id": 12585770,
+  "name": "Frederick GREEN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Green v. United States",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310103.",
+  "first_page": "81",
+  "last_page": "81",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 81"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 64"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "508 Fed.Appx. 206",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 243,
+    "sha256": "9ceb4342767d31cf83623db5eb34f4494e95e2da0fb9fe1fcb536fb29295708b",
+    "simhash": "1:49ef64d43bc6c635",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Frederick GREEN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Frederick GREEN, petitioner,\nv.\nUNITED STATES.\nNo. 12-10103.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, 508 Fed.Appx. 206.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0081-02",
+  "first_page_order": 81,
+  "last_page_order": 81
+}

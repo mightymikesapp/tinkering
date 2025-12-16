@@ -1,0 +1,83 @@
+{
+  "id": 12585100,
+  "name": "Kathleen SEBELIUS, Secretary of Health and Human Services, et al., petitioners, v. HOBBY LOBBY STORES, INC., et al.",
+  "name_abbreviation": "Sebelius v. Hobby Lobby Stores, Inc.",
+  "decision_date": "2013-11-26",
+  "docket_number": "No. 13\u2013354.",
+  "first_page": "678",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 678"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 544"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "723 F.3d 1114",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4065690,
+        4064991
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/723/1114-02",
+        "/f3d/723/1114-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 307,
+    "sha256": "42cde838ee6f69ad2e28cbf24337d5a3faf14316e5499c078cd66d38d09325e7",
+    "simhash": "1:22aff606bfb815cb",
+    "word_count": 51
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kathleen SEBELIUS, Secretary of Health and Human Services, et al., petitioners,\nv.\nHOBBY LOBBY STORES, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "Kathleen SEBELIUS, Secretary of Health and Human Services, et al., petitioners,\nv.\nHOBBY LOBBY STORES, INC., et al.\nNo. 13-354.\nSupreme Court of the United States\nNov. 26, 2013.\nCase below, 723 F.3d 1114.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit granted."
+  },
+  "file_name": "0678-01",
+  "first_page_order": 678,
+  "last_page_order": 678
+}

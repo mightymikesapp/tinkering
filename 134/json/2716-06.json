@@ -1,0 +1,75 @@
+{
+  "id": 12582193,
+  "name": "Garland HOGAN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hogan v. United States",
+  "decision_date": "2014-06-02",
+  "docket_number": "No. 13\u201310019.",
+  "first_page": "2716",
+  "last_page": "2716",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2716"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 755"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3696"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "550 Fed.Appx. 756",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 243,
+    "sha256": "08ac571689c6eb662fc5433884be453e53ae1017ba2fe7352e452dc5734b994a",
+    "simhash": "1:b4ac66443b078653",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Garland HOGAN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Garland HOGAN, petitioner,\nv.\nUNITED STATES.\nNo. 13-10019.\nSupreme Court of the United States\nJune 2, 2014.\nCase below, 550 Fed.Appx. 756.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2716-06",
+  "first_page_order": 2716,
+  "last_page_order": 2716
+}

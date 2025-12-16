@@ -1,0 +1,83 @@
+{
+  "id": 12580085,
+  "name": "Jose BUSANET, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Busanet v. Pennsylvania",
+  "decision_date": "2013-10-07",
+  "docket_number": "No. 12\u201310809.",
+  "first_page": "178",
+  "last_page": "178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 178"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 122"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "54 A.3d 35",
+      "category": "reporters:state_regional",
+      "reporter": "A.3d",
+      "case_ids": [
+        3900184,
+        7310671
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/pa/618/0001-01",
+        "/a3d/54/0035-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "sha256": "bff6223972afa7b9cf613b30fd0314310dd75ad28668fb741141ae633a24400b",
+    "simhash": "1:48ed545cb0a404bb",
+    "word_count": 36
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose BUSANET, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose BUSANET, petitioner,\nv.\nPENNSYLVANIA.\nNo. 12-10809.\nSupreme Court of the United States\nOct. 7, 2013.\nCase below, --- Pa. ----, 54 A.3d 35.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District, denied."
+  },
+  "file_name": "0178-04",
+  "first_page_order": 178,
+  "last_page_order": 178
+}

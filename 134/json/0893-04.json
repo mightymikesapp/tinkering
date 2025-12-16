@@ -1,0 +1,85 @@
+{
+  "id": 12585962,
+  "name": "Dannel P. MALLOY, Governor of Connecticut, et al., v. STATE EMPLOYEES BARGAINING AGENT COALITION, et al.",
+  "name_abbreviation": "Malloy v. State Emps. Bargaining Agent Coal.",
+  "decision_date": "2014-01-02",
+  "docket_number": "No. 13\u2013480; R46\u2013007.",
+  "first_page": "893",
+  "last_page": "893",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 893"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 699"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "718 F.3d 126",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4049651
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/718/0126-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 306,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2634869832179405
+    },
+    "sha256": "778f3c88798ee34f38e7ed218338ed1ceff949e96ada15dbac1e7893a8deac5f",
+    "simhash": "1:2aef90dcdbc9365f",
+    "word_count": 52
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dannel P. MALLOY, Governor of Connecticut, et al.,\nv.\nSTATE EMPLOYEES BARGAINING AGENT COALITION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "Dannel P. MALLOY, Governor of Connecticut, et al.,\nv.\nSTATE EMPLOYEES BARGAINING AGENT COALITION, et al.\nNo. 13-480, R46-007.\nSupreme Court of the United States\nJan. 2, 2014.\nCase below, 718 F.3d 126.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+  },
+  "file_name": "0893-04",
+  "first_page_order": 893,
+  "last_page_order": 893
+}

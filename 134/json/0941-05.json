@@ -1,0 +1,75 @@
+{
+  "id": 12586270,
+  "name": "Steven John BURKE, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Burke v. California",
+  "decision_date": "2014-01-13",
+  "docket_number": "No. 13\u2013598.",
+  "first_page": "941",
+  "last_page": "941",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 941"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 785"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "2013 WL 2353816",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 259,
+    "sha256": "2b9eba16f304b4ba9b50be3ae42d97fac3babb85a2a9659bd14bbce8ae894930",
+    "simhash": "1:696c56c4f881d1d0",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven John BURKE, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division Three, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven John BURKE, petitioner,\nv.\nCALIFORNIA.\nNo. 13-598.\nSupreme Court of the United States\nJan. 13, 2014.\nCase below, 2013 WL 2353816.\nPetition for writ of certiorari to the Court of Appeal of California, Fourth Appellate District, Division Three, denied."
+  },
+  "file_name": "0941-05",
+  "first_page_order": 941,
+  "last_page_order": 941
+}

@@ -1,0 +1,103 @@
+{
+  "id": 12580665,
+  "name": "Cleo Anthanett CHRISTOPHER, petitioner, v. ST. VINCENT DE PAUL OF BALTIMORE INC., et al.",
+  "name_abbreviation": "Christopher v. St. Vincent De Paul of Balt. Inc.",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u20137782.",
+  "first_page": "1930",
+  "last_page": "1930",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1930"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 952"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1299",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12701504,
+        12701505,
+        12701502,
+        12578551,
+        12578552,
+        12578553,
+        12578554,
+        12578555,
+        12578556,
+        12701501,
+        12701342,
+        12701503
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1211-12",
+        "/us/571/1211-13",
+        "/us/571/1211-10",
+        "/s-ct/134/1299-01",
+        "/s-ct/134/1299-02",
+        "/s-ct/134/1299-03",
+        "/s-ct/134/1299-04",
+        "/s-ct/134/1299-05",
+        "/s-ct/134/1299-06",
+        "/us/571/1211-09",
+        "/us/571/1199-11",
+        "/us/571/1211-11"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 218,
+    "sha256": "06f68210789dc5174785009268a6b0cb530020f4517b3f0e1530577d778ce99b",
+    "simhash": "1:ed6f061c14834906",
+    "word_count": 34
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cleo Anthanett CHRISTOPHER, petitioner,\nv.\nST. VINCENT DE PAUL OF BALTIMORE INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cleo Anthanett CHRISTOPHER, petitioner,\nv.\nST. VINCENT DE PAUL OF BALTIMORE INC., et al.\nNo. 13-7782.\nSupreme Court of the United States\nApril 21, 2014.\nFormer decision, 134 S.Ct. 1299.\nPetition for rehearing denied."
+  },
+  "file_name": "1930-06",
+  "first_page_order": 1930,
+  "last_page_order": 1930
+}

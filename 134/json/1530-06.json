@@ -1,0 +1,85 @@
+{
+  "id": 12579418,
+  "name": "Decarlos GEORGE, petitioner v. UNITED STATES.",
+  "name_abbreviation": "George v. United States",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138596.",
+  "first_page": "1530",
+  "last_page": "1530",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1530"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 462"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3528"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "732 F.3d 296",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3710495
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/732/0296-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26326824459649967
+    },
+    "sha256": "ae616d0e8e2076fd9ca8b67c10e62b59baec6a9514ed5cda323a90713fa4fed2",
+    "simhash": "1:5aed06462bc7d411",
+    "word_count": 39
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Decarlos GEORGE, petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Decarlos GEORGE, petitioner\nv.\nUNITED STATES.\nNo. 13-8596.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 732 F.3d 296.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1530-06",
+  "first_page_order": 1530,
+  "last_page_order": 1530
+}

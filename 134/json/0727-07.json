@@ -1,0 +1,107 @@
+{
+  "id": 12585432,
+  "name": "In re Wei ZHOU, petitioner.",
+  "name_abbreviation": "In re Zhou",
+  "decision_date": "2013-12-02",
+  "docket_number": "No. 12\u201310731.",
+  "first_page": "727",
+  "last_page": "727",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 727"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 582"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 162",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12702340,
+        12702341,
+        12702918,
+        12702919,
+        12702920,
+        12702921,
+        12702201,
+        12579795,
+        12579796,
+        12579797,
+        12579798,
+        12579799,
+        12579800,
+        12579801
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/0826-07",
+        "/us/571/0826-08",
+        "/us/571/0865-11",
+        "/us/571/0865-12",
+        "/us/571/0865-13",
+        "/us/571/0865-14",
+        "/us/571/0815-09",
+        "/s-ct/134/0162-01",
+        "/s-ct/134/0162-02",
+        "/s-ct/134/0162-03",
+        "/s-ct/134/0162-04",
+        "/s-ct/134/0162-05",
+        "/s-ct/134/0162-06",
+        "/s-ct/134/0162-07"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 154,
+    "sha256": "999d5335e48c7746e2a4e07317649c0782b08b0ac9f76944f70422b179dce0c3",
+    "simhash": "1:427f4e76140bc38a",
+    "word_count": 25
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Wei ZHOU, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Wei ZHOU, petitioner.\nNo. 12-10731.\nSupreme Court of the United States\nDec. 2, 2013.\nFormer decision, 134 S.Ct. 162\nPetition for rehearing denied."
+  },
+  "file_name": "0727-07",
+  "first_page_order": 727,
+  "last_page_order": 727
+}

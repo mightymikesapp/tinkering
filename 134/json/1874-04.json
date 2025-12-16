@@ -1,0 +1,85 @@
+{
+  "id": 12580291,
+  "name": "Ismail Ozgur YAMAN, petitioner, v. Linda Margherita YAMAN.",
+  "name_abbreviation": "Yaman v. Yaman",
+  "decision_date": "2014-04-21",
+  "docket_number": "No. 13\u2013701.",
+  "first_page": "1874",
+  "last_page": "1874",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1874"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 911"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "730 F.3d 1",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3702848
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/730/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 247,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26329681769091556
+    },
+    "sha256": "35cf5e63a232de847fe6b3a98ce35323e572b56afc1c6d003007bd584a3d17cc",
+    "simhash": "1:6367464612a755b1",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ismail Ozgur YAMAN, petitioner,\nv.\nLinda Margherita YAMAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ismail Ozgur YAMAN, petitioner,\nv.\nLinda Margherita YAMAN.\nNo. 13-701.\nSupreme Court of the United States\nApril 21, 2014.\nCase below, 730 F.3d 1.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "1874-04",
+  "first_page_order": 1874,
+  "last_page_order": 1874
+}

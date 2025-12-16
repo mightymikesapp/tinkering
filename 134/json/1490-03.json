@@ -1,0 +1,85 @@
+{
+  "id": 12579154,
+  "name": "Steven J. TERRY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Terry v. United States",
+  "decision_date": "2014-03-03",
+  "docket_number": "No. 13\u2013392.",
+  "first_page": "1490",
+  "last_page": "1490",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1490"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 375"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "707 F.3d 607",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3536015
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/707/0607-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 236,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26325762621681803
+    },
+    "sha256": "09fe10bbf0b633f296675184e0982a65abac4066cd7bcb6be942199c6c472e3c",
+    "simhash": "1:50ec76443b818411",
+    "word_count": 40
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven J. TERRY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven J. TERRY, petitioner,\nv.\nUNITED STATES.\nNo. 13-392.\nSupreme Court of the United States\nMarch 3, 2014.\nCase below, 707 F.3d 607.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1490-03",
+  "first_page_order": 1490,
+  "last_page_order": 1490
+}

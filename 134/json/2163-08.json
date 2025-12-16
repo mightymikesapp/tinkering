@@ -1,0 +1,78 @@
+{
+  "id": 12581189,
+  "name": "In the Matter of DISBARMENT OF Hugh D. JAEGER.",
+  "name_abbreviation": "In re Jaeger",
+  "decision_date": "2014-05-05",
+  "docket_number": "No. D\u20132751.",
+  "first_page": "2163",
+  "last_page": "2163",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2163"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 1146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 870",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12585945,
+        12701987
+      ],
+      "weight": 2,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0870-01",
+        "/us/571/0220-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 198,
+    "sha256": "a4d0c2dd14898d04c2601584bd760f29ae7277dd3b05d415c6284cf994fd868b",
+    "simhash": "1:726552c2c40e7e5b",
+    "word_count": 32
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Hugh D. JAEGER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Hugh D. JAEGER.\nNo. D-2751.\nSupreme Court of the United States\nMay 5, 2014.\nFormer decision, --- U.S. ----, 134 S.Ct. 870, 187 L.Ed.2d 729.\nDisbarment order entered."
+  },
+  "file_name": "2163-08",
+  "first_page_order": 2163,
+  "last_page_order": 2163
+}

@@ -1,0 +1,107 @@
+{
+  "id": 12579721,
+  "name": "Alex GU, petitioner, v. Aney ABRAHAM, et al.",
+  "name_abbreviation": "Gu v. Abraham",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20136350.",
+  "first_page": "1577",
+  "last_page": "1577",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1577"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 584"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 645",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12584878,
+        12584879,
+        12584880,
+        12584881,
+        12584882,
+        12584883,
+        12584884,
+        12699288,
+        12699354,
+        12699355,
+        12699356,
+        12699357,
+        12699358,
+        12699359
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0645-01",
+        "/s-ct/134/0645-02",
+        "/s-ct/134/0645-03",
+        "/s-ct/134/0645-04",
+        "/s-ct/134/0645-05",
+        "/s-ct/134/0645-06",
+        "/s-ct/134/0645-07",
+        "/us/571/1023-18",
+        "/us/571/1028-10",
+        "/us/571/1028-11",
+        "/us/571/1028-12",
+        "/us/571/1028-13",
+        "/us/571/1028-14",
+        "/us/571/1028-15"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 172,
+    "sha256": "587cd490b18dd6fc9e4cbc5474256ed0dce47302bc2d57e071de59200dc883ee",
+    "simhash": "1:002d1c0214c8432a",
+    "word_count": 28
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alex GU, petitioner,\nv.\nAney ABRAHAM, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alex GU, petitioner,\nv.\nAney ABRAHAM, et al.\nNo. 13-6350.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 645\nPetition for rehearing denied."
+  },
+  "file_name": "1577-03",
+  "first_page_order": 1577,
+  "last_page_order": 1577
+}

@@ -1,0 +1,85 @@
+{
+  "id": 12579458,
+  "name": "Jane DOE, petitioner, v. VIRGINIA DEPARTMENT OF STATE POLICE, et al.",
+  "name_abbreviation": "Jane Doe v. Va. Dep't of State Police",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u2013385.",
+  "first_page": "1538",
+  "last_page": "1538",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1538"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 556"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "713 F.3d 745",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3559947
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/713/0745-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 260,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26326863071939716
+    },
+    "sha256": "3cfdbbf0b2f0b1ba12c6ffd7877dcb0eb0856590fe93c19f0b6ff70bf2f5b605",
+    "simhash": "1:306fa6443ac0f203",
+    "word_count": 44
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jane DOE, petitioner,\nv.\nVIRGINIA DEPARTMENT OF STATE POLICE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jane DOE, petitioner,\nv.\nVIRGINIA DEPARTMENT OF STATE POLICE, et al.\nNo. 13-385.\nSupreme Court of the United States\nMarch 24, 2014.\nCase below, 713 F.3d 745.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1538-02",
+  "first_page_order": 1538,
+  "last_page_order": 1538
+}

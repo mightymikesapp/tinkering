@@ -1,0 +1,85 @@
+{
+  "id": 12579335,
+  "name": "Lesly JEAN-PHILIPPE, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Jean-Philippe v. Florida",
+  "decision_date": "2014-03-10",
+  "docket_number": "No. 13\u20138144.",
+  "first_page": "1519",
+  "last_page": "1519",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1519"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 454"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "123 So.3d 1071",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7005385
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/123/1071-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 210,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2632645764289733
+    },
+    "sha256": "71081b45c4e6f39fa712d073affba6a164cd1113137ee1652c9f79dfe2336eea",
+    "simhash": "1:423614043a65c113",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lesly JEAN-PHILIPPE, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lesly JEAN-PHILIPPE, petitioner,\nv.\nFLORIDA.\nNo. 13-8144.\nSupreme Court of the United States\nMarch 10, 2014.\nCase below, 123 So.3d 1071.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "1519-04",
+  "first_page_order": 1519,
+  "last_page_order": 1519
+}

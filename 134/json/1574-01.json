@@ -1,0 +1,103 @@
+{
+  "id": 12579699,
+  "name": "Brian M. CASEY, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Casey v. Florida",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20137143.",
+  "first_page": "1574",
+  "last_page": "1574",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1574"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 555"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3549"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 927",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12700258,
+        12700516,
+        12700517,
+        12700518,
+        12700364,
+        12700308,
+        12586170,
+        12586171,
+        12586172,
+        12586173,
+        12586174,
+        12586175
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/571/1120-04",
+        "/us/571/1139-09",
+        "/us/571/1139-10",
+        "/us/571/1139-11",
+        "/us/571/1129-02",
+        "/us/571/1124-15",
+        "/s-ct/134/0927-01",
+        "/s-ct/134/0927-02",
+        "/s-ct/134/0927-03",
+        "/s-ct/134/0927-04",
+        "/s-ct/134/0927-05",
+        "/s-ct/134/0927-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 238,
+    "sha256": "21e669906d273b5e270651fe8cc26fd72dba014d1b3358413fb40e6d27ef55cc",
+    "simhash": "1:e2a03e55452ca39b",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian M. CASEY, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian M. CASEY, petitioner,\nv.\nFLORIDA.\nNo. 13-7143.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 927.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "1574-01",
+  "first_page_order": 1574,
+  "last_page_order": 1574
+}

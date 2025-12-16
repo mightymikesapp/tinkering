@@ -1,0 +1,85 @@
+{
+  "id": 12581833,
+  "name": "Darryl TATE, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Tate v. Louisiana",
+  "decision_date": "2014-05-27",
+  "docket_number": "No. 13\u20138915.",
+  "first_page": "2663",
+  "last_page": "2663",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 2663"
+    },
+    {
+      "type": "parallel",
+      "cite": "189 L. Ed. 2d 214"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3685"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "130 So.3d 829",
+      "category": "reporters:state_regional",
+      "reporter": "So. 3d",
+      "case_ids": [
+        7279899
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/so3d/130/0829-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 203,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2633537708182987
+    },
+    "sha256": "e13008d99c04a3495588f47c4e286b81a1ff4a44b20bc2306aa5e8eb2c800efd",
+    "simhash": "1:fafe16469a8156ff",
+    "word_count": 33
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Darryl TATE, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Louisiana denied."
+    ],
+    "corrections": "",
+    "head_matter": "Darryl TATE, petitioner,\nv.\nLOUISIANA.\nNo. 13-8915.\nSupreme Court of the United States\nMay 27, 2014.\nCase below, 130 So.3d 829.\nPetition for writ of certiorari to the Supreme Court of Louisiana denied."
+  },
+  "file_name": "2663-05",
+  "first_page_order": 2663,
+  "last_page_order": 2663
+}

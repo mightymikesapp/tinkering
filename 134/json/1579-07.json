@@ -1,0 +1,91 @@
+{
+  "id": 12579741,
+  "name": "Christopher EADS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Eads v. United States",
+  "decision_date": "2014-03-24",
+  "docket_number": "No. 13\u20137747.",
+  "first_page": "1579",
+  "last_page": "1579",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 1579"
+    },
+    {
+      "type": "parallel",
+      "cite": "188 L. Ed. 2d 587"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 978",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12586504,
+        12586505,
+        12586506,
+        12586507,
+        12586508,
+        12586509
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/134/0978-01",
+        "/s-ct/134/0978-02",
+        "/s-ct/134/0978-03",
+        "/s-ct/134/0978-04",
+        "/s-ct/134/0978-05",
+        "/s-ct/134/0978-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 176,
+    "sha256": "e1d1660748182eda06d59b8e9dce1830c9577244531923e50a34659b6e95cbe9",
+    "simhash": "1:80bd3646170af30a",
+    "word_count": 26
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher EADS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher EADS, petitioner,\nv.\nUNITED STATES.\nNo. 13-7747.\nSupreme Court of the United States\nMarch 24, 2014.\nFormer decision, 134 S.Ct. 978.\nPetition for rehearing denied."
+  },
+  "file_name": "1579-07",
+  "first_page_order": 1579,
+  "last_page_order": 1579
+}

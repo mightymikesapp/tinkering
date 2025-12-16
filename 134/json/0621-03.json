@@ -1,0 +1,85 @@
+{
+  "id": 12584724,
+  "name": "Cecil R. McDONALD, petitioner, v. TEXAS.",
+  "name_abbreviation": "McDonald v. Texas",
+  "decision_date": "2013-11-12",
+  "docket_number": "No. 13\u20136220.",
+  "first_page": "621",
+  "last_page": "621",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 621"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 403"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "401 S.W.3d 360",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.3d",
+      "case_ids": [
+        7092921
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/sw3d/401/0360-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 225,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26344701949804794
+    },
+    "sha256": "a453578aa6d1cadce26260cdada99a1d4672bf7036ad22aeedde44bff3f3303b",
+    "simhash": "1:380f7606124580e9",
+    "word_count": 37
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cecil R. McDONALD, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Seventh District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cecil R. McDONALD, petitioner,\nv.\nTEXAS.\nNo. 13-6220.\nSupreme Court of the United States\nNov. 12, 2013.\nCase below, 401 S.W.3d 360.\nPetition for writ of certiorari to the Court of Appeals of Texas, Seventh District, denied."
+  },
+  "file_name": "0621-03",
+  "first_page_order": 621,
+  "last_page_order": 621
+}

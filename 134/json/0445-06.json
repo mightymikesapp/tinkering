@@ -1,0 +1,75 @@
+{
+  "id": 12583967,
+  "name": "Fernando BUSTILLO, petitioner, v. Harley LAPPIN, et al.",
+  "name_abbreviation": "Bustillo v. Lappin",
+  "decision_date": "2013-10-15",
+  "docket_number": "No. 13\u20136074.",
+  "first_page": "445",
+  "last_page": "445",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "134 S. Ct. 445"
+    },
+    {
+      "type": "parallel",
+      "cite": "187 L. Ed. 2d 298"
+    },
+    {
+      "type": "vendor",
+      "cite": "82 U.S.L.W. 3215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "504 Fed.Appx. 551",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 252,
+    "sha256": "188c8dafb5d51bf239b2067aa67ed675b9ecc40421e53d9be3349414b224e566",
+    "simhash": "1:e3adee4fb8a706db",
+    "word_count": 41
+  },
+  "last_updated": "2024-02-27T18:39:14.938427+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fernando BUSTILLO, petitioner,\nv.\nHarley LAPPIN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fernando BUSTILLO, petitioner,\nv.\nHarley LAPPIN, et al.\nNo. 13-6074.\nSupreme Court of the United States\nOct. 15, 2013.\nCase below, 504 Fed.Appx. 551.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0445-06",
+  "first_page_order": 445,
+  "last_page_order": 445
+}
