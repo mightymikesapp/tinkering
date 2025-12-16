@@ -1,0 +1,64 @@
+{
+  "id": 12602196,
+  "name": "JOHNSON & JOHNSON, et al., petitioners, v. Lisa RECKIS, et vir.",
+  "name_abbreviation": "Johnson v. Reckis",
+  "decision_date": "2016-01-19",
+  "docket_number": "No. 15\u2013449.",
+  "first_page": "896",
+  "last_page": "896",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 896"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 809"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 291,
+    "sha256": "52b346336869e2446f40c9f7c2cfa95cb62ae3880656a38c692817651340e753",
+    "simhash": "1:e9a5f206b3ac46c0",
+    "word_count": 47
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JOHNSON & JOHNSON, et al., petitioners,\nv.\nLisa RECKIS, et vir."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "JOHNSON & JOHNSON, et al., petitioners,\nv.\nLisa RECKIS, et vir.\nNo. 15-449.\nSupreme Court of the United States\nJan. 19, 2016.\nPetition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+  },
+  "file_name": "0896-01",
+  "first_page_order": 896,
+  "last_page_order": 896
+}

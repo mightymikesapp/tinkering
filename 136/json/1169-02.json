@@ -1,0 +1,64 @@
+{
+  "id": 12595048,
+  "name": "Robert A. LaROCHE, petitioner, v. David DUNLAP, Warden.",
+  "name_abbreviation": "Laroche v. Dunlap",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20137134.",
+  "first_page": "1169",
+  "last_page": "1169",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1169"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "75a9d205ce42679ead536cbf3e3b99f7a4b7a5f57c211867d5edcb05ef743728",
+    "simhash": "1:f1efc4063e465fa1",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert A. LaROCHE, petitioner,\nv.\nDavid DUNLAP, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert A. LaROCHE, petitioner,\nv.\nDavid DUNLAP, Warden.\nNo. 15-7134.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1169-02",
+  "first_page_order": 1169,
+  "last_page_order": 1169
+}

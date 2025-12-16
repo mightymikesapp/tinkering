@@ -1,0 +1,64 @@
+{
+  "id": 12600615,
+  "name": "Jose Luis CASTILLO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Castillo v. United States",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136616.",
+  "first_page": "523",
+  "last_page": "523",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 523"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 412"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "a4d7e7ee5961adf4e69546389c6940657c07a317e6e87b71bc34b06800fd47a8",
+    "simhash": "1:e2ad76443e24b20b",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Luis CASTILLO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Luis CASTILLO, petitioner,\nv.\nUNITED STATES.\nNo. 15-6616.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0523-05",
+  "first_page_order": 523,
+  "last_page_order": 523
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12601959,
+  "name": "Mark K. ARNESS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Arness v. United States",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20137160.",
+  "first_page": "861",
+  "last_page": "861",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 861"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 759"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 209,
+    "sha256": "f86712c6ac877d6c52891a669db710a6335ae250419016d145b7b9bd56715e10",
+    "simhash": "1:f9af664033851619",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark K. ARNESS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark K. ARNESS, petitioner,\nv.\nUNITED STATES.\nNo. 15-7160.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+  },
+  "file_name": "0861-05",
+  "first_page_order": 861,
+  "last_page_order": 861
+}

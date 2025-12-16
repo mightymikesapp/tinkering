@@ -1,0 +1,64 @@
+{
+  "id": 12600686,
+  "name": "David W. HOLLINGSWORTH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hollingsworth v. United States",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20135317.",
+  "first_page": "535",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 535"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 432"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 218,
+    "sha256": "04fee952cc1c3d4d1fc42f3094442c381d041da876785e7e509056c34dc4de39",
+    "simhash": "1:e4bdc6442e0406e9",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David W. HOLLINGSWORTH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David W. HOLLINGSWORTH, petitioner,\nv.\nUNITED STATES.\nNo. 15-5317.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0535-06",
+  "first_page_order": 535,
+  "last_page_order": 535
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12601286,
+  "name": "Roger L. WHEELER, petitioner, v. Randy WHITE, Warden.",
+  "name_abbreviation": "Wheeler v. White",
+  "decision_date": "2015-12-14",
+  "docket_number": "No. 14\u201310376.",
+  "first_page": "688",
+  "last_page": "688",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 688"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 519"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 219,
+    "sha256": "bc14b993a30f5d40048774c62a39c75f84625ff6d98aa088c97dbd3b43d1d8a3",
+    "simhash": "1:74fd444d3f22573d",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roger L. WHEELER, petitioner,\nv.\nRandy WHITE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roger L. WHEELER, petitioner,\nv.\nRandy WHITE, Warden.\nNo. 14-10376.\nSupreme Court of the United States\nDec. 14, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0688-02",
+  "first_page_order": 688,
+  "last_page_order": 688
+}

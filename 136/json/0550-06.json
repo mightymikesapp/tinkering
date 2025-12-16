@@ -1,0 +1,64 @@
+{
+  "id": 12600789,
+  "name": "John SCALES, petitioner, v. Laurel HARRY, Superintendent, State Correctional Institution at Camp Hill, et al.",
+  "name_abbreviation": "Scales v. Harry",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136314.",
+  "first_page": "550",
+  "last_page": "550",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 550"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 440"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 274,
+    "sha256": "79ef4aba900618c8f792d9911b82177a2c9511130631f9d1f08808af103f583e",
+    "simhash": "1:f42e44443e4906ac",
+    "word_count": 43
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John SCALES, petitioner,\nv.\nLaurel HARRY, Superintendent, State Correctional Institution at Camp Hill, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John SCALES, petitioner,\nv.\nLaurel HARRY, Superintendent, State Correctional Institution at Camp Hill, et al.\nNo. 15-6314.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0550-06",
+  "first_page_order": 550,
+  "last_page_order": 550
+}

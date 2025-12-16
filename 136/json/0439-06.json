@@ -1,0 +1,62 @@
+{
+  "id": 12600255,
+  "name": "In the Matter of DISCIPLINE OF John H. WYMAN.",
+  "name_abbreviation": "In re Wyman",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. D\u20132837.",
+  "first_page": "439",
+  "last_page": "439",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 439"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 341"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 352,
+    "sha256": "89d3bd6591d1836a7d8e621a7df2ec9e5c007182277a45563b550eb081e49ec2",
+    "simhash": "1:7a8771bebfce37ef",
+    "word_count": 64
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF John H. WYMAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF John H. WYMAN.\nNo. D-2837.\nSupreme Court of the United States\nNov. 2, 2015.\nJohn H. Wyman, of Plymouth, Massachusetts, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0439-06",
+  "first_page_order": 439,
+  "last_page_order": 439
+}

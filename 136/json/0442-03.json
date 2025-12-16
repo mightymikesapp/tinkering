@@ -1,0 +1,62 @@
+{
+  "id": 12600275,
+  "name": "In the Matter of DISCIPLINE OF Gerald Isadore KATZ.",
+  "name_abbreviation": "In re Katz",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. D\u20132851.",
+  "first_page": "442",
+  "last_page": "442",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 442"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 359,
+    "sha256": "95bd3635cb9801a7c9473819278a6e8e3f369c490e0cb2f3d5f762131e7ead27",
+    "simhash": "1:728b71b6beeeb7e2",
+    "word_count": 64
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Gerald Isadore KATZ."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Gerald Isadore KATZ.\nNo. D-2851.\nSupreme Court of the United States\nNov. 2, 2015.\nGerald Isadore Katz, of Bethesda, Maryland, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0442-03",
+  "first_page_order": 442,
+  "last_page_order": 442
+}

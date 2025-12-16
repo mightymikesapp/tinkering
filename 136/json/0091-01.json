@@ -1,0 +1,81 @@
+{
+  "id": 12602291,
+  "name": "Anthony LANE, petitioner, v. ALABAMA.",
+  "name_abbreviation": "Lane v. Alabama",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u201310065.",
+  "first_page": "91",
+  "last_page": "91",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 91"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 7"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "134 S.Ct. 1986",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12707004,
+        12580884
+      ],
+      "weight": 2,
+      "year": 2014,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/572/0701-01",
+        "/s-ct/134/1986-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 478,
+    "sha256": "a87edee23d556e0cae6787ea3a317fe521ae91b9799ffa17cfadd39270e52eb7",
+    "simhash": "1:7b94eafe25d3049d",
+    "word_count": 78
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony LANE, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Court of Criminal Appeals of Alabama. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Criminal Appeals of Alabama for further consideration in light of Hall v. Florida, 572 U.S. ----, 134 S.Ct. 1986, 188 L.Ed.2d 1007 (2014)."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony LANE, petitioner,\nv.\nALABAMA.\nNo. 14-10065.\nSupreme Court of the United States\nOct. 5, 2015.\nOn petition for writ of certiorari to the Court of Criminal Appeals of Alabama. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Criminal Appeals of Alabama for further consideration in light of Hall v. Florida, 572 U.S. ----, 134 S.Ct. 1986, 188 L.Ed.2d 1007 (2014)."
+  },
+  "file_name": "0091-01",
+  "first_page_order": 91,
+  "last_page_order": 91
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12600594,
+  "name": "John SIMMONS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Simmons v. United States",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136545.",
+  "first_page": "520",
+  "last_page": "520",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 520"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 409"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "6d66f31471d1cbdba235f9028e3b76a434031eecbb6f0abc87919ed4104635e2",
+    "simhash": "1:deae76443f0c830f",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John SIMMONS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John SIMMONS, petitioner,\nv.\nUNITED STATES.\nNo. 15-6545.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0520-02",
+  "first_page_order": 520,
+  "last_page_order": 520
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12600120,
+  "name": "Jamie D. GEER, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Geer v. Florida",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20136041.",
+  "first_page": "419",
+  "last_page": "419",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 419"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 203,
+    "sha256": "dca13526f3d1af775bbdc9402990cf73188aa8a54eba70755381cfd56ba20f24",
+    "simhash": "1:d0ef7014faa90161",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jamie D. GEER, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jamie D. GEER, petitioner,\nv.\nFLORIDA.\nNo. 15-6041.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Second District, denied."
+  },
+  "file_name": "0419-03",
+  "first_page_order": 419,
+  "last_page_order": 419
+}

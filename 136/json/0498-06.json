@@ -1,0 +1,62 @@
+{
+  "id": 12600446,
+  "name": "In the Matter of DISBARMENT OF Jon Charles COOPER.",
+  "name_abbreviation": "In re Cooper",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. D\u20132835.",
+  "first_page": "498",
+  "last_page": "498",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 498"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 139,
+    "sha256": "87a58b18787c289044225c41bd098303da8a1bdc25bbb2e18618981b9649eeac",
+    "simhash": "1:a8674014f78034e9",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Jon Charles COOPER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Jon Charles COOPER.\nNo. D-2835.\nSupreme Court of the United States\nNov. 9, 2015.\nDisbarment order entered."
+  },
+  "file_name": "0498-06",
+  "first_page_order": 498,
+  "last_page_order": 498
+}

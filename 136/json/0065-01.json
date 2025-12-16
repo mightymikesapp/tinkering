@@ -1,0 +1,64 @@
+{
+  "id": 12601257,
+  "name": "Michael SMALL, petitioner, v. Cherry LINDAMOOD, Warden.",
+  "name_abbreviation": "Small v. Lindamood",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139827.",
+  "first_page": "65",
+  "last_page": "65",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 65"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 64"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 219,
+    "sha256": "d6ee307f5711dbd1d3865e68ee99386cc9472add14cf97a27e52b2ed1bf917c9",
+    "simhash": "1:7cad52443b8414ad",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael SMALL, petitioner,\nv.\nCherry LINDAMOOD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael SMALL, petitioner,\nv.\nCherry LINDAMOOD, Warden.\nNo. 14-9827.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0065-01",
+  "first_page_order": 65,
+  "last_page_order": 65
+}

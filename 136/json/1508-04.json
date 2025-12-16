@@ -1,0 +1,64 @@
+{
+  "id": 12596435,
+  "name": "Gregory KAIGHN, et al., plaintiffs, v. UNITED STATES, et al.",
+  "name_abbreviation": "Kaighn v. United States",
+  "decision_date": "2016-03-28",
+  "docket_number": "No. 15M95.",
+  "first_page": "1508",
+  "last_page": "1508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1508"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 177,
+    "sha256": "8400568a57ce636b8df284006d40864ef82e441ce2c8123125f70539d15b2e78",
+    "simhash": "1:83a5dd0f5c71795d",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory KAIGHN, et al., plaintiffs,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a Bill of Complaint denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory KAIGHN, et al., plaintiffs,\nv.\nUNITED STATES, et al.\nNo. 15M95.\nSupreme Court of the United States\nMarch 28, 2016.\nMotion for leave to file a Bill of Complaint denied."
+  },
+  "file_name": "1508-04",
+  "first_page_order": 1508,
+  "last_page_order": 1508
+}

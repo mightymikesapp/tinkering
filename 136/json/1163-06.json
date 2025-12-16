@@ -1,0 +1,64 @@
+{
+  "id": 12595016,
+  "name": "Leonard P. MACHULAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Machulas v. United States",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20136761.",
+  "first_page": "1163",
+  "last_page": "1164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1163"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "45583e2d00b4c3a8f374475614b5aa383ff5c3f0595db49f10184ae1762f0eeb",
+    "simhash": "1:ffaf14402b0c0003",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leonard P. MACHULAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leonard P. MACHULAS, petitioner,\nv.\nUNITED STATES.\nNo. 15-6761.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "1163-06",
+  "first_page_order": 1163,
+  "last_page_order": 1164
+}

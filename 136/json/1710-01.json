@@ -1,0 +1,62 @@
+{
+  "id": 12597116,
+  "name": "In the Matter of DISBARMENT OF William Jennings JEFFERSON.",
+  "name_abbreviation": "In re Jefferson",
+  "decision_date": "2016-04-18",
+  "docket_number": "No. D\u20132859.",
+  "first_page": "1710",
+  "last_page": "1710",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1710"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 806"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 149,
+    "sha256": "0681bd930c58f70cf7621903d4c8ebce18973d19faf9cee3aab19e9258c1fbac",
+    "simhash": "1:e07254073ea43cf0",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF William Jennings JEFFERSON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF William Jennings JEFFERSON.\nNo. D-2859.\nSupreme Court of the United States\nApril 18, 2016.\nDisbarment order entered."
+  },
+  "file_name": "1710-01",
+  "first_page_order": 1710,
+  "last_page_order": 1710
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12595864,
+  "name": "In re Anthony L. VIOLA, petitioner.",
+  "name_abbreviation": "In re Viola",
+  "decision_date": "2016-03-07",
+  "docket_number": "No. 15\u20137843.",
+  "first_page": "1389",
+  "last_page": "1389",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1389"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 138,
+    "sha256": "84e487abff0cb346fd40e9870fa6dfc54d15a9365c4acba3339096060fedc132",
+    "simhash": "1:5b27c046eb64715f",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Anthony L. VIOLA, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Anthony L. VIOLA, petitioner.\nNo. 15-7843.\nSupreme Court of the United States\nMarch 7, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1389-06",
+  "first_page_order": 1389,
+  "last_page_order": 1389
+}

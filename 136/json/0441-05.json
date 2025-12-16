@@ -1,0 +1,62 @@
+{
+  "id": 12600272,
+  "name": "In the Matter of DISCIPLINE OF Lee Daniel GOTTESMAN.",
+  "name_abbreviation": "In re Gottesman",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. D\u20132848.",
+  "first_page": "441",
+  "last_page": "442",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 441"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 343"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 365,
+    "sha256": "b8e4b35a15d364c8172daaceaa248762e2c703565ad05a4c428513a1dd8dcc33",
+    "simhash": "1:688a71363bcaa7e7",
+    "word_count": 66
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Lee Daniel GOTTESMAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Lee Daniel GOTTESMAN.\nNo. D-2848.\nSupreme Court of the United States\nNov. 2, 2015.\nLee Daniel Gottesman, of Toms River, New Jersey, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0441-05",
+  "first_page_order": 441,
+  "last_page_order": 442
+}

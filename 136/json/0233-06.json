@@ -1,0 +1,62 @@
+{
+  "id": 12598107,
+  "name": "Robert HAZEN, petitioner, v. Ellen HAZEN.",
+  "name_abbreviation": "Hazen v. Hazen",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135373.",
+  "first_page": "233",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 233"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 206,
+    "sha256": "f2fee7e7a6a699c7a59095430392a85ff28dd47a7f44816393200837f145f83a",
+    "simhash": "1:d8ef82441ad0097d",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert HAZEN, petitioner,\nv.\nEllen HAZEN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Robert HAZEN, petitioner,\nv.\nEllen HAZEN.\nNo. 15-5373.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Fourth District, denied."
+  },
+  "file_name": "0233-06",
+  "first_page_order": 233,
+  "last_page_order": 234
+}

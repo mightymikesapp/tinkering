@@ -1,0 +1,64 @@
+{
+  "id": 12602216,
+  "name": "Herman HOFFMAN, et ux., petitioners, v. TEXAS.",
+  "name_abbreviation": "Hoffman v. Texas",
+  "decision_date": "2016-01-19",
+  "docket_number": "No. 15\u2013629.",
+  "first_page": "899",
+  "last_page": "899",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 899"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 791"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 205,
+    "sha256": "ee1d806d3e0889a9402281e9217357573fec7f4cafd631ac685befbddf03247f",
+    "simhash": "1:40efbc16ba4774c1",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Herman HOFFMAN, et ux., petitioners,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the County Court at Law 2, Montgomery County, Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Herman HOFFMAN, et ux., petitioners,\nv.\nTEXAS.\nNo. 15-629.\nSupreme Court of the United States\nJan. 19, 2016.\nPetition for writ of certiorari to the County Court at Law 2, Montgomery County, Texas denied."
+  },
+  "file_name": "0899-05",
+  "first_page_order": 899,
+  "last_page_order": 899
+}

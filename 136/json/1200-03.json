@@ -1,0 +1,64 @@
+{
+  "id": 12595266,
+  "name": "In re Sabrina D. DAVIS, petitioner.",
+  "name_abbreviation": "In re Davis",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20137460.",
+  "first_page": "1200",
+  "last_page": "1200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1200"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 245"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 138,
+    "sha256": "9a08f3cf0a146ab742d1bf9666511eac0178d244d7e2eefb6ee710e2e96a1a74",
+    "simhash": "1:aea3541231b86175",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Sabrina D. DAVIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Sabrina D. DAVIS, petitioner.\nNo. 15-7460.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1200-03",
+  "first_page_order": 1200,
+  "last_page_order": 1200
+}

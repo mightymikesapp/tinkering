@@ -1,0 +1,64 @@
+{
+  "id": 12600389,
+  "name": "Arthur BOMAR, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Bomar v. Pennsylvania",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139649.",
+  "first_page": "49",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 49"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 54"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 201,
+    "sha256": "af351586ee4465120c7a40cd6ed28fe46e66f513b2019cd89f4c8d9ccd536c8b",
+    "simhash": "1:fd2e56547ab405bd",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arthur BOMAR, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arthur BOMAR, petitioner,\nv.\nPENNSYLVANIA.\nNo. 14-9649.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District, denied."
+  },
+  "file_name": "0049-04",
+  "first_page_order": 49,
+  "last_page_order": 49
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12600544,
+  "name": "Johnny Lee LUCAS, petitioner, v. Leroy CARTLEDGE, Warden.",
+  "name_abbreviation": "Lucas v. Cartledge",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136257.",
+  "first_page": "512",
+  "last_page": "512",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 512"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 201,
+    "sha256": "c2c5b87c3b3804920d6e790d9bcd848f1adf68ab0e5416945197bd480647267d",
+    "simhash": "1:5e2f76463ae5343b",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnny Lee LUCAS, petitioner,\nv.\nLeroy CARTLEDGE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of South Carolina denied."
+    ],
+    "corrections": "",
+    "head_matter": "Johnny Lee LUCAS, petitioner,\nv.\nLeroy CARTLEDGE, Warden.\nNo. 15-6257.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the Supreme Court of South Carolina denied."
+  },
+  "file_name": "0512-05",
+  "first_page_order": 512,
+  "last_page_order": 512
+}

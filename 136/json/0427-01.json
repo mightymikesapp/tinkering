@@ -1,0 +1,64 @@
+{
+  "id": 12600172,
+  "name": "Mark CORRIGAN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Corrigan v. United States",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20136260.",
+  "first_page": "427",
+  "last_page": "427",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 427"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 333"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "cb6148cf01f42dc262bb5a9ea447c387c24501ea5e8e2c0724c1726c8cd75ffa",
+    "simhash": "1:53afc4443b04960d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark CORRIGAN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark CORRIGAN, petitioner,\nv.\nUNITED STATES.\nNo. 15-6260.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0427-01",
+  "first_page_order": 427,
+  "last_page_order": 427
+}

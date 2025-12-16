@@ -1,0 +1,64 @@
+{
+  "id": 12599166,
+  "name": "TEXAS, petitioner, v. David VILLARREAL.",
+  "name_abbreviation": "Texas v. Villarreal",
+  "decision_date": "2016-06-28",
+  "docket_number": "No. 15\u20131063.",
+  "first_page": "2544",
+  "last_page": "2544",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2544"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 869"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 186,
+    "sha256": "b02ab06752a8a904bd7c5fe93ee69af259aa4aa62a68c324c39a2e0e1e01675f",
+    "simhash": "1:fcaf2c2ebb8f01d9",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TEXAS, petitioner,\nv.\nDavid VILLARREAL."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "TEXAS, petitioner,\nv.\nDavid VILLARREAL.\nNo. 15-1063.\nSupreme Court of the United States\nJune 28, 2016.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "2544-04",
+  "first_page_order": 2544,
+  "last_page_order": 2544
+}

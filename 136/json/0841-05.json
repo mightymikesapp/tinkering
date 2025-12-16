@@ -1,0 +1,64 @@
+{
+  "id": 12601825,
+  "name": "Bruno CHOINIERE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Choiniere v. United States",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136937.",
+  "first_page": "841",
+  "last_page": "841",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 841"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 767"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 290,
+    "sha256": "f7d526b6f0fd54683402cc6c2b32fb94250748395a6bed40d6f54132bd2bf230",
+    "simhash": "1:fbaf76c43d265a0d",
+    "word_count": 47
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bruno CHOINIERE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bruno CHOINIERE, petitioner,\nv.\nUNITED STATES.\nNo. 15-6937.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0841-05",
+  "first_page_order": 841,
+  "last_page_order": 841
+}

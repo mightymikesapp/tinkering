@@ -1,0 +1,64 @@
+{
+  "id": 12597345,
+  "name": "John D. HAYWOOD, petitioner, v. CHAMPAIGN COUNTY, ILLINOIS, et al.",
+  "name_abbreviation": "Haywood v. Champaign Cnty.",
+  "decision_date": "2016-05-02",
+  "docket_number": "No. 15\u20138347.",
+  "first_page": "1825",
+  "last_page": "1826",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1825"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 832"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 231,
+    "sha256": "9024b48414f265a53af6c4bcfc75cdfabc1b3889d9ad23ceaeeb2b7575de8e1d",
+    "simhash": "1:fd6fd646b7c5371d",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John D. HAYWOOD, petitioner,\nv.\nCHAMPAIGN COUNTY, ILLINOIS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John D. HAYWOOD, petitioner,\nv.\nCHAMPAIGN COUNTY, ILLINOIS, et al.\nNo. 15-8347.\nSupreme Court of the United States\nMay 2, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1825-06",
+  "first_page_order": 1825,
+  "last_page_order": 1826
+}

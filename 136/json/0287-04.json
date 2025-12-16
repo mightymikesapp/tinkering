@@ -1,0 +1,64 @@
+{
+  "id": 12599432,
+  "name": "Garvester BRACKEN, petitioner, v. MISSOURI, et al.",
+  "name_abbreviation": "Bracken v. Missouri",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15M21.",
+  "first_page": "287",
+  "last_page": "287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 287"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 16"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 201,
+    "sha256": "629f9de7d12dced1069c049d5fac5fdf8f913155b4c53db874eb3baa5a970581",
+    "simhash": "1:d88d0206d3c9f0bd",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Garvester BRACKEN, petitioner,\nv.\nMISSOURI, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Garvester BRACKEN, petitioner,\nv.\nMISSOURI, et al.\nNo. 15M21.\nSupreme Court of the United States\nOct. 5, 2015.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0287-04",
+  "first_page_order": 287,
+  "last_page_order": 287
+}

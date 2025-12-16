@@ -1,0 +1,64 @@
+{
+  "id": 12602279,
+  "name": "Peter KING, petitioner, v. NEW YORK.",
+  "name_abbreviation": "King v. Newyork",
+  "decision_date": "2016-01-19",
+  "docket_number": "No. 15\u20137128.",
+  "first_page": "908",
+  "last_page": "908",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 908"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 800"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 222,
+    "sha256": "88b9d932a5abaabedd89dafef157ef0e01437f75330ef70b2db8e7f368c0b00e",
+    "simhash": "1:6ccf5454b3802001",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peter KING, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Fourth Judicial Department denied."
+    ],
+    "corrections": "",
+    "head_matter": "Peter KING, petitioner,\nv.\nNEW YORK.\nNo. 15-7128.\nSupreme Court of the United States\nJan. 19, 2016.\nPetition for writ of certiorari to the Appellate Division, Supreme Court of New York, Fourth Judicial Department denied."
+  },
+  "file_name": "0908-01",
+  "first_page_order": 908,
+  "last_page_order": 908
+}

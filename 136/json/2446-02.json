@@ -1,0 +1,111 @@
+{
+  "id": 12598517,
+  "name": "Michael Shawn BARNES, petitioner, v. ALABAMA.",
+  "name_abbreviation": "Barnes v. Alabama",
+  "decision_date": "2016-05-23",
+  "docket_number": "No. 15\u20136904.",
+  "first_page": "2446",
+  "last_page": "2447",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2446"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 1796",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597302
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "Alito, J., concurring"
+        },
+        {
+          "parenthetical": "Sotomayor, J., concurring"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/1796-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 718",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12601432
+      ],
+      "weight": 6,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/0718-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 133,
+    "char_count": 2056,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635551339093515
+    },
+    "sha256": "6df981056399bff4ca7e306b1e4daa697a6da9ad3f57adea3322172121ffc37c",
+    "simhash": "1:73ab7a522c05ed0b",
+    "word_count": 316
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Shawn BARNES, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Court of Criminal Appeals of Alabama. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Criminal Appeals of Alabama for further consideration in light of Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016).",
+      "Justice THOMAS, with whom Justice ALITO joins, concurring in the decision to grant, vacate, and remand in this case: The Court has held the petition in this and many other cases pending the decision in Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016). In holding this petition and now vacating and remanding the judgment below, the Court has not assessed whether petitioner's asserted entitlement to retroactive relief \"is properly presented in the case.\" Id., at ----, 136 S.Ct. at 732. On remand, courts should understand that the Court's disposition of this petition does not reflect any view regarding petitioner's entitlement to relief. The Court's disposition does not, for example, address whether an adequate and independent state ground bars relief, whether petitioner forfeited or waived any entitlement to relief (by, for example, entering into a plea agreement waiving any entitlement to relief), or whether petitioner's sentence actually qualifies as a mandatory life without parole sentence."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Shawn BARNES, petitioner,\nv.\nALABAMA.\nNo. 15-6904.\nSupreme Court of the United States\nMay 23, 2016.\nOn petition for writ of certiorari to the Court of Criminal Appeals of Alabama. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Criminal Appeals of Alabama for further consideration in light of Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016).\nJustice THOMAS, with whom Justice ALITO joins, concurring in the decision to grant, vacate, and remand in this case: The Court has held the petition in this and many other cases pending the decision in Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016). In holding this petition and now vacating and remanding the judgment below, the Court has not assessed whether petitioner's asserted entitlement to retroactive relief \"is properly presented in the case.\" Id., at ----, 136 S.Ct. at 732. On remand, courts should understand that the Court's disposition of this petition does not reflect any view regarding petitioner's entitlement to relief. The Court's disposition does not, for example, address whether an adequate and independent state ground bars relief, whether petitioner forfeited or waived any entitlement to relief (by, for example, entering into a plea agreement waiving any entitlement to relief), or whether petitioner's sentence actually qualifies as a mandatory life without parole sentence.\nJustice ALITO, with whom Justice THOMAS joins, concurring in the decision to grant, vacate, and remand. I concur in the decision to grant, vacate, and remand. See Adams v. Alabama, 578 U.S. ----, 136 S.Ct. 1796, ---L.Ed.2d ---- (2016) (Alito, J., concurring).\nJustice SOTOMAYOR, with whom Justice GINSBURG joins, concurring in the decision to grant, vacate, and remand. I concur in the decision to grant, vacate, and remand. See Adams v. Alabama, 578 U.S. ----, 136 S.Ct. 1796, ---L.Ed.2d ---- (2016) (Sotomayor, J., concurring)."
+  },
+  "file_name": "2446-02",
+  "first_page_order": 2446,
+  "last_page_order": 2447
+}

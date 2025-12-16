@@ -1,0 +1,64 @@
+{
+  "id": 12597830,
+  "name": "Ray Anthony WASHINGTON, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Washington v. United States",
+  "decision_date": "2016-05-16",
+  "docket_number": "No. 15M115.",
+  "first_page": "2045",
+  "last_page": "2045",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2045"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 214,
+    "sha256": "81f99ebdc0d3846411d67790366441d440e81482208423e8f134c27fc6b96fd8",
+    "simhash": "1:f8a5d202438bfbae",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ray Anthony WASHINGTON, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ray Anthony WASHINGTON, petitioner,\nv.\nUNITED STATES, et al.\nNo. 15M115.\nSupreme Court of the United States\nMay 16, 2016.\nMotion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+  },
+  "file_name": "2045-02",
+  "first_page_order": 2045,
+  "last_page_order": 2045
+}

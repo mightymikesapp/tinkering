@@ -1,0 +1,64 @@
+{
+  "id": 12600020,
+  "name": "Derrick JONES, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Jones v. Louisiana",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20135368.",
+  "first_page": "403",
+  "last_page": "403",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 403"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 320"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 197,
+    "sha256": "b9ebf4f9bb270a7c66fb19c176175bb921731266cbc32b724289ee4223d3e4c1",
+    "simhash": "1:ea2ff45693c98529",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Derrick JONES, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of Louisiana, Fourth Circuit, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Derrick JONES, petitioner,\nv.\nLOUISIANA.\nNo. 15-5368.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the Court of Appeal of Louisiana, Fourth Circuit, denied."
+  },
+  "file_name": "0403-01",
+  "first_page_order": 403,
+  "last_page_order": 403
+}

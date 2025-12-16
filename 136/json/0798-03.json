@@ -1,0 +1,64 @@
+{
+  "id": 12601532,
+  "name": "Richard E. LYNCH, petitioner, v. Julie L. JONES, Secretary, Florida Department of Corrections, et al.",
+  "name_abbreviation": "Lynch v. Jones",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136191.",
+  "first_page": "798",
+  "last_page": "798",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 798"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 269,
+    "sha256": "74027b0eba7a492c9f22091af7df370de17b4e3271fdb2e67abef174b0f6bfa5",
+    "simhash": "1:302f52d4bfa5a489",
+    "word_count": 43
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard E. LYNCH, petitioner,\nv.\nJulie L. JONES, Secretary, Florida Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard E. LYNCH, petitioner,\nv.\nJulie L. JONES, Secretary, Florida Department of Corrections, et al.\nNo. 15-6191.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0798-03",
+  "first_page_order": 798,
+  "last_page_order": 798
+}

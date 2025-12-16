@@ -1,0 +1,64 @@
+{
+  "id": 12595255,
+  "name": "James GARREY, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Garrey v. Massachusetts",
+  "decision_date": "2015-07-20",
+  "docket_number": "No. 14\u20139365.",
+  "first_page": "12",
+  "last_page": "12",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 12"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 982"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 139,
+    "sha256": "b986d139eb4aaa5298233b81e7a5f4c1dd43c27055e043bab80d5ddfd6e10eac",
+    "simhash": "1:21e5b6d23ccc52a7",
+    "word_count": 20
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James GARREY, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "James GARREY, petitioner,\nv.\nMASSACHUSETTS.\nNo. 14-9365.\nSupreme Court of the United States\nJuly 20, 2015.\nPetition for rehearing denied."
+  },
+  "file_name": "0012-06",
+  "first_page_order": 12,
+  "last_page_order": 12
+}

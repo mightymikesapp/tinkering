@@ -1,0 +1,64 @@
+{
+  "id": 12600508,
+  "name": "In re Gregory JOHNSON, petitioner.",
+  "name_abbreviation": "In re Johnson",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136078.",
+  "first_page": "508",
+  "last_page": "508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 508"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 140,
+    "sha256": "30f1ce215d1862312c157b947bac8fad71a6f8c571d59dfb3bf74b17425d5df0",
+    "simhash": "1:c2a9f456bad98f4b",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gregory JOHNSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Gregory JOHNSON, petitioner.\nNo. 15-6078.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of prohibition denied."
+  },
+  "file_name": "0508-01",
+  "first_page_order": 508,
+  "last_page_order": 508
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12597120,
+  "name": "In the Matter of DISBARMENT OF Daniel ROZENSTRAUCH.",
+  "name_abbreviation": "In re Rozenstrauch",
+  "decision_date": "2016-04-18",
+  "docket_number": "No. D\u20132865.",
+  "first_page": "1710",
+  "last_page": "1710",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1710"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 807"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 142,
+    "sha256": "05f93125475a27aed22fa7bf56247e676ac2672aebad6fb7410016a3557f584e",
+    "simhash": "1:e22375c7e0a767e5",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Daniel ROZENSTRAUCH."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Daniel ROZENSTRAUCH.\nNo. D-2865.\nSupreme Court of the United States\nApril 18, 2016.\nDisbarment order entered."
+  },
+  "file_name": "1710-05",
+  "first_page_order": 1710,
+  "last_page_order": 1710
+}

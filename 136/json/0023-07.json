@@ -1,0 +1,64 @@
+{
+  "id": 12598082,
+  "name": "In re Samuel RIVERA, petitioner.",
+  "name_abbreviation": "In re Rivera",
+  "decision_date": "2015-08-28",
+  "docket_number": "No. 14\u201310119.",
+  "first_page": "23",
+  "last_page": "23",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 23"
+    },
+    {
+      "type": "parallel",
+      "cite": "192 L. Ed. 2d 993"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 129,
+    "sha256": "29e9bbec994793c20ae0329ea5f759327325178bf76a5cf1586621d6a15ce40c",
+    "simhash": "1:18a07656be88774c",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Samuel RIVERA, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Samuel RIVERA, petitioner.\nNo. 14-10119.\nSupreme Court of the United States\nAug. 28, 2015.\nPetition for rehearing denied."
+  },
+  "file_name": "0023-07",
+  "first_page_order": 23,
+  "last_page_order": 23
+}

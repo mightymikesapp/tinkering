@@ -1,0 +1,64 @@
+{
+  "id": 12599776,
+  "name": "In re Terry MIDDLETON, petitioner.",
+  "name_abbreviation": "In re Middleton",
+  "decision_date": "2015-10-13",
+  "docket_number": "No. 15\u20136113.",
+  "first_page": "352",
+  "last_page": "352",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 352"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 253"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 326,
+    "sha256": "5071f847052092f1219d80ec9cd5c3381259d2ad04f117476a2bef2f70760fc2",
+    "simhash": "1:4ab3f944c7774412",
+    "word_count": 54
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Terry MIDDLETON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "In re Terry MIDDLETON, petitioner.\nNo. 15-6113.\nSupreme Court of the United States\nOct. 13, 2015.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8.\nJustice KAGAN took no part in the consideration or decision of this motion and this petition."
+  },
+  "file_name": "0352-02",
+  "first_page_order": 352,
+  "last_page_order": 352
+}

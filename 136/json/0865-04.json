@@ -1,0 +1,64 @@
+{
+  "id": 12601982,
+  "name": "J. Jefferson CROOK, petitioner, v. Pedro GALAVIZ, et al.",
+  "name_abbreviation": "Crook v. Galaviz",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20137218.",
+  "first_page": "865",
+  "last_page": "865",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 865"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 761"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 221,
+    "sha256": "6a16c4b9de8058a3b9741069bc00a266aae6fa6d00956e3b46a59502f5c0e824",
+    "simhash": "1:72af5444b6e142cd",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "J. Jefferson CROOK, petitioner,\nv.\nPedro GALAVIZ, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "J. Jefferson CROOK, petitioner,\nv.\nPedro GALAVIZ, et al.\nNo. 15-7218.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0865-04",
+  "first_page_order": 865,
+  "last_page_order": 865
+}

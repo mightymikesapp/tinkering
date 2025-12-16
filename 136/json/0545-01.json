@@ -1,0 +1,64 @@
+{
+  "id": 12600748,
+  "name": "Larry THOMAS, Jr., petitioner, v. Jerry GOODWIN, Warden.",
+  "name_abbreviation": "Thomas v. Goodwin",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136212.",
+  "first_page": "545",
+  "last_page": "545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 545"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 436"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "ca45f039d63b271f342d475dfe5d563b78f1fa03524050fa1f1846779a56754c",
+    "simhash": "1:a1ffd4443e8812a9",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry THOMAS, Jr., petitioner,\nv.\nJerry GOODWIN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Larry THOMAS, Jr., petitioner,\nv.\nJerry GOODWIN, Warden.\nNo. 15-6212.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0545-01",
+  "first_page_order": 545,
+  "last_page_order": 545
+}

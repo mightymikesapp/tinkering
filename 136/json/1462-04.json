@@ -1,0 +1,64 @@
+{
+  "id": 12596119,
+  "name": "In re Michael HOUSTON, et al., petitioners.",
+  "name_abbreviation": "In re Houston",
+  "decision_date": "2016-03-21",
+  "docket_number": "No. 15\u2013907.",
+  "first_page": "1462",
+  "last_page": "1462",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1462"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 577"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 146,
+    "sha256": "05ab4080dfb2116be6cb56eebf93402e56544c7093dded982d8ab59553937796",
+    "simhash": "1:ef230c440f38204b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Michael HOUSTON, et al., petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Michael HOUSTON, et al., petitioners.\nNo. 15-907.\nSupreme Court of the United States\nMarch 21, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1462-04",
+  "first_page_order": 1462,
+  "last_page_order": 1462
+}

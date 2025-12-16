@@ -1,0 +1,64 @@
+{
+  "id": 12600497,
+  "name": "Lewis WU, et ux., petitioners, v. CAPITAL ONE N.A. et al.",
+  "name_abbreviation": "Wu v. Capital One N.A.",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u2013322.",
+  "first_page": "506",
+  "last_page": "506",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 506"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 397"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 221,
+    "sha256": "f2378c981bee6bbb7ae83fb8d27d861e68736b05440a96e760bc2abe20044b17",
+    "simhash": "1:702f5244fe4d12af",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lewis WU, et ux., petitioners,\nv.\nCAPITAL ONE N.A. et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lewis WU, et ux., petitioners,\nv.\nCAPITAL ONE N.A. et al.\nNo. 15-322.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0506-02",
+  "first_page_order": 506,
+  "last_page_order": 506
+}

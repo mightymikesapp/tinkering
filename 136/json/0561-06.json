@@ -1,0 +1,64 @@
+{
+  "id": 12600860,
+  "name": "Isabel GONZALEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gonzalez v. United States",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136649.",
+  "first_page": "561",
+  "last_page": "561",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 561"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 212,
+    "sha256": "00e32ccbc103c8144335f3d4c7a67d6a29ad20483a0fc38f5af09fb476c01500",
+    "simhash": "1:7badc6443fc49609",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Isabel GONZALEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Isabel GONZALEZ, petitioner,\nv.\nUNITED STATES.\nNo. 15-6649.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0561-06",
+  "first_page_order": 561,
+  "last_page_order": 561
+}

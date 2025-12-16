@@ -1,0 +1,64 @@
+{
+  "id": 12598164,
+  "name": "Tommy Earl JONES, petitioner, v. Don WILLIE, et al.",
+  "name_abbreviation": "Jones v. Willie",
+  "decision_date": "2016-05-23",
+  "docket_number": "No. 15\u20138647.",
+  "first_page": "2383",
+  "last_page": "2383",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2383"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 215,
+    "sha256": "173dee2145b3ab2e1d6a78b4371ea80a6cc10cae29760e19f4fa156ea6d9004b",
+    "simhash": "1:706d54441ac41303",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tommy Earl JONES, petitioner,\nv.\nDon WILLIE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tommy Earl JONES, petitioner,\nv.\nDon WILLIE, et al.\nNo. 15-8647.\nSupreme Court of the United States\nMay 23, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "2383-02",
+  "first_page_order": 2383,
+  "last_page_order": 2383
+}

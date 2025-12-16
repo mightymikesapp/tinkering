@@ -1,0 +1,64 @@
+{
+  "id": 12601165,
+  "name": "In re George H. GAGE, petitioner.",
+  "name_abbreviation": "In re Gage",
+  "decision_date": "2015-12-07",
+  "docket_number": "No. 15\u20136931.",
+  "first_page": "605",
+  "last_page": "605",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 605"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 487"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 140,
+    "sha256": "77bb2172b13334661ab1ec1da3e7b166bc85126c35db9edfe74b2c4d190e6ed8",
+    "simhash": "1:d84700763770c77f",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re George H. GAGE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re George H. GAGE, petitioner.\nNo. 15-6931.\nSupreme Court of the United States\nDec. 7, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0605-05",
+  "first_page_order": 605,
+  "last_page_order": 605
+}

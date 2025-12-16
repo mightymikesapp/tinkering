@@ -1,0 +1,64 @@
+{
+  "id": 12595456,
+  "name": "In re Austin RAY, petitioner.",
+  "name_abbreviation": "In re Ray",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20137757.",
+  "first_page": "1229",
+  "last_page": "1229",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1229"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 245"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "382849fed5e83022537549017c867c3308711f926e563b863dab0bae4f58b97a",
+    "simhash": "1:eae754363ed741f5",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Austin RAY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Austin RAY, petitioner.\nNo. 15-7757.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1229-05",
+  "first_page_order": 1229,
+  "last_page_order": 1229
+}

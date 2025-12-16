@@ -1,0 +1,64 @@
+{
+  "id": 12599427,
+  "name": "In re Douglas J. MACNEILL, petitioner.",
+  "name_abbreviation": "In re Macneill",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15M16.",
+  "first_page": "286",
+  "last_page": "286",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 286"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 15"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 149,
+    "sha256": "27b4df41287b1b7392f9b5c3dd5df36e6bb6b54961d3517157cc849237e609b6",
+    "simhash": "1:b1889c55c0d9a018",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Douglas J. MACNEILL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to proceed as a veteran denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Douglas J. MACNEILL, petitioner.\nNo. 15M16.\nSupreme Court of the United States\nOct. 5, 2015.\nMotion for leave to proceed as a veteran denied."
+  },
+  "file_name": "0286-06",
+  "first_page_order": 286,
+  "last_page_order": 286
+}

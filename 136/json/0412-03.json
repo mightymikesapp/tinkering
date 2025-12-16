@@ -1,0 +1,64 @@
+{
+  "id": 12600083,
+  "name": "Ivan ALMEIDA, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Almeida v. Illinois",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20135875.",
+  "first_page": "412",
+  "last_page": "412",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 412"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 326"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 194,
+    "sha256": "022144f33ed348de37e2a03a493062d983ba87a5b1adea9879bd950f21fb1b23",
+    "simhash": "1:a1ef54166a09a180",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ivan ALMEIDA, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ivan ALMEIDA, petitioner,\nv.\nILLINOIS.\nNo. 15-5875.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+  },
+  "file_name": "0412-03",
+  "first_page_order": 412,
+  "last_page_order": 412
+}

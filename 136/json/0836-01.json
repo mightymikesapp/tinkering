@@ -1,0 +1,64 @@
+{
+  "id": 12601786,
+  "name": "Charlie LEWIS, petitioner, v. Michelle SMITH, Warden.",
+  "name_abbreviation": "Lewis v. Smith",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136881.",
+  "first_page": "836",
+  "last_page": "836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 836"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 742"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 219,
+    "sha256": "7e7f9ed7bdb8500304da0b58131581ca78b6d1537bc3dd63d9feb0096b60fe73",
+    "simhash": "1:e32ee6c439c50781",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charlie LEWIS, petitioner,\nv.\nMichelle SMITH, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charlie LEWIS, petitioner,\nv.\nMichelle SMITH, Warden.\nNo. 15-6881.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0836-01",
+  "first_page_order": 836,
+  "last_page_order": 836
+}

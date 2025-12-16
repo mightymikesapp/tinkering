@@ -1,0 +1,64 @@
+{
+  "id": 12601285,
+  "name": "Antoine Lamont JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2015-12-14",
+  "docket_number": "No. 14\u20139843.",
+  "first_page": "688",
+  "last_page": "688",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 688"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 519"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 218,
+    "sha256": "488ba50d11f893def42c4f27c729e96951c7e294a4c4deb0226707924906022f",
+    "simhash": "1:50bc26451b061718",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antoine Lamont JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antoine Lamont JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 14-9843.\nSupreme Court of the United States\nDec. 14, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0688-01",
+  "first_page_order": 688,
+  "last_page_order": 688
+}

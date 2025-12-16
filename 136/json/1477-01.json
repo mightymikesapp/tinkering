@@ -1,0 +1,64 @@
+{
+  "id": 12596214,
+  "name": "Marlo GARCIA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Garcia v. United States",
+  "decision_date": "2016-03-21",
+  "docket_number": "No. 15\u20138148.",
+  "first_page": "1477",
+  "last_page": "1477",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1477"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 570"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 194,
+    "sha256": "9d50c0a42c3f6ad30d1d7a71a10dd1a71d69d0125f564a9e0bd5548854c2c636",
+    "simhash": "1:678e34463f084413",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marlo GARCIA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the District of Columbia Court of Appeals denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marlo GARCIA, petitioner,\nv.\nUNITED STATES.\nNo. 15-8148.\nSupreme Court of the United States\nMarch 21, 2016.\nPetition for writ of certiorari to the District of Columbia Court of Appeals denied."
+  },
+  "file_name": "1477-01",
+  "first_page_order": 1477,
+  "last_page_order": 1477
+}

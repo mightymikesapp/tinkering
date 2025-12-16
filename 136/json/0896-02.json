@@ -1,0 +1,64 @@
+{
+  "id": 12602197,
+  "name": "Nikolay Ivanov ANGOV, petitioner, v. Loretta E. LYNCH, Attorney General.",
+  "name_abbreviation": "Angov v. Lynch",
+  "decision_date": "2016-01-19",
+  "docket_number": "No. 15\u2013450.",
+  "first_page": "896",
+  "last_page": "896",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 896"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 789"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 236,
+    "sha256": "f87a7d4c29fd4e2792f79bc3aeacbc0206471dfabc2815d3294fa2d2383604f6",
+    "simhash": "1:d2bf7445ab4494e8",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nikolay Ivanov ANGOV, petitioner,\nv.\nLoretta E. LYNCH, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nikolay Ivanov ANGOV, petitioner,\nv.\nLoretta E. LYNCH, Attorney General.\nNo. 15-450.\nSupreme Court of the United States\nJan. 19, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0896-02",
+  "first_page_order": 896,
+  "last_page_order": 896
+}

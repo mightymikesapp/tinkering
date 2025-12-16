@@ -1,0 +1,64 @@
+{
+  "id": 12601601,
+  "name": "Ladon CHURN, petitioner, v. Unknown PARKKILA, et al.",
+  "name_abbreviation": "Churn v. Parkkila",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136619.",
+  "first_page": "808",
+  "last_page": "808",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 808"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 727"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 217,
+    "sha256": "869b43197cfeb2779c7fa3a521ed34e9e53ba054de80f078eeb4d260fdb02554",
+    "simhash": "1:706fc4443a8583d4",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ladon CHURN, petitioner,\nv.\nUnknown PARKKILA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ladon CHURN, petitioner,\nv.\nUnknown PARKKILA, et al.\nNo. 15-6619.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0808-04",
+  "first_page_order": 808,
+  "last_page_order": 808
+}

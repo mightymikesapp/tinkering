@@ -1,0 +1,64 @@
+{
+  "id": 12601755,
+  "name": "Cassandra C. OLAGUE, petitioner, v. COUNTY OF SACRAMENTO, CALIFORNIA, et al.",
+  "name_abbreviation": "Olague v. Cnty. of Sacramento",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136831.",
+  "first_page": "830",
+  "last_page": "830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 830"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 739"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "sha256": "dfb89e71b213d0b224edc8269c85ff8ee9395efe9d734e1d19e80c1aab4f8795",
+    "simhash": "1:e3af56603fc5060c",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cassandra C. OLAGUE, petitioner,\nv.\nCOUNTY OF SACRAMENTO, CALIFORNIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cassandra C. OLAGUE, petitioner,\nv.\nCOUNTY OF SACRAMENTO, CALIFORNIA, et al.\nNo. 15-6831.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0830-05",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

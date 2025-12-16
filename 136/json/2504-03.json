@@ -1,0 +1,82 @@
+{
+  "id": 12598903,
+  "name": "TRIPLE CANOPY, INC., petitioner, v. UNITED STATES, ex rel., Omar BADR, et al.",
+  "name_abbreviation": "Triple Canopy, Inc. v. United States ex rel. Badr",
+  "decision_date": "2016-06-27",
+  "docket_number": "No. 14\u20131440.",
+  "first_page": "2504",
+  "last_page": "2504",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2504"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 836"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 1989",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597555
+      ],
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/1989-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 536,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26355687146239026
+    },
+    "sha256": "c58a14aad174cdb5aea896470f9d8761d1eeb62d94c096ad0078923a1f987ca0",
+    "simhash": "1:56afc24409821689",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TRIPLE CANOPY, INC., petitioner,\nv.\nUNITED STATES, ex rel., Omar BADR, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of Universal Health Services, Inc. v. United States ex rel. Escobar, 579 U.S. ----, 136 S.Ct. 1989, ---L.Ed.2d ---- (2016)."
+    ],
+    "corrections": "",
+    "head_matter": "TRIPLE CANOPY, INC., petitioner,\nv.\nUNITED STATES, ex rel., Omar BADR, et al.\nNo. 14-1440.\nSupreme Court of the United States\nJune 27, 2016.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of Universal Health Services, Inc. v. United States ex rel. Escobar, 579 U.S. ----, 136 S.Ct. 1989, ---L.Ed.2d ---- (2016)."
+  },
+  "file_name": "2504-03",
+  "first_page_order": 2504,
+  "last_page_order": 2504
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12598662,
+  "name": "John Vaughn NEIL, petitioner, v. Loretta E. LYNCH, Attorney General.",
+  "name_abbreviation": "Neil v. Lynch",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135442.",
+  "first_page": "247",
+  "last_page": "247",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 247"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 233,
+    "sha256": "d9e77120a44e57a3f0c9e683093f44adb9b2d1198bc3c138cacc4de9db411eac",
+    "simhash": "1:523de64439c495ed",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Vaughn NEIL, petitioner,\nv.\nLoretta E. LYNCH, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Vaughn NEIL, petitioner,\nv.\nLoretta E. LYNCH, Attorney General.\nNo. 15-5442.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0247-02",
+  "first_page_order": 247,
+  "last_page_order": 247
+}

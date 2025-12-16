@@ -1,0 +1,64 @@
+{
+  "id": 12595084,
+  "name": "In re Cie SHARP, petitioner.",
+  "name_abbreviation": "In re Sharp",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u2013731.",
+  "first_page": "1174",
+  "last_page": "1174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1174"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 244"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 130,
+    "sha256": "d4f7d7d8dfef037b3e345215beb5fb86ba4e4bf79fe57b67a582063100a41834",
+    "simhash": "1:8de7102695196473",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Cie SHARP, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Cie SHARP, petitioner.\nNo. 15-731.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1174-01",
+  "first_page_order": 1174,
+  "last_page_order": 1174
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12599521,
+  "name": "Mark STARKEY, petitioner, v. Heath SPACKLER, Warden.",
+  "name_abbreviation": "Starkey v. Spackler",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135463.",
+  "first_page": "301",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 301"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 189,
+    "sha256": "e30955e00425fa51b284a2c55b72296b8146601b8b608935ef52abc944850b32",
+    "simhash": "1:e02b064472d645fd",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark STARKEY, petitioner,\nv.\nHeath SPACKLER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Missouri denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark STARKEY, petitioner,\nv.\nHeath SPACKLER, Warden.\nNo. 15-5463.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Supreme Court of Missouri denied."
+  },
+  "file_name": "0301-01",
+  "first_page_order": 301,
+  "last_page_order": 301
+}

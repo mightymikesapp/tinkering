@@ -1,0 +1,64 @@
+{
+  "id": 12600260,
+  "name": "Todd SPERRY, petitioner, v. Jason MAES, et al.",
+  "name_abbreviation": "Sperry v. Maes",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139594.",
+  "first_page": "44",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 44"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 52"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 210,
+    "sha256": "68c7a5fecc6791d7e3935982c9028e83a2387a5fd46fee1845047ef929e724b9",
+    "simhash": "1:18afd6443acc82bd",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Todd SPERRY, petitioner,\nv.\nJason MAES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Todd SPERRY, petitioner,\nv.\nJason MAES, et al.\nNo. 14-9594.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0044-05",
+  "first_page_order": 44,
+  "last_page_order": 44
+}

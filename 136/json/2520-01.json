@@ -1,0 +1,64 @@
+{
+  "id": 12599005,
+  "name": "Dennis TEMPLE, petitioner, v. James SINGLETON, et al.",
+  "name_abbreviation": "Temple v. Singleton",
+  "decision_date": "2016-06-27",
+  "docket_number": "No. 15\u20139129.",
+  "first_page": "2520",
+  "last_page": "2520",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2520"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 850"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 219,
+    "sha256": "6ea7727487e88bb40af07603898fc8a639b559a0260f8cac5c1e469a7a9fcfcd",
+    "simhash": "1:db4f54643b85c7aa",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dennis TEMPLE, petitioner,\nv.\nJames SINGLETON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dennis TEMPLE, petitioner,\nv.\nJames SINGLETON, et al.\nNo. 15-9129.\nSupreme Court of the United States\nJune 27, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2520-01",
+  "first_page_order": 2520,
+  "last_page_order": 2520
+}

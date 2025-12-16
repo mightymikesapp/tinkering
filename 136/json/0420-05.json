@@ -1,0 +1,64 @@
+{
+  "id": 12600134,
+  "name": "Ricardo WOODS, petitioner, v. OHIO.",
+  "name_abbreviation": "Woods v. Ohio",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20136086.",
+  "first_page": "420",
+  "last_page": "420",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 420"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 189,
+    "sha256": "06d31d666a3b5dc331addba9eb7281e44a30225edcb7f421ef58e15b0df1341e",
+    "simhash": "1:252f56143b41817d",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ricardo WOODS, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Hamilton County, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ricardo WOODS, petitioner,\nv.\nOHIO.\nNo. 15-6086.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Hamilton County, denied."
+  },
+  "file_name": "0420-05",
+  "first_page_order": 420,
+  "last_page_order": 420
+}

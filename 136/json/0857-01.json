@@ -1,0 +1,64 @@
+{
+  "id": 12601926,
+  "name": "Bart Wayne JOHNSON, petitioner, v. ALABAMA.",
+  "name_abbreviation": "Johnson v. Alabama",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20137091.",
+  "first_page": "857",
+  "last_page": "857",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 857"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 755"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 192,
+    "sha256": "43f6c41c4327f61681a33789dffca9d1f0b2f3063568524cb3075b921978941d",
+    "simhash": "1:f1a724e732a10090",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bart Wayne JOHNSON, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bart Wayne JOHNSON, petitioner,\nv.\nALABAMA.\nNo. 15-7091.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+  },
+  "file_name": "0857-01",
+  "first_page_order": 857,
+  "last_page_order": 857
+}

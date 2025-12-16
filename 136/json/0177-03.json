@@ -1,0 +1,64 @@
+{
+  "id": 12597286,
+  "name": "In re Gregory Scott SAVOY, petitioner.",
+  "name_abbreviation": "In re Savoy",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135054.",
+  "first_page": "177",
+  "last_page": "177",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 177"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "f5b87bfea10dbc25939673b9414ca55910f2e50e467b983677322a5be67163c8",
+    "simhash": "1:e9a7904436d0d535",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gregory Scott SAVOY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Gregory Scott SAVOY, petitioner.\nNo. 15-5054.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0177-03",
+  "first_page_order": 177,
+  "last_page_order": 177
+}

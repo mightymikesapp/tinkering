@@ -1,0 +1,64 @@
+{
+  "id": 12601369,
+  "name": "In re Robert H. AJAMIAN, petitioner.",
+  "name_abbreviation": "In re Ajamian",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139889.",
+  "first_page": "70",
+  "last_page": "70",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 70"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 219"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "ef9fb00f10056b13b2b75d76282e6fc0a4662e1d9da5bd5dbc4db35c224e509a",
+    "simhash": "1:e069e056fcc4cd3d",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert H. AJAMIAN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Robert H. AJAMIAN, petitioner.\nNo. 14-9889.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of prohibition denied."
+  },
+  "file_name": "0070-05",
+  "first_page_order": 70,
+  "last_page_order": 70
+}

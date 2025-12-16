@@ -1,0 +1,82 @@
+{
+  "id": 12599144,
+  "name": "David Allen GOODWIN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Goodwin v. United States",
+  "decision_date": "2016-06-28",
+  "docket_number": "No. 15\u20136603.",
+  "first_page": "2540",
+  "last_page": "2540",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2540"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 865"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 2243",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12598042
+      ],
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/2243-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 533,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26355938126122413
+    },
+    "sha256": "483e5f67a052c5637be3d9717a581e500a8f01d58df7f4f4dd44ed56ecd96f7e",
+    "simhash": "1:76ade6442d061688",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Allen GOODWIN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of Mathis v. United States, 579 U.S. ----, 136 S.Ct. 2243, --- L.Ed.2d ---- (2016)."
+    ],
+    "corrections": "",
+    "head_matter": "David Allen GOODWIN, petitioner,\nv.\nUNITED STATES.\nNo. 15-6603.\nSupreme Court of the United States\nJune 28, 2016.\nOn petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of Mathis v. United States, 579 U.S. ----, 136 S.Ct. 2243, --- L.Ed.2d ---- (2016)."
+  },
+  "file_name": "2540-02",
+  "first_page_order": 2540,
+  "last_page_order": 2540
+}

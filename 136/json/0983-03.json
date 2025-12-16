@@ -1,0 +1,64 @@
+{
+  "id": 12602476,
+  "name": "Nelson B. COBAS, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Cobas v. Michigan",
+  "decision_date": "2016-01-25",
+  "docket_number": "No. 15\u20137009.",
+  "first_page": "983",
+  "last_page": "983",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 983"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 7"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 182,
+    "sha256": "8180c1f0742e75d51b135b1f62148e835336d8ced5ea1fd88cd8349d24d8c134",
+    "simhash": "1:78ef76403203051d",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nelson B. COBAS, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nelson B. COBAS, petitioner,\nv.\nMICHIGAN.\nNo. 15-7009.\nSupreme Court of the United States\nJan. 25, 2016.\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "0983-03",
+  "first_page_order": 983,
+  "last_page_order": 983
+}

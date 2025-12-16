@@ -1,0 +1,64 @@
+{
+  "id": 12598013,
+  "name": "Gary Wayne BUSH, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Bush v. Tennessee",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135290.",
+  "first_page": "220",
+  "last_page": "220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 220"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 166"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 210,
+    "sha256": "44a83db5555d8816f9badc7a4ce0d9de077318fac444fcb9ebff1f98fd0b98b7",
+    "simhash": "1:68adae5532900531",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary Wayne BUSH, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Middle Division, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gary Wayne BUSH, petitioner,\nv.\nTENNESSEE.\nNo. 15-5290.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Middle Division, denied."
+  },
+  "file_name": "0220-02",
+  "first_page_order": 220,
+  "last_page_order": 220
+}

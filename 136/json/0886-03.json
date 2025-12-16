@@ -1,0 +1,64 @@
+{
+  "id": 12602128,
+  "name": "In re GWANJUN KIM, petitioner.",
+  "name_abbreviation": "In re Kim",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20135839.",
+  "first_page": "886",
+  "last_page": "886",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 886"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 778"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 126,
+    "sha256": "9fd58d9942441e0fa3b856a3d833a509d287c0f2382ada4a539eda1b474875b4",
+    "simhash": "1:13275c4135af620e",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re GWANJUN KIM, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re GWANJUN KIM, petitioner.\nNo. 15-5839.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0886-03",
+  "first_page_order": 886,
+  "last_page_order": 886
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12597991,
+  "name": "John BARTH, petitioner, v. CITY OF PEABODY, MASSACHUSETTS.",
+  "name_abbreviation": "Barth v. City of Peabody",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u201393.",
+  "first_page": "217",
+  "last_page": "217",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 217"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 130"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 198,
+    "sha256": "af3bd95e09446595d53a29be05ba6a6c42a36d813a07421722f921d267cc1cf1",
+    "simhash": "1:c9ef82d69c88c59d",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John BARTH, petitioner,\nv.\nCITY OF PEABODY, MASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appeals Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "John BARTH, petitioner,\nv.\nCITY OF PEABODY, MASSACHUSETTS.\nNo. 15-93.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Appeals Court of Massachusetts denied."
+  },
+  "file_name": "0217-05",
+  "first_page_order": 217,
+  "last_page_order": 217
+}

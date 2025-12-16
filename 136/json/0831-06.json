@@ -1,0 +1,64 @@
+{
+  "id": 12601761,
+  "name": "Charles REMBERT, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Rembert v. Illinois",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136841.",
+  "first_page": "831",
+  "last_page": "831",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 831"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 740"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 197,
+    "sha256": "b08d8224773f2232c90dd453909c3e4efd84beedbba9082158aaac093e17e97f",
+    "simhash": "1:f1aff6b438e5e100",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles REMBERT, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles REMBERT, petitioner,\nv.\nILLINOIS.\nNo. 15-6841.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "0831-06",
+  "first_page_order": 831,
+  "last_page_order": 831
+}

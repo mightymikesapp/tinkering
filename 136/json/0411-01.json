@@ -1,0 +1,64 @@
+{
+  "id": 12600075,
+  "name": "Keenan KING, petitioner, v. Raymond BOOKER, Warden.",
+  "name_abbreviation": "King v. Booker",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20135853.",
+  "first_page": "411",
+  "last_page": "411",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 411"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 325"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 215,
+    "sha256": "5c4a2cf47e0d5ac8393ac66c8570a4741fc8fdbc2f65c6d7f9c66381751de74a",
+    "simhash": "1:77afc4441b051427",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keenan KING, petitioner,\nv.\nRaymond BOOKER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Keenan KING, petitioner,\nv.\nRaymond BOOKER, Warden.\nNo. 15-5853.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0411-01",
+  "first_page_order": 411,
+  "last_page_order": 411
+}

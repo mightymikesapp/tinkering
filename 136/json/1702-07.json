@@ -1,0 +1,64 @@
+{
+  "id": 12597059,
+  "name": "In re Johnson JAMERSON, petitioner.",
+  "name_abbreviation": "In re Jamerson",
+  "decision_date": "2016-04-18",
+  "docket_number": "No. 15\u20138751.",
+  "first_page": "1702",
+  "last_page": "1702",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1702"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 802"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 144,
+    "sha256": "ca757be847923c95dbde78213ab0e449ecd75016f1cac709d1f025cc044ff583",
+    "simhash": "1:498776239e014631",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Johnson JAMERSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Johnson JAMERSON, petitioner.\nNo. 15-8751.\nSupreme Court of the United States\nApril 18, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1702-07",
+  "first_page_order": 1702,
+  "last_page_order": 1702
+}

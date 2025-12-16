@@ -1,0 +1,64 @@
+{
+  "id": 12596899,
+  "name": "Carlos ZELAYA, et al., petitioners, v. UNITED STATES.",
+  "name_abbreviation": "Zelaya v. United States",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u201314.",
+  "first_page": "168",
+  "last_page": "168",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 168"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 124"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 218,
+    "sha256": "7806c3ffecba81ba6695727030e4a5b5bc61d78b74e68b51c5c080030780310f",
+    "simhash": "1:f9ade6443f04943d",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos ZELAYA, et al., petitioners,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos ZELAYA, et al., petitioners,\nv.\nUNITED STATES.\nNo. 15-14.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0168-03",
+  "first_page_order": 168,
+  "last_page_order": 168
+}

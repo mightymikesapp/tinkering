@@ -1,0 +1,64 @@
+{
+  "id": 12594859,
+  "name": "Kenyon WILLIAMS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Williams v. United States",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u201310132.",
+  "first_page": "102",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 102"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 85"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 214,
+    "sha256": "3018fbe7f267327d3ef29867010cece015c56e44c3ce982f45dd7de9298a24ce",
+    "simhash": "1:39ede644360c8435",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenyon WILLIAMS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenyon WILLIAMS, petitioner,\nv.\nUNITED STATES.\nNo. 14-10132.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0102-05",
+  "first_page_order": 102,
+  "last_page_order": 102
+}

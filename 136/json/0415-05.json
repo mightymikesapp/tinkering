@@ -1,0 +1,64 @@
+{
+  "id": 12600102,
+  "name": "Kenneth BUTLER, Sr., petitioner, v. BALKAMP INC., et al.",
+  "name_abbreviation": "Butler v. Balkamp Inc.",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u2013273.",
+  "first_page": "415",
+  "last_page": "415",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 415"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 317"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 221,
+    "sha256": "57bafa7a687cc42fa74b082fbf098b937c354d8e349f4792697e98699b9775a6",
+    "simhash": "1:6b2f6454bf458187",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth BUTLER, Sr., petitioner,\nv.\nBALKAMP INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenneth BUTLER, Sr., petitioner,\nv.\nBALKAMP INC., et al.\nNo. 15-273.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0415-05",
+  "first_page_order": 415,
+  "last_page_order": 415
+}

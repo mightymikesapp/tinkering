@@ -1,0 +1,62 @@
+{
+  "id": 12600777,
+  "name": "David REEVES, petitioner, v. Bruce CHATMAN, Warden.",
+  "name_abbreviation": "Reeves v. Chatman",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136281.",
+  "first_page": "549",
+  "last_page": "549",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 549"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 439"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 207,
+    "sha256": "f80e2b0e9d7b50b0045cc51718a87e35318282cde1319994a541c9620ccddbdd",
+    "simhash": "1:c03540d4bec151ba",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David REEVES, petitioner,\nv.\nBruce CHATMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David REEVES, petitioner,\nv.\nBruce CHATMAN, Warden.\nNo. 15-6281.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the Superior Court of Georgia, Tattnall County, denied."
+  },
+  "file_name": "0549-06",
+  "first_page_order": 549,
+  "last_page_order": 549
+}

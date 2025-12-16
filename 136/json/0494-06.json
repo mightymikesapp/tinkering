@@ -1,0 +1,94 @@
+{
+  "id": 12600421,
+  "name": "In re Terrance JAMES-BEY, petitioner.",
+  "name_abbreviation": "In re James-Bey",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. 15\u20136559.",
+  "first_page": "494",
+  "last_page": "495",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 494"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 361"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 80,
+    "char_count": 624,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26356594535048183
+    },
+    "sha256": "ee698b65c17e80478bfe7384c28b46c302622745a8b121795e0c539f74daa7af",
+    "simhash": "1:4960a504870dd62d",
+    "word_count": 103
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Terrance JAMES-BEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from the petitioner unless the docketing fee required by Rule 38(a) is paid and the petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "In re Terrance JAMES-BEY, petitioner.\nNo. 15-6559.\nSupreme Court of the United States\nNov. 9, 2015.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from the petitioner unless the docketing fee required by Rule 38(a) is paid and the petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "0494-06",
+  "first_page_order": 494,
+  "last_page_order": 495
+}

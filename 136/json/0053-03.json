@@ -1,0 +1,64 @@
+{
+  "id": 12600656,
+  "name": "Arlen BROWN, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Brown v. Louisiana",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20131346.",
+  "first_page": "53",
+  "last_page": "53",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 53"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 194,
+    "sha256": "0eba68f7fc5e62ad9e81940fdd3247a408069f4ee633e61a377859a7b3812df8",
+    "simhash": "1:60ae62c6369444b9",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arlen BROWN, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of Louisiana, First Circuit, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arlen BROWN, petitioner,\nv.\nLOUISIANA.\nNo. 14-1346.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Court of Appeal of Louisiana, First Circuit, denied."
+  },
+  "file_name": "0053-03",
+  "first_page_order": 53,
+  "last_page_order": 53
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12595684,
+  "name": "Alvaro ADAME, petitioner, v. Loretta E. LYNCH, Attorney General.",
+  "name_abbreviation": "Adame v. Lynch",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20131495.",
+  "first_page": "131",
+  "last_page": "131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 131"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 41"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 230,
+    "sha256": "312817190bc895cc5616d09326057a20deef7931ab1c80c092358e9f3d568094",
+    "simhash": "1:42ae76c53d8496a9",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alvaro ADAME, petitioner,\nv.\nLoretta E. LYNCH, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alvaro ADAME, petitioner,\nv.\nLoretta E. LYNCH, Attorney General.\nNo. 14-1495.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0131-03",
+  "first_page_order": 131,
+  "last_page_order": 131
+}

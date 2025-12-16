@@ -1,0 +1,64 @@
+{
+  "id": 12600368,
+  "name": "John BAKER, et ux., petitioners, v. CITY OF IOWA CITY, IOWA, et al.",
+  "name_abbreviation": "Baker v. City of Iowa City",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. 15\u2013334.",
+  "first_page": "487",
+  "last_page": "487",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 487"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 199,
+    "sha256": "3fe34093738feba6d1395f990d9c4ba2fd710134b4facbde485d1de87f3fca3d",
+    "simhash": "1:302dd65ef2cf2389",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John BAKER, et ux., petitioners,\nv.\nCITY OF IOWA CITY, IOWA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Iowa denied."
+    ],
+    "corrections": "",
+    "head_matter": "John BAKER, et ux., petitioners,\nv.\nCITY OF IOWA CITY, IOWA, et al.\nNo. 15-334.\nSupreme Court of the United States\nNov. 9, 2015.\nPetition for writ of certiorari to the Supreme Court of Iowa denied."
+  },
+  "file_name": "0487-01",
+  "first_page_order": 487,
+  "last_page_order": 487
+}

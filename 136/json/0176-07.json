@@ -1,0 +1,64 @@
+{
+  "id": 12597282,
+  "name": "In re Benjardi B. VIRAY, petitioner.",
+  "name_abbreviation": "In re Viray",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135051.",
+  "first_page": "176",
+  "last_page": "176",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 176"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 138,
+    "sha256": "0e40463977b76f1c42327a35aeef9f0054c6084648a61bd0cacf043915c90ddf",
+    "simhash": "1:28679e043a95a035",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Benjardi B. VIRAY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Benjardi B. VIRAY, petitioner.\nNo. 15-5051.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0176-07",
+  "first_page_order": 176,
+  "last_page_order": 176
+}

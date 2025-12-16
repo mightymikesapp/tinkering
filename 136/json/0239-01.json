@@ -1,0 +1,64 @@
+{
+  "id": 12598207,
+  "name": "William TORRES, petitioner, v. Thomas READ, et al.",
+  "name_abbreviation": "Torres v. Read",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135404.",
+  "first_page": "239",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 239"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 214,
+    "sha256": "bea0d954f5ffcce32f92b543171f373460712d87dd6486b44fa18974f66ee092",
+    "simhash": "1:f2add244bec4032d",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William TORRES, petitioner,\nv.\nThomas READ, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William TORRES, petitioner,\nv.\nThomas READ, et al.\nNo. 15-5404.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0239-01",
+  "first_page_order": 239,
+  "last_page_order": 239
+}

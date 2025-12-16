@@ -1,0 +1,64 @@
+{
+  "id": 12598146,
+  "name": "Andrew Pedro VALDEZ, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Valdez v. Michigan",
+  "decision_date": "2016-05-23",
+  "docket_number": "No. 15\u20138568.",
+  "first_page": "2380",
+  "last_page": "2380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2380"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 185,
+    "sha256": "5c2a729cd4431fbc058cfb806d9c66c3112826dc41fdac68b8fabe48f67dae11",
+    "simhash": "1:64df7663a28f658d",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew Pedro VALDEZ, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew Pedro VALDEZ, petitioner,\nv.\nMICHIGAN.\nNo. 15-8568.\nSupreme Court of the United States\nMay 23, 2016.\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "2380-01",
+  "first_page_order": 2380,
+  "last_page_order": 2380
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12601217,
+  "name": "In the Matter of DISCIPLINE OF William Jennings JEFFERSON.",
+  "name_abbreviation": "In re Jefferson",
+  "decision_date": "2015-12-07",
+  "docket_number": "No. D\u20132859.",
+  "first_page": "611",
+  "last_page": "612",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 611"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 378,
+    "sha256": "decf5759e6e19c133c53e85fc2ae803c7aff8ffcc8be805563ada72e3eb0dac5",
+    "simhash": "1:608241b63fee37ea",
+    "word_count": 65
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF William Jennings JEFFERSON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF William Jennings JEFFERSON.\nNo. D-2859.\nSupreme Court of the United States\nDec. 7, 2015.\nWilliams Jennings Jefferson, of New Orleans, Louisiana, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0611-07",
+  "first_page_order": 611,
+  "last_page_order": 612
+}

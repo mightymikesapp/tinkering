@@ -1,0 +1,62 @@
+{
+  "id": 12600510,
+  "name": "Harry JACKSON, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Jackson v. Pennsylvania",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136084.",
+  "first_page": "508",
+  "last_page": "508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 508"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 402"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 208,
+    "sha256": "469368b9096def33be697eb39b6391cff28464edf010552af655b093e31a0b48",
+    "simhash": "1:ef2ff6f412899f83",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harry JACKSON, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Harry JACKSON, petitioner,\nv.\nPENNSYLVANIA.\nNo. 15-6084.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office, denied."
+  },
+  "file_name": "0508-03",
+  "first_page_order": 508,
+  "last_page_order": 508
+}

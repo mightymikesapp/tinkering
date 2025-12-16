@@ -1,0 +1,64 @@
+{
+  "id": 12599001,
+  "name": "Claude V. JONES, Jr., petitioner, v. Leroy CARTLEDGE, Warden.",
+  "name_abbreviation": "In re Jones",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135478.",
+  "first_page": "252",
+  "last_page": "252",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 252"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 226,
+    "sha256": "29e5d193273b054408a28df88154f74e899d7fe220f6a22560d57a9884de4b10",
+    "simhash": "1:736ec2443ac4c52d",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Claude V. JONES, Jr., petitioner,\nv.\nLeroy CARTLEDGE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Claude V. JONES, Jr., petitioner,\nv.\nLeroy CARTLEDGE, Warden.\nNo. 15-5478.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0252-03",
+  "first_page_order": 252,
+  "last_page_order": 252
+}

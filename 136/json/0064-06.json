@@ -1,0 +1,64 @@
+{
+  "id": 12601256,
+  "name": "Charles MONTAGUE, petitioner, v. Howard CARLTON, Warden.",
+  "name_abbreviation": "Montague v. Carlton",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139826.",
+  "first_page": "64",
+  "last_page": "64",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 64"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 64"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 220,
+    "sha256": "bc6c4b719d29f4fa207958e8776dece9d5cfc2638b797dbdceee947f8ab6e0db",
+    "simhash": "1:78ad44443a848529",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles MONTAGUE, petitioner,\nv.\nHoward CARLTON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles MONTAGUE, petitioner,\nv.\nHoward CARLTON, Warden.\nNo. 14-9826.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0064-06",
+  "first_page_order": 64,
+  "last_page_order": 64
+}

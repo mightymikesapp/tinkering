@@ -1,0 +1,64 @@
+{
+  "id": 12599859,
+  "name": "Marvin GREEN, petitioner, v. Jerry LESTER, Warden.",
+  "name_abbreviation": "Green v. Lester",
+  "decision_date": "2015-10-19",
+  "docket_number": "No. 15\u20135731.",
+  "first_page": "365",
+  "last_page": "365",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 365"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 296"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 215,
+    "sha256": "d8ed281954b1358b0eb2ddc376f1111db29c5f9b695197319a0bccbcf9640f73",
+    "simhash": "1:e0adc6443a048025",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marvin GREEN, petitioner,\nv.\nJerry LESTER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marvin GREEN, petitioner,\nv.\nJerry LESTER, Warden.\nNo. 15-5731.\nSupreme Court of the United States\nOct. 19, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0365-03",
+  "first_page_order": 365,
+  "last_page_order": 365
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12601420,
+  "name": "In re John Joseph TATAR, petitioner.",
+  "name_abbreviation": "In re Tatar",
+  "decision_date": "2015-12-14",
+  "docket_number": "No. 15\u20136061.",
+  "first_page": "707",
+  "last_page": "707",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 707"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 533"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "64022cd101355609729afffbb238b301245f392e24947c91aa90b7e2a8b18dad",
+    "simhash": "1:1227a2043e0cd706",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re John Joseph TATAR, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re John Joseph TATAR, petitioner.\nNo. 15-6061.\nSupreme Court of the United States\nDec. 14, 2015.\nPetition for rehearing denied."
+  },
+  "file_name": "0707-03",
+  "first_page_order": 707,
+  "last_page_order": 707
+}

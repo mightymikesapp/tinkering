@@ -1,0 +1,64 @@
+{
+  "id": 12599061,
+  "name": "Vincent BASCIANO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Basciano v. United States",
+  "decision_date": "2016-06-27",
+  "docket_number": "No. 15\u20139463.",
+  "first_page": "2529",
+  "last_page": "2529",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2529"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 859"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 295,
+    "sha256": "f0bdcbb7e128e79af56d116cfc7898c50dbd582c6a0dc8715d5a3fb707bf5ffd",
+    "simhash": "1:d8bf74447f04174f",
+    "word_count": 47
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Vincent BASCIANO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Vincent BASCIANO, petitioner,\nv.\nUNITED STATES.\nNo. 15-9463.\nSupreme Court of the United States\nJune 27, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\nJustice SOTOMAYOR took no part in the consideration or decision of this petition."
+  },
+  "file_name": "2529-02",
+  "first_page_order": 2529,
+  "last_page_order": 2529
+}

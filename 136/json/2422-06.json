@@ -1,0 +1,64 @@
+{
+  "id": 12598434,
+  "name": "Eric MYLES, petitioner, v. MISSOURI.",
+  "name_abbreviation": "Myles v. Missouri",
+  "decision_date": "2016-06-06",
+  "docket_number": "No. 15\u20139149.",
+  "first_page": "2422",
+  "last_page": "2423",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2422"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 791"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 194,
+    "sha256": "013ab62904dfa5fa8984b4f86fd67c4eac5932f90541bf9776b1c078a8e7851d",
+    "simhash": "1:79e74c46b2c54591",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric MYLES, petitioner,\nv.\nMISSOURI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Missouri, Eastern District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric MYLES, petitioner,\nv.\nMISSOURI.\nNo. 15-9149.\nSupreme Court of the United States\nJune 6, 2016.\nPetition for writ of certiorari to the Court of Appeals of Missouri, Eastern District denied."
+  },
+  "file_name": "2422-06",
+  "first_page_order": 2422,
+  "last_page_order": 2423
+}

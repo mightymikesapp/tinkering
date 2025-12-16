@@ -1,0 +1,64 @@
+{
+  "id": 12599140,
+  "name": "In re Roy Finley FAULKNER, petitioner.",
+  "name_abbreviation": "In re Faulkner",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135503.",
+  "first_page": "254",
+  "last_page": "254",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 254"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "39f149089b2eec0271d891a84b31dfe8ddb1a3469fa8a1d03f75bf5cfac7ed2c",
+    "simhash": "1:e0af12771edcc531",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Roy Finley FAULKNER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Roy Finley FAULKNER, petitioner.\nNo. 15-5503.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0254-04",
+  "first_page_order": 254,
+  "last_page_order": 254
+}

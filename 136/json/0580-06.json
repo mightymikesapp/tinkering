@@ -1,0 +1,64 @@
+{
+  "id": 12600999,
+  "name": "Robert WILLIAMS, petitioner, v. CITY UNIVERSITY OF NEW YORK, BROOKLYN COLLEGE.",
+  "name_abbreviation": "Williams v. City Univ. of N.Y.",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20135485.",
+  "first_page": "580",
+  "last_page": "580",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 580"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 463"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 174,
+    "sha256": "8916e8516c2a39001224a396e696d69d223f1172a7991b2350da37ffae0d3b9e",
+    "simhash": "1:010527c61ec0ac21",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert WILLIAMS, petitioner,\nv.\nCITY UNIVERSITY OF NEW YORK, BROOKLYN COLLEGE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert WILLIAMS, petitioner,\nv.\nCITY UNIVERSITY OF NEW YORK, BROOKLYN COLLEGE.\nNo. 15-5485.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for rehearing denied."
+  },
+  "file_name": "0580-06",
+  "first_page_order": 580,
+  "last_page_order": 580
+}

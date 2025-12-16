@@ -1,0 +1,251 @@
+{
+  "id": 12602410,
+  "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION v. CITY OF SAN JOSE, CALIFORNIA, et al.",
+  "name_abbreviation": "Cal. Bldg. Indus. Ass'n v. City of San Jose",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u2013330.",
+  "first_page": "928",
+  "last_page": "929",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 928"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 239"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "729 N.E.2d 349",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "356",
+          "parenthetical": "applying the Nollan/Dolan test to legislative exaction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Ohio St.3d 121",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 3d",
+      "case_ids": [
+        1090822
+      ],
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "128",
+          "parenthetical": "applying the Nollan/Dolan test to legislative exaction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-3d/89/0121-01"
+      ]
+    },
+    {
+      "cite": "132 L.Ed.2d 273",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "THOMAS, J., dissenting from denial of certiorari"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 2268",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "THOMAS, J., dissenting from denial of certiorari"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "515 U.S. 1116",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1564034,
+        1564060,
+        1563917
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1117",
+          "parenthetical": "THOMAS, J., dissenting from denial of certiorari"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/515/1116-01",
+        "/us/515/1116-03",
+        "/us/515/1116-02"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 2586",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698478
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "2591",
+          "parenthetical": "describing Nollan/Dolan framework"
+        },
+        {
+          "parenthetical": "describing Nollan/Dolan framework"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0595-01"
+      ]
+    },
+    {
+      "cite": "512 U.S. 374",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        39741
+      ],
+      "weight": 3,
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/512/0374-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 825",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28053
+      ],
+      "weight": 3,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0825-01"
+      ]
+    },
+    {
+      "cite": "351 P.3d 974",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "987-990"
+        },
+        {
+          "page": "991-992"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 Cal.Rptr.3d 475",
+      "category": "reporters:state",
+      "reporter": "Cal. Rptr. 3d",
+      "weight": 3,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "applying the Nollan/Dolan test to legislative exaction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Cal.4th 435",
+      "category": "reporters:state",
+      "reporter": "Cal. 4th",
+      "case_ids": [
+        6054772
+      ],
+      "weight": 3,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "456-459"
+        },
+        {
+          "page": "461-462"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-4th/61/0435-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 371,
+    "char_count": 4307,
+    "pagerank": {
+      "raw": 5.684874614740142e-08,
+      "percentile": 0.3577233653390603
+    },
+    "sha256": "60214ea82e6a6ee064a29669501effa94014e33db0754b73c0b602b05f06e698",
+    "simhash": "1:4ce039d660317370",
+    "word_count": 669
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CALIFORNIA BUILDING INDUSTRY ASSOCIATION\nv.\nCITY OF SAN JOSE, CALIFORNIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice THOMAS, concurring in the denial of certiorari.\nThis case implicates an important and unsettled issue under the Takings Clause. The city of San Jose, California, enacted a housing ordinance that compels all developers of new residential development projects with 20 or more units to reserve a minimum of 15 percent of for-sale units for low-income buyers. See San Jose Municipal Ordinance No. 28689, \u00a7\u00a7 5.08.250(A), 5.08.400(A)(a) (2010). Those units, moreover, must be sold to these buyers at an \"affordable housing cost\"-a below-market price that cannot exceed 30 percent of these buyers' median income. \u00a7\u00a7 5.08.105, 5.08.400(A)(a); see Cal. Health & Safety Code Ann. \u00a7\u00a7 50052.5(b)(1)-(4) (West 2014). The ordinance requires these restrictions to remain in effect for 45 years. San Jose Municipal Ordinance No. 28689, \u00a7 5.08.600(B); Cal. Health & Safety Code Ann. \u00a7 33413(C). Petitioner, the California Building Industry Association, sued to enjoin the ordinance. A California state trial court enjoined the ordinance, but the Court of Appeal reversed, and the Supreme Court of California affirmed that decision. 61 Cal.4th 435, 189 Cal.Rptr.3d 475, 351 P.3d 974 (2015).\nOur precedents in Nollan v. California Coastal Comm'n, 483 U.S. 825, 107 S.Ct. 3141, 97 L.Ed.2d 677 (1987), and Dolan v. City of Tigard, 512 U.S. 374, 114 S.Ct. 2309, 129 L.Ed.2d 304 (1994), would have governed San Jose's actions had it imposed those conditions through administrative action. In those cases, which both involved challenges to administrative conditions on land use, we recognized that governments \"may not condition the approval of a land-use permit on the owner's relinquishment of a portion of his property unless there is a 'nexus' and 'rough proportionality' between the government's demand and the effects of the proposed land use.\" Koontz v. St. Johns River Water Management Dist., 570 U.S. ----, ----, 133 S.Ct. 2586, 2591, 186 L.Ed.2d 697 (2013) (describing Nollan/Dolan framework).\nFor at least two decades, however, lower courts have divided over whether the Nollan/Dolan test applies in cases where the alleged taking arises from a legislatively imposed condition rather than an administrative one. See Parking Assn. of Georgia, Inc. v. Atlanta, 515 U.S. 1116, 1117, 115 S.Ct. 2268, 132 L.Ed.2d 273 (1995) (THOMAS, J., dissenting from denial of certiorari). That division shows no signs of abating. The decision below, for example, reiterated the California Supreme Court's position that a legislative land-use measure is not a taking and survives a constitutional challenge so long as the measure bears \"a reasonable relationship to the public welfare.\" 61 Cal.4th, at 456-459, and n. 11, 189 Cal.Rptr.3d 475, 351 P.3d, at 987-990, n. 11 ; compare ibid. with, e.g., Home Builders Assn. of Dayton and Miami Valley v. Beavercreek, 89 Ohio St.3d 121, 128, 729 N.E.2d 349, 356 (2000) (applying the Nollan/Dolan test to legislative exaction).\nI continue to doubt that \"the existence of a taking should turn on the type of governmental entity responsible for the taking.\" Parking Assn. of Georgia, supra, at 1117-1118, 115 S.Ct. 2268. Until we decide this issue, property owners and local governments are left uncertain about what legal standard governs legislative ordinances and whether cities can legislatively impose exactions that would not pass muster if done administratively. These factors present compelling reasons for resolving this conflict at the earliest practicable opportunity.\nYet this case does not present an opportunity to resolve the conflict. The City raises threshold questions about the timeliness of the petition for certiorari that might preclude us from reaching the Takings Clause question. Moreover, petitioner disclaimed any reliance on Nollan and Dolan in the proceedings below. Nor did the California Supreme Court's decision rest on the distinction (if any) between takings effectuated through administrative versus legislative action. See 61 Cal.4th, at 461-462, 189 Cal.Rptr.3d 475, 351 P.3d, at 991-992. Given these considerations, I concur in the Court's denial of certiorari.",
+        "type": "majority",
+        "author": "Justice THOMAS, concurring in the denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION\nv.\nCITY OF SAN JOSE, CALIFORNIA, et al.\nNo. 15-330.\nSupreme Court of the United States\nFeb. 29, 2016.\nThe petition for writ of certiorari is denied."
+  },
+  "file_name": "0928-01",
+  "first_page_order": 928,
+  "last_page_order": 929
+}

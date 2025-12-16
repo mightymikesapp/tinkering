@@ -1,0 +1,64 @@
+{
+  "id": 12600003,
+  "name": "Ryan T. HARMON, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Harmon v. Illinois",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 14\u20139525.",
+  "first_page": "400",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 400"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 313"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 197,
+    "sha256": "b9dacc188c2c5b67da3497ee52239026321f1abae521d85a6041bd0c469a8286",
+    "simhash": "1:54aff4d49a20c280",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ryan T. HARMON, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Second District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ryan T. HARMON, petitioner,\nv.\nILLINOIS.\nNo. 14-9525.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the Appellate Court of Illinois, Second District, denied."
+  },
+  "file_name": "0400-01",
+  "first_page_order": 400,
+  "last_page_order": 400
+}

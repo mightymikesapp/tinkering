@@ -1,0 +1,64 @@
+{
+  "id": 12596620,
+  "name": "UNITED STATES, et al., petitioners, v. TEXAS, et al.",
+  "name_abbreviation": "United States v. Texas",
+  "decision_date": "2016-04-04",
+  "docket_number": "No. 15\u2013674.",
+  "first_page": "1535",
+  "last_page": "1535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1535"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 601"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 219,
+    "sha256": "7482711b604d56e7dbb5c0445510519c19b0f72518ab33bcacbb05b5ee4ac8e3",
+    "simhash": "1:02a7d6161c981eba",
+    "word_count": 40
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, et al., petitioners,\nv.\nTEXAS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Gonzalez Olivieri LLC, et al. for leave to file a brief as amici curiae out of time granted."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, et al., petitioners,\nv.\nTEXAS, et al.\nNo. 15-674.\nSupreme Court of the United States\nApril 4, 2016.\nMotion of Gonzalez Olivieri LLC, et al. for leave to file a brief as amici curiae out of time granted."
+  },
+  "file_name": "1535-05",
+  "first_page_order": 1535,
+  "last_page_order": 1535
+}

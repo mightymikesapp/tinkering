@@ -1,0 +1,64 @@
+{
+  "id": 12599233,
+  "name": "In re Roland THOMPSON, petitioner.",
+  "name_abbreviation": "In re Thompson",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135531.",
+  "first_page": "257",
+  "last_page": "257",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 257"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "bddd09bc581cfbbaef561c0cda64b0de1248638b8170f9c3fea9cd33ea77b9a5",
+    "simhash": "1:410f02541e90c704",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Roland THOMPSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Roland THOMPSON, petitioner.\nNo. 15-5531.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0257-05",
+  "first_page_order": 257,
+  "last_page_order": 257
+}

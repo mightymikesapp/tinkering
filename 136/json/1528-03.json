@@ -1,0 +1,64 @@
+{
+  "id": 12596568,
+  "name": "Gregory C. KRUG, petitioner, v. Victor LORANTH, et al.",
+  "name_abbreviation": "Krug v. Loranth",
+  "decision_date": "2016-04-04",
+  "docket_number": "No. 15\u20138205.",
+  "first_page": "1528",
+  "last_page": "1528",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1528"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 614"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 220,
+    "sha256": "4c6578940edaa22c1ed8777232fa8340c84132a7873d624fd6a26bfe6cd7f24e",
+    "simhash": "1:2327c64c3d45058b",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory C. KRUG, petitioner,\nv.\nVictor LORANTH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory C. KRUG, petitioner,\nv.\nVictor LORANTH, et al.\nNo. 15-8205.\nSupreme Court of the United States\nApril 4, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1528-03",
+  "first_page_order": 1528,
+  "last_page_order": 1528
+}

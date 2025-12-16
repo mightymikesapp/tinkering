@@ -1,0 +1,64 @@
+{
+  "id": 12599394,
+  "name": "Craig JACKSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jackson v. United States",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135788.",
+  "first_page": "281",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 281"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "c288a935b5ee52ee830cb9b07183e8f1e30aa6219fe7533cce7362a5e26251a1",
+    "simhash": "1:f9ac36443b04867d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Craig JACKSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Craig JACKSON, petitioner,\nv.\nUNITED STATES.\nNo. 15-5788.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0281-06",
+  "first_page_order": 281,
+  "last_page_order": 281
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12601596,
+  "name": "Andre STATON, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Staton v. Pennsylvania",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136607.",
+  "first_page": "807",
+  "last_page": "807",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 807"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 727"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 202,
+    "sha256": "f15d1db5f70de3af466c2ecaf94b066cb40cf96a8431f9a9faa472ccd5655a8b",
+    "simhash": "1:fdef165838af459d",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andre STATON, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andre STATON, petitioner,\nv.\nPENNSYLVANIA.\nNo. 15-6607.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District denied."
+  },
+  "file_name": "0807-05",
+  "first_page_order": 807,
+  "last_page_order": 807
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12600788,
+  "name": "David REEVES, petitioner, v. Frederick HEAD, Warden, et al.",
+  "name_abbreviation": "Reeves v. Head",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136313.",
+  "first_page": "550",
+  "last_page": "550",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 550"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 440"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 214,
+    "sha256": "fc8ccaf62c21c958ab920b6fc8b3c4a24179e134d2220e811e5630f8a28f123f",
+    "simhash": "1:40adee74bed998da",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David REEVES, petitioner,\nv.\nFrederick HEAD, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David REEVES, petitioner,\nv.\nFrederick HEAD, Warden, et al.\nNo. 15-6313.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the Superior Court of Georgia, Baldwin County, denied."
+  },
+  "file_name": "0550-05",
+  "first_page_order": 550,
+  "last_page_order": 550
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12599569,
+  "name": "Dwight GILES, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Giles v. Newyork",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20138893.",
+  "first_page": "32",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 32"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 46"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 178,
+    "sha256": "8e4312af4f2fe90aec41f6a5b00d49e0e8e44ba44e9133719cb5fd2996d82f03",
+    "simhash": "1:688a12173081a139",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwight GILES, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dwight GILES, petitioner,\nv.\nNEW YORK.\nNo. 14-8893.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Court of Appeals of New York denied."
+  },
+  "file_name": "0032-04",
+  "first_page_order": 32,
+  "last_page_order": 32
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12597860,
+  "name": "Felix BROWN, petitioner, v. Alan J. LAZAROFF, Warden.",
+  "name_abbreviation": "Brown v. Lazaroff",
+  "decision_date": "2016-05-16",
+  "docket_number": "No. 15\u20137708.",
+  "first_page": "2049",
+  "last_page": "2049",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2049"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 246"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 148,
+    "sha256": "93268cb9452bbed96cdfca4324828a2871167090e2560d6e1f6fba78c5709b67",
+    "simhash": "1:80c27cc2328c54a3",
+    "word_count": 23
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Felix BROWN, petitioner,\nv.\nAlan J. LAZAROFF, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Felix BROWN, petitioner,\nv.\nAlan J. LAZAROFF, Warden.\nNo. 15-7708.\nSupreme Court of the United States\nMay 16, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "2049-07",
+  "first_page_order": 2049,
+  "last_page_order": 2049
+}

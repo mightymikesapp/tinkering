@@ -1,0 +1,64 @@
+{
+  "id": 12599746,
+  "name": "Charles SACUS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Sacus v. United States",
+  "decision_date": "2015-10-13",
+  "docket_number": "No. 15\u20135955.",
+  "first_page": "348",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 348"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "cfb6cab8a850b4a9ae132dd75b083c349dd21975634d85fde7bc5c4c64add4ce",
+    "simhash": "1:27bde6643d2d9739",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles SACUS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles SACUS, petitioner,\nv.\nUNITED STATES.\nNo. 15-5955.\nSupreme Court of the United States\nOct. 13, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0348-01",
+  "first_page_order": 348,
+  "last_page_order": 348
+}

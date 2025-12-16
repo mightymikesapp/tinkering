@@ -1,0 +1,64 @@
+{
+  "id": 12601969,
+  "name": "Cassandra CEAN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cean v. United States",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u2013718.",
+  "first_page": "863",
+  "last_page": "863",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 863"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 721"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "b4578942d07fb28fa249a4d5cac5e6c797ba7f63ae35ae53ff34377fbb53f31c",
+    "simhash": "1:f1af46c43fa7828d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cassandra CEAN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cassandra CEAN, petitioner,\nv.\nUNITED STATES.\nNo. 15-718.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0863-04",
+  "first_page_order": 863,
+  "last_page_order": 863
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12600456,
+  "name": "Robert C. TILLER, petitioner, v. INDIANA.",
+  "name_abbreviation": "Tiller v. Indiana",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20131335.",
+  "first_page": "50",
+  "last_page": "50",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 50"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 29"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 197,
+    "sha256": "d597624b49101dba982db95e2e4e8ca55caab7dbcdd09c861577b6b8ad5bd100",
+    "simhash": "1:79af561733d588f5",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert C. TILLER, petitioner,\nv.\nINDIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Indiana, Third District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert C. TILLER, petitioner,\nv.\nINDIANA.\nNo. 14-1335.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Court of Appeals of Indiana, Third District, denied."
+  },
+  "file_name": "0050-04",
+  "first_page_order": 50,
+  "last_page_order": 50
+}

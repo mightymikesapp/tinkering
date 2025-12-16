@@ -1,0 +1,64 @@
+{
+  "id": 12596597,
+  "name": "Luis GARCIA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Garcia v. United States",
+  "decision_date": "2016-04-04",
+  "docket_number": "No. 15\u20138413.",
+  "first_page": "1532",
+  "last_page": "1532",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1532"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 617"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "84f57ed2112ce820ef3dff8850b9543f5fe7b3cc3ff3c019277831290b81fa66",
+    "simhash": "1:7caf66c43c05c31b",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Luis GARCIA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Luis GARCIA, petitioner,\nv.\nUNITED STATES.\nNo. 15-8413.\nSupreme Court of the United States\nApril 04, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1532-01",
+  "first_page_order": 1532,
+  "last_page_order": 1532
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12600485,
+  "name": "Danny KIM, petitioner, v. W.L. MONTGOMERY, Warden.",
+  "name_abbreviation": "Kim v. Montgomery",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20135998.",
+  "first_page": "504",
+  "last_page": "504",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 504"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 399"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 215,
+    "sha256": "48d9dfa86cfea6b9b6f30b5478807249a9e90b99298fc33ba25a3bdbceed1ce9",
+    "simhash": "1:e2eff64637e637ab",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Danny KIM, petitioner,\nv.\nW.L. MONTGOMERY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Danny KIM, petitioner,\nv.\nW.L. MONTGOMERY, Warden.\nNo. 15-5998.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0504-02",
+  "first_page_order": 504,
+  "last_page_order": 504
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12600119,
+  "name": "David BALFOUR, petitioner, v. Carol HOWES, Warden.",
+  "name_abbreviation": "Balfour v. Howes",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u2013320.",
+  "first_page": "419",
+  "last_page": "419",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 419"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 318"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 213,
+    "sha256": "cb6e8b4172955ad181d3db0cc3bdcc66552e4f9509e9174a542aca91ba8f19da",
+    "simhash": "1:50af445493001525",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David BALFOUR, petitioner,\nv.\nCarol HOWES, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David BALFOUR, petitioner,\nv.\nCarol HOWES, Warden.\nNo. 15-320.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0419-02",
+  "first_page_order": 419,
+  "last_page_order": 419
+}

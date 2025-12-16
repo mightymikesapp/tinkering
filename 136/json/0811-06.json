@@ -1,0 +1,64 @@
+{
+  "id": 12601626,
+  "name": "JOHN DOE 2, et al., petitioners, v. John W. ROSA.",
+  "name_abbreviation": "Doe v. Rosa",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u2013532.",
+  "first_page": "811",
+  "last_page": "811",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 811"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 715"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 214,
+    "sha256": "e3bff6bc3d1678f5513af7bf47f476418aac34ad35bef1b808d9211e981a69e0",
+    "simhash": "1:70af66c43bb18609",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JOHN DOE 2, et al., petitioners,\nv.\nJohn W. ROSA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "JOHN DOE 2, et al., petitioners,\nv.\nJohn W. ROSA.\nNo. 15-532.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0811-06",
+  "first_page_order": 811,
+  "last_page_order": 811
+}

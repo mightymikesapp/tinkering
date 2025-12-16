@@ -1,0 +1,64 @@
+{
+  "id": 12595555,
+  "name": "In re Arturo SOLIS, petitioner.",
+  "name_abbreviation": "In re Solis",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20136704.",
+  "first_page": "1243",
+  "last_page": "1243",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1243"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 171"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 197,
+    "sha256": "9350a35a0e0c33ce9a8aae34e67911be4286a4f89cca1494cbbf9b898947acd5",
+    "simhash": "1:e2a51010031eef12",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Arturo SOLIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Arturo SOLIS, petitioner.\nNo. 15-6704.\nSupreme Court of the United States\nFeb. 29, 2016.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "1243-06",
+  "first_page_order": 1243,
+  "last_page_order": 1243
+}

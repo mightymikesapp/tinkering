@@ -1,0 +1,64 @@
+{
+  "id": 12594855,
+  "name": "Richard M. LOPEZ, petitioner, v. TEXAS.",
+  "name_abbreviation": "Lopez v. Texas",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u201310128.",
+  "first_page": "102",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 102"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 85"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 195,
+    "sha256": "0dd9ada9324ade0b26f15830b7138df478dd269cb05721e2d72592160e066d7b",
+    "simhash": "1:49aff694f2c5a575",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard M. LOPEZ, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Fourth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard M. LOPEZ, petitioner,\nv.\nTEXAS.\nNo. 14-10128.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Court of Appeals of Texas, Fourth District, denied."
+  },
+  "file_name": "0102-01",
+  "first_page_order": 102,
+  "last_page_order": 102
+}

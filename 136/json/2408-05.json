@@ -1,0 +1,91 @@
+{
+  "id": 12598338,
+  "name": "Eric PIPER, et al., petitioners, v. Joseph MIDDAUGH, et al.",
+  "name_abbreviation": "Piper v. Middaugh",
+  "decision_date": "2016-06-06",
+  "docket_number": "No. 15\u2013964.",
+  "first_page": "2408",
+  "last_page": "2408",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2408"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 777"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 305",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12599545
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/0305-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 479,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635532032948639
+    },
+    "sha256": "f57721ba95fe6d2f2952d75ba10f5989e230f305c903f62df98473f38362a753",
+    "simhash": "1:730e6284352416af",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric PIPER, et al., petitioners,\nv.\nJoseph MIDDAUGH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Mullenix v. Luna, 577 U.S. ----, 136 S.Ct. 305, 193 L.Ed.2d 255 (2015) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Eric PIPER, et al., petitioners,\nv.\nJoseph MIDDAUGH, et al.\nNo. 15-964.\nSupreme Court of the United States\nJune 6, 2016.\nOn petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Mullenix v. Luna, 577 U.S. ----, 136 S.Ct. 305, 193 L.Ed.2d 255 (2015) (per curiam )."
+  },
+  "file_name": "2408-05",
+  "first_page_order": 2408,
+  "last_page_order": 2408
+}

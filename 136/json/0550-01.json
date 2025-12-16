@@ -1,0 +1,64 @@
+{
+  "id": 12600784,
+  "name": "Marcus Elliot KING, petitioner, v. Thomas MACKIE, Warden.",
+  "name_abbreviation": "King v. Mackie",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136285.",
+  "first_page": "550",
+  "last_page": "550",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 550"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 440"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 222,
+    "sha256": "5c5dc1dfefb3ecd79a8da158e5bb238915359c6d08f5b81522509bdeaeb0a25a",
+    "simhash": "1:f43dc6463ce414a9",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marcus Elliot KING, petitioner,\nv.\nThomas MACKIE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marcus Elliot KING, petitioner,\nv.\nThomas MACKIE, Warden.\nNo. 15-6285.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0550-01",
+  "first_page_order": 550,
+  "last_page_order": 550
+}

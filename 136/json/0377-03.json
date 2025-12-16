@@ -1,0 +1,64 @@
+{
+  "id": 12599938,
+  "name": "William PEPPERS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Peppers v. United States",
+  "decision_date": "2015-10-19",
+  "docket_number": "No. 15\u20136112.",
+  "first_page": "377",
+  "last_page": "377",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 377"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 304"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "a32760f8bff60367ec0ddeac8000855083f1e73d670ff6a7b5c9a9550d8a8569",
+    "simhash": "1:f4ac66443f04873d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William PEPPERS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William PEPPERS, petitioner,\nv.\nUNITED STATES.\nNo. 15-6112.\nSupreme Court of the United States\nOct. 19, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0377-03",
+  "first_page_order": 377,
+  "last_page_order": 377
+}

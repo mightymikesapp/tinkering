@@ -1,0 +1,64 @@
+{
+  "id": 12601139,
+  "name": "Kathy MEDLOCK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Medlock v. United States",
+  "decision_date": "2015-12-07",
+  "docket_number": "No. 15\u20136776.",
+  "first_page": "601",
+  "last_page": "601",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 601"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 480"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "631159a4e0203f1f35e7ad0ddd2f432fd516420ff4efe334e4b636d12ff439b4",
+    "simhash": "1:f0ad46443624d63f",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kathy MEDLOCK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kathy MEDLOCK, petitioner,\nv.\nUNITED STATES.\nNo. 15-6776.\nSupreme Court of the United States\nDec. 7, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0601-04",
+  "first_page_order": 601,
+  "last_page_order": 601
+}

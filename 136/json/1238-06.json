@@ -1,0 +1,64 @@
+{
+  "id": 12595518,
+  "name": "In re David MOLESKI, petitioner.",
+  "name_abbreviation": "In re Moleski",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20138076.",
+  "first_page": "1238",
+  "last_page": "1238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1238"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 244"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "96e79824057f9dcd665e7a8e97c8d377db3fe2c94477ba7663c0a6a2ceb451f0",
+    "simhash": "1:b987110613d24d90",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re David MOLESKI, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re David MOLESKI, petitioner.\nNo. 15-8076.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1238-06",
+  "first_page_order": 1238,
+  "last_page_order": 1238
+}

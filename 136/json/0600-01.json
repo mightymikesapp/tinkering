@@ -1,0 +1,64 @@
+{
+  "id": 12601130,
+  "name": "Pedro ROSALES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rosales v. United States",
+  "decision_date": "2015-12-07",
+  "docket_number": "No. 15\u20136744.",
+  "first_page": "600",
+  "last_page": "600",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 600"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 479"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "1054ab1ad60578f2c93f880eafa1459d5ca375644d4c8bf74425c2b0e8161ef2",
+    "simhash": "1:fcaf56653724927f",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro ROSALES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro ROSALES, petitioner,\nv.\nUNITED STATES.\nNo. 15-6744.\nSupreme Court of the United States\nDec. 7, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0600-01",
+  "first_page_order": 600,
+  "last_page_order": 600
+}

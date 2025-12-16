@@ -1,0 +1,83 @@
+{
+  "id": 12600534,
+  "name": "Antonio MALDONADO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Maldonado v. United States",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136134.",
+  "first_page": "510",
+  "last_page": "511",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 510"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 392"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2551",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591035
+      ],
+      "weight": 2,
+      "year": 2015,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/135/2551-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 529,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635663314733793
+    },
+    "sha256": "56e236eb5e8804f9059b8603d159271e9ab7006e898618d6cbe6b2a0d9595bf5",
+    "simhash": "1:46afe6ec2f89861d",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio MALDONADO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Johnson v. United States, 576 U.S. ----, 135 S.Ct. 2551, 192 L.Ed.2d 569 (2015)."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio MALDONADO, petitioner,\nv.\nUNITED STATES.\nNo. 15-6134.\nSupreme Court of the United States\nNov. 16, 2015.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Johnson v. United States, 576 U.S. ----, 135 S.Ct. 2551, 192 L.Ed.2d 569 (2015)."
+  },
+  "file_name": "0510-06",
+  "first_page_order": 510,
+  "last_page_order": 511
+}

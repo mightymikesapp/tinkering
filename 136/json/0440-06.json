@@ -1,0 +1,62 @@
+{
+  "id": 12600267,
+  "name": "In the Matter of DISCIPLINE OF Richard S. HANLON.",
+  "name_abbreviation": "In re Hanlon",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. D\u20132843.",
+  "first_page": "440",
+  "last_page": "441",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 440"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 356,
+    "sha256": "7b4889aa0f19ef9bc1a6c91b2164b8c74fd895239fd8c1f7962f3cf3165b183b",
+    "simhash": "1:228b7136bfceb7eb",
+    "word_count": 65
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Richard S. HANLON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Richard S. HANLON.\nNo. D-2843.\nSupreme Court of the United States\nNov. 2, 2015.\nRichard S. Hanlon, of Bayonne, New Jersey, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0440-06",
+  "first_page_order": 440,
+  "last_page_order": 441
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12599665,
+  "name": "Wendell DUNCAN, aka Wendell Avery Duncan, petitioner, v. MISSISSIPPI.",
+  "name_abbreviation": "Duncan v. Mississippi",
+  "decision_date": "2015-10-13",
+  "docket_number": "No. 15\u20135726.",
+  "first_page": "334",
+  "last_page": "335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 334"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 241"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "9da9180ea31d450cebc1f8e6f062240dc74e3f2b3ccdf5f4832cf56e7295b076",
+    "simhash": "1:793f364236c585e9",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wendell DUNCAN, aka Wendell Avery Duncan, petitioner,\nv.\nMISSISSIPPI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "Wendell DUNCAN, aka Wendell Avery Duncan, petitioner,\nv.\nMISSISSIPPI.\nNo. 15-5726.\nSupreme Court of the United States\nOct. 13, 2015.\nPetition for writ of certiorari to the Court of Appeals of Mississippi denied."
+  },
+  "file_name": "0334-07",
+  "first_page_order": 334,
+  "last_page_order": 335
+}

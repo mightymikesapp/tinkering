@@ -1,0 +1,64 @@
+{
+  "id": 12598483,
+  "name": "Nexis Rene GOMEZ, petitioner, v. Connie GIPSON, Warden.",
+  "name_abbreviation": "Gomez v. Gipson",
+  "decision_date": "2016-06-06",
+  "docket_number": "No. 15\u20136486.",
+  "first_page": "2430",
+  "last_page": "2430",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2430"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 794"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 150,
+    "sha256": "3ae14a37246859ae20242919a57a2ed539c535c9ad342b689a26cc2e85ae113a",
+    "simhash": "1:72671c4692ed278f",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nexis Rene GOMEZ, petitioner,\nv.\nConnie GIPSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nexis Rene GOMEZ, petitioner,\nv.\nConnie GIPSON, Warden.\nNo. 15-6486.\nSupreme Court of the United States\nJune 6, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "2430-01",
+  "first_page_order": 2430,
+  "last_page_order": 2430
+}

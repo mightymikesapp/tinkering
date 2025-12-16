@@ -1,0 +1,64 @@
+{
+  "id": 12601382,
+  "name": "In re Douglas J. MACNEILL, petitioner.",
+  "name_abbreviation": "In re Macneill",
+  "decision_date": "2015-12-14",
+  "docket_number": "No. 15\u2013651.",
+  "first_page": "701",
+  "last_page": "701",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 701"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 529"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "1db2836f0b2b75ce5f7ce4717a5f8574c4643d6319922201861812b5ea8b20e7",
+    "simhash": "1:38f526a73ff94313",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Douglas J. MACNEILL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Douglas J. MACNEILL, petitioner.\nNo. 15-651.\nSupreme Court of the United States\nDec. 14, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0701-04",
+  "first_page_order": 701,
+  "last_page_order": 701
+}

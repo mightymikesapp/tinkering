@@ -1,0 +1,64 @@
+{
+  "id": 12599790,
+  "name": "Charles Alston SMITH, petitioner, v. COLORADO.",
+  "name_abbreviation": "Smith v. Colorado",
+  "decision_date": "2015-10-13",
+  "docket_number": "No. 14\u201310066.",
+  "first_page": "354",
+  "last_page": "354",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 354"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 188,
+    "sha256": "997d90d114ab2f2a2c596e6e51a6f28d47354efa278dfe70f1e09055e12a9eb3",
+    "simhash": "1:c97f66469685c1f9",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles Alston SMITH, petitioner,\nv.\nCOLORADO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Colorado denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles Alston SMITH, petitioner,\nv.\nCOLORADO.\nNo. 14-10066.\nSupreme Court of the United States\nOct. 13, 2015.\nPetition for writ of certiorari to the Court of Appeals of Colorado denied."
+  },
+  "file_name": "0354-04",
+  "first_page_order": 354,
+  "last_page_order": 354
+}

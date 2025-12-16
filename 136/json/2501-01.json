@@ -1,0 +1,64 @@
+{
+  "id": 12598880,
+  "name": "In re Anthony BODNAR, petitioner.",
+  "name_abbreviation": "In re Bodnar",
+  "decision_date": "2016-06-20",
+  "docket_number": "No. 15\u20139476.",
+  "first_page": "2501",
+  "last_page": "2501",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2501"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 834"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "5a7c8dd1bc822094ba1a1f130bd85709a700810fda3b04602c0cd83c9f4c074d",
+    "simhash": "1:4c8656259230031a",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Anthony BODNAR, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Anthony BODNAR, petitioner.\nNo. 15-9476.\nSupreme Court of the United States\nJune 20, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2501-01",
+  "first_page_order": 2501,
+  "last_page_order": 2501
+}

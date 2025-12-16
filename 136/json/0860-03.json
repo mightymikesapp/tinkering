@@ -1,0 +1,64 @@
+{
+  "id": 12601952,
+  "name": "Pedro GARCIA and Gonzalo Ramirez, petitioners, v. UNITED STATES.",
+  "name_abbreviation": "Garcia v. United States",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20137141.",
+  "first_page": "860",
+  "last_page": "860",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 860"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 758"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 229,
+    "sha256": "d9d48c72f171ff0e1211480881bca5bb87a51cf8c9e8731e780725d15d936d46",
+    "simhash": "1:71a7744438a4068d",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro GARCIA and Gonzalo Ramirez, petitioners,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro GARCIA and Gonzalo Ramirez, petitioners,\nv.\nUNITED STATES.\nNo. 15-7141.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0860-03",
+  "first_page_order": 860,
+  "last_page_order": 860
+}

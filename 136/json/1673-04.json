@@ -1,0 +1,92 @@
+{
+  "id": 12596859,
+  "name": "Timothy SNEED, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Sneed v. Florida",
+  "decision_date": "2016-04-18",
+  "docket_number": "No. 15\u20138161.",
+  "first_page": "1673",
+  "last_page": "1673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1673"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 763"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per Curiam "
+        },
+        {
+          "parenthetical": "per Curiam "
+        },
+        {
+          "parenthetical": "per Curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 81,
+    "char_count": 675,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635487628815425
+    },
+    "sha256": "6d060c76224343b97e190bd41f502a641949b09119651e74bf3b182b7bc7d7ae",
+    "simhash": "1:e162650c602dd60d",
+    "word_count": 110
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Timothy SNEED, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Timothy SNEED, petitioner,\nv.\nFLORIDA.\nNo. 15-8161.\nSupreme Court of the United States\nApril 18, 2016.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the District Court of Appeal of Florida, Third District dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per Curiam )."
+  },
+  "file_name": "1673-04",
+  "first_page_order": 1673,
+  "last_page_order": 1673
+}

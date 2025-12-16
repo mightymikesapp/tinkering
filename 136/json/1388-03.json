@@ -1,0 +1,64 @@
+{
+  "id": 12595855,
+  "name": "KENTUCKY, petitioner, v. Antwan D. ROUSE.",
+  "name_abbreviation": "Kentuchy v. Rouse",
+  "decision_date": "2016-03-07",
+  "docket_number": "No. 15\u2013890.",
+  "first_page": "1388",
+  "last_page": "1388",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1388"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 181,
+    "sha256": "28ec4548e42a760325c5bacc1f334b3667f1524d7678700c3e9d375aea5b896c",
+    "simhash": "1:4aff148f13872459",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "KENTUCKY, petitioner,\nv.\nAntwan D. ROUSE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Kentucky denied."
+    ],
+    "corrections": "",
+    "head_matter": "KENTUCKY, petitioner,\nv.\nAntwan D. ROUSE.\nNo. 15-890.\nSupreme Court of the United States\nMarch 7, 2016.\nPetition for writ of certiorari to the Court of Appeals of Kentucky denied."
+  },
+  "file_name": "1388-03",
+  "first_page_order": 1388,
+  "last_page_order": 1388
+}

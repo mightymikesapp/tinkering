@@ -1,0 +1,64 @@
+{
+  "id": 12599175,
+  "name": "Jane DOE, et al., petitioners, v. EAST LYME BOARD OF EDUCATION.",
+  "name_abbreviation": "Jane Doe v. E. Lyme Bd. of Educ.",
+  "decision_date": "2016-07-18",
+  "docket_number": "No. 15\u20131159.",
+  "first_page": "2546",
+  "last_page": "2546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2546"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 882"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 159,
+    "sha256": "3f9afc062c16289021eb45e0ba00ec5571cb574d8df28ccd1579be0109465dd4",
+    "simhash": "1:4987d42e37c0f203",
+    "word_count": 26
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jane DOE, et al., petitioners,\nv.\nEAST LYME BOARD OF EDUCATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jane DOE, et al., petitioners,\nv.\nEAST LYME BOARD OF EDUCATION.\nNo. 15-1159.\nSupreme Court of the United States\nJuly 18, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "2546-02",
+  "first_page_order": 2546,
+  "last_page_order": 2546
+}

@@ -1,0 +1,82 @@
+{
+  "id": 12599135,
+  "name": "Randy PATRIE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Patrie v. United States",
+  "decision_date": "2016-06-28",
+  "docket_number": "No. 15\u20136468.",
+  "first_page": "2539",
+  "last_page": "2539",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2539"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 864"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 2243",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12598042
+      ],
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/2243-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 526,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635589951383266
+    },
+    "sha256": "e32464fd74efbd3801eab0f5c1842b88d11005abea01e6a406ba54307fa260e2",
+    "simhash": "1:74ade6cc2d269699",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randy PATRIE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of Mathis v. United States, 579 U.S. ----, 136 S.Ct. 2243, --- L.Ed.2d ---- (2016)."
+    ],
+    "corrections": "",
+    "head_matter": "Randy PATRIE, petitioner,\nv.\nUNITED STATES.\nNo. 15-6468.\nSupreme Court of the United States\nJune 28, 2016.\nOn petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of Mathis v. United States, 579 U.S. ----, 136 S.Ct. 2243, --- L.Ed.2d ---- (2016)."
+  },
+  "file_name": "2539-05",
+  "first_page_order": 2539,
+  "last_page_order": 2539
+}

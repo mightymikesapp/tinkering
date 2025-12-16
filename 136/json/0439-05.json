@@ -1,0 +1,64 @@
+{
+  "id": 12600254,
+  "name": "In re David Andrew CHRISTENSON, petitioner.",
+  "name_abbreviation": "In re Christenson",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 14\u201310077.",
+  "first_page": "439",
+  "last_page": "439",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 439"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 341"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 139,
+    "sha256": "f482460a990d844c375267c97cda9753957379e98fa82c0d5871a53738cfa451",
+    "simhash": "1:800438461b80709e",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re David Andrew CHRISTENSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re David Andrew CHRISTENSON, petitioner.\nNo. 14-10077.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for rehearing denied."
+  },
+  "file_name": "0439-05",
+  "first_page_order": 439,
+  "last_page_order": 439
+}

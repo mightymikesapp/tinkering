@@ -1,0 +1,64 @@
+{
+  "id": 12602006,
+  "name": "Rickey Lee SCOTT, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Scott v. United States",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20137276.",
+  "first_page": "869",
+  "last_page": "869",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 869"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 767"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 289,
+    "sha256": "0567d58ced12609a249f424334c9219e29a25e996c2a434143a2a8bad0c00324",
+    "simhash": "1:fbaf74c437a5c64f",
+    "word_count": 48
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rickey Lee SCOTT, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rickey Lee SCOTT, petitioner,\nv.\nUNITED STATES.\nNo. 15-7276.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0869-04",
+  "first_page_order": 869,
+  "last_page_order": 869
+}

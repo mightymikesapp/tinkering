@@ -1,0 +1,64 @@
+{
+  "id": 12601067,
+  "name": "In re Otis Fitzgerald ERVIN, petitioner.",
+  "name_abbreviation": "In re Ervin",
+  "decision_date": "2015-12-07",
+  "docket_number": "No. 15\u20136398.",
+  "first_page": "591",
+  "last_page": "591",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 591"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 488"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "1858c031f0a2e5dc9b13f149f729e790e7d97512bfdae46c76fd479dea7b9dd3",
+    "simhash": "1:d81b1024b62211bc",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Otis Fitzgerald ERVIN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Otis Fitzgerald ERVIN, petitioner.\nNo. 15-6398.\nSupreme Court of the United States\nDec. 7, 2015.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0591-05",
+  "first_page_order": 591,
+  "last_page_order": 591
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12597988,
+  "name": "In re Derron JACKSON, petitioner.",
+  "name_abbreviation": "In re Jackson",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135282.",
+  "first_page": "217",
+  "last_page": "217",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 217"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "d75d9ad4eb7749f37051582bb0afff88f71a4df36e04e6233960eb88336cb738",
+    "simhash": "1:684b0005329c0531",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Derron JACKSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Derron JACKSON, petitioner.\nNo. 15-5282.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0217-02",
+  "first_page_order": 217,
+  "last_page_order": 217
+}

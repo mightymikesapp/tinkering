@@ -1,0 +1,64 @@
+{
+  "id": 12595831,
+  "name": "Vicente GUERRERO, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Guerrero v. Illinois",
+  "decision_date": "2016-03-07",
+  "docket_number": "No. 15\u20137617.",
+  "first_page": "1384",
+  "last_page": "1384",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1384"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 366"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 198,
+    "sha256": "c3031340324888de1fc21ccf57d11cc8469757963de2cd1a08dcd9dee0bf86ff",
+    "simhash": "1:f2af54860aacc108",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Vicente GUERRERO, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Vicente GUERRERO, petitioner,\nv.\nILLINOIS.\nNo. 15-7617.\nSupreme Court of the United States\nMarch 7, 2016.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "1384-04",
+  "first_page_order": 1384,
+  "last_page_order": 1384
+}

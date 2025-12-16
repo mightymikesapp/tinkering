@@ -1,0 +1,64 @@
+{
+  "id": 12598407,
+  "name": "Joseph SMITH, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Smith v. Illinois",
+  "decision_date": "2016-06-06",
+  "docket_number": "No. 15\u20139014.",
+  "first_page": "2419",
+  "last_page": "2419",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2419"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 788"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 193,
+    "sha256": "57b89138baab43c0e3fb7696aeec52b442b842ef7543cef964f2fec1c41f558e",
+    "simhash": "1:f3277486daa52588",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph SMITH, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph SMITH, petitioner,\nv.\nILLINOIS.\nNo. 15-9014.\nSupreme Court of the United States\nJune 6, 2016.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "2419-04",
+  "first_page_order": 2419,
+  "last_page_order": 2419
+}

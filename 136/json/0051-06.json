@@ -1,0 +1,64 @@
+{
+  "id": 12600526,
+  "name": "Daniel VASSALLO, petitioner, v. Jim MACDONALD, Warden.",
+  "name_abbreviation": "Vassallo v. Macdonald",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139682.",
+  "first_page": "51",
+  "last_page": "51",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 51"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 56"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 218,
+    "sha256": "a34f5693aeb61a3c2de4f915327ffd47b5b264e5603a89923f6296967b569985",
+    "simhash": "1:e1ad72443f8487a8",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel VASSALLO, petitioner,\nv.\nJim MACDONALD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel VASSALLO, petitioner,\nv.\nJim MACDONALD, Warden.\nNo. 14-9682.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0051-06",
+  "first_page_order": 51,
+  "last_page_order": 51
+}

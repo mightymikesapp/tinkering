@@ -1,0 +1,64 @@
+{
+  "id": 12600924,
+  "name": "In re Modesta SABENIANO, petitioner.",
+  "name_abbreviation": "In re Sabeniano",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 14\u20131427.",
+  "first_page": "571",
+  "last_page": "571",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 571"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 453"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 132,
+    "sha256": "d017663c2d59c8360bcec24a7b9197bb7600da04a25c9d1c310dbe8fc8497133",
+    "simhash": "1:82a570c63cc00a6a",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Modesta SABENIANO, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Modesta SABENIANO, petitioner.\nNo. 14-1427.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for rehearing denied."
+  },
+  "file_name": "0571-05",
+  "first_page_order": 571,
+  "last_page_order": 571
+}

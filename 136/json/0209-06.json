@@ -1,0 +1,64 @@
+{
+  "id": 12597928,
+  "name": "Leonard C. JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135239.",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 209"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 296,
+    "sha256": "b610dac1fb66e962578cb880d6fc0a65fa788f30f3f0f66797c3f00f6f0f232f",
+    "simhash": "1:f9bde2c43e84d25f",
+    "word_count": 48
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leonard C. JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leonard C. JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 15-5239.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\nJustice SOTOMAYOR took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0209-06",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

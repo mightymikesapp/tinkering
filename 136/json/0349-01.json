@@ -1,0 +1,64 @@
+{
+  "id": 12599752,
+  "name": "Anthony Antonio COX, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cox v. United States",
+  "decision_date": "2015-10-13",
+  "docket_number": "No. 15\u20135972.",
+  "first_page": "349",
+  "last_page": "349",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 349"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 218,
+    "sha256": "c4368f962ce8d2b47729f8ab2a23031cd4ec9323cd80b69b664c13ae863f97f3",
+    "simhash": "1:32ac2644170d8659",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony Antonio COX, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony Antonio COX, petitioner,\nv.\nUNITED STATES.\nNo. 15-5972.\nSupreme Court of the United States\nOct. 13, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0349-01",
+  "first_page_order": 349,
+  "last_page_order": 349
+}

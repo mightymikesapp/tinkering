@@ -1,0 +1,64 @@
+{
+  "id": 12600856,
+  "name": "Fred L. JONES, petitioner, v. Marc CLEMENTS, Warden.",
+  "name_abbreviation": "Jones v. Clements",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136636.",
+  "first_page": "561",
+  "last_page": "561",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 561"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 219,
+    "sha256": "8f321c5ab15c32055b5714dd7b6d15936adc7f0d65a3eff6c4adeece8cbc5f8c",
+    "simhash": "1:cd2d44c43a4016a8",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fred L. JONES, petitioner,\nv.\nMarc CLEMENTS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fred L. JONES, petitioner,\nv.\nMarc CLEMENTS, Warden.\nNo. 15-6636.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0561-02",
+  "first_page_order": 561,
+  "last_page_order": 561
+}

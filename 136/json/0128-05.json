@@ -1,0 +1,64 @@
+{
+  "id": 12595661,
+  "name": "In re Graham SCHREIBER, petitioner.",
+  "name_abbreviation": "In re Schreiber",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20131480.",
+  "first_page": "128",
+  "last_page": "128",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 128"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 217"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 137,
+    "sha256": "aa2ca5abe1446eacc656587e5306e7d93e74436cec9ed084d45b257a4759faa6",
+    "simhash": "1:486eda563e11f47f",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Graham SCHREIBER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Graham SCHREIBER, petitioner.\nNo. 14-1480.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0128-05",
+  "first_page_order": 128,
+  "last_page_order": 128
+}

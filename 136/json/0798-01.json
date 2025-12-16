@@ -1,0 +1,64 @@
+{
+  "id": 12601530,
+  "name": "NESTLE U.S.A., INC. et al., petitioners, v. JOHN DOE I, et al.",
+  "name_abbreviation": "Nestle United Statesa., Inc. v. John Doe",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u2013349.",
+  "first_page": "798",
+  "last_page": "798",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 798"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 711"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 226,
+    "sha256": "8a0222c11ad42711f0b6886acb3182f08ff316f120eacaf02dce1669f27d9860",
+    "simhash": "1:e3af66c0bd81c749",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NESTLE U.S.A., INC. et al., petitioners,\nv.\nJOHN DOE I, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "NESTLE U.S.A., INC. et al., petitioners,\nv.\nJOHN DOE I, et al.\nNo. 15-349.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0798-01",
+  "first_page_order": 798,
+  "last_page_order": 798
+}

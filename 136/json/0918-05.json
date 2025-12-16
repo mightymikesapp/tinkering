@@ -1,0 +1,64 @@
+{
+  "id": 12602348,
+  "name": "Jason JONES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jones v. United States",
+  "decision_date": "2016-01-19",
+  "docket_number": "No. 15\u20137388.",
+  "first_page": "918",
+  "last_page": "918",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 918"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 806"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "e4eb1420ad27eed8423a8f437b7c6897d8a60adc8de17e825a183c9184deed4b",
+    "simhash": "1:dcef76443b868289",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason JONES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason JONES, petitioner,\nv.\nUNITED STATES.\nNo. 15-7388.\nSupreme Court of the United States\nJan. 19, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0918-05",
+  "first_page_order": 918,
+  "last_page_order": 918
+}

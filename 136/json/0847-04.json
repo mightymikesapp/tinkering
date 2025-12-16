@@ -1,0 +1,64 @@
+{
+  "id": 12601860,
+  "name": "Gilbert LOPEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lopez v. United States",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136999.",
+  "first_page": "847",
+  "last_page": "847",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 847"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 749"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "a5c2879c09699d9db63ef4d95038befeca0b0de17599aab30425897484226b57",
+    "simhash": "1:f9ae56443f25c60d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gilbert LOPEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gilbert LOPEZ, petitioner,\nv.\nUNITED STATES.\nNo. 15-6999.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0847-04",
+  "first_page_order": 847,
+  "last_page_order": 847
+}

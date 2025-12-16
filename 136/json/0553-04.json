@@ -1,0 +1,64 @@
+{
+  "id": 12600805,
+  "name": "Joel Christopher HOLMES, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Holmes v. Washington",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136388.",
+  "first_page": "553",
+  "last_page": "553",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 553"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 442"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 207,
+    "sha256": "bb552efc8a452590fccb4269804b26b1e78881de638ce9e1b6ce309d65e4a34b",
+    "simhash": "1:b4bf664432c004ad",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joel Christopher HOLMES, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joel Christopher HOLMES, petitioner,\nv.\nWASHINGTON.\nNo. 15-6388.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1, denied."
+  },
+  "file_name": "0553-04",
+  "first_page_order": 553,
+  "last_page_order": 553
+}

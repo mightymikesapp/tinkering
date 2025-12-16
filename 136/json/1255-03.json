@@ -1,0 +1,62 @@
+{
+  "id": 12595638,
+  "name": "In the Matter of DISCIPLINE OF Raymond G. LAVALLEE.",
+  "name_abbreviation": "In re Lavallee",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. D\u20132876.",
+  "first_page": "1255",
+  "last_page": "1255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1255"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 253"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 361,
+    "sha256": "4f3c4703ae60a88b938984859db3e3f67a04d9a50b077096a282e6961914128e",
+    "simhash": "1:3b8a653ebfca37e2",
+    "word_count": 65
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Raymond G. LAVALLEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Raymond G. LAVALLEE.\nNo. D-2876.\nSupreme Court of the United States\nFeb. 29, 2016.\nRaymond G. Lavallee, of Hauppauge, New York, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "1255-03",
+  "first_page_order": 1255,
+  "last_page_order": 1255
+}

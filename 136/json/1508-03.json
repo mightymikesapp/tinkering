@@ -1,0 +1,64 @@
+{
+  "id": 12596434,
+  "name": "Leonardo DIAZ, petitioner, v. Jeff MACOMBER, Warden.",
+  "name_abbreviation": "Diaz v. Macomber",
+  "decision_date": "2016-03-28",
+  "docket_number": "No. 15M94.",
+  "first_page": "1508",
+  "last_page": "1508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1508"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 205,
+    "sha256": "ab052bede2ba79d70914fc26369a93eae26fe5742384d33fea4de181f4759e3c",
+    "simhash": "1:faef72149799ab89",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leonardo DIAZ, petitioner,\nv.\nJeff MACOMBER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leonardo DIAZ, petitioner,\nv.\nJeff MACOMBER, Warden.\nNo. 15M94.\nSupreme Court of the United States\nMarch 28, 2016.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "1508-03",
+  "first_page_order": 1508,
+  "last_page_order": 1508
+}

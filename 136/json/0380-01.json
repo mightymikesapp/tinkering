@@ -1,0 +1,64 @@
+{
+  "id": 12599960,
+  "name": "John Dwayne GARVIN, petitioner, v. Chuck WRIGHT, et al.",
+  "name_abbreviation": "Garvin v. Wright",
+  "decision_date": "2015-10-19",
+  "docket_number": "No. 15\u20136183.",
+  "first_page": "380",
+  "last_page": "380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 380"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 221,
+    "sha256": "215c76120518e93b24eee8d771bf4e2e7c1759f666f1a408328b8214e8c252c5",
+    "simhash": "1:6b2fe654be808365",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Dwayne GARVIN, petitioner,\nv.\nChuck WRIGHT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Dwayne GARVIN, petitioner,\nv.\nChuck WRIGHT, et al.\nNo. 15-6183.\nSupreme Court of the United States\nOct. 19, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0380-01",
+  "first_page_order": 380,
+  "last_page_order": 380
+}

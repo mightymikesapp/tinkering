@@ -1,0 +1,64 @@
+{
+  "id": 12594858,
+  "name": "Flenoid GREER, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Greer v. Michigan",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u201310131.",
+  "first_page": "102",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 102"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 85"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 180,
+    "sha256": "1b268b86049806eff03ee0fcf7e6c96b0e315c0a4ecd6dc65d756f0b7f5374ca",
+    "simhash": "1:786f4201b6d9053d",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Flenoid GREER, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Flenoid GREER, petitioner,\nv.\nMICHIGAN.\nNo. 14-10131.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "0102-04",
+  "first_page_order": 102,
+  "last_page_order": 102
+}

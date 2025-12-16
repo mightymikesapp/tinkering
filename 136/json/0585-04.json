@@ -1,0 +1,64 @@
+{
+  "id": 12601028,
+  "name": "Mark PICKENS, petitioner, v. OHIO.",
+  "name_abbreviation": "Pickens v. Ohio",
+  "decision_date": "2015-12-07",
+  "docket_number": "No. 15\u20135886.",
+  "first_page": "585",
+  "last_page": "585",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 585"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 471"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 167,
+    "sha256": "ad5675e27b0b32d9db5e78205a171aa507f896109d12c5ddfcafe3e97f241e3f",
+    "simhash": "1:e8af1654ba2461be",
+    "word_count": 28
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark PICKENS, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Ohio denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark PICKENS, petitioner,\nv.\nOHIO.\nNo. 15-5886.\nSupreme Court of the United States\nDec. 7, 2015.\nPetition for writ of certiorari to the Supreme Court of Ohio denied."
+  },
+  "file_name": "0585-04",
+  "first_page_order": 585,
+  "last_page_order": 585
+}

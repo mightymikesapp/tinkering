@@ -1,0 +1,64 @@
+{
+  "id": 12599443,
+  "name": "State of TEXAS, plaintiff, v. State of NEW MEXICO and State of Colorado.",
+  "name_abbreviation": "State v. State",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 141, Original.",
+  "first_page": "289",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 289"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 17"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 566,
+    "sha256": "95be0d204cc35f7187af59f0489af9a440e64f7a2b054fff925b9a73a0bb7def",
+    "simhash": "1:d4024e961ec50449",
+    "word_count": 99
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of TEXAS, plaintiff,\nv.\nState of NEW MEXICO and State of Colorado."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of El Paso County Water Improvement District No. 1 for leave to intervene referred to the Special Master. First Interim Motion of the Special Master for allowance of fees and disbursements granted, and the Special Master is awarded a total of $195,461.53 for the period November 3, 2014 through April 30, 2015, to be paid as follows: 37.5% by Texas, 37.5% by New Mexico, 20% by the United States, and 5% by Colorado."
+    ],
+    "corrections": "",
+    "head_matter": "State of TEXAS, plaintiff,\nv.\nState of NEW MEXICO and State of Colorado.\nNo. 141, Original.\nSupreme Court of the United States\nOct. 5, 2015.\nMotion of El Paso County Water Improvement District No. 1 for leave to intervene referred to the Special Master. First Interim Motion of the Special Master for allowance of fees and disbursements granted, and the Special Master is awarded a total of $195,461.53 for the period November 3, 2014 through April 30, 2015, to be paid as follows: 37.5% by Texas, 37.5% by New Mexico, 20% by the United States, and 5% by Colorado."
+  },
+  "file_name": "0289-03",
+  "first_page_order": 289,
+  "last_page_order": 289
+}

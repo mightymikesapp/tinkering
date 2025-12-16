@@ -1,0 +1,77 @@
+{
+  "id": 12600812,
+  "name": "Kenneth L. SMITH, petitioner, v. Antonin SCALIA, Associate Justice, Supreme Court of the United States, et al.",
+  "name_abbreviation": "Smith v. Scalia",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u2013454.",
+  "first_page": "554",
+  "last_page": "554",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 554"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 421"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "28 U.S.C. \u00a7 2109",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 86,
+    "char_count": 761,
+    "sha256": "b9caeeb4fb1dfe34c43177ef798e12303774c84400535a053ebe621cb1dbeb70",
+    "simhash": "1:daeee844bfc6eea7",
+    "word_count": 130
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth L. SMITH, petitioner,\nv.\nAntonin SCALIA, Associate Justice, Supreme Court of the United States, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Because the Court lacks a quorum, 28 U.S.C. \u00a7 1, and since the only qualified Justices are of the opinion that the case cannot be heard and determined at the next Term of the Court, the judgment is affirmed under 28 U.S.C. \u00a7 2109, which provides that under circumstances \"the court shall enter its order affirming the judgment of the court from which the case was brought for review with the same effect as upon affirmance by an equally divided court.\"."
+    ],
+    "corrections": "",
+    "head_matter": "Kenneth L. SMITH, petitioner,\nv.\nAntonin SCALIA, Associate Justice, Supreme Court of the United States, et al.\nNo. 15-454.\nSupreme Court of the United States\nNov. 30, 2015.\nBecause the Court lacks a quorum, 28 U.S.C. \u00a7 1, and since the only qualified Justices are of the opinion that the case cannot be heard and determined at the next Term of the Court, the judgment is affirmed under 28 U.S.C. \u00a7 2109, which provides that under circumstances \"the court shall enter its order affirming the judgment of the court from which the case was brought for review with the same effect as upon affirmance by an equally divided court.\".\nThe CHIEF JUSTICE, Justice SCALIA, Justice THOMAS, and Justice KAGAN took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0554-05",
+  "first_page_order": 554,
+  "last_page_order": 554
+}

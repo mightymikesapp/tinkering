@@ -1,0 +1,64 @@
+{
+  "id": 12600006,
+  "name": "Renard BRANCH, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Branch v. Illinois",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 14\u20139554.",
+  "first_page": "400",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 400"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "fe4a1afb6e6796b138a10d584fb86d42f4f5373cf4d385c9fde8babed6516b55",
+    "simhash": "1:54afd494ba08a180",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Renard BRANCH, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Renard BRANCH, petitioner,\nv.\nILLINOIS.\nNo. 14-9554.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+  },
+  "file_name": "0400-04",
+  "first_page_order": 400,
+  "last_page_order": 400
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12600348,
+  "name": "Steven M. LEONHART, petitioner, v. OHIO.",
+  "name_abbreviation": "Leonhart v. Ohio",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. 15\u20135957.",
+  "first_page": "483",
+  "last_page": "483",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 483"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 354"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 196,
+    "sha256": "3f64f5b878aebc8898c289d56ea98d431810e10a4f2d8027e79ec261da3d006f",
+    "simhash": "1:a4ed56541a8e05bc",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven M. LEONHART, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Washington County, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven M. LEONHART, petitioner,\nv.\nOHIO.\nNo. 15-5957.\nSupreme Court of the United States\nNov. 9, 2015.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Washington County, denied."
+  },
+  "file_name": "0483-04",
+  "first_page_order": 483,
+  "last_page_order": 483
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12600281,
+  "name": "In the Matter of DISCIPLINE OF Dean Gary WEBER.",
+  "name_abbreviation": "In re Weber",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. D\u20132856.",
+  "first_page": "443",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 443"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 352,
+    "sha256": "e49518193d3be4a282e972fdc3f6b99292fef8860beb6c84acafeed6b01cff4d",
+    "simhash": "1:3a8270be3fcbb7e3",
+    "word_count": 65
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Dean Gary WEBER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Dean Gary WEBER.\nNo. D-2856.\nSupreme Court of the United States\nNov. 2, 2015.\nDean Gary Weber, of Hauppauge, New York, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0443-04",
+  "first_page_order": 443,
+  "last_page_order": 443
+}

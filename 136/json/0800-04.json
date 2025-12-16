@@ -1,0 +1,64 @@
+{
+  "id": 12601555,
+  "name": "Terrence James JACKSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jackson v. United States",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136360.",
+  "first_page": "800",
+  "last_page": "800",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 800"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 221,
+    "sha256": "7116077a726e7d70266f595c16de9cafda3d01f1bf70f6864aae0e56813cc404",
+    "simhash": "1:7baed6443b040619",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terrence James JACKSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terrence James JACKSON, petitioner,\nv.\nUNITED STATES.\nNo. 15-6360.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0800-04",
+  "first_page_order": 800,
+  "last_page_order": 800
+}

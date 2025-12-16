@@ -1,0 +1,62 @@
+{
+  "id": 12600266,
+  "name": "In the Matter of DISCIPLINE OF Douglas Frederick TRACIA.",
+  "name_abbreviation": "In re Tracia",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. D\u20132842.",
+  "first_page": "440",
+  "last_page": "440",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 440"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 375,
+    "sha256": "93a4a07c52b62b94094e0c8187f7a74fcb5cf9a3ead6c7c1b5516dc03ad252c4",
+    "simhash": "1:6baa71363fdea7ea",
+    "word_count": 64
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Douglas Frederick TRACIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Douglas Frederick TRACIA.\nNo. D-2842.\nSupreme Court of the United States\nNov. 2, 2015.\nDouglas Frederick Tracia, of Wakefield, Massachusetts, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0440-05",
+  "first_page_order": 440,
+  "last_page_order": 440
+}

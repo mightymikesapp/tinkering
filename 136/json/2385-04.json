@@ -1,0 +1,64 @@
+{
+  "id": 12598180,
+  "name": "Pylord P. DOE, petitioner, v. DEPARTMENT OF HEALTH AND HUMAN SERVICES.",
+  "name_abbreviation": "P. Doe v. Dep't of Health & Human Servs.",
+  "decision_date": "2016-05-23",
+  "docket_number": "No. 15\u20138755.",
+  "first_page": "2385",
+  "last_page": "2385",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2385"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 235,
+    "sha256": "66402b29d0b1cffc796b8497e2a863116d91c675a36621d5200dc954d92137aa",
+    "simhash": "1:50efe446ba896521",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pylord P. DOE, petitioner,\nv.\nDEPARTMENT OF HEALTH AND HUMAN SERVICES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pylord P. DOE, petitioner,\nv.\nDEPARTMENT OF HEALTH AND HUMAN SERVICES.\nNo. 15-8755.\nSupreme Court of the United States\nMay 23, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2385-04",
+  "first_page_order": 2385,
+  "last_page_order": 2385
+}

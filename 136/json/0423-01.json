@@ -1,0 +1,64 @@
+{
+  "id": 12600148,
+  "name": "Juan GARCIA-HERNANDEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Garcia-Hernandez v. United States",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20136189.",
+  "first_page": "423",
+  "last_page": "423",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 423"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 216,
+    "sha256": "ce39758792a4ffc5a36fd6687c4f94c51096ec6026efa0dfe1518334a59f4ea7",
+    "simhash": "1:266de6443a04160d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan GARCIA-HERNANDEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan GARCIA-HERNANDEZ, petitioner,\nv.\nUNITED STATES.\nNo. 15-6189.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0423-01",
+  "first_page_order": 423,
+  "last_page_order": 423
+}

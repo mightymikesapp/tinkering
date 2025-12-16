@@ -1,0 +1,64 @@
+{
+  "id": 12599777,
+  "name": "In re Robert Eugene EASON, petitioner.",
+  "name_abbreviation": "In re Eason",
+  "decision_date": "2015-10-13",
+  "docket_number": "No. 15\u20136143.",
+  "first_page": "352",
+  "last_page": "352",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 352"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 253"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 146,
+    "sha256": "02e69e4c467284c3f0791d38b7d2f658f16421a3ec3f09e60b2fa3e3b26ace85",
+    "simhash": "1:499d3a761e5dcd19",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert Eugene EASON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Robert Eugene EASON, petitioner.\nNo. 15-6143.\nSupreme Court of the United States\nOct. 13, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0352-03",
+  "first_page_order": 352,
+  "last_page_order": 352
+}

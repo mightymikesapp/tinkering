@@ -1,0 +1,64 @@
+{
+  "id": 12600939,
+  "name": "In re Otis ERVIN, petitioner.",
+  "name_abbreviation": "In re Ervin",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 14\u20139676.",
+  "first_page": "573",
+  "last_page": "573",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 573"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 455"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 125,
+    "sha256": "ebd95271bbc29f11dea86ac79bba1c4ff1d0a9249290731be8eb4ca929aee153",
+    "simhash": "1:01b59c463ec962a8",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Otis ERVIN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Otis ERVIN, petitioner.\nNo. 14-9676.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for rehearing denied."
+  },
+  "file_name": "0573-06",
+  "first_page_order": 573,
+  "last_page_order": 573
+}

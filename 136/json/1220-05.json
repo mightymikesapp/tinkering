@@ -1,0 +1,64 @@
+{
+  "id": 12595401,
+  "name": "Dwight RHONE, et al., petitioners, v. UNITED STATES.",
+  "name_abbreviation": "Rhone v. United States",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20137660.",
+  "first_page": "1220",
+  "last_page": "1220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1220"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 221"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 217,
+    "sha256": "87948683d9a77b64782afcf67d5558ca871952a270c19187328505be66e5ad27",
+    "simhash": "1:fdaf76c43f04d4b1",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwight RHONE, et al., petitioners,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dwight RHONE, et al., petitioners,\nv.\nUNITED STATES.\nNo. 15-7660.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1220-05",
+  "first_page_order": 1220,
+  "last_page_order": 1220
+}

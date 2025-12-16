@@ -1,0 +1,64 @@
+{
+  "id": 12595896,
+  "name": "In re Robert L. HEDRICK, petitioner.",
+  "name_abbreviation": "In re Hedrick",
+  "decision_date": "2016-03-07",
+  "docket_number": "No. 15\u20137956.",
+  "first_page": "1394",
+  "last_page": "1394",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1394"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "3ca6f76af314963dac70330bff33359ae2ac4a1ae7282d20f9fa114d4cd0fcf9",
+    "simhash": "1:5a3750161af3e31a",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert L. HEDRICK, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Robert L. HEDRICK, petitioner.\nNo. 15-7956.\nSupreme Court of the United States\nMarch 7, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1394-02",
+  "first_page_order": 1394,
+  "last_page_order": 1394
+}

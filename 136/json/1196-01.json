@@ -1,0 +1,83 @@
+{
+  "id": 12595227,
+  "name": "Renee BAKER, Warden, et al., petitioners, v. Peter ELVIK.",
+  "name_abbreviation": "Baker v. Elvik",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u2013805.",
+  "first_page": "1196",
+  "last_page": "1196",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1196"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2187",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12590220
+      ],
+      "weight": 2,
+      "year": 2015,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/135/2187-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 532,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635387236862072
+    },
+    "sha256": "ff73aee93100c54573e504a5bcc2ea51a9f9f7778318b08e6c520a6d2e92854a",
+    "simhash": "1:432ee08c0580071d",
+    "word_count": 88
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Renee BAKER, Warden, et al., petitioners,\nv.\nPeter ELVIK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of respondent for leave to proceed in forma pauperis granted. On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of Davis v. Ayala, 576 U.S. ----, 135 S.Ct. 2187, 192 L.Ed.2d 323 (2015)."
+    ],
+    "corrections": "",
+    "head_matter": "Renee BAKER, Warden, et al., petitioners,\nv.\nPeter ELVIK.\nNo. 15-805.\nSupreme Court of the United States\nFeb. 29, 2016.\nMotion of respondent for leave to proceed in forma pauperis granted. On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of Davis v. Ayala, 576 U.S. ----, 135 S.Ct. 2187, 192 L.Ed.2d 323 (2015)."
+  },
+  "file_name": "1196-01",
+  "first_page_order": 1196,
+  "last_page_order": 1196
+}

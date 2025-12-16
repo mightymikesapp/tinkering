@@ -1,0 +1,64 @@
+{
+  "id": 12601904,
+  "name": "In re Jeffrey Nathan SCHIRRIPA, petitioner.",
+  "name_abbreviation": "In re Schirripa",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20137058.",
+  "first_page": "853",
+  "last_page": "853",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 853"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 769"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 146,
+    "sha256": "c83460991ac55a905c5feef4b7076a5770ea924e4a66a7f094b531bb60c8c44b",
+    "simhash": "1:683712043e914415",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jeffrey Nathan SCHIRRIPA, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Jeffrey Nathan SCHIRRIPA, petitioner.\nNo. 15-7058.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0853-06",
+  "first_page_order": 853,
+  "last_page_order": 853
+}

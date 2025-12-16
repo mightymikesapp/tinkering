@@ -1,0 +1,64 @@
+{
+  "id": 12600493,
+  "name": "Charles TYSON, petitioner, v. Larry CARTLEDGE, Warden, et al.",
+  "name_abbreviation": "Tyson v. Cartledge",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136031.",
+  "first_page": "505",
+  "last_page": "505",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 505"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 400"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 205,
+    "sha256": "eaacda8e4784e6eaebe6530e40b458535b04ca5300ce1d9768914e3411e1049a",
+    "simhash": "1:402f444432c52290",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles TYSON, petitioner,\nv.\nLarry CARTLEDGE, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of South Carolina denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles TYSON, petitioner,\nv.\nLarry CARTLEDGE, Warden, et al.\nNo. 15-6031.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the Supreme Court of South Carolina denied."
+  },
+  "file_name": "0505-04",
+  "first_page_order": 505,
+  "last_page_order": 505
+}

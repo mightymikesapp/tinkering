@@ -1,0 +1,64 @@
+{
+  "id": 12601092,
+  "name": "Charles P. WHITE, petitioner, v. INDIANA.",
+  "name_abbreviation": "White v. Indiana",
+  "decision_date": "2015-12-07",
+  "docket_number": "No. 15\u20136542.",
+  "first_page": "595",
+  "last_page": "595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 595"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 197,
+    "sha256": "0c29a101afbe9c2fb2f151d90ceb8c76ac436b68e346df604f5231f705367526",
+    "simhash": "1:706f7e0632c580bc",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles P. WHITE, petitioner,\nv.\nINDIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Indiana, Fifth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles P. WHITE, petitioner,\nv.\nINDIANA.\nNo. 15-6542.\nSupreme Court of the United States\nDec. 7, 2015.\nPetition for writ of certiorari to the Court of Appeals of Indiana, Fifth District, denied."
+  },
+  "file_name": "0595-06",
+  "first_page_order": 595,
+  "last_page_order": 595
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12601616,
+  "name": "Tia SMITH, petitioner, v. AMERICAN MORTGAGE NETWORK, et al.",
+  "name_abbreviation": "Smith v. Am. Mortg. Network",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136638.",
+  "first_page": "810",
+  "last_page": "810",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 810"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 728"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 199,
+    "sha256": "c1db80376ac7fa9eb49a37500c6a17bf771af9b8bfa9bcb0ac015847e27a4e7b",
+    "simhash": "1:e82b141038b5a2d6",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tia SMITH, petitioner,\nv.\nAMERICAN MORTGAGE NETWORK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tia SMITH, petitioner,\nv.\nAMERICAN MORTGAGE NETWORK, et al.\nNo. 15-6638.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "0810-02",
+  "first_page_order": 810,
+  "last_page_order": 810
+}

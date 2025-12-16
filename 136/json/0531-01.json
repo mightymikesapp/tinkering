@@ -1,0 +1,68 @@
+{
+  "id": 12600663,
+  "name": "Joseph CONTORINIS, v. SECURITIES AND EXCHANGE COMMISSION.",
+  "name_abbreviation": "Contorinis v. Sec. & Exch. Comm'n",
+  "decision_date": "2015-11-19",
+  "docket_number": "No. 14\u2013471 (R46\u2013008).",
+  "first_page": "531",
+  "last_page": "532",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 531"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 419"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 235,
+    "pagerank": {
+      "raw": 4.7817273071113374e-08,
+      "percentile": 0.3011737363838587
+    },
+    "sha256": "4070da4b8edc23300769a03f6c17ddb241859d70a968a1a356712810e856033b",
+    "simhash": "1:fbef305c6ac02219",
+    "word_count": 38
+  },
+  "last_updated": "2023-03-29T19:33:20.158477+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph CONTORINIS,\nv.\nSECURITIES AND EXCHANGE COMMISSION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph CONTORINIS,\nv.\nSECURITIES AND EXCHANGE COMMISSION.\nNo. 14-471 (R46-008).\nSupreme Court of the United States\nNov. 19, 2015.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+  },
+  "file_name": "0531-01",
+  "first_page_order": 531,
+  "last_page_order": 532
+}

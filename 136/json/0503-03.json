@@ -1,0 +1,64 @@
+{
+  "id": 12600480,
+  "name": "OMG, L.P., et al., petitioners, v. HERITAGE AUCTIONS, INC.",
+  "name_abbreviation": "Omg, L.P. v. Heritage Auctions, Inc.",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u2013298.",
+  "first_page": "503",
+  "last_page": "503",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 503"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 396"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 222,
+    "sha256": "17d089e4a912669fe94d6e9a727e102712837ffa0907b6ef8f8f9c915830238a",
+    "simhash": "1:e47f76c5379191cf",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "OMG, L.P., et al., petitioners,\nv.\nHERITAGE AUCTIONS, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "OMG, L.P., et al., petitioners,\nv.\nHERITAGE AUCTIONS, INC.\nNo. 15-298.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0503-03",
+  "first_page_order": 503,
+  "last_page_order": 503
+}

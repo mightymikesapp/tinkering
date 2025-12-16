@@ -1,0 +1,64 @@
+{
+  "id": 12600763,
+  "name": "Jimmy REID, petitioner, v. Oliver WASHINGTON.",
+  "name_abbreviation": "Reid v. Washington",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136250.",
+  "first_page": "547",
+  "last_page": "547",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 547"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 438"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 211,
+    "sha256": "cbcd6c6a6a9ca2dda33d2b38e20f65a2805cd8091464aa59cf3a8b378bb4215d",
+    "simhash": "1:d32dc6c43ac087a8",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jimmy REID, petitioner,\nv.\nOliver WASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jimmy REID, petitioner,\nv.\nOliver WASHINGTON.\nNo. 15-6250.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0547-04",
+  "first_page_order": 547,
+  "last_page_order": 547
+}

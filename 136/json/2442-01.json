@@ -1,0 +1,93 @@
+{
+  "id": 12598510,
+  "name": "GLOUCESTER COUNTY SCHOOL BOARD v. G.G., By His Next Friend and Mother, Deirdre GRIMM.",
+  "name_abbreviation": "Gloucester Cnty. Sch. Bd. v. G.G.",
+  "decision_date": "2016-08-03",
+  "docket_number": "No. 16A52.",
+  "first_page": "2442",
+  "last_page": "2442",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2442"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 888"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "554 U.S. 759",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3677302
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "765",
+          "parenthetical": "BREYER, J., dissenting"
+        },
+        {
+          "parenthetical": "BREYER, J., dissenting"
+        },
+        {
+          "parenthetical": "BREYER, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0759-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 126,
+    "char_count": 1410,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26355397554065896
+    },
+    "sha256": "de09e59564466efda8c2e26b24bbb554651e0a66f0114e6657f373fedda1e88d",
+    "simhash": "1:e97ff28f538ac9ff",
+    "word_count": 239
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GLOUCESTER COUNTY SCHOOL BOARD\nv.\nG.G., By His Next Friend and Mother, Deirdre GRIMM."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYER, concurring.\nIn light of the facts that four Justices have voted to grant the application referred to the Court by THE CHIEF JUSTICE, that we are currently in recess, and that granting a stay will preserve the status quo (as of the time the Court of Appeals made its decision) until the Court considers the forthcoming petition for certiorari, I vote to grant the application as a courtesy. See Medell\u00edn v. Texas , 554 U.S. 759, 765, 129 S.Ct. 360, 171 L.Ed.2d 833 (2008) (BREYER, J., dissenting).\nJustice GINSBURG, Justice SOTOMAYOR, and Justice KAGAN would deny the application.",
+        "type": "majority",
+        "author": "Justice BREYER, concurring."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "GLOUCESTER COUNTY SCHOOL BOARD\nv.\nG.G., By His Next Friend and Mother, Deirdre GRIMM.\nNo. 16A52.\nSupreme Court of the United States\nAug. 3, 2016.\nThe application to recall and stay the mandate of the United States Court of Appeals for the Fourth Circuit in case No. 15-2056, presented to THE CHIEF JUSTICE and by him referred to the Court, is granted and the preliminary injunction entered by the United States District Court for the Eastern District of Virginia on June 23, 2016, is hereby stayed pending the timely filing and disposition of a petition for a writ of certiorari. Should the petition for a writ of certiorari be denied, this stay shall terminate automatically. In the event the petition for a writ of certiorari is granted, the stay shall terminate upon the issuance of the judgment of this Court."
+  },
+  "file_name": "2442-01",
+  "first_page_order": 2442,
+  "last_page_order": 2442
+}

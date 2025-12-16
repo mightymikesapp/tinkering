@@ -1,0 +1,64 @@
+{
+  "id": 12599412,
+  "name": "EASTMAN KODAK COMPANY, petitioner, v. COLLINS INKJET CORPORATION.",
+  "name_abbreviation": "Eastman Kodak Co. v. Collins Inkjet Corp.",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15M1.",
+  "first_page": "284",
+  "last_page": "284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 284"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 232,
+    "sha256": "7b76692d2090b9cfa1773ddb23a6d1ae673b058c7ba5c8f8e48d03689a90430e",
+    "simhash": "1:f2afda005bc8d43d",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "EASTMAN KODAK COMPANY, petitioner,\nv.\nCOLLINS INKJET CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari with supplemental appendix under seal granted."
+    ],
+    "corrections": "",
+    "head_matter": "EASTMAN KODAK COMPANY, petitioner,\nv.\nCOLLINS INKJET CORPORATION.\nNo. 15M1.\nSupreme Court of the United States\nOct. 5, 2015.\nMotion for leave to file a petition for writ of certiorari with supplemental appendix under seal granted."
+  },
+  "file_name": "0284-05",
+  "first_page_order": 284,
+  "last_page_order": 284
+}

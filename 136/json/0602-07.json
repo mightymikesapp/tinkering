@@ -1,0 +1,64 @@
+{
+  "id": 12601148,
+  "name": "Donald P. CIPRA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cipra v. United States",
+  "decision_date": "2015-12-07",
+  "docket_number": "No. 15\u20136799.",
+  "first_page": "602",
+  "last_page": "603",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 602"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 482"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "0294be8d091be9dcc0d8cb1555d07fd29cafddf0b5e424b0a2d1b7d0f42cd5cd",
+    "simhash": "1:4eac444527048238",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald P. CIPRA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Donald P. CIPRA, petitioner,\nv.\nUNITED STATES.\nNo. 15-6799.\nSupreme Court of the United States\nDec. 7, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0602-07",
+  "first_page_order": 602,
+  "last_page_order": 603
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12598127,
+  "name": "Fred JOHNSON, petitioner, v. Darin YOUNG, Warden, et al.",
+  "name_abbreviation": "Johnson v. Young",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135390.",
+  "first_page": "237",
+  "last_page": "237",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 237"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 221,
+    "sha256": "20ba1fa7f388249e692e5973948225ea5fbdd2d2fea42e0ef82e70a97c95dc30",
+    "simhash": "1:70ade4443e0483b0",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fred JOHNSON, petitioner,\nv.\nDarin YOUNG, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fred JOHNSON, petitioner,\nv.\nDarin YOUNG, Warden, et al.\nNo. 15-5390.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0237-01",
+  "first_page_order": 237,
+  "last_page_order": 237
+}

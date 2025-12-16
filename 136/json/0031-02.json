@@ -1,0 +1,64 @@
+{
+  "id": 12599547,
+  "name": "William E. BOLDEN, petitioner, v. John DOE, et al.",
+  "name_abbreviation": "Bolden v. John Doe",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20131106.",
+  "first_page": "31",
+  "last_page": "31",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 31"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 24"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 183,
+    "sha256": "6be0f60b715692df0418a3fb6fb316849baca3dc44c11e28c8375626401f96b7",
+    "simhash": "1:f8af7414f285a57c",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William E. BOLDEN, petitioner,\nv.\nJohn DOE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Utah denied."
+    ],
+    "corrections": "",
+    "head_matter": "William E. BOLDEN, petitioner,\nv.\nJohn DOE, et al.\nNo. 14-1106.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Supreme Court of Utah denied."
+  },
+  "file_name": "0031-02",
+  "first_page_order": 31,
+  "last_page_order": 31
+}

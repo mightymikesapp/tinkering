@@ -1,0 +1,62 @@
+{
+  "id": 12600438,
+  "name": "In the Matter of DISBARMENT OF Vito Matteo EVOLA.",
+  "name_abbreviation": "In re Evola",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. D\u20132829.",
+  "first_page": "497",
+  "last_page": "497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 497"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 361"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 138,
+    "sha256": "7a560ae0720f818fc8c1b62a9cced69fe3facb40f25de863fd7b57d6ce6b2dea",
+    "simhash": "1:a822c004b2a434e5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Vito Matteo EVOLA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Vito Matteo EVOLA.\nNo. D-2829.\nSupreme Court of the United States\nNov. 9, 2015.\nDisbarment order entered."
+  },
+  "file_name": "0497-05",
+  "first_page_order": 497,
+  "last_page_order": 497
+}

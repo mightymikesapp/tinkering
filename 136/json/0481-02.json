@@ -1,0 +1,64 @@
+{
+  "id": 12600334,
+  "name": "Lawrence HALL, petitioner, v. Howard PRINCE, Warden.",
+  "name_abbreviation": "Hall v. Prince",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. 15\u20135919.",
+  "first_page": "481",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 481"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 352"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 216,
+    "sha256": "b48edd44c03d26b7e4fb4c0aeea32bc49132ea1529ae169f983015dd1f17a8d2",
+    "simhash": "1:c027f644328d47ad",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lawrence HALL, petitioner,\nv.\nHoward PRINCE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lawrence HALL, petitioner,\nv.\nHoward PRINCE, Warden.\nNo. 15-5919.\nSupreme Court of the United States\nNov. 9, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0481-02",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

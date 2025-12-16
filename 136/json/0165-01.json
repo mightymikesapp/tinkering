@@ -1,0 +1,64 @@
+{
+  "id": 12596731,
+  "name": "SUPPRESSED, petitioner, v. SUPPRESSED.",
+  "name_abbreviation": "Suppressed v. Suppressed",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u201310471.",
+  "first_page": "165",
+  "last_page": "165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 165"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 121"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 205,
+    "sha256": "297a09a91911f391d75db70c915f332cd2a026bc2e9e999af7bb234b825fcbd5",
+    "simhash": "1:faaf76453f8406b1",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SUPPRESSED, petitioner,\nv.\nSUPPRESSED."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "SUPPRESSED, petitioner,\nv.\nSUPPRESSED.\nNo. 14-10471.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0165-01",
+  "first_page_order": 165,
+  "last_page_order": 165
+}

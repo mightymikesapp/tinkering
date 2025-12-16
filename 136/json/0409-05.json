@@ -1,0 +1,64 @@
+{
+  "id": 12600060,
+  "name": "Kathryn WALKER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Walker v. United States",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u2013256.",
+  "first_page": "409",
+  "last_page": "409",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 409"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 316"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "862d4eac2309d9c8ea3ddb7b3fd54dca765119c5fcef43a3ca2864b74a84f80a",
+    "simhash": "1:2aaff6443b0496ad",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kathryn WALKER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kathryn WALKER, petitioner,\nv.\nUNITED STATES.\nNo. 15-256.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0409-05",
+  "first_page_order": 409,
+  "last_page_order": 409
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12602304,
+  "name": "Mike C. MATSON, petitioner, v. Joel HRABE.",
+  "name_abbreviation": "Matson v. Hrabe",
+  "decision_date": "2016-01-19",
+  "docket_number": "No. 15\u20137284.",
+  "first_page": "911",
+  "last_page": "911",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 911"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 802"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 207,
+    "sha256": "7c6d2e1bf98987b9791d55d232cc38b227811d1ddb23f2d99be83130222c59d3",
+    "simhash": "1:548754c42b800689",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mike C. MATSON, petitioner,\nv.\nJoel HRABE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mike C. MATSON, petitioner,\nv.\nJoel HRABE.\nNo. 15-7284.\nSupreme Court of the United States\nJan. 19, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0911-03",
+  "first_page_order": 911,
+  "last_page_order": 911
+}

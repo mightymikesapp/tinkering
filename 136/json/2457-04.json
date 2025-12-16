@@ -1,0 +1,64 @@
+{
+  "id": 12598578,
+  "name": "John C. KILLINGBECK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Killingbeck v. United States",
+  "decision_date": "2016-05-23",
+  "docket_number": "No. 15\u20139009.",
+  "first_page": "2457",
+  "last_page": "2457",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2457"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 274"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "2a47a3c219d300257e0a6a67a101cf7d2988c6a0c0e2bdda3cddc1824504249c",
+    "simhash": "1:f8ad46c43aac431b",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John C. KILLINGBECK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John C. KILLINGBECK, petitioner,\nv.\nUNITED STATES.\nNo. 15-9009.\nSupreme Court of the United States\nMay 23, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "2457-04",
+  "first_page_order": 2457,
+  "last_page_order": 2457
+}

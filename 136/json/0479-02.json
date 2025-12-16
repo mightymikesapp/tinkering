@@ -1,0 +1,87 @@
+{
+  "id": 12600316,
+  "name": "Brandon PICKENS, et al., petitioners, v. Erma ALDABA, Personal Representative and Next of Kin of Johnny Manuel Leija, Deceased.",
+  "name_abbreviation": "Pickens v. Aldaba",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. 14\u20131492.",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 479"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 305",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12599545
+      ],
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/0305-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 512,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635655592275843
+    },
+    "sha256": "59e3b5f36097cfec952ab3afe3fb5603b0924c69399f1473a8791a54778597a2",
+    "simhash": "1:db2c72442c040688",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brandon PICKENS, et al., petitioners,\nv.\nErma ALDABA, Personal Representative and Next of Kin of Johnny Manuel Leija, Deceased."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Tenth Circuit for further consideration in light of Mullenix v. Luna, 577 U.S. ----, 136 S.Ct. 305, ---L.Ed.2d ---- (2015) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Brandon PICKENS, et al., petitioners,\nv.\nErma ALDABA, Personal Representative and Next of Kin of Johnny Manuel Leija, Deceased.\nNo. 14-1492.\nSupreme Court of the United States\nNov. 9, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Tenth Circuit for further consideration in light of Mullenix v. Luna, 577 U.S. ----, 136 S.Ct. 305, ---L.Ed.2d ---- (2015) (per curiam )."
+  },
+  "file_name": "0479-02",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

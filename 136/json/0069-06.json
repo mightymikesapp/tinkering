@@ -1,0 +1,64 @@
+{
+  "id": 12601301,
+  "name": "David Allen KNIGHT, petitioner, v. Scott FRAUENHEIM, Warden.",
+  "name_abbreviation": "Knight v. Frauenheim",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139878.",
+  "first_page": "69",
+  "last_page": "69",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 69"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 67"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 224,
+    "sha256": "03a6cbed03a135d663921550333346b6596580288572c9c9ee40c219d9961aa3",
+    "simhash": "1:73aff6043a94072d",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Allen KNIGHT, petitioner,\nv.\nScott FRAUENHEIM, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David Allen KNIGHT, petitioner,\nv.\nScott FRAUENHEIM, Warden.\nNo. 14-9878.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0069-06",
+  "first_page_order": 69,
+  "last_page_order": 69
+}

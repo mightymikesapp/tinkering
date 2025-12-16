@@ -1,0 +1,64 @@
+{
+  "id": 12598000,
+  "name": "Jack D. McCULLOUGH, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "McCullough v. Illinois",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135286.",
+  "first_page": "219",
+  "last_page": "219",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 219"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 166"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 201,
+    "sha256": "d0b7d98fd782d29b8d7af3333d258e8e360f747ee915aee32d19c344446b6e03",
+    "simhash": "1:d0adf6461a00c436",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jack D. McCULLOUGH, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Second District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jack D. McCULLOUGH, petitioner,\nv.\nILLINOIS.\nNo. 15-5286.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Appellate Court of Illinois, Second District, denied."
+  },
+  "file_name": "0219-03",
+  "first_page_order": 219,
+  "last_page_order": 219
+}

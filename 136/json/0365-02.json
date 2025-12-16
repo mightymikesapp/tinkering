@@ -1,0 +1,64 @@
+{
+  "id": 12599858,
+  "name": "Justin WHITE, petitioner, v. ALABAMA.",
+  "name_abbreviation": "White v. Alabama",
+  "decision_date": "2015-10-19",
+  "docket_number": "No. 15\u20135730.",
+  "first_page": "365",
+  "last_page": "365",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 365"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 296"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 186,
+    "sha256": "0536c7275fe0c536cd858605e43b4d1d1e24a54c68f43f2e5d60ddb5a4de6e38",
+    "simhash": "1:6127767432c30034",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Justin WHITE, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+    ],
+    "corrections": "",
+    "head_matter": "Justin WHITE, petitioner,\nv.\nALABAMA.\nNo. 15-5730.\nSupreme Court of the United States\nOct. 19, 2015.\nPetition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+  },
+  "file_name": "0365-02",
+  "first_page_order": 365,
+  "last_page_order": 365
+}

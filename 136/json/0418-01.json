@@ -1,0 +1,64 @@
+{
+  "id": 12600112,
+  "name": "Majida SALEM, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Salem v. United States",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u2013310.",
+  "first_page": "418",
+  "last_page": "418",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 418"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 318"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 206,
+    "sha256": "2cd0d49cb2166744d393a25413bd54804d0de1558123931facabd0bcd846c289",
+    "simhash": "1:0faff4443f2c864d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Majida SALEM, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Majida SALEM, petitioner,\nv.\nUNITED STATES.\nNo. 15-310.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0418-01",
+  "first_page_order": 418,
+  "last_page_order": 418
+}

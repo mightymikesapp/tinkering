@@ -1,0 +1,64 @@
+{
+  "id": 12600058,
+  "name": "In re GwanJun KIM, petitioner.",
+  "name_abbreviation": "In re Kim",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20135839.",
+  "first_page": "409",
+  "last_page": "409",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 409"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 341"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "7ec8439c231674081e656921ff764e538c09c7ef4a0d509978210245da068b35",
+    "simhash": "1:0627d474b749312e",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re GwanJun KIM, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re GwanJun KIM, petitioner.\nNo. 15-5839.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0409-03",
+  "first_page_order": 409,
+  "last_page_order": 409
+}

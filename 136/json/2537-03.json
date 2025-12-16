@@ -1,0 +1,82 @@
+{
+  "id": 12599122,
+  "name": "Steve Michael BEYLUND, petitioner, v. NORTH DAKOTA.",
+  "name_abbreviation": "Beylund v. Dakota",
+  "decision_date": "2016-06-28",
+  "docket_number": "No. 14\u20131506.",
+  "first_page": "2537",
+  "last_page": "2537",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2537"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 863"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 2160",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597986
+      ],
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/2160-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 424,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26355802983108284
+    },
+    "sha256": "2919a60fef253aa52d42f659ce3e01908d757c6c473e28a953ee974c0f0663b4",
+    "simhash": "1:70a766043886068f",
+    "word_count": 66
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steve Michael BEYLUND, petitioner,\nv.\nNORTH DAKOTA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Supreme Court of North Dakota. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of North Dakota for further consideration in light of Birchfield v. North Dakota, 579 U.S. ----, 136 S.Ct. 2160, ---L.Ed.2d ---- (2016)."
+    ],
+    "corrections": "",
+    "head_matter": "Steve Michael BEYLUND, petitioner,\nv.\nNORTH DAKOTA.\nNo. 14-1506.\nSupreme Court of the United States\nJune 28, 2016.\nOn petition for writ of certiorari to the Supreme Court of North Dakota. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of North Dakota for further consideration in light of Birchfield v. North Dakota, 579 U.S. ----, 136 S.Ct. 2160, ---L.Ed.2d ---- (2016)."
+  },
+  "file_name": "2537-03",
+  "first_page_order": 2537,
+  "last_page_order": 2537
+}

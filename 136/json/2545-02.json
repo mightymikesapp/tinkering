@@ -1,0 +1,64 @@
+{
+  "id": 12599169,
+  "name": "Loretta E. LYNCH, Attorney General, petitioner, v. Luis Ramos MORALES-SANTANA.",
+  "name_abbreviation": "Lynch v. Morales-Santana",
+  "decision_date": "2016-06-28",
+  "docket_number": "No. 15\u20131191.",
+  "first_page": "2545",
+  "last_page": "2545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2545"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 867"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 245,
+    "sha256": "94682ddbdfeeb37daef52a2e4d61a2679435fdc2a128785be3cc997d0d4ade54",
+    "simhash": "1:f32f76ec394411d9",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Loretta E. LYNCH, Attorney General, petitioner,\nv.\nLuis Ramos MORALES-SANTANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "Loretta E. LYNCH, Attorney General, petitioner,\nv.\nLuis Ramos MORALES-SANTANA.\nNo. 15-1191.\nSupreme Court of the United States\nJune 28, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit granted."
+  },
+  "file_name": "2545-02",
+  "first_page_order": 2545,
+  "last_page_order": 2545
+}

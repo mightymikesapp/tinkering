@@ -1,0 +1,62 @@
+{
+  "id": 12596040,
+  "name": "William HALL, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Hall v. Michigan",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u201310358.",
+  "first_page": "145",
+  "last_page": "145",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 145"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 109"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "0f2ab26e8b3eb357301a610f082d9b821457782cb53dca74e29d9190a306e1a7",
+    "simhash": "1:ebef665432db87bc",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William HALL, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William HALL, petitioner,\nv.\nMICHIGAN.\nNo. 14-10358.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Circuit Court of Michigan, Kalamazoo County, denied."
+  },
+  "file_name": "0145-04",
+  "first_page_order": 145,
+  "last_page_order": 145
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12602477,
+  "name": "In re Melvin Keith RICHARDSON, petitioner.",
+  "name_abbreviation": "In re Richardson",
+  "decision_date": "2016-01-25",
+  "docket_number": "No. 15\u20137013.",
+  "first_page": "983",
+  "last_page": "983",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 983"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 14"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "0c734e9b1381cc95a8adc0f7d2982bed3546615744ba67c341c11b9024a4c3d1",
+    "simhash": "1:e8e7460432210515",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Melvin Keith RICHARDSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Melvin Keith RICHARDSON, petitioner.\nNo. 15-7013.\nSupreme Court of the United States\nJan. 25, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0983-04",
+  "first_page_order": 983,
+  "last_page_order": 983
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12600320,
+  "name": "Quartavius DAVIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Davis v. United States",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. 15\u2013146.",
+  "first_page": "479",
+  "last_page": "480",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 479"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 349"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "ebd19012c3da8cd4743240fb209dd255409a660c0e7bd499190bfd9702f01ef7",
+    "simhash": "1:28ac16443b0c86fd",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Quartavius DAVIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Quartavius DAVIS, petitioner,\nv.\nUNITED STATES.\nNo. 15-146.\nSupreme Court of the United States\nNov. 9, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0479-06",
+  "first_page_order": 479,
+  "last_page_order": 480
+}

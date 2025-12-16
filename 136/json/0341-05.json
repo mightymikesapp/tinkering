@@ -1,0 +1,64 @@
+{
+  "id": 12599709,
+  "name": "Pedro SOTO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Soto v. United States",
+  "decision_date": "2015-10-13",
+  "docket_number": "No. 15\u20135876.",
+  "first_page": "341",
+  "last_page": "341",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 341"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 245"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 206,
+    "sha256": "5fe122d510e89dd29f13e0fdf3d7e90d38fa2712cbdcf0d0b83cd5c309f8617b",
+    "simhash": "1:a6ad66443627d679",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro SOTO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro SOTO, petitioner,\nv.\nUNITED STATES.\nNo. 15-5876.\nSupreme Court of the United States\nOct. 13, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0341-05",
+  "first_page_order": 341,
+  "last_page_order": 341
+}

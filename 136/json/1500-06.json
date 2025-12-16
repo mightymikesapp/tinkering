@@ -1,0 +1,64 @@
+{
+  "id": 12596388,
+  "name": "Henry N. HARPER, petitioner, v. Michele MILLER, Warden.",
+  "name_abbreviation": "Harper v. Miller",
+  "decision_date": "2016-03-28",
+  "docket_number": "No. 15\u20138004.",
+  "first_page": "1500",
+  "last_page": "1500",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1500"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 592"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "07fa48f5a4919e374f8d2d54ab1c212ba5af9f525eba533bf630b888d931de7f",
+    "simhash": "1:f6efe4471fe8d523",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry N. HARPER, petitioner,\nv.\nMichele MILLER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Henry N. HARPER, petitioner,\nv.\nMichele MILLER, Warden.\nNo. 15-8004.\nSupreme Court of the United States\nMarch 28, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1500-06",
+  "first_page_order": 1500,
+  "last_page_order": 1500
+}

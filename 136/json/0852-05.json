@@ -1,0 +1,64 @@
+{
+  "id": 12601897,
+  "name": "Jacques MADDOX, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Maddox v. United States",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20137048.",
+  "first_page": "852",
+  "last_page": "852",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 852"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 752"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "d92d43d4979905358ae9eeb36d3c70568b2d0c1aae92ed5f662ee464eba3912c",
+    "simhash": "1:fdaf66c43f07820d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jacques MADDOX, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jacques MADDOX, petitioner,\nv.\nUNITED STATES.\nNo. 15-7048.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0852-05",
+  "first_page_order": 852,
+  "last_page_order": 852
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12597952,
+  "name": "In re Alexander RIVERA, petitioner.",
+  "name_abbreviation": "In re Rivera",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135252.",
+  "first_page": "212",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 212"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "603573a949a4234dbd9544186e65a98ed05fccf03fcdbcf1c03e1b8e3c8e79c9",
+    "simhash": "1:482b12543e1cc711",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Alexander RIVERA, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Alexander RIVERA, petitioner.\nNo. 15-5252.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0212-02",
+  "first_page_order": 212,
+  "last_page_order": 212
+}

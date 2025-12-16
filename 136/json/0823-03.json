@@ -1,0 +1,64 @@
+{
+  "id": 12601704,
+  "name": "UNITED STATES, ex rel. Harry BARKO, petitioner, v. KELLOGG BROWN & ROOT, INC., et al.",
+  "name_abbreviation": "United States ex rel. Barko v. Kellogg Brown & Root, Inc.",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u2013589.",
+  "first_page": "823",
+  "last_page": "823",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 823"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 717"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 264,
+    "sha256": "77195b14eec692d0e3168c090fd94e4603bc59c8d5385c1d533d9a418cc713a8",
+    "simhash": "1:78afe6742bc54707",
+    "word_count": 44
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, ex rel. Harry BARKO, petitioner,\nv.\nKELLOGG BROWN & ROOT, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, ex rel. Harry BARKO, petitioner,\nv.\nKELLOGG BROWN & ROOT, INC., et al.\nNo. 15-589.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "0823-03",
+  "first_page_order": 823,
+  "last_page_order": 823
+}

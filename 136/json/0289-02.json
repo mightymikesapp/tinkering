@@ -1,0 +1,64 @@
+{
+  "id": 12599442,
+  "name": "State of MONTANA, plaintiff, v. State of WYOMING and State of North Dakota.",
+  "name_abbreviation": "State v. State",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 137, Original.",
+  "first_page": "289",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 289"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 17"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 427,
+    "sha256": "c5e0264809ebd3ba8ce6bf011b79d4677c6e2eabbeae362f434358f59d6a16a4",
+    "simhash": "1:00d92c4273410ee9",
+    "word_count": 73
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of MONTANA, plaintiff,\nv.\nState of WYOMING and State of North Dakota."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Montana to defer consideration of this case and the Exceptions to the Special Master's Second Interim Report filed December 29, 2014, for the period of three months granted. Parties are ordered to submit a joint status report to the Court no later than December 31, 2015."
+    ],
+    "corrections": "",
+    "head_matter": "State of MONTANA, plaintiff,\nv.\nState of WYOMING and State of North Dakota.\nNo. 137, Original.\nSupreme Court of the United States\nOct. 5, 2015.\nMotion of Montana to defer consideration of this case and the Exceptions to the Special Master's Second Interim Report filed December 29, 2014, for the period of three months granted. Parties are ordered to submit a joint status report to the Court no later than December 31, 2015."
+  },
+  "file_name": "0289-02",
+  "first_page_order": 289,
+  "last_page_order": 289
+}

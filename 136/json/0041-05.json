@@ -1,0 +1,64 @@
+{
+  "id": 12600067,
+  "name": "Wesley SCHAEFER, petitioner, v. TEXAS.",
+  "name_abbreviation": "Schaefer v. Texas",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139540.",
+  "first_page": "41",
+  "last_page": "41",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 41"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 51"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 192,
+    "sha256": "55b71773fcbfc826b0239b4e49aa1f2555ddd47050c9428252985b43c395e812",
+    "simhash": "1:dc2b6216b0c001bc",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wesley SCHAEFER, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Third District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Wesley SCHAEFER, petitioner,\nv.\nTEXAS.\nNo. 14-9540.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Court of Appeals of Texas, Third District, denied."
+  },
+  "file_name": "0041-05",
+  "first_page_order": 41,
+  "last_page_order": 41
+}

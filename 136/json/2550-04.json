@@ -1,0 +1,62 @@
+{
+  "id": 12599214,
+  "name": "In the Matter of DISCIPLINE OF Richard Z. JOHNSON, Jr.",
+  "name_abbreviation": "In re Johnson",
+  "decision_date": "2016-07-18",
+  "docket_number": "No. D\u20132908.",
+  "first_page": "2550",
+  "last_page": "2550",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2550"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 886"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 371,
+    "sha256": "e9f3d1b5bec3fe23f51cf57dcb5af4b96b7cad350225afcf8831da131d4cca01",
+    "simhash": "1:6b8a10383aca27e3",
+    "word_count": 67
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Richard Z. JOHNSON, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Richard Z. JOHNSON, Jr.\nNo. D-2908.\nSupreme Court of the United States\nJuly 18, 2016.\nRichard Z. Johnson, Jr., of Baton Rouge, Louisiana, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "2550-04",
+  "first_page_order": 2550,
+  "last_page_order": 2550
+}

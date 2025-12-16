@@ -1,0 +1,62 @@
+{
+  "id": 12600280,
+  "name": "In the Matter of DISCIPLINE OF Daniel James HALLORAN, III.",
+  "name_abbreviation": "In re Halloran",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. D\u20132855.",
+  "first_page": "443",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 443"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 372,
+    "sha256": "edeea48004632c8a14e31e8e4def7a8ef89d3b73140fb81faa50ec0a99c1ef4b",
+    "simhash": "1:3aab7432bfebb7e2",
+    "word_count": 67
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Daniel James HALLORAN, III."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Daniel James HALLORAN, III.\nNo. D-2855.\nSupreme Court of the United States\nNov. 2, 2015.\nDaniel James Halloran, III, of Bayside, New York, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0443-03",
+  "first_page_order": 443,
+  "last_page_order": 443
+}

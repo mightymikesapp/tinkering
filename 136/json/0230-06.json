@@ -1,0 +1,64 @@
+{
+  "id": 12598088,
+  "name": "Henry Lee HUTCHINSON, petitioner, v. TEXAS.",
+  "name_abbreviation": "Hutchinson v. Texas",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135356.",
+  "first_page": "230",
+  "last_page": "230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 230"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 198,
+    "sha256": "d2b5d22e2ab775ce4c5ca3a528d26be475fbdfb867c723c7ce6398016191e9bb",
+    "simhash": "1:c9ffc296fadc0414",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry Lee HUTCHINSON, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Courth of Appeals of Texas, Tenth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Henry Lee HUTCHINSON, petitioner,\nv.\nTEXAS.\nNo. 15-5356.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Courth of Appeals of Texas, Tenth District, denied."
+  },
+  "file_name": "0230-06",
+  "first_page_order": 230,
+  "last_page_order": 230
+}

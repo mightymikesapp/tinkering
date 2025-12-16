@@ -1,0 +1,64 @@
+{
+  "id": 12599688,
+  "name": "Richard ENYART, petitioner, v. Ronald ERDOS, Warden.",
+  "name_abbreviation": "Enyart v. Erdos",
+  "decision_date": "2015-10-13",
+  "docket_number": "No. 15\u20135843.",
+  "first_page": "339",
+  "last_page": "339",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 339"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 217,
+    "sha256": "71539d2db8954b4d1e4820502285a35a09a55324291054d233e288dbbe0a290c",
+    "simhash": "1:743d564612c585a9",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard ENYART, petitioner,\nv.\nRonald ERDOS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard ENYART, petitioner,\nv.\nRonald ERDOS, Warden.\nNo. 15-5843.\nSupreme Court of the United States\nOct. 13, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0339-01",
+  "first_page_order": 339,
+  "last_page_order": 339
+}

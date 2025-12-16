@@ -1,0 +1,64 @@
+{
+  "id": 12600621,
+  "name": "In re Marcus O. TATE, petitioner.",
+  "name_abbreviation": "In re Tate",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136665.",
+  "first_page": "524",
+  "last_page": "524",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 524"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 141,
+    "sha256": "7d4a5ddc30ca894e98f72c8bb109c93ce979c84012bb360098f7d7d33f26ddde",
+    "simhash": "1:cacf724637b30b15",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Marcus O. TATE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Marcus O. TATE, petitioner.\nNo. 15-6665.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0524-05",
+  "first_page_order": 524,
+  "last_page_order": 524
+}

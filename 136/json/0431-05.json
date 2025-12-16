@@ -1,0 +1,64 @@
+{
+  "id": 12600205,
+  "name": "Angelo WILLIAMS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Williams v. United States",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20136353.",
+  "first_page": "431",
+  "last_page": "431",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 431"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 336"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "dc5ab05c4feb36e386207f4ee0b1ebcc73c5a18c86b90b4eff48a402cd169b73",
+    "simhash": "1:53ffa4143bacd61f",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Angelo WILLIAMS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Angelo WILLIAMS, petitioner,\nv.\nUNITED STATES.\nNo. 15-6353.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0431-05",
+  "first_page_order": 431,
+  "last_page_order": 431
+}

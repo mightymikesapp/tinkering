@@ -1,0 +1,64 @@
+{
+  "id": 12600002,
+  "name": "Antonio WILLIAMS, petitioner, v. MISSISSIPPI.",
+  "name_abbreviation": "Williams v. Mississippi",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139524.",
+  "first_page": "40",
+  "last_page": "40",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 40"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 51"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 185,
+    "sha256": "3cbb412b404e0352bd6f35c84eb828ffdf403923b3928fdaed136b580d9c7652",
+    "simhash": "1:f9ef74143ad5ecbd",
+    "word_count": 28
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio WILLIAMS, petitioner,\nv.\nMISSISSIPPI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio WILLIAMS, petitioner,\nv.\nMISSISSIPPI.\nNo. 14-9524.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Supreme Court of Mississippi denied."
+  },
+  "file_name": "0040-06",
+  "first_page_order": 40,
+  "last_page_order": 40
+}

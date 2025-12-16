@@ -1,0 +1,64 @@
+{
+  "id": 12598026,
+  "name": "Earl Charles MARTIN, petitioner, v. TEXAS.",
+  "name_abbreviation": "Martin v. Texas",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135305.",
+  "first_page": "222",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 222"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 168"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 196,
+    "sha256": "7c5bbd0f74b934c12126a40980e611575f4df4042113e80b0ff82418f33349a5",
+    "simhash": "1:78bd2257f6dd0dbc",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Earl Charles MARTIN, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Earl Charles MARTIN, petitioner,\nv.\nTEXAS.\nNo. 15-5305.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Court of Appeals of Texas, First District, denied."
+  },
+  "file_name": "0222-03",
+  "first_page_order": 222,
+  "last_page_order": 222
+}

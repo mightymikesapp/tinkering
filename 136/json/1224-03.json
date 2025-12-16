@@ -1,0 +1,64 @@
+{
+  "id": 12595423,
+  "name": "Ivan J. SNOWDEN, petitioner, v. ALASKA.",
+  "name_abbreviation": "Snowden v. Alaska",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20137696.",
+  "first_page": "1224",
+  "last_page": "1224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1224"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 223"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 178,
+    "sha256": "17cae5ea991e23fb2070a3cae64c849b601f453d19d4bd329f451b505342d9cf",
+    "simhash": "1:e87d562433c540f1",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ivan J. SNOWDEN, petitioner,\nv.\nALASKA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Alaska denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ivan J. SNOWDEN, petitioner,\nv.\nALASKA.\nNo. 15-7696.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of certiorari to the Court of Appeals of Alaska denied."
+  },
+  "file_name": "1224-03",
+  "first_page_order": 1224,
+  "last_page_order": 1224
+}

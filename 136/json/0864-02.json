@@ -1,0 +1,64 @@
+{
+  "id": 12601974,
+  "name": "In re William F. BATTER, petitioner.",
+  "name_abbreviation": "In re Batter",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20137194.",
+  "first_page": "864",
+  "last_page": "864",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 864"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 768"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "3e7330374841b4017d7e7169953fe06401f06d49fb880d10c9d2d06cfba76f1c",
+    "simhash": "1:4a0f12f63aa94209",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William F. BATTER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re William F. BATTER, petitioner.\nNo. 15-7194.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0864-02",
+  "first_page_order": 864,
+  "last_page_order": 864
+}

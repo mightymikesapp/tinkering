@@ -1,0 +1,64 @@
+{
+  "id": 12599966,
+  "name": "Michael S. ROSS, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Ross v. United States",
+  "decision_date": "2015-10-19",
+  "docket_number": "No. 15M37.",
+  "first_page": "380",
+  "last_page": "380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 380"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 205,
+    "sha256": "e564dc21b46fb2f1d36a6490eb00f0df2566a5f4000d991c0f77539b62b4d3af",
+    "simhash": "1:598fd43657d1f91d",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael S. ROSS, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael S. ROSS, petitioner,\nv.\nUNITED STATES, et al.\nNo. 15M37.\nSupreme Court of the United States\nOct. 19, 2015.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0380-07",
+  "first_page_order": 380,
+  "last_page_order": 380
+}

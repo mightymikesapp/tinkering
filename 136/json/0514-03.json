@@ -1,0 +1,62 @@
+{
+  "id": 12600554,
+  "name": "Jeffrey GRAY, petitioner, v. NEW HAMPSHIRE.",
+  "name_abbreviation": "Gray v. Hampshire",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136377.",
+  "first_page": "514",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 514"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 207,
+    "sha256": "68d90e58828088668d96c9ddffcaf689b17618bb6149b05f311bd23f9258eedc",
+    "simhash": "1:f6e176dc92c9070e",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey GRAY, petitioner,\nv.\nNEW HAMPSHIRE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jeffrey GRAY, petitioner,\nv.\nNEW HAMPSHIRE.\nNo. 15-6377.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the Superior Court of New Hampshire, Rockingham County, denied."
+  },
+  "file_name": "0514-03",
+  "first_page_order": 514,
+  "last_page_order": 514
+}

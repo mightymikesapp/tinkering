@@ -1,0 +1,64 @@
+{
+  "id": 12599861,
+  "name": "Isaac K. FULLMAN, petitioner, v. Thomas King KISTLER, et al.",
+  "name_abbreviation": "Fullman v. Kistler",
+  "decision_date": "2015-10-19",
+  "docket_number": "No. 15\u20135733.",
+  "first_page": "365",
+  "last_page": "365",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 365"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 225,
+    "sha256": "0426b34f4123663f4ff8a1065ffd227a5be3575252d56df3ebd8874436cff4db",
+    "simhash": "1:f1ad56603f4582b5",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Isaac K. FULLMAN, petitioner,\nv.\nThomas King KISTLER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Isaac K. FULLMAN, petitioner,\nv.\nThomas King KISTLER, et al.\nNo. 15-5733.\nSupreme Court of the United States\nOct. 19, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0365-05",
+  "first_page_order": 365,
+  "last_page_order": 365
+}

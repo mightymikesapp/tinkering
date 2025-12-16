@@ -1,0 +1,64 @@
+{
+  "id": 12595366,
+  "name": "Edward GRAHAM, petitioner, v. Randy PFISTER, Warden.",
+  "name_abbreviation": "Graham v. Pfister",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20137586.",
+  "first_page": "1215",
+  "last_page": "1216",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1215"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 219,
+    "sha256": "24d0a6c840f0071f9cb143011c30f8ac7baefd232dc57dad4b7d9cf13ffa846b",
+    "simhash": "1:e1af44c41b2506a1",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward GRAHAM, petitioner,\nv.\nRandy PFISTER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edward GRAHAM, petitioner,\nv.\nRandy PFISTER, Warden.\nNo. 15-7586.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1215-06",
+  "first_page_order": 1215,
+  "last_page_order": 1216
+}

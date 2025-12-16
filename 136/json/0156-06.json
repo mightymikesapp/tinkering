@@ -1,0 +1,64 @@
+{
+  "id": 12596666,
+  "name": "In re Derrick TARTT, petitioner.",
+  "name_abbreviation": "In re Tartt",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20131532.",
+  "first_page": "156",
+  "last_page": "156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 156"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 217"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 134,
+    "sha256": "0905b24490dc04da24ee8c3febfdd54462c202c54af21f5995d95b1e44260de6",
+    "simhash": "1:f9ecfe44bed0f57f",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Derrick TARTT, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Derrick TARTT, petitioner.\nNo. 14-1532.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0156-06",
+  "first_page_order": 156,
+  "last_page_order": 156
+}

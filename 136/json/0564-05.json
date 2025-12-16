@@ -1,0 +1,64 @@
+{
+  "id": 12600877,
+  "name": "In re Robert RAMSEY, petitioner.",
+  "name_abbreviation": "In re Ramsey",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136759.",
+  "first_page": "564",
+  "last_page": "564",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 564"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 451"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "ea7a10cb6dc4e2d591b07844da53bca1d32425ec23a427340a627e585bf63c5b",
+    "simhash": "1:498f5256b6d8c509",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert RAMSEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Robert RAMSEY, petitioner.\nNo. 15-6759.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0564-05",
+  "first_page_order": 564,
+  "last_page_order": 564
+}

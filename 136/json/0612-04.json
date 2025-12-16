@@ -1,0 +1,62 @@
+{
+  "id": 12601221,
+  "name": "In the Matter of DISCIPLINE OF John J. KORESKO, V.",
+  "name_abbreviation": "In re Koresko",
+  "decision_date": "2015-12-07",
+  "docket_number": "No. D\u20132863.",
+  "first_page": "612",
+  "last_page": "612",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 612"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 493"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 363,
+    "sha256": "611bdc265376e24dae344b10e437bed7b1ffb5549cf866cd802b99f072426d1f",
+    "simhash": "1:788260b23fdab76e",
+    "word_count": 66
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF John J. KORESKO, V."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF John J. KORESKO, V.\nNo. D-2863.\nSupreme Court of the United States\nDec. 7, 2015.\nJohn J. Koresko, V, of Bridgeport, Pennsylvania, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0612-04",
+  "first_page_order": 612,
+  "last_page_order": 612
+}

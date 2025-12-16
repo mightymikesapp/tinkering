@@ -1,0 +1,64 @@
+{
+  "id": 12597949,
+  "name": "Rocco OPPEDISANO, petitioner, v. Loretta E. LYNCH, Attorney General.",
+  "name_abbreviation": "Oppedisano v. Lynch",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u201386.",
+  "first_page": "211",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 211"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 129"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 231,
+    "sha256": "62c5f6c1fce919904e19dc1b3b2ae95738000b1bf8fa65371796b5237caa8a82",
+    "simhash": "1:72bce6443cc495b9",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rocco OPPEDISANO, petitioner,\nv.\nLoretta E. LYNCH, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rocco OPPEDISANO, petitioner,\nv.\nLoretta E. LYNCH, Attorney General.\nNo. 15-86.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0211-06",
+  "first_page_order": 211,
+  "last_page_order": 211
+}

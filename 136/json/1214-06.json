@@ -1,0 +1,64 @@
+{
+  "id": 12595360,
+  "name": "Lawrence T. TYLER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Tyler v. United States",
+  "decision_date": "2016-02-29",
+  "docket_number": "No. 15\u20137576.",
+  "first_page": "1214",
+  "last_page": "1215",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1214"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 217"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "78b6718c2f520d86295c99ee4b2bc7d0f32f8328e08d768eefb49b69a4631cb5",
+    "simhash": "1:fdaf54c43b254259",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lawrence T. TYLER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lawrence T. TYLER, petitioner,\nv.\nUNITED STATES.\nNo. 15-7576.\nSupreme Court of the United States\nFeb. 29, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1214-06",
+  "first_page_order": 1214,
+  "last_page_order": 1215
+}

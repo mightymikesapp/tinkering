@@ -1,0 +1,64 @@
+{
+  "id": 12598057,
+  "name": "In re Lorenzo TAVAREZ, petitioner.",
+  "name_abbreviation": "In re Tavarez",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135337.",
+  "first_page": "227",
+  "last_page": "227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 227"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "cd99d191c3004deef83ed8f19978b299c5e066e699c3c2b46028f631fdd0c53a",
+    "simhash": "1:680c10053ed24d05",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Lorenzo TAVAREZ, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Lorenzo TAVAREZ, petitioner.\nNo. 15-5337.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0227-03",
+  "first_page_order": 227,
+  "last_page_order": 227
+}

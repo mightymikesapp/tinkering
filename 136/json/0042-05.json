@@ -1,0 +1,64 @@
+{
+  "id": 12600128,
+  "name": "In re Stephen G. KRAEMER, petitioner.",
+  "name_abbreviation": "In re Kraemer",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139565.",
+  "first_page": "42",
+  "last_page": "42",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 42"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 158,
+    "sha256": "d05961034aa91d2dddd380744326731d165b98e3a6bbbbc77719f7a8da392101",
+    "simhash": "1:f869ea763ef62d3d",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Stephen G. KRAEMER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Stephen G. KRAEMER, petitioner.\nNo. 14-9565.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0042-05",
+  "first_page_order": 42,
+  "last_page_order": 42
+}

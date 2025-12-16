@@ -1,0 +1,111 @@
+{
+  "id": 12598515,
+  "name": "Clayton Joel FLOWERS, petitioner, v. ALABAMA.",
+  "name_abbreviation": "Flowers v. Alabama",
+  "decision_date": "2016-05-23",
+  "docket_number": "No. 15\u20136306.",
+  "first_page": "2445",
+  "last_page": "2446",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2445"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 1796",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597302
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "Alito, J., concurring"
+        },
+        {
+          "parenthetical": "Sotomayor, J., concurring"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/1796-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 718",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12601432
+      ],
+      "weight": 6,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/0718-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 133,
+    "char_count": 2056,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635549408479027
+    },
+    "sha256": "c602db95dabd27a0b1416133437c1259d2d6625a2db6fbd825f499dc349b46df",
+    "simhash": "1:77a37a502c05e50b",
+    "word_count": 316
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Clayton Joel FLOWERS, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Court of Criminal Appeals of Alabama. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Criminal Appeals of Alabama for further consideration in light of Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016).",
+      "Justice THOMAS, with whom Justice ALITO joins, concurring in the decision to grant, vacate, and remand in this case: The Court has held the petition in this and many other cases pending the decision in Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016). In holding this petition and now vacating and remanding the judgment below, the Court has not assessed whether petitioner's asserted entitlement to retroactive relief \"is properly presented in the case.\" Id., at ----, 136 S.Ct. at 732. On remand, courts should understand that the Court's disposition of this petition does not reflect any view regarding petitioner's entitlement to relief. The Court's disposition does not, for example, address whether an adequate and independent state ground bars relief, whether petitioner forfeited or waived any entitlement to relief (by, for example, entering into a plea agreement waiving any entitlement to relief), or whether petitioner's sentence actually qualifies as a mandatory life without parole sentence."
+    ],
+    "corrections": "",
+    "head_matter": "Clayton Joel FLOWERS, petitioner,\nv.\nALABAMA.\nNo. 15-6306.\nSupreme Court of the United States\nMay 23, 2016.\nOn petition for writ of certiorari to the Court of Criminal Appeals of Alabama. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Criminal Appeals of Alabama for further consideration in light of Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016).\nJustice THOMAS, with whom Justice ALITO joins, concurring in the decision to grant, vacate, and remand in this case: The Court has held the petition in this and many other cases pending the decision in Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016). In holding this petition and now vacating and remanding the judgment below, the Court has not assessed whether petitioner's asserted entitlement to retroactive relief \"is properly presented in the case.\" Id., at ----, 136 S.Ct. at 732. On remand, courts should understand that the Court's disposition of this petition does not reflect any view regarding petitioner's entitlement to relief. The Court's disposition does not, for example, address whether an adequate and independent state ground bars relief, whether petitioner forfeited or waived any entitlement to relief (by, for example, entering into a plea agreement waiving any entitlement to relief), or whether petitioner's sentence actually qualifies as a mandatory life without parole sentence.\nJustice ALITO, with whom Justice THOMAS joins, concurring in the decision to grant, vacate, and remand. I concur in the decision to grant, vacate, and remand. See Adams v. Alabama, 578 U.S. ----, 136 S.Ct. 1796, ---L.Ed.2d ---- (2016) (Alito, J., concurring).\nJustice SOTOMAYOR, with whom Justice GINSBURG joins, concurring in the decision to grant, vacate, and remand. I concur in the decision to grant, vacate, and remand. See Adams v. Alabama, 578 U.S. ----, 136 S.Ct. 1796, ---L.Ed.2d ---- (2016) (Sotomayor, J., concurring)."
+  },
+  "file_name": "2445-02",
+  "first_page_order": 2445,
+  "last_page_order": 2446
+}

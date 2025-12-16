@@ -1,0 +1,64 @@
+{
+  "id": 12600800,
+  "name": "Carlos ESQUIVEL, petitioner, v. Al RAMIREZ.",
+  "name_abbreviation": "Esquivel v. Ramirez",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136349.",
+  "first_page": "552",
+  "last_page": "552",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 552"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 441"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 208,
+    "sha256": "4a6c3bc20465611f33872ba939028fbc387f347fb727a8ac9f03a6142e3c82a1",
+    "simhash": "1:c3adf6c43ec5178c",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos ESQUIVEL, petitioner,\nv.\nAl RAMIREZ."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos ESQUIVEL, petitioner,\nv.\nAl RAMIREZ.\nNo. 15-6349.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0552-05",
+  "first_page_order": 552,
+  "last_page_order": 552
+}

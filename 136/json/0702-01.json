@@ -1,0 +1,64 @@
+{
+  "id": 12601385,
+  "name": "In re Justin WELLS, petitioner.",
+  "name_abbreviation": "In re Wells",
+  "decision_date": "2015-12-14",
+  "docket_number": "No. 15\u20137011.",
+  "first_page": "702",
+  "last_page": "702",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 702"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 529"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "7d3acfd94d319641f154845a1713c5ef708822a678a5f7c6b77961e4e80036b8",
+    "simhash": "1:689740413631c514",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Justin WELLS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Justin WELLS, petitioner.\nNo. 15-7011.\nSupreme Court of the United States\nDec. 14, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0702-01",
+  "first_page_order": 702,
+  "last_page_order": 702
+}

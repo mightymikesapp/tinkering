@@ -1,0 +1,64 @@
+{
+  "id": 12599979,
+  "name": "Sila LUIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Luis v. United States",
+  "decision_date": "2015-10-30",
+  "docket_number": "No. 14\u2013419.",
+  "first_page": "386",
+  "last_page": "386",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 386"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 250,
+    "sha256": "9d985835a5f4a06f26502ac31bb2295f67eb215b9b13b27656688aaac68d1544",
+    "simhash": "1:f3c824004ea60e39",
+    "word_count": 39
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sila LUIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion out-of-time of Americans for Forfeiture Reform for leave to participate in oral argument as amicus curiae and for divided argument denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sila LUIS, petitioner,\nv.\nUNITED STATES.\nNo. 14-419.\nSupreme Court of the United States\nOct. 30, 2015.\nMotion out-of-time of Americans for Forfeiture Reform for leave to participate in oral argument as amicus curiae and for divided argument denied."
+  },
+  "file_name": "0386-02",
+  "first_page_order": 386,
+  "last_page_order": 386
+}

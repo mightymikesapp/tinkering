@@ -1,0 +1,64 @@
+{
+  "id": 12602345,
+  "name": "Joshua CAVAZOS, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Cavazos v. Illinois",
+  "decision_date": "2016-01-19",
+  "docket_number": "No. 15\u20137383.",
+  "first_page": "918",
+  "last_page": "918",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 918"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 806"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 197,
+    "sha256": "6b47b7430b5b1fe79fb71bfb22dfaa2504352f5d4810f46900aa12fef7698f16",
+    "simhash": "1:d4aff6d45a30c09c",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joshua CAVAZOS, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Second District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joshua CAVAZOS, petitioner,\nv.\nILLINOIS.\nNo. 15-7383.\nSupreme Court of the United States\nJan. 19, 2016.\nPetition for writ of certiorari to the Appellate Court of Illinois, Second District denied."
+  },
+  "file_name": "0918-02",
+  "first_page_order": 918,
+  "last_page_order": 918
+}

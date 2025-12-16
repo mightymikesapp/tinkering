@@ -1,0 +1,62 @@
+{
+  "id": 12599210,
+  "name": "Rui NOVO, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Novo v. Massachusetts",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135510.",
+  "first_page": "255",
+  "last_page": "255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 255"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 199,
+    "sha256": "8f8c129bfae10a82d8ef058b41f2ee213286fee4ca4b0b373f70b31702e9c03b",
+    "simhash": "1:e0ab665d34d59664",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rui NOVO, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Rui NOVO, petitioner,\nv.\nMASSACHUSETTS.\nNo. 15-5510.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Superior Court of Massachusetts, Bristol County, denied."
+  },
+  "file_name": "0255-06",
+  "first_page_order": 255,
+  "last_page_order": 255
+}

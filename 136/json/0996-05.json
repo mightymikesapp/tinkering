@@ -1,0 +1,64 @@
+{
+  "id": 12602560,
+  "name": "In re Corey MICHAELS, petitioner.",
+  "name_abbreviation": "In re Michaels",
+  "decision_date": "2016-01-25",
+  "docket_number": "No. 15\u20136101.",
+  "first_page": "996",
+  "last_page": "996",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 996"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 14"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 129,
+    "sha256": "09f5f60fd800597efa1478bd51a262c9dabece5b06fc0e5ae3a6c14f3c70f69a",
+    "simhash": "1:abf76c571ca37e94",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Corey MICHAELS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Corey MICHAELS, petitioner.\nNo. 15-6101.\nSupreme Court of the United States\nJan. 25, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0996-05",
+  "first_page_order": 996,
+  "last_page_order": 996
+}

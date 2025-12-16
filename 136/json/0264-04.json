@@ -1,0 +1,64 @@
+{
+  "id": 12599281,
+  "name": "Monique SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135598.",
+  "first_page": "264",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 264"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "9981d2fa3f0dd1cbe996451f715799a1f4ca4812769298a69058627bab4455a1",
+    "simhash": "1:f5ad66443ea4c435",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Monique SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Monique SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 15-5598.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0264-04",
+  "first_page_order": 264,
+  "last_page_order": 264
+}

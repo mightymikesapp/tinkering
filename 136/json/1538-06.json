@@ -1,0 +1,64 @@
+{
+  "id": 12596641,
+  "name": "John Wayne CONNER, petitioner, v. Carl HUMPHREY, Warden.",
+  "name_abbreviation": "Conner v. Humphrey",
+  "decision_date": "2016-04-04",
+  "docket_number": "No. 15\u20137101.",
+  "first_page": "1538",
+  "last_page": "1538",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1538"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 622"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "fa7417f6f58287e6da34ce383c4eb4d6cb8a227fa3ffd6d6c3c344fe82999a57",
+    "simhash": "1:057e9ec41c46d422",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Wayne CONNER, petitioner,\nv.\nCarl HUMPHREY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Wayne CONNER, petitioner,\nv.\nCarl HUMPHREY, Warden.\nNo. 15-7101.\nSupreme Court of the United States\nApril 4, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "1538-06",
+  "first_page_order": 1538,
+  "last_page_order": 1538
+}

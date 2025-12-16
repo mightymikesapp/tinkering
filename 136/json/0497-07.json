@@ -1,0 +1,62 @@
+{
+  "id": 12600440,
+  "name": "In the Matter of DISBARMENT OF Robert S. SEGUIN.",
+  "name_abbreviation": "In re Seguin",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. D\u20132831.",
+  "first_page": "497",
+  "last_page": "497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 497"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "851e1c6ceecd4f1d07e1c4bcc8c782bd0d50e5f6c0ac0fe467f01759f2e8efaa",
+    "simhash": "1:a243d11626a2a5e5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Robert S. SEGUIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Robert S. SEGUIN.\nNo. D-2831.\nSupreme Court of the United States\nNov. 9, 2015.\nDisbarment order entered."
+  },
+  "file_name": "0497-07",
+  "first_page_order": 497,
+  "last_page_order": 497
+}

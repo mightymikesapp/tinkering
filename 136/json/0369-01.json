@@ -1,0 +1,64 @@
+{
+  "id": 12599881,
+  "name": "Derek J. BROWN, petitioner, v. Larry CARTLEDGE, Warden.",
+  "name_abbreviation": "Brown v. Cartledge",
+  "decision_date": "2015-10-19",
+  "docket_number": "No. 15\u20135930.",
+  "first_page": "369",
+  "last_page": "369",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 369"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "f7921dce5a32ae9899b2532ab6ddb9555f0b9b6e9fc91baab99a1d528cd18454",
+    "simhash": "1:532d46d53f8487a5",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Derek J. BROWN, petitioner,\nv.\nLarry CARTLEDGE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Derek J. BROWN, petitioner,\nv.\nLarry CARTLEDGE, Warden.\nNo. 15-5930.\nSupreme Court of the United States\nOct. 19, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0369-01",
+  "first_page_order": 369,
+  "last_page_order": 369
+}

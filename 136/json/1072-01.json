@@ -1,0 +1,66 @@
+{
+  "id": 12594897,
+  "name": "Valerie J. HAWKINS and Janice A. Patterson, Petitioners v. COMMUNITY BANK OF RAYMORE.",
+  "name_abbreviation": "Hawkins v. Cmty. Bank of Raymore",
+  "decision_date": "2016-03-22",
+  "docket_number": "No. 14\u2013520.",
+  "first_page": "1072",
+  "last_page": "1072",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1072"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 163"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 215,
+    "pagerank": {
+      "raw": 1.059989733099374e-07,
+      "percentile": 0.5567861292299281
+    },
+    "sha256": "70cb32988f7ea42708658a0dd40f899f0e1ae5605026c16e913d5cc7916a5225",
+    "simhash": "1:2ea89c453f9c9e08",
+    "word_count": 35
+  },
+  "last_updated": "2023-03-29T19:33:20.158477+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Valerie J. HAWKINS and Janice A. Patterson, Petitioners\nv.\nCOMMUNITY BANK OF RAYMORE."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nThe judgment is affirmed by an equally divided Court.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Valerie J. HAWKINS and Janice A. Patterson, Petitioners\nv.\nCOMMUNITY BANK OF RAYMORE.\nNo. 14-520.\nSupreme Court of the United States\nMarch 22, 2016."
+  },
+  "file_name": "1072-01",
+  "first_page_order": 1072,
+  "last_page_order": 1072
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12600569,
+  "name": "Pedro VARGAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Vargas v. United States",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136463.",
+  "first_page": "516",
+  "last_page": "516",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 516"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "14bb43584bc343ecdfcd504669b675cf2259eec550b52efb026b14cb5eaa4785",
+    "simhash": "1:e2af76443f04060e",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro VARGAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro VARGAS, petitioner,\nv.\nUNITED STATES.\nNo. 15-6463.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0516-06",
+  "first_page_order": 516,
+  "last_page_order": 516
+}

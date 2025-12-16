@@ -1,0 +1,64 @@
+{
+  "id": 12602274,
+  "name": "Robert YELL, petitioner, v. Randy WHITE, Warden.",
+  "name_abbreviation": "Yell v. White",
+  "decision_date": "2016-01-19",
+  "docket_number": "No. 15\u20137098.",
+  "first_page": "907",
+  "last_page": "907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 907"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 799"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 213,
+    "sha256": "ceb579b4de20c34162d62c079e737a28ac4958d2090eaf465cc98f40fefb5e0e",
+    "simhash": "1:fcaf54c49ae05221",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert YELL, petitioner,\nv.\nRandy WHITE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert YELL, petitioner,\nv.\nRandy WHITE, Warden.\nNo. 15-7098.\nSupreme Court of the United States\nJan. 19, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0907-02",
+  "first_page_order": 907,
+  "last_page_order": 907
+}

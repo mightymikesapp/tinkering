@@ -1,0 +1,64 @@
+{
+  "id": 12598872,
+  "name": "William M. WATTS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Watts v. United States",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135466.",
+  "first_page": "250",
+  "last_page": "250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 250"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "c4ce6efcc2f2a366338cd09cbc346a11f1b97389fb7fc1080613b9a2bdf9c6e6",
+    "simhash": "1:ecac56442a04863d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William M. WATTS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William M. WATTS, petitioner,\nv.\nUNITED STATES.\nNo. 15-5466.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0250-05",
+  "first_page_order": 250,
+  "last_page_order": 250
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12597225,
+  "name": "In re Thomas CUNNINGHAM, petitioner.",
+  "name_abbreviation": "In re Cunningham",
+  "decision_date": "2016-04-25",
+  "docket_number": "No. 15\u20138784.",
+  "first_page": "1726",
+  "last_page": "1726",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1726"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 825"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "b04e4d31f0e5928336c43409d155e6507492929a0bff0e83441455fb639588f1",
+    "simhash": "1:e803360f7689471a",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Thomas CUNNINGHAM, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Thomas CUNNINGHAM, petitioner.\nNo. 15-8784.\nSupreme Court of the United States\nApril 25, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1726-06",
+  "first_page_order": 1726,
+  "last_page_order": 1726
+}

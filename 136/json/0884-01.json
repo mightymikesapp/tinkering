@@ -1,0 +1,64 @@
+{
+  "id": 12602110,
+  "name": "In re Ramon WILLAMSON, petitioner.",
+  "name_abbreviation": "In re Willamson",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20135125.",
+  "first_page": "884",
+  "last_page": "884",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 884"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 775"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 140,
+    "sha256": "f8e744111cb4b48ae301d0dc214db25a0b4a08208b6efed3a1fe9178590cd1ec",
+    "simhash": "1:6303f418bde14690",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Ramon WILLAMSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Ramon WILLAMSON, petitioner.\nNo. 15-5125.\nSupreme Court of the United States\nJan. 11, 2016.\nPetition for writ of prohibition denied."
+  },
+  "file_name": "0884-01",
+  "first_page_order": 884,
+  "last_page_order": 884
+}

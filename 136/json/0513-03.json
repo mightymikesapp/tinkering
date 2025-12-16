@@ -1,0 +1,64 @@
+{
+  "id": 12600548,
+  "name": "Larry FLENOID, petitioner, v. Chris KOSTER, Attorney General of Missouri, et al.",
+  "name_abbreviation": "Flenoid v. Koster",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20136271.",
+  "first_page": "513",
+  "last_page": "513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 513"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 404"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 246,
+    "sha256": "342cf0eab320a6bc70c58c778d4fa02beec7d6b667287b9619b668e62645886f",
+    "simhash": "1:60edf6642e8d03a9",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry FLENOID, petitioner,\nv.\nChris KOSTER, Attorney General of Missouri, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Larry FLENOID, petitioner,\nv.\nChris KOSTER, Attorney General of Missouri, et al.\nNo. 15-6271.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0513-03",
+  "first_page_order": 513,
+  "last_page_order": 513
+}

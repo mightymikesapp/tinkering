@@ -1,0 +1,94 @@
+{
+  "id": 12596867,
+  "name": "In re Galina OGEONE, petitioner.",
+  "name_abbreviation": "In re Ogeone",
+  "decision_date": "2016-04-18",
+  "docket_number": "No. 15\u20138179.",
+  "first_page": "1675",
+  "last_page": "1675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1675"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 802"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 79,
+    "char_count": 608,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26354895594299127
+    },
+    "sha256": "fde2cb050630a780328bbf106e55ceeb9c1bef0e68a0cd7ebe3563baca7b236f",
+    "simhash": "1:6962e50d0425d69f",
+    "word_count": 100
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Galina OGEONE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of mandamus dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "In re Galina OGEONE, petitioner.\nNo. 15-8179.\nSupreme Court of the United States\nApril 18, 2016.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of mandamus dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "1675-01",
+  "first_page_order": 1675,
+  "last_page_order": 1675
+}

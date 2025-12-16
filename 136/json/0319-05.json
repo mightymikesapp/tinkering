@@ -1,0 +1,64 @@
+{
+  "id": 12599565,
+  "name": "Norman Scott ALLEN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Allen v. United States",
+  "decision_date": "2015-10-13",
+  "docket_number": "No. 15\u20135137.",
+  "first_page": "319",
+  "last_page": "320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 319"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 232"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "05f2a5c98130ab3cdff27527792972327053f4f2e05c5ae066026b4f130c4067",
+    "simhash": "1:27bd66463d0e02b9",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Norman Scott ALLEN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Norman Scott ALLEN, petitioner,\nv.\nUNITED STATES.\nNo. 15-5137.\nSupreme Court of the United States\nOct. 13, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0319-05",
+  "first_page_order": 319,
+  "last_page_order": 320
+}

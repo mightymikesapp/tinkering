@@ -1,0 +1,64 @@
+{
+  "id": 12598849,
+  "name": "Courtney DUPREE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Dupree v. United States",
+  "decision_date": "2016-06-20",
+  "docket_number": "No. 15\u20139331.",
+  "first_page": "2497",
+  "last_page": "2497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2497"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 831"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 212,
+    "sha256": "3ad3ed48cbef0647706183e7b772f35c5d535d4a422a3954d0675441639aad6f",
+    "simhash": "1:dd2e46443b248719",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Courtney DUPREE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Courtney DUPREE, petitioner,\nv.\nUNITED STATES.\nNo. 15-9331.\nSupreme Court of the United States\nJune 20, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "2497-05",
+  "first_page_order": 2497,
+  "last_page_order": 2497
+}

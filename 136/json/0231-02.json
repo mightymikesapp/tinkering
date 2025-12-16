@@ -1,0 +1,64 @@
+{
+  "id": 12598091,
+  "name": "Charles A. HOOD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hood v. United States",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u20135359.",
+  "first_page": "231",
+  "last_page": "231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 231"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 174"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "7981707c984aa7481068c627e47deadf26c0e8056162a2e28874ee08cdec7ccb",
+    "simhash": "1:69ce26443e9ccc35",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles A. HOOD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the District of Columbia Court of Appeals denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles A. HOOD, petitioner,\nv.\nUNITED STATES.\nNo. 15-5359.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the District of Columbia Court of Appeals denied."
+  },
+  "file_name": "0231-02",
+  "first_page_order": 231,
+  "last_page_order": 231
+}

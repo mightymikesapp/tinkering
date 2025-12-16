@@ -1,0 +1,646 @@
+{
+  "id": 12596004,
+  "name": "Jeffrey J. HEFFERNAN, Petitioner v. CITY OF PATERSON, NEW JERSEY, et al.",
+  "name_abbreviation": "Heffernan v. City of Paterson",
+  "decision_date": "2016-04-26",
+  "docket_number": "No. 14\u20131280.",
+  "first_page": "1412",
+  "last_page": "1423",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1412"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 508"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "114 P. 411",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1910,
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Cal.App. 749",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        4590117
+      ],
+      "year": 1910,
+      "pin_cites": [
+        {
+          "page": "757"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app/13/0749-01"
+      ]
+    },
+    {
+      "cite": "30 Conn. 500",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        532426
+      ],
+      "year": 1862,
+      "pin_cites": [
+        {
+          "page": "505"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/30/0500-01"
+      ]
+    },
+    {
+      "cite": "200 U.S. 321",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8294520
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/200/0321-01"
+      ]
+    },
+    {
+      "cite": "23 Yale L.J. 16",
+      "category": "journals:journal",
+      "reporter": "Yale L.J.",
+      "year": 1913,
+      "pin_cites": [
+        {
+          "page": "30, 55-57",
+          "parenthetical": "recognizing that an immunity implies a corresponding lack of power"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "554 U.S. 570",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3677081
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "636"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/554/0570-01"
+      ]
+    },
+    {
+      "cite": "440 U.S. 648",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187389
+      ],
+      "weight": 3,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/440/0648-01"
+      ]
+    },
+    {
+      "cite": "134 S.Ct. 1377",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12706985,
+        12579076
+      ],
+      "weight": 2,
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "1389, n. 5",
+          "parenthetical": "discussing the zone-of-interests test in the context of negligence per se "
+        },
+        {
+          "parenthetical": "discussing the zone-of-interests test in the context of negligence per se "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/572/0118-01",
+        "/s-ct/134/1377-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 329",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11651863
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "340",
+          "parenthetical": "\"In order to seek redress through \u00a7 1983, ... a plaintiff must assert the violation of a federal right, not merely a violation of federal law \""
+        },
+        {
+          "parenthetical": "\"In order to seek redress through \u00a7 1983, ... a plaintiff must assert the violation of a federal right, not merely a violation of federal law \""
+        },
+        {
+          "parenthetical": "\"In order to seek redress through \u00a7 1983, ... a plaintiff must assert the violation of a federal right, not merely a violation of federal law \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0329-01"
+      ]
+    },
+    {
+      "cite": "526 U.S. 687",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11133693
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "709"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/526/0687-01"
+      ]
+    },
+    {
+      "cite": "64 Md. L. Rev. 541",
+      "category": "journals:journal",
+      "reporter": "Md. L. Rev.",
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "565",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 F.3d 1030",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        844453
+      ],
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "1036",
+          "parenthetical": "internal quotation marks omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/179/1030-01"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 2517",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12698471
+      ],
+      "weight": 2,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "2534"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0338-01"
+      ]
+    },
+    {
+      "cite": "471 U.S. 539",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6206269
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "559",
+          "parenthetical": "freedom of expression \"includes both the right to speak freely and the right to refrain from speaking at all\" (internal quotation marks omitted)"
+        },
+        {
+          "parenthetical": "freedom of expression \"includes both the right to speak freely and the right to refrain from speaking at all\" (internal quotation marks omitted)"
+        },
+        {
+          "parenthetical": "freedom of expression \"includes both the right to speak freely and the right to refrain from speaking at all\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/0539-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 518",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722895
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "521",
+          "parenthetical": "explaining that overbreadth doctrine is necessary \"because persons whose expression is constitutionally protected may well refrain from exercising their rights for fear of criminal sanctions\""
+        },
+        {
+          "parenthetical": "explaining that overbreadth doctrine is necessary \"because persons whose expression is constitutionally protected may well refrain from exercising their rights for fear of criminal sanctions\""
+        },
+        {
+          "parenthetical": "explaining that overbreadth doctrine is necessary \"because persons whose expression is constitutionally protected may well refrain from exercising their rights for fear of criminal sanctions\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0518-01"
+      ]
+    },
+    {
+      "cite": "391 U.S. 563",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767525
+      ],
+      "weight": 3,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0563-01"
+      ]
+    },
+    {
+      "cite": "547 U.S. 410",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3275534
+      ],
+      "weight": 9,
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "418"
+        },
+        {
+          "page": "418"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/547/0410-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 138",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298262
+      ],
+      "weight": 7,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "143"
+        },
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0138-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 62",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6213129
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "69",
+          "parenthetical": "\"joining, working for or contributing to the political party and candidates of their own choice\""
+        },
+        {
+          "parenthetical": "\"joining, working for or contributing to the political party and candidates of their own choice\""
+        },
+        {
+          "parenthetical": "\"joining, working for or contributing to the political party and candidates of their own choice\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0062-01"
+      ]
+    },
+    {
+      "cite": "511 U.S. 661",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1146936
+      ],
+      "weight": 15,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "672, 675"
+        },
+        {
+          "page": "679-680"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "679"
+        },
+        {
+          "page": "681"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0661-01"
+      ]
+    },
+    {
+      "cite": "319 U.S. 624",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        366560
+      ],
+      "weight": 3,
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "642"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/319/0624-01"
+      ]
+    },
+    {
+      "cite": "702 F.3d 286",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3646833
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/702/0286-01"
+      ]
+    },
+    {
+      "cite": "303 F.3d 488",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11433881
+      ],
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "496"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/303/0488-01"
+      ]
+    },
+    {
+      "cite": "777 F.3d 147",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3985325
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "153",
+          "parenthetical": "citing Ambrose v. Robinson, 303 F.3d 488, 496 (C.A.3 2002) ; emphasis added"
+        },
+        {
+          "page": "153",
+          "parenthetical": "case below"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/777/0147-01"
+      ]
+    },
+    {
+      "cite": "2 F.Supp.3d 563",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4134168
+      ],
+      "pin_cites": [
+        {
+          "page": "580"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/2/0563-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "opinion_index": 0
+    },
+    {
+      "cite": "413 U.S. 548",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11342106
+      ],
+      "weight": 6,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "564"
+        },
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0548-01"
+      ]
+    },
+    {
+      "cite": "445 U.S. 507",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1777515
+      ],
+      "weight": 8,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "518"
+        },
+        {
+          "page": "517"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/445/0507-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 347",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176896
+      ],
+      "weight": 6,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "359"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/427/0347-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1278,
+    "char_count": 29131,
+    "pagerank": {
+      "raw": 2.895026876547638e-07,
+      "percentile": 0.8446285864542682
+    },
+    "sha256": "c7393e890e5c1fb75cc7f4b56ef78f4dae47fc3745e0818df920f612db384cb5",
+    "simhash": "1:8f91b26239417644",
+    "word_count": 4649
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey J. HEFFERNAN, Petitioner\nv.\nCITY OF PATERSON, NEW JERSEY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYER delivered the opinion of the Court.\nThe First Amendment generally prohibits government officials from dismissing or demoting an employee because of the employee's engagement in constitutionally protected political activity. See Elrod v. Burns, 427 U.S. 347, 96 S.Ct. 2673, 49 L.Ed.2d 547 (1976) ; Branti v. Finkel, 445 U.S. 507, 100 S.Ct. 1287, 63 L.Ed.2d 574 (1980) ; but cf. Civil Service Comm'n v. Letter Carriers, 413 U.S. 548, 564, 93 S.Ct. 2880, 37 L.Ed.2d 796 (1973). In this case a government official demoted an employee because the official believed, but incorrectly believed, that the employee had supported a particular candidate for mayor. The question is whether the official's factual mistake makes a critical legal difference. Even though the employee had not in fact engaged in protected political activity, did his demotion \"deprive\" him of a \"right ... secured by the Constitution\"? 42 U.S.C. \u00a7 1983. We hold that it did.\nI\nTo decide the legal question presented, we assume the following, somewhat simplified, version of the facts: In 2005, Jeffrey Heffernan, the petitioner, was a police officer in Paterson, New Jersey. He worked in the office of the Chief of Police, James Wittig. At that time, the mayor of Paterson, Jose Torres, was running for reelection against Lawrence Spagnola. Torres had appointed to their current positions both Chief Wittig and a subordinate who directly supervised Heffernan. Heffernan was a good friend of Spagnola's.\nDuring the campaign, Heffernan's mother, who was bedridden, asked Heffernan to drive downtown and pick up a large Spagnola sign. She wanted to replace a smaller Spagnola sign, which had been stolen from her front yard. Heffernan went to a Spagnola distribution point and picked up the sign. While there, he spoke for a time to Spagnola's campaign manager and staff. Other members of the police force saw him, sign in hand, talking to campaign workers. Word quickly spread throughout the force.\nThe next day, Heffernan's supervisors demoted Heffernan from detective to patrol officer and assigned him to a \"walking post.\" In this way they punished Heffernan for what they thought was his \"overt involvement\" in Spagnola's campaign. In fact, Heffernan was not involved in the campaign but had picked up the sign simply to help his mother. Heffernan's supervisors had made a factual mistake.\nHeffernan subsequently filed this lawsuit in federal court. He claimed that Chief Wittig and the other respondents had demoted him because he had engaged in conduct that (on their mistaken view of the facts) constituted protected speech. They had thereby \"depriv[ed]\" him of a \"right ... secured by the Constitution.\" Rev. Stat. \u00a7 1979, 42 U.S.C. \u00a7 1983.\nThe District Court found that Heffernan had not engaged in any \"First Amendment conduct,\" 2 F.Supp.3d 563, 580 (D.N.J.2014) ; and, for that reason, the respondents had not deprived him of any constitutionally protected right. The Court of Appeals for the Third Circuit affirmed. It wrote that \"a free-speech retaliation claim is actionable under \u00a7 1983 only where the adverse action at issue was prompted by an employee's actual, rather than perceived, exercise of constitutional rights.\" 777 F.3d 147, 153 (2015) (citing Ambrose v. Robinson, 303 F.3d 488, 496 (C.A.3 2002) ; emphasis added). Heffernan filed a petition for certiorari. We agreed to decide whether the Third Circuit's legal view was correct. Compare 777 F.3d, at 153 (case below), with Dye v. Office of Racing Comm'n, 702 F.3d 286, 300 (C.A.6 2012)\n(similar factual mistake does not affect the validity of the government employee's claim).\nII\nWith a few exceptions, the Constitution prohibits a government employer from discharging or demoting an employee because the employee supports a particular political candidate. See Elrod v. Burns, supra ; Branti v. Finkel, supra . The basic constitutional requirement reflects the First Amendment's hostility to government action that \"prescribe[s] what shall be orthodox in politics.\" West Virginia Bd. of Ed . v. Barnette, 319 U.S. 624, 642, 63 S.Ct. 1178, 87 L.Ed. 1628 (1943). The exceptions take account of \"practical realities\" such as the need for \"efficiency\" and \"effective[ness]\" in government service. Waters v. Churchill, 511 U.S. 661, 672, 675, 114 S.Ct. 1878, 128 L.Ed.2d 686 (1994) ; see also Civil Service Comm'n, supra, at 564, 93 S.Ct. 2880 (neutral and appropriately limited policy may prohibit government employees from engaging in partisan activity), and Branti, supra, at 518, 100 S.Ct. 1287 (political affiliation requirement permissible where affiliation is \"an appropriate requirement for effective performance of the public office involved\").\nIn order to answer the question presented, we assume that the exceptions do not apply here. But see infra, at 1419. We assume that the activities that Heffernan's supervisors thought he had engaged in are of a kind that they cannot constitutionally prohibit or punish, see Rutan v. Republican Party of Ill., 497 U.S. 62, 69, 110 S.Ct. 2729, 111 L.Ed.2d 52 (1990) (\"joining, working for or contributing to the political party and candidates of their own choice\"), but that the supervisors were mistaken about the facts. Heffernan had not engaged in those protected activities. Does Heffernan's constitutional case consequently fail?\nThe text of the relevant statute does not answer the question. The statute authorizes a lawsuit by a person \"depriv[ed]\" of a \"right ... secured by the Constitution.\" 42 U.S.C. \u00a7 1983. But in this context, what precisely is that \"right?\" Is it a right that primarily focuses upon (the employee's) actual activity or a right that primarily focuses upon (the supervisor's) motive, insofar as that motive turns on what the supervisor believes that activity to be? The text does not say.\nNeither does precedent directly answer the question. In some cases we have used language that suggests the \"right\" at issue concerns the employee's actual activity. In Connick v. Myers, 461 U.S. 138, 103 S.Ct. 1684, 75 L.Ed.2d 708 (1983), for example, we said that a court should first determine whether the plaintiff spoke \" 'as a citizen' \" on a \" 'matter[ ] of public concern,' \" id., at 143, 103 S.Ct. 1684. We added that, if the employee has not engaged in what can \"be fairly characterized as constituting speech on a matter of public concern, it is unnecessary for us to scrutinize the reasons for her discharge.\" Id., at 146, 103 S.Ct. 1684. We made somewhat similar statements in Garcetti v. Ceballos, 547 U.S. 410, 418, 126 S.Ct. 1951, 164 L.Ed.2d 689 (2006), and Pickering v. Board of Ed. of Township High School Dist. 205, Will Cty., 391 U.S. 563, 88 S.Ct. 1731, 20 L.Ed.2d 811 (1968).\nThese cases, however, did not present the kind of question at issue here. In Connick, for example, no factual mistake was at issue. The Court assumed that both the employer and the employee were at every stage in agreement about the underlying facts: that the employer dismissed the employee because of her having circulated within the office a document that criticized how the office was being run (that she had in fact circulated). The question was whether the circulation of that document amounted to constitutionally protected speech. If not, the Court need go no further.\nNeither was any factual mistake at issue in Pickering. The Court assumed that both the employer (a school board) and the employee understood the cause for dismissal, namely, a petition that the employee had indeed circulated criticizing his employer's practices. The question concerned whether the petition was protected speech. Garcetti is substantially similar. In each of these cases, the only way to show that the employer's motive was unconstitutional was to prove that the controversial statement or activity-in each case the undisputed reason for the firing-was in fact protected by the First Amendment.\nWaters v. Churchill, 511 U.S. 661, 114 S.Ct. 1878, 128 L.Ed.2d 686 (1994), is more to the point. In that case the Court did consider the consequences of an employer mistake. The employer wrongly, though reasonably, believed that the employee had spoken only on personal matters not of public concern, and the employer dismissed the employee for having engaged in that unprotected speech. The employee, however, had in fact used words that did not amount to personal \"gossip\" (as the employer believed) but which focused on matters of public concern. The Court asked whether, and how, the employer's factual mistake mattered.\nThe Court held that, as long as the employer (1) had reasonably believed that the employee's conversation had involved personal matters, not matters of public concern, and (2) had dismissed the employee because of that mistaken belief, the dismissal did not violate the First Amendment. Id., at 679-680, 114 S.Ct. 1878. In a word, it was the employer's motive, and in particular the facts as the employer reasonably understood them, that mattered.\nIn Waters, the employer reasonably but mistakenly thought that the employee had not engaged in protected speech. Here the employer mistakenly thought that the employee had engaged in protected speech. If the employer's motive (and in particular the facts as the employer reasonably understood them) is what mattered in Waters, why is the same not true here? After all, in the law, what is sauce for the goose is normally sauce for the gander.\nWe conclude that, as in Waters, the government's reason for demoting Heffernan is what counts here. When an employer demotes an employee out of a desire to prevent the employee from engaging in political activity that the First Amendment protects, the employee is entitled to challenge that unlawful action under the First Amendment and 42 U.S.C. \u00a7 1983 -even if, as here, the employer makes a factual mistake about the employee's behavior.\nWe note that a rule of law finding liability in these circumstances tracks the language of the First Amendment more closely than would a contrary rule. Unlike, say, the Fourth Amendment, which begins by speaking of the \"right of the people to be secure in their persons, houses, papers, and effects ...,\" the First Amendment begins by focusing upon the activity of the Government. It says that \"Congress shall make no law ... abridging the freedom of speech.\" The Government acted upon a constitutionally harmful policy whether Heffernan did or did not in fact engage in political activity. That which stands for a \"law\" of \"Congress,\" namely, the police department's reason for taking action, \"abridge[s] the freedom of speech\" of employees aware of the policy. And Heffernan was directly harmed, namely, demoted, through application of that policy.\nWe also consider relevant the constitutional implications of a rule that imposes liability. The constitutional harm at issue in the ordinary case consists in large part of discouraging employees-both the employee discharged (or demoted) and his or her colleagues-from engaging in protected activities. The discharge of one tells the others that they engage in protected activity at their peril. See, e.g ., Elrod, 427 U.S., at 359, 96 S.Ct. 2673 (retaliatory employment action against one employee \"unquestionably inhibits protected belief and association\" of all employees). Hence, we do not require plaintiffs in political affiliation cases to \"prove that they, or other employees, have been coerced into changing, either actually or ostensibly, their political allegiance.\" Branti, 445 U.S., at 517, 100 S.Ct. 1287. The employer's factual mistake does not diminish the risk of causing precisely that same harm. Neither, for that matter, is that harm diminished where an employer announces a policy of demoting those who, say, help a particular candidate in the mayoral race, and all employees (including Heffernan), fearful of demotion, refrain from providing any such help. Cf. Gooding v. Wilson, 405 U.S. 518, 521, 92 S.Ct. 1103, 31 L.Ed.2d 408 (1972) (explaining that overbreadth doctrine is necessary \"because persons whose expression is constitutionally protected may well refrain from exercising their rights for fear of criminal sanctions\"). The upshot is that a discharge or demotion based upon an employer's belief that the employee has engaged in protected activity can cause the same kind, and degree, of constitutional harm whether that belief does or does not rest upon a factual mistake.\nFinally, we note that, contrary to respondents' assertions, a rule of law that imposes liability despite the employer's factual mistake will not normally impose significant extra costs upon the employer. To win, the employee must prove an improper employer motive. In a case like this one, the employee will, if anything, find it more difficult to prove that motive, for the employee will have to point to more than his own conduct to show an employer's intent to discharge or to demote him for engaging in what the employer (mistakenly) believes to have been different (and protected) activities. We concede that, for that very reason, it may be more complicated and costly for the employee to prove his case. But an employee bringing suit will ordinarily shoulder that more complicated burden voluntarily in order to recover the damages he seeks.\nIII\nWe now relax an assumption underlying our decision. We have assumed that the policy that Heffernan's employers implemented violated the Constitution. Supra, at 1416. There is some evidence in the record, however, suggesting that Heffernan's employers may have dismissed him pursuant to a different and neutral policy prohibiting police officers from overt involvement in any political campaign. See Brief for United States as Amicus Curiae 27-28. Whether that policy existed, whether Heffernan's supervisors were indeed following it, and whether it complies with constitutional standards, see Civil Service Comm'n, 413 U.S., at 564, 93 S.Ct. 2880 are all matters for the lower courts to decide in the first instance. Without expressing views on the matter, we reverse the judgment of the Third Circuit and remand the case for such further proceedings consistent with this opinion.\nIt is so ordered.\nJustice THOMAS, with whom Justice ALITO joins, dissenting.\nToday the Court holds that a public employee may bring a federal lawsuit for money damages alleging a violation of a constitutional right that he concedes he did not exercise. Ante, at 1416. Because federal law does not provide a cause of action to plaintiffs whose constitutional rights have not been violated, I respectfully dissent.\nI\nThis lawsuit concerns a decision by the city of Paterson, New Jersey (hereinafter City), to demote one of its police officers, Jeffrey Heffernan. At the time of Heffernan's demotion, Paterson's mayor, Jose Torres, was running for reelection against one of Heffernan's friends, Lawrence Spagnola. The police chief demoted Heffernan after another officer assigned to Mayor Torres' security detail witnessed Heffernan pick up a Spagnola campaign sign when Heffernan was off duty. Heffernan claimed that he picked up the sign solely as an errand for his bedridden mother. Heffernan denied supporting or associating with Spagnola's campaign and disclaimed any intent to communicate support for Spagnola by retrieving the campaign sign. Despite Heffernan's assurances that he was not engaged in protected First Amendment activity, he filed this lawsuit alleging that his employer violated his First Amendment rights by demoting him based on its mistaken belief that Heffernan had communicated support for the Spagnola campaign.\nII\nTitle 42 U.S.C. \u00a7 1983 provides a cause of action against \"[e]very person who, under color of any statute, ordinance, regulation, custom, or usage, of any State ... subjects ... any citizen of the United States ... to the deprivation of any rights, privileges, or immunities secured by the Constitution.\" For Heffernan to prevail on his \u00a7 1983 claim, then, a state actor must have deprived him of a constitutional right. Nothing in the text of \u00a7 1983 provides a remedy against public officials who attempt but fail to violate someone's constitutional rights.\nThere are two ways to frame Heffernan's First Amendment claim, but neither can sustain his suit. As in most \u00a7 1983 suits, his claim could be that the City interfered with his freedom to speak and assemble. But because Heffernan has conceded that he was not engaged in protected speech or assembly when he picked up the sign, the majority must resort to a second, more novel framing. It concludes that Heffernan states a \u00a7 1983 claim because the City unconstitutionally regulated employees' political speech and Heffernan was injured because that policy resulted in his demotion. See ante, at 1418. Under that theory, too, Heffernan's \u00a7 1983 claim fails. A city's policy, even if unconstitutional, cannot be the basis of a \u00a7 1983 suit when that policy does not result in the infringement of the plaintiff's constitutional rights.\nA\nTo state a claim for retaliation in violation of the First Amendment, public employees like Heffernan must allege that their employer interfered with their right to speak as a citizen on a matter of public concern. Whether the employee engaged in such speech is the threshold inquiry under the Court's precedents governing whether a public employer violated the First Amendment rights of its employees. See Garcetti v. Ceballos, 547 U.S. 410, 418, 126 S.Ct. 1951, 164 L.Ed.2d 689 (2006). If the employee has not spoken on a matter of public concern, \"the employee has no First Amendment cause of action based on his or her employer's reaction to the speech.\" Ibid. If the employee did, however, speak as a citizen on a matter of public concern, then the Court looks to \"whether the relevant government entity had an adequate justification for treating the employee differently from any other member of the general public.\" Ibid.\nUnder this framework, Heffernan's claim fails at the first step. He has denied that, by picking up the yard sign, he \"spoke as a citizen on a matter of public concern.\" Ibid. In fact, Heffernan denies speaking in support of or associating with the Spagnola campaign. He has claimed that he picked up the yard sign only as an errand for his bedridden mother. Demoting a dutiful son who aids his elderly, bedridden mother may be callous, but it is not unconstitutional.\nTo be sure, Heffernan could exercise his First Amendment rights by choosing not to assemble with the Spagnola campaign. Cf. Harper & Row, Publishers, Inc. v. Nation Enterprises, 471 U.S. 539, 559, 105 S.Ct. 2218, 85 L.Ed.2d 588 (1985) (freedom of expression \"includes both the right to speak freely and the right to refrain from speaking at all\" (internal quotation marks omitted)). But such an allegation could not save his claim here. A retaliation claim requires proving that Heffernan's protected activity was a cause-in-fact of the retaliation. See University of Tex. Southwestern Medical Center v. Nassar, 570 U.S. ----, ----, 133 S.Ct. 2517, 2534, 186 L.Ed.2d 503 (2013). And Heffernan's exercise of his right not to associate with the Spagnola campaign did not cause his demotion. Rather, his perceived association with the Spagnola campaign did.\nAt bottom, Heffernan claims that the City tried to interfere with his constitutional rights and failed. But it is not enough for the City to have attempted to infringe his First Amendment rights. To prevail on his claim, he must establish that the City actually did so. The City's attempt never ripened into an actual violation of Heffernan's constitutional rights because, unbeknownst to the City, Heffernan did not support Spagnola's campaign.\nThough, in criminal law, a factually impossible attempt like the City's actions here could constitute an attempt, there is no such doctrine in tort law. A plaintiff may maintain a suit only for a completed tort; \"[t]here are no attempted torts.\" United States v. Stefonek, 179 F.3d 1030, 1036 (C.A.7 1999) (internal quotation marks omitted); see also Sebok, Deterrence or Disgorgement? Reading Ciraolo After Campbell, 64 Md. L. Rev. 541, 565 (2005) (same). And \"there can be no doubt that claims brought pursuant to \u00a7 1983 sound in tort.\" Monterey v. Del Monte Dunes at Monterey, Ltd., 526 U.S. 687, 709, 119 S.Ct. 1624, 143 L.Ed.2d 882 (1999). Because Heffernan could claim at most that the City attempted to interfere with his First Amendment rights, he cannot prevail on a claim under the theory that the City infringed his right to speak freely or assemble.\nB\nTo get around this problem of factual impossibility, the majority reframes Heffernan's case as one about the City's lack of power to act with unconstitutional motives. See ante, at 1417. Under the majority's view, the First Amendment prohibits the City from taking an adverse employment action intended to impede an employee's rights to speak and assemble, regardless of whether the City has accurately perceived an employee's political affiliation. The majority surmises that an attempted violation of an employee's First Amendment rights can be just as harmful as a successful deprivation of First Amendment rights. Ante, at 1419. And the majority concludes that the City's demotion of Heffernan based on his wrongfully perceived association with a political campaign is no different from the City's demotion of Heffernan based on his actual association with a political campaign. Ante, at 1418.\nBut \u00a7 1983 does not provide a cause of action for unauthorized government acts that do not infringe the constitutional rights of the \u00a7 1983 plaintiff. See Blessing v. Freestone, 520 U.S. 329, 340, 117 S.Ct. 1353, 137 L.Ed.2d 569 (1997) (\"In order to seek redress through \u00a7 1983, ... a plaintiff must assert the violation of a federal right, not merely a violation of federal law \"). Of course the First Amendment \"focus[es] upon the activity of the Government.\" Ante, at 1418. See Amdt. 1 (\"Congress shall make no law ...\"). And here, the \"activity of Government\" has caused Heffernan harm, namely, a demotion. But harm alone is not enough; it has to be the right kind of harm. Section 1983 provides a remedy only if the City has violated Heffernan's constitutional rights, not if it has merely caused him harm. Restated in the language of tort law, Heffernan's injury must result from activities within the zone of interests that \u00a7 1983 protects. Cf. Lexmark Int'l, Inc. v. Static Control Components, Inc., 572 U.S. ----, ----, n. 5, 134 S.Ct. 1377, 1389, n. 5, 188 L.Ed.2d 392 (2014) (discussing the zone-of-interests test in the context of negligence per se ).\nThe mere fact that the government has acted unconstitutionally does not necessarily result in the violation of an individual's constitutional rights, even when that individual has been injured. Consider, for example, a law that authorized police to stop motorists arbitrarily to check their licenses and registration. That law would violate the Fourth Amendment. See Delaware v. Prouse, 440 U.S. 648, 661, 99 S.Ct. 1391, 59 L.Ed.2d 660 (1979). And motorists who were not stopped might suffer an injury from the unconstitutional policy; for example, they might face significant traffic delays. But these motorists would not have a \u00a7 1983 claim simply because they were injured pursuant to an unconstitutional policy. This is because they have not suffered the right kind of injury. They must allege, instead, that their injury amounted to a violation of their constitutional right against unreasonable seizures-that is, by being unconstitutionally detained.\nHere too, Heffernan must allege more than an injury from an unconstitutional policy. He must establish that this policy infringed his constitutional rights to speak freely and peaceably assemble. Even if the majority is correct that demoting Heffernan for a politically motivated reason was beyond the scope of the City's power, the City never invaded Heffernan ' s right to speak or assemble. Accordingly, he is not entitled to money damages under \u00a7 1983 for the nonviolation of his First Amendment rights.\nThe majority tries to distinguish the Fourth Amendment by emphasizing the textual differences between that Amendment and the First. See ante, at 1418 (\"Unlike, say the Fourth Amendment ..., the First Amendment begins by focusing upon the activity of the Government\"). But these textual differences are immaterial. All rights enumerated in the Bill of Rights \"focu [s] upon the activity of the Government\" by \"tak[ing] certain policy choices off the table.\" District of Columbia v. Heller, 554 U.S. 570, 636, 128 S.Ct. 2783, 171 L.Ed.2d 637 (2008) ; see also Hohfeld, Some Fundamental Legal Conceptions As Applied in Judicial Reasoning, 23 Yale L.J. 16, 30, 55-57 (1913) (recognizing that an immunity implies a corresponding lack of power). Fourth Amendment rights could be restated in terms of governmental power with no change in substantive meaning. Thus, the mere fact that the First Amendment begins \"Congress shall make no law\" does not broaden a citizen's ability to sue to vindicate his freedoms of speech and assembly.\nTo reach the opposite conclusion, the majority relies only on Waters v. Churchill, 511 U.S. 661, 114 S.Ct. 1878, 128 L.Ed.2d 686 (1994) (plurality opinion). See ante, at 1418 - 1419. But Waters does not support the majority's expansion of \u00a7 1983 to cases where the employee did not exercise his First Amendment rights. The issue in Waters was whether a public employer violated the First Amendment where it reasonably believed that the speech it proscribed was unprotected. The Court concluded that the employer did not violate the First Amendment because it reasonably believed the employee's speech was unprotected: \"We have never held that it is a violation of the Constitution for a government employer to discharge an employee based on substantively incorrect information.\" 511 U.S., at 679, 114 S.Ct. 1878. And the Court reaffirmed that, to state a First Amendment retaliation claim, the public employee must allege that she spoke on a matter of public concern. See id., at 681, 114 S.Ct. 1878.\nUnlike the employee in Waters, Heffernan admits that he was not engaged in constitutionally protected activity. Accordingly, unlike in Waters, he cannot allege that his employer interfered with conduct protected by the First Amendment. \"[W]hat is sauce for the goose\" is not \"sauce for the gander,\" ante, at 1418, when the goose speaks and the gander does not.\n* * *\nIf the facts are as Heffernan has alleged, the City's demotion of him may be misguided or wrong. But, because Heffernan concedes that he did not exercise his First Amendment rights, he has no cause of action under \u00a7 1983. I respectfully dissent.\nThe syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337, 26 S.Ct. 282, 50 L.Ed. 499.\nFactual impossibility occurs when \"an actor engages in conduct designed to culminate in the commission of an offense that is impossible for him to consummate under the existing circumstances.\" 1 P. Robinson, Criminal Law Defenses \u00a7 85, p. 422 (1984). Canonical examples include an attempt to steal from an empty pocket, State v. Wilson, 30 Conn. 500, 505 (1862), or an attempt to commit false pretenses where the victim had no money, People v. Arberry, 13 Cal.App. 749, 757, 114 P. 411 (1910).",
+        "type": "majority",
+        "author": "Justice BREYER delivered the opinion of the Court."
+      }
+    ],
+    "attorneys": [
+      "Mark Frost, Philadelphia, PA, for petitioner.",
+      "Ginger D. Anders for the United States, as amicus curiae, by special leave of the Court, supporting the petitioner.",
+      "Thomas C. Goldstein, Bethesda, MD, for respondents.",
+      "Stuart Banner, Eugene Volokh, UCLA School of Law, Supreme Court Clinic, Los Angeles, CA, Fred A. Rowley, Jr., Grant A. Davis-Denny, Andrew G. Prout, Munger, Tolles & Olson LLP, Los Angeles, CA, Mark B. Frost, Counsel of Record, Ryan M. Lockman, Mark B. Frost & Associates, Philadelphia, PA, for petitioner.",
+      "Edward A. Hartnett, Seton Hall University School of Law, Victor A. Afanador, Counsel of Record, Susana Cruz Hodge, Erik E. Sardi\u00f1a, Lite DePalma Greenberg LLC, Newark, NJ, Albert C. Lisbona, Beth Connell O'Connor, Dwyer, Connell & Lisbona, Gary Potters, Potters & Delia Peitra, Fairfield, NJ, Thomas P. Scrivo, McElroy, Deutsch, Mulvaney & Carpenter, Newark, NJ, Roosevelt Jean, Chasan, Leyner, & Lamparello, Secaucus, NJ, for respondents in Opposition.",
+      "Thomas C. Goldstein, Goldstein & Russell, P.C., Bethesda, MD, Gary Potters, Potters & Delia Peitra, Fairfield, NJ, Roosevelt Jean, Chasan Leyner &, Lamparello, Secaucus, NJ, Domenick Stampone, City of Paterson, Paterson, NJ, Victor A. Afanador, Erik E. Sardi\u00f1a, Lite DePalma Greenberg, LLC, Edward A. Hartnett, Seton Hall University School of Law, Newark, NJ, Albert C. Lisbona, Beth Connell O'Connor, Dwyer, Connell & Lisbona, Fairfield, NJ, Ryan P. Mulvaney, McElroy, Deutsch, Mulvaney &, Carpenter, LLP, Newark, NJ, for respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey J. HEFFERNAN, Petitioner\nv.\nCITY OF PATERSON, NEW JERSEY, et al.\nNo. 14-1280.\nSupreme Court of the United States\nArgued Jan. 19, 2016.\nDecided April 26, 2016.\nMark Frost, Philadelphia, PA, for petitioner.\nGinger D. Anders for the United States, as amicus curiae, by special leave of the Court, supporting the petitioner.\nThomas C. Goldstein, Bethesda, MD, for respondents.\nStuart Banner, Eugene Volokh, UCLA School of Law, Supreme Court Clinic, Los Angeles, CA, Fred A. Rowley, Jr., Grant A. Davis-Denny, Andrew G. Prout, Munger, Tolles & Olson LLP, Los Angeles, CA, Mark B. Frost, Counsel of Record, Ryan M. Lockman, Mark B. Frost & Associates, Philadelphia, PA, for petitioner.\nEdward A. Hartnett, Seton Hall University School of Law, Victor A. Afanador, Counsel of Record, Susana Cruz Hodge, Erik E. Sardi\u00f1a, Lite DePalma Greenberg LLC, Newark, NJ, Albert C. Lisbona, Beth Connell O'Connor, Dwyer, Connell & Lisbona, Gary Potters, Potters & Delia Peitra, Fairfield, NJ, Thomas P. Scrivo, McElroy, Deutsch, Mulvaney & Carpenter, Newark, NJ, Roosevelt Jean, Chasan, Leyner, & Lamparello, Secaucus, NJ, for respondents in Opposition.\nThomas C. Goldstein, Goldstein & Russell, P.C., Bethesda, MD, Gary Potters, Potters & Delia Peitra, Fairfield, NJ, Roosevelt Jean, Chasan Leyner &, Lamparello, Secaucus, NJ, Domenick Stampone, City of Paterson, Paterson, NJ, Victor A. Afanador, Erik E. Sardi\u00f1a, Lite DePalma Greenberg, LLC, Edward A. Hartnett, Seton Hall University School of Law, Newark, NJ, Albert C. Lisbona, Beth Connell O'Connor, Dwyer, Connell & Lisbona, Fairfield, NJ, Ryan P. Mulvaney, McElroy, Deutsch, Mulvaney &, Carpenter, LLP, Newark, NJ, for respondents."
+  },
+  "file_name": "1412-01",
+  "first_page_order": 1412,
+  "last_page_order": 1423
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12601371,
+  "name": "John Albert ESTRADA, petitioner, v. TEXAS.",
+  "name_abbreviation": "Estrada v. Texas",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u20139894.",
+  "first_page": "70",
+  "last_page": "70",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 70"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 68"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 196,
+    "sha256": "a74ce3f7c647a998b7fe8c4419a943a3a88aca2fe000c52c8726b48568ca8a53",
+    "simhash": "1:e86f26d6f2c4adad",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Albert ESTRADA, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Fifth District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Albert ESTRADA, petitioner,\nv.\nTEXAS.\nNo. 14-9894.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the Court of Appeals of Texas, Fifth District, denied."
+  },
+  "file_name": "0070-07",
+  "first_page_order": 70,
+  "last_page_order": 70
+}

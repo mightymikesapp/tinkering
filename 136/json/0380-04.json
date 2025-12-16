@@ -1,0 +1,64 @@
+{
+  "id": 12599963,
+  "name": "In re Curtis SMITH, petitioner.",
+  "name_abbreviation": "In re Smith",
+  "decision_date": "2015-10-19",
+  "docket_number": "No. 15\u20136328.",
+  "first_page": "380",
+  "last_page": "380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 380"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 307"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "a638d3cf767bbc4ceeb5b87fed283fb2d458d58739b842f295c6a0d64064f260",
+    "simhash": "1:c0951650be580514",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Curtis SMITH, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Curtis SMITH, petitioner.\nNo. 15-6328.\nSupreme Court of the United States\nOct. 19, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0380-04",
+  "first_page_order": 380,
+  "last_page_order": 380
+}

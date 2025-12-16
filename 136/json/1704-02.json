@@ -1,0 +1,64 @@
+{
+  "id": 12597069,
+  "name": "Moises M. RAMIREZ, petitioner, v. Kevin JONES, Warden.",
+  "name_abbreviation": "Ramirez v. Jones",
+  "decision_date": "2016-04-18",
+  "docket_number": "No. 15M108.",
+  "first_page": "1704",
+  "last_page": "1704",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1704"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 764"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 210,
+    "sha256": "f30a687b62568f9fe617551c6dbbd46b1b39313ab61986c88d227fe607fb1e83",
+    "simhash": "1:f967520647ccf0e7",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Moises M. RAMIREZ, petitioner,\nv.\nKevin JONES, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Moises M. RAMIREZ, petitioner,\nv.\nKevin JONES, Warden.\nNo. 15M108.\nSupreme Court of the United States\nApril 18, 2016.\nMotion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+  },
+  "file_name": "1704-02",
+  "first_page_order": 1704,
+  "last_page_order": 1704
+}

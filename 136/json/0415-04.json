@@ -1,0 +1,64 @@
+{
+  "id": 12600101,
+  "name": "Marvin DOUGLAS, petitioner, v. Jerry GOODWIN, Warden.",
+  "name_abbreviation": "Douglas v. Goodwin",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20135926.",
+  "first_page": "415",
+  "last_page": "415",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 415"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 217,
+    "sha256": "3a0d3ffa4105b11f6e60f2976b79864a79ae37ee81d527adbd369df9a487ab57",
+    "simhash": "1:e4afe4443b8412a5",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marvin DOUGLAS, petitioner,\nv.\nJerry GOODWIN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marvin DOUGLAS, petitioner,\nv.\nJerry GOODWIN, Warden.\nNo. 15-5926.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0415-04",
+  "first_page_order": 415,
+  "last_page_order": 415
+}

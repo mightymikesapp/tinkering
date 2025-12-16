@@ -1,0 +1,64 @@
+{
+  "id": 12600650,
+  "name": "Shelby Anthony VOGT, petitioner, v. IOWA STATE PENITENTIARY, et al.",
+  "name_abbreviation": "Vogt v. Iowa State Penitentiary",
+  "decision_date": "2015-11-16",
+  "docket_number": "No. 15\u20135675.",
+  "first_page": "529",
+  "last_page": "529",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 529"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 163,
+    "sha256": "64396879250464a702d41b8f5ebb79dde563cc6110ab604b43cff09d47000dd1",
+    "simhash": "1:20f1d4041efe2a25",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shelby Anthony VOGT, petitioner,\nv.\nIOWA STATE PENITENTIARY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shelby Anthony VOGT, petitioner,\nv.\nIOWA STATE PENITENTIARY, et al.\nNo. 15-5675.\nSupreme Court of the United States\nNov. 16, 2015.\nPetition for rehearing denied."
+  },
+  "file_name": "0529-04",
+  "first_page_order": 529,
+  "last_page_order": 529
+}

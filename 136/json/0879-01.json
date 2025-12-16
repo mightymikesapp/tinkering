@@ -1,0 +1,94 @@
+{
+  "id": 12602068,
+  "name": "Christopher STOLLER, petitioner, v. CONSUMER FINANCIAL PROTECTION BUREAU, et al.",
+  "name_abbreviation": "Stoller v. Consumer Fin. Prot. Bureau",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u20136932.",
+  "first_page": "879",
+  "last_page": "879",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 879"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 703"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 84,
+    "char_count": 659,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26356980657945694
+    },
+    "sha256": "a7a68eff32577dece6ca84864a77a082afe6a9740d94f7e25f71b7f4f621fc78",
+    "simhash": "1:61e2e5cca52dd6df",
+    "word_count": 106
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher STOLLER, petitioner,\nv.\nCONSUMER FINANCIAL PROTECTION BUREAU, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for a writ of certiorari dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher STOLLER, petitioner,\nv.\nCONSUMER FINANCIAL PROTECTION BUREAU, et al.\nNo. 15-6932.\nSupreme Court of the United States\nJan. 11, 2016.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for a writ of certiorari dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "0879-01",
+  "first_page_order": 879,
+  "last_page_order": 879
+}

@@ -1,0 +1,82 @@
+{
+  "id": 12601539,
+  "name": "The RITZ-CARLTON DEVELOPMENT COMPANY, INC., et al, petitioners, v. Krishna NARAYAN, et al.",
+  "name_abbreviation": "Ritz-Carlton Dev. Co. v. Narayan",
+  "decision_date": "2016-01-11",
+  "docket_number": "No. 15\u2013378.",
+  "first_page": "799",
+  "last_page": "799",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 799"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 701"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 463",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12600308
+      ],
+      "year": 2015,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/0463-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 448,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635686482107644
+    },
+    "sha256": "56ce2882cfa7becdccdeecc62379e26f4daea9123c3a7a72bd52571217173632",
+    "simhash": "1:68a74204b4b3269d",
+    "word_count": 70
+  },
+  "last_updated": "2024-02-27T18:39:13.062638+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The RITZ-CARLTON DEVELOPMENT COMPANY, INC., et al, petitioners,\nv.\nKrishna NARAYAN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Supreme Court of Hawaii. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Hawaii for further consideration in light of DIRECTV, Inc. v. Imburgia, 577 U.S. ----, 136 S.Ct. 463, --- L.E.2d ---- (2015)."
+    ],
+    "corrections": "",
+    "head_matter": "The RITZ-CARLTON DEVELOPMENT COMPANY, INC., et al, petitioners,\nv.\nKrishna NARAYAN, et al.\nNo. 15-378.\nSupreme Court of the United States\nJan. 11, 2016.\nOn petition for writ of certiorari to the Supreme Court of Hawaii. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Hawaii for further consideration in light of DIRECTV, Inc. v. Imburgia, 577 U.S. ----, 136 S.Ct. 463, --- L.E.2d ---- (2015)."
+  },
+  "file_name": "0799-04",
+  "first_page_order": 799,
+  "last_page_order": 799
+}

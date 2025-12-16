@@ -1,0 +1,64 @@
+{
+  "id": 12600730,
+  "name": "In re Michael Alonza RUFUS, petitioner.",
+  "name_abbreviation": "In re Rufus",
+  "decision_date": "2015-11-30",
+  "docket_number": "No. 15\u20136167.",
+  "first_page": "542",
+  "last_page": "542",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 542"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 451"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 147,
+    "sha256": "7dcba1623d8dae16f00eacc2d04b6b63acec9491e3886977774c29ca1e86dff6",
+    "simhash": "1:c86740c536f10191",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Michael Alonza RUFUS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Michael Alonza RUFUS, petitioner.\nNo. 15-6167.\nSupreme Court of the United States\nNov. 30, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0542-02",
+  "first_page_order": 542,
+  "last_page_order": 542
+}

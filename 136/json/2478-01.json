@@ -1,0 +1,64 @@
+{
+  "id": 12598716,
+  "name": "Van JACKSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Van Jackson v. United States",
+  "decision_date": "2016-06-13",
+  "docket_number": "No. 15\u20139287.",
+  "first_page": "2478",
+  "last_page": "2478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 2478"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 812"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "63c0e24c5a77435268385142dc4ef4eed98488692286135dfa6ba83cf2b1bc15",
+    "simhash": "1:edec74643b241680",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Van JACKSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Van JACKSON, petitioner,\nv.\nUNITED STATES.\nNo. 15-9287.\nSupreme Court of the United States\nJune 13, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "2478-01",
+  "first_page_order": 2478,
+  "last_page_order": 2478
+}

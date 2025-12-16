@@ -1,0 +1,64 @@
+{
+  "id": 12596169,
+  "name": "Herbert JENA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jena v. United States",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 14\u201310371.",
+  "first_page": "147",
+  "last_page": "147",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 147"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "71c37e4905a4a790a1b48bbf81e5b8e09811498a8b69d5ac51e76101fedaeb9e",
+    "simhash": "1:f7efe245368d447d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Herbert JENA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Herbert JENA, petitioner,\nv.\nUNITED STATES.\nNo. 14-10371.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0147-05",
+  "first_page_order": 147,
+  "last_page_order": 147
+}

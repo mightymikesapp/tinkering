@@ -1,0 +1,64 @@
+{
+  "id": 12600422,
+  "name": "In re Edward D. CURTIS, petitioner.",
+  "name_abbreviation": "In re Curtis",
+  "decision_date": "2015-11-09",
+  "docket_number": "No. 15\u20136562.",
+  "first_page": "495",
+  "last_page": "495",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 495"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 361"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "sha256": "01a2f188d4b37b11693a711f91c2ad365207bb559d349617d036c1a0fb276c77",
+    "simhash": "1:184fd25cfe18450d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Edward D. CURTIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Edward D. CURTIS, petitioner.\nNo. 15-6562.\nSupreme Court of the United States\nNov. 9, 2015.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0495-01",
+  "first_page_order": 495,
+  "last_page_order": 495
+}

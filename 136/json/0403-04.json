@@ -1,0 +1,64 @@
+{
+  "id": 12600023,
+  "name": "Robert Louis BROWN, petitioner, v. MARRIOTT HOTEL.",
+  "name_abbreviation": "Brown v. Hotel",
+  "decision_date": "2015-11-02",
+  "docket_number": "No. 15\u20135595.",
+  "first_page": "403",
+  "last_page": "403",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 403"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 321"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 214,
+    "sha256": "2cb056c2b44b62439a5be42ff0a0823558db1320f7afbe121488ca158ffafb14",
+    "simhash": "1:943f76d42f449283",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Louis BROWN, petitioner,\nv.\nMARRIOTT HOTEL."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Louis BROWN, petitioner,\nv.\nMARRIOTT HOTEL.\nNo. 15-5595.\nSupreme Court of the United States\nNov. 2, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0403-04",
+  "first_page_order": 403,
+  "last_page_order": 403
+}

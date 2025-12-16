@@ -1,0 +1,64 @@
+{
+  "id": 12597336,
+  "name": "Robert LUDLOW, et al., petitioners, v. BP, P.L.C., et al.",
+  "name_abbreviation": "Ludlow v. BP, P. L.C.",
+  "decision_date": "2016-05-02",
+  "docket_number": "No. 15\u2013952.",
+  "first_page": "1824",
+  "last_page": "1824",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 1824"
+    },
+    {
+      "type": "parallel",
+      "cite": "194 L. Ed. 2d 829"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 219,
+    "sha256": "2dca426fb72bbdf1e93c8b18f232c4769e7a439e5fe7caf827bb4608ae1761ef",
+    "simhash": "1:b0eff4c0b70d722b",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.133232+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert LUDLOW, et al., petitioners,\nv.\nBP, P.L.C., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert LUDLOW, et al., petitioners,\nv.\nBP, P.L.C., et al.\nNo. 15-952.\nSupreme Court of the United States\nMay 2, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1824-03",
+  "first_page_order": 1824,
+  "last_page_order": 1824
+}

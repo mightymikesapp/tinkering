@@ -1,0 +1,64 @@
+{
+  "id": 12598095,
+  "name": "WISCONSIN, petitioner, v. HO-CHUNK NATION.",
+  "name_abbreviation": "Wisconsin v. Nation",
+  "decision_date": "2015-10-05",
+  "docket_number": "No. 15\u2013114.",
+  "first_page": "231",
+  "last_page": "231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "136 S. Ct. 231"
+    },
+    {
+      "type": "parallel",
+      "cite": "193 L. Ed. 2d 132"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 207,
+    "sha256": "cf28ab9c9632973e788f05651ed1c3c912dd90ce818b55658ae41de18be55cb4",
+    "simhash": "1:e9af62443b849631",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WISCONSIN, petitioner,\nv.\nHO-CHUNK NATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "WISCONSIN, petitioner,\nv.\nHO-CHUNK NATION.\nNo. 15-114.\nSupreme Court of the United States\nOct. 5, 2015.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0231-06",
+  "first_page_order": 231,
+  "last_page_order": 231
+}
