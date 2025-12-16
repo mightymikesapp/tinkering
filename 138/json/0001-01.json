@@ -1,0 +1,62 @@
+{
+  "id": 12610016,
+  "name": "Donald J. TRUMP, President of the United States, et al., Applicants v. HAWAII, et al.",
+  "name_abbreviation": "Trump v. Hawaii",
+  "decision_date": "2017-09-11",
+  "docket_number": "No. 17A275.",
+  "first_page": "1",
+  "last_page": "1",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 776"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 551,
+    "sha256": "e049731a7ecb6cfad35eaa41ef847e3445efa758eb5d3d669fa78ada755aa229",
+    "simhash": "1:daef6620258c5616",
+    "word_count": 95
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald J. TRUMP, President of the United States, et al., Applicants\nv.\nHAWAII, et al."
+    ],
+    "opinions": [
+      {
+        "text": "UPON CONSIDERATION of the application of counsel for the applicants,\nIT IS ORDERED that the mandate of the United States Court of Appeals for the Ninth Circuit, case No. 17-16426, is hereby stayed with respect to refugees covered by a formal assurance, pending receipt of a response, due on or before Tuesday, September 12, 2017, by 12 p.m., and further order of the undersigned or of the Court.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Donald J. TRUMP, President of the United States, et al., Applicants\nv.\nHAWAII, et al.\nNo. 17A275.\nSupreme Court of the United States\nSept. 11, 2017.\nORDER"
+  },
+  "file_name": "0001-01",
+  "first_page_order": 1,
+  "last_page_order": 1
+}

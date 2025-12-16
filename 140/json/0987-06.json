@@ -1,0 +1,64 @@
+{
+  "id": 12631041,
+  "name": "Lewis BROWN, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-6189",
+  "first_page": "987",
+  "last_page": "987",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 987"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 217,
+    "sha256": "2213b5aef3cc7777031586b812627d8af2a1858e8247c95310e0d74bd6af352c",
+    "simhash": "1:ddb77cc2350e5e8e",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lewis BROWN, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice Kagan took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Kagan took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lewis BROWN, Petitioner,\nv.\nUNITED STATES.\nNo. 19-6189\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for rehearing denied."
+  },
+  "file_name": "0987-06",
+  "first_page_order": 987,
+  "last_page_order": 987
+}

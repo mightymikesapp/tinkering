@@ -1,0 +1,64 @@
+{
+  "id": 12623756,
+  "name": "Pedro RODRIGUEZ, petitioner, v. William D. GORE, Sheriff, San Diego County, California.",
+  "name_abbreviation": "Rodriguez v. Gore",
+  "decision_date": "2018-12-10",
+  "docket_number": "No. 18\u20136192.",
+  "first_page": "641",
+  "last_page": "641",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 641"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 252,
+    "sha256": "e3c41b7c48ddb68a6d02fa5332f39495cc6c03a9b31d32f07d79942324d77186",
+    "simhash": "1:d3af74c4bd0577ac",
+    "word_count": 40
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro RODRIGUEZ, petitioner,\nv.\nWilliam D. GORE, Sheriff, San Diego County, California."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro RODRIGUEZ, petitioner,\nv.\nWilliam D. GORE, Sheriff, San Diego County, California.\nNo. 18-6192.\nSupreme Court of the United States\nDec. 10, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0641-05",
+  "first_page_order": 641,
+  "last_page_order": 641
+}

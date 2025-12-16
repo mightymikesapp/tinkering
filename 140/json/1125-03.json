@@ -1,0 +1,64 @@
+{
+  "id": 12625101,
+  "name": "Heon Seok LEE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lee v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-879",
+  "first_page": "1125",
+  "last_page": "1125",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1125"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 209,
+    "sha256": "bb1ffe8e1751121df021682d58b21ddee9d9bad7fde8cf91590d5f0740f11e68",
+    "simhash": "1:e9af644813065633",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Heon Seok LEE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Heon Seok LEE, Petitioner,\nv.\nUNITED STATES.\nNo. 19-879\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1125-03",
+  "first_page_order": 1125,
+  "last_page_order": 1125
+}

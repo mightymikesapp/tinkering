@@ -1,0 +1,83 @@
+{
+  "id": 12628695,
+  "name": "Ricardo DONATE-CARDONA, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Donate-Cardona v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5014",
+  "first_page": "400",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 400"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 210"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2191",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620627
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2191-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 534,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26366247607486
+    },
+    "sha256": "57a0b5e796d1f2d73a17afcd0624e292a5632d12d78b666455df28f85286c243",
+    "simhash": "1:7aaf62c40b021e1d",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ricardo DONATE-CARDONA, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Ricardo DONATE-CARDONA, Petitioner\nv.\nUNITED STATES\nNo. 19-5014\nSupreme Court of the United States.\nOctober 15, 2019\nOn petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+  },
+  "file_name": "0400-01",
+  "first_page_order": 400,
+  "last_page_order": 400
+}

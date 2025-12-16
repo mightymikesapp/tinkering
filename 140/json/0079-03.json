@@ -1,0 +1,64 @@
+{
+  "id": 12630149,
+  "name": "Michael B. WHITE, Petitioner, v. Collene K. CORCORAN, Trustee, et al.",
+  "name_abbreviation": "White v. Corcoran",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9184",
+  "first_page": "79",
+  "last_page": "79",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 79"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 63"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 235,
+    "sha256": "2204367df42f13514d33ffdbe79b53e9dee26fa9ce90350e4a2380073e7e52c5",
+    "simhash": "1:62ed4444b2849125",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael B. WHITE, Petitioner,\nv.\nCollene K. CORCORAN, Trustee, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael B. WHITE, Petitioner,\nv.\nCollene K. CORCORAN, Trustee, et al.\nNo. 18-9184\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0079-03",
+  "first_page_order": 79,
+  "last_page_order": 79
+}

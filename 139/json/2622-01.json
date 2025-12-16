@@ -1,0 +1,64 @@
+{
+  "id": 12620962,
+  "name": "David PICKUP, et al., petitioners, v. Gavin NEWSOM, Governor of California, et al.",
+  "name_abbreviation": "Pickup v. Newsom",
+  "decision_date": "2019-05-20",
+  "docket_number": "No. 18\u20131244.",
+  "first_page": "2622",
+  "last_page": "2622",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2622"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 246,
+    "sha256": "7d3ebda08ab0f79353208c9aa308e14097417941c66e874648eac2cff76bf1ff",
+    "simhash": "1:13aee4403fc451aa",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David PICKUP, et al., petitioners,\nv.\nGavin NEWSOM, Governor of California, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David PICKUP, et al., petitioners,\nv.\nGavin NEWSOM, Governor of California, et al.\nNo. 18-1244.\nSupreme Court of the United States\nMay 20, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2622-01",
+  "first_page_order": 2622,
+  "last_page_order": 2622
+}

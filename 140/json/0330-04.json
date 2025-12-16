@@ -1,0 +1,64 @@
+{
+  "id": 12628489,
+  "name": "IN RE Artur TCHIBASSA, Petitioner",
+  "name_abbreviation": "In re Tchibassa",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5058",
+  "first_page": "330",
+  "last_page": "330",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 330"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 140,
+    "sha256": "d2f4ad5de9fd94a1aa76cfd3e668d50d4ef8d8a016375bb559c628ca88f90124",
+    "simhash": "1:eaed641cb2501155",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Artur TCHIBASSA, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Artur TCHIBASSA, Petitioner\nNo. 19-5058\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of prohibition denied."
+  },
+  "file_name": "0330-04",
+  "first_page_order": 330,
+  "last_page_order": 330
+}

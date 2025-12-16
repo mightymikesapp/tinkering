@@ -1,0 +1,64 @@
+{
+  "id": 12625422,
+  "name": "Thomas Kevin JENKINS, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jenkins v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7250",
+  "first_page": "1226",
+  "last_page": "1226",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1226"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 221"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 220,
+    "sha256": "9005a7c5d1f8ec776345e6f68aa5c4e75753648332fa5ea83cdbdf4204142433",
+    "simhash": "1:46afe64437005625",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Kevin JENKINS, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Kevin JENKINS, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7250\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1226-04",
+  "first_page_order": 1226,
+  "last_page_order": 1226
+}

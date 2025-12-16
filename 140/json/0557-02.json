@@ -1,0 +1,64 @@
+{
+  "id": 12629530,
+  "name": "William N. LUCY, Petitioner v. Mary COOKS",
+  "name_abbreviation": "Lucy v. Cooks",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 19-6345",
+  "first_page": "557",
+  "last_page": "557",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 557"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 365"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 212,
+    "sha256": "521101c9a94404b8527a3c5e4d7402910ffad30f7479086d4faa6f719b54452e",
+    "simhash": "1:f0adc2c433252391",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William N. LUCY, Petitioner\nv.\nMary COOKS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William N. LUCY, Petitioner\nv.\nMary COOKS\nNo. 19-6345\nSupreme Court of the United States.\nNovember 25, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0557-02",
+  "first_page_order": 557,
+  "last_page_order": 557
+}

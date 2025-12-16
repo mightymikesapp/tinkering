@@ -1,0 +1,83 @@
+{
+  "id": 12618018,
+  "name": "Joseph VAN SACH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Van Sach v. United States",
+  "decision_date": "2019-02-25",
+  "docket_number": "No. 17\u20138740.",
+  "first_page": "1255",
+  "last_page": "1255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1255"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 544",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12623291
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0544-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 505,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636149829584659
+    },
+    "sha256": "e650708c0f8d494ee67e270b820fc4ea12772c5b9e7e7047e031d238d505c943",
+    "simhash": "1:3cad64640f868699",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph VAN SACH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Seventh Circuit in light of Stokeling v. United States, 586 U.S. ----, 139 S.Ct. 544, 202 L.E.2d 512 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph VAN SACH, petitioner,\nv.\nUNITED STATES.\nNo. 17-8740.\nSupreme Court of the United States\nFeb. 25, 2019.\nOn petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Seventh Circuit in light of Stokeling v. United States, 586 U.S. ----, 139 S.Ct. 544, 202 L.E.2d 512 (2019)."
+  },
+  "file_name": "1255-03",
+  "first_page_order": 1255,
+  "last_page_order": 1255
+}

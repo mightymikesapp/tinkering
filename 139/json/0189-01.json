@@ -1,0 +1,64 @@
+{
+  "id": 12620180,
+  "name": "James FOX, petitioner, v. Brick TRIPP, et al.",
+  "name_abbreviation": "Fox v. Tripp",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20139533.",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 189"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 116"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 210,
+    "sha256": "f18e9081c1f8674dfb763f9538f2a94c6600267076bff9a34e12fcb7a201e346",
+    "simhash": "1:72bff01c3a4d469f",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James FOX, petitioner,\nv.\nBrick TRIPP, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James FOX, petitioner,\nv.\nBrick TRIPP, et al.\nNo. 17-9533.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0189-01",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

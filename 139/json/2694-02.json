@@ -1,0 +1,64 @@
+{
+  "id": 12621447,
+  "name": "In Re Randy A. JONES, petitioner.",
+  "name_abbreviation": "In re Jones",
+  "decision_date": "2019-06-10",
+  "docket_number": "No. 18\u20138541.",
+  "first_page": "2694",
+  "last_page": "2694",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2694"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 141,
+    "sha256": "c517bf61011268dc886b9c20032e6bb105096e8046d117da31fe04632d3fe622",
+    "simhash": "1:48e15026e7fbc319",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Randy A. JONES, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Randy A. JONES, petitioner.\nNo. 18-8541.\nSupreme Court of the United States\nJune 10, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2694-02",
+  "first_page_order": 2694,
+  "last_page_order": 2694
+}

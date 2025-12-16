@@ -1,0 +1,64 @@
+{
+  "id": 12627668,
+  "name": "IN RE Ramsey RANDALL, Petitioner.",
+  "name_abbreviation": "In re Randall",
+  "decision_date": "2020-04-27",
+  "docket_number": "No. 19-7058.",
+  "first_page": "2734",
+  "last_page": "2734",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2734"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 864"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 130,
+    "sha256": "101f96652b153599c9090ca1d7329cdf1f1cb33f53e9f3473c0548229beeca50",
+    "simhash": "1:f31f74402f885be6",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Ramsey RANDALL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Ramsey RANDALL, Petitioner.\nNo. 19-7058.\nSupreme Court of the United States.\nApril 27, 2020\nPetition for rehearing denied."
+  },
+  "file_name": "2734-05",
+  "first_page_order": 2734,
+  "last_page_order": 2734
+}

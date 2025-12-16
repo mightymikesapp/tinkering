@@ -1,0 +1,64 @@
+{
+  "id": 12628256,
+  "name": "IN RE Isidro ROMAN, Petitioner.",
+  "name_abbreviation": "In re Roman",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5200.",
+  "first_page": "289",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 289"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "911b949ffdd2aa94b1dee95c19c1410c86862c74f379a63f03431ebb10cf27d9",
+    "simhash": "1:404e6050d640c221",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Isidro ROMAN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Isidro ROMAN, Petitioner.\nNo. 19-5200.\nSupreme Court of the United States.\nOct. 7, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0289-05",
+  "first_page_order": 289,
+  "last_page_order": 289
+}

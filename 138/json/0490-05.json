@@ -1,0 +1,64 @@
+{
+  "id": 12615483,
+  "name": "Elton GARY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gary v. United States",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 17\u20136456.",
+  "first_page": "490",
+  "last_page": "490",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 490"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 372"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "b78fa9b5f16e45b5770a0e0c74c97784285bb43799e2e1bddc96120ea0b90ed1",
+    "simhash": "1:892dc64436844781",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Elton GARY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Elton GARY, petitioner,\nv.\nUNITED STATES.\nNo. 17-6456.\nSupreme Court of the United States\nNov. 27, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0490-05",
+  "first_page_order": 490,
+  "last_page_order": 490
+}

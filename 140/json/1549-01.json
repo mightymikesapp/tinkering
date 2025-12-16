@@ -1,0 +1,64 @@
+{
+  "id": 12626004,
+  "name": "David K. HOWELL, Petitioner, v. Shawn HATTON, Warden.",
+  "name_abbreviation": "Howell v. Hatton",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19-7590.",
+  "first_page": "1549",
+  "last_page": "1549",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1549"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 219,
+    "sha256": "eac63f50151e8228837bf8e21e5d0e8f51c5e333bd5013498d0dfd30ba3a7354",
+    "simhash": "1:f32ff6463f8501bb",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David K. HOWELL, Petitioner,\nv.\nShawn HATTON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David K. HOWELL, Petitioner,\nv.\nShawn HATTON, Warden.\nNo. 19-7590.\nSupreme Court of the United States.\nMarch 9, 2020.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1549-01",
+  "first_page_order": 1549,
+  "last_page_order": 1549
+}

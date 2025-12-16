@@ -1,0 +1,64 @@
+{
+  "id": 12628252,
+  "name": "Andres SOTO, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Soto v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5554",
+  "first_page": "289",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 289"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 206,
+    "sha256": "5053d08297291e0ce38f5279b0bc1982bbc373f09afa90c662675373eb398325",
+    "simhash": "1:f2ad764c2f065325",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andres SOTO, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andres SOTO, Petitioner\nv.\nUNITED STATES\nNo. 19-5554\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0289-01",
+  "first_page_order": 289,
+  "last_page_order": 289
+}

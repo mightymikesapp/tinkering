@@ -1,0 +1,64 @@
+{
+  "id": 12612308,
+  "name": "Jose Ernesto FLORES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Flores v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139751.",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 189"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 113"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "6087a48bdf3270292f3e3715693ec342ea8295ccd214bc21f8b52f32441d56e0",
+    "simhash": "1:a3aff2642e2d86b5",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Ernesto FLORES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Ernesto FLORES, petitioner,\nv.\nUNITED STATES.\nNo. 16-9751.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0189-04",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

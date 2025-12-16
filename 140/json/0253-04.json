@@ -1,0 +1,64 @@
+{
+  "id": 12626804,
+  "name": "Jose ARROYO, Petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Arroyo v. Illinois",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5254",
+  "first_page": "253",
+  "last_page": "253",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 253"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 194,
+    "sha256": "d31442dddb17e75c3d063ba06a123d51df7aedd015c6dead8bf4f3839d1638f7",
+    "simhash": "1:e8af5e9efa90c188",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose ARROYO, Petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose ARROYO, Petitioner,\nv.\nILLINOIS.\nNo. 19-5254\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "0253-04",
+  "first_page_order": 253,
+  "last_page_order": 253
+}

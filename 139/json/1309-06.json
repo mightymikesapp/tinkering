@@ -1,0 +1,64 @@
+{
+  "id": 12618375,
+  "name": "John TEDESCO, petitioner, v. MONROE COUNTY, PENNSYLVANIA, et al.",
+  "name_abbreviation": "Tedesco v. Monroe Cnty.",
+  "decision_date": "2019-03-04",
+  "docket_number": "No. 18\u20136509.",
+  "first_page": "1309",
+  "last_page": "1309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1309"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 430"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 160,
+    "sha256": "26a6b7c26a130eb450fef0dc819653d8b708097062d2df694aa86602eccc10eb",
+    "simhash": "1:33ba9c463ef0d607",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John TEDESCO, petitioner,\nv.\nMONROE COUNTY, PENNSYLVANIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John TEDESCO, petitioner,\nv.\nMONROE COUNTY, PENNSYLVANIA, et al.\nNo. 18-6509.\nSupreme Court of the United States\nMarch 4, 2019.\nPetition for rehearing denied."
+  },
+  "file_name": "1309-06",
+  "first_page_order": 1309,
+  "last_page_order": 1309
+}

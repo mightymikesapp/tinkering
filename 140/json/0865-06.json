@@ -1,0 +1,64 @@
+{
+  "id": 12630433,
+  "name": "IN RE Arturo Rodriguez ORNALEZ, Petitioner",
+  "name_abbreviation": "In re Ornalez",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6659",
+  "first_page": "865",
+  "last_page": "865",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 865"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 507"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 150,
+    "sha256": "51b9aff43a9266c31a1b8e2eaf8820c00214dc3571a390f192c9f9918f52e9df",
+    "simhash": "1:c0a37406d8d0a54c",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Arturo Rodriguez ORNALEZ, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Arturo Rodriguez ORNALEZ, Petitioner\nNo. 19-6659\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of prohibition denied."
+  },
+  "file_name": "0865-06",
+  "first_page_order": 865,
+  "last_page_order": 865
+}

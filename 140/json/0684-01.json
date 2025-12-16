@@ -1,0 +1,225 @@
+{
+  "id": 12630080,
+  "name": "ARIZONA v. CALIFORNIA",
+  "name_abbreviation": "Arizona v. California",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 150 ORIG",
+  "first_page": "684",
+  "last_page": "685",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 684"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "502 U.S. 437",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6228362
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "474",
+          "parenthetical": "dissenting opinion"
+        },
+        {
+          "parenthetical": "dissenting opinion"
+        },
+        {
+          "parenthetical": "dissenting opinion"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/502/0437-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 493",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11713414
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "498"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/401/0493-01"
+      ]
+    },
+    {
+      "cite": "425 U.S. 794",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182647
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "797",
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/425/0794-01"
+      ]
+    },
+    {
+      "cite": "194 L.Ed.2d 545",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12596261,
+        12596262,
+        12596263,
+        12596264,
+        12594871
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "opinion dissenting from denial of motion for leave to file complaint"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/1483-05",
+        "/s-ct/136/1483-06",
+        "/s-ct/136/1483-07",
+        "/s-ct/136/1484-01",
+        "/s-ct/136/1034-02"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 1034",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12594870,
+        12594871
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1035",
+          "parenthetical": "opinion dissenting from denial of motion for leave to file complaint"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/1034-01",
+        "/s-ct/136/1034-02"
+      ]
+    },
+    {
+      "cite": "6 Wheat. 264",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        11730243
+      ],
+      "weight": 2,
+      "year": 1821,
+      "pin_cites": [
+        {
+          "page": "404",
+          "parenthetical": "Marshall, C.J., for the Court"
+        },
+        {
+          "parenthetical": "Marshall, C.J., for the Court"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/19/0264-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7\u00a7 1254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 228,
+    "char_count": 2583,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26366730261107885
+    },
+    "sha256": "54621a74354fc77c8a72e2759031c1ddf7092d7712cba6597051f5f9b7639542",
+    "simhash": "1:34369b368bf8659f",
+    "word_count": 426
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ARIZONA\nv.\nCALIFORNIA"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The motion for leave to file a bill of complaint is denied.",
+      "Justice THOMAS, with whom Justice ALITO joins, dissenting from denial of motion for leave to file complaint.",
+      "Cohens v. Virginia, 6 Wheat. 264, 404, 5 L.Ed. 257 (1821) (Marshall, C.J., for the Court).",
+      "Our original jurisdiction in suits between two States is also \"exclusive.\" \u00a7 1251(a). As I have previously explained, \"[i]f this Court does not exercise jurisdiction over a controversy between two States, then the complaining State has no judicial forum in which to seek relief.\" Nebraska v. Colorado , 577 U.S. ----, ----, 136 S.Ct. 1034, 1035, 194 L.Ed.2d 545 (2016) (opinion dissenting from denial of motion for leave to file complaint). Denying leave to file in a case between two or more States is thus not only textually suspect, but also inequitable.",
+      "The Court has provided scant justification for reading \"shall\" to mean \"may.\" It has invoked its \"increasing duties with the appellate docket,\" Arizona v. New Mexico , 425 U.S. 794, 797, 96 S.Ct. 1845, 48 L.Ed.2d 376 (1976) (per curiam ) (internal quotation marks omitted), and its \"structur[e] ... as an appellate tribunal,\" Ohio v. Wyandotte Chemicals Corp. , 401 U.S. 493, 498, 91 S.Ct. 1005, 28 L.Ed.2d 256 (1971). But the Court has failed to provide any analysis of the Constitution's text to justify our discretionary approach."
+    ],
+    "corrections": "",
+    "head_matter": "ARIZONA\nv.\nCALIFORNIA\nNo. 150 ORIG\nSupreme Court of the United States.\nDecided February 24, 2020\nThe motion for leave to file a bill of complaint is denied.\nJustice THOMAS, with whom Justice ALITO joins, dissenting from denial of motion for leave to file complaint.\nToday the Court denies Arizona leave to file a complaint against California. Although we have discretion to decline review in other kinds of cases, see 28 U.S.C. \u00a7\u00a7 1254(1), 1257(a), we likely do not have discretion to decline review in cases within our original jurisdiction that arise between two or more States.\nThe Constitution establishes our original jurisdiction in mandatory terms. Article III states that, \"[i]n all Cases ... in which a State shall be [a] Party, the supreme Court shall have original Jurisdiction.\" \u00a7 2, cl. 2 (emphasis added). In this circumstance, \"[w]e have no more right to decline the exercise of jurisdiction which is given, than to usurp that which is not given.\"\nCohens v. Virginia, 6 Wheat. 264, 404, 5 L.Ed. 257 (1821) (Marshall, C.J., for the Court).\nOur original jurisdiction in suits between two States is also \"exclusive.\" \u00a7 1251(a). As I have previously explained, \"[i]f this Court does not exercise jurisdiction over a controversy between two States, then the complaining State has no judicial forum in which to seek relief.\" Nebraska v. Colorado , 577 U.S. ----, ----, 136 S.Ct. 1034, 1035, 194 L.Ed.2d 545 (2016) (opinion dissenting from denial of motion for leave to file complaint). Denying leave to file in a case between two or more States is thus not only textually suspect, but also inequitable.\nThe Court has provided scant justification for reading \"shall\" to mean \"may.\" It has invoked its \"increasing duties with the appellate docket,\" Arizona v. New Mexico , 425 U.S. 794, 797, 96 S.Ct. 1845, 48 L.Ed.2d 376 (1976) (per curiam ) (internal quotation marks omitted), and its \"structur[e] ... as an appellate tribunal,\" Ohio v. Wyandotte Chemicals Corp. , 401 U.S. 493, 498, 91 S.Ct. 1005, 28 L.Ed.2d 256 (1971). But the Court has failed to provide any analysis of the Constitution's text to justify our discretionary approach.\nAlthough I have applied this Court's precedents in the past, see Wyoming v. Oklahoma , 502 U.S. 437, 474, n., 112 S.Ct. 789, 117 L.Ed.2d 1 (1992) (dissenting opinion), I have since come to question those decisions, see Nebraska , supra, at ----, 136 S.Ct. at, 1035 (dissenting opinion). Arizona invites us to reconsider our discretionary approach, and I would do so. I respectfully dissent from the denial of leave to file a complaint."
+  },
+  "file_name": "0684-01",
+  "first_page_order": 684,
+  "last_page_order": 685
+}

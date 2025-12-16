@@ -1,0 +1,64 @@
+{
+  "id": 12612234,
+  "name": "Bailey Joe MILLS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Mills v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139676.",
+  "first_page": "178",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 178"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "279522c938d72be52fc3cebf2416d7521e9a0b41c18dab1684888e639c327f4b",
+    "simhash": "1:c3ef84441b244711",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bailey Joe MILLS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bailey Joe MILLS, petitioner,\nv.\nUNITED STATES.\nNo. 16-9676.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0178-07",
+  "first_page_order": 178,
+  "last_page_order": 179
+}

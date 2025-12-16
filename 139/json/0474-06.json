@@ -1,0 +1,90 @@
+{
+  "id": 12623099,
+  "name": "NCTA-THE INTERNET AND TELEVISION ASSOCIATION, petitioner, v. FEDERAL COMMUNICATIONS COMMISSION, et al.",
+  "name_abbreviation": "NCTA-the Internet & Television Ass'n v. Fed. Commc'ns Comm'n",
+  "decision_date": "2018-11-05",
+  "docket_number": "No. 17\u2013502.",
+  "first_page": "474",
+  "last_page": "475",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 474"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 361"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": -1
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 2,
+      "year": 1950,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 70,
+    "char_count": 717,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636340960418928
+    },
+    "sha256": "54663426030833a08dbd3c9ace798b79f809032795c1ae02307d6f5459b0584d",
+    "simhash": "1:3bef82c68f0007c2",
+    "word_count": 115
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NCTA-THE INTERNET AND TELEVISION ASSOCIATION, petitioner,\nv.\nFEDERAL COMMUNICATIONS COMMISSION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied. Justice THOMAS, Justice ALITO, and Justice GORSUCH would grant the petition, vacate the judgment of the United States Court of Appeals for the District of Columbia Circuit, and remand to that court with instructions to dismiss the cases as moot. See United States v. Munsingwear, Inc., 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950)."
+    ],
+    "corrections": "",
+    "head_matter": "NCTA-THE INTERNET AND TELEVISION ASSOCIATION, petitioner,\nv.\nFEDERAL COMMUNICATIONS COMMISSION, et al.\nNo. 17-502.\nSupreme Court of the United States\nNov. 5, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied. Justice THOMAS, Justice ALITO, and Justice GORSUCH would grant the petition, vacate the judgment of the United States Court of Appeals for the District of Columbia Circuit, and remand to that court with instructions to dismiss the cases as moot. See United States v. Munsingwear, Inc., 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950).\nTHE CHIEF JUSTICE and Justice KAVANAUGH took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0474-06",
+  "first_page_order": 474,
+  "last_page_order": 475
+}

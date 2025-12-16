@@ -1,0 +1,64 @@
+{
+  "id": 12626680,
+  "name": "Tyrone FELDER, Petitioner, v. UNITED STATES",
+  "name_abbreviation": "Felder v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5032",
+  "first_page": "250",
+  "last_page": "250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 250"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "364e9720bf8b6f4873f08ecc33d07e50f24b689106af2e57b52943881ce7cd7d",
+    "simhash": "1:faad26c63f82d105",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tyrone FELDER, Petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tyrone FELDER, Petitioner,\nv.\nUNITED STATES\nNo. 19-5032\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0250-01",
+  "first_page_order": 250,
+  "last_page_order": 250
+}

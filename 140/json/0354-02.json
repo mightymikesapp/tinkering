@@ -1,0 +1,94 @@
+{
+  "id": 12628555,
+  "name": "Louie M. SCHEXNAYDER, Jr. v. Darrel VANNOY, Warden",
+  "name_abbreviation": "Schexnayder v. Vannoy",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 18-8341",
+  "first_page": "354",
+  "last_page": "355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 354"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "993 So.2d 203",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        8200723
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/993/0203-01"
+      ]
+    },
+    {
+      "cite": "2009 WL 1808718",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "*4"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 257,
+    "char_count": 3129,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636609315832699
+    },
+    "sha256": "ce62a1583c2f3467a7d5dddd925dc0e6d07fe70c57d2905dbad35f1893591124",
+    "simhash": "1:efbed8c5b53fd279",
+    "word_count": 495
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Louie M. SCHEXNAYDER, Jr.\nv.\nDarrel VANNOY, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "Statement of Justice SOTOMAYOR respecting the denial of certiorari.\nIn 2007, a former employee of Louisiana's Fifth Circuit Court of Appeal shot himself in his courthouse office. The employee left a suicide note claiming that he had been tormented by his involvement in that Court of Appeal's secret, 13-year policy of summarily denying pro se appeals. Purpura, Fifth Circuit Ordered To Review Appeals; Due Process Denied, Supreme Court Says, New Orleans, La., Times-Picayune, Oct. 7, 2008, p. 1. The note reportedly stated that no judge had reviewed a habeas application filed by a pro se inmate during that time; instead, courthouse staff prepared rulings that judges signed \"without so much as a glance\" at the underlying petitions or any review of the applications' merits. Johnson v. Parish of Jefferson , 2009 WL 1808718, *4 (E.D. La., June 19, 2009).\nIn response to this revelation, the Louisiana Supreme Court approved a procedure whereby a three-judge panel-drawn from the same pool of Court of Appeal judges who had allegedly summarily rejected pro se filings-would re-review hundreds of pro se submissions that had been dismissed without consideration. State v. Cordero , 2008-1717 (La. 10/3/08), 993 So.2d 203. Justice John L. Weimer dissented from that decision, arguing that the cases should be assigned to judges sitting on other courts of appeal to \"avoid any appearance of impropriety.\" Id. , at 214.\nPetitioner's case, which primarily challenges the effectiveness of his counsel and various trial errors, was one of the many matters swept up in the Louisiana Court of Appeal's original review process and the re-review remedy ordered by the Louisiana Supreme Court. After the state courts dismissed his claims, petitioner filed for federal habeas relief. He argued that the Louisiana courts did not fairly review his filings on the merits-either originally or through the re-review process-and so he was entitled to de novo federal review without any of the deference ordinarily afforded to state-court rulings under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA). The Magistrate Judge dismissed the habeas petition after applying AEDPA deference.\nPetitioner, who was pro se during various stages of the lower court proceedings, did not clearly set forth his claim that he was entitled to habeas review without AEDPA deference when he sought a certificate of appealability from the District Court and, later, the United States Court of Appeals for the Fifth Circuit. Accordingly, the Court of Appeals was not fairly presented with the opportunity to resolve the issue that petitioner now presents to this Court. For this reason, I do not dissent from this Court's denial of certiorari. The re-review procedure adopted by the Louisiana courts, however, raises serious due process concerns. I expect that lower federal courts will examine the issue of what deference is due to these decisions when it is properly raised.",
+        "type": "majority",
+        "author": "Statement of Justice SOTOMAYOR respecting the denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The petition for a writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Louie M. SCHEXNAYDER, Jr.\nv.\nDarrel VANNOY, Warden\nNo. 18-8341\nSupreme Court of the United States.\nDecided December 9, 2019\nThe petition for a writ of certiorari is denied."
+  },
+  "file_name": "0354-02",
+  "first_page_order": 354,
+  "last_page_order": 355
+}

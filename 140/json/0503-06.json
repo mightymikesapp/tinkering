@@ -1,0 +1,64 @@
+{
+  "id": 12629242,
+  "name": "IN RE D'Angelo Hildan SHIPMAN, Petitioner",
+  "name_abbreviation": "In re Shipman",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-6317",
+  "first_page": "503",
+  "last_page": "503",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 503"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "b5a0445c9b5ee88ceab1e3dca814f40bc9091d49f57b07a704288ff4d3ec4af0",
+    "simhash": "1:6894024053588149",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE D'Angelo Hildan SHIPMAN, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE D'Angelo Hildan SHIPMAN, Petitioner\nNo. 19-6317\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0503-06",
+  "first_page_order": 503,
+  "last_page_order": 503
+}

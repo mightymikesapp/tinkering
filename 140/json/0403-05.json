@@ -1,0 +1,64 @@
+{
+  "id": 12628714,
+  "name": "Pedro MUNOZ, aka Pedro Munoz Ruiz, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Munoz v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5922",
+  "first_page": "403",
+  "last_page": "403",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 403"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 231,
+    "sha256": "f584a9a056b5474b0a6a00de06ecd40e2011d6e0240589d5d0fefa00b071b546",
+    "simhash": "1:ebad6644b78c5069",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro MUNOZ, aka Pedro Munoz Ruiz, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro MUNOZ, aka Pedro Munoz Ruiz, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5922\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0403-05",
+  "first_page_order": 403,
+  "last_page_order": 403
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12626261,
+  "name": "Peter Alfred PEREZ, Petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Perez v. Michigan",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9199",
+  "first_page": "187",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 187"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 64"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 186,
+    "sha256": "52dc751b98e5313b4d8e696dc76f8adeb7acefb9fa0f75df3aa84f6bc1232f93",
+    "simhash": "1:78df5672b2c281bd",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peter Alfred PEREZ, Petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Peter Alfred PEREZ, Petitioner,\nv.\nMICHIGAN.\nNo. 18-9199\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "0187-01",
+  "first_page_order": 187,
+  "last_page_order": 187
+}

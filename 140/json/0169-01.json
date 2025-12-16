@@ -1,0 +1,64 @@
+{
+  "id": 12626134,
+  "name": "Joseph John VIOLA, Petitioner, v. ARIZONA.",
+  "name_abbreviation": "Viola v. Arizona",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9471",
+  "first_page": "169",
+  "last_page": "169",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 169"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 84"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 197,
+    "sha256": "789deb8657c5f5948ff7e23302df97f042a4f83249e3d659fc9efe6b2c0372c8",
+    "simhash": "1:e8ff745eb38108f5",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph John VIOLA, Petitioner,\nv.\nARIZONA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Arizona, Division One denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph John VIOLA, Petitioner,\nv.\nARIZONA.\nNo. 18-9471\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Arizona, Division One denied."
+  },
+  "file_name": "0169-01",
+  "first_page_order": 169,
+  "last_page_order": 169
+}

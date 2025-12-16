@@ -1,0 +1,64 @@
+{
+  "id": 12612069,
+  "name": "Patricia HOLTZ, et al., petitioners, v. JPMORGAN CHASE BANK, N.A., et al.",
+  "name_abbreviation": "Holtz v. JPMorgan Chase Bank, N.A.",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20131536.",
+  "first_page": "170",
+  "last_page": "170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 170"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 41"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 239,
+    "sha256": "96642250d27cc50b1518ea3ffbd4a460c5640587403fe3c7a5f2341851a75d6b",
+    "simhash": "1:17af62cc0701363a",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patricia HOLTZ, et al., petitioners,\nv.\nJPMORGAN CHASE BANK, N.A., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patricia HOLTZ, et al., petitioners,\nv.\nJPMORGAN CHASE BANK, N.A., et al.\nNo. 16-1536.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0170-03",
+  "first_page_order": 170,
+  "last_page_order": 170
+}

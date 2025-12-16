@@ -1,0 +1,64 @@
+{
+  "id": 12629604,
+  "name": "IN RE Mary CAPRI, Petitioner",
+  "name_abbreviation": "In re Capri",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5371",
+  "first_page": "57",
+  "last_page": "57",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 57"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "9c0ec81119390a74a7a458a2e578d9f1dcaa005b253cfce6d621d010a2e6b8b0",
+    "simhash": "1:eae7165cf2f01124",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Mary CAPRI, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Mary CAPRI, Petitioner\nNo. 19-5371\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0057-06",
+  "first_page_order": 57,
+  "last_page_order": 57
+}

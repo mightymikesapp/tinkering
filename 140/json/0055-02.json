@@ -1,0 +1,64 @@
+{
+  "id": 12629492,
+  "name": "Brian HOSKINS, Petitioner, v. UNITED STATES",
+  "name_abbreviation": "Hoskins v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-8636",
+  "first_page": "55",
+  "last_page": "55",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 55"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 50"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "973674ae3bbdd384ecee090006da4cb33d0c58007a9feb0f9cf58772b06b15c8",
+    "simhash": "1:7aad66c43b00d10d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian HOSKINS, Petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian HOSKINS, Petitioner,\nv.\nUNITED STATES\nNo. 18-8636\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0055-02",
+  "first_page_order": 55,
+  "last_page_order": 55
+}

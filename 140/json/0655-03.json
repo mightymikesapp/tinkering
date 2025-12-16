@@ -1,0 +1,64 @@
+{
+  "id": 12629951,
+  "name": "T.R. C., Petitioner v. WISCONSIN",
+  "name_abbreviation": "T.R. C. v. Wisconsin",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-436",
+  "first_page": "655",
+  "last_page": "655",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 655"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 387"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 187,
+    "sha256": "c3eda1822e3d2ed3674b41348ccb8fe65bdb13ebf3a269f57c2c233a6371de11",
+    "simhash": "1:f87f694c398663b1",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T.R. C., Petitioner\nv.\nWISCONSIN"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Wisconsin, District I denied."
+    ],
+    "corrections": "",
+    "head_matter": "T.R. C., Petitioner\nv.\nWISCONSIN\nNo. 19-436\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of certiorari to the Court of Appeals of Wisconsin, District I denied."
+  },
+  "file_name": "0655-03",
+  "first_page_order": 655,
+  "last_page_order": 655
+}

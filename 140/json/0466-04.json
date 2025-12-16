@@ -1,0 +1,64 @@
+{
+  "id": 12629042,
+  "name": "IN RE Donald Lee MCDONALD, Petitioner;",
+  "name_abbreviation": "In re McDonald",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-6247",
+  "first_page": "466",
+  "last_page": "466",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 466"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 148,
+    "sha256": "0432628866d9b11e92e3ca732ab3f42dafe9e0dbace2ec0fc314c39f0e7cd0ea",
+    "simhash": "1:7155520403f29550",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Donald Lee MCDONALD, Petitioner;"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Donald Lee MCDONALD, Petitioner;\nNo. 19-6247\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0466-04",
+  "first_page_order": 466,
+  "last_page_order": 466
+}

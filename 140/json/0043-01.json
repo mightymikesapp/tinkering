@@ -1,0 +1,83 @@
+{
+  "id": 12628851,
+  "name": "Daniel RODRIGUEZ, Petitioner, v. UNITED STATES; Julio Rivera-Lopez, Petitioner, v. United States; Kristian Torres, Petitioner, v. United States.",
+  "name_abbreviation": "Rodriguez v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9266",
+  "first_page": "43",
+  "last_page": "43",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 43"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2319",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620706
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2319-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 625,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636638275050013
+    },
+    "sha256": "e2681a722eed3a19f125e4694c638e18cbdafd1563d7f511845b1564935f576e",
+    "simhash": "1:68ac66c40d05160d",
+    "word_count": 98
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel RODRIGUEZ, Petitioner,\nv.\nUNITED STATES;"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of United States v. Davis , 588 U.S. ----, 139 S.Ct. 2319, 204 L.Ed.2d 757 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel RODRIGUEZ, Petitioner,\nv.\nUNITED STATES;\nJulio Rivera-Lopez, Petitioner,\nv.\nUnited States;\nKristian Torres, Petitioner,\nv.\nUnited States.\nNo. 18-9266\nSupreme Court of the United States.\nOctober 7, 2019\nOn petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of United States v. Davis , 588 U.S. ----, 139 S.Ct. 2319, 204 L.Ed.2d 757 (2019)."
+  },
+  "file_name": "0043-01",
+  "first_page_order": 43,
+  "last_page_order": 43
+}

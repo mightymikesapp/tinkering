@@ -1,0 +1,64 @@
+{
+  "id": 12628011,
+  "name": "IN RE John WALLACE, Petitioner.",
+  "name_abbreviation": "In re Wallace",
+  "decision_date": "2020-05-18",
+  "docket_number": "No. 19-7374.",
+  "first_page": "2799",
+  "last_page": "2799",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2799"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 959"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 126,
+    "sha256": "917043100944645570bcd248581640cf182bd20d0da9e5ff7c1db29c23bc577b",
+    "simhash": "1:a237de561448f46a",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE John WALLACE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE John WALLACE, Petitioner.\nNo. 19-7374.\nSupreme Court of the United States.\nMay 18, 2020\nPetition for rehearing denied."
+  },
+  "file_name": "2799-01",
+  "first_page_order": 2799,
+  "last_page_order": 2799
+}

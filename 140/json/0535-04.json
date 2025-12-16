@@ -1,0 +1,64 @@
+{
+  "id": 12629415,
+  "name": "William JAMES, et al., Petitioners v. Barbara HUNT, et al.",
+  "name_abbreviation": "James v. Hunt",
+  "decision_date": "2019-11-18",
+  "docket_number": "No. 19-390",
+  "first_page": "535",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 535"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 228,
+    "sha256": "1b08a2cb022b03c20f96bcb4385ceec8c28f3bc39d6c3366ec47b49f46b8c5da",
+    "simhash": "1:73a7b6ec930186d3",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William JAMES, et al., Petitioners\nv.\nBarbara HUNT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William JAMES, et al., Petitioners\nv.\nBarbara HUNT, et al.\nNo. 19-390\nSupreme Court of the United States.\nNovember 18, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0535-04",
+  "first_page_order": 535,
+  "last_page_order": 535
+}

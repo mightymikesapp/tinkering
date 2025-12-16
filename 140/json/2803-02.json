@@ -1,0 +1,64 @@
+{
+  "id": 12628043,
+  "name": "William T. SCHMITT, et al., Petitioners, v. Frank LAROSE, Ohio Secretary of State.",
+  "name_abbreviation": "Schmitt v. Larose",
+  "decision_date": "2020-05-26",
+  "docket_number": "No. 19-974.",
+  "first_page": "2803",
+  "last_page": "2803",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2803"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 245,
+    "sha256": "cf67c989b9e53a75457e57fcd7d2468b9f30bc415f93cedb4d2ba661fd70f87e",
+    "simhash": "1:54edc2023b8456a1",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William T. SCHMITT, et al., Petitioners,\nv.\nFrank LAROSE, Ohio Secretary of State."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William T. SCHMITT, et al., Petitioners,\nv.\nFrank LAROSE, Ohio Secretary of State.\nNo. 19-974.\nSupreme Court of the United States.\nMay 26, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "2803-02",
+  "first_page_order": 2803,
+  "last_page_order": 2803
+}

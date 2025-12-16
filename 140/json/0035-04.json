@@ -1,0 +1,60 @@
+{
+  "id": 12628550,
+  "name": "IN RE Charlene T. ROSA",
+  "name_abbreviation": "In re Rosa",
+  "decision_date": "2019-09-30",
+  "docket_number": "No. 19-5514 (R46-026)",
+  "first_page": "35",
+  "last_page": "35",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 35"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 208,
+    "sha256": "a5adce807ed6a858f1a2c3ce6aa811499f951ee38ef1f9155ae5a5954b9df211",
+    "simhash": "1:5cef305d5edbd656",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Charlene T. ROSA"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of habeas corpus was dismissed today pursuant to Rule 46 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Charlene T. ROSA\nNo. 19-5514 (R46-026)\nSupreme Court of the United States.\nSeptember 30, 2019\nThe petition for writ of habeas corpus was dismissed today pursuant to Rule 46 of the Rules of this Court."
+  },
+  "file_name": "0035-04",
+  "first_page_order": 35,
+  "last_page_order": 35
+}

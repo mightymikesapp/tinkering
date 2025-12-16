@@ -1,0 +1,64 @@
+{
+  "id": 12612995,
+  "name": "Jacob Brent SMITH, petitioner, v. TEXAS.",
+  "name_abbreviation": "Smith v. Texas",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135246.",
+  "first_page": "233",
+  "last_page": "233",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 233"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 186,
+    "sha256": "ead365329a9c59d1f919ace708663d3e1c61193cd3829cb036e303927c0224c5",
+    "simhash": "1:c92bf07f72c901b0",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jacob Brent SMITH, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jacob Brent SMITH, petitioner,\nv.\nTEXAS.\nNo. 17-5246.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0233-04",
+  "first_page_order": 233,
+  "last_page_order": 233
+}

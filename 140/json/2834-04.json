@@ -1,0 +1,64 @@
+{
+  "id": 12628198,
+  "name": "Charles E. JUSTISE, Sr., Petitioner, v. INDIANA.",
+  "name_abbreviation": "Justise v. Indiana",
+  "decision_date": "2020-06-01",
+  "docket_number": "No. 19-8168.",
+  "first_page": "2834",
+  "last_page": "2834",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2834"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 163"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 187,
+    "sha256": "68022b89df5cbdf2970598895a6786c68de6b82183f190b03bec803785e8ca1a",
+    "simhash": "1:524f540623c1a5b8",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles E. JUSTISE, Sr., Petitioner,\nv.\nINDIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Indiana denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles E. JUSTISE, Sr., Petitioner,\nv.\nINDIANA.\nNo. 19-8168.\nSupreme Court of the United States.\nJune 1, 2020\nPetition for writ of certiorari to the Court of Appeals of Indiana denied."
+  },
+  "file_name": "2834-04",
+  "first_page_order": 2834,
+  "last_page_order": 2834
+}

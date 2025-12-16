@@ -1,0 +1,64 @@
+{
+  "id": 12624059,
+  "name": "PRISON LEGAL NEWS, petitioner, v. Julie L. JONES, Secretary, Florida Department of Corrections.",
+  "name_abbreviation": "Prison Legal News v. Jones",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u2013355.",
+  "first_page": "795",
+  "last_page": "796",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 795"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 571"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 261,
+    "sha256": "0db6d7f1151f73a759d2942c6937ec6a80eae6ce842081671fa4a3ba03cc882d",
+    "simhash": "1:b96d7444b38002a9",
+    "word_count": 41
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PRISON LEGAL NEWS, petitioner,\nv.\nJulie L. JONES, Secretary, Florida Department of Corrections."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "PRISON LEGAL NEWS, petitioner,\nv.\nJulie L. JONES, Secretary, Florida Department of Corrections.\nNo. 18-355.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0795-06",
+  "first_page_order": 795,
+  "last_page_order": 796
+}

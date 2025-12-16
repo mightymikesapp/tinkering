@@ -1,0 +1,64 @@
+{
+  "id": 12622821,
+  "name": "In Re Christopher D. SCHNEIDER, petitioner.",
+  "name_abbreviation": "In re Schneider",
+  "decision_date": "2018-10-29",
+  "docket_number": "No. 18\u20135850.",
+  "first_page": "430",
+  "last_page": "430",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 430"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 340"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 165,
+    "sha256": "e501b5f2f5f88e5ef2c69ed3b222d3ce373beaf9fdcc6758ef4746242891d7ff",
+    "simhash": "1:e06b74d2e8d63e7b",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Christopher D. SCHNEIDER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Christopher D. SCHNEIDER, petitioner.\nNo. 18-5850.\nSupreme Court of the United States\nOct. 29, 2018.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0430-05",
+  "first_page_order": 430,
+  "last_page_order": 430
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12611673,
+  "name": "Zachary A. SMITH, petitioner, v. MISSOURI.",
+  "name_abbreviation": "Smith v. Missouri",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139568.",
+  "first_page": "157",
+  "last_page": "157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 157"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 94"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 200,
+    "sha256": "28e16bbb7f7304198c3daf93e6d7cedad6a6e84411c230feb8ad54a521a07290",
+    "simhash": "1:487f6ed73281a5bd",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Zachary A. SMITH, petitioner,\nv.\nMISSOURI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Missouri, Western District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Zachary A. SMITH, petitioner,\nv.\nMISSOURI.\nNo. 16-9568.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the Court of Appeals of Missouri, Western District denied."
+  },
+  "file_name": "0157-03",
+  "first_page_order": 157,
+  "last_page_order": 157
+}

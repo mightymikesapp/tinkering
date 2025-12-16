@@ -1,0 +1,64 @@
+{
+  "id": 12627849,
+  "name": "Carl LABAT, Petitioner, v. Darrel VANNOY, Warden.",
+  "name_abbreviation": "Labat v. Vannoy",
+  "decision_date": "2020-05-18",
+  "docket_number": "No. 19-6701.",
+  "first_page": "2769",
+  "last_page": "2769",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2769"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 940"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 213,
+    "sha256": "f3eeef4e4c246c65219cee4a5dd68128089bf7b65f80314537b4071a156a8b7a",
+    "simhash": "1:ffafd6cc352c3579",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carl LABAT, Petitioner,\nv.\nDarrel VANNOY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carl LABAT, Petitioner,\nv.\nDarrel VANNOY, Warden.\nNo. 19-6701.\nSupreme Court of the United States.\nMay 18, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "2769-02",
+  "first_page_order": 2769,
+  "last_page_order": 2769
+}

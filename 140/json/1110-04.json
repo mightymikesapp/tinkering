@@ -1,0 +1,64 @@
+{
+  "id": 12625036,
+  "name": "MISSOURI, EX REL. Darrin LAMASA, Petitioner, v. Michael WRIGHT, Associate Circuit Judge, 12th Judicial Circuit, Warren County, Missouri.",
+  "name_abbreviation": "Missouri ex rel. Lamasa v. Wright",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-711",
+  "first_page": "1110",
+  "last_page": "1110",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1110"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 272,
+    "sha256": "9390349fb7333dfa8440c970a1b18e7643a30763ab1f4dd493d0aac653d0527c",
+    "simhash": "1:e91c542c11320210",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MISSOURI, EX REL. Darrin LAMASA, Petitioner,\nv.\nMichael WRIGHT, Associate Circuit Judge, 12th Judicial Circuit, Warren County, Missouri."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Missouri denied."
+    ],
+    "corrections": "",
+    "head_matter": "MISSOURI, EX REL. Darrin LAMASA, Petitioner,\nv.\nMichael WRIGHT, Associate Circuit Judge, 12th Judicial Circuit, Warren County, Missouri.\nNo. 19-711\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the Supreme Court of Missouri denied."
+  },
+  "file_name": "1110-04",
+  "first_page_order": 1110,
+  "last_page_order": 1110
+}

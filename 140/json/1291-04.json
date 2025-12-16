@@ -1,0 +1,64 @@
+{
+  "id": 12625749,
+  "name": "Austin J. APPLETON, Petitioner, v. DLJ MORTGAGE CAPITAL, INC.",
+  "name_abbreviation": "Appleton v. DLJ Mortg. Capital, Inc.",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19M109",
+  "first_page": "1291",
+  "last_page": "1291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1291"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 373"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 213,
+    "sha256": "fdb50fe03897536b1c44ff71e84ba05126fd936e1a58ea52916e5dd2383cf475",
+    "simhash": "1:4acf7236d789f193",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Austin J. APPLETON, Petitioner,\nv.\nDLJ MORTGAGE CAPITAL, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Austin J. APPLETON, Petitioner,\nv.\nDLJ MORTGAGE CAPITAL, INC.\nNo. 19M109\nSupreme Court of the United States.\nMarch 9, 2020\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "1291-04",
+  "first_page_order": 1291,
+  "last_page_order": 1291
+}

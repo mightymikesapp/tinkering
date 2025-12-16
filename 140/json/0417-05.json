@@ -1,0 +1,64 @@
+{
+  "id": 12628787,
+  "name": "Emory CHILES, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Chiles v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5801",
+  "first_page": "417",
+  "last_page": "417",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 417"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "c92d0a40fbe6b204c3bd4c789bb97910bc3d308ec050f89592a7ff6e52459de4",
+    "simhash": "1:eaef6444bb88c40f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emory CHILES, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Emory CHILES, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5801\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0417-05",
+  "first_page_order": 417,
+  "last_page_order": 417
+}

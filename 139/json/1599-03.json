@@ -1,0 +1,79 @@
+{
+  "id": 12619662,
+  "name": "R.G. & G.R. HARRIS FUNERAL HOMES, INC., petitioner, v. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION, et al.",
+  "name_abbreviation": "R.G. & G.R. Harris Funeral Homes, Inc. v. Equal Emp't Opportunity Comm'n",
+  "decision_date": "2019-04-22",
+  "docket_number": "No. 18\u2013107.",
+  "first_page": "1599",
+  "last_page": "1599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "490 U.S. 228",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605428
+      ],
+      "weight": 3,
+      "year": 1989,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/490/0228-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 68,
+    "char_count": 523,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26361923031033857
+    },
+    "sha256": "26195f7d217c803ee13a3fb67ac0e26bd317de93cbbce08435a0a6c18519b8e7",
+    "simhash": "1:747f9f182ff01613",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R.G. & G.R. HARRIS FUNERAL HOMES, INC., petitioner,\nv.\nEQUAL EMPLOYMENT OPPORTUNITY COMMISSION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit granted limited to the following question: Whether Title VII prohibits discrimination against transgender people based on (1) their status as transgender (2) sex stereotyping under Price Waterhouse v. Hopkins, 490 U.S. 228, 109 S.Ct. 1775, 104 L.Ed.2d 268 (1989)."
+    ],
+    "corrections": "",
+    "head_matter": "R.G. & G.R. HARRIS FUNERAL HOMES, INC., petitioner,\nv.\nEQUAL EMPLOYMENT OPPORTUNITY COMMISSION, et al.\nNo. 18-107.\nSupreme Court of the United States\nApril 22, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit granted limited to the following question: Whether Title VII prohibits discrimination against transgender people based on (1) their status as transgender (2) sex stereotyping under Price Waterhouse v. Hopkins, 490 U.S. 228, 109 S.Ct. 1775, 104 L.Ed.2d 268 (1989)."
+  },
+  "file_name": "1599-03",
+  "first_page_order": 1599,
+  "last_page_order": 1599
+}

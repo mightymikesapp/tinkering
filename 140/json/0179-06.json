@@ -1,0 +1,64 @@
+{
+  "id": 12626211,
+  "name": "George HERNANDEZ, Petitioner v. UNITED STATES.",
+  "name_abbreviation": "Hernandez v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9748",
+  "first_page": "179",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 179"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 212,
+    "sha256": "92227e569121f6354b8bd6b751dac7e92d92a4a9a3dbec678fa21de92154bc3d",
+    "simhash": "1:e2af74e42604d10d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George HERNANDEZ, Petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George HERNANDEZ, Petitioner\nv.\nUNITED STATES.\nNo. 18-9748\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0179-06",
+  "first_page_order": 179,
+  "last_page_order": 179
+}

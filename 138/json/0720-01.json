@@ -1,0 +1,64 @@
+{
+  "id": 12616596,
+  "name": "Nikolay OTCHKOV, petitioner, v. Alan EVERETT, et al.",
+  "name_abbreviation": "Otchkov v. Everett",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17M74.",
+  "first_page": "720",
+  "last_page": "720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 720"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 524"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 203,
+    "sha256": "3124849a6734f6423813c2ab58aed777c9b5a8f6c129baa9a13ce4e773ed7049",
+    "simhash": "1:5be7500493d15538",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nikolay OTCHKOV, petitioner,\nv.\nAlan EVERETT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nikolay OTCHKOV, petitioner,\nv.\nAlan EVERETT, et al.\nNo. 17M74.\nSupreme Court of the United States\nJan. 8, 2018.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0720-01",
+  "first_page_order": 720,
+  "last_page_order": 720
+}

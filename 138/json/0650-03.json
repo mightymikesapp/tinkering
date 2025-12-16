@@ -1,0 +1,64 @@
+{
+  "id": 12616134,
+  "name": "Lee E. MOORE, petitioner, v. Betty MITCHELL, Warden.",
+  "name_abbreviation": "Moore v. Mitchell",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136239.",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 650"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 546"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "98b57323be0a08965b7c0a6e8b978e8fb61df482ce36f3bbd755a7e595b60b9e",
+    "simhash": "1:61bf46443a8544af",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lee E. MOORE, petitioner,\nv.\nBetty MITCHELL, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lee E. MOORE, petitioner,\nv.\nBetty MITCHELL, Warden.\nNo. 17-6239.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0650-03",
+  "first_page_order": 650,
+  "last_page_order": 650
+}

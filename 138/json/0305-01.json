@@ -1,0 +1,64 @@
+{
+  "id": 12614309,
+  "name": "William Roland BAKER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Baker v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135262.",
+  "first_page": "305",
+  "last_page": "305",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 305"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 218,
+    "sha256": "69f57a95615ea98d8d4cb78da02b2b12025386db1fce1c33039717a18483ad24",
+    "simhash": "1:f7afe665132f0773",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Roland BAKER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William Roland BAKER, petitioner,\nv.\nUNITED STATES.\nNo. 17-5262.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0305-01",
+  "first_page_order": 305,
+  "last_page_order": 305
+}

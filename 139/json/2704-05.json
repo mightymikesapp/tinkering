@@ -1,0 +1,114 @@
+{
+  "id": 12621520,
+  "name": "Robert Leonard WOOD, petitioner, v. UNITED STATES; and Robert Leonard Wood, petitioner, v. United States.",
+  "name_abbreviation": "Wood v. United States",
+  "decision_date": "2019-06-10",
+  "docket_number": "No. 18\u20139161.",
+  "first_page": "2704",
+  "last_page": "2704",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2704"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "202 L.Ed.2d 302",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12622506,
+        12622507,
+        12622508,
+        12618957,
+        12622511
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": " Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0373-06",
+        "/s-ct/139/0374-01",
+        "/s-ct/139/0374-02",
+        "/s-ct/139/0014-01",
+        "/s-ct/139/0374-05"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 14",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12618957
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": " Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0014-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 508,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636242499080062
+    },
+    "sha256": "6876965d010b1da1b06cc3409a0c0087cb1288522bb127a23ab70274f8f809ba",
+    "simhash": "1:f0e874a72d2f9719",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Leonard WOOD, petitioner,\nv.\nUNITED STATES; and Robert Leonard Wood, petitioner,\nv.\nUnited States."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.",
+      "Justice SOTOMAYOR, with whom Justice GINSBURG joins, dissenting from the denial of certiorari: I dissent for the reasons set out in Brown v. United States, 586 U.S. ----, 139 S.Ct. 14, 202 L.Ed.2d 302 (2018) ( Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Leonard WOOD, petitioner,\nv.\nUNITED STATES; and Robert Leonard Wood, petitioner,\nv.\nUnited States.\nNo. 18-9161.\nSupreme Court of the United States\nJune 10, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied.\nJustice SOTOMAYOR, with whom Justice GINSBURG joins, dissenting from the denial of certiorari: I dissent for the reasons set out in Brown v. United States, 586 U.S. ----, 139 S.Ct. 14, 202 L.Ed.2d 302 (2018) ( Sotomayor, J., dissenting)."
+  },
+  "file_name": "2704-05",
+  "first_page_order": 2704,
+  "last_page_order": 2704
+}

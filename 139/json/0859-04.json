@@ -1,0 +1,64 @@
+{
+  "id": 12624488,
+  "name": "State of MISSOURI, et al., plaintiffs, v. State of CALIFORNIA.",
+  "name_abbreviation": "Missouri v. California",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 148, Original.",
+  "first_page": "859",
+  "last_page": "859",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 859"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 564"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 223,
+    "sha256": "4d89da4da270c0e2915200057d50d26b8940cbbe319cd29ef88450b0c5a56765",
+    "simhash": "1:81a79a005ceb3c09",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of MISSOURI, et al., plaintiffs,\nv.\nState of CALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "Justice THOMAS would grant the motion.",
+        "type": "majority",
+        "author": "Justice THOMAS would grant the motion."
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a bill of complaint denied."
+    ],
+    "corrections": "",
+    "head_matter": "State of MISSOURI, et al., plaintiffs,\nv.\nState of CALIFORNIA.\nNo. 148, Original.\nSupreme Court of the United States\nJan. 7, 2019.\nMotion for leave to file a bill of complaint denied."
+  },
+  "file_name": "0859-04",
+  "first_page_order": 859,
+  "last_page_order": 859
+}

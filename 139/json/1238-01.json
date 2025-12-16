@@ -1,0 +1,62 @@
+{
+  "id": 12617891,
+  "name": "UNITED STATES, petitioner, v. Maurice Lamont DAVIS and Andre Levon Glover.",
+  "name_abbreviation": "United States v. Davis",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u2013431.",
+  "first_page": "1238",
+  "last_page": "1238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1238"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 213,
+    "sha256": "62a9b4ae8d30b06b7538c331c2403bb3c25e4b408a4b30f72aff9e02a8d145cf",
+    "simhash": "1:a2e577421727342d",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, petitioner,\nv.\nMaurice Lamont DAVIS and Andre Levon Glover."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "UNITED STATES, petitioner,\nv.\nMaurice Lamont DAVIS and Andre Levon Glover.\nNo. 18-431.\nSupreme Court of the United States\nFeb. 19, 2019.\nMotion of petitioner to dispense with printing the joint appendix granted."
+  },
+  "file_name": "1238-01",
+  "first_page_order": 1238,
+  "last_page_order": 1238
+}

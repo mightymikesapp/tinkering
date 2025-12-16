@@ -1,0 +1,64 @@
+{
+  "id": 12625832,
+  "name": "Donald R. PHILLIPS, Petitioner, v. KENTUCKY.",
+  "name_abbreviation": "Phillips v. Kentucky",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19-7468.",
+  "first_page": "1307",
+  "last_page": "1307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1307"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 186,
+    "sha256": "8799e898b898eba5f714e55a56488cc72d2b280d6cb7e7f2b6fc9122e8cdd726",
+    "simhash": "1:f62d56de4785e0db",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald R. PHILLIPS, Petitioner,\nv.\nKENTUCKY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Kentucky denied."
+    ],
+    "corrections": "",
+    "head_matter": "Donald R. PHILLIPS, Petitioner,\nv.\nKENTUCKY.\nNo. 19-7468.\nSupreme Court of the United States.\nMarch 9, 2020.\nPetition for writ of certiorari to the Court of Appeals of Kentucky denied."
+  },
+  "file_name": "1307-02",
+  "first_page_order": 1307,
+  "last_page_order": 1307
+}

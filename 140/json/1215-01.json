@@ -1,0 +1,64 @@
+{
+  "id": 12625363,
+  "name": "Fernando OLIVEROS, Petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Oliveros v. Illinois",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7141",
+  "first_page": "1215",
+  "last_page": "1215",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1215"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 198,
+    "sha256": "dc8a7317c36fa14fdd4b3d062afa978ec100702bb57caa12cc503d55ff3e0d81",
+    "simhash": "1:6dafb43e5a04c190",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fernando OLIVEROS, Petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fernando OLIVEROS, Petitioner,\nv.\nILLINOIS.\nNo. 19-7141\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "1215-01",
+  "first_page_order": 1215,
+  "last_page_order": 1215
+}

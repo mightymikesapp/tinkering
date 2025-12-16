@@ -1,0 +1,64 @@
+{
+  "id": 12623511,
+  "name": "Fidencio VALDEZ, petitioner, v. TEXAS.",
+  "name_abbreviation": "Valdez v. Texas",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 18\u2013369.",
+  "first_page": "595",
+  "last_page": "596",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 595"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 428"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 183,
+    "sha256": "dffecac26a840f66e0c33c6268ffacc4cfc151e3e1aa4cbca71932e97cd8aa0f",
+    "simhash": "1:78ebe69e73cd04e8",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fidencio VALDEZ, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fidencio VALDEZ, petitioner,\nv.\nTEXAS.\nNo. 18-369.\nSupreme Court of the United States\nDec. 3, 2018.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0595-06",
+  "first_page_order": 595,
+  "last_page_order": 596
+}

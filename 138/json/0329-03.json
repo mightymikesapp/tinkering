@@ -1,0 +1,64 @@
+{
+  "id": 12614461,
+  "name": "John JOHNSON, petitioner, v. Dennis DINGUS, Warden.",
+  "name_abbreviation": "Johnson v. Dingus",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135518.",
+  "first_page": "329",
+  "last_page": "329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 329"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 221"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 205,
+    "sha256": "a4daf3a4011c9cbd1334e682abf3de81b02fa6dbecbfa54e9a9fb6f36ceb47e3",
+    "simhash": "1:f96e5054129400bc",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John JOHNSON, petitioner,\nv.\nDennis DINGUS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "John JOHNSON, petitioner,\nv.\nDennis DINGUS, Warden.\nNo. 17-5518.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+  },
+  "file_name": "0329-03",
+  "first_page_order": 329,
+  "last_page_order": 329
+}

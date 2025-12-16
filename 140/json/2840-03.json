@@ -1,0 +1,64 @@
+{
+  "id": 12628229,
+  "name": "John STANCU, Petitioner, v. HYATT CORPORATION.",
+  "name_abbreviation": "Stancu v. Hyatt Corp.",
+  "decision_date": "2020-06-01",
+  "docket_number": "No. 19-8156.",
+  "first_page": "2840",
+  "last_page": "2840",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2840"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 167"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 289,
+    "sha256": "c049ba3ff598826935bf75b51d542bb03f984bc359e9e903a6bb9afe7a72c412",
+    "simhash": "1:f0fb7444330d86db",
+    "word_count": 47
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John STANCU, Petitioner,\nv.\nHYATT CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied. Justice Breyer took no part in the consideration or decision of this petition."
+    ],
+    "corrections": "",
+    "head_matter": "John STANCU, Petitioner,\nv.\nHYATT CORPORATION.\nNo. 19-8156.\nSupreme Court of the United States.\nJune 1, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied. Justice Breyer took no part in the consideration or decision of this petition."
+  },
+  "file_name": "2840-03",
+  "first_page_order": 2840,
+  "last_page_order": 2840
+}

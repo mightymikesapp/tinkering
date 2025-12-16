@@ -1,0 +1,64 @@
+{
+  "id": 12625300,
+  "name": "Guillermo HERRERA, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Herrera v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7149",
+  "first_page": "1165",
+  "last_page": "1165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1165"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 217,
+    "sha256": "89653d808468ee4cc9ebb001fdc6d64f6934e91968fde597d7759ebabe7a25ee",
+    "simhash": "1:c3ad76442fa7522b",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Guillermo HERRERA, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petitions for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Guillermo HERRERA, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7149\nSupreme Court of the United States.\nFebruary 24, 2020\nPetitions for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1165-02",
+  "first_page_order": 1165,
+  "last_page_order": 1165
+}

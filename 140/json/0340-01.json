@@ -1,0 +1,160 @@
+{
+  "id": 12628539,
+  "name": "Allen E. PEITHMAN, Jr., et al. v. UNITED STATES",
+  "name_abbreviation": "Peithman v. United States",
+  "decision_date": "2019-11-18",
+  "docket_number": "No. 19-16",
+  "first_page": "340",
+  "last_page": "340",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 340"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 349"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "917 F.3d 635",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12520332
+      ],
+      "weight": 2,
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "652-653"
+        },
+        {
+          "page": "652-653"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/917/0635-01"
+      ]
+    },
+    {
+      "cite": "867 F.3d 418",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12275281
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/867/0418-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 981",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)(C)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 853",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        },
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Stat. 2045",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 S.Ct. 1626",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12604669
+      ],
+      "weight": 3,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1626-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 172,
+    "char_count": 2064,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636597732145774
+    },
+    "sha256": "f74fcbf0e033046f980a51558e5a44726cb0e6feff369c2ff67c78a07349dd65",
+    "simhash": "1:ef8a71f7eb404782",
+    "word_count": 347
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Allen E. PEITHMAN, Jr., et al.\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "Justice SOTOMAYOR, dissenting from denial of certiorari.\nIn Honeycutt v. United States , 581 U. S. ----, 137 S.Ct. 1626, 198 L.Ed.2d 73 (2017), this Court held that joint-and-several liability is not permitted under 98 Stat. 2045, 21 U.S.C. \u00a7 853(a)(1), which mandates forfeiture of \"property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of \" certain drug crimes. 581 U. S., at ----, 137 S.Ct., at 1630. The Court of Appeals for the Third Circuit has since held that the reasoning of Honeycutt \"appl[ies] with equal force\" to 18 U.S.C. \u00a7 981(a)(1)(C), which is worded almost identically to 21 U.S.C. \u00a7 853(a)(1). United States v. Gjeli , 867 F.3d 418, 428 (2017).\nIn this case, the Court of Appeals for the Eighth Circuit reached a contrary conclusion. 917 F.3d 635, 652-653 (2019). It upheld a joint-and-several forfeiture order against petitioners under \u00a7 981(a)(1)(C), reasoning that Honeycutt does not apply to that provision. See 917 F.3d at 652-653. The Government now concedes error. According to the Government, there is no \"distinguishing 18 U.S.C. 981 from 21 U.S.C. 853 for purposes of joint and several liability.\" Brief in Opposition 6; see also id., at 10 (\"[T]he government has agreed that Honeycutt 's reasoning applies to Section 981(a)(1)(C)\"). Nevertheless, the Government maintains that there is an independent ground for the imposition of joint-and-several liability under \u00a7 981(a)(1)(C). See id., at 6-9. The Eighth Circuit, however, never addressed that proffered alternative ground for affirmance.\nBecause the Government now concedes that the rationale of Honeycutt applies equally to \u00a7 981(a)(1)(C) as it does to \u00a7 853(a)(1), I would grant the petition for certiorari, vacate the judgment below, and remand the case to allow the Eighth Circuit to reconsider its decision in light of the Government's concession.",
+        "type": "majority",
+        "author": "Justice SOTOMAYOR, dissenting from denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The petition for a writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Allen E. PEITHMAN, Jr., et al.\nv.\nUNITED STATES\nNo. 19-16\nSupreme Court of the United States.\nDecided November 18, 2019\nThe petition for a writ of certiorari is denied."
+  },
+  "file_name": "0340-01",
+  "first_page_order": 340,
+  "last_page_order": 340
+}

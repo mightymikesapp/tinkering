@@ -1,0 +1,64 @@
+{
+  "id": 12626998,
+  "name": "Gene RECHTZIGEL, Petitioner, v. MINNESOTA.",
+  "name_abbreviation": "Rechtzigel v. Minnesota",
+  "decision_date": "2020-03-30",
+  "docket_number": "No. 19-948.",
+  "first_page": "2569",
+  "last_page": "2569",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2569"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 498"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 184,
+    "sha256": "ee3abe4f674eb582e0fffc6db5d8e88703242642dc7c28d5ac3cd470a4517bd2",
+    "simhash": "1:68ef564643032099",
+    "word_count": 29
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gene RECHTZIGEL, Petitioner,\nv.\nMINNESOTA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Minnesota denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gene RECHTZIGEL, Petitioner,\nv.\nMINNESOTA.\nNo. 19-948.\nSupreme Court of the United States.\nMarch 30, 2020\nPetition for writ of certiorari to the Court of Appeals of Minnesota denied."
+  },
+  "file_name": "2569-03",
+  "first_page_order": 2569,
+  "last_page_order": 2569
+}

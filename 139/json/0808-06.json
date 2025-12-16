@@ -1,0 +1,64 @@
+{
+  "id": 12624145,
+  "name": "Ruby BLACKMON, petitioner, v. EATON CORPORATION.",
+  "name_abbreviation": "Blackmon v. Eaton Corp.",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136388.",
+  "first_page": "808",
+  "last_page": "809",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 808"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 593"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 212,
+    "sha256": "666618ec86809a63438cb4425d9e9bbb467d8e7959873aa3144c66cafc808e49",
+    "simhash": "1:f3ef6444328045a5",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ruby BLACKMON, petitioner,\nv.\nEATON CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ruby BLACKMON, petitioner,\nv.\nEATON CORPORATION.\nNo. 18-6388.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0808-06",
+  "first_page_order": 808,
+  "last_page_order": 809
+}

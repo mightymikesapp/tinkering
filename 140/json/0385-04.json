@@ -1,0 +1,64 @@
+{
+  "id": 12628621,
+  "name": "Tina DAVIS, Petitioner, v. TEXAS CHILDREN'S HOSPITAL.",
+  "name_abbreviation": "Davis v. Tex. Children's Hosp.",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5594",
+  "first_page": "385",
+  "last_page": "385",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 385"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 220,
+    "sha256": "671d67d24d550ec516e8135a9806feeb4d2f3ad8bcb388e9128664f00e76a9d7",
+    "simhash": "1:ebaf7c443ba803ac",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tina DAVIS, Petitioner,\nv.\nTEXAS CHILDREN'S HOSPITAL."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tina DAVIS, Petitioner,\nv.\nTEXAS CHILDREN'S HOSPITAL.\nNo. 19-5594\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0385-04",
+  "first_page_order": 385,
+  "last_page_order": 385
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12612930,
+  "name": "William KNOX, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Knox v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135177.",
+  "first_page": "224",
+  "last_page": "224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 224"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "acc98724a40072c4be896fed3ba9670883abdd0927e8428616cdba15019fd50e",
+    "simhash": "1:dbade6453f2c5501",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William KNOX, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William KNOX, petitioner,\nv.\nUNITED STATES.\nNo. 17-5177.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0224-01",
+  "first_page_order": 224,
+  "last_page_order": 224
+}

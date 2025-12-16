@@ -1,0 +1,64 @@
+{
+  "id": 12620058,
+  "name": "Janice FRANCE, petitioner, v. Sharon PATRICK.",
+  "name_abbreviation": "France v. Patrick",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20131684.",
+  "first_page": "171",
+  "last_page": "171",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 171"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 37"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 184,
+    "sha256": "631220c3d967d117d6d2a4373c328fddf8062d6969790a55d4f3900425248a56",
+    "simhash": "1:e8ff4ec40bcf04b8",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Janice FRANCE, petitioner,\nv.\nSharon PATRICK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Janice FRANCE, petitioner,\nv.\nSharon PATRICK.\nNo. 17-1684.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Court of Appeals of Georgia denied."
+  },
+  "file_name": "0171-05",
+  "first_page_order": 171,
+  "last_page_order": 171
+}

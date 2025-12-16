@@ -1,0 +1,64 @@
+{
+  "id": 12628697,
+  "name": "Melinda SCOTT, Petitioner v. Andrew CARLSON, et al.",
+  "name_abbreviation": "Scott v. Carlson",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5454",
+  "first_page": "400",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 400"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 221"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 219,
+    "sha256": "b3773ff5e409dc395660cee72bd72c1249ef54506361f3490049a2a76a2ea367",
+    "simhash": "1:6baf460c3fc00227",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Melinda SCOTT, Petitioner\nv.\nAndrew CARLSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Melinda SCOTT, Petitioner\nv.\nAndrew CARLSON, et al.\nNo. 19-5454\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0400-03",
+  "first_page_order": 400,
+  "last_page_order": 400
+}

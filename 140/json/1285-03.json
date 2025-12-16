@@ -1,0 +1,64 @@
+{
+  "id": 12625716,
+  "name": "Jose Luis URIAS-MARQUEZ, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Urias-Marquez v. United States",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-7512",
+  "first_page": "1285",
+  "last_page": "1285",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1285"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 266"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 218,
+    "sha256": "a048c641d5f63ffb098450537ca57b90bf3c0bfac3ebefc7fb46d595453c94f6",
+    "simhash": "1:afaf744537899a3f",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Luis URIAS-MARQUEZ, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Luis URIAS-MARQUEZ, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7512\nSupreme Court of the United States.\nMarch 2, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1285-03",
+  "first_page_order": 1285,
+  "last_page_order": 1285
+}

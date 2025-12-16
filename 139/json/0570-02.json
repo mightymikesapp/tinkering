@@ -1,0 +1,64 @@
+{
+  "id": 12623334,
+  "name": "John Randall QUINTERO, petitioner, v. NEVADA.",
+  "name_abbreviation": "Quintero v. Nevada",
+  "decision_date": "2018-11-19",
+  "docket_number": "No. 18\u20136019.",
+  "first_page": "570",
+  "last_page": "570",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 570"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 184,
+    "sha256": "c82d3c1117f09295ea3346ed515e1358259d60498966920318386681737c163a",
+    "simhash": "1:683fe08e22c100dc",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Randall QUINTERO, petitioner,\nv.\nNEVADA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Nevada denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Randall QUINTERO, petitioner,\nv.\nNEVADA.\nNo. 18-6019.\nSupreme Court of the United States\nNov. 19, 2018.\nPetition for writ of certiorari to the Court of Appeals of Nevada denied."
+  },
+  "file_name": "0570-02",
+  "first_page_order": 570,
+  "last_page_order": 570
+}

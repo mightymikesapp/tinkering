@@ -1,0 +1,64 @@
+{
+  "id": 12618359,
+  "name": "JENNIFER A., petitioner, v. GREGORY M., et al.",
+  "name_abbreviation": "Jennifer A. v. Gregory M.",
+  "decision_date": "2019-03-04",
+  "docket_number": "No. 18M110.",
+  "first_page": "1307",
+  "last_page": "1307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1307"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 413"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 199,
+    "sha256": "7f47979c2f363271b80f470829c865dc4395a059762a770a64ce1635220b2978",
+    "simhash": "1:7baf50061381d57a",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JENNIFER A., petitioner,\nv.\nGREGORY M., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "JENNIFER A., petitioner,\nv.\nGREGORY M., et al.\nNo. 18M110.\nSupreme Court of the United States\nMarch 4, 2019.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "1307-02",
+  "first_page_order": 1307,
+  "last_page_order": 1307
+}

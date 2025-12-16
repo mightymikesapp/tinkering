@@ -1,0 +1,62 @@
+{
+  "id": 12615825,
+  "name": "In the Matter of DISBARMENT OF Thomas Andrew CLARK.",
+  "name_abbreviation": "In re Clark",
+  "decision_date": "2017-12-04",
+  "docket_number": "No. D\u20132977.",
+  "first_page": "541",
+  "last_page": "541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 541"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 140,
+    "sha256": "9e2978533efd4a542e8c8d5427b8dd24ff0625d112b576de6ad4aea5607f2f13",
+    "simhash": "1:f262504237063260",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Thomas Andrew CLARK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Thomas Andrew CLARK.\nNo. D-2977.\nSupreme Court of the United States\nDec. 4, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0541-06",
+  "first_page_order": 541,
+  "last_page_order": 541
+}

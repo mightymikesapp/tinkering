@@ -1,0 +1,64 @@
+{
+  "id": 12630030,
+  "name": "Lamar LOVETT, Petitioner v. TEXAS",
+  "name_abbreviation": "Lovett v. Texas",
+  "decision_date": "2019-12-16",
+  "docket_number": "No. 19-6257",
+  "first_page": "671",
+  "last_page": "671",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 671"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 441"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 183,
+    "sha256": "a9064d24c86a5183b04538ce946b7d3b0fb96c4ff22110bde87dfa78b4f33a15",
+    "simhash": "1:782f0456a2c92535",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lamar LOVETT, Petitioner\nv.\nTEXAS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lamar LOVETT, Petitioner\nv.\nTEXAS\nNo. 19-6257\nSupreme Court of the United States.\nDecember 16, 2019\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0671-02",
+  "first_page_order": 671,
+  "last_page_order": 671
+}

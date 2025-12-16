@@ -1,0 +1,64 @@
+{
+  "id": 12630934,
+  "name": "Jose Joaquin RAMIREZ, Petitioner, v. Jeffrey C. BLOOM, et al.",
+  "name_abbreviation": "Ramirez v. Bloom",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-6741",
+  "first_page": "967",
+  "last_page": "967",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 967"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 126"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 229,
+    "sha256": "5563b08ddcaeced9113af68894b71c2bb5b1361336e4f1b379a2c9f4aba6b2c6",
+    "simhash": "1:fabfd4c4b74d318f",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Joaquin RAMIREZ, Petitioner,\nv.\nJeffrey C. BLOOM, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Joaquin RAMIREZ, Petitioner,\nv.\nJeffrey C. BLOOM, et al.\nNo. 19-6741\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0967-01",
+  "first_page_order": 967,
+  "last_page_order": 967
+}

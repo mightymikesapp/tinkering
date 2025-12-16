@@ -1,0 +1,64 @@
+{
+  "id": 12611057,
+  "name": "Bobby O. WILLIAMS, petitioner, v. Jacqueline LASHBROOK, Warden.",
+  "name_abbreviation": "Williams v. Lashbrook",
+  "decision_date": "2018-03-19",
+  "docket_number": "No. 17\u20136370.",
+  "first_page": "1321",
+  "last_page": "1321",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1321"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 508"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 160,
+    "sha256": "a0b7a7bdacfa4f9c363dc1641955bfe4c45bb8b71570d5be91749d284ad0e78f",
+    "simhash": "1:1b30580213b86f26",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bobby O. WILLIAMS, petitioner,\nv.\nJacqueline LASHBROOK, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bobby O. WILLIAMS, petitioner,\nv.\nJacqueline LASHBROOK, Warden.\nNo. 17-6370.\nSupreme Court of the United States\nMarch 19, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "1321-04",
+  "first_page_order": 1321,
+  "last_page_order": 1321
+}

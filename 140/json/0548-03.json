@@ -1,0 +1,64 @@
+{
+  "id": 12629482,
+  "name": "IN RE Benny STEWART, Petitioner.",
+  "name_abbreviation": "In re Stewart",
+  "decision_date": "2019-11-18",
+  "docket_number": "No. 18-9561",
+  "first_page": "548",
+  "last_page": "548",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 548"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 351"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 127,
+    "sha256": "45e02aab02d5d75ee1963cf94b43066efe84d79e9c37c81c55f980a31395072c",
+    "simhash": "1:a0e530c2b6c87725",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Benny STEWART, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Benny STEWART, Petitioner.\nNo. 18-9561\nSupreme Court of the United States.\nNov. 18, 2019\nPetition for rehearing denied."
+  },
+  "file_name": "0548-03",
+  "first_page_order": 548,
+  "last_page_order": 548
+}

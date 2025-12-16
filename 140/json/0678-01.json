@@ -1,0 +1,64 @@
+{
+  "id": 12630058,
+  "name": "FATHER, Petitioner v. MATERNAL GRANDPARENTS",
+  "name_abbreviation": "Father v. Maternal Grandparents",
+  "decision_date": "2019-12-16",
+  "docket_number": "No. 19-6250",
+  "first_page": "678",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 678"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 441"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 200,
+    "sha256": "73f0249b7080aec0d10f637c56f3e74cdfff7a901387ccc3c8a7fdbdce3b2843",
+    "simhash": "1:f07746059283a1bc",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FATHER, Petitioner\nv.\nMATERNAL GRANDPARENTS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+    ],
+    "corrections": "",
+    "head_matter": "FATHER, Petitioner\nv.\nMATERNAL GRANDPARENTS\nNo. 19-6250\nSupreme Court of the United States.\nDecember 16, 2019\nPetition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+  },
+  "file_name": "0678-01",
+  "first_page_order": 678,
+  "last_page_order": 678
+}

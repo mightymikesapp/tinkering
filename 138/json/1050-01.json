@@ -1,0 +1,62 @@
+{
+  "id": 12610370,
+  "name": "In the Matter of DISBARMENT OF Marvin R. SPARROW.",
+  "name_abbreviation": "In re Sparrow",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. D\u20132997.",
+  "first_page": "1050",
+  "last_page": "1050",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1050"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 139,
+    "sha256": "decd063195ba7a455d2c4e69ee954173655ff6490ac046060e257e0c9503cb25",
+    "simhash": "1:28275440beac4861",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Marvin R. SPARROW."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Marvin R. SPARROW.\nNo. D-2997.\nSupreme Court of the United States\nFeb. 20, 2018.\nDisbarment order entered."
+  },
+  "file_name": "1050-01",
+  "first_page_order": 1050,
+  "last_page_order": 1050
+}

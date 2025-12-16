@@ -1,0 +1,64 @@
+{
+  "id": 12621808,
+  "name": "In Re David Louis COLSON, petitioner.",
+  "name_abbreviation": "In re Colson",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135492.",
+  "first_page": "275",
+  "last_page": "275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 275"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "fac30743490f4ab3740941af0404ae9dfdd1766826ff99566fe2fb9e58cd4c51",
+    "simhash": "1:6ac730066edbc459",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re David Louis COLSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re David Louis COLSON, petitioner.\nNo. 18-5492.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0275-03",
+  "first_page_order": 275,
+  "last_page_order": 275
+}

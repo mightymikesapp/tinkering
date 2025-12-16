@@ -1,0 +1,64 @@
+{
+  "id": 12610875,
+  "name": "In Re Michael J. ROTONDO, petitioner.",
+  "name_abbreviation": "In re Rotondo",
+  "decision_date": "2018-03-19",
+  "docket_number": "No. 17\u20137393.",
+  "first_page": "1294",
+  "last_page": "1294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1294"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 506"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "8c3d7f70ce483ba403ae12e77ab1b925baa6966c3a9e7d48416143ca359267fe",
+    "simhash": "1:c82660141cad43bf",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Michael J. ROTONDO, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Michael J. ROTONDO, petitioner.\nNo. 17-7393.\nSupreme Court of the United States\nMarch 19, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1294-02",
+  "first_page_order": 1294,
+  "last_page_order": 1294
+}

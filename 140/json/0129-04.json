@@ -1,0 +1,64 @@
+{
+  "id": 12625740,
+  "name": "Ahmadou SANKARA, Applicant, v. William P. BARR, Attorney General.",
+  "name_abbreviation": "Sankara v. Barr",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19A56 (19\u20135005)",
+  "first_page": "129",
+  "last_page": "129",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 129"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 236,
+    "sha256": "ac1c9124f5284a521b343944bfb62a0167a147b75547aba6a0db22c578b9976a",
+    "simhash": "1:a2b9886c36802183",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ahmadou SANKARA, Applicant,\nv.\nWilliam P. BARR, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay of removal addressed to The Chief Justice and referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ahmadou SANKARA, Applicant,\nv.\nWilliam P. BARR, Attorney General.\nNo. 19A56 (19-5005)\nSupreme Court of the United States.\nOctober 7, 2019\nApplication for stay of removal addressed to The Chief Justice and referred to the Court denied."
+  },
+  "file_name": "0129-04",
+  "first_page_order": 129,
+  "last_page_order": 129
+}

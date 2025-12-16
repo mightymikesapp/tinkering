@@ -1,0 +1,64 @@
+{
+  "id": 12621006,
+  "name": "In Re Larry L. BRINSON, petitioner.",
+  "name_abbreviation": "In re Brinson",
+  "decision_date": "2019-05-20",
+  "docket_number": "No. 18\u20138967.",
+  "first_page": "2629",
+  "last_page": "2629",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2629"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 277"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "sha256": "07c92f3e5105910e5f518c44513d3030520686663e98af11f5c34d455783ff89",
+    "simhash": "1:68e7746823dacb8b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Larry L. BRINSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Larry L. BRINSON, petitioner.\nNo. 18-8967.\nSupreme Court of the United States\nMay 20, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2629-03",
+  "first_page_order": 2629,
+  "last_page_order": 2629
+}

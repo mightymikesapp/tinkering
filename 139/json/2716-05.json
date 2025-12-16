@@ -1,0 +1,64 @@
+{
+  "id": 12621600,
+  "name": "John L. LOTTER, petitioner, v. NEBRASKA.",
+  "name_abbreviation": "Lotter v. Nebraska",
+  "decision_date": "2019-06-17",
+  "docket_number": "No. 18\u20138415.",
+  "first_page": "2716",
+  "last_page": "2716",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2716"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1114"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 178,
+    "sha256": "f2aabc223e1ba692f10f6caa646d28c59390522724f9089d0fbaa52ee9e9eebb",
+    "simhash": "1:68af6444fa0402b5",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John L. LOTTER, petitioner,\nv.\nNEBRASKA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Nebraska denied."
+    ],
+    "corrections": "",
+    "head_matter": "John L. LOTTER, petitioner,\nv.\nNEBRASKA.\nNo. 18-8415.\nSupreme Court of the United States\nJune 17, 2019.\nPetition for writ of certiorari to the Supreme Court of Nebraska denied."
+  },
+  "file_name": "2716-05",
+  "first_page_order": 2716,
+  "last_page_order": 2716
+}

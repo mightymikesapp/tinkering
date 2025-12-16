@@ -1,0 +1,64 @@
+{
+  "id": 12629142,
+  "name": "Richard Joseph MARTIN, Petitioner v. TEXAS.",
+  "name_abbreviation": "Martin v. Texas",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-5797",
+  "first_page": "485",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 485"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 278"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 202,
+    "sha256": "be96a4f22c68a0ecb25ce55a41931b5a0904341ec1bc683df0c7719cb7be1d2a",
+    "simhash": "1:68dd760762410db0",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard Joseph MARTIN, Petitioner\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Eleventh District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard Joseph MARTIN, Petitioner\nv.\nTEXAS.\nNo. 19-5797\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of certiorari to the Court of Appeals of Texas, Eleventh District denied."
+  },
+  "file_name": "0485-03",
+  "first_page_order": 485,
+  "last_page_order": 485
+}

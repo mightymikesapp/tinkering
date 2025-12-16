@@ -1,0 +1,64 @@
+{
+  "id": 12617269,
+  "name": "In Re Larry CHARLES, petitioner.",
+  "name_abbreviation": "In re Charles",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20137060.",
+  "first_page": "997",
+  "last_page": "997",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 997"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "8c68f3954966817d597c4a517b56478bf8152bb390ce0de10318ca74086afe7a",
+    "simhash": "1:7967d474aae55173",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Larry CHARLES, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Larry CHARLES, petitioner.\nNo. 17-7060.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0997-04",
+  "first_page_order": 997,
+  "last_page_order": 997
+}

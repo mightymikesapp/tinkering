@@ -1,0 +1,64 @@
+{
+  "id": 12628307,
+  "name": "Michael WOOLLS, Petitioner, v. VIRGINIA.",
+  "name_abbreviation": "Woolls v. Virginia",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5500",
+  "first_page": "297",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 297"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 207,
+    "sha256": "b8297c50a1c6d48ff1f7aafa1102fa52425ff3a3b93fd7dbee3a27b4abe62d2d",
+    "simhash": "1:faad54cc2a025109",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael WOOLLS, Petitioner,\nv.\nVIRGINIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael WOOLLS, Petitioner,\nv.\nVIRGINIA.\nNo. 19-5500\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0297-05",
+  "first_page_order": 297,
+  "last_page_order": 297
+}

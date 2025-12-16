@@ -1,0 +1,64 @@
+{
+  "id": 12630300,
+  "name": "Kenan IVERY, Petitioner, v. OHIO.",
+  "name_abbreviation": "Ivery v. Ohio",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9146",
+  "first_page": "84",
+  "last_page": "84",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 84"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 60"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 186,
+    "sha256": "d8393d9dc3cb52e91182a964d6aa3e8348df3270f15a3c0f2e15ab32a48fb471",
+    "simhash": "1:606f461806800192",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenan IVERY, Petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Summit County denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenan IVERY, Petitioner,\nv.\nOHIO.\nNo. 18-9146\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Ohio, Summit County denied."
+  },
+  "file_name": "0084-02",
+  "first_page_order": 84,
+  "last_page_order": 84
+}

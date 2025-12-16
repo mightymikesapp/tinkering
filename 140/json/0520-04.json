@@ -1,0 +1,64 @@
+{
+  "id": 12629339,
+  "name": "GOOGLE LLC, Petitioner v. ORACLE AMERICA, INC.",
+  "name_abbreviation": "Google LLC v. Oracle Am., Inc.",
+  "decision_date": "2019-11-15",
+  "docket_number": "No. 18-956",
+  "first_page": "520",
+  "last_page": "520",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 520"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 300,
+    "sha256": "6d1159cb17a2dcc2f65064791027f99f9c00688dff47c607f790377c900b84d8",
+    "simhash": "1:52aed4263a6d8f8d",
+    "word_count": 50
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GOOGLE LLC, Petitioner\nv.\nORACLE AMERICA, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of 78 Computer Scientists for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "GOOGLE LLC, Petitioner\nv.\nORACLE AMERICA, INC.\nNo. 18-956\nSupreme Court of the United States.\nNovember 15, 2019\nMotion of 78 Computer Scientists for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit granted."
+  },
+  "file_name": "0520-04",
+  "first_page_order": 520,
+  "last_page_order": 520
+}

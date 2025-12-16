@@ -1,0 +1,64 @@
+{
+  "id": 12624283,
+  "name": "Mark JOHNSON, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Johnson v. Illinois",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136610.",
+  "first_page": "829",
+  "last_page": "829",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 829"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 193,
+    "sha256": "8b99b2dbbf9c1d8d48fada626a4ed3abebe24557630cd39a8b13fd6e2247f874",
+    "simhash": "1:d9ef62542ac8838a",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark JOHNSON, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Third District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark JOHNSON, petitioner,\nv.\nILLINOIS.\nNo. 18-6610.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the Appellate Court of Illinois, Third District denied."
+  },
+  "file_name": "0829-01",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

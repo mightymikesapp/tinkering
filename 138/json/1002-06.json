@@ -1,0 +1,64 @@
+{
+  "id": 12610040,
+  "name": "Ryan Daniel JONES-ADAMS, petitioner, v. MINNESOTA.",
+  "name_abbreviation": "Jones-Adams v. Minnesota",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20137100.",
+  "first_page": "1002",
+  "last_page": "1002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1002"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 192,
+    "sha256": "d3b3534dddee7ea0a21caef7b09865f316f6d6b571bb08b27d43a849c0551dfb",
+    "simhash": "1:68ee564003d64489",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ryan Daniel JONES-ADAMS, petitioner,\nv.\nMINNESOTA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Minnesota denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ryan Daniel JONES-ADAMS, petitioner,\nv.\nMINNESOTA.\nNo. 17-7100.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of certiorari to the Court of Appeals of Minnesota denied."
+  },
+  "file_name": "1002-06",
+  "first_page_order": 1002,
+  "last_page_order": 1002
+}

@@ -1,0 +1,83 @@
+{
+  "id": 12614671,
+  "name": "Tavares J. WRIGHT, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Wright v. Florida",
+  "decision_date": "2017-10-16",
+  "docket_number": "No. 17\u20135575.",
+  "first_page": "360",
+  "last_page": "360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 360"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 260"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 1039",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12602607
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/1039-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 457,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263608611930657
+    },
+    "sha256": "3cafcca24be5d399d7ca128cea3e8eecb1002c7b38dd401c1a35ed4a7bccff26",
+    "simhash": "1:ca86301c39650799",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tavares J. WRIGHT, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Supreme Court of Florida. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Florida for further consideration in light of Moore v. Texas, 581 U.S. ----, 137 S.Ct. 1039, 197 L.Ed.2d 416 (2017)."
+    ],
+    "corrections": "",
+    "head_matter": "Tavares J. WRIGHT, petitioner,\nv.\nFLORIDA.\nNo. 17-5575.\nSupreme Court of the United States\nOct. 16, 2017.\nOn petition for writ of certiorari to the Supreme Court of Florida. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Florida for further consideration in light of Moore v. Texas, 581 U.S. ----, 137 S.Ct. 1039, 197 L.Ed.2d 416 (2017)."
+  },
+  "file_name": "0360-02",
+  "first_page_order": 360,
+  "last_page_order": 360
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12629327,
+  "name": "UNITED STATES, Petitioner v. Michael J.D. BRIGGS",
+  "name_abbreviation": "United States v. Briggs",
+  "decision_date": "2019-11-15",
+  "docket_number": "No. 19-108",
+  "first_page": "519",
+  "last_page": "520",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 519"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 333"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 296,
+    "sha256": "9e652bf28b9cf37cd4f3921b6a076d307c11c66d49ef81700564b6a267b50a9b",
+    "simhash": "1:57b566c4790300b4",
+    "word_count": 50
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, Petitioner\nv.\nMichael J.D. BRIGGS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Armed Forces granted. The case is consolidated, and a total of one hour is allotted for oral argument."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, Petitioner\nv.\nMichael J.D. BRIGGS\nNo. 19-108\nSupreme Court of the United States.\nNovember 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Armed Forces granted. The case is consolidated, and a total of one hour is allotted for oral argument."
+  },
+  "file_name": "0519-02",
+  "first_page_order": 519,
+  "last_page_order": 520
+}

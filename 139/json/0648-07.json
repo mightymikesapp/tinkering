@@ -1,0 +1,64 @@
+{
+  "id": 12623800,
+  "name": "In Re David HOSKINS, et al., petitioners.",
+  "name_abbreviation": "In re Hoskins",
+  "decision_date": "2018-12-10",
+  "docket_number": "No. 18\u20136551.",
+  "first_page": "648",
+  "last_page": "648",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 648"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 506"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 163,
+    "sha256": "efc477af47f5bd58150b35daf12a39794b6e38fa5a0fb2ae1d9feffea368fea2",
+    "simhash": "1:38a9c0103492351a",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re David HOSKINS, et al., petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re David HOSKINS, et al., petitioners.\nNo. 18-6551.\nSupreme Court of the United States\nDec. 10, 2018.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0648-07",
+  "first_page_order": 648,
+  "last_page_order": 648
+}

@@ -1,0 +1,83 @@
+{
+  "id": 12612401,
+  "name": "Ramon HERNANDEZ-RAMIREZ, aka Ramon Hernandez, petitioner, v. UNITED STATES Jose Armando Ramos, aka Jose Marquez-Ramos, petitioner, v. United States.",
+  "name_abbreviation": "Hernandez-Ramirez v. United States",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u20136065.",
+  "first_page": "1982",
+  "last_page": "1983",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1982"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1204",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610616
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 622,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635972213051803
+    },
+    "sha256": "15085b4c56a6eab135d40ac88c0ebb1e1e97be97650cae5c0c829a3e6ddfc0c5",
+    "simhash": "1:6faf64448e07869d",
+    "word_count": 98
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ramon HERNANDEZ-RAMIREZ, aka Ramon Hernandez, petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Ramon HERNANDEZ-RAMIREZ, aka Ramon Hernandez, petitioner,\nv.\nUNITED STATES\nJose Armando Ramos, aka Jose Marquez-Ramos, petitioner,\nv.\nUnited States.\nNo. 17-6065.\nSupreme Court of the United States\nMay 14, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+  },
+  "file_name": "1982-04",
+  "first_page_order": 1982,
+  "last_page_order": 1983
+}

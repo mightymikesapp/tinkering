@@ -1,0 +1,62 @@
+{
+  "id": 12630768,
+  "name": "Alan PHILIPP, et al., Petitioners, v. FEDERAL REPUBLIC OF GERMANY, et al.",
+  "name_abbreviation": "Philipp v. Fed. Republic of Ger.",
+  "decision_date": "2020-01-21",
+  "docket_number": "No. 19-520",
+  "first_page": "932",
+  "last_page": "932",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 932"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 521"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 245,
+    "sha256": "d1344208eb32f1ee52e593061ae0d64a487164fe1527bee06b8c40849ee306c8",
+    "simhash": "1:faaf5eac2d64c342",
+    "word_count": 42
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alan PHILIPP, et al., Petitioners,\nv.\nFEDERAL REPUBLIC OF GERMANY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Alan PHILIPP, et al., Petitioners,\nv.\nFEDERAL REPUBLIC OF GERMANY, et al.\nNo. 19-520\nSupreme Court of the United States.\nJanuary 21, 2020\nThe Solicitor General is invited to file a brief in this cases expressing the views of the United States."
+  },
+  "file_name": "0932-02",
+  "first_page_order": 932,
+  "last_page_order": 932
+}

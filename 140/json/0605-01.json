@@ -1,0 +1,83 @@
+{
+  "id": 12629691,
+  "name": "Roosevelt Leon COOPER, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Cooper v. United States",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-5852",
+  "first_page": "605",
+  "last_page": "605",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 605"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 380"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2191",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620627
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2191-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 539,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636667234267326
+    },
+    "sha256": "fc202cddc52e173d20151855e6dd184319437acfcd6bde8f9084c76b6cf650c1",
+    "simhash": "1:7ca9e6c40906861d",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roosevelt Leon COOPER, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Roosevelt Leon COOPER, Petitioner\nv.\nUNITED STATES\nNo. 19-5852\nSupreme Court of the United States.\nDecember 9, 2019\nOn petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+  },
+  "file_name": "0605-01",
+  "first_page_order": 605,
+  "last_page_order": 605
+}

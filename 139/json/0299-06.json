@@ -1,0 +1,64 @@
+{
+  "id": 12622130,
+  "name": "Carlton I. CHARLES, petitioner, v. Sandy McCAIN, Warden.",
+  "name_abbreviation": "Charles v. McCain",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18M11.",
+  "first_page": "299",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 299"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 10"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 207,
+    "sha256": "01ae18422e1d22f85f79703982ce6dcddd5f58bc04793efd12dd527050dabeef",
+    "simhash": "1:398e72140bc91f31",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlton I. CHARLES, petitioner,\nv.\nSandy McCAIN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlton I. CHARLES, petitioner,\nv.\nSandy McCAIN, Warden.\nNo. 18M11.\nSupreme Court of the United States\nOct. 1, 2018.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0299-06",
+  "first_page_order": 299,
+  "last_page_order": 299
+}

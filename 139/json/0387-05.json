@@ -1,0 +1,64 @@
+{
+  "id": 12622592,
+  "name": "Charles Lee BURTON, petitioner, v. ALABAMA.",
+  "name_abbreviation": "Burton v. Alabama",
+  "decision_date": "2018-10-15",
+  "docket_number": "No. 18\u20135937.",
+  "first_page": "387",
+  "last_page": "387",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 387"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 296"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 192,
+    "sha256": "af53e6ee8f53289472889e71db7a674de9aa43ebfd80b68fde4520c3d7aa0fe1",
+    "simhash": "1:60a7265e62931495",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles Lee BURTON, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles Lee BURTON, petitioner,\nv.\nALABAMA.\nNo. 18-5937.\nSupreme Court of the United States\nOct. 15, 2018.\nPetition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+  },
+  "file_name": "0387-05",
+  "first_page_order": 387,
+  "last_page_order": 387
+}

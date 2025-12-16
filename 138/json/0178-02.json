@@ -1,0 +1,64 @@
+{
+  "id": 12612229,
+  "name": "Kenneth KIMBALL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Kimball v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139670.",
+  "first_page": "178",
+  "last_page": "178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 178"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "30bd0f5d101708a66e35986db22e1db2b58c8ab901d580fa1de244f70149f859",
+    "simhash": "1:f6ace6443f2d5735",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth KIMBALL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenneth KIMBALL, petitioner,\nv.\nUNITED STATES.\nNo. 16-9670.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0178-02",
+  "first_page_order": 178,
+  "last_page_order": 178
+}

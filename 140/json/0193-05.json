@@ -1,0 +1,64 @@
+{
+  "id": 12626307,
+  "name": "John ASMODEO, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Asmodeo v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5050",
+  "first_page": "193",
+  "last_page": "193",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 193"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "f785856c1498ce6b59c31a9ed03e8376c4960394170e6d6a81bf557154dfe4e0",
+    "simhash": "1:faad66c4be80900f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John ASMODEO, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John ASMODEO, Petitioner\nv.\nUNITED STATES\nNo. 19-5050\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0193-05",
+  "first_page_order": 193,
+  "last_page_order": 193
+}

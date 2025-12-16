@@ -1,0 +1,64 @@
+{
+  "id": 12623660,
+  "name": "Michelle McGUIRK, petitioner, v. AIRBNB, INC., et al.",
+  "name_abbreviation": "McGuirk v. Airbnb, Inc.",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 18M68.",
+  "first_page": "618",
+  "last_page": "618",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 618"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 424"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 206,
+    "sha256": "5f4ec625e13f4a231a3159627ce3cb3ad6bdca8a110f5ce11566214f49f5b511",
+    "simhash": "1:7be7520657c951f6",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michelle McGUIRK, petitioner,\nv.\nAIRBNB, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michelle McGUIRK, petitioner,\nv.\nAIRBNB, INC., et al.\nNo. 18M68.\nSupreme Court of the United States\nDec. 3, 2018.\nMotion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+  },
+  "file_name": "0618-06",
+  "first_page_order": 618,
+  "last_page_order": 618
+}

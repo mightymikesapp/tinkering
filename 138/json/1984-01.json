@@ -1,0 +1,83 @@
+{
+  "id": 12612406,
+  "name": "Rosa OROZCO, petitioner, v. Jefferson B. SESSIONS, III, Attorney General.",
+  "name_abbreviation": "Orozco v. Sessions",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u20136628.",
+  "first_page": "1984",
+  "last_page": "1984",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1984"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1204",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610616
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 547,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635981866124241
+    },
+    "sha256": "73635780cb3a33f12ad3f6a2d88bb3fe8dbd2841d0253a93582452494ef71cce",
+    "simhash": "1:daaf7244a30d079d",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rosa OROZCO, petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Rosa OROZCO, petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General.\nNo. 17-6628.\nSupreme Court of the United States\nMay 14, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+  },
+  "file_name": "1984-01",
+  "first_page_order": 1984,
+  "last_page_order": 1984
+}

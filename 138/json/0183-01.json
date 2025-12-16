@@ -1,0 +1,64 @@
+{
+  "id": 12612264,
+  "name": "Henry N. HARPER, petitioner, v. Clark SCOTT, Warden.",
+  "name_abbreviation": "Harper v. Scott",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139703.",
+  "first_page": "183",
+  "last_page": "183",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 183"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "6b15444a409dcb916e1a09a6ab7d2a41e0f3070bd4863cd29d37add6e063f6b2",
+    "simhash": "1:f0acc054172441a5",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry N. HARPER, petitioner,\nv.\nClark SCOTT, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Henry N. HARPER, petitioner,\nv.\nClark SCOTT, Warden.\nNo. 16-9703.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0183-01",
+  "first_page_order": 183,
+  "last_page_order": 183
+}

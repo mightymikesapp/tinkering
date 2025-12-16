@@ -1,0 +1,64 @@
+{
+  "id": 12616177,
+  "name": "Christopher COLBERT, et al., petitioners, v. CITY OF CHICAGO, ILLINOIS, et al.",
+  "name_abbreviation": "Colbert v. City of Chi.",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u2013595.",
+  "first_page": "657",
+  "last_page": "657",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 657"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 532"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "sha256": "b581a0f43139fd3c32b46a12bbefba2d33cf3e523204217aad48d58325d4e8c1",
+    "simhash": "1:332fe6843ac006ec",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher COLBERT, et al., petitioners,\nv.\nCITY OF CHICAGO, ILLINOIS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher COLBERT, et al., petitioners,\nv.\nCITY OF CHICAGO, ILLINOIS, et al.\nNo. 17-595.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0657-02",
+  "first_page_order": 657,
+  "last_page_order": 657
+}

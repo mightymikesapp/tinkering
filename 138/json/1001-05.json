@@ -1,0 +1,64 @@
+{
+  "id": 12610034,
+  "name": "In Re Larry SHANE, et al., petitioners.",
+  "name_abbreviation": "In re Shane",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u2013857.",
+  "first_page": "1001",
+  "last_page": "1001",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1001"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 141,
+    "sha256": "9b192cf1a901e62558e2fce1d59e2b0503be55009ff11bf3554e8f8fffcc6cb7",
+    "simhash": "1:68e7d464a273517d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Larry SHANE, et al., petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Larry SHANE, et al., petitioners.\nNo. 17-857.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1001-05",
+  "first_page_order": 1001,
+  "last_page_order": 1001
+}

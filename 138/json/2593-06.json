@@ -1,0 +1,64 @@
+{
+  "id": 12613305,
+  "name": "Pierre AZOR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Azor v. United States",
+  "decision_date": "2018-05-29",
+  "docket_number": "No. 17\u20138705.",
+  "first_page": "2593",
+  "last_page": "2594",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2593"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 206,
+    "sha256": "693189fbe1cce51cb8b0369310782697587d0ae72a30d6e40ddd6310b766c078",
+    "simhash": "1:5bafe6463a36d4ad",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pierre AZOR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pierre AZOR, petitioner,\nv.\nUNITED STATES.\nNo. 17-8705.\nSupreme Court of the United States\nMay 29, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "2593-06",
+  "first_page_order": 2593,
+  "last_page_order": 2594
+}

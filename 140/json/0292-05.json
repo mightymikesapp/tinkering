@@ -1,0 +1,64 @@
+{
+  "id": 12628279,
+  "name": "IN RE Charles L. COX, Petitioner",
+  "name_abbreviation": "In re Cox",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5380",
+  "first_page": "292",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 292"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 136,
+    "sha256": "20eb510ccdbab517ebb3ba7237da5974f3467025d93b78e31667bc2a94ce19db",
+    "simhash": "1:ea2f0a04b0901025",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Charles L. COX, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Charles L. COX, Petitioner\nNo. 19-5380\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0292-05",
+  "first_page_order": 292,
+  "last_page_order": 292
+}

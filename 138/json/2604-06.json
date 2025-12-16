@@ -1,0 +1,64 @@
+{
+  "id": 12613378,
+  "name": "In Re Jane DOE, petitioner.",
+  "name_abbreviation": "In re Doe",
+  "decision_date": "2018-06-04",
+  "docket_number": "No. 17\u20138302.",
+  "first_page": "2604",
+  "last_page": "2604",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2604"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 1022"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 148,
+    "sha256": "a33c66756a44e752c81fb0eaf0248ed4c9862f341702cb5766e1603303a91c7f",
+    "simhash": "1:a8b960143a23051f",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Jane DOE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Jane DOE, petitioner.\nNo. 17-8302.\nSupreme Court of the United States\nJune 4, 2018.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "2604-06",
+  "first_page_order": 2604,
+  "last_page_order": 2604
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12615886,
+  "name": "Robert WILLIAMSON, petitioner, v. David PARKER, Warden.",
+  "name_abbreviation": "Williamson v. Parker",
+  "decision_date": "2017-12-11",
+  "docket_number": "No. 17\u20136250.",
+  "first_page": "560",
+  "last_page": "560",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 560"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 441"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 220,
+    "sha256": "f8e43848cfbaac41e20506ae8b429dc54cb1c54f9b2e6dde024e8edeb883cf16",
+    "simhash": "1:b2af544c39041101",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert WILLIAMSON, petitioner,\nv.\nDavid PARKER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert WILLIAMSON, petitioner,\nv.\nDavid PARKER, Warden.\nNo. 17-6250.\nSupreme Court of the United States\nDec. 11, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0560-02",
+  "first_page_order": 560,
+  "last_page_order": 560
+}

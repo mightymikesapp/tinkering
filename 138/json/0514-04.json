@@ -1,0 +1,64 @@
+{
+  "id": 12615633,
+  "name": "In Re Elaine I. BRADLEY, et al., petitioners.",
+  "name_abbreviation": "In re Bradley",
+  "decision_date": "2017-12-04",
+  "docket_number": "No. 17\u2013483.",
+  "first_page": "514",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 514"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 409"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 146,
+    "sha256": "7471292f2f7ca1e1b5f8ab86a385edd7637047a04d99cf8158954f3065e5efcf",
+    "simhash": "1:7aef304ce680707c",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Elaine I. BRADLEY, et al., petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Elaine I. BRADLEY, et al., petitioners.\nNo. 17-483.\nSupreme Court of the United States\nDec. 4, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0514-04",
+  "first_page_order": 514,
+  "last_page_order": 514
+}

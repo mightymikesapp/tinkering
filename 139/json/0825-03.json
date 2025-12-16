@@ -1,0 +1,64 @@
+{
+  "id": 12624261,
+  "name": "Mark JERVIS, petitioner, v. Richard BROWN, Warden.",
+  "name_abbreviation": "Jervis v. Brown",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136571.",
+  "first_page": "825",
+  "last_page": "825",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 825"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 601"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 216,
+    "sha256": "8a69995fc6aec2ccc7429a3e0c62a8c5830e6bd353140aff8dfb1519c951ba50",
+    "simhash": "1:e8af66442a8486a1",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark JERVIS, petitioner,\nv.\nRichard BROWN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark JERVIS, petitioner,\nv.\nRichard BROWN, Warden.\nNo. 18-6571.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0825-03",
+  "first_page_order": 825,
+  "last_page_order": 825
+}

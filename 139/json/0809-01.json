@@ -1,0 +1,64 @@
+{
+  "id": 12624146,
+  "name": "Valiant WHITE, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "White v. Michgan",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136390.",
+  "first_page": "809",
+  "last_page": "809",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 809"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 593"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 179,
+    "sha256": "5d75b3f0d609a0926f43312e543b63ab5b6f707317ec689c486855eedd0db3f4",
+    "simhash": "1:f9ef664422c4053d",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Valiant WHITE, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Valiant WHITE, petitioner,\nv.\nMICHIGAN.\nNo. 18-6390.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "0809-01",
+  "first_page_order": 809,
+  "last_page_order": 809
+}

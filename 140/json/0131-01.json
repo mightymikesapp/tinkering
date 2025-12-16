@@ -1,0 +1,64 @@
+{
+  "id": 12625835,
+  "name": "Daniel T. MORGAN, Applicant, v. Sheri A. MORGAN.",
+  "name_abbreviation": "Morgan v. Morgan",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19A143 (19-165)",
+  "first_page": "131",
+  "last_page": "131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 131"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 205,
+    "sha256": "8d6c0edfa8684e37268a95bbf25d462ef4bdf42a20b0813af07969f4c687d3f8",
+    "simhash": "1:e2ed8eec2585884e",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel T. MORGAN, Applicant,\nv.\nSheri A. MORGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay addressed to Justice Breyer and referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel T. MORGAN, Applicant,\nv.\nSheri A. MORGAN.\nNo. 19A143 (19-165)\nSupreme Court of the United States.\nOctober 7, 2019\nApplication for stay addressed to Justice Breyer and referred to the Court denied."
+  },
+  "file_name": "0131-01",
+  "first_page_order": 131,
+  "last_page_order": 131
+}

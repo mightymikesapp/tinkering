@@ -1,0 +1,64 @@
+{
+  "id": 12628889,
+  "name": "Joey LITTLE, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Little v. United States",
+  "decision_date": "2019-10-21",
+  "docket_number": "No. 19-6018",
+  "first_page": "436",
+  "last_page": "436",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 436"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 261"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "9719a9b46ac2f93db2a19d38054bc2f42d567f58bd87c2ca297e0d837fe9706c",
+    "simhash": "1:f9ed3644b30dd657",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joey LITTLE, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joey LITTLE, Petitioner\nv.\nUNITED STATES\nNo. 19-6018\nSupreme Court of the United States.\nOctober 21, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0436-05",
+  "first_page_order": 436,
+  "last_page_order": 436
+}

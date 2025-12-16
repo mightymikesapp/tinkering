@@ -1,0 +1,64 @@
+{
+  "id": 12617380,
+  "name": "Thomas Reid DeCARLO, petitioner, v. William TRUE, Warden.",
+  "name_abbreviation": "DeCarlo v. True",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20139101.",
+  "first_page": "113",
+  "last_page": "113",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 113"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 199"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 239,
+    "sha256": "b6e813fd6f099591d4f5571b5772be7ff5a3a8202a49c41e6e3ea98aea863342",
+    "simhash": "1:65ae70c409c816aa",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Reid DeCARLO, petitioner,\nv.\nWilliam TRUE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari before judgment to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Reid DeCARLO, petitioner,\nv.\nWilliam TRUE, Warden.\nNo. 17-9101.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari before judgment to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0113-04",
+  "first_page_order": 113,
+  "last_page_order": 113
+}

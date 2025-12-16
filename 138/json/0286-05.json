@@ -1,0 +1,64 @@
+{
+  "id": 12614191,
+  "name": "In Re Russell James LONGORIA, petitioner.",
+  "name_abbreviation": "In re Longoria",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135742.",
+  "first_page": "286",
+  "last_page": "286",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 286"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 148,
+    "sha256": "e42a7d584f0d654b87099e7b069286e1a35ba27a3f05d791289837b538ba0eec",
+    "simhash": "1:6a2e1610be3907d9",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Russell James LONGORIA, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Russell James LONGORIA, petitioner.\nNo. 17-5742.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0286-05",
+  "first_page_order": 286,
+  "last_page_order": 286
+}

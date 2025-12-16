@@ -1,0 +1,64 @@
+{
+  "id": 12615955,
+  "name": "TEXAS, plaintiff, v. NEW MEXICO and Colorado.",
+  "name_abbreviation": "Texas v. New Mexico",
+  "decision_date": "2017-12-11",
+  "docket_number": "No. 141, Original.",
+  "first_page": "570",
+  "last_page": "570",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 570"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 435"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 174,
+    "sha256": "f476ecdab3809f5c4aa0847acc2042615175944895d5f120576893e443a8dff5",
+    "simhash": "1:b2048882bdc36fd6",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TEXAS, plaintiff,\nv.\nNEW MEXICO and Colorado."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Solicitor General for divided argument granted."
+    ],
+    "corrections": "",
+    "head_matter": "TEXAS, plaintiff,\nv.\nNEW MEXICO and Colorado.\nNo. 141, Original.\nSupreme Court of the United States\nDec. 11, 2017.\nMotion of Solicitor General for divided argument granted."
+  },
+  "file_name": "0570-04",
+  "first_page_order": 570,
+  "last_page_order": 570
+}

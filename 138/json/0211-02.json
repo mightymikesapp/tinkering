@@ -1,0 +1,64 @@
+{
+  "id": 12612849,
+  "name": "John Clyde TIGHE, petitioner, v. Mary BERGHUIS, Warden.",
+  "name_abbreviation": "Tighe v. Berghuis",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135113.",
+  "first_page": "211",
+  "last_page": "211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 211"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 219,
+    "sha256": "023a00aa36b7c435d4bf8e343bf28030b660d72ea32966da881692c52d5fd505",
+    "simhash": "1:f3af56443aa897a1",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Clyde TIGHE, petitioner,\nv.\nMary BERGHUIS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Clyde TIGHE, petitioner,\nv.\nMary BERGHUIS, Warden.\nNo. 17-5113.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0211-02",
+  "first_page_order": 211,
+  "last_page_order": 211
+}

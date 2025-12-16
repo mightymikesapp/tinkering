@@ -1,0 +1,64 @@
+{
+  "id": 12618204,
+  "name": "John Felix GREER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Greer v. United States",
+  "decision_date": "2019-02-25",
+  "docket_number": "No. 18\u20137664.",
+  "first_page": "1284",
+  "last_page": "1284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1284"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 293"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "20bbf894b9264cb46fb613e73a4c02fed535787bc0d898f6147be02d664f4c6f",
+    "simhash": "1:78ad444422045715",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Felix GREER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Felix GREER, petitioner,\nv.\nUNITED STATES.\nNo. 18-7664.\nSupreme Court of the United States\nFeb. 25, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1284-03",
+  "first_page_order": 1284,
+  "last_page_order": 1284
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12618563,
+  "name": "Harry JONES, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Jones v. Florida",
+  "decision_date": "2019-03-18",
+  "docket_number": "No. 18\u20137428.",
+  "first_page": "1341",
+  "last_page": "1341",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1341"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 174,
+    "sha256": "70082019af0464be3ed2d4c0fc356120a0584f7042980dcd8ed1d39e6c36f827",
+    "simhash": "1:e2a534043ec54251",
+    "word_count": 28
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harry JONES, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Harry JONES, petitioner,\nv.\nFLORIDA.\nNo. 18-7428.\nSupreme Court of the United States\nMarch 18, 2019.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "1341-01",
+  "first_page_order": 1341,
+  "last_page_order": 1341
+}

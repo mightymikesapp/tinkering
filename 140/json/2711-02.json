@@ -1,0 +1,83 @@
+{
+  "id": 12627558,
+  "name": "ATLANTA GAS LIGHT COMPANY, Petitioner, v. BENNETT REGULATOR GUARDS, INC.",
+  "name_abbreviation": "Atlanta Gas Light Co. v. Bennett Regulator Guards, Inc.",
+  "decision_date": "2020-04-27",
+  "docket_number": "No. 18-999.",
+  "first_page": "2711",
+  "last_page": "2711",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2711"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 847"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "140 S.Ct. 1367",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12625869
+      ],
+      "weight": 2,
+      "year": 2020,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/140/1367-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 515,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26365552586270474
+    },
+    "sha256": "972346b5cb71fed09741a81d535a10f8a08368169097062eef140a1cb9f2e520",
+    "simhash": "1:4a2e6244254a03c9",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ATLANTA GAS LIGHT COMPANY, Petitioner,\nv.\nBENNETT REGULATOR GUARDS, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of Thryv, Inc. v. Click-to-Call Technologies, LP , 590 U.S. ----, 140 S.Ct. 1367, 206 L.Ed.2d 554 (2020)."
+    ],
+    "corrections": "",
+    "head_matter": "ATLANTA GAS LIGHT COMPANY, Petitioner,\nv.\nBENNETT REGULATOR GUARDS, INC.\nNo. 18-999.\nSupreme Court of the United States.\nApril 27, 2020\nOn petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of Thryv, Inc. v. Click-to-Call Technologies, LP , 590 U.S. ----, 140 S.Ct. 1367, 206 L.Ed.2d 554 (2020)."
+  },
+  "file_name": "2711-02",
+  "first_page_order": 2711,
+  "last_page_order": 2711
+}

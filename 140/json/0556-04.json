@@ -1,0 +1,64 @@
+{
+  "id": 12629527,
+  "name": "Arnold Bennett CALDWELL, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Caldwell v. United States",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 18-6852",
+  "first_page": "556",
+  "last_page": "557",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 556"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 222,
+    "sha256": "d50981817a8a9c775d66f67ad928108f152c73fd778375896b191ba95bc4980c",
+    "simhash": "1:70adc6443a05138d",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arnold Bennett CALDWELL, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arnold Bennett CALDWELL, Petitioner,\nv.\nUNITED STATES.\nNo. 18-6852\nSupreme Court of the United States.\nNovember 25, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0556-04",
+  "first_page_order": 556,
+  "last_page_order": 557
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12612569,
+  "name": "In re William A. LINDSEY, petitioner.",
+  "name_abbreviation": "In re Lindsey",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u20138417.",
+  "first_page": "2009",
+  "last_page": "2009",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2009"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "6a2c3d70d755f07e104a09692a0e44ca00e0fcfa020780638c1c8a116bed1b8d",
+    "simhash": "1:084f464668b474fb",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re William A. LINDSEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re William A. LINDSEY, petitioner.\nNo. 17-8417.\nSupreme Court of the United States\nMay 14, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "2009-04",
+  "first_page_order": 2009,
+  "last_page_order": 2009
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12623475,
+  "name": "Cleveland BRANDON, petitioner, v. David R. WILSON, Warden.",
+  "name_abbreviation": "Brandon v. Wilson",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138274.",
+  "first_page": "59",
+  "last_page": "60",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 59"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 43"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 223,
+    "sha256": "49600900f415af26fe607345da1bf4c4592fe2f30d240395f4fb858451bd1a86",
+    "simhash": "1:73ff660c3b45c5a3",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cleveland BRANDON, petitioner,\nv.\nDavid R. WILSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cleveland BRANDON, petitioner,\nv.\nDavid R. WILSON, Warden.\nNo. 17-8274.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0059-06",
+  "first_page_order": 59,
+  "last_page_order": 60
+}

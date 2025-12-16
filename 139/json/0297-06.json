@@ -1,0 +1,64 @@
+{
+  "id": 12622118,
+  "name": "Charles O. KEENE, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Keene v. Illinois",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135822.",
+  "first_page": "297",
+  "last_page": "297",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 297"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 197,
+    "sha256": "d421cddcc85cd5dbe75136cf4bdbfcd8c7fef0971377c7005918ea900524425f",
+    "simhash": "1:70aef6144804a418",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles O. KEENE, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Fifth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles O. KEENE, petitioner,\nv.\nILLINOIS.\nNo. 18-5822.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Appellate Court of Illinois, Fifth District denied."
+  },
+  "file_name": "0297-06",
+  "first_page_order": 297,
+  "last_page_order": 297
+}

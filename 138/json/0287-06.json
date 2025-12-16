@@ -1,0 +1,64 @@
+{
+  "id": 12614198,
+  "name": "Linda DUNBAR, petitioner, v. CITY OF HOUSTON, TEXAS, et al.",
+  "name_abbreviation": "Dunbar v. City of Hous.",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17M3.",
+  "first_page": "287",
+  "last_page": "287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 287"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 8"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 211,
+    "sha256": "9e311a867d62e1592f1a82fcc23d907d97ba57077d3f809ce0f24112b00035b2",
+    "simhash": "1:f3adc21697d9f3fb",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Linda DUNBAR, petitioner,\nv.\nCITY OF HOUSTON, TEXAS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Linda DUNBAR, petitioner,\nv.\nCITY OF HOUSTON, TEXAS, et al.\nNo. 17M3.\nSupreme Court of the United States\nOct. 2, 2017.\nMotion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+  },
+  "file_name": "0287-06",
+  "first_page_order": 287,
+  "last_page_order": 287
+}

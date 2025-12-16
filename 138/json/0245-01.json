@@ -1,0 +1,64 @@
+{
+  "id": 12613067,
+  "name": "Sean O'NEILL, petitioner, v. Stu SHERMAN, Warden.",
+  "name_abbreviation": "O'Neill v. Sherman",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135302.",
+  "first_page": "245",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 245"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 157"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 213,
+    "sha256": "a23be713dca3a4b6bf194a0b6660984cf387980d13b70334aaf3f7aa51873275",
+    "simhash": "1:e32ff245142937b8",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sean O'NEILL, petitioner,\nv.\nStu SHERMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sean O'NEILL, petitioner,\nv.\nStu SHERMAN, Warden.\nNo. 17-5302.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0245-01",
+  "first_page_order": 245,
+  "last_page_order": 245
+}

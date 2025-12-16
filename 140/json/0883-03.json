@@ -1,0 +1,64 @@
+{
+  "id": 12630514,
+  "name": "John Garrett SMITH, Petitioner v. WASHINGTON",
+  "name_abbreviation": "Smith v. Washington",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6578",
+  "first_page": "883",
+  "last_page": "883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 883"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 488"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 186,
+    "sha256": "831fe4eeabef0ba9fc94ef37622072670333b8ba674f6c42ca978ff269194d3c",
+    "simhash": "1:e22bf61e78b5619a",
+    "word_count": 29
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Garrett SMITH, Petitioner\nv.\nWASHINGTON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Washington denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Garrett SMITH, Petitioner\nv.\nWASHINGTON\nNo. 19-6578\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the Supreme Court of Washington denied."
+  },
+  "file_name": "0883-03",
+  "first_page_order": 883,
+  "last_page_order": 883
+}

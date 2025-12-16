@@ -1,0 +1,64 @@
+{
+  "id": 12614605,
+  "name": "FLORIDA, plaintiff, v. GEORGIA.",
+  "name_abbreviation": "Florida v. Georgia",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 142, Original.",
+  "first_page": "350",
+  "last_page": "350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 350"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 187,
+    "sha256": "434b91f1242a8b2da50e250b217d45e8665b1bb4194ac8d012a54b074c9d0f1d",
+    "simhash": "1:81c36c4454b4b68d",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FLORIDA, plaintiff,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The Exceptions to the Special Master Report are set for oral argument in due course."
+    ],
+    "corrections": "",
+    "head_matter": "FLORIDA, plaintiff,\nv.\nGEORGIA.\nNo. 142, Original.\nSupreme Court of the United States\nOct. 10, 2017.\nThe Exceptions to the Special Master Report are set for oral argument in due course."
+  },
+  "file_name": "0350-01",
+  "first_page_order": 350,
+  "last_page_order": 350
+}

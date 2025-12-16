@@ -1,0 +1,64 @@
+{
+  "id": 12627996,
+  "name": "IN RE David L. WILLIAMS, Petitioner.",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "2020-05-18",
+  "docket_number": "No. 19-8285.",
+  "first_page": "2796",
+  "last_page": "2796",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2796"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 957"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 143,
+    "sha256": "4f1c088eaca00eae3b0233c6e23547c8cd609462c7cbc9b73777aaffeaaf0bf5",
+    "simhash": "1:706ed2563a7ad918",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE David L. WILLIAMS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE David L. WILLIAMS, Petitioner.\nNo. 19-8285.\nSupreme Court of the United States.\nMay 18, 2020\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2796-04",
+  "first_page_order": 2796,
+  "last_page_order": 2796
+}

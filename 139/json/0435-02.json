@@ -1,0 +1,64 @@
+{
+  "id": 12622849,
+  "name": "William ROBEY, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Robey v. Washington",
+  "decision_date": "2018-10-29",
+  "docket_number": "No. 18\u20136017.",
+  "first_page": "435",
+  "last_page": "435",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 435"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 196,
+    "sha256": "bec5edf440002231c539658f08f00c8a811b099de225e1bbdfb9a3b21979a40c",
+    "simhash": "1:6cbf6690a1c164fc",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William ROBEY, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1 denied."
+    ],
+    "corrections": "",
+    "head_matter": "William ROBEY, petitioner,\nv.\nWASHINGTON.\nNo. 18-6017.\nSupreme Court of the United States\nOct. 29, 2018.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1 denied."
+  },
+  "file_name": "0435-02",
+  "first_page_order": 435,
+  "last_page_order": 435
+}

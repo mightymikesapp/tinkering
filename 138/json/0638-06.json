@@ -1,0 +1,64 @@
+{
+  "id": 12616057,
+  "name": "DEFENSE DISTRIBUTED, et al., petitioners, v. DEPARTMENT OF STATE, et al.",
+  "name_abbreviation": "Defense Distributed v. Dep't of State",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u2013190.",
+  "first_page": "638",
+  "last_page": "638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 638"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 235,
+    "sha256": "d33812b17f5cf79a78b86d0ff7cdbdc23157f1185e50778c33d489569008f866",
+    "simhash": "1:29b774c413a147cd",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DEFENSE DISTRIBUTED, et al., petitioners,\nv.\nDEPARTMENT OF STATE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "DEFENSE DISTRIBUTED, et al., petitioners,\nv.\nDEPARTMENT OF STATE, et al.\nNo. 17-190.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0638-06",
+  "first_page_order": 638,
+  "last_page_order": 638
+}

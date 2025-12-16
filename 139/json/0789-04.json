@@ -1,0 +1,64 @@
+{
+  "id": 12624016,
+  "name": "Bruce WISHNEFSKY, petitioner, v. Jawad SALAMEH, et al.",
+  "name_abbreviation": "Wishnefsky v. Salameh",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20135626.",
+  "first_page": "789",
+  "last_page": "789",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 789"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 218,
+    "sha256": "f23428980df15491b02148bc9a77952874791d07f93e42d8e09c3a00a25ff21d",
+    "simhash": "1:f32e42c42a81972d",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bruce WISHNEFSKY, petitioner,\nv.\nJawad SALAMEH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bruce WISHNEFSKY, petitioner,\nv.\nJawad SALAMEH, et al.\nNo. 18-5626.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0789-04",
+  "first_page_order": 789,
+  "last_page_order": 789
+}

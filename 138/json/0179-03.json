@@ -1,0 +1,64 @@
+{
+  "id": 12612238,
+  "name": "Kevin WARD, petitioner, v. Bradley SMITH, et al.",
+  "name_abbreviation": "Ward v. Smith",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139679.",
+  "first_page": "179",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 179"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 213,
+    "sha256": "328fec68c32f500782e993a28d1c250a0fbd7f2ce6110d7287a75f982984c227",
+    "simhash": "1:f7eff65c1b2427bb",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin WARD, petitioner,\nv.\nBradley SMITH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin WARD, petitioner,\nv.\nBradley SMITH, et al.\nNo. 16-9679.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0179-03",
+  "first_page_order": 179,
+  "last_page_order": 179
+}

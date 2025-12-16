@@ -1,0 +1,64 @@
+{
+  "id": 12623950,
+  "name": "William Randall CARNEY, petitioner, v. TEXAS.",
+  "name_abbreviation": "Carney v. Texas",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138733.",
+  "first_page": "75",
+  "last_page": "75",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 75"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 51"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 201,
+    "sha256": "64d997ce43c256f3e3887b48c34c08dcd5347173845b0b71b2635c7208360c58",
+    "simhash": "1:e8af629672c30cb8",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Randall CARNEY, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Eleventh District denied."
+    ],
+    "corrections": "",
+    "head_matter": "William Randall CARNEY, petitioner,\nv.\nTEXAS.\nNo. 17-8733.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Court of Appeals of Texas, Eleventh District denied."
+  },
+  "file_name": "0075-06",
+  "first_page_order": 75,
+  "last_page_order": 75
+}

@@ -1,0 +1,94 @@
+{
+  "id": 12628441,
+  "name": "Alan BARTLETT, Petitioner, v. Susanna PINEDA, Judge, Superior Court of Arizona, Maricopa County, et al.",
+  "name_abbreviation": "Bartlett v. Pineda",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9520",
+  "first_page": "319",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 319"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 7"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 88,
+    "char_count": 732,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636588079073336
+    },
+    "sha256": "26f859141271d99dbe31bc51d4c9f67f4cc4af2d148a8e5938e3617d6f565ce1",
+    "simhash": "1:7ce9b59ea505d6cd",
+    "word_count": 120
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alan BARTLETT, Petitioner,\nv.\nSusanna PINEDA, Judge, Superior Court of Arizona, Maricopa County, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for a writ of certiorari to the Court of Appeals of Arizona, Division One dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petition in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals , 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Alan BARTLETT, Petitioner,\nv.\nSusanna PINEDA, Judge, Superior Court of Arizona, Maricopa County, et al.\nNo. 18-9520\nSupreme Court of the United States.\nOctober 7, 2019\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for a writ of certiorari to the Court of Appeals of Arizona, Division One dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petition in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals , 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "0319-03",
+  "first_page_order": 319,
+  "last_page_order": 319
+}

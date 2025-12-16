@@ -1,0 +1,64 @@
+{
+  "id": 12614948,
+  "name": "Joseph E. KLUG, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Klug v. United States",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u20136007.",
+  "first_page": "408",
+  "last_page": "408",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 408"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "692550230d02a1974bba2def76a9d9fec1772050b6588c1a7266a2cec447a9a8",
+    "simhash": "1:69af76640f069631",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph E. KLUG, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph E. KLUG, petitioner,\nv.\nUNITED STATES.\nNo. 17-6007.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0408-01",
+  "first_page_order": 408,
+  "last_page_order": 408
+}

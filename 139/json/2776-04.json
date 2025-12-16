@@ -1,0 +1,64 @@
+{
+  "id": 12621979,
+  "name": "UNITED STATES, petitioner, v. Marvin LEWIS.",
+  "name_abbreviation": "United States v. Lewis",
+  "decision_date": "2019-06-28",
+  "docket_number": "No. 18\u2013989.",
+  "first_page": "2776",
+  "last_page": "2776",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2776"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 276,
+    "sha256": "f5b6b3aabbf93596531610b4b220d45f1a2ff3bd3cedd9694dbedc08c7ad2b78",
+    "simhash": "1:92a454463f20068c",
+    "word_count": 45
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, petitioner,\nv.\nMarvin LEWIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, petitioner,\nv.\nMarvin LEWIS.\nNo. 18-989.\nSupreme Court of the United States\nJune 28, 2019.\nMotion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "2776-04",
+  "first_page_order": 2776,
+  "last_page_order": 2776
+}

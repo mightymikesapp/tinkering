@@ -1,0 +1,64 @@
+{
+  "id": 12625525,
+  "name": "IN RE Todd BRITTON-HARR, Petitioner",
+  "name_abbreviation": "In re Britton-Harr",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-934",
+  "first_page": "1248",
+  "last_page": "1248",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1248"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "5e239a7e5a68dffc6bffb475c994569032d8ca8beff83ac46fbc47485e68198a",
+    "simhash": "1:404f0604d7b84341",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Todd BRITTON-HARR, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Todd BRITTON-HARR, Petitioner\nNo. 19-934\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1248-01",
+  "first_page_order": 1248,
+  "last_page_order": 1248
+}

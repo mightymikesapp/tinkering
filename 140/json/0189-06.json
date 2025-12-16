@@ -1,0 +1,64 @@
+{
+  "id": 12626278,
+  "name": "Jomo WILLIAMS, Petitioner v. UNITED STATES.",
+  "name_abbreviation": "Williams v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5481",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 189"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 182"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "27d6530bb900912daa2352f5a5d037cbd71a3d2470cdc5d85aa547ea499607f0",
+    "simhash": "1:f8af664e3704810d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jomo WILLIAMS, Petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jomo WILLIAMS, Petitioner\nv.\nUNITED STATES.\nNo. 19-5481\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0189-06",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

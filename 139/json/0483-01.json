@@ -1,0 +1,64 @@
+{
+  "id": 12623144,
+  "name": "Gregory D. KILPATRICK, petitioner, v. David WEISS.",
+  "name_abbreviation": "Kilpatrick v. Weiss",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18\u20135906.",
+  "first_page": "483",
+  "last_page": "483",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 483"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 381"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 216,
+    "sha256": "c5dd9dca98f7a2d79c6718fd533b5552fb920ddebb35b0ddc89b1c0870ddbf34",
+    "simhash": "1:562ff6c42f481789",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory D. KILPATRICK, petitioner,\nv.\nDavid WEISS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory D. KILPATRICK, petitioner,\nv.\nDavid WEISS.\nNo. 18-5906.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0483-01",
+  "first_page_order": 483,
+  "last_page_order": 483
+}

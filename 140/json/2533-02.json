@@ -1,0 +1,64 @@
+{
+  "id": 12626821,
+  "name": "Parnell MAY, Petitioner, v. ARKANSAS.",
+  "name_abbreviation": "May v. Arkansas",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-7383.",
+  "first_page": "2533",
+  "last_page": "2533",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2533"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 476"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 179,
+    "sha256": "f65dd5eca792f75d16130a4ede61d510df0665c806b334f1948447728e4f74f2",
+    "simhash": "1:faeff40636c02194",
+    "word_count": 29
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Parnell MAY, Petitioner,\nv.\nARKANSAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Arkansas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Parnell MAY, Petitioner,\nv.\nARKANSAS.\nNo. 19-7383.\nSupreme Court of the United States.\nMarch 23, 2020\nPetition for writ of certiorari to the Court of Appeals of Arkansas denied."
+  },
+  "file_name": "2533-02",
+  "first_page_order": 2533,
+  "last_page_order": 2533
+}

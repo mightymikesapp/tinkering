@@ -1,0 +1,64 @@
+{
+  "id": 12622138,
+  "name": "Daniel JONES, petitioner, v. Frank A. SEDITA, III, et al.",
+  "name_abbreviation": "Jones v. Sedita",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18M19.",
+  "first_page": "301",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 301"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 11"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 208,
+    "sha256": "4dfdd0bb82a9bd347fc952200bef98d20ca0556a53ea4506b2425190cd88d6fe",
+    "simhash": "1:39af50041bc3503a",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel JONES, petitioner,\nv.\nFrank A. SEDITA, III, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel JONES, petitioner,\nv.\nFrank A. SEDITA, III, et al.\nNo. 18M19.\nSupreme Court of the United States\nOct. 1, 2018.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0301-01",
+  "first_page_order": 301,
+  "last_page_order": 301
+}

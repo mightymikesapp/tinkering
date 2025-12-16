@@ -1,0 +1,64 @@
+{
+  "id": 12628162,
+  "name": "COMCAST CORPORATION, et al., Petitioners, v. Charles E. TILLAGE, et al.",
+  "name_abbreviation": "Comcast Corp. v. Tillage",
+  "decision_date": "2020-06-01",
+  "docket_number": "No. 19-1066.",
+  "first_page": "2827",
+  "last_page": "2827",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2827"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 158"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 235,
+    "sha256": "1efc6ab0c6348dc92bb0f3b1cec76148385fd4fb00bce868fd8e078896e4bcd1",
+    "simhash": "1:f32ef6403725358a",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMCAST CORPORATION, et al., Petitioners,\nv.\nCharles E. TILLAGE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "COMCAST CORPORATION, et al., Petitioners,\nv.\nCharles E. TILLAGE, et al.\nNo. 19-1066.\nSupreme Court of the United States.\nJune 1, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2827-03",
+  "first_page_order": 2827,
+  "last_page_order": 2827
+}

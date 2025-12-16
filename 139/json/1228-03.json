@@ -1,0 +1,64 @@
+{
+  "id": 12617825,
+  "name": "Jack GOSSETT, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gossett v. United States",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20137356.",
+  "first_page": "1228",
+  "last_page": "1228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1228"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "f0274053c937498408051a7e0a765a0104055dad606e07558e3debf07a56a6d2",
+    "simhash": "1:79ef74e432255711",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jack GOSSETT, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jack GOSSETT, petitioner,\nv.\nUNITED STATES.\nNo. 18-7356.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1228-03",
+  "first_page_order": 1228,
+  "last_page_order": 1228
+}

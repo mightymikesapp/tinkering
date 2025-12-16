@@ -1,0 +1,64 @@
+{
+  "id": 12628540,
+  "name": "Re: IN RE Sebastian ECCLESTON",
+  "name_abbreviation": "In re Eccleston",
+  "decision_date": "2019-11-15",
+  "docket_number": "No. 19-5580 (R46-06)",
+  "first_page": "341",
+  "last_page": "341",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 341"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 208,
+    "sha256": "af6b177a641ce3d4ba58d536d6d93d54e4e889ea571d98ffff0e5a24d82e001e",
+    "simhash": "1:ffad00d43cc3a41b",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Re: IN RE Sebastian ECCLESTON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of mandamus was dismissed today pursuant to Rule 46 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "Re: IN RE Sebastian ECCLESTON\nNo. 19-5580 (R46-06)\nSupreme Court of the United States.\nNovember 15, 2019\nThe petition for writ of mandamus was dismissed today pursuant to Rule 46 of the Rules of this Court."
+  },
+  "file_name": "0341-01",
+  "first_page_order": 341,
+  "last_page_order": 341
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12627779,
+  "name": "IN RE Curtis SMITH, Petitioner.",
+  "name_abbreviation": "In re Smith",
+  "decision_date": "2020-05-04",
+  "docket_number": "No. 19-8161.",
+  "first_page": "2755",
+  "last_page": "2755",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2755"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 927"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "706c5686bfcc5b750a769a3eba91881be80ab50d5a5c088cd09e68797c85314d",
+    "simhash": "1:5965565cfebc317c",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Curtis SMITH, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Curtis SMITH, Petitioner.\nNo. 19-8161.\nSupreme Court of the United States.\nMay 4, 2020\nPetition for writ of mandamus denied."
+  },
+  "file_name": "2755-04",
+  "first_page_order": 2755,
+  "last_page_order": 2755
+}

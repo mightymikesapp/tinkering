@@ -1,0 +1,64 @@
+{
+  "id": 12619022,
+  "name": "In Re Keith HENDERSON, et al., petitioners.",
+  "name_abbreviation": "In re Henderson",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20131647.",
+  "first_page": "143",
+  "last_page": "143",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 143"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 150,
+    "sha256": "393569e6ac0ae05a45ea5509113bfe6e50aeb949e5f60c3d37c7a9b378ce01f6",
+    "simhash": "1:48c7404c0e928510",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Keith HENDERSON, et al., petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Keith HENDERSON, et al., petitioners.\nNo. 17-1647.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0143-05",
+  "first_page_order": 143,
+  "last_page_order": 143
+}

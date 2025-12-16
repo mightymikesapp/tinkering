@@ -1,0 +1,64 @@
+{
+  "id": 12622381,
+  "name": "NEW WEST, L.P., et al., petitioners, v. CITY OF JOLIET, ILLINOIS, et al.",
+  "name_abbreviation": "New W., L.P. v. City of Joliet",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 18\u2013231.",
+  "first_page": "341",
+  "last_page": "342",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 341"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 314,
+    "sha256": "eb29076b6ef1453fc9d33aa5d719c24d38e4e4339abdcefe227b05909e30134c",
+    "simhash": "1:b9aef2c6150417cb",
+    "word_count": 54
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NEW WEST, L.P., et al., petitioners,\nv.\nCITY OF JOLIET, ILLINOIS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "NEW WEST, L.P., et al., petitioners,\nv.\nCITY OF JOLIET, ILLINOIS, et al.\nNo. 18-231.\nSupreme Court of the United States\nOct. 9, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0341-06",
+  "first_page_order": 341,
+  "last_page_order": 342
+}

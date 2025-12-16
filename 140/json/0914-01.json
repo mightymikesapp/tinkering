@@ -1,0 +1,64 @@
+{
+  "id": 12630664,
+  "name": "IN RE Marcus SIMPSON, Petitioner",
+  "name_abbreviation": "In re Simpson",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6580",
+  "first_page": "914",
+  "last_page": "914",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 914"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 507"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 137,
+    "sha256": "b6be69e695562de2b9f3e4c78b392965abe9fba532c77b7a29f167b08869389f",
+    "simhash": "1:c8677604fcc0b17e",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Marcus SIMPSON, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Marcus SIMPSON, Petitioner\nNo. 19-6580\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0914-01",
+  "first_page_order": 914,
+  "last_page_order": 914
+}

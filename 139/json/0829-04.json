@@ -1,0 +1,64 @@
+{
+  "id": 12624286,
+  "name": "John J. TATAR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Tatar v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u2013611.",
+  "first_page": "829",
+  "last_page": "829",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 829"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 580"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 207,
+    "sha256": "6c6a8dc1a32a3d2f87b657841694619b1d06cb05dedb7a1c2d4511437cd8c4ec",
+    "simhash": "1:a0af64443e84d605",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John J. TATAR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John J. TATAR, petitioner,\nv.\nUNITED STATES.\nNo. 18-611.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0829-04",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

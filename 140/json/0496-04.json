@@ -1,0 +1,64 @@
+{
+  "id": 12629200,
+  "name": "Arthur O. ARMSTRONG, Petitioner v. John DOE",
+  "name_abbreviation": "Armstrong v. Doe",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-5887",
+  "first_page": "496",
+  "last_page": "496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 496"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 303,
+    "sha256": "7316ea9f63abbfd83f52b2576fb50b4ea72a88a5a38a83e2f1475542b16daebf",
+    "simhash": "1:c2af548c18436611",
+    "word_count": 50
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arthur O. ARMSTRONG, Petitioner\nv.\nJohn DOE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petitions for writ of certiorari to the United States Court of Appeals for the Fourth Circuit dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "Arthur O. ARMSTRONG, Petitioner\nv.\nJohn DOE\nNo. 19-5887\nSupreme Court of the United States.\nNovember 12, 2019\nMotion of petitioner for leave to proceed in forma pauperis denied, and petitions for writ of certiorari to the United States Court of Appeals for the Fourth Circuit dismissed. See Rule 39.8."
+  },
+  "file_name": "0496-04",
+  "first_page_order": 496,
+  "last_page_order": 496
+}

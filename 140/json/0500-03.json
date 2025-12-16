@@ -1,0 +1,64 @@
+{
+  "id": 12629226,
+  "name": "Lemuel Clayton BRAY, Petitioner v. UNITED STATES.",
+  "name_abbreviation": "Bray v. United States",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 18-9532",
+  "first_page": "500",
+  "last_page": "500",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 500"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 316"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "bc04d1fae1bb85f445a81e53cb0c3491a7e8f6317caaa6b683cc81e8e3af89c9",
+    "simhash": "1:20ad66403f07d6d9",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lemuel Clayton BRAY, Petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lemuel Clayton BRAY, Petitioner\nv.\nUNITED STATES.\nNo. 18-9532\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0500-03",
+  "first_page_order": 500,
+  "last_page_order": 500
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12625351,
+  "name": "Anthony MAY, Petitioner, v. Steven JOHNSON, Administrator, New Jersey State Prison, et al.",
+  "name_abbreviation": "May v. Johnson",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7087",
+  "first_page": "1212",
+  "last_page": "1212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1212"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 258,
+    "sha256": "c3ff8c390fa26fd2afe1559087adfeab385211c00039f03c31ddbe5703653bfd",
+    "simhash": "1:402f56c4a70012a9",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony MAY, Petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony MAY, Petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al.\nNo. 19-7087\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1212-02",
+  "first_page_order": 1212,
+  "last_page_order": 1212
+}

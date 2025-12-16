@@ -1,0 +1,62 @@
+{
+  "id": 12615826,
+  "name": "In the Matter of DISBARMENT OF Charles Grant BYRD, Jr.",
+  "name_abbreviation": "In re Byrd",
+  "decision_date": "2017-12-04",
+  "docket_number": "No. D\u20132988.",
+  "first_page": "541",
+  "last_page": "541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 541"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "243e4df6f8e244590e2fcc23dddbc09a1d22ce97d356a67f86f51153c0541b08",
+    "simhash": "1:f6f3744ea7c6373e",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Charles Grant BYRD, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Charles Grant BYRD, Jr.\nNo. D-2988.\nSupreme Court of the United States\nDec. 4, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0541-07",
+  "first_page_order": 541,
+  "last_page_order": 541
+}

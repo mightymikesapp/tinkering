@@ -1,0 +1,64 @@
+{
+  "id": 12615253,
+  "name": "John Lee FUTRELL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Futrell v. United States",
+  "decision_date": "2017-11-13",
+  "docket_number": "No. 17\u2013391.",
+  "first_page": "456",
+  "last_page": "456",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 456"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "0649b6b6381bd5f460c07dcb5d82fa982c093816d25eeb6a4844d5c34fbf46c2",
+    "simhash": "1:deac7644b20e5609",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Lee FUTRELL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Lee FUTRELL, petitioner,\nv.\nUNITED STATES.\nNo. 17-391.\nSupreme Court of the United States\nNov. 13, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0456-01",
+  "first_page_order": 456,
+  "last_page_order": 456
+}

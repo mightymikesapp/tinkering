@@ -1,0 +1,64 @@
+{
+  "id": 12615234,
+  "name": "In Re Michael Allyn KENNEDY, petitioner.",
+  "name_abbreviation": "In re Kennedy",
+  "decision_date": "2017-11-13",
+  "docket_number": "No. 17\u20135914.",
+  "first_page": "452",
+  "last_page": "452",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 452"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 143,
+    "sha256": "a6d4b4ca6acaa3b72c92b2eb92e6d50396c19c52a161b5478d46e99e991abd27",
+    "simhash": "1:de0250449e211259",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Michael Allyn KENNEDY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Michael Allyn KENNEDY, petitioner.\nNo. 17-5914.\nSupreme Court of the United States\nNov. 13, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0452-06",
+  "first_page_order": 452,
+  "last_page_order": 452
+}

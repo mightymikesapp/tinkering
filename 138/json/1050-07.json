@@ -1,0 +1,62 @@
+{
+  "id": 12610376,
+  "name": "In the Matter of DISBARMENT OF Jonathan GREENMAN.",
+  "name_abbreviation": "In re Greenman",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. D\u20133003.",
+  "first_page": "1050",
+  "last_page": "1050",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1050"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 311"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 139,
+    "sha256": "fa13cb2426f8cbc132e7c12d3161d445285fac8ad58d1a20d90bef94d3e80076",
+    "simhash": "1:28271de0be865ded",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Jonathan GREENMAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Jonathan GREENMAN.\nNo. D-3003.\nSupreme Court of the United States\nFeb. 20, 2018.\nDisbarment order entered."
+  },
+  "file_name": "1050-07",
+  "first_page_order": 1050,
+  "last_page_order": 1050
+}

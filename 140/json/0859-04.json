@@ -1,0 +1,64 @@
+{
+  "id": 12630395,
+  "name": "John G. CURRY, Petitioner, v. Mark Joseph LOPEZ, Associate Judge, Circuit Court of Illinois, Cook County, et al.",
+  "name_abbreviation": "Curry v. Lopez",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 18-9750",
+  "first_page": "859",
+  "last_page": "859",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 859"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 455"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 281,
+    "sha256": "99404ce8b706f6d627beef9696e6514d3bf3525761d5a08c8af6fe48e440c28d",
+    "simhash": "1:536f74469945b5be",
+    "word_count": 46
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John G. CURRY, Petitioner,\nv.\nMark Joseph LOPEZ, Associate Judge, Circuit Court of Illinois, Cook County, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John G. CURRY, Petitioner,\nv.\nMark Joseph LOPEZ, Associate Judge, Circuit Court of Illinois, Cook County, et al.\nNo. 18-9750\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0859-04",
+  "first_page_order": 859,
+  "last_page_order": 859
+}

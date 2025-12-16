@@ -1,0 +1,64 @@
+{
+  "id": 12630325,
+  "name": "Cameron THOMAS, Petitioner, v. NEVADA.",
+  "name_abbreviation": "Thomas v. Nevada",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-5967",
+  "first_page": "844",
+  "last_page": "844",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 844"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 472"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 176,
+    "sha256": "8e1183863c998ea5a1446e03721483d87a3b4439f65e53c8bd54d16dd2e64495",
+    "simhash": "1:f82f764e72c120b4",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cameron THOMAS, Petitioner,\nv.\nNEVADA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Nevada denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cameron THOMAS, Petitioner,\nv.\nNEVADA.\nNo. 19-5967\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the Supreme Court of Nevada denied."
+  },
+  "file_name": "0844-02",
+  "first_page_order": 844,
+  "last_page_order": 844
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12624481,
+  "name": "Robert W. DOUGHERTY, petitioner, v. Ivan T. GILMORE, Warden.",
+  "name_abbreviation": "Dougherty v. Gilmore",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18M81.",
+  "first_page": "858",
+  "last_page": "858",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 858"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 563"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 211,
+    "sha256": "b4ebf07cc15be203bcca9a5ec29b29b3e29330f661cdc587d7616fc9c0e30c09",
+    "simhash": "1:494f6264ab8bb53f",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert W. DOUGHERTY, petitioner,\nv.\nIvan T. GILMORE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert W. DOUGHERTY, petitioner,\nv.\nIvan T. GILMORE, Warden.\nNo. 18M81.\nSupreme Court of the United States\nJan. 7, 2019.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0858-04",
+  "first_page_order": 858,
+  "last_page_order": 858
+}

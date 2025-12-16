@@ -1,0 +1,111 @@
+{
+  "id": 12621577,
+  "name": "UNITED STATES, petitioner, v. Michael HERROLD.",
+  "name_abbreviation": "United States v. Herrold",
+  "decision_date": "2019-06-17",
+  "docket_number": "No. 17\u20131445.",
+  "first_page": "2712",
+  "last_page": "2712",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2712"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1107"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "202 L.Ed.2d 640",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12624619,
+        12624622,
+        12624623,
+        12624624,
+        12618397,
+        12618398
+      ],
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0914-01",
+        "/s-ct/139/0914-04",
+        "/s-ct/139/0914-05",
+        "/s-ct/139/0914-06",
+        "/s-ct/139/1316-03",
+        "/s-ct/139/1316-04"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 914",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12624619,
+        12624620,
+        12624621,
+        12624622,
+        12624623,
+        12624624
+      ],
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0914-01",
+        "/s-ct/139/0914-02",
+        "/s-ct/139/0914-03",
+        "/s-ct/139/0914-04",
+        "/s-ct/139/0914-05",
+        "/s-ct/139/0914-06"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 586,
+    "sha256": "7f4464ab227f022d6e30f283e4221f690031cbb5ef776938fe2ea5518664bf9e",
+    "simhash": "1:56adf2c42541868d",
+    "word_count": 97
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, petitioner,\nv.\nMichael HERROLD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of respondent for leave to proceed in forma pauperis and petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Quarles v. United States, 587 U.S. ----, 139 S.Ct. 914, 202 L.Ed.2d 640 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, petitioner,\nv.\nMichael HERROLD.\nNo. 17-1445.\nSupreme Court of the United States\nJune 17, 2019.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of respondent for leave to proceed in forma pauperis and petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Quarles v. United States, 587 U.S. ----, 139 S.Ct. 914, 202 L.Ed.2d 640 (2019)."
+  },
+  "file_name": "2712-04",
+  "first_page_order": 2712,
+  "last_page_order": 2712
+}

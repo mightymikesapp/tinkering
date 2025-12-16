@@ -1,0 +1,64 @@
+{
+  "id": 12622388,
+  "name": "Joyce SIMMONS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Simmons v. United States",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 18\u20135743.",
+  "first_page": "343",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 343"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "de42132d62d331665a23faef9ce3a47ec1ad503a35c55942a0bcd37dfea35b25",
+    "simhash": "1:fbbcf2453e84577d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joyce SIMMONS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joyce SIMMONS, petitioner,\nv.\nUNITED STATES.\nNo. 18-5743.\nSupreme Court of the United States\nOct. 9, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0343-01",
+  "first_page_order": 343,
+  "last_page_order": 343
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12626209,
+  "name": "Andrew S. HANGO, Petitioner, v. William P. BARR, Attorney General.",
+  "name_abbreviation": "Hango v. Barr",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9683",
+  "first_page": "179",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 179"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "55f48ebeef4b48118495029c8b82edc62f4759f8a2e35958ba311eb16443066a",
+    "simhash": "1:f2ed44ce3f04c3a1",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew S. HANGO, Petitioner,\nv.\nWilliam P. BARR, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew S. HANGO, Petitioner,\nv.\nWilliam P. BARR, Attorney General.\nNo. 18-9683\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0179-04",
+  "first_page_order": 179,
+  "last_page_order": 179
+}

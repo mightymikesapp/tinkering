@@ -1,0 +1,64 @@
+{
+  "id": 12623822,
+  "name": "Larry HAILEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hailey v. United States",
+  "decision_date": "2018-12-10",
+  "docket_number": "No. 18\u20136581.",
+  "first_page": "651",
+  "last_page": "651",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 651"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 500"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "51af39acbca3fea3c7527fef583e6d6002cb6d759362c9f84c26496dc530c7c4",
+    "simhash": "1:7aefe0043f8c561d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry HAILEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Larry HAILEY, petitioner,\nv.\nUNITED STATES.\nNo. 18-6581.\nSupreme Court of the United States\nDec. 10, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0651-04",
+  "first_page_order": 651,
+  "last_page_order": 651
+}

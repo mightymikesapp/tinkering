@@ -1,0 +1,64 @@
+{
+  "id": 12610967,
+  "name": "Walter Lee ROBERTS, petitioner, v. TEXAS.",
+  "name_abbreviation": "Roberts v. Texas",
+  "decision_date": "2018-03-19",
+  "docket_number": "No. 17\u20131132.",
+  "first_page": "1309",
+  "last_page": "1309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1309"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 475"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 196,
+    "sha256": "45bf5e43addd3096b4d84a66acd2bbfcc386057a29eb6c9a80d063bb3511d6bf",
+    "simhash": "1:5cbf3a9772cd5db8",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Walter Lee ROBERTS, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Walter Lee ROBERTS, petitioner,\nv.\nTEXAS.\nNo. 17-1132.\nSupreme Court of the United States\nMarch 19, 2018.\nPetition for writ of certiorari to the Court of Appeals of Texas, First District denied."
+  },
+  "file_name": "1309-01",
+  "first_page_order": 1309,
+  "last_page_order": 1309
+}

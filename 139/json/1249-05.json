@@ -1,0 +1,62 @@
+{
+  "id": 12617979,
+  "name": "In the Matter of DISBARMENT OF David Ben MANDELBAUM.",
+  "name_abbreviation": "In re Mandelbaum",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. D\u20133040.",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1249"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 142,
+    "sha256": "f86eda1c9833de78e4bdcb5bd372f0b2a8e0c120322ba28bca334d737a770c40",
+    "simhash": "1:61e55406072274a1",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF David Ben MANDELBAUM."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF David Ben MANDELBAUM.\nNo. D-3040.\nSupreme Court of the United States\nFeb. 19, 2019.\nDisbarment order entered."
+  },
+  "file_name": "1249-05",
+  "first_page_order": 1249,
+  "last_page_order": 1249
+}

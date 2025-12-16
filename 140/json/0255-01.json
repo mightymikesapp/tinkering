@@ -1,0 +1,64 @@
+{
+  "id": 12626895,
+  "name": "Sha-Ron HAINES, Petitioner, v. UNITED STATES",
+  "name_abbreviation": "Haines v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5136",
+  "first_page": "255",
+  "last_page": "255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 255"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "4a6cdc277106ba21a0078023f3c979dc6544861234fdb55cd81cf4213731b30a",
+    "simhash": "1:e2af764c2f845120",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sha-Ron HAINES, Petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sha-Ron HAINES, Petitioner,\nv.\nUNITED STATES\nNo. 19-5136\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0255-01",
+  "first_page_order": 255,
+  "last_page_order": 255
+}

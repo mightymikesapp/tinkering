@@ -1,0 +1,64 @@
+{
+  "id": 12628404,
+  "name": "IN RE Francisco NARVAEZ, Petitioner",
+  "name_abbreviation": "In re Narvaez",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5390",
+  "first_page": "312",
+  "last_page": "312",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 312"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 139,
+    "sha256": "f071ef161811c836fb8ec0b1544342298f24f28e1eeaee2707f67443ebe760c1",
+    "simhash": "1:fafd625cae20d126",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Francisco NARVAEZ, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Francisco NARVAEZ, Petitioner\nNo. 19-5390\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0312-05",
+  "first_page_order": 312,
+  "last_page_order": 312
+}

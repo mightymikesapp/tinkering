@@ -1,0 +1,64 @@
+{
+  "id": 12611672,
+  "name": "In Re Tommy R. McGUIRE, petitioner.",
+  "name_abbreviation": "In re McGuire",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139567.",
+  "first_page": "157",
+  "last_page": "157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 157"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 231,
+    "sha256": "c5d592a3f482d9df4413068de4db20d987a70801d2f7ccb273f2b8621ebd9379",
+    "simhash": "1:e9cdb24a88b3265d",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Tommy R. McGUIRE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and the petition for writ of mandamus dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Tommy R. McGUIRE, petitioner.\nNo. 16-9567.\nSupreme Court of the United States\nOct. 2, 2017.\nMotion of petitioner for leave to proceed in forma pauperis denied, and the petition for writ of mandamus dismissed. See Rule 39.8."
+  },
+  "file_name": "0157-02",
+  "first_page_order": 157,
+  "last_page_order": 157
+}

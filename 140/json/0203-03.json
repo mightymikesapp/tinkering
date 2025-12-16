@@ -1,0 +1,64 @@
+{
+  "id": 12626384,
+  "name": "Milton Terry KELTON, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Kelton v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9703",
+  "first_page": "203",
+  "last_page": "203",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 203"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 107"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "1d2fc83772473fc040e0da90b525530199370df242139c29d7120ee33cd21392",
+    "simhash": "1:eaad7446220013a1",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Milton Terry KELTON, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Milton Terry KELTON, Petitioner,\nv.\nUNITED STATES.\nNo. 18-9703\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0203-03",
+  "first_page_order": 203,
+  "last_page_order": 203
+}

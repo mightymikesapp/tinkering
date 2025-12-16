@@ -1,0 +1,64 @@
+{
+  "id": 12620191,
+  "name": "Jose SOLIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Solis v. United States",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20139543.",
+  "first_page": "190",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 190"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 117"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "6bb271524e27a32c3ddd2a47b8817547c4e09e27d710cfec558199c72a2988be",
+    "simhash": "1:f1aef2441b07961f",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose SOLIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose SOLIS, petitioner,\nv.\nUNITED STATES.\nNo. 17-9543.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0190-05",
+  "first_page_order": 190,
+  "last_page_order": 190
+}

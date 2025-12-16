@@ -1,0 +1,64 @@
+{
+  "id": 12610327,
+  "name": "James E. CHAMBLIN, petitioner, v. Charlotte JENKINS, Warden.",
+  "name_abbreviation": "Chamblin v. Jenkins",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20135200.",
+  "first_page": "1045",
+  "last_page": "1045",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1045"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 305"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 156,
+    "sha256": "c2a1479d692b197891ba1557b2ade7c4392daabf413e5948dc7d0a3ac89cf330",
+    "simhash": "1:40e05002ced05a84",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James E. CHAMBLIN, petitioner,\nv.\nCharlotte JENKINS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "James E. CHAMBLIN, petitioner,\nv.\nCharlotte JENKINS, Warden.\nNo. 17-5200.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "1045-04",
+  "first_page_order": 1045,
+  "last_page_order": 1045
+}

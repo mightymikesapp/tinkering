@@ -1,0 +1,64 @@
+{
+  "id": 12614110,
+  "name": "Damien RILEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Riley v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135559.",
+  "first_page": "273",
+  "last_page": "273",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 273"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "41734e44f77f6ff9f40784cf6e0c5b2ff3c46238cb061c4dea6fbd67f8f2f4e2",
+    "simhash": "1:5fafe6551a065711",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Damien RILEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Damien RILEY, petitioner,\nv.\nUNITED STATES.\nNo. 17-5559.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0273-01",
+  "first_page_order": 273,
+  "last_page_order": 273
+}

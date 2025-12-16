@@ -1,0 +1,64 @@
+{
+  "id": 12629956,
+  "name": "IN RE Levar Lee SPENCE, Petitioner",
+  "name_abbreviation": "In re Spence",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-5587",
+  "first_page": "656",
+  "last_page": "656",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 656"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 416"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "725bc475207e40aeb19b056d282f255b4f425d77824692685f305f114792ee35",
+    "simhash": "1:f03c1204568074a4",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Levar Lee SPENCE, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Levar Lee SPENCE, Petitioner\nNo. 19-5587\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for rehearing denied."
+  },
+  "file_name": "0656-04",
+  "first_page_order": 656,
+  "last_page_order": 656
+}

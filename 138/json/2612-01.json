@@ -1,0 +1,64 @@
+{
+  "id": 12613428,
+  "name": "Edward JEFFERSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jefferson v. United States",
+  "decision_date": "2018-06-04",
+  "docket_number": "No. 17\u20138734.",
+  "first_page": "2612",
+  "last_page": "2612",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2612"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 1012"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 212,
+    "sha256": "cf227b4668cac737ef476297ffca920578eacc1d53ed9da22ec7b0000aeb8440",
+    "simhash": "1:7cbde4442f0e2795",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward JEFFERSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edward JEFFERSON, petitioner,\nv.\nUNITED STATES.\nNo. 17-8734.\nSupreme Court of the United States\nJune 4, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "2612-01",
+  "first_page_order": 2612,
+  "last_page_order": 2612
+}

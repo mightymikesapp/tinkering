@@ -1,0 +1,62 @@
+{
+  "id": 12631044,
+  "name": "In the MATTER OF DISBARMENT OF Frampton DURBAN, Jr.",
+  "name_abbreviation": "In re Durban",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. D-3041",
+  "first_page": "988",
+  "last_page": "988",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 988"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 143,
+    "sha256": "ea787c7c30967dd3f74ba1f329144f13f49a33d395e8ac928fdb8c7577809357",
+    "simhash": "1:f8b7540ebe2474ac",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the MATTER OF DISBARMENT OF Frampton DURBAN, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the MATTER OF DISBARMENT OF Frampton DURBAN, Jr.\nNo. D-3041\nSupreme Court of the United States.\nJanuary 27, 2020\nDisbarment order entered."
+  },
+  "file_name": "0988-03",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

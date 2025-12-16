@@ -1,0 +1,64 @@
+{
+  "id": 12627406,
+  "name": "Socorro Susan CARO, Petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Caro v. California",
+  "decision_date": "2020-04-20",
+  "docket_number": "No. 19-7649.",
+  "first_page": "2682",
+  "last_page": "2682",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2682"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 830"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 187,
+    "sha256": "4fb8ccc02f4255dc1423529318ce27c64f3e2c3a117e0d9782ac0b9a5cff7708",
+    "simhash": "1:48af545c2a910157",
+    "word_count": 29
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Socorro Susan CARO, Petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "Socorro Susan CARO, Petitioner,\nv.\nCALIFORNIA.\nNo. 19-7649.\nSupreme Court of the United States.\nApril 20, 2020\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "2682-04",
+  "first_page_order": 2682,
+  "last_page_order": 2682
+}

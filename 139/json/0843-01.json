@@ -1,0 +1,64 @@
+{
+  "id": 12624381,
+  "name": "In Re Samuel RIVERA, petitioner.",
+  "name_abbreviation": "In re Rivera",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136784.",
+  "first_page": "843",
+  "last_page": "843",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 843"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "3a2f992cff2b706addcd757389964bc1a1dd46b21c42a9d01ccadca256dc7a78",
+    "simhash": "1:2bee6454b39a4349",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Samuel RIVERA, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Samuel RIVERA, petitioner.\nNo. 18-6784.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0843-01",
+  "first_page_order": 843,
+  "last_page_order": 843
+}

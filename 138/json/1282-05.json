@@ -1,0 +1,64 @@
+{
+  "id": 12610799,
+  "name": "Von Skyler COX, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cox v. United States",
+  "decision_date": "2018-03-19",
+  "docket_number": "No. 17\u20136690.",
+  "first_page": "1282",
+  "last_page": "1282",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1282"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 477"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 211,
+    "sha256": "28ffbbb1d76d994d52db902ef331d6dee7ac9351685fb80f5e62ef9b03d2551b",
+    "simhash": "1:7cac72443a0cd7a5",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Von Skyler COX, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Von Skyler COX, petitioner,\nv.\nUNITED STATES.\nNo. 17-6690.\nSupreme Court of the United States\nMarch 19, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1282-05",
+  "first_page_order": 1282,
+  "last_page_order": 1282
+}

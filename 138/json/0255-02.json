@@ -1,0 +1,64 @@
+{
+  "id": 12613131,
+  "name": "Abel DIAZ, petitioner, v. M. Travis BRAGG, Warden.",
+  "name_abbreviation": "Diaz v. Bragg",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135373.",
+  "first_page": "255",
+  "last_page": "255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 255"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 215,
+    "sha256": "5aa795893b6f62c3e7da2a49c7be2ba67c284ad78c2828dc2904312b047fbeeb",
+    "simhash": "1:73afc20c3e20972b",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Abel DIAZ, petitioner,\nv.\nM. Travis BRAGG, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Abel DIAZ, petitioner,\nv.\nM. Travis BRAGG, Warden.\nNo. 17-5373.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0255-02",
+  "first_page_order": 255,
+  "last_page_order": 255
+}

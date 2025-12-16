@@ -1,0 +1,64 @@
+{
+  "id": 12627600,
+  "name": "John W. KIMBROUGH, Petitioner, v. Ron NEAL, Superintendent, Indiana State Prison.",
+  "name_abbreviation": "Kimbrough v. Neal",
+  "decision_date": "2020-04-27",
+  "docket_number": "No. 19-1174.",
+  "first_page": "2721",
+  "last_page": "2721",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2721"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 856"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 249,
+    "sha256": "28874146ec4127ae2e3e9d7b480986a269641c96e09ccaac9e18824b65f4c66e",
+    "simhash": "1:a03c56043b044680",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John W. KIMBROUGH, Petitioner,\nv.\nRon NEAL, Superintendent, Indiana State Prison."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John W. KIMBROUGH, Petitioner,\nv.\nRon NEAL, Superintendent, Indiana State Prison.\nNo. 19-1174.\nSupreme Court of the United States.\nApril 27, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "2721-03",
+  "first_page_order": 2721,
+  "last_page_order": 2721
+}

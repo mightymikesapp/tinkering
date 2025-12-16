@@ -1,0 +1,64 @@
+{
+  "id": 12623658,
+  "name": "In Re Ryan Lee ZATER, petitioner.",
+  "name_abbreviation": "In re Zater",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 18\u20136675.",
+  "first_page": "618",
+  "last_page": "618",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 618"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 140,
+    "sha256": "b6c4044b1371d667f7a18212eeeb134645e4dcd2a50794bc41a83bb56e3f0901",
+    "simhash": "1:0af4d09a9fe841ef",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Ryan Lee ZATER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Ryan Lee ZATER, petitioner.\nNo. 18-6675.\nSupreme Court of the United States\nDec. 3, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0618-04",
+  "first_page_order": 618,
+  "last_page_order": 618
+}

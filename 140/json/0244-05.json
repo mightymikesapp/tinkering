@@ -1,0 +1,64 @@
+{
+  "id": 12626647,
+  "name": "Kenneth MILLER, Petitioner, v. Robert FERGUSON, Attorney General of Washington.",
+  "name_abbreviation": "Miller v. Ferguson",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-121",
+  "first_page": "244",
+  "last_page": "244",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 244"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 131"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 244,
+    "sha256": "e5230f21b66ae26c943d170f31aaffcef47e245c221678e681c2fe923f24d41c",
+    "simhash": "1:d8af76cc2b8691a2",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth MILLER, Petitioner,\nv.\nRobert FERGUSON, Attorney General of Washington."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenneth MILLER, Petitioner,\nv.\nRobert FERGUSON, Attorney General of Washington.\nNo. 19-121\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0244-05",
+  "first_page_order": 244,
+  "last_page_order": 244
+}

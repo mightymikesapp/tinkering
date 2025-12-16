@@ -1,0 +1,83 @@
+{
+  "id": 12624939,
+  "name": "ENCLARITY INC., et al., Petitioners, v. Matthew N. FULTON",
+  "name_abbreviation": "Enclarity Inc. v. Fulton",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-1258",
+  "first_page": "104",
+  "last_page": "104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 104"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2051",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620537
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2051-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 507,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26364259074563806
+    },
+    "sha256": "bfe3920f6699ad2133755bb9878b4e4a3f639a3721bccd78b04fa2a3c789f6df",
+    "simhash": "1:7a8e6644a58016af",
+    "word_count": 82
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ENCLARITY INC., et al., Petitioners,\nv.\nMatthew N. FULTON"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of PDR Network, LLC v. Carlton & Harris Chiropractic, Inc. , 588 U.S. ----, 139 S.Ct. 2051, 204 L.Ed.2d 433 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "ENCLARITY INC., et al., Petitioners,\nv.\nMatthew N. FULTON\nNo. 18-1258\nSupreme Court of the United States.\nOctober 7, 2019\nOn petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of PDR Network, LLC v. Carlton & Harris Chiropractic, Inc. , 588 U.S. ----, 139 S.Ct. 2051, 204 L.Ed.2d 433 (2019)."
+  },
+  "file_name": "0104-01",
+  "first_page_order": 104,
+  "last_page_order": 104
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12628314,
+  "name": "Carlos Eloy GARCIA-GARCIA, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Garcia-Garcia v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5571",
+  "first_page": "299",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 299"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 222,
+    "sha256": "7c2c01a3f4deb71251dafba47f38501d03119751a7c56198c0210249c2016b32",
+    "simhash": "1:ebaf66cc3780528d",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos Eloy GARCIA-GARCIA, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos Eloy GARCIA-GARCIA, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5571\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0299-01",
+  "first_page_order": 299,
+  "last_page_order": 299
+}

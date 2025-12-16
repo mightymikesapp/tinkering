@@ -1,0 +1,64 @@
+{
+  "id": 12615600,
+  "name": "Garron BETHEL, petitioner, v. ALABAMA.",
+  "name_abbreviation": "Bethel v. Alabama",
+  "decision_date": "2017-12-04",
+  "docket_number": "No. 17\u20136129.",
+  "first_page": "509",
+  "last_page": "509",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 509"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 393"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 186,
+    "sha256": "61478a50e781f660d152374a179752d0ccae757d065096424b5cbf7d6a00420a",
+    "simhash": "1:7ab7507fb7810099",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Garron BETHEL, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+    ],
+    "corrections": "",
+    "head_matter": "Garron BETHEL, petitioner,\nv.\nALABAMA.\nNo. 17-6129.\nSupreme Court of the United States\nDec. 4, 2017.\nPetition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+  },
+  "file_name": "0509-04",
+  "first_page_order": 509,
+  "last_page_order": 509
+}

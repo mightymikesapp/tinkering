@@ -1,0 +1,64 @@
+{
+  "id": 12615458,
+  "name": "Carlos VALDEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Valdez v. United States",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 17\u20136407.",
+  "first_page": "487",
+  "last_page": "487",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 487"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 369"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "a4a59140316341d9b57473a0b4590275be46ae91ec11be4bff4b1dff522e9832",
+    "simhash": "1:b1ec74c406a9d681",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos VALDEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos VALDEZ, petitioner,\nv.\nUNITED STATES.\nNo. 17-6407.\nSupreme Court of the United States\nNov. 27, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0487-01",
+  "first_page_order": 487,
+  "last_page_order": 487
+}

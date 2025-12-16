@@ -1,0 +1,64 @@
+{
+  "id": 12625769,
+  "name": "UNITED STATES, EX REL. Andrew GELBMAN, petitioner, v. CITY OF NEW YORK, et al.",
+  "name_abbreviation": "United States ex rel. Gelbman v. City of N.Y.",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19-892",
+  "first_page": "1296",
+  "last_page": "1296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1296"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 376"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 242,
+    "sha256": "0ea85ed10b9ed635c245a98a2f97b4615d33e3b28f16b95765eddc0b514655be",
+    "simhash": "1:faa4f6cc7b01312b",
+    "word_count": 42
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, EX REL. Andrew GELBMAN, petitioner,\nv.\nCITY OF NEW YORK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, EX REL. Andrew GELBMAN, petitioner,\nv.\nCITY OF NEW YORK, et al.\nNo. 19-892\nSupreme Court of the United States.\nMarch 9, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1296-03",
+  "first_page_order": 1296,
+  "last_page_order": 1296
+}

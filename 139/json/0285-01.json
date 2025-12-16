@@ -1,0 +1,64 @@
+{
+  "id": 12622039,
+  "name": "Mario ZUNIGA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Zuniga v. United States",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135620.",
+  "first_page": "285",
+  "last_page": "285",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 285"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "f169b5f698165b68f057dcf2bf1aaef1fdd36d394db64a66a7d3db783740aa57",
+    "simhash": "1:71ac72442f06c6b9",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mario ZUNIGA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mario ZUNIGA, petitioner,\nv.\nUNITED STATES.\nNo. 18-5620.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0285-01",
+  "first_page_order": 285,
+  "last_page_order": 285
+}

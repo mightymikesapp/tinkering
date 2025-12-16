@@ -1,0 +1,64 @@
+{
+  "id": 12629130,
+  "name": "Jonsha BELL, Petitioner, v. MISSISSIPPI.",
+  "name_abbreviation": "Bell v. Mississippi",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 18-1500",
+  "first_page": "483",
+  "last_page": "483",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 483"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 183,
+    "sha256": "ff26fab67482be474fab551c9e365ea6dbce04333f06d1bc9cae44d4b91f870b",
+    "simhash": "1:eafd540c22d6d5d1",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jonsha BELL, Petitioner,\nv.\nMISSISSIPPI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jonsha BELL, Petitioner,\nv.\nMISSISSIPPI.\nNo. 18-1500\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of certiorari to the Supreme Court of Mississippi denied."
+  },
+  "file_name": "0483-01",
+  "first_page_order": 483,
+  "last_page_order": 483
+}

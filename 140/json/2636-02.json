@@ -1,0 +1,64 @@
+{
+  "id": 12627175,
+  "name": "IN RE David LOPEZ, Petitioner.",
+  "name_abbreviation": "In re Lopez",
+  "decision_date": "2020-03-30",
+  "docket_number": "No. 19-7792.",
+  "first_page": "2636",
+  "last_page": "2636",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2636"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 137,
+    "sha256": "eb50ea73db84353a47aa98702d038dbc964c5f344e332fb35eea0392baff3a8c",
+    "simhash": "1:e26d7654f241615d",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE David LOPEZ, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE David LOPEZ, Petitioner.\nNo. 19-7792.\nSupreme Court of the United States.\nMarch 30, 2020\nPetition for writ of prohibition denied."
+  },
+  "file_name": "2636-02",
+  "first_page_order": 2636,
+  "last_page_order": 2636
+}

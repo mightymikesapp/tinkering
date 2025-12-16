@@ -1,0 +1,64 @@
+{
+  "id": 12623235,
+  "name": "Jeremy James HENDRICKS, petitioner, v. Matt BINGHAM, et al.",
+  "name_abbreviation": "Hendricks v. Bingham",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18M61.",
+  "first_page": "496",
+  "last_page": "496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 496"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 374"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 211,
+    "sha256": "167df3222bf5257f793a99b60ddfdfa2d6b381af13b623969837c6fd6e3c95b6",
+    "simhash": "1:0baf5026cbca73eb",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeremy James HENDRICKS, petitioner,\nv.\nMatt BINGHAM, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeremy James HENDRICKS, petitioner,\nv.\nMatt BINGHAM, et al.\nNo. 18M61.\nSupreme Court of the United States\nNov. 13, 2018.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0496-06",
+  "first_page_order": 496,
+  "last_page_order": 496
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12626689,
+  "name": "Donald J. TRUMP, et al., Petitioners, v. DEUTSCHE BANK AG, et al.",
+  "name_abbreviation": "Trump v. Deutsche Bank AG",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-760.",
+  "first_page": "2505",
+  "last_page": "2505",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2505"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 461"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 255,
+    "sha256": "bceed48389f164f789dc976b84133a2addca029c6e2674b3ebbaf78d2b95824b",
+    "simhash": "1:d2a81801dfc4cf52",
+    "word_count": 43
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald J. TRUMP, et al., Petitioners,\nv.\nDEUTSCHE BANK AG, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of the Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument granted."
+    ],
+    "corrections": "",
+    "head_matter": "Donald J. TRUMP, et al., Petitioners,\nv.\nDEUTSCHE BANK AG, et al.\nNo. 19-760.\nSupreme Court of the United States.\nMarch 23, 2020\nMotion of the Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument granted."
+  },
+  "file_name": "2505-05",
+  "first_page_order": 2505,
+  "last_page_order": 2505
+}

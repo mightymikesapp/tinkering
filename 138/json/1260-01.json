@@ -1,0 +1,83 @@
+{
+  "id": 12610652,
+  "name": "Christopher SHANAHAN, et al., petitioners, v. Alexander LORA.",
+  "name_abbreviation": "Shanahan v. Lora",
+  "decision_date": "2018-03-05",
+  "docket_number": "No. 15\u20131205.",
+  "first_page": "1260",
+  "last_page": "1260",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1260"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 830",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12616906
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/0830-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 474,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26359027109302513
+    },
+    "sha256": "4b63f30f13a369e4b23899c8861ddd736e0c794366529c3079415f714cb816e2",
+    "simhash": "1:5f2ec2c43d0f8789",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher SHANAHAN, et al., petitioners,\nv.\nAlexander LORA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Second Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Second Circuit for further consideration in light of Jennings v. Rodriguez, 583 U.S ----, 138 S.Ct. 830, 200 L.E.2d 122 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher SHANAHAN, et al., petitioners,\nv.\nAlexander LORA.\nNo. 15-1205.\nSupreme Court of the United States\nMarch 5, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Second Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Second Circuit for further consideration in light of Jennings v. Rodriguez, 583 U.S ----, 138 S.Ct. 830, 200 L.E.2d 122 (2018)."
+  },
+  "file_name": "1260-01",
+  "first_page_order": 1260,
+  "last_page_order": 1260
+}

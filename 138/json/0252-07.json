@@ -1,0 +1,64 @@
+{
+  "id": 12613116,
+  "name": "David Tobias MAY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "May v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u2013142.",
+  "first_page": "252",
+  "last_page": "253",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 252"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 124"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 211,
+    "sha256": "d07941e089761861184d4fb6ab4e047eac36d585b540e92fb1111c1642c52f2a",
+    "simhash": "1:d32ec6459ea0c605",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Tobias MAY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David Tobias MAY, petitioner,\nv.\nUNITED STATES.\nNo. 17-142.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0252-07",
+  "first_page_order": 252,
+  "last_page_order": 253
+}

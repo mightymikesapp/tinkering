@@ -1,0 +1,64 @@
+{
+  "id": 12625087,
+  "name": "Charles GARSKE, et al., Petitioners, v. UNITED STATES.",
+  "name_abbreviation": "Garske v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-828",
+  "first_page": "1121",
+  "last_page": "1121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1121"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 217,
+    "sha256": "38335d8505ae52fb01eb85e512b2933e09277389d31ca3de5f795e46949bf45d",
+    "simhash": "1:7baf644c3f26562b",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles GARSKE, et al., Petitioners,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles GARSKE, et al., Petitioners,\nv.\nUNITED STATES.\nNo. 19-828\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "1121-03",
+  "first_page_order": 1121,
+  "last_page_order": 1121
+}

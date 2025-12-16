@@ -1,0 +1,64 @@
+{
+  "id": 12625097,
+  "name": "William CASTRO, Petitioner, v. R. Fred LEWIS, et al.",
+  "name_abbreviation": "Castro v. Lewis",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-862",
+  "first_page": "1124",
+  "last_page": "1124",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1124"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 218,
+    "sha256": "cfd704811c7686978f2107da2b3bbbc81f58dec406f028303559ea985ae6be99",
+    "simhash": "1:78af96cc130516bf",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William CASTRO, Petitioner,\nv.\nR. Fred LEWIS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William CASTRO, Petitioner,\nv.\nR. Fred LEWIS, et al.\nNo. 19-862\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1124-04",
+  "first_page_order": 1124,
+  "last_page_order": 1124
+}

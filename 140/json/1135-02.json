@@ -1,0 +1,64 @@
+{
+  "id": 12625147,
+  "name": "Alex KNIGHT, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Knight v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-6265",
+  "first_page": "1135",
+  "last_page": "1135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1135"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "ea4d6cd27e8be1eebf2afefe6dc6b818f91269cf8a39b188ee12e0e42eced5df",
+    "simhash": "1:bfed56441705963f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alex KNIGHT, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alex KNIGHT, Petitioner,\nv.\nUNITED STATES.\nNo. 19-6265\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1135-02",
+  "first_page_order": 1135,
+  "last_page_order": 1135
+}

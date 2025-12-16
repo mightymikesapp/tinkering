@@ -1,0 +1,64 @@
+{
+  "id": 12630336,
+  "name": "James LYLE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lyle v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-5671",
+  "first_page": "846",
+  "last_page": "846",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 846"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 470"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "3a9543a9ce22b919ade4f2ad447754f61ff02e7d8bdc17466e4ceef60e0deef0",
+    "simhash": "1:78af66c63b44750d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James LYLE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James LYLE, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5671\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0846-05",
+  "first_page_order": 846,
+  "last_page_order": 846
+}

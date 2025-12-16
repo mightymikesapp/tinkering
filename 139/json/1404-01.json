@@ -1,0 +1,64 @@
+{
+  "id": 12618988,
+  "name": "Thomas Lee DEAL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Deal v. United States",
+  "decision_date": "2019-03-25",
+  "docket_number": "No. 91\u20138199.",
+  "first_page": "1404",
+  "last_page": "1404",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1404"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 249,
+    "sha256": "95e116edc99dd86c64aec4956cdd6c8c47126b19de3ffee660fb29be4979fd4e",
+    "simhash": "1:bfbe3c433fe7fa4d",
+    "word_count": 42
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Lee DEAL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "THE CHIEF JUSTICE took no part in the consideration or decision of this motion.",
+        "type": "majority",
+        "author": "THE CHIEF JUSTICE took no part in the consideration or decision of this motion."
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Lee DEAL, petitioner,\nv.\nUNITED STATES.\nNo. 91-8199.\nSupreme Court of the United States\nMarch 25, 2019.\nMotion for leave to file a petition for rehearing denied."
+  },
+  "file_name": "1404-01",
+  "first_page_order": 1404,
+  "last_page_order": 1404
+}

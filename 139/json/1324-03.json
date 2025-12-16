@@ -1,0 +1,64 @@
+{
+  "id": 12618448,
+  "name": "Lamar SOWELL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Sowell v. United States",
+  "decision_date": "2019-03-18",
+  "docket_number": "No. 18\u20136913.",
+  "first_page": "1324",
+  "last_page": "1324",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1324"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 573"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "053cf2c8efa648eb8f512e6965bc958f5847330949fbc03997c05f43e8834ab3",
+    "simhash": "1:f0ad74443f0cd211",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lamar SOWELL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lamar SOWELL, petitioner,\nv.\nUNITED STATES.\nNo. 18-6913.\nSupreme Court of the United States\nMarch 18, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1324-03",
+  "first_page_order": 1324,
+  "last_page_order": 1324
+}

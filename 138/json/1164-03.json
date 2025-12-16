@@ -1,0 +1,64 @@
+{
+  "id": 12610461,
+  "name": "NEW YORK, et al., petitioners, v. ENVIRONMENTAL PROTECTION AGENCY, et al.",
+  "name_abbreviation": "New York v. Envtl. Prot. Agency",
+  "decision_date": "2018-02-26",
+  "docket_number": "No. 17\u2013418.",
+  "first_page": "1164",
+  "last_page": "1165",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1164"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 314"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 238,
+    "sha256": "477b1f6d9aa4130e0867c22e2dd2033c00fcee09fbf40ce1118176efde336b7a",
+    "simhash": "1:10a5f4843a420309",
+    "word_count": 39
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NEW YORK, et al., petitioners,\nv.\nENVIRONMENTAL PROTECTION AGENCY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "NEW YORK, et al., petitioners,\nv.\nENVIRONMENTAL PROTECTION AGENCY, et al.\nNo. 17-418.\nSupreme Court of the United States\nFeb. 26, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1164-03",
+  "first_page_order": 1164,
+  "last_page_order": 1165
+}

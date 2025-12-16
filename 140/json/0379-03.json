@@ -1,0 +1,64 @@
+{
+  "id": 12628587,
+  "name": "David BRENNAN, Petitioner v. WHITE COUNTY, ARKANSAS",
+  "name_abbreviation": "Brennan v. White Cnty.",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-328",
+  "first_page": "379",
+  "last_page": "379",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 379"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 220"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 193,
+    "sha256": "416a7179ce7801772ec16caf1e0802c9d8c461f3a0dee2cf7df8053a6ed8c7b0",
+    "simhash": "1:e87f6400b28201b8",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David BRENNAN, Petitioner\nv.\nWHITE COUNTY, ARKANSAS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Arkansas denied."
+    ],
+    "corrections": "",
+    "head_matter": "David BRENNAN, Petitioner\nv.\nWHITE COUNTY, ARKANSAS\nNo. 19-328\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the Court of Appeals of Arkansas denied."
+  },
+  "file_name": "0379-03",
+  "first_page_order": 379,
+  "last_page_order": 379
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12621711,
+  "name": "In Re Christopher JOHNSON, petitioner.",
+  "name_abbreviation": "In re Johnson",
+  "decision_date": "2019-06-17",
+  "docket_number": "No. 18\u20139403.",
+  "first_page": "2732",
+  "last_page": "2732",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2732"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1124"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 146,
+    "sha256": "2372338390b9b98b35b9c192957457ab2e945873c6865dcd1241d67a36e52713",
+    "simhash": "1:e82966464f435741",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Christopher JOHNSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Christopher JOHNSON, petitioner.\nNo. 18-9403.\nSupreme Court of the United States\nJune 17, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2732-04",
+  "first_page_order": 2732,
+  "last_page_order": 2732
+}

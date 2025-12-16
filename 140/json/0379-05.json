@@ -1,0 +1,64 @@
+{
+  "id": 12628589,
+  "name": "Joseph FLOWERS, Petitioner v. F. FOULK, Warden",
+  "name_abbreviation": "Flowers v. Foulk",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5729",
+  "first_page": "379",
+  "last_page": "379",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 379"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 213,
+    "sha256": "3e85e30dfe05eb5588113d40d3dfc1db751ea91821a6ffed6948392a2abf36d6",
+    "simhash": "1:ebaf7444378447ab",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph FLOWERS, Petitioner\nv.\nF. FOULK, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph FLOWERS, Petitioner\nv.\nF. FOULK, Warden\nNo. 19-5729\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0379-05",
+  "first_page_order": 379,
+  "last_page_order": 379
+}

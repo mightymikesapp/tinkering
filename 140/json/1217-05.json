@@ -1,0 +1,64 @@
+{
+  "id": 12625376,
+  "name": "Samuel TURNER, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Turner v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7171",
+  "first_page": "1217",
+  "last_page": "1217",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1217"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "48c564651f518f2d605e69e620c754267c36167f1c18ec744b6d3378035b5eaa",
+    "simhash": "1:67aff444a70bf2a1",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Samuel TURNER, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel TURNER, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7171\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "1217-05",
+  "first_page_order": 1217,
+  "last_page_order": 1217
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12621340,
+  "name": "Henry Earl MILLER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Miller v. United States",
+  "decision_date": "2019-06-03",
+  "docket_number": "No. 18\u20139016.",
+  "first_page": "2678",
+  "last_page": "2678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2678"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1085"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 290,
+    "sha256": "533a021245794c0a5af4d62f821620b578f46809513683e8222474c88d8be427",
+    "simhash": "1:dbff62c43f04d713",
+    "word_count": 48
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry Earl MILLER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Henry Earl MILLER, petitioner,\nv.\nUNITED STATES.\nNo. 18-9016.\nSupreme Court of the United States\nJune 3, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2678-06",
+  "first_page_order": 2678,
+  "last_page_order": 2678
+}

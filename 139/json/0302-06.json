@@ -1,0 +1,64 @@
+{
+  "id": 12622150,
+  "name": "John HENSON, petitioner, v. Darren GRIEM.",
+  "name_abbreviation": "Henson v. Griem",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18M31.",
+  "first_page": "302",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 302"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 192,
+    "sha256": "d2705ef740e4752f71ba94f22c780497712149d8d7fd415e6b0ae24fa7435431",
+    "simhash": "1:79cf7024c9c9051b",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John HENSON, petitioner,\nv.\nDarren GRIEM."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "John HENSON, petitioner,\nv.\nDarren GRIEM.\nNo. 18M31.\nSupreme Court of the United States\nOct. 1, 2018.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0302-06",
+  "first_page_order": 302,
+  "last_page_order": 302
+}

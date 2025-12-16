@@ -1,0 +1,64 @@
+{
+  "id": 12622719,
+  "name": "Charles RICHARDSON, petitioner, v. Jason KENT, Warden.",
+  "name_abbreviation": "Richardson v. Kent",
+  "decision_date": "2018-10-29",
+  "docket_number": "No. 18\u20135649.",
+  "first_page": "416",
+  "last_page": "416",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 416"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 321"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 219,
+    "sha256": "d1e31ec8ffca50b666e38812ae26a9e5f5106920073184a807fde1f2f4f39de0",
+    "simhash": "1:e4ae644d3b85072d",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles RICHARDSON, petitioner,\nv.\nJason KENT, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles RICHARDSON, petitioner,\nv.\nJason KENT, Warden.\nNo. 18-5649.\nSupreme Court of the United States\nOct. 29, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0416-04",
+  "first_page_order": 416,
+  "last_page_order": 416
+}

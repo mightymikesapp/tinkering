@@ -1,0 +1,64 @@
+{
+  "id": 12625722,
+  "name": "Jerome HAYES, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hayes v. United States",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 18-7833.",
+  "first_page": "1287",
+  "last_page": "1287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1287"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 266"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 288,
+    "sha256": "c1a8708c5cacd9a032f7244420442c549902b58fd3f9ad1b028534dc7365cef2",
+    "simhash": "1:f9aff244370c12db",
+    "word_count": 47
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerome HAYES, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice Kagan took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Kagan took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerome HAYES, Petitioner,\nv.\nUNITED STATES.\nNo. 18-7833.\nSupreme Court of the United States.\nMarch 2, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1287-01",
+  "first_page_order": 1287,
+  "last_page_order": 1287
+}

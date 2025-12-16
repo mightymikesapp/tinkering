@@ -1,0 +1,64 @@
+{
+  "id": 12618389,
+  "name": "Robert AUSTIN, petitioner, v. DISTRICT ATTORNEY OF PHILADELPHIA COUNTY, PENNSYLVANIA, et al.",
+  "name_abbreviation": "Austin v. Dist. Attorney of Phila. Cnty.",
+  "decision_date": "2019-03-04",
+  "docket_number": "No. 18\u20135704.",
+  "first_page": "1310",
+  "last_page": "1310",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1310"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 431"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 265,
+    "sha256": "7fdde19a2de08fdf24bc19b355f45e2f97807a599c80d3c90413125081c7b7a2",
+    "simhash": "1:1bb59808b76ed647",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert AUSTIN, petitioner,\nv.\nDISTRICT ATTORNEY OF PHILADELPHIA COUNTY, PENNSYLVANIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert AUSTIN, petitioner,\nv.\nDISTRICT ATTORNEY OF PHILADELPHIA COUNTY, PENNSYLVANIA, et al.\nNo. 18-5704.\nSupreme Court of the United States\nMarch 4, 2019.\nPetition for rehearing denied."
+  },
+  "file_name": "1310-07",
+  "first_page_order": 1310,
+  "last_page_order": 1310
+}

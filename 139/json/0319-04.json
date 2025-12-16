@@ -1,0 +1,88 @@
+{
+  "id": 12622249,
+  "name": "Ndioba NIANG, et al., petitioners, v. Brittany TOMBLINSON, et al.",
+  "name_abbreviation": "Niang v. Tomblinson",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 17\u20131428.",
+  "first_page": "319",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 319"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 212"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": -1
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 2,
+      "year": 1950,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 479,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26362946256712266
+    },
+    "sha256": "4fadb2421cc9b90106532969599bb94e8ee0e8829b2d31418d261c5631b0f0a8",
+    "simhash": "1:6eafe0bca3d01782",
+    "word_count": 81
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ndioba NIANG, et al., petitioners,\nv.\nBrittany TOMBLINSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ndioba NIANG, et al., petitioners,\nv.\nBrittany TOMBLINSON, et al.\nNo. 17-1428.\nSupreme Court of the United States\nOct. 9, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to that court with instructions to direct the District Court to dismiss the case as moot. See United States v. Munsingwear, Inc., 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36(1950)."
+  },
+  "file_name": "0319-04",
+  "first_page_order": 319,
+  "last_page_order": 319
+}

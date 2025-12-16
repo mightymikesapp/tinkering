@@ -1,0 +1,64 @@
+{
+  "id": 12617337,
+  "name": "James E. SMITH, petitioner, v. ARKANSAS.",
+  "name_abbreviation": "Smith v. Arkansas",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20139051.",
+  "first_page": "107",
+  "last_page": "107",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 107"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 67"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 177,
+    "sha256": "632ded7300b798453e6303cff144700469f10c815fada8bc91930a8fbfe15926",
+    "simhash": "1:e8af604c3a860495",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James E. SMITH, petitioner,\nv.\nARKANSAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Arkansas denied."
+    ],
+    "corrections": "",
+    "head_matter": "James E. SMITH, petitioner,\nv.\nARKANSAS.\nNo. 17-9051.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Supreme Court of Arkansas denied."
+  },
+  "file_name": "0107-02",
+  "first_page_order": 107,
+  "last_page_order": 107
+}

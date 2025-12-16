@@ -1,0 +1,64 @@
+{
+  "id": 12624269,
+  "name": "Andrew CHIEN, petitioner, v. Andrew K. CLARK, et al.",
+  "name_abbreviation": "Chien v. Clark",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u2013598.",
+  "first_page": "826",
+  "last_page": "826",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 826"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 579"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "6b594ab46f62d2eff8a707548ae39427c4cb3b75e96f2d1087638c2fee6a0dfc",
+    "simhash": "1:7a2644c43e000305",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew CHIEN, petitioner,\nv.\nAndrew K. CLARK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew CHIEN, petitioner,\nv.\nAndrew K. CLARK, et al.\nNo. 18-598.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0826-05",
+  "first_page_order": 826,
+  "last_page_order": 826
+}

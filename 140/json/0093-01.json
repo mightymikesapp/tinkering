@@ -1,0 +1,64 @@
+{
+  "id": 12630752,
+  "name": "David MARSHALL, Petitioner, v. WISCONSIN.",
+  "name_abbreviation": "Marshall v. Wisconsin",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9326",
+  "first_page": "93",
+  "last_page": "93",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 93"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 71"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 209,
+    "sha256": "99b4679cce83684407c5633214566b7f32b5741b925bee2f6b8ca2b5e687e0b1",
+    "simhash": "1:caaf704e268413a0",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David MARSHALL, Petitioner,\nv.\nWISCONSIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David MARSHALL, Petitioner,\nv.\nWISCONSIN.\nNo. 18-9326\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0093-01",
+  "first_page_order": 93,
+  "last_page_order": 93
+}

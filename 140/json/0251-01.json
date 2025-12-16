@@ -1,0 +1,64 @@
+{
+  "id": 12626704,
+  "name": "Carlos ORTIZ, Petitioner, v. DELAWARE",
+  "name_abbreviation": "Ortiz v. Delaware",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5039",
+  "first_page": "251",
+  "last_page": "251",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 251"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 176,
+    "sha256": "e24060cac7855ea8903c16eba53b1bd2bed4c4fdcabc8a817e23cac62cd73274",
+    "simhash": "1:72ef041c32863117",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos ORTIZ, Petitioner,\nv.\nDELAWARE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Delaware denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos ORTIZ, Petitioner,\nv.\nDELAWARE\nNo. 19-5039\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Supreme Court of Delaware denied."
+  },
+  "file_name": "0251-01",
+  "first_page_order": 251,
+  "last_page_order": 251
+}

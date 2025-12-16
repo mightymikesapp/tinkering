@@ -1,0 +1,64 @@
+{
+  "id": 12629062,
+  "name": "Linda BOLTON, et vir, Petitioners, v. UNITED STATES",
+  "name_abbreviation": "Bolton v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-95",
+  "first_page": "47",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 47"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 215,
+    "sha256": "a07c5bb07ff4b03f924ad2669f870282a061a63e396308cf7ee452f5febd36dc",
+    "simhash": "1:faad744c278556ad",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Linda BOLTON, et vir, Petitioners,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Linda BOLTON, et vir, Petitioners,\nv.\nUNITED STATES\nNo. 19-95\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0047-05",
+  "first_page_order": 47,
+  "last_page_order": 47
+}

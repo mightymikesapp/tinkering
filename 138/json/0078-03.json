@@ -1,0 +1,64 @@
+{
+  "id": 12616865,
+  "name": "SUPREME COURT OF NEW MEXICO, et al., petitioners, v. UNITED STATES.",
+  "name_abbreviation": "Supreme Court of N.M. v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20131323.",
+  "first_page": "78",
+  "last_page": "78",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 78"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 310,
+    "sha256": "9406c5d65ffaa019d8954ae6baef10eefa6937256e680f22568ec34c576a4fc8",
+    "simhash": "1:d93ff2443f86155b",
+    "word_count": 52
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SUPREME COURT OF NEW MEXICO, et al., petitioners,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice GORCUCH took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice GORCUCH took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "SUPREME COURT OF NEW MEXICO, et al., petitioners,\nv.\nUNITED STATES.\nNo. 16-1323.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0078-03",
+  "first_page_order": 78,
+  "last_page_order": 78
+}

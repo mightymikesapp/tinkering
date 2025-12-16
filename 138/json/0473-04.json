@@ -1,0 +1,64 @@
+{
+  "id": 12615370,
+  "name": "TEXAS, petitioner, v. Jerry HARTFIELD.",
+  "name_abbreviation": "Texas v. Hartfield",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 17\u2013394.",
+  "first_page": "473",
+  "last_page": "473",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 473"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 374"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 265,
+    "sha256": "bc53698c06220065af62080b5e0a601c6676053b9ff3ec11ab9c2c55bc87d6ad",
+    "simhash": "1:3afbe46760c18598",
+    "word_count": 42
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TEXAS, petitioner,\nv.\nJerry HARTFIELD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the Court of Appeals of Texas, Thirteenth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "TEXAS, petitioner,\nv.\nJerry HARTFIELD.\nNo. 17-394.\nSupreme Court of the United States\nNov. 27, 2017.\nMotion of respondent for leave to proceed in forma pauperis granted. Petition for writ of certiorari to the Court of Appeals of Texas, Thirteenth District denied."
+  },
+  "file_name": "0473-04",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

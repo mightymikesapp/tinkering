@@ -1,0 +1,64 @@
+{
+  "id": 12624011,
+  "name": "CONNECTICUT, petitioner, v. Michael SKAKEL.",
+  "name_abbreviation": "Connecticut v. Skakel",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u2013185.",
+  "first_page": "788",
+  "last_page": "788",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 788"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 569"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 182,
+    "sha256": "eb69a7d95a002a0a68985dacbfeae61676d8c40a6bfce9c296cb80e9fc60870b",
+    "simhash": "1:e8e7244432c342b0",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CONNECTICUT, petitioner,\nv.\nMichael SKAKEL."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Connecticut denied."
+    ],
+    "corrections": "",
+    "head_matter": "CONNECTICUT, petitioner,\nv.\nMichael SKAKEL.\nNo. 18-185.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the Supreme Court of Connecticut denied."
+  },
+  "file_name": "0788-05",
+  "first_page_order": 788,
+  "last_page_order": 788
+}

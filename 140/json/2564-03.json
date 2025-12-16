@@ -1,0 +1,64 @@
+{
+  "id": 12626977,
+  "name": "Mark ELSTER, et al., Petitioners, v. CITY OF SEATTLE, WASHINGTON.",
+  "name_abbreviation": "Elster v. City of Seattle",
+  "decision_date": "2020-03-30",
+  "docket_number": "No. 19-608.",
+  "first_page": "2564",
+  "last_page": "2564",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2564"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 496"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 205,
+    "sha256": "aad2abe19b63764596049c75f8c0c5912fd6f5646186835832e2d29c39e86e62",
+    "simhash": "1:daedd212b62170c9",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark ELSTER, et al., Petitioners,\nv.\nCITY OF SEATTLE, WASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Washington denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark ELSTER, et al., Petitioners,\nv.\nCITY OF SEATTLE, WASHINGTON.\nNo. 19-608.\nSupreme Court of the United States.\nMarch 30, 2020\nPetition for writ of certiorari to the Supreme Court of Washington denied."
+  },
+  "file_name": "2564-03",
+  "first_page_order": 2564,
+  "last_page_order": 2564
+}

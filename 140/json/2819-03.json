@@ -1,0 +1,64 @@
+{
+  "id": 12628117,
+  "name": "Tyrone PRICE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Price v. United States",
+  "decision_date": "2020-05-26",
+  "docket_number": "No. 19-8361.",
+  "first_page": "2819",
+  "last_page": "2819",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2819"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 151"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "5bfb558a1f2daa4e736cd4ce7c70277c1002c98b53fc5b195b3ea9045d9df80c",
+    "simhash": "1:f6ad54463b8ed035",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tyrone PRICE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tyrone PRICE, Petitioner,\nv.\nUNITED STATES.\nNo. 19-8361.\nSupreme Court of the United States.\nMay 26, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "2819-03",
+  "first_page_order": 2819,
+  "last_page_order": 2819
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12628091,
+  "name": "Jose PASSALACQUA, Petitioner, v. Mike MCDONALD, Warden.",
+  "name_abbreviation": "Passalacqua v. McDonald",
+  "decision_date": "2020-05-26",
+  "docket_number": "No. 19-8093.",
+  "first_page": "2813",
+  "last_page": "2813",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2813"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 147"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 219,
+    "sha256": "b07a053c1db5031abe08f6d2f9b66777063e90a183c98247866b21a52ddf1029",
+    "simhash": "1:d3af56443fc433bb",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose PASSALACQUA, Petitioner,\nv.\nMike MCDONALD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose PASSALACQUA, Petitioner,\nv.\nMike MCDONALD, Warden.\nNo. 19-8093.\nSupreme Court of the United States.\nMay 26, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2813-04",
+  "first_page_order": 2813,
+  "last_page_order": 2813
+}

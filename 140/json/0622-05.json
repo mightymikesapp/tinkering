@@ -1,0 +1,64 @@
+{
+  "id": 12629778,
+  "name": "IN RE Larry POUNCY, Petitioner.",
+  "name_abbreviation": "In re Pouncy",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-6112",
+  "first_page": "622",
+  "last_page": "622",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 622"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 411"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 136,
+    "sha256": "bedad4c56bcb9784f47a9764e01403eb9b24281de25d194b8845a32286777f7c",
+    "simhash": "1:782ff210c0d5b5b5",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Larry POUNCY, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Larry POUNCY, Petitioner.\nNo. 19-6112\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0622-05",
+  "first_page_order": 622,
+  "last_page_order": 622
+}

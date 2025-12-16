@@ -1,0 +1,64 @@
+{
+  "id": 12625989,
+  "name": "Victor NUNEZ, Petitioner, v. Sean BOWERMAN, Warden.",
+  "name_abbreviation": "Nunez v. Bowerman",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19-7482.",
+  "first_page": "1545",
+  "last_page": "1545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1545"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 217,
+    "sha256": "fa9a9a81e7fa868c7ebd7b013e148e5cf7fae0a4eb30b3b622bc2cb5301ea5c6",
+    "simhash": "1:f86dc206b70106ab",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Victor NUNEZ, Petitioner,\nv.\nSean BOWERMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Victor NUNEZ, Petitioner,\nv.\nSean BOWERMAN, Warden.\nNo. 19-7482.\nSupreme Court of the United States.\nMarch 9, 2020.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1545-03",
+  "first_page_order": 1545,
+  "last_page_order": 1545
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12629965,
+  "name": "In the MATTER OF DISBARMENT OF Steven Anthony LANG",
+  "name_abbreviation": "In re Lang",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. D-3051",
+  "first_page": "658",
+  "last_page": "658",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 658"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 417"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 142,
+    "sha256": "63a46eb46232b9f7317227bc9855331754a148f7d245a50f2bc9dc778aeff5dd",
+    "simhash": "1:7021c40e72a434f1",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the MATTER OF DISBARMENT OF Steven Anthony LANG"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the MATTER OF DISBARMENT OF Steven Anthony LANG\nNo. D-3051\nSupreme Court of the United States.\nDecember 9, 2019\nDisbarment order entered."
+  },
+  "file_name": "0658-03",
+  "first_page_order": 658,
+  "last_page_order": 658
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12615673,
+  "name": "Greg ABBOTT, Governor of Texas, et al., applicants v. Shannon PEREZ, et al.",
+  "name_abbreviation": "Abbott v. Perez",
+  "decision_date": "2017-09-25",
+  "docket_number": "No. 17A225.",
+  "first_page": "52",
+  "last_page": "52",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 52"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 779"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 237,
+    "sha256": "1ddbf7b57ca96987eb5c477f153f1efa0c6f3ffe33ba5cf8e928d5e1968a6a37",
+    "simhash": "1:08a6b4961c8b3d0e",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Greg ABBOTT, Governor of Texas, et al., applicants\nv.\nShannon PEREZ, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Greg ABBOTT, Governor of Texas, et al., applicants\nv.\nShannon PEREZ, et al.\nNo. 17A225.\nSupreme Court of the United States\nSept. 25, 2017.\nRespondent's letter to the Clerk, dated September 15, 2017, is construed as a motion and denied."
+  },
+  "file_name": "0052-06",
+  "first_page_order": 52,
+  "last_page_order": 52
+}

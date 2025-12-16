@@ -1,0 +1,68 @@
+{
+  "id": 12623883,
+  "name": "Dorsey R. McCALL, v. APTIM CORP.",
+  "name_abbreviation": "McCall v. APTIM Corp.",
+  "decision_date": "2018-12-19",
+  "docket_number": "No. 18\u2013572 (R46\u201306/OT 2018).",
+  "first_page": "660",
+  "last_page": "660",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 660"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 219,
+    "pagerank": {
+      "raw": 4.856319230494445e-08,
+      "percentile": 0.3061493160412055
+    },
+    "sha256": "8cbff09ffd6267e6b6672628b13efa20bd44926102f4e68b85d825669a0de9e7",
+    "simhash": "1:7baf0056b8cf721b",
+    "word_count": 38
+  },
+  "last_updated": "2023-03-29T19:33:20.158477+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dorsey R. McCALL,\nv.\nAPTIM CORP."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46.1 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "Dorsey R. McCALL,\nv.\nAPTIM CORP.\nNo. 18-572 (R46-06/OT 2018).\nSupreme Court of the United States\nDec. 19, 2018.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46.1 of the Rules of this Court."
+  },
+  "file_name": "0660-01",
+  "first_page_order": 660,
+  "last_page_order": 660
+}

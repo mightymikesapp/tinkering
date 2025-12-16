@@ -1,0 +1,64 @@
+{
+  "id": 12626914,
+  "name": "Charles WOLFE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Wolfe v. United States",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-7737.",
+  "first_page": "2552",
+  "last_page": "2552",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2552"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 487"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "a54e785c844c6f2a4c4a2796cb0096c60dfa7075485da1ec205fc4a168fcf49d",
+    "simhash": "1:7eadf446338213ac",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles WOLFE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles WOLFE, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7737.\nSupreme Court of the United States.\nMarch 23, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "2552-05",
+  "first_page_order": 2552,
+  "last_page_order": 2552
+}

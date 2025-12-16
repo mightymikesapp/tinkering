@@ -1,0 +1,64 @@
+{
+  "id": 12623989,
+  "name": "Jason J. NEBINGER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Nebinger v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 17\u20138282.",
+  "first_page": "785",
+  "last_page": "785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 785"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "d3abe183ce173750ff224d17fbd71bd9b451bdd7a9d32e331e5350b962044872",
+    "simhash": "1:99ac644422868204",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason J. NEBINGER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason J. NEBINGER, petitioner,\nv.\nUNITED STATES.\nNo. 17-8282.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0785-01",
+  "first_page_order": 785,
+  "last_page_order": 785
+}

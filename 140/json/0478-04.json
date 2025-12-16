@@ -1,0 +1,64 @@
+{
+  "id": 12629105,
+  "name": "Randall TURNER, Petitioner v. TENNESSEE.",
+  "name_abbreviation": "Turner v. Tennessee",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-5792",
+  "first_page": "478",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 478"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 278"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 199,
+    "sha256": "13a0ea072776678883b3faa8253efb240765317cda8dba47d0e0c06d72fcd9e7",
+    "simhash": "1:e3ef140492f31339",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randall TURNER, Petitioner\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Tennessee, Eastern Division denied."
+    ],
+    "corrections": "",
+    "head_matter": "Randall TURNER, Petitioner\nv.\nTENNESSEE.\nNo. 19-5792\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of certiorari to the Supreme Court of Tennessee, Eastern Division denied."
+  },
+  "file_name": "0478-04",
+  "first_page_order": 478,
+  "last_page_order": 478
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12629143,
+  "name": "Ricardo IRIVE, Petitioner v. Jo GENTRY, Warden, et al.",
+  "name_abbreviation": "Irive v. Gentry",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-5954",
+  "first_page": "485",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 485"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 283"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 221,
+    "sha256": "98febb21d72f8c05e44759cdc805fee0fb9fd82cc4b8ee3fa1e81a7a7ccb598b",
+    "simhash": "1:c0ad7245120517a0",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ricardo IRIVE, Petitioner\nv.\nJo GENTRY, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ricardo IRIVE, Petitioner\nv.\nJo GENTRY, Warden, et al.\nNo. 19-5954\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0485-04",
+  "first_page_order": 485,
+  "last_page_order": 485
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630903,
+  "name": "Albert DIAZ, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Diaz v. United States",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-772",
+  "first_page": "960",
+  "last_page": "960",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 960"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 122"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "c5293d82dbbd22eb615161556aadfdbf42fe5663854e25d57a089857ddfa1d6f",
+    "simhash": "1:efaff444350456af",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albert DIAZ, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Albert DIAZ, Petitioner,\nv.\nUNITED STATES.\nNo. 19-772\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0960-01",
+  "first_page_order": 960,
+  "last_page_order": 960
+}

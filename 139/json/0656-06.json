@@ -1,0 +1,62 @@
+{
+  "id": 12623855,
+  "name": "RETURN MAIL, INC., petitioner, v. UNITED STATES POSTAL SERVICE, et al.",
+  "name_abbreviation": "Return Mail, Inc. v. U.S. Postal Serv.",
+  "decision_date": "2018-12-10",
+  "docket_number": "No. 17\u20131594.",
+  "first_page": "656",
+  "last_page": "656",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 656"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 210,
+    "sha256": "89f26d03bb6eb34f5fe281f54c07b527c604a2366dfcbc338f892a84217fd71e",
+    "simhash": "1:208385421d32773d",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RETURN MAIL, INC., petitioner,\nv.\nUNITED STATES POSTAL SERVICE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "RETURN MAIL, INC., petitioner,\nv.\nUNITED STATES POSTAL SERVICE, et al.\nNo. 17-1594.\nSupreme Court of the United States\nDec. 10, 2018.\nMotion of petitioner to dispense with printing the joint appendix granted."
+  },
+  "file_name": "0656-06",
+  "first_page_order": 656,
+  "last_page_order": 656
+}

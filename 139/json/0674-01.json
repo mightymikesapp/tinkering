@@ -1,0 +1,134 @@
+{
+  "id": 12623894,
+  "name": "Aaron J. SCHOCK v. UNITED STATES",
+  "name_abbreviation": "Schock v. United States",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18-406",
+  "first_page": "674",
+  "last_page": "675",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 674"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "514 U.S. 35",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1340371
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/0035-01"
+      ]
+    },
+    {
+      "cite": "2017 WL 4780614",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "*7"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "59 F.3d 1291",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        179484,
+        3622086
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/59/1291-01",
+        "/us-app-dc/313/0303-01"
+      ]
+    },
+    {
+      "cite": "891 F.3d 334",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12517086
+      ],
+      "year": 2018,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/891/0334-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 258,
+    "char_count": 2936,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636383433937654
+    },
+    "sha256": "8ab1d9928cdce82a30c1819cb52e9dccb503370b56752dda0315ed216388e573",
+    "simhash": "1:bbf9c7ec488353f3",
+    "word_count": 455
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aaron J. SCHOCK\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "Statement of Justice SOTOMAYOR respecting the denial of certiorari.\nPetitioner Aaron Schock, a former Congressman from Illinois, asks us to decide whether he may immediately appeal, as a collateral order, the denial of his motion to dismiss part of a criminal indictment against him for running afoul of the Constitution's Rulemaking Clause. See Art. I, \u00a7 5. He argues that certain charges against him would require the District Court for the Central District of Illinois to interpret internal rules adopted by the House of Representatives to govern its own Members, and thus would violate separation-of-powers doctrine. The Court of Appeals for the Seventh Circuit held that denials of such Rulemaking Clause challenges are not collateral orders subject to immediate appeal, 891 F.3d 334 (2018), in disagreement with at least one other Court of Appeals, see United States v. Rostenkowski , 59 F.3d 1291, 1297 (C.A.D.C. 1995). Although this question does not arise frequently-presumably because criminal charges against Members of Congress are rare-the sensitive separation-of-powers questions that such prosecutions raise ought to be handled uniformly.\nIt is not clear, however, that this case cleanly presents the question whether such orders are, as a general matter, immediately appealable. The District Court here denied the motion to dismiss on Rulemaking Clause grounds only provisionally, stating that it would revisit the matter \"if at any time it becomes apparent that the prosecution will rely upon evidence that requires the interpretation of House Rules.\" 2017 WL 4780614, *7, and n. 6 (C.D. Ill., Oct. 23, 2017). Indeed, the District Court dismissed the only count of the indictment that did, in its view, necessarily turn on an interpretation of the House Rules. Id., at *8-*11. As a result, the District Court's order may have been insufficiently \"conclusive\" to support collateral-order appellate jurisdiction, whether or not such jurisdiction would otherwise have been proper. See Swint v. Chambers County Comm'n , 514 U.S. 35, 42, 115 S.Ct. 1203, 131 L.Ed.2d 60 (1995). The Court of Appeals did not address that alternative ground for affirmance, the presence of which might complicate our review.\nI therefore concur in the Court's decision to deny certiorari. I do so on the understanding, however, that Schock remains free to reassert his Rulemaking Clause challenge in the District Court should subsequent developments warrant.\nIn its briefing to the Court of Appeals, the Government argued that the House regulations were, in fact, \" 'necessary' \" and \"important\" to prove other charges still pending. Brief for Appellee in No. 17-3277 (CA7), p. 55. Those representations may be pertinent to the District Court's further consideration of Schock's arguments.",
+        "type": "majority",
+        "author": "Statement of Justice SOTOMAYOR respecting the denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The petition for a writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Aaron J. SCHOCK\nv.\nUNITED STATES\nNo. 18-406\nSupreme Court of the United States.\nDecided February 19, 2019\nThe petition for a writ of certiorari is denied."
+  },
+  "file_name": "0674-01",
+  "first_page_order": 674,
+  "last_page_order": 675
+}

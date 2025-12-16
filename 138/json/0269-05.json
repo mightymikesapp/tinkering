@@ -1,0 +1,64 @@
+{
+  "id": 12613947,
+  "name": "James A. LISO, petitioner, v. Dave MARQUIS, Warden.",
+  "name_abbreviation": "Liso v. Marquis",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135517.",
+  "first_page": "269",
+  "last_page": "269",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 269"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 215,
+    "sha256": "53995dedd4d012221d9e4746b30358bb983e06f6593a29a7d2c6a2d8448464e2",
+    "simhash": "1:738c6244be00d3b0",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James A. LISO, petitioner,\nv.\nDave MARQUIS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James A. LISO, petitioner,\nv.\nDave MARQUIS, Warden.\nNo. 17-5517.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0269-05",
+  "first_page_order": 269,
+  "last_page_order": 269
+}

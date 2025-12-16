@@ -1,0 +1,64 @@
+{
+  "id": 12621630,
+  "name": "Lester James SMITH, petitioner, v. GEORGIA.",
+  "name_abbreviation": "Smith v. Georgia",
+  "decision_date": "2019-06-17",
+  "docket_number": "No. 18\u20138851.",
+  "first_page": "2720",
+  "last_page": "2720",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2720"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1116"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 180,
+    "sha256": "2d11db4fe2f800ece6e8dd7332b320171afcb059ff976ddfc2b83e061120de92",
+    "simhash": "1:e82f54c6588526f2",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lester James SMITH, petitioner,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lester James SMITH, petitioner,\nv.\nGEORGIA.\nNo. 18-8851.\nSupreme Court of the United States\nJune 17, 2019.\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "2720-04",
+  "first_page_order": 2720,
+  "last_page_order": 2720
+}

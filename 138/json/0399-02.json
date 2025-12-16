@@ -1,0 +1,64 @@
+{
+  "id": 12614887,
+  "name": "Blanche A. BROWN, petitioner, v. Jenna MERCADANTE, et al.",
+  "name_abbreviation": "Brown v. Mercadante",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u2013361.",
+  "first_page": "399",
+  "last_page": "399",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 399"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 221,
+    "sha256": "a958903a1209cc49359cca69e36e017c8538cb996748057c98b6cdaad7e89999",
+    "simhash": "1:79ae72543a9006b1",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Blanche A. BROWN, petitioner,\nv.\nJenna MERCADANTE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Blanche A. BROWN, petitioner,\nv.\nJenna MERCADANTE, et al.\nNo. 17-361.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0399-02",
+  "first_page_order": 399,
+  "last_page_order": 399
+}

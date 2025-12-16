@@ -1,0 +1,83 @@
+{
+  "id": 12612417,
+  "name": "Santiago Alejandro DIAZ-ESPARZA, petitioner, v. Jefferson B. SESSIONS, III, Attorney General.",
+  "name_abbreviation": "Diaz-Esparza v. Sessions",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u2013820.",
+  "first_page": "1986",
+  "last_page": "1986",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1986"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 241"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1204",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610616
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 502,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635985727353216
+    },
+    "sha256": "f0291a6a92d3c71f0e635bc070f2a9450f6f42204dcd21d006a730bc939d2a06",
+    "simhash": "1:9baee204b788079d",
+    "word_count": 79
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Santiago Alejandro DIAZ-ESPARZA, petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Santiago Alejandro DIAZ-ESPARZA, petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General.\nNo. 17-820.\nSupreme Court of the United States\nMay 14, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+  },
+  "file_name": "1986-02",
+  "first_page_order": 1986,
+  "last_page_order": 1986
+}

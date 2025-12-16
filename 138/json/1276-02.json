@@ -1,0 +1,62 @@
+{
+  "id": 12610752,
+  "name": "UNITED STATES, ex rel. Benjamin CARTER, petitioner, v. HALLIBURTON CO.,et al.",
+  "name_abbreviation": "United States ex rel. Carter v. Halliburton Co.",
+  "decision_date": "2018-03-05",
+  "docket_number": "No. 17\u20131060.",
+  "first_page": "1276",
+  "last_page": "1276",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1276"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 247,
+    "sha256": "9414743135451e1781a7284e09ff25f976fb4b9c986d17f8d479ef548f396d6f",
+    "simhash": "1:f2e05c4cbf9ef77e",
+    "word_count": 42
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, ex rel. Benjamin CARTER, petitioner,\nv.\nHALLIBURTON CO.,et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "UNITED STATES, ex rel. Benjamin CARTER, petitioner,\nv.\nHALLIBURTON CO.,et al.\nNo. 17-1060.\nSupreme Court of the United States\nMarch 5, 2018.\nThe Solicitor General is invited to file a brief in this case expressing the views of the United States."
+  },
+  "file_name": "1276-02",
+  "first_page_order": 1276,
+  "last_page_order": 1276
+}

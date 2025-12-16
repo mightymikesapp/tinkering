@@ -1,0 +1,81 @@
+{
+  "id": 12613022,
+  "name": "SIMMONS SPORTING GOODS, INC., petitioner, v. Carolyn LAWSON.",
+  "name_abbreviation": "Simmons Sporting Goods, Inc. v. Lawson",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u2013109.",
+  "first_page": "237",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 237"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 1773",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12604783
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/1773-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 473,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635999241654629
+    },
+    "sha256": "56190ca683b864b2d0288c85e6617dd3735d4f9d0c860b344b620bdad6d27b1c",
+    "simhash": "1:c99e620a11cb81d9",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SIMMONS SPORTING GOODS, INC., petitioner,\nv.\nCarolyn LAWSON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "SIMMONS SPORTING GOODS, INC., petitioner,\nv.\nCarolyn LAWSON.\nNo. 17-109.\nSupreme Court of the United States\nOct. 2, 2017.\nOn petition for writ of certiorari to the Court of Appeals of Arkansas. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Appeals of Arkansas for further consideration in light of Bristol-Myers Squibb Co. v. Superior Court of Cal., San Francisco Cty., 582 U.S. ----, 137 S.Ct. 1773, 198 L.Ed.2d 395 (2017)."
+  },
+  "file_name": "0237-06",
+  "first_page_order": 237,
+  "last_page_order": 238
+}

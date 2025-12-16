@@ -1,0 +1,64 @@
+{
+  "id": 12626871,
+  "name": "Juan PEREZ-ROMAN, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Perez-Roman v. United States",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-7608.",
+  "first_page": "2543",
+  "last_page": "2543",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2543"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 482"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "276373af930845864cbfecdbe588a3d4963b0764cd8951c406f89d2e0194d014",
+    "simhash": "1:f7ad74443785072f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan PEREZ-ROMAN, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan PEREZ-ROMAN, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7608.\nSupreme Court of the United States.\nMarch 23, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "2543-03",
+  "first_page_order": 2543,
+  "last_page_order": 2543
+}

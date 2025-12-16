@@ -1,0 +1,62 @@
+{
+  "id": 12629615,
+  "name": "Fernando NUNEZ, Petitioner v. PENNSYLVANIA",
+  "name_abbreviation": "Nunez v. Pennsylvania",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 19-6362",
+  "first_page": "572",
+  "last_page": "573",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 572"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 366"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 209,
+    "sha256": "53ed9f163f615a6bb85c92261daf899e35e36197509431d0ca1a30749d983987",
+    "simhash": "1:fc3714d8329997c5",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fernando NUNEZ, Petitioner\nv.\nPENNSYLVANIA"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Fernando NUNEZ, Petitioner\nv.\nPENNSYLVANIA\nNo. 19-6362\nSupreme Court of the United States.\nNovember 25, 2019\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office denied."
+  },
+  "file_name": "0572-01",
+  "first_page_order": 572,
+  "last_page_order": 573
+}

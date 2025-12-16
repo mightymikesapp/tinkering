@@ -1,0 +1,64 @@
+{
+  "id": 12612998,
+  "name": "Charles MOLNAR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Molnar v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135249.",
+  "first_page": "233",
+  "last_page": "233",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 233"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "1ec42382de3199cf21e2ed4ade1581843d72544a3250e6bb6b62a0706b38c0af",
+    "simhash": "1:e3ace6652f24f339",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles MOLNAR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles MOLNAR, petitioner,\nv.\nUNITED STATES.\nNo. 17-5249.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0233-07",
+  "first_page_order": 233,
+  "last_page_order": 233
+}

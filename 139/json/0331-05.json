@@ -1,0 +1,64 @@
+{
+  "id": 12622321,
+  "name": "In Re Deborah Elizabeth GOUCH-ONASSIS, petitioner.",
+  "name_abbreviation": "In re Gouch-Onassis",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 18\u20135455.",
+  "first_page": "331",
+  "last_page": "331",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 331"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 248,
+    "sha256": "e70a18bd8d487bcf8b337f191ac1e063c5368ded3fb45201e7cc02c4dd4b6f5d",
+    "simhash": "1:fae574c6e490e7fe",
+    "word_count": 40
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Deborah Elizabeth GOUCH-ONASSIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and the petition for a writ of mandamus dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Deborah Elizabeth GOUCH-ONASSIS, petitioner.\nNo. 18-5455.\nSupreme Court of the United States\nOct. 9, 2018.\nMotion of petitioner for leave to proceed in forma pauperis denied, and the petition for a writ of mandamus dismissed. See Rule 39.8."
+  },
+  "file_name": "0331-05",
+  "first_page_order": 331,
+  "last_page_order": 331
+}

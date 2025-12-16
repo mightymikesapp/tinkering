@@ -1,0 +1,82 @@
+{
+  "id": 12611070,
+  "name": "Tamny Denise WESTBROOKS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Westbrooks v. United States",
+  "decision_date": "2018-03-26",
+  "docket_number": "No. 17\u20135112.",
+  "first_page": "1323",
+  "last_page": "1323",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1323"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 510"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1101",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610418
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1101-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 539,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635908502773714
+    },
+    "sha256": "64c680545a9592cb56031a3fd9c253eaca641b96b039dce65b69076074f576c8",
+    "simhash": "1:5eadf0440c81860d",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tamny Denise WESTBROOKS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Marinello v. United States, 584 U.S. ----, 138 S.Ct. 1101, --- L.Ed.2d ---- (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Tamny Denise WESTBROOKS, petitioner,\nv.\nUNITED STATES.\nNo. 17-5112.\nSupreme Court of the United States\nMarch 26, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Marinello v. United States, 584 U.S. ----, 138 S.Ct. 1101, --- L.Ed.2d ---- (2018)."
+  },
+  "file_name": "1323-01",
+  "first_page_order": 1323,
+  "last_page_order": 1323
+}

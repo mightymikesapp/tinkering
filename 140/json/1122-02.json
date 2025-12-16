@@ -1,0 +1,64 @@
+{
+  "id": 12625090,
+  "name": "APPLE INC., Petitioner, v. VIRNETX INC., et al.",
+  "name_abbreviation": "Apple Inc. v. Virnetx Inc.",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-832",
+  "first_page": "1122",
+  "last_page": "1122",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1122"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 212,
+    "sha256": "49bf8e73442409ffcf67e8a1760989af685122393d3a30cc84e6a589e9419e21",
+    "simhash": "1:f8afd4c43705178f",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "APPLE INC., Petitioner,\nv.\nVIRNETX INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "APPLE INC., Petitioner,\nv.\nVIRNETX INC., et al.\nNo. 19-832\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "1122-02",
+  "first_page_order": 1122,
+  "last_page_order": 1122
+}

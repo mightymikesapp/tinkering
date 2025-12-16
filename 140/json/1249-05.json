@@ -1,0 +1,64 @@
+{
+  "id": 12625535,
+  "name": "IN RE Philippe BUHANNIC, Petitioner",
+  "name_abbreviation": "In re Buhannic",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-833",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1249"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 140,
+    "sha256": "cc123e4808035c81c7b724666868f5621a3e323192b4282d11f97f6a60ac1321",
+    "simhash": "1:d8071604f621b2b9",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Philippe BUHANNIC, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Philippe BUHANNIC, Petitioner\nNo. 19-833\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1249-05",
+  "first_page_order": 1249,
+  "last_page_order": 1249
+}

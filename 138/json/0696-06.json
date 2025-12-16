@@ -1,0 +1,64 @@
+{
+  "id": 12616437,
+  "name": "Jorge L. MILAN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Milan v. United States",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136785.",
+  "first_page": "696",
+  "last_page": "696",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 696"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 572"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 209,
+    "sha256": "abb255212b2ec93cbbca4b3f09da3653cb9e717bdce21e31225f2bbfefab7200",
+    "simhash": "1:39ad72443a07560c",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jorge L. MILAN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jorge L. MILAN, petitioner,\nv.\nUNITED STATES.\nNo. 17-6785.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0696-06",
+  "first_page_order": 696,
+  "last_page_order": 696
+}

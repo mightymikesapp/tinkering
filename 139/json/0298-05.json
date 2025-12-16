@@ -1,0 +1,64 @@
+{
+  "id": 12622123,
+  "name": "Walter L. WAGNER, et al., petitioners, v. UNITED STATES TRUSTEE, et al.",
+  "name_abbreviation": "Wagner v. U.S. Tr.",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18M4.",
+  "first_page": "298",
+  "last_page": "298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 298"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 221,
+    "sha256": "d48edd37807a6fb3d3055d2840cef553258ac3ae54ef19a2aebe5e7078b5e42f",
+    "simhash": "1:2a87d00687c119b9",
+    "word_count": 40
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Walter L. WAGNER, et al., petitioners,\nv.\nUNITED STATES TRUSTEE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Walter L. WAGNER, et al., petitioners,\nv.\nUNITED STATES TRUSTEE, et al.\nNo. 18M4.\nSupreme Court of the United States\nOct. 1, 2018.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0298-05",
+  "first_page_order": 298,
+  "last_page_order": 298
+}

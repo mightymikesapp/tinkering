@@ -1,0 +1,64 @@
+{
+  "id": 12629125,
+  "name": "Michael Don POGUE, Petitioner v. TEXAS.",
+  "name_abbreviation": "Pogue v. Texas",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-5920",
+  "first_page": "481",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 481"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 188,
+    "sha256": "e9581316ef27787ae751d6833545baf5d934ddc4d9e73bb16b21b6646160c35c",
+    "simhash": "1:79afe2a622c185b0",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Don POGUE, Petitioner\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Don POGUE, Petitioner\nv.\nTEXAS.\nNo. 19-5920\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0481-04",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

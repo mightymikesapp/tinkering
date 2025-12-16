@@ -1,0 +1,64 @@
+{
+  "id": 12623587,
+  "name": "Jimmy STEELE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Steele v. United States",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 18\u20136394.",
+  "first_page": "607",
+  "last_page": "607",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 607"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 447"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 279,
+    "sha256": "da7da9682f8d2b7679d3578cdbbe479428eb84ef1ee43e8486e6cea58d86e7ad",
+    "simhash": "1:7bce76c42ea4526d",
+    "word_count": 46
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jimmy STEELE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jimmy STEELE, petitioner,\nv.\nUNITED STATES.\nNo. 18-6394.\nSupreme Court of the United States\nDec. 3, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0607-05",
+  "first_page_order": 607,
+  "last_page_order": 607
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12621240,
+  "name": "In Re John Peyton ALEXANDER, petitioner.",
+  "name_abbreviation": "In re Alexander",
+  "decision_date": "2019-05-28",
+  "docket_number": "No. 18\u20137856.",
+  "first_page": "2662",
+  "last_page": "2662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2662"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "929788723721391fe0a96c4738909baad1316220192f1a4b0ae7b9067ba01d4e",
+    "simhash": "1:b1647445d488664c",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re John Peyton ALEXANDER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re John Peyton ALEXANDER, petitioner.\nNo. 18-7856.\nSupreme Court of the United States\nMay 28, 2019.\nPetition for rehearing denied."
+  },
+  "file_name": "2662-08",
+  "first_page_order": 2662,
+  "last_page_order": 2662
+}

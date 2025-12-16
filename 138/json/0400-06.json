@@ -1,0 +1,64 @@
+{
+  "id": 12614905,
+  "name": "Edward L. BROWN, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Brown v. Illinois",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u20135906.",
+  "first_page": "400",
+  "last_page": "400",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 400"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 295"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 198,
+    "sha256": "cbe0bc506ab9ed304352bc98ca2c27039c7eab92490bd1063c561b813e8ad056",
+    "simhash": "1:f0ae7654da888691",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward L. BROWN, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Second District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edward L. BROWN, petitioner,\nv.\nILLINOIS.\nNo. 17-5906.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the Appellate Court of Illinois, Second District denied."
+  },
+  "file_name": "0400-06",
+  "first_page_order": 400,
+  "last_page_order": 400
+}

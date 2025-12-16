@@ -1,0 +1,64 @@
+{
+  "id": 12626592,
+  "name": "Antonio PARRA PEREZ, Petitioner, v. TEXAS.",
+  "name_abbreviation": "Perez v. Texas",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9505",
+  "first_page": "236",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 236"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 87"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 198,
+    "sha256": "d3feb25cc1b269c80f3a16bb2741683d9004682e718e19455c92fc4b13ff3247",
+    "simhash": "1:f8ef7646f2c001ec",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio PARRA PEREZ, Petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Second District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio PARRA PEREZ, Petitioner,\nv.\nTEXAS.\nNo. 18-9505\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Texas, Second District denied."
+  },
+  "file_name": "0236-01",
+  "first_page_order": 236,
+  "last_page_order": 236
+}

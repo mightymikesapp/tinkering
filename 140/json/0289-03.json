@@ -1,0 +1,64 @@
+{
+  "id": 12628254,
+  "name": "IN RE TWELVE GRAND JURY SUBPOENAS",
+  "name_abbreviation": "In re Twelve Grand Jury Subpoenas",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-1207",
+  "first_page": "289",
+  "last_page": "289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 289"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 411,
+    "sha256": "65e2858ad4a8c3b123bd5616b8c665a625dc17e7a586410c97366e7dcad50682",
+    "simhash": "1:d2e6d0263fc21548",
+    "word_count": 71
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE TWELVE GRAND JURY SUBPOENAS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a brief in opposition under seal with redacted copies for the public record granted. Motion for leave to file a reply brief under seal with redacted copies for the public record granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE TWELVE GRAND JURY SUBPOENAS\nNo. 18-1207\nSupreme Court of the United States.\nOctober 7, 2019\nMotion for leave to file a brief in opposition under seal with redacted copies for the public record granted. Motion for leave to file a reply brief under seal with redacted copies for the public record granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0289-03",
+  "first_page_order": 289,
+  "last_page_order": 289
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12614162,
+  "name": "Steven CHARLES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Charles v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135657.",
+  "first_page": "281",
+  "last_page": "281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 281"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "16399ae37393256579a5eb58c0abb4099616722400788407c19c74ff5a7811d6",
+    "simhash": "1:f32f664412265639",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven CHARLES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven CHARLES, petitioner,\nv.\nUNITED STATES.\nNo. 17-5657.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0281-05",
+  "first_page_order": 281,
+  "last_page_order": 281
+}

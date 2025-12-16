@@ -1,0 +1,64 @@
+{
+  "id": 12630061,
+  "name": "IN RE Christopher HADSELL, Petitioner",
+  "name_abbreviation": "In re Hadsell",
+  "decision_date": "2019-12-16",
+  "docket_number": "No. 18-1472",
+  "first_page": "678",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 678"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 446"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 136,
+    "sha256": "a8ec78168aed74d3b62e8edbd9a5c32517dc590448838d9e8e395cdac831be8d",
+    "simhash": "1:f0bd54971e9ef225",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Christopher HADSELL, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Christopher HADSELL, Petitioner\nNo. 18-1472\nSupreme Court of the United States.\nDecember 16, 2019\nPetition for rehearing denied."
+  },
+  "file_name": "0678-04",
+  "first_page_order": 678,
+  "last_page_order": 678
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12614896,
+  "name": "In the Matter of DISBARMENT OF Quenton I. WHITE.",
+  "name_abbreviation": "In re White",
+  "decision_date": "2017-08-07",
+  "docket_number": "No. D\u20132958.",
+  "first_page": "40",
+  "last_page": "40",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 40"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 767"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "2ead3303a64a182e60c79c15e83f84c88e99356b7fb87378a356fd36eaa5c60f",
+    "simhash": "1:b06714033e204265",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Quenton I. WHITE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Quenton I. WHITE.\nNo. D-2958.\nSupreme Court of the United States\nAug. 7, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0040-04",
+  "first_page_order": 40,
+  "last_page_order": 40
+}

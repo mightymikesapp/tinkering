@@ -1,0 +1,64 @@
+{
+  "id": 12628909,
+  "name": "Sean DANIELS, Petitioner, v. Shane JACKSON, Warden.",
+  "name_abbreviation": "Daniels v. Jackson",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5375",
+  "first_page": "44",
+  "last_page": "44",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 44"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 217,
+    "sha256": "49b0240113243ee89fd14d3fb694300d234f9baa056de113767611caf6f5e19f",
+    "simhash": "1:f8af544c3a005729",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sean DANIELS, Petitioner,\nv.\nShane JACKSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sean DANIELS, Petitioner,\nv.\nShane JACKSON, Warden.\nNo. 19-5375\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0044-05",
+  "first_page_order": 44,
+  "last_page_order": 44
+}

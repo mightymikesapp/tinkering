@@ -1,0 +1,62 @@
+{
+  "id": 12614336,
+  "name": "In the Matter of DISBARMENT OF Elbert A. WALTON, Jr.",
+  "name_abbreviation": "In re Walton",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. D\u20132981.",
+  "first_page": "308",
+  "last_page": "308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 308"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 141,
+    "sha256": "9a77945f2bf87eef16e0f1ca0f1c86f675b6c7567ca2c0b3156a8f35291d0bc5",
+    "simhash": "1:f2267456baf67163",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Elbert A. WALTON, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Elbert A. WALTON, Jr.\nNo. D-2981.\nSupreme Court of the United States\nOct. 2, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0308-08",
+  "first_page_order": 308,
+  "last_page_order": 308
+}

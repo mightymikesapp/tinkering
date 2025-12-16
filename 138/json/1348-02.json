@@ -1,0 +1,62 @@
+{
+  "id": 12611231,
+  "name": "Walter Leroy MOODY, Jr., Applicant, v. Cynthia STEWART, Warden.",
+  "name_abbreviation": "Moody v. Stewart",
+  "decision_date": "2018-04-19",
+  "docket_number": "No. 17A1145.",
+  "first_page": "1348",
+  "last_page": "1348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1348"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 411,
+    "sha256": "937f3a390ede04f79db5238a2c74e2f6c9a668d43c88ac34da3176980f86d05b",
+    "simhash": "1:82b576029a801fa7",
+    "word_count": 67
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Walter Leroy MOODY, Jr., Applicant,\nv.\nCynthia STEWART, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "UPON CONSIDERATION of the application of counsel for the applicant,\nIT IS ORDERED that execution of the sentence of death is hereby stayed pending further order of the undersigned or of the Court.\n/s/ Clarence Thomas\nAssociate Justice of the Supreme\nCourt of the United States",
+        "type": "majority",
+        "author": "Associate Justice of the Supreme"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Walter Leroy MOODY, Jr., Applicant,\nv.\nCynthia STEWART, Warden.\nNo. 17A1145.\nSupreme Court of the United States\nApril 19, 2018.\nORDER"
+  },
+  "file_name": "1348-02",
+  "first_page_order": 1348,
+  "last_page_order": 1348
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12615355,
+  "name": "Bartholomew GRANGER, petitioner, v. TEXAS.",
+  "name_abbreviation": "Granger v. Texas",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 17\u20135634.",
+  "first_page": "470",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 470"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 189,
+    "sha256": "ec2c86185bbe6aeae15bd9cce4e1a64e66d3d2a9fabc889fa7c8115198ab5155",
+    "simhash": "1:382db0d7f2c95591",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bartholomew GRANGER, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bartholomew GRANGER, petitioner,\nv.\nTEXAS.\nNo. 17-5634.\nSupreme Court of the United States\nNov. 27, 2017.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0470-06",
+  "first_page_order": 470,
+  "last_page_order": 471
+}

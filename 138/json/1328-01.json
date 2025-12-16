@@ -1,0 +1,64 @@
+{
+  "id": 12611099,
+  "name": "Richard RICHARD, petitioner, v. TEXAS.",
+  "name_abbreviation": "Richard v. Texas",
+  "decision_date": "2018-03-26",
+  "docket_number": "No. 17\u20137481.",
+  "first_page": "1328",
+  "last_page": "1328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1328"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 517"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 193,
+    "sha256": "fbf09cccd9be81c88875d61c08345f57d68ca9b7c8f3f09e3c6d295e1c3243fb",
+    "simhash": "1:48ed341632c30498",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard RICHARD, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Fifth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard RICHARD, petitioner,\nv.\nTEXAS.\nNo. 17-7481.\nSupreme Court of the United States\nMarch 26, 2018.\nPetition for writ of certiorari to the Court of Appeals of Texas, Fifth District denied."
+  },
+  "file_name": "1328-01",
+  "first_page_order": 1328,
+  "last_page_order": 1328
+}

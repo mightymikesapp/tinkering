@@ -1,0 +1,64 @@
+{
+  "id": 12622153,
+  "name": "Hector MEDINA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Medina v. United States",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18M34.",
+  "first_page": "303",
+  "last_page": "303",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 303"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 216,
+    "sha256": "431676236bb3ede381166c03db1622be65d2ff0a9f5d5a570d07035b312f2583",
+    "simhash": "1:f1ee56144ac3d01d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hector MEDINA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari with the supplemental appendix under seal granted."
+    ],
+    "corrections": "",
+    "head_matter": "Hector MEDINA, petitioner,\nv.\nUNITED STATES.\nNo. 18M34.\nSupreme Court of the United States\nOct. 1, 2018.\nMotion for leave to file a petition for writ of certiorari with the supplemental appendix under seal granted."
+  },
+  "file_name": "0303-02",
+  "first_page_order": 303,
+  "last_page_order": 303
+}

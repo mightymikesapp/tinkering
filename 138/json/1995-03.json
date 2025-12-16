@@ -1,0 +1,64 @@
+{
+  "id": 12612477,
+  "name": "Michael KING, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "King v. Illinois",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u20138034.",
+  "first_page": "1995",
+  "last_page": "1995",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1995"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 193,
+    "sha256": "bad4c296e3189fcdb3a67868f0b255cdbd2f2f0e985a29e3d576301bc1ebebad",
+    "simhash": "1:d16a52164a98a118",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael KING, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael KING, petitioner,\nv.\nILLINOIS.\nNo. 17-8034.\nSupreme Court of the United States\nMay 14, 2018.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "1995-03",
+  "first_page_order": 1995,
+  "last_page_order": 1995
+}

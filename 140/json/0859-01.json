@@ -1,0 +1,64 @@
+{
+  "id": 12630392,
+  "name": "Brandon BERNARD, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bernard v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 18-6992",
+  "first_page": "859",
+  "last_page": "859",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 859"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 455"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 214,
+    "sha256": "d6529849d32e5b7a97127b94eae8873aaa9d15d2b7bbd1bb65ba15ba8e384878",
+    "simhash": "1:fbaf76c53f85d499",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brandon BERNARD, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petitions for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brandon BERNARD, Petitioner,\nv.\nUNITED STATES.\nNo. 18-6992\nSupreme Court of the United States.\nJanuary 13, 2020\nPetitions for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0859-01",
+  "first_page_order": 859,
+  "last_page_order": 859
+}

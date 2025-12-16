@@ -1,0 +1,64 @@
+{
+  "id": 12629718,
+  "name": "George W. FISHER, Petitioner v. John Gregory MERMELSTEIN, et al.",
+  "name_abbreviation": "Fisher v. Mermelstein",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-6130",
+  "first_page": "610",
+  "last_page": "610",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 610"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 393"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 232,
+    "sha256": "2409e3db8443739052d13252c6dad557e425a3446f433383c27cadfe2e6c3f75",
+    "simhash": "1:72aff444760577b9",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George W. FISHER, Petitioner\nv.\nJohn Gregory MERMELSTEIN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George W. FISHER, Petitioner\nv.\nJohn Gregory MERMELSTEIN, et al.\nNo. 19-6130\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0610-01",
+  "first_page_order": 610,
+  "last_page_order": 610
+}

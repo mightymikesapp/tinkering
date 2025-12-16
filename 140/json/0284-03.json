@@ -1,0 +1,64 @@
+{
+  "id": 12628224,
+  "name": "William J. DAUGHERTY, Petitioner v. Randy L. WHITE, Warden",
+  "name_abbreviation": "Daugherty v. White",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5076",
+  "first_page": "284",
+  "last_page": "284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 284"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 145"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 224,
+    "sha256": "48ddc56a06e9f0c073ebb61588695860ac9961360dee62e43be92a95fc80c2bd",
+    "simhash": "1:e6ef444c3a801227",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William J. DAUGHERTY, Petitioner\nv.\nRandy L. WHITE, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William J. DAUGHERTY, Petitioner\nv.\nRandy L. WHITE, Warden\nNo. 19-5076\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0284-03",
+  "first_page_order": 284,
+  "last_page_order": 284
+}

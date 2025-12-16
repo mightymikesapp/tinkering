@@ -1,0 +1,64 @@
+{
+  "id": 12628720,
+  "name": "Evgeny RYZHOV, Petitioner, v. William P. BARR, Attorney General.",
+  "name_abbreviation": "Ryzhov v. Barr",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5583",
+  "first_page": "405",
+  "last_page": "405",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 405"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 234,
+    "sha256": "b0c5ff246983e77d06c1512ff1f622911044e22821ed11b36584a67b1986e133",
+    "simhash": "1:f9ade644370001eb",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Evgeny RYZHOV, Petitioner,\nv.\nWilliam P. BARR, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Evgeny RYZHOV, Petitioner,\nv.\nWilliam P. BARR, Attorney General.\nNo. 19-5583\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0405-01",
+  "first_page_order": 405,
+  "last_page_order": 405
+}

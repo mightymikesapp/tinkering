@@ -1,0 +1,64 @@
+{
+  "id": 12616586,
+  "name": "In Re Jaron R. BRICE, petitioner.",
+  "name_abbreviation": "In re Brice",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20137119.",
+  "first_page": "719",
+  "last_page": "719",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 719"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 140,
+    "sha256": "1f6e256d227b31ef0d1f74220768a31d70f36d3307a67cdba8ddf71086782750",
+    "simhash": "1:68f77ac45ab9455e",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Jaron R. BRICE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Jaron R. BRICE, petitioner.\nNo. 17-7119.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0719-04",
+  "first_page_order": 719,
+  "last_page_order": 719
+}

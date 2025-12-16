@@ -1,0 +1,64 @@
+{
+  "id": 12623175,
+  "name": "Joe Litton BAILEY, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Bailey v. Louisiana",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18\u20135999.",
+  "first_page": "488",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 201,
+    "sha256": "152f95799367c932b585b77eb9337f821884dc2492864e0d359ae9b2b660702c",
+    "simhash": "1:62af7246eb8d04b9",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joe Litton BAILEY, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of Louisiana, Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joe Litton BAILEY, petitioner,\nv.\nLOUISIANA.\nNo. 18-5999.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for writ of certiorari to the Court of Appeal of Louisiana, Second Circuit denied."
+  },
+  "file_name": "0488-01",
+  "first_page_order": 488,
+  "last_page_order": 488
+}

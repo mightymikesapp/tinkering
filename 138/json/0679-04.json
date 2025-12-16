@@ -1,0 +1,64 @@
+{
+  "id": 12616320,
+  "name": "John Elvin TURNER, petitioner, v. NEVADA.",
+  "name_abbreviation": "Turner v. Nevada",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136617.",
+  "first_page": "679",
+  "last_page": "679",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 679"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 562"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 176,
+    "sha256": "fa53bdc3b3d802bf27fe1e4d1e68eaee425bbdca689ec9481ed026039fc2b4c6",
+    "simhash": "1:602f5044328304dc",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Elvin TURNER, petitioner,\nv.\nNEVADA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Nevada denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Elvin TURNER, petitioner,\nv.\nNEVADA.\nNo. 17-6617.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the Supreme Court of Nevada denied."
+  },
+  "file_name": "0679-04",
+  "first_page_order": 679,
+  "last_page_order": 679
+}

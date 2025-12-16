@@ -1,0 +1,64 @@
+{
+  "id": 12612863,
+  "name": "In Re Robert E. CLAYBORNE, petitioner.",
+  "name_abbreviation": "In re Clayborne",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135122.",
+  "first_page": "213",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 213"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "657279d26d7dfbf99188abdf317a8d6ea5b4a446de950ce478cacce5f22d6192",
+    "simhash": "1:eb0f1278deb9dd5b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Robert E. CLAYBORNE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Robert E. CLAYBORNE, petitioner.\nNo. 17-5122.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0213-03",
+  "first_page_order": 213,
+  "last_page_order": 213
+}

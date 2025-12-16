@@ -1,0 +1,62 @@
+{
+  "id": 12628606,
+  "name": "Miles CHRISTIAN-HART, Petitioner v. WELLS FARGO BANK, N.A.",
+  "name_abbreviation": "Christian-Hart v. Wells Fargo Bank, N.A.",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-189",
+  "first_page": "382",
+  "last_page": "382",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 382"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 217"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 224,
+    "sha256": "276b3ff258e0a07d4b508d76d13878e014c21000052cd9a5be773f34a5e0910c",
+    "simhash": "1:f8ff6064c29041a9",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miles CHRISTIAN-HART, Petitioner\nv.\nWELLS FARGO BANK, N.A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Miles CHRISTIAN-HART, Petitioner\nv.\nWELLS FARGO BANK, N.A.\nNo. 19-189\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the District Court of Appeal of Florida, Second District denied."
+  },
+  "file_name": "0382-03",
+  "first_page_order": 382,
+  "last_page_order": 382
+}

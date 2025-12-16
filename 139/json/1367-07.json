@@ -1,0 +1,64 @@
+{
+  "id": 12618740,
+  "name": "In Re TWELVE GRAND JURY SUBPOENAS.",
+  "name_abbreviation": "In re Twelve Grand Jury Subpoenas",
+  "decision_date": "2019-03-18",
+  "docket_number": "No. 18M113.",
+  "first_page": "1367",
+  "last_page": "1367",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1367"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 561"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 221,
+    "sha256": "275161024e98502a48ba9289fecf9fdabfe15f93d33c758daf0c2e5f121150ad",
+    "simhash": "1:d06e502697ca115d",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re TWELVE GRAND JURY SUBPOENAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record granted."
+    ],
+    "corrections": "",
+    "head_matter": "In Re TWELVE GRAND JURY SUBPOENAS.\nNo. 18M113.\nSupreme Court of the United States\nMarch 18, 2019.\nMotion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record granted."
+  },
+  "file_name": "1367-07",
+  "first_page_order": 1367,
+  "last_page_order": 1367
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12623034,
+  "name": "Brian TATE, petitioner, v. MARYLAND.",
+  "name_abbreviation": "Tate v. Maryland",
+  "decision_date": "2018-11-05",
+  "docket_number": "No. 18\u20136093.",
+  "first_page": "465",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 465"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 176,
+    "sha256": "65494682755dca1958242f64797680c916c66b2b539cd118361ad73606aa2d0a",
+    "simhash": "1:3cbf444722c40099",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian TATE, petitioner,\nv.\nMARYLAND."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Maryland denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian TATE, petitioner,\nv.\nMARYLAND.\nNo. 18-6093.\nSupreme Court of the United States\nNov. 5, 2018.\nPetition for writ of certiorari to the Court of Appeals of Maryland denied."
+  },
+  "file_name": "0465-04",
+  "first_page_order": 465,
+  "last_page_order": 465
+}

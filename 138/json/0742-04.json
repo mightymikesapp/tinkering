@@ -1,0 +1,64 @@
+{
+  "id": 12616753,
+  "name": "In Re John B. BELL, petitioner.",
+  "name_abbreviation": "In re Bell",
+  "decision_date": "2018-01-16",
+  "docket_number": "No. 17\u20136719.",
+  "first_page": "742",
+  "last_page": "742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 742"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 618"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 134,
+    "sha256": "15b17d907283ca80c97a4ee5fb079e69a3865839e58059cb94d1df4222c32ff0",
+    "simhash": "1:6ec440c4f6ad557e",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re John B. BELL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re John B. BELL, petitioner.\nNo. 17-6719.\nSupreme Court of the United States\nJan. 16, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0742-04",
+  "first_page_order": 742,
+  "last_page_order": 742
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630781,
+  "name": "Robert HUFF, et al., Petitioners, v. Michele CHOATE.",
+  "name_abbreviation": "Huff v. Choate",
+  "decision_date": "2020-01-21",
+  "docket_number": "No. 19-626",
+  "first_page": "935",
+  "last_page": "935",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 935"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 523"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 218,
+    "sha256": "716f72a795a50c2f6c33144191e8399b4571badc83f5a4febcb525f9dd54b388",
+    "simhash": "1:f9afe6c42f8c333b",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert HUFF, et al., Petitioners,\nv.\nMichele CHOATE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert HUFF, et al., Petitioners,\nv.\nMichele CHOATE.\nNo. 19-626\nSupreme Court of the United States.\nJanuary 21, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0935-02",
+  "first_page_order": 935,
+  "last_page_order": 935
+}

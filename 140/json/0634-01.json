@@ -1,0 +1,64 @@
+{
+  "id": 12629840,
+  "name": "Jose GOMEZ-AGUILAR, Petitioner v. UNITED STATES.",
+  "name_abbreviation": "Gomez-Aguilar v. United States",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-6397",
+  "first_page": "634",
+  "last_page": "634",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 634"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 400"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 215,
+    "sha256": "a70c2d6b9c06389ab230a53acfbd67fa57c781942531f96b60b1a3c0616f3ba6",
+    "simhash": "1:e2ad7044290d5615",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose GOMEZ-AGUILAR, Petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose GOMEZ-AGUILAR, Petitioner\nv.\nUNITED STATES.\nNo. 19-6397\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0634-01",
+  "first_page_order": 634,
+  "last_page_order": 634
+}

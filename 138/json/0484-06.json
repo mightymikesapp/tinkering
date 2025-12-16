@@ -1,0 +1,64 @@
+{
+  "id": 12615445,
+  "name": "Jerome WILLIAMS, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Williams v. United States",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 17\u20136334.",
+  "first_page": "484",
+  "last_page": "484",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 484"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 295,
+    "sha256": "2bd7841703065c893b51204965c86fb541788750af547661ad0f7e598c9697e5",
+    "simhash": "1:99ae70c7172ede81",
+    "word_count": 48
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerome WILLIAMS, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerome WILLIAMS, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 17-6334.\nSupreme Court of the United States\nNov. 27, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0484-06",
+  "first_page_order": 484,
+  "last_page_order": 484
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12625547,
+  "name": "IN RE Andrew J. JOHNSTON, Petitioner",
+  "name_abbreviation": "In re Johnston",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7366",
+  "first_page": "1250",
+  "last_page": "1250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1250"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 244"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "2447bd667d4c799f5173521840024ec07ec1038e1b759ce2dbea9c5cf314554b",
+    "simhash": "1:aaef1654b54142f0",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Andrew J. JOHNSTON, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Andrew J. JOHNSTON, Petitioner\nNo. 19-7366\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of prohibition denied."
+  },
+  "file_name": "1250-05",
+  "first_page_order": 1250,
+  "last_page_order": 1250
+}

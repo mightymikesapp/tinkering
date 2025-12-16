@@ -1,0 +1,64 @@
+{
+  "id": 12628175,
+  "name": "David MOREL, Jr., Petitioner, v. UNITED STATES",
+  "name_abbreviation": "Morel v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5081",
+  "first_page": "283",
+  "last_page": "283",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 283"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "636476f14a49342b10e814f8efeb045eab6957e69ed16ae16ac94f4b8ef420f5",
+    "simhash": "1:e2ad06442307500c",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David MOREL, Jr., Petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David MOREL, Jr., Petitioner,\nv.\nUNITED STATES\nNo. 19-5081\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0283-04",
+  "first_page_order": 283,
+  "last_page_order": 283
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12614509,
+  "name": "Robert ANDERSON, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Anderson v. Illinois",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u2013295.",
+  "first_page": "336",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 336"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 196,
+    "sha256": "b3d8b42b38df2a302cb03d85fd6d42cbde9a3ad184e54b2dd59e2eef96e735ff",
+    "simhash": "1:d1ed7654daac8190",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert ANDERSON, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert ANDERSON, petitioner,\nv.\nILLINOIS.\nNo. 17-295.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "0336-01",
+  "first_page_order": 336,
+  "last_page_order": 336
+}

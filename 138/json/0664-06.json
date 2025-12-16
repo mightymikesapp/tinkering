@@ -1,0 +1,64 @@
+{
+  "id": 12616227,
+  "name": "Roosevelt BIGBEE, petitioner, v. Jonathan LEBO, Warden.",
+  "name_abbreviation": "Bigbee v. Lebo",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136475.",
+  "first_page": "664",
+  "last_page": "665",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 664"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 554"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 223,
+    "sha256": "7744c752218ba7bd58ef31be55bd8b312bbe7555582f878a0ebaf599d9252eae",
+    "simhash": "1:69fb72dcb2cb449d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roosevelt BIGBEE, petitioner,\nv.\nJonathan LEBO, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roosevelt BIGBEE, petitioner,\nv.\nJonathan LEBO, Warden.\nNo. 17-6475.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division denied."
+  },
+  "file_name": "0664-06",
+  "first_page_order": 664,
+  "last_page_order": 665
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12626969,
+  "name": "JUVENILE MALE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Juvenile Male v. United States",
+  "decision_date": "2020-03-30",
+  "docket_number": "No. 19M117.",
+  "first_page": "2562",
+  "last_page": "2562",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2562"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 237,
+    "sha256": "a81eb8b391f99b46c7ed22504a20017f91e589a91abaf25e93d1346f9d908ad4",
+    "simhash": "1:c2ef7636ff897311",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JUVENILE MALE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari under seal with the appendix available for the public record denied."
+    ],
+    "corrections": "",
+    "head_matter": "JUVENILE MALE, Petitioner,\nv.\nUNITED STATES.\nNo. 19M117.\nSupreme Court of the United States.\nMarch 30, 2020\nMotion for leave to file a petition for writ of certiorari under seal with the appendix available for the public record denied."
+  },
+  "file_name": "2562-04",
+  "first_page_order": 2562,
+  "last_page_order": 2562
+}

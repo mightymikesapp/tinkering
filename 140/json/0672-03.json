@@ -1,0 +1,64 @@
+{
+  "id": 12630037,
+  "name": "Javier LEON, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Leon v. United States",
+  "decision_date": "2019-12-16",
+  "docket_number": "No. 19-6581",
+  "first_page": "672",
+  "last_page": "672",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 672"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 442"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "76fcd09de83c3ffbad8b6798a9857e8aae158977b5bf781658ecfcf294849f9f",
+    "simhash": "1:f4ad7444278e17e5",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Javier LEON, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Javier LEON, Petitioner\nv.\nUNITED STATES\nNo. 19-6581\nSupreme Court of the United States.\nDecember 16, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0672-03",
+  "first_page_order": 672,
+  "last_page_order": 672
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12617046,
+  "name": "George ANDERSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Anderson v. United States",
+  "decision_date": "2018-01-22",
+  "docket_number": "No. 17\u20137162.",
+  "first_page": "936",
+  "last_page": "936",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 936"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 211"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "b8ec658c0fc9ef1ca57b8413efa9da1e209078566ef6f1475dd46aaef811c3b2",
+    "simhash": "1:ffaff6442786d60d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George ANDERSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George ANDERSON, petitioner,\nv.\nUNITED STATES.\nNo. 17-7162.\nSupreme Court of the United States\nJan. 22, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0936-02",
+  "first_page_order": 936,
+  "last_page_order": 936
+}

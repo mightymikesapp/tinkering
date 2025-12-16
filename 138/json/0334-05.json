@@ -1,0 +1,62 @@
+{
+  "id": 12614500,
+  "name": "Francisco PEREZ, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Perez v. Pennsylvania",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135679.",
+  "first_page": "334",
+  "last_page": "334",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 334"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 207,
+    "sha256": "f851e43b4eb86d008aa2af777d367fb02f68326465fa389da2e15c4772ed9f7e",
+    "simhash": "1:f9cfd659d68181f1",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Francisco PEREZ, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Francisco PEREZ, petitioner,\nv.\nPENNSYLVANIA.\nNo. 17-5679.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Harrisburg Office denied."
+  },
+  "file_name": "0334-05",
+  "first_page_order": 334,
+  "last_page_order": 334
+}

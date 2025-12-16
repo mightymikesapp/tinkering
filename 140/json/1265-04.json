@@ -1,0 +1,64 @@
+{
+  "id": 12625626,
+  "name": "Mark CHAPMAN, et al., Petitioners, v. ACE AMERICAN INSURANCE COMPANY.",
+  "name_abbreviation": "Chapman v. ACE Am. Ins. Co.",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-689",
+  "first_page": "1265",
+  "last_page": "1265",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1265"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 235,
+    "sha256": "908d1ca9dce1894feb232e5bf66d97061e44d00b11ca55563171387206b291b0",
+    "simhash": "1:fbad7644b70383db",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark CHAPMAN, et al., Petitioners,\nv.\nACE AMERICAN INSURANCE COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark CHAPMAN, et al., Petitioners,\nv.\nACE AMERICAN INSURANCE COMPANY.\nNo. 19-689\nSupreme Court of the United States.\nMarch 2, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1265-04",
+  "first_page_order": 1265,
+  "last_page_order": 1265
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630207,
+  "name": "Joshua SMITH, Petitioner v. Sandra BUTLER, Warden",
+  "name_abbreviation": "Smith v. Butler",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6838",
+  "first_page": "820",
+  "last_page": "820",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 820"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 216,
+    "sha256": "c4e4dc5e9a3f4cc2e05fabaca4181889ce0f0713f6d391451714bddda47fdb96",
+    "simhash": "1:edaf54441f4087a0",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joshua SMITH, Petitioner\nv.\nSandra BUTLER, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joshua SMITH, Petitioner\nv.\nSandra BUTLER, Warden\nNo. 19-6838\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0820-05",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

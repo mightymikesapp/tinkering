@@ -1,0 +1,64 @@
+{
+  "id": 12623980,
+  "name": "Michael SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 17\u20137517.",
+  "first_page": "783",
+  "last_page": "784",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 783"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "8dd22e1bf4560d8892ca2390f8371c390d5f1a6fa13b647825fafb77994b200b",
+    "simhash": "1:cfaf644423860221",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 17-7517.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0783-03",
+  "first_page_order": 783,
+  "last_page_order": 784
+}

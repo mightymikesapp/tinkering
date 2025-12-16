@@ -1,0 +1,64 @@
+{
+  "id": 12614819,
+  "name": "Terrell RANDALL, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Randall v. Illinois",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u20135722.",
+  "first_page": "389",
+  "last_page": "389",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 389"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 197,
+    "sha256": "5f5079a4ca64ba8b0dbd9f432a8451842843f3469691cb9d0a795975f9538c40",
+    "simhash": "1:f8ff765cfa908591",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terrell RANDALL, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terrell RANDALL, petitioner,\nv.\nILLINOIS.\nNo. 17-5722.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "0389-02",
+  "first_page_order": 389,
+  "last_page_order": 389
+}

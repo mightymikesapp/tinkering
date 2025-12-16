@@ -1,0 +1,64 @@
+{
+  "id": 12618360,
+  "name": "John W. LEBRON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lebron v. United States",
+  "decision_date": "2019-03-04",
+  "docket_number": "No. 18M111.",
+  "first_page": "1307",
+  "last_page": "1307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1307"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 413"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 198,
+    "sha256": "fe8601bbff424d36eb98ef35623be2435f7cf38208ade48abf95fb474c28e64b",
+    "simhash": "1:59ab46265789d51f",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John W. LEBRON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "John W. LEBRON, petitioner,\nv.\nUNITED STATES.\nNo. 18M111.\nSupreme Court of the United States\nMarch 4, 2019.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "1307-03",
+  "first_page_order": 1307,
+  "last_page_order": 1307
+}

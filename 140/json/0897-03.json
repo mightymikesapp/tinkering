@@ -1,0 +1,64 @@
+{
+  "id": 12630584,
+  "name": "John BRADHAM, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bradham v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-5806",
+  "first_page": "897",
+  "last_page": "897",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 897"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 471"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "5759c35009ff858b9d4f7017800981968ca42f093f63de3de22a215ab94b7c72",
+    "simhash": "1:ecaf76447b01e5bf",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John BRADHAM, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John BRADHAM, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5806\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0897-03",
+  "first_page_order": 897,
+  "last_page_order": 897
+}

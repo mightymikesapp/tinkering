@@ -1,0 +1,64 @@
+{
+  "id": 12611022,
+  "name": "John Anthony GENTRY, petitioner, v. Joe H. THOMPSON, Judge, Circuit Court of Tennessee, Sumner County.",
+  "name_abbreviation": "Gentry v. Thompson",
+  "decision_date": "2018-03-19",
+  "docket_number": "No. 17M87.",
+  "first_page": "1316",
+  "last_page": "1316",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1316"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 466"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 229,
+    "sha256": "5c051ef05c6bcb1d9552bde57dda28479c43d84cf37ea6d86a45295b436ead5c",
+    "simhash": "1:b7e1598604edb7f2",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Anthony GENTRY, petitioner,\nv.\nJoe H. THOMPSON, Judge, Circuit Court of Tennessee, Sumner County."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed as a veteran denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Anthony GENTRY, petitioner,\nv.\nJoe H. THOMPSON, Judge, Circuit Court of Tennessee, Sumner County.\nNo. 17M87.\nSupreme Court of the United States\nMarch 19, 2018.\nMotion of petitioner for leave to proceed as a veteran denied."
+  },
+  "file_name": "1316-07",
+  "first_page_order": 1316,
+  "last_page_order": 1316
+}

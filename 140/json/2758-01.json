@@ -1,0 +1,82 @@
+{
+  "id": 12627794,
+  "name": "Bradley BEERS, Petitioner, v. William P. BARR, Attorney General, et al.",
+  "name_abbreviation": "Beers v. Barr",
+  "decision_date": "2020-05-18",
+  "docket_number": "No. 19-864.",
+  "first_page": "2758",
+  "last_page": "2759",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2758"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 933"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "year": 1950,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 475,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636562981084998
+    },
+    "sha256": "4d7b77e9f5412c50ba798a934e87fafd770ac716559ca4238f4bf0c474d25fb2",
+    "simhash": "1:f6b6c2ec3d441e88",
+    "word_count": 79
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradley BEERS, Petitioner,\nv.\nWilliam P. BARR, Attorney General, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit with instructions to dismiss the case as moot. See United States v. Munsingwear, Inc. , 340 U.S. 36 (1950)."
+    ],
+    "corrections": "",
+    "head_matter": "Bradley BEERS, Petitioner,\nv.\nWilliam P. BARR, Attorney General, et al.\nNo. 19-864.\nSupreme Court of the United States.\nMay 18, 2020\nOn petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit with instructions to dismiss the case as moot. See United States v. Munsingwear, Inc. , 340 U.S. 36 (1950)."
+  },
+  "file_name": "2758-01",
+  "first_page_order": 2758,
+  "last_page_order": 2759
+}

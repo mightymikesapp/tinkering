@@ -1,0 +1,83 @@
+{
+  "id": 12612402,
+  "name": "Scott James EIZEMBER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Eizember v. United States",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u20136117.",
+  "first_page": "1983",
+  "last_page": "1983",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1983"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1204",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610616
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 527,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635974143666291
+    },
+    "sha256": "b0a95b14feb88157b415e52a10f9db78f5cd3ecbffa7fcddb09af32cc3d45832",
+    "simhash": "1:7eade464ad0e0799",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott James EIZEMBER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Scott James EIZEMBER, petitioner,\nv.\nUNITED STATES.\nNo. 17-6117.\nSupreme Court of the United States\nMay 14, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+  },
+  "file_name": "1983-01",
+  "first_page_order": 1983,
+  "last_page_order": 1983
+}

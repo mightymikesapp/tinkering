@@ -1,0 +1,64 @@
+{
+  "id": 12610346,
+  "name": "In Re Elmer SCHECKEL, petitioner.",
+  "name_abbreviation": "In re Scheckel",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20136150.",
+  "first_page": "1047",
+  "last_page": "1047",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1047"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 307"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 129,
+    "sha256": "5c3a2dd3eac48d49ff3e97014eea024a963955ee8e154a312d485ed0d5925e13",
+    "simhash": "1:22d554422af5d6c5",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Elmer SCHECKEL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Elmer SCHECKEL, petitioner.\nNo. 17-6150.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "1047-07",
+  "first_page_order": 1047,
+  "last_page_order": 1047
+}

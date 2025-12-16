@@ -1,0 +1,64 @@
+{
+  "id": 12625729,
+  "name": "IN RE Michael Dewayne SEIBERT, Petitioner.",
+  "name_abbreviation": "In re Seibert",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-7564.",
+  "first_page": "1288",
+  "last_page": "1288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1288"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 151,
+    "sha256": "d93b9b426c018d0672dfc2a0a92d6bdc3c0908fd33fbb684f69e99841d458e65",
+    "simhash": "1:e83b546d57390139",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Michael Dewayne SEIBERT, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Michael Dewayne SEIBERT, Petitioner.\nNo. 19-7564.\nSupreme Court of the United States.\nMarch 2, 2020.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1288-04",
+  "first_page_order": 1288,
+  "last_page_order": 1288
+}

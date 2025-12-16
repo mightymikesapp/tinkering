@@ -1,0 +1,64 @@
+{
+  "id": 12610908,
+  "name": "Scott David PERREAULT, petitioner, v. Anthony STEWART, Warden.",
+  "name_abbreviation": "Perreault v. Stewart",
+  "decision_date": "2018-03-19",
+  "docket_number": "No. 17\u20131047.",
+  "first_page": "1299",
+  "last_page": "1299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1299"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 473"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 228,
+    "sha256": "22cebd25c80efb6ed4c49561359b9ce2d3724da0c5ae3685ee2e4499092cac3a",
+    "simhash": "1:f8bed2443b8145a1",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott David PERREAULT, petitioner,\nv.\nAnthony STEWART, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Scott David PERREAULT, petitioner,\nv.\nAnthony STEWART, Warden.\nNo. 17-1047.\nSupreme Court of the United States\nMarch 19, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1299-05",
+  "first_page_order": 1299,
+  "last_page_order": 1299
+}

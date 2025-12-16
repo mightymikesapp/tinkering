@@ -1,0 +1,90 @@
+{
+  "id": 12622962,
+  "name": "Daniel BERNINGER, petitioner, v. FEDERAL COMMUNICATIONS COMMISSION, et al.",
+  "name_abbreviation": "Berninger v. Fed. Commc'ns Comm'n",
+  "decision_date": "2018-11-05",
+  "docket_number": "No. 17\u2013498.",
+  "first_page": "453",
+  "last_page": "454",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 453"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 361"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": -1
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 2,
+      "year": 1950,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 68,
+    "char_count": 689,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26363293767320023
+    },
+    "sha256": "a8065b21ce485c6a09a5c26e59a27cb77c8d0d45b87e4c8d8b1735fc2d048961",
+    "simhash": "1:3befa0c68b002743",
+    "word_count": 112
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel BERNINGER, petitioner,\nv.\nFEDERAL COMMUNICATIONS COMMISSION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied. Justice THOMAS, Justice ALITO, and Justice GORSUCH would grant the petition, vacate the judgment of the United States Court of Appeals for the District of Columbia Circuit, and remand to that court with instructions to dismiss the cases as moot. See United States v. Munsingwear, Inc., 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950)."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel BERNINGER, petitioner,\nv.\nFEDERAL COMMUNICATIONS COMMISSION, et al.\nNo. 17-498.\nSupreme Court of the United States\nNov. 5, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied. Justice THOMAS, Justice ALITO, and Justice GORSUCH would grant the petition, vacate the judgment of the United States Court of Appeals for the District of Columbia Circuit, and remand to that court with instructions to dismiss the cases as moot. See United States v. Munsingwear, Inc., 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950).\nTHE CHIEF JUSTICE and Justice KAVANAUGH took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0453-01",
+  "first_page_order": 453,
+  "last_page_order": 454
+}

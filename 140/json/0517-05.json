@@ -1,0 +1,64 @@
+{
+  "id": 12629318,
+  "name": "IN RE Charles K. HAMILTON, Petitioner",
+  "name_abbreviation": "In re Hamilton",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-5901",
+  "first_page": "517",
+  "last_page": "517",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 517"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 143,
+    "sha256": "fdf0f199359a232b106df62980e4c38645c7ddedf48123a981e7cfeda1646bdf",
+    "simhash": "1:58f7440452541265",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Charles K. HAMILTON, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Charles K. HAMILTON, Petitioner\nNo. 19-5901\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0517-05",
+  "first_page_order": 517,
+  "last_page_order": 517
+}

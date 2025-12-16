@@ -1,0 +1,64 @@
+{
+  "id": 12611928,
+  "name": "In Re Chandra BOZELKO, petitioner.",
+  "name_abbreviation": "In re Bozelko",
+  "decision_date": "2018-04-23",
+  "docket_number": "No. 17\u20131374.",
+  "first_page": "1607",
+  "last_page": "1607",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1607"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 789"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 138,
+    "sha256": "b00491723437311a7a8b1879b95a875896128a65886dd5a3f22a5a560097a756",
+    "simhash": "1:e8035614baa9105f",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Chandra BOZELKO, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Chandra BOZELKO, petitioner.\nNo. 17-1374.\nSupreme Court of the United States\nApril 23, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1607-06",
+  "first_page_order": 1607,
+  "last_page_order": 1607
+}

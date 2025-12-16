@@ -1,0 +1,64 @@
+{
+  "id": 12615183,
+  "name": "Christina WONG, petitioner, v. Ellen ANDERSON, et al.",
+  "name_abbreviation": "Wong v. Anderson",
+  "decision_date": "2017-11-06",
+  "docket_number": "No. 16\u20131321.",
+  "first_page": "441",
+  "last_page": "441",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 441"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 326"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 226,
+    "sha256": "07fb9eb3313cc7e7ece4eb533abc46cccddb668596521d4ade08cf47c335c76a",
+    "simhash": "1:9af31a0cdf8ef6c6",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christina WONG, petitioner,\nv.\nEllen ANDERSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYER took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice BREYER took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Christina WONG, petitioner,\nv.\nEllen ANDERSON, et al.\nNo. 16-1321.\nSupreme Court of the United States\nNov. 6, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "0441-08",
+  "first_page_order": 441,
+  "last_page_order": 441
+}

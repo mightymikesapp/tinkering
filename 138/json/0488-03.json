@@ -1,0 +1,64 @@
+{
+  "id": 12615466,
+  "name": "Henry JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 17\u20136423.",
+  "first_page": "488",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 288,
+    "sha256": "19620d01a824f65c8333ff4c156071ca60104fe164e95ef69e9c4c194c05d7fa",
+    "simhash": "1:892c70c61306d201",
+    "word_count": 47
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Henry JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Henry JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 17-6423.\nSupreme Court of the United States\nNov. 27, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0488-03",
+  "first_page_order": 488,
+  "last_page_order": 488
+}

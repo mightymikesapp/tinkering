@@ -1,0 +1,64 @@
+{
+  "id": 12627748,
+  "name": "Heather SINGLETON, et al., Petitioners, v. Mary FAIRHURST, Chief Justice, Supreme Court of Washington, et al.",
+  "name_abbreviation": "Singleton v. Fairhurst",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-160",
+  "first_page": "275",
+  "last_page": "275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 275"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 134"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 249,
+    "sha256": "9832d1ab1600946839fe1f9d9b7b8c4bf18bde96e0320fe73244a84ba159026f",
+    "simhash": "1:faef0c5cbaa01491",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Heather SINGLETON, et al., Petitioners,\nv.\nMary FAIRHURST, Chief Justice, Supreme Court of Washington, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Washington denied."
+    ],
+    "corrections": "",
+    "head_matter": "Heather SINGLETON, et al., Petitioners,\nv.\nMary FAIRHURST, Chief Justice, Supreme Court of Washington, et al.\nNo. 19-160\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Supreme Court of Washington denied."
+  },
+  "file_name": "0275-01",
+  "first_page_order": 275,
+  "last_page_order": 275
+}

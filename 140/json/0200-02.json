@@ -1,0 +1,64 @@
+{
+  "id": 12626356,
+  "name": "Shepell ORR, Petitioner, v. Ron NEAL, Superintendent, Indiana State Prison",
+  "name_abbreviation": "Orr v. Neal",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9825",
+  "first_page": "200",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 200"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 119"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 242,
+    "sha256": "c77e0844a68fcb5f6e504152db26f126fd37dde44de29c64509cf7677517b421",
+    "simhash": "1:fb2d5648b30407a2",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shepell ORR, Petitioner,\nv.\nRon NEAL, Superintendent, Indiana State Prison"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shepell ORR, Petitioner,\nv.\nRon NEAL, Superintendent, Indiana State Prison\nNo. 18-9825\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0200-02",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

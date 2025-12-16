@@ -1,0 +1,64 @@
+{
+  "id": 12623036,
+  "name": "Lance FOX, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Fox v. United States",
+  "decision_date": "2018-11-05",
+  "docket_number": "No. 18\u20136138.",
+  "first_page": "465",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 465"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 204,
+    "sha256": "ac1c3971b8576181a2a46bbf7e4e14f3cde8bab101e4c8dabb8b6cb4880cfc81",
+    "simhash": "1:e5ad72472f0cd7d9",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lance FOX, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lance FOX, petitioner,\nv.\nUNITED STATES.\nNo. 18-6138.\nSupreme Court of the United States\nNov. 5, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0465-06",
+  "first_page_order": 465,
+  "last_page_order": 465
+}

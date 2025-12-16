@@ -1,0 +1,64 @@
+{
+  "id": 12625925,
+  "name": "Brian DECOITO, Petitioner, v. UNITED STATES",
+  "name_abbreviation": "Decoito v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19M15",
+  "first_page": "146",
+  "last_page": "146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 146"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 15"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 195,
+    "sha256": "5a837a011353d6964c9e100825e39b85009979b29d0094a59fd42898559bf3dc",
+    "simhash": "1:99ef7246078cf2bf",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian DECOITO, Petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian DECOITO, Petitioner,\nv.\nUNITED STATES\nNo. 19M15\nSupreme Court of the United States.\nOct. 7, 2019\nMotion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+  },
+  "file_name": "0146-01",
+  "first_page_order": 146,
+  "last_page_order": 146
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12626292,
+  "name": "Levar BROWN, Petitioner, v. CALIFORNIA",
+  "name_abbreviation": "Brown v. California",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9813",
+  "first_page": "190",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 190"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 118"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 179,
+    "sha256": "8dcb8d0907f24d622cab780954ff5cd9d4a76f291996842da6a2d1b79c82e594",
+    "simhash": "1:e8af141c3ab04317",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Levar BROWN, Petitioner,\nv.\nCALIFORNIA"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "Levar BROWN, Petitioner,\nv.\nCALIFORNIA\nNo. 18-9813\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "0190-06",
+  "first_page_order": 190,
+  "last_page_order": 190
+}

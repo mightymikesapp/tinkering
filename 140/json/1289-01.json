@@ -1,0 +1,64 @@
+{
+  "id": 12625731,
+  "name": "IN RE Steven Darby MCDONALD, Petitioner.",
+  "name_abbreviation": "In re McDonald",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-7143",
+  "first_page": "1289",
+  "last_page": "1289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1289"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "adcb06850db7c569db4ede5d2a8d199b6b828cbeeb1d19e97f9a0173cf334df8",
+    "simhash": "1:ca2f1d5497d93318",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Steven Darby MCDONALD, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Steven Darby MCDONALD, Petitioner.\nNo. 19-7143\nSupreme Court of the United States.\nMarch 2, 2020\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1289-01",
+  "first_page_order": 1289,
+  "last_page_order": 1289
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12628431,
+  "name": "Wade LAY, Petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Lay v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9417",
+  "first_page": "317",
+  "last_page": "317",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 317"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 291,
+    "sha256": "005f2eeaf6156f7c3ccb0111f74e74607ded559f92ce35a80091c1ed3e0c5b12",
+    "simhash": "1:2a3f54c63b04835f",
+    "word_count": 49
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wade LAY, Petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice Gorsuch took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Gorsuch took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Wade LAY, Petitioner,\nv.\nUNITED STATES, et al.\nNo. 18-9417\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0317-04",
+  "first_page_order": 317,
+  "last_page_order": 317
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630567,
+  "name": "Martin Nava LARA, Petitioner, v. TEXAS.",
+  "name_abbreviation": "Lara v. Texas",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6304",
+  "first_page": "893",
+  "last_page": "893",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 893"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 475"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 188,
+    "sha256": "fe0ca4ca6cd3874b082c8f9a1c86ac59ae5d6dbbd54d7f255018fd2e6f70e79e",
+    "simhash": "1:493be41623c135b4",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Martin Nava LARA, Petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Martin Nava LARA, Petitioner,\nv.\nTEXAS.\nNo. 19-6304\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0893-02",
+  "first_page_order": 893,
+  "last_page_order": 893
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12624414,
+  "name": "Billy A. ROBIN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robin v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136839.",
+  "first_page": "848",
+  "last_page": "848",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 848"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 615"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 194,
+    "sha256": "aa06cfbd5dbcb57c4e64262b24e876e245130598113ebd66e2c01503e48d81bd",
+    "simhash": "1:69ee76442289c795",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Billy A. ROBIN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the District of Columbia Court of Appeals denied."
+    ],
+    "corrections": "",
+    "head_matter": "Billy A. ROBIN, petitioner,\nv.\nUNITED STATES.\nNo. 18-6839.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the District of Columbia Court of Appeals denied."
+  },
+  "file_name": "0848-03",
+  "first_page_order": 848,
+  "last_page_order": 848
+}

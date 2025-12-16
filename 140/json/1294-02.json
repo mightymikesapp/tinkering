@@ -1,0 +1,64 @@
+{
+  "id": 12625760,
+  "name": "Arnold FLECK, Petitioner, v. Joe WETCH, et al.",
+  "name_abbreviation": "Fleck v. Wetch",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19-670.",
+  "first_page": "1294",
+  "last_page": "1294",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1294"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 212,
+    "sha256": "33a7829dba995fb197e7dbf7ad23c83a204009405f60a16723fad3b106cff061",
+    "simhash": "1:daafd6463f851598",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arnold FLECK, Petitioner,\nv.\nJoe WETCH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Arnold FLECK, Petitioner,\nv.\nJoe WETCH, et al.\nNo. 19-670.\nSupreme Court of the United States.\nMarch 9, 2020.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "1294-02",
+  "first_page_order": 1294,
+  "last_page_order": 1294
+}

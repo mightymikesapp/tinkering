@@ -1,0 +1,91 @@
+{
+  "id": 12623118,
+  "name": "Quawn M. FRANKLIN, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Franklin v. Florida",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18\u20135228.",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 479"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 397"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 27",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12621483
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "Thomas, J., concurring"
+        },
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0027-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 571,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26363506134913656
+    },
+    "sha256": "9f3c6769f21aa3ccabe2573b40d0b6ca5f4fe780d3657301ed3c229a50869e7e",
+    "simhash": "1:eee890952e2d2564",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Quawn M. FRANKLIN, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied. Justice THOMAS, concurring in the denial of certiorari: I concur for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, ---L.Ed.2d ---- (2018) (Thomas, J., concurring). Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, --- L.Ed.2d ---- (2018) (Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Quawn M. FRANKLIN, petitioner,\nv.\nFLORIDA.\nNo. 18-5228.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for writ of certiorari to the Supreme Court of Florida denied. Justice THOMAS, concurring in the denial of certiorari: I concur for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, ---L.Ed.2d ---- (2018) (Thomas, J., concurring). Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, --- L.Ed.2d ---- (2018) (Sotomayor, J., dissenting)."
+  },
+  "file_name": "0479-04",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

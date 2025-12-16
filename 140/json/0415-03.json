@@ -1,0 +1,64 @@
+{
+  "id": 12628776,
+  "name": "Reginald LACEY, Petitioner v. David GOMEZ, Warden",
+  "name_abbreviation": "Lacey v. Gomez",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5555",
+  "first_page": "415",
+  "last_page": "415",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 415"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 226"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 218,
+    "sha256": "ea8d7f3c5c9131e0de6d1b5d9bb08163d95bfa567841b6dd9182d8fc7da473bb",
+    "simhash": "1:482f6444372c00a0",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Reginald LACEY, Petitioner\nv.\nDavid GOMEZ, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Reginald LACEY, Petitioner\nv.\nDavid GOMEZ, Warden\nNo. 19-5555\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0415-03",
+  "first_page_order": 415,
+  "last_page_order": 415
+}

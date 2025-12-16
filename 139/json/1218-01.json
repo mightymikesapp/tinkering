@@ -1,0 +1,64 @@
+{
+  "id": 12617757,
+  "name": "In Re Dennis Roger BOLZE, petitioner.",
+  "name_abbreviation": "In re Bolze",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20137247.",
+  "first_page": "1218",
+  "last_page": "1218",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1218"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "5740f7e1c6182dfc31591dafcb89c33b132e4d90ad39911e41546b7a30962f1d",
+    "simhash": "1:68ef706c73dbc105",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Dennis Roger BOLZE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Dennis Roger BOLZE, petitioner.\nNo. 18-7247.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1218-01",
+  "first_page_order": 1218,
+  "last_page_order": 1218
+}

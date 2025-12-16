@@ -1,0 +1,64 @@
+{
+  "id": 12614392,
+  "name": "George FOOTE, petitioner, v. INDIANA.",
+  "name_abbreviation": "Foote v. Indiana",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135379.",
+  "first_page": "319",
+  "last_page": "319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 319"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 193,
+    "sha256": "b9e8bdeb7983e702fc8b04baefbf8e6f2e05ce6d2f06dfb7fc04f194befbe11e",
+    "simhash": "1:7b6c565d838b843d",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George FOOTE, petitioner,\nv.\nINDIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Indiana, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "George FOOTE, petitioner,\nv.\nINDIANA.\nNo. 17-5379.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of certiorari to the Court of Appeals of Indiana, First District denied."
+  },
+  "file_name": "0319-01",
+  "first_page_order": 319,
+  "last_page_order": 319
+}

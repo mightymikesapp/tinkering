@@ -1,0 +1,64 @@
+{
+  "id": 12627713,
+  "name": "Brian PRICE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Price v. United States",
+  "decision_date": "2020-05-04",
+  "docket_number": "No. 19-7479.",
+  "first_page": "2743",
+  "last_page": "2743",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2743"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 920"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 205,
+    "sha256": "c8655180e43ebfea593ae5b082af363435df317c2c93a6b9053dee6bc8178eea",
+    "simhash": "1:52ed76453e8c5015",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brian PRICE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brian PRICE, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7479.\nSupreme Court of the United States.\nMay 4, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "2743-02",
+  "first_page_order": 2743,
+  "last_page_order": 2743
+}

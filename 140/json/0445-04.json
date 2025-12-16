@@ -1,0 +1,62 @@
+{
+  "id": 12628937,
+  "name": "Alfonso SANCHEZ, Petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Sanchez v. Pennsylvania",
+  "decision_date": "2019-10-21",
+  "docket_number": "No. 19-5660",
+  "first_page": "445",
+  "last_page": "445",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 445"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 257"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 211,
+    "sha256": "f7ce9cfe5edd3d2a446c304baa702fd9c3373555584400160aa400c46cb9af1a",
+    "simhash": "1:f9ef5658428c1f95",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alfonso SANCHEZ, Petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Alfonso SANCHEZ, Petitioner,\nv.\nPENNSYLVANIA.\nNo. 19-5660\nSupreme Court of the United States.\nOctober 21, 2019\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office denied."
+  },
+  "file_name": "0445-04",
+  "first_page_order": 445,
+  "last_page_order": 445
+}

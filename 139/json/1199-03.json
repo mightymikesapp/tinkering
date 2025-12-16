@@ -1,0 +1,64 @@
+{
+  "id": 12617630,
+  "name": "Miguel ROBINSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robinson v. United States",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20137095.",
+  "first_page": "1199",
+  "last_page": "1199",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1199"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "6146eb48b4d0d258c0df7e752351b2a17fb474ca6e8396de2991ed6c36c64895",
+    "simhash": "1:79ed74443364d515",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miguel ROBINSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Miguel ROBINSON, petitioner,\nv.\nUNITED STATES.\nNo. 18-7095.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1199-03",
+  "first_page_order": 1199,
+  "last_page_order": 1199
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630000,
+  "name": "IN RE Warren PARKS, Petitioner",
+  "name_abbreviation": "In re Parks",
+  "decision_date": "2019-12-16",
+  "docket_number": "No. 19-6248",
+  "first_page": "665",
+  "last_page": "665",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 665"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 445"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 136,
+    "sha256": "5a8ee5f407d17e562349db50bf62cbf6965e94fd08d981c4909f5ec4c96890bc",
+    "simhash": "1:f87e5254eeb9d375",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Warren PARKS, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Warren PARKS, Petitioner\nNo. 19-6248\nSupreme Court of the United States.\nDecember 16, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0665-04",
+  "first_page_order": 665,
+  "last_page_order": 665
+}

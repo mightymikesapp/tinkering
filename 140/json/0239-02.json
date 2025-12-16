@@ -1,0 +1,64 @@
+{
+  "id": 12626612,
+  "name": "Donald COVINGTON, Petitioner, v. UNITED STATES",
+  "name_abbreviation": "Covington v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5108",
+  "first_page": "239",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 239"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "5543203d549cbd35e37a66a8c9f2d1e85908a6045eda41bed4e2fe71b6425741",
+    "simhash": "1:7aaf44dcb3c0c10d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald COVINGTON, Petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Donald COVINGTON, Petitioner,\nv.\nUNITED STATES\nNo. 19-5108\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0239-02",
+  "first_page_order": 239,
+  "last_page_order": 239
+}

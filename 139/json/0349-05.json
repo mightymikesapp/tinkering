@@ -1,0 +1,64 @@
+{
+  "id": 12622431,
+  "name": "Emory Dickson ENEH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Eneh v. United States",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 18\u20135879.",
+  "first_page": "349",
+  "last_page": "349",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 349"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 246"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "60876cd3c97376e0c5e3958cb77b8767a48b1f203866ad741e394ed5fbbd41e7",
+    "simhash": "1:f8acf6454e84949d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Emory Dickson ENEH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Emory Dickson ENEH, petitioner,\nv.\nUNITED STATES.\nNo. 18-5879.\nSupreme Court of the United States\nOct. 9, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0349-05",
+  "first_page_order": 349,
+  "last_page_order": 349
+}

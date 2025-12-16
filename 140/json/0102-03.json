@@ -1,0 +1,83 @@
+{
+  "id": 12624932,
+  "name": "Gerald HUMBERT, Petitioner, v. UNITED STATES",
+  "name_abbreviation": "Humbert v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-8911",
+  "first_page": "102",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 102"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2191",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620627
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2191-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 532,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26364181849984303
+    },
+    "sha256": "607ed8d24929d947e1aa07e3b5b94547023f64831b49447e9f0372d9d56fe32b",
+    "simhash": "1:7aad66c42d03971f",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gerald HUMBERT, Petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Gerald HUMBERT, Petitioner,\nv.\nUNITED STATES\nNo. 18-8911\nSupreme Court of the United States.\nOctober 7, 2019\nOn petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+  },
+  "file_name": "0102-03",
+  "first_page_order": 102,
+  "last_page_order": 102
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12625608,
+  "name": "COLORADO DEPARTMENT OF STATE, Petitioner, v. Micheal BACA, et al.",
+  "name_abbreviation": "Colo. Dep't of State v. Baca",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-518",
+  "first_page": "1261",
+  "last_page": "1261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1261"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 253"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 217,
+    "sha256": "48bbcecc6ee8c4aba45e76bdadefba3b8e2b4f7824ff3af1184b69510408b0f0",
+    "simhash": "1:40b7fc449e94934b",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COLORADO DEPARTMENT OF STATE, Petitioner,\nv.\nMicheal BACA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "COLORADO DEPARTMENT OF STATE, Petitioner,\nv.\nMicheal BACA, et al.\nNo. 19-518\nSupreme Court of the United States.\nMarch 2, 2020\nMotion of petitioner in No. 19-465 to dispense with printing the joint appendix granted."
+  },
+  "file_name": "1261-04",
+  "first_page_order": 1261,
+  "last_page_order": 1261
+}

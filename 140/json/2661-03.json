@@ -1,0 +1,64 @@
+{
+  "id": 12627305,
+  "name": "IN RE Jonathan A. HAMPTON, Petitioner.",
+  "name_abbreviation": "In re Hampton",
+  "decision_date": "2020-04-06",
+  "docket_number": "No. 19-8026.",
+  "first_page": "2661",
+  "last_page": "2661",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2661"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 730"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 146,
+    "sha256": "bb19fa3bb4736407cd677ed820d75852b4405863b116e5a5a0b2305f6074399b",
+    "simhash": "1:60f35444bac447ec",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Jonathan A. HAMPTON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Jonathan A. HAMPTON, Petitioner.\nNo. 19-8026.\nSupreme Court of the United States.\nApril 6, 2020\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2661-03",
+  "first_page_order": 2661,
+  "last_page_order": 2661
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12617764,
+  "name": "In Re Vernon Shawn DANIELS, Jr., petitioner.",
+  "name_abbreviation": "In re Daniels",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20137260.",
+  "first_page": "1219",
+  "last_page": "1219",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1219"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 229,
+    "sha256": "087f715cf60f6d66a1b2d11a6fe735cc3b539b3158c5eeb612ba4b4e5b1ffb32",
+    "simhash": "1:f967f00677eadbc6",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Vernon Shawn DANIELS, Jr., petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Vernon Shawn DANIELS, Jr., petitioner.\nNo. 18-7260.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1219-02",
+  "first_page_order": 1219,
+  "last_page_order": 1219
+}

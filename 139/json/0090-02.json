@@ -1,0 +1,64 @@
+{
+  "id": 12624606,
+  "name": "In Re Michael B. ELLIS, et al., petitioners.",
+  "name_abbreviation": "In re Ellis",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20131561.",
+  "first_page": "90",
+  "last_page": "90",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 90"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 165,
+    "sha256": "c90fd784d28a6deaa40c03568d6df5c02afef5953b14f64ac417fe7636965bf9",
+    "simhash": "1:fcef601c4c91041a",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Michael B. ELLIS, et al., petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Michael B. ELLIS, et al., petitioners.\nNo. 17-1561.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0090-02",
+  "first_page_order": 90,
+  "last_page_order": 90
+}

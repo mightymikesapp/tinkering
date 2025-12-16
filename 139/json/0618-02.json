@@ -1,0 +1,64 @@
+{
+  "id": 12623656,
+  "name": "In Re Danny HOWELL, petitioner.",
+  "name_abbreviation": "In re Howell",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 18\u20136632.",
+  "first_page": "618",
+  "last_page": "618",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 618"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 448"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 228,
+    "sha256": "c82be8e4f01963dd2c5347d28a91f0d62c2246841bccaab5a2efc4598981b458",
+    "simhash": "1:62e1744e87534355",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Danny HOWELL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Danny HOWELL, petitioner.\nNo. 18-6632.\nSupreme Court of the United States\nDec. 3, 2018.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8."
+  },
+  "file_name": "0618-02",
+  "first_page_order": 618,
+  "last_page_order": 618
+}

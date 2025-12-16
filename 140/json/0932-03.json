@@ -1,0 +1,64 @@
+{
+  "id": 12630769,
+  "name": "CALIFORNIA, et al., Petitioners v. TEXAS, et al.",
+  "name_abbreviation": "California v. Texas",
+  "decision_date": "2020-01-21",
+  "docket_number": "No. 19-840",
+  "first_page": "932",
+  "last_page": "932",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 932"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 521"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 209,
+    "sha256": "3a4b04ec476393966adb0e1df613f931de848ca312924aed9c3767968a0c72db",
+    "simhash": "1:e0a280045cd17f13",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CALIFORNIA, et al., Petitioners\nv.\nTEXAS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner to expedite consideration of the petitions for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "CALIFORNIA, et al., Petitioners\nv.\nTEXAS, et al.\nNo. 19-840\nSupreme Court of the United States.\nJanuary 21, 2020\nMotion of petitioner to expedite consideration of the petitions for writ of certiorari denied."
+  },
+  "file_name": "0932-03",
+  "first_page_order": 932,
+  "last_page_order": 932
+}

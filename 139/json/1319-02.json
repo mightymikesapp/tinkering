@@ -1,0 +1,64 @@
+{
+  "id": 12618412,
+  "name": "Samuel SILVA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Silva v. United States",
+  "decision_date": "2019-03-18",
+  "docket_number": "No. 18\u20136265.",
+  "first_page": "1319",
+  "last_page": "1319",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1319"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 572"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "a187e95af3dcff3e9242077692897a20d8917e98357bc7b2f34c330116698792",
+    "simhash": "1:40ad74463a0cd2d9",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Samuel SILVA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel SILVA, petitioner,\nv.\nUNITED STATES.\nNo. 18-6265.\nSupreme Court of the United States\nMarch 18, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1319-02",
+  "first_page_order": 1319,
+  "last_page_order": 1319
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12631024,
+  "name": "IN RE Khayree SMITH, Petitioner.",
+  "name_abbreviation": "In re Smith",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-7147",
+  "first_page": "985",
+  "last_page": "985",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 985"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 136"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "11b90adef2e1f4b75bef3e94f4087cdb2ad40ae2f88869a873a4871af5a07b88",
+    "simhash": "1:e81fd40ec650c18b",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Khayree SMITH, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Khayree SMITH, Petitioner.\nNo. 19-7147\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0985-01",
+  "first_page_order": 985,
+  "last_page_order": 985
+}

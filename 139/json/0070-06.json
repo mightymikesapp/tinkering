@@ -1,0 +1,83 @@
+{
+  "id": 12623915,
+  "name": "Jose Luis PINEDA, petitioner, v. Jefferson B. SESSIONS, III, Attorney General.",
+  "name_abbreviation": "Pineda v. Sessions",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138655.",
+  "first_page": "70",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 70"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1204",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610616
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 552,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636389225781117
+    },
+    "sha256": "e3019aa2d4545000c52ecf492b4cf8a435f9ca3dd6e3e4c53f0b2fb066ebd49a",
+    "simhash": "1:f7aff2148f01069d",
+    "word_count": 90
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Luis PINEDA, petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Luis PINEDA, petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General.\nNo. 17-8655.\nSupreme Court of the United States\nOct. 1, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+  },
+  "file_name": "0070-06",
+  "first_page_order": 70,
+  "last_page_order": 71
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12615867,
+  "name": "John BORG, et al., petitioners, v. TOWN OF WESTPORT CONNECTICUT, et al.",
+  "name_abbreviation": "Borg v. Town of Westport Conn.",
+  "decision_date": "2017-12-11",
+  "docket_number": "No. 17\u2013486.",
+  "first_page": "558",
+  "last_page": "558",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 558"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 437"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 236,
+    "sha256": "fd321ac1c014581b9968b7cd6f543bc45d7b7a72e34990bc43d1304409e2bde2",
+    "simhash": "1:7b3ef404bf423307",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John BORG, et al., petitioners,\nv.\nTOWN OF WESTPORT CONNECTICUT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John BORG, et al., petitioners,\nv.\nTOWN OF WESTPORT CONNECTICUT, et al.\nNo. 17-486.\nSupreme Court of the United States\nDec. 11, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0558-01",
+  "first_page_order": 558,
+  "last_page_order": 558
+}

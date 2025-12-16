@@ -1,0 +1,64 @@
+{
+  "id": 12626931,
+  "name": "IN RE Julius Jerome MURPHY, Petitioner.",
+  "name_abbreviation": "In re Murphy",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-932.",
+  "first_page": "2556",
+  "last_page": "2556",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2556"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 147,
+    "sha256": "d37659ba9ff59537e3dacc85bbb8079c06fb04086a3712ffb51bb8ff21093fed",
+    "simhash": "1:ea6f56453ed16715",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Julius Jerome MURPHY, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Julius Jerome MURPHY, Petitioner.\nNo. 19-932.\nSupreme Court of the United States.\nMarch 23, 2020\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2556-04",
+  "first_page_order": 2556,
+  "last_page_order": 2556
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12610239,
+  "name": "John HANLON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hanlon v. United States",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u2013992.",
+  "first_page": "1032",
+  "last_page": "1032",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1032"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "856615a25a4d121dc9a3c8fe3dda2efe683a857c2c9212340e47ffdb33eeb821",
+    "simhash": "1:7baed6642b061615",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John HANLON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John HANLON, petitioner,\nv.\nUNITED STATES.\nNo. 17-992.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1032-02",
+  "first_page_order": 1032,
+  "last_page_order": 1032
+}

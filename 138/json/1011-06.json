@@ -1,0 +1,62 @@
+{
+  "id": 12610103,
+  "name": "Michael KUPRITZ, petitioner, v. CHASE BANK USA, N.A.",
+  "name_abbreviation": "Kupritz v. Chase Bank USA, N.A.",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20137174.",
+  "first_page": "1011",
+  "last_page": "1011",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1011"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 275"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 217,
+    "sha256": "d9ae0ce7a22b3b94a7bd0a3798f2e554fc3dfac44461fa8c9b2f842412a4d436",
+    "simhash": "1:4aef56442b07518d",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael KUPRITZ, petitioner,\nv.\nCHASE BANK USA, N.A."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael KUPRITZ, petitioner,\nv.\nCHASE BANK USA, N.A.\nNo. 17-7174.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Fourth District denied."
+  },
+  "file_name": "1011-06",
+  "first_page_order": 1011,
+  "last_page_order": 1011
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12612640,
+  "name": "Steve VERMILLION, et al., petitioners, v. Arthur WEST.",
+  "name_abbreviation": "Vermillion v. West",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u201315.",
+  "first_page": "202",
+  "last_page": "202",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 202"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 115"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 206,
+    "sha256": "3c886d488f6fd60615e00f3cdbf55ffeeb1dc68dda8d1146238e2a0564cfb1dc",
+    "simhash": "1:f93f4655b00161fa",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steve VERMILLION, et al., petitioners,\nv.\nArthur WEST."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 2 denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steve VERMILLION, et al., petitioners,\nv.\nArthur WEST.\nNo. 17-15.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 2 denied."
+  },
+  "file_name": "0202-01",
+  "first_page_order": 202,
+  "last_page_order": 202
+}

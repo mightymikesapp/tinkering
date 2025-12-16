@@ -1,0 +1,64 @@
+{
+  "id": 12628126,
+  "name": "IN RE Arnold KING, Petitioner",
+  "name_abbreviation": "In re King",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5559",
+  "first_page": "282",
+  "last_page": "282",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 282"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 215,
+    "sha256": "8480ef828d086b3dbde03d7b1868f8a1977351607c08980b334cffd266e1d248",
+    "simhash": "1:68f7101eb6ecd346",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Arnold KING, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Alito took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Alito took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Arnold KING, Petitioner\nNo. 19-5559\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0282-06",
+  "first_page_order": 282,
+  "last_page_order": 282
+}

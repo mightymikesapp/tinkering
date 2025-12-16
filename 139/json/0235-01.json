@@ -1,0 +1,64 @@
+{
+  "id": 12620725,
+  "name": "In Re Gregory BARTUNEK, petitioner.",
+  "name_abbreviation": "In re Bartunek",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135208.",
+  "first_page": "235",
+  "last_page": "235",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 235"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "17fd25af514af9aac597c24b861fc3441217e2d3b92f576eedb09d4ff8b3eb21",
+    "simhash": "1:608b600d4a594713",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Gregory BARTUNEK, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Gregory BARTUNEK, petitioner.\nNo. 18-5208.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0235-01",
+  "first_page_order": 235,
+  "last_page_order": 235
+}

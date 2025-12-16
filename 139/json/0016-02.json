@@ -1,0 +1,62 @@
+{
+  "id": 12619667,
+  "name": "In re UNITED STATES, et al.",
+  "name_abbreviation": "In re United States",
+  "decision_date": "2018-10-19",
+  "docket_number": "No. 18A410.",
+  "first_page": "16",
+  "last_page": "16",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 16"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 508,
+    "sha256": "885ce5db1164b502d8ceac2b7d63dfbe756d2243edcf238f19790afca9fc1f19",
+    "simhash": "1:d2aff4339c0c1e0f",
+    "word_count": 89
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re UNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "UPON CONSIDERATION of the application of counsel for the applicants,\nIT IS ORDERED that discovery and trial in the United States District Court for the District of Oregon, in case No. 6:15-cv-01517, are stayed pending receipt of a response, due on or before Wednesday, October 24, 2018, by 3 p.m., and further order of the undersigned or of the Court.\n/s/ John G. Roberts, Jr.\nChief Justice of the United States",
+        "type": "majority",
+        "author": "Chief Justice of the United States"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re UNITED STATES, et al.\nNo. 18A410.\nSupreme Court of the United States\nOct. 19, 2018.\nORDER"
+  },
+  "file_name": "0016-02",
+  "first_page_order": 16,
+  "last_page_order": 16
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12625612,
+  "name": "TEXAS, et al., Petitioners, v. CALIFORNIA, et al.",
+  "name_abbreviation": "Texas v. California",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-1019",
+  "first_page": "1262",
+  "last_page": "1262",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1262"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 253"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 400,
+    "sha256": "e0019f22868d710742724227a63aa7b74119858b10d81c6a560fa3c0ae7c9ac3",
+    "simhash": "1:92ac54045fc1120d",
+    "word_count": 70
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TEXAS, et al., Petitioners,\nv.\nCALIFORNIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of 33 State Hospital Associations for leave to file a brief as amici curiae in No. 19-840 granted. Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit granted. The case is consolidated and a total of one hour is allotted for oral argument."
+    ],
+    "corrections": "",
+    "head_matter": "TEXAS, et al., Petitioners,\nv.\nCALIFORNIA, et al.\nNo. 19-1019\nSupreme Court of the United States.\nMarch 2, 2020\nMotion of 33 State Hospital Associations for leave to file a brief as amici curiae in No. 19-840 granted. Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit granted. The case is consolidated and a total of one hour is allotted for oral argument."
+  },
+  "file_name": "1262-03",
+  "first_page_order": 1262,
+  "last_page_order": 1262
+}

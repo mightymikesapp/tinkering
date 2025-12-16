@@ -1,0 +1,64 @@
+{
+  "id": 12616769,
+  "name": "Jonathan HAAR, et ux., petitioners, v. Alice H. ALLEN, et al.",
+  "name_abbreviation": "Haar v. Allen",
+  "decision_date": "2018-01-16",
+  "docket_number": "No. 17\u20136767.",
+  "first_page": "745",
+  "last_page": "745",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 745"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 612"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 227,
+    "sha256": "4954ec54b05affb91f97716355890a09b3527f25a15bcf0f0461de0728f7b154",
+    "simhash": "1:16a550d43f048584",
+    "word_count": 39
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jonathan HAAR, et ux., petitioners,\nv.\nAlice H. ALLEN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jonathan HAAR, et ux., petitioners,\nv.\nAlice H. ALLEN, et al.\nNo. 17-6767.\nSupreme Court of the United States\nJan. 16, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0745-01",
+  "first_page_order": 745,
+  "last_page_order": 745
+}

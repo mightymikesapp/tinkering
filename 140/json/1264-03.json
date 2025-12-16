@@ -1,0 +1,64 @@
+{
+  "id": 12625621,
+  "name": "Kenneth DANIELS, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Daniels v. United States",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-28",
+  "first_page": "1264",
+  "last_page": "1264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1264"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 254"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "d542fed3882c79ded1f55482e3db919b2dc8a218679e88b3b53db7479faf3e02",
+    "simhash": "1:eead74443f0f9a39",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kenneth DANIELS, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kenneth DANIELS, Petitioner,\nv.\nUNITED STATES.\nNo. 19-28\nSupreme Court of the United States.\nMarch 2, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1264-03",
+  "first_page_order": 1264,
+  "last_page_order": 1264
+}

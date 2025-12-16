@@ -1,0 +1,64 @@
+{
+  "id": 12624823,
+  "name": "In Re Donald L. SPENCER, petitioner.",
+  "name_abbreviation": "In re Spencer",
+  "decision_date": "2019-01-22",
+  "docket_number": "No. 18\u20136745.",
+  "first_page": "944",
+  "last_page": "944",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 944"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "7e6e7cbecac1368f5f0154e41e54d5ce7ca906d7da9c210f7a43e768cebbd3fb",
+    "simhash": "1:3a631044a1009255",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Donald L. SPENCER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Donald L. SPENCER, petitioner.\nNo. 18-6745.\nSupreme Court of the United States\nJan. 22, 2019.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0944-03",
+  "first_page_order": 944,
+  "last_page_order": 944
+}

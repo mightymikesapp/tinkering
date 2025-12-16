@@ -1,0 +1,64 @@
+{
+  "id": 12627310,
+  "name": "IN RE Melvin BONNELL, Petitioner.",
+  "name_abbreviation": "In re Bonnell",
+  "decision_date": "2020-04-06",
+  "docket_number": "No. 19-6863.",
+  "first_page": "2662",
+  "last_page": "2662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2662"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 731"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 129,
+    "sha256": "0392a4a714e5cec17647f30f177e4eb142ab2c4842191cf5371810c77af27773",
+    "simhash": "1:77f536103eccf40b",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Melvin BONNELL, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Melvin BONNELL, Petitioner.\nNo. 19-6863.\nSupreme Court of the United States.\nApril 6, 2020\nPetition for rehearing denied."
+  },
+  "file_name": "2662-02",
+  "first_page_order": 2662,
+  "last_page_order": 2662
+}

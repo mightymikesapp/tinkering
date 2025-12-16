@@ -1,0 +1,64 @@
+{
+  "id": 12628755,
+  "name": "Patrick O. NEISS, Petitioner, v. MONTANA.",
+  "name_abbreviation": "Neiss v. Montana",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5774",
+  "first_page": "411",
+  "last_page": "411",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 411"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 233"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 180,
+    "sha256": "2b6c8d1afee5ac7a1fe6298ad7336d3301bba193bed37f9e82d5ae9be23da824",
+    "simhash": "1:e8ef54043a9a3090",
+    "word_count": 29
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick O. NEISS, Petitioner,\nv.\nMONTANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Montana denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick O. NEISS, Petitioner,\nv.\nMONTANA.\nNo. 19-5774\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the Supreme Court of Montana denied."
+  },
+  "file_name": "0411-02",
+  "first_page_order": 411,
+  "last_page_order": 411
+}

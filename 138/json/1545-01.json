@@ -1,0 +1,82 @@
+{
+  "id": 12611508,
+  "name": "Jerry N. BROWN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2018-04-16",
+  "docket_number": "No. 17\u20136344.",
+  "first_page": "1545",
+  "last_page": "1545",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1545"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 738"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "887 F.3d 397",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12516560
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/887/0397-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 522,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26359181558461514
+    },
+    "sha256": "2ffaba98a8922d2101096e3d2ea483308628f3814cc561b89506d5917db3e354",
+    "simhash": "1:7eade64421041699",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry N. BROWN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of that court's opinion in United States v. Naylor, 887 F.3d 397 (CA8 2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Jerry N. BROWN, petitioner,\nv.\nUNITED STATES.\nNo. 17-6344.\nSupreme Court of the United States\nApril 16, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of that court's opinion in United States v. Naylor, 887 F.3d 397 (CA8 2018)."
+  },
+  "file_name": "1545-01",
+  "first_page_order": 1545,
+  "last_page_order": 1545
+}

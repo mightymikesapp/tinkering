@@ -1,0 +1,64 @@
+{
+  "id": 12616763,
+  "name": "Alan Justin SMITH, petitioner, v. WASHINGTON.",
+  "name_abbreviation": "Smith v. Washington",
+  "decision_date": "2018-01-16",
+  "docket_number": "No. 17\u20136743.",
+  "first_page": "744",
+  "last_page": "744",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 744"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 611"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 200,
+    "sha256": "dcf3f9339d17b53af0fce84555caed38e0937618dda79f9038eb70c02ccbdffb",
+    "simhash": "1:3cbb7ad4738b64be",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alan Justin SMITH, petitioner,\nv.\nWASHINGTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Washington, Division 1 denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alan Justin SMITH, petitioner,\nv.\nWASHINGTON.\nNo. 17-6743.\nSupreme Court of the United States\nJan. 16, 2018.\nPetition for writ of certiorari to the Court of Appeals of Washington, Division 1 denied."
+  },
+  "file_name": "0744-01",
+  "first_page_order": 744,
+  "last_page_order": 744
+}

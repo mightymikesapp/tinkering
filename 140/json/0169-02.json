@@ -1,0 +1,64 @@
+{
+  "id": 12626135,
+  "name": "Paris TAYLOR, Petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Taylor v. Illinois",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9484",
+  "first_page": "169",
+  "last_page": "169",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 169"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 85"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "c90b009c7461802b8121f5caf4971a2ceb2b6f1f7a394fa471f101859f72664c",
+    "simhash": "1:f6af767efa80a100",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paris TAYLOR, Petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Paris TAYLOR, Petitioner,\nv.\nILLINOIS.\nNo. 18-9484\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "0169-02",
+  "first_page_order": 169,
+  "last_page_order": 169
+}

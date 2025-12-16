@@ -1,0 +1,64 @@
+{
+  "id": 12628285,
+  "name": "IN RE Anthony K. ANDERSON, Petitioner",
+  "name_abbreviation": "In re Anderson",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9476",
+  "first_page": "293",
+  "last_page": "293",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 293"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 134,
+    "sha256": "fa99504de601ff3940b474a0bac0ceb2d27736dd738c80b7e86cbbfd8619c326",
+    "simhash": "1:62fd7c4ab61053ae",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Anthony K. ANDERSON, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Anthony K. ANDERSON, Petitioner\nNo. 18-9476\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for rehearing denied."
+  },
+  "file_name": "0293-06",
+  "first_page_order": 293,
+  "last_page_order": 293
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630474,
+  "name": "Jennifer CASTRO, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Castro v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6826",
+  "first_page": "874",
+  "last_page": "874",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 874"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 216,
+    "sha256": "f66a1e179db266115e9556b7ecf4e05478a94e662a2bc2974b9f017ecdf83ed4",
+    "simhash": "1:fcaf76447305d49d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jennifer CASTRO, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jennifer CASTRO, Petitioner,\nv.\nUNITED STATES.\nNo. 19-6826\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0874-04",
+  "first_page_order": 874,
+  "last_page_order": 874
+}

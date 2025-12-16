@@ -1,0 +1,64 @@
+{
+  "id": 12627307,
+  "name": "Ray A. SMITH, Petitioner, v. John CHAPDELAINE, Warden, et al.",
+  "name_abbreviation": "Smith v. Chapdelaine",
+  "decision_date": "2020-04-06",
+  "docket_number": "No. 19-6427.",
+  "first_page": "2661",
+  "last_page": "2661",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2661"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 730"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 157,
+    "sha256": "ac97ea3462ad46e32af5f0a26814826b1b41b2aa743ffd623d1cae7a0f3491cc",
+    "simhash": "1:539f0c801e1d6456",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ray A. SMITH, Petitioner,\nv.\nJohn CHAPDELAINE, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ray A. SMITH, Petitioner,\nv.\nJohn CHAPDELAINE, Warden, et al.\nNo. 19-6427.\nSupreme Court of the United States.\nApril 6, 2020\nPetition for rehearing denied."
+  },
+  "file_name": "2661-05",
+  "first_page_order": 2661,
+  "last_page_order": 2661
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12625798,
+  "name": "Jorge GUERRERO, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Guerrero v. United States",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19-6825.",
+  "first_page": "1300",
+  "last_page": "1300",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1300"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 378"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "4818848f08bc4c9288ae332cdc7539dc8ecec8677eff249621c79d229f642375",
+    "simhash": "1:c3ed76462f85572f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jorge GUERRERO, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jorge GUERRERO, Petitioner,\nv.\nUNITED STATES.\nNo. 19-6825.\nSupreme Court of the United States.\nMarch 9, 2020.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1300-03",
+  "first_page_order": 1300,
+  "last_page_order": 1300
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12617066,
+  "name": "Jeremy JONES, petitioner, v. CHEN, Correctional Medical Doctor.",
+  "name_abbreviation": "Jones v. Chen",
+  "decision_date": "2018-01-22",
+  "docket_number": "No. 17M78.",
+  "first_page": "939",
+  "last_page": "939",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 939"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 215,
+    "sha256": "629bb9f14985ad77179c4421b6b398490ececee98846c58e0b6982bc88e679ee",
+    "simhash": "1:eb8f444607895192",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeremy JONES, petitioner,\nv.\nCHEN, Correctional Medical Doctor."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeremy JONES, petitioner,\nv.\nCHEN, Correctional Medical Doctor.\nNo. 17M78.\nSupreme Court of the United States\nJan. 22, 2018.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0939-04",
+  "first_page_order": 939,
+  "last_page_order": 939
+}

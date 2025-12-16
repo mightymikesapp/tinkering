@@ -1,0 +1,64 @@
+{
+  "id": 12626363,
+  "name": "Born MURRAY, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Murray v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5306",
+  "first_page": "201",
+  "last_page": "201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 201"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 168"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "4b725dc735c89e53e2085dfcf83aca5032a82d9489d33bee37ad9c60d2024da0",
+    "simhash": "1:7aad464436a4d225",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Born MURRAY, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Born MURRAY, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5306\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0201-05",
+  "first_page_order": 201,
+  "last_page_order": 201
+}

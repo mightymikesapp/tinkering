@@ -1,0 +1,64 @@
+{
+  "id": 12630430,
+  "name": "IN RE Todd C. BANK, Petitioner.",
+  "name_abbreviation": "In re Bank",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-544",
+  "first_page": "865",
+  "last_page": "865",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 865"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 507"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 135,
+    "sha256": "169675c7afb813839b8c3fb30e98a89630a05a607aca860c6cd0c8bc4147c461",
+    "simhash": "1:d2375644d2c1b16d",
+    "word_count": 23
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Todd C. BANK, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Todd C. BANK, Petitioner.\nNo. 19-544\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0865-03",
+  "first_page_order": 865,
+  "last_page_order": 865
+}

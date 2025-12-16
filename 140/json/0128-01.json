@@ -1,0 +1,64 @@
+{
+  "id": 12625687,
+  "name": "Dwayne STOUTAMIRE, Applicant, v. Christopher LA ROSE, Warden.",
+  "name_abbreviation": "Stoutamire v. La Rose",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18A718",
+  "first_page": "128",
+  "last_page": "128",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 128"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 233,
+    "sha256": "5089f51a42c7df8a7ff53e1c8fb48c355d5d125a8c8a795ab151fb4dce62108a",
+    "simhash": "1:faad1e5c6798c26a",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwayne STOUTAMIRE, Applicant,\nv.\nChristopher LA ROSE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for certificate of appealability addressed to Justice Breyer and referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dwayne STOUTAMIRE, Applicant,\nv.\nChristopher LA ROSE, Warden.\nNo. 18A718\nSupreme Court of the United States.\nOctober 7, 2019\nApplication for certificate of appealability addressed to Justice Breyer and referred to the Court denied."
+  },
+  "file_name": "0128-01",
+  "first_page_order": 128,
+  "last_page_order": 128
+}

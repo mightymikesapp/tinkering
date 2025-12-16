@@ -1,0 +1,62 @@
+{
+  "id": 12617974,
+  "name": "In the Matter of DISBARMENT OF John Bernard MARCIN.",
+  "name_abbreviation": "In re Marcin",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. D\u20133039.",
+  "first_page": "1248",
+  "last_page": "1248",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1248"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 141,
+    "sha256": "320ff0a10e9464285cd2f2f9dc1264849981732ef2240c4579bd085084a033e1",
+    "simhash": "1:b2e6540d23a07424",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF John Bernard MARCIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF John Bernard MARCIN.\nNo. D-3039.\nSupreme Court of the United States\nFeb. 19, 2019.\nDisbarment order entered."
+  },
+  "file_name": "1248-08",
+  "first_page_order": 1248,
+  "last_page_order": 1248
+}

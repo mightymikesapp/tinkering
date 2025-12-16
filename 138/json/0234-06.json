@@ -1,0 +1,94 @@
+{
+  "id": 12613004,
+  "name": "Waseem DAKER, petitioner, v. Robert TOOLE, Warden.",
+  "name_abbreviation": "Daker v. Toole",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135256.",
+  "first_page": "234",
+  "last_page": "235",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 6"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 83,
+    "char_count": 689,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635995380425654
+    },
+    "sha256": "7f42d3bc9ac5b6beb828bf593629c6d697992447b953a8f3eef1e22f4e573b19",
+    "simhash": "1:6de6e58c232dd6ab",
+    "word_count": 113
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Waseem DAKER, petitioner,\nv.\nRobert TOOLE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Waseem DAKER, petitioner,\nv.\nRobert TOOLE, Warden.\nNo. 17-5256.\nSupreme Court of the United States\nOct. 2, 2017.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "0234-06",
+  "first_page_order": 234,
+  "last_page_order": 235
+}

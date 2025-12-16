@@ -1,0 +1,64 @@
+{
+  "id": 12621686,
+  "name": "Robert MARSHALL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Marshall v. United States",
+  "decision_date": "2019-06-17",
+  "docket_number": "No. 18\u20139264.",
+  "first_page": "2729",
+  "last_page": "2729",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2729"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1121"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 214,
+    "sha256": "77616fd17ed663e9eb3f11c4488d648e2a9f241c36dd84109bf77015145b548a",
+    "simhash": "1:f4ad66c41f0586f1",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert MARSHALL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert MARSHALL, petitioner,\nv.\nUNITED STATES.\nNo. 18-9264.\nSupreme Court of the United States\nJune 17, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2729-04",
+  "first_page_order": 2729,
+  "last_page_order": 2729
+}

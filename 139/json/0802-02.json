@@ -1,0 +1,64 @@
+{
+  "id": 12624103,
+  "name": "John DAVIS, petitioner, v. DEUTSCHE BANK NATIONAL TRUST CO., et al.",
+  "name_abbreviation": "Davis v. Deutsche Bank Nat'l Trust Co.",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u2013473.",
+  "first_page": "802",
+  "last_page": "802",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 802"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 572"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 230,
+    "sha256": "53a19e0e22fc1405cb7a833be331990365e601c2271898cb4d395aa34a95afa1",
+    "simhash": "1:126764442a849394",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DAVIS, petitioner,\nv.\nDEUTSCHE BANK NATIONAL TRUST CO., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John DAVIS, petitioner,\nv.\nDEUTSCHE BANK NATIONAL TRUST CO., et al.\nNo. 18-473.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0802-02",
+  "first_page_order": 802,
+  "last_page_order": 802
+}

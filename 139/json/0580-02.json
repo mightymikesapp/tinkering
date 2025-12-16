@@ -1,0 +1,64 @@
+{
+  "id": 12623400,
+  "name": "Anthony LOMAX, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lomax v. United States",
+  "decision_date": "2018-11-19",
+  "docket_number": "No. 18\u20136389.",
+  "first_page": "580",
+  "last_page": "580",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 580"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 413"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "2c00c54a699c8694df2fc9e781d7cb2752945dc94ed91f7b7e4df8574eb5af46",
+    "simhash": "1:68adf0862b0e56bc",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony LOMAX, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony LOMAX, petitioner,\nv.\nUNITED STATES.\nNo. 18-6389.\nSupreme Court of the United States\nNov. 19, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0580-02",
+  "first_page_order": 580,
+  "last_page_order": 580
+}

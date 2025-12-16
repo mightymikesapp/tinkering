@@ -1,0 +1,64 @@
+{
+  "id": 12623077,
+  "name": "Scott Mitchell BUMMER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bummer v. United States",
+  "decision_date": "2018-11-05",
+  "docket_number": "No. 18\u20136225.",
+  "first_page": "471",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 471"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 359"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 216,
+    "sha256": "d3eb83e1ec36e3d0cd088361e567cfd294b6a834850d02203a91db92c5964c42",
+    "simhash": "1:52ad764523849192",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott Mitchell BUMMER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Scott Mitchell BUMMER, petitioner,\nv.\nUNITED STATES.\nNo. 18-6225.\nSupreme Court of the United States\nNov. 5, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0471-03",
+  "first_page_order": 471,
+  "last_page_order": 471
+}

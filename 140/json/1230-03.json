@@ -1,0 +1,62 @@
+{
+  "id": 12625446,
+  "name": "Terrance COBB, Petitioner, v. FLORIDA.",
+  "name_abbreviation": "Cobb v. Florida",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7278",
+  "first_page": "1230",
+  "last_page": "1230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1230"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 223"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 205,
+    "sha256": "4fde31b35bd5d9d5c4e847adbf6d93f056fa15b2f97e41b53b79f23bfbab2a89",
+    "simhash": "1:536bc614fc8953ad",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terrance COBB, Petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Terrance COBB, Petitioner,\nv.\nFLORIDA.\nNo. 19-7278\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of certiorari to the District Court of Appeal of Florida, Fifth District denied."
+  },
+  "file_name": "1230-03",
+  "first_page_order": 1230,
+  "last_page_order": 1230
+}

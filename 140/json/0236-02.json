@@ -1,0 +1,64 @@
+{
+  "id": 12626593,
+  "name": "Ivan STAMPS, Petitioner, v. Michael MILLER.",
+  "name_abbreviation": "Stamps v. Miller",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5004",
+  "first_page": "236",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 236"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 138"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 209,
+    "sha256": "76739238383a5859a64e91d1bda1c54f6dcfdc35cf5179764e58670f9e2c30fe",
+    "simhash": "1:e2adf6c43ba8d3a9",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ivan STAMPS, Petitioner,\nv.\nMichael MILLER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ivan STAMPS, Petitioner,\nv.\nMichael MILLER.\nNo. 19-5004\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0236-02",
+  "first_page_order": 236,
+  "last_page_order": 236
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12614477,
+  "name": "In Re Kevin POLLINS, petitioner.",
+  "name_abbreviation": "In re Pollins",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135533.",
+  "first_page": "330",
+  "last_page": "330",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 330"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "a68c4bbc705873962c181af1fdc83e8df0d7d445a92262c173653527c8f6aa22",
+    "simhash": "1:ff06565ce2b195fb",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Kevin POLLINS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Kevin POLLINS, petitioner.\nNo. 17-5533.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0330-06",
+  "first_page_order": 330,
+  "last_page_order": 330
+}

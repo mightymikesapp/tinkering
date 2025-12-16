@@ -1,0 +1,64 @@
+{
+  "id": 12627765,
+  "name": "Jose Roberto PADILLA, Petitioner, v. William P. BARR, Attorney General.",
+  "name_abbreviation": "Padilla v. Barr",
+  "decision_date": "2020-05-04",
+  "docket_number": "No. 19-8092.",
+  "first_page": "2752",
+  "last_page": "2752",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2752"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 925"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 237,
+    "sha256": "0746962e82d6001f986bc8d69aee9f68aff21f24346a622272803fc07e13b69a",
+    "simhash": "1:13adb2443f0005fb",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Roberto PADILLA, Petitioner,\nv.\nWilliam P. BARR, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Roberto PADILLA, Petitioner,\nv.\nWilliam P. BARR, Attorney General.\nNo. 19-8092.\nSupreme Court of the United States.\nMay 4, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2752-03",
+  "first_page_order": 2752,
+  "last_page_order": 2752
+}

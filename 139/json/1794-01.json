@@ -1,0 +1,170 @@
+{
+  "id": 12620114,
+  "name": "Christopher Lee PRICE v. Jefferson S. DUNN, Commissioner, Alabama Department of Corrections, et al.",
+  "name_abbreviation": "Price v. Dunn",
+  "decision_date": "2019-05-30",
+  "docket_number": "No. 18A1238",
+  "first_page": "1794",
+  "last_page": "1795",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1794"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2726",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591161
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "2755",
+          "parenthetical": "BREYER, J., dissenting"
+        },
+        {
+          "parenthetical": "BREYER, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/135/2726-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 1112",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12617370
+      ],
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "1148",
+          "parenthetical": "SOTOMAYOR, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/1112-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 1542",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12619283,
+        12619284,
+        12619285,
+        12619286,
+        12619287
+      ],
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/1542-01",
+        "/s-ct/139/1542-02",
+        "/s-ct/139/1542-03",
+        "/s-ct/139/1542-04",
+        "/s-ct/139/1542-05"
+      ]
+    },
+    {
+      "cite": "920 F.3d 1317",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12520657
+      ],
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "1326-1329"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/920/1317-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 1312",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12618394
+      ],
+      "weight": 4,
+      "year": 2019,
+      "pin_cites": [
+        {
+          "parenthetical": "BREYER, J., dissenting from grant of application to vacate stay"
+        },
+        {
+          "parenthetical": "noting the District Court's finding that Price has been \" 'proceeding as quickly as possible on this issue since before the execution date was set' \" (emphasis omitted)"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/1312-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 362,
+    "char_count": 4945,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26362096786337735
+    },
+    "sha256": "bd6ea3569e9f7ba1b2e1b4c648141268faa139d8b42fab323ea58b984254681e",
+    "simhash": "1:7e4198a6bee19277",
+    "word_count": 800
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher Lee PRICE\nv.\nJefferson S. DUNN, Commissioner, Alabama Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The application for stay of execution of sentence of death presented to Justice THOMAS and by him referred to the Court is denied. The applications for leave to file the application for stay and the response under seal with redacted copies for the public record are granted.",
+      "Justice BREYER, with whom Justice GINSBURG joins, and with whom Justice SOTOMAYOR and Justice KAGAN join as to all but Part II, dissenting from denial of application for stay.",
+      "As I explained the last time this case was before us, the Court of Appeals for the Eleventh Circuit has held that nitrogen hypoxia is an available, feasible, and readily implemented alternative in Alabama. See Dunn v. Price , 587 U.S. ----, ----, 139 S.Ct. 1312, ----, --- L.Ed.2d ---- (2019) (BREYER, J., dissenting from grant of application to vacate stay) (slip op., at 2); see also Price v. Comm'r, Dept. of Corrections , 920 F.3d 1317, 1326-1329 (C.A.11 2019), cert denied, 587 U.S. ----, 139 S.Ct. 1542, --- L.Ed.2d ---- (2019). That holding is the law of the case. And although the State previously disputed whether nitrogen hypoxia would be less painful than lethal injection, it appears that the State no longer does so. The parties have conducted discovery in the weeks since our last decision, and the State's expert does not dispute that death by nitrogen hypoxia is virtually painless."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher Lee PRICE\nv.\nJefferson S. DUNN, Commissioner, Alabama Department of Corrections, et al.\nNo. 18A1238\nSupreme Court of the United States.\nDecided May 30, 2019\nThe application for stay of execution of sentence of death presented to Justice THOMAS and by him referred to the Court is denied. The applications for leave to file the application for stay and the response under seal with redacted copies for the public record are granted.\nJustice BREYER, with whom Justice GINSBURG joins, and with whom Justice SOTOMAYOR and Justice KAGAN join as to all but Part II, dissenting from denial of application for stay.\nChristopher Lee Price seeks to be executed by nitrogen hypoxia rather than Alabama's current lethal injection protocol. He claims that executing him by lethal injection will violate his Eighth Amendment right not to be subjected to cruel and unusual punishment. A trial on this claim is scheduled to begin on June 10-only 11 days from today. He has asked this Court to temporarily stay his execution to allow the trial to proceed. I would grant his application.\nI\nAs I explained the last time this case was before us, the Court of Appeals for the Eleventh Circuit has held that nitrogen hypoxia is an available, feasible, and readily implemented alternative in Alabama. See Dunn v. Price , 587 U.S. ----, ----, 139 S.Ct. 1312, ----, --- L.Ed.2d ---- (2019) (BREYER, J., dissenting from grant of application to vacate stay) (slip op., at 2); see also Price v. Comm'r, Dept. of Corrections , 920 F.3d 1317, 1326-1329 (C.A.11 2019), cert denied, 587 U.S. ----, 139 S.Ct. 1542, --- L.Ed.2d ---- (2019). That holding is the law of the case. And although the State previously disputed whether nitrogen hypoxia would be less painful than lethal injection, it appears that the State no longer does so. The parties have conducted discovery in the weeks since our last decision, and the State's expert does not dispute that death by nitrogen hypoxia is virtually painless.\nFrom my perspective, then, there are two remaining questions. The first is whether Price will experience severe pain if executed by lethal injection. Price has presented considerable expert testimony supporting his claim that midazolam, the initial drug in the protocol, is too weak a sedative to prevent him from feeling the excruciating pain that the remaining two drugs will cause him. See, e.g., Record in No. 19-12026 (CA11), 3 Tab K, pp. 47-60 (testimony of Dr. Zivot). The District Court has agreed to hold a trial to resolve this factual issue, and nothing in this Court's prior order vacating the stays speaks to this question.\nThe second question is whether, even if Alabama's lethal injection protocol will cause Price severe pain and even if a painless alternative method is available, we should nonetheless decline to stay his execution because he failed to select nitrogen hypoxia in time. I recognize that the Court relied on this reasoning in vacating the prior stays of execution. See Dunn v. Price , 587 U.S. ----, 139 S.Ct. 1312, --- L.Ed.2d ----. As I previously stated, however, there is reason to believe that Price had no more than 72 hours to decide whether to die by nitrogen hypoxia. See id. , at ----, 139 S.Ct., at ---- (opinion of BREYER, J.) (slip op., at 5). If that is so, I cannot agree that his failure to make the selection within the 30-day statutory window amounted to unreasonable delay.\nNor do I believe there is any other basis for concluding that Price engaged in undue delay. Ibid. (noting the District Court's finding that Price has been \" 'proceeding as quickly as possible on this issue since before the execution date was set' \" (emphasis omitted)). I therefore continue to believe that the Court's prior decision in this case was misguided. For the same reasons I expressed before, I would grant Price's request for a stay and allow the trial on his Eighth Amendment claim to proceed as planned.\nII\nBy allowing Price's execution to proceed, the Court leaves an important and potentially meritorious Eighth Amendment claim unresolved, even though a trial to resolve it is just days away. I understand, of course, that the State has a significant interest in carrying out lawfully imposed punishments. But \"ensuring that executions run on time\" is not the only legal value at stake, Bucklew v. Precythe , 587 U.S. ----, ----, 139 S.Ct. 1112, 1148, --- L.Ed.2d ---- (2019) (SOTOMAYOR, J., dissenting), and the Court, I believe, has disregarded important procedural values in this case. This case demonstrates once again the unfortunate manner in which death sentences are often-perhaps inevitably-carried out in this country. We have here an illustration of why I believe, as I have previously argued, that the Court should reconsider the constitutionality of the death penalty in an appropriate case. See Glossip v. Gross , 576 U.S. ----, ----, 135 S.Ct. 2726, 2755, 192 L.Ed.2d 761 (2015) (BREYER, J., dissenting)."
+  },
+  "file_name": "1794-01",
+  "first_page_order": 1794,
+  "last_page_order": 1795
+}

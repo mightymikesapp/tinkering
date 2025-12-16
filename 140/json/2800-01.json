@@ -1,0 +1,62 @@
+{
+  "id": 12628031,
+  "name": "Mark WILLIAMS, Warden, et al., Applicants, v. Craig WILSON, et al.",
+  "name_abbreviation": "Williams v. Wilson",
+  "decision_date": "2020-05-26",
+  "docket_number": "No. 19A1041.",
+  "first_page": "2800",
+  "last_page": "2801",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2800"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 80,
+    "char_count": 859,
+    "sha256": "4e59c1713555b21d4f7abad29665f86d5f8c65088cac2a0775c96359caf8f3a5",
+    "simhash": "1:b5614403e2b157ea",
+    "word_count": 139
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark WILLIAMS, Warden, et al., Applicants,\nv.\nCraig WILSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Mark WILLIAMS, Warden, et al., Applicants,\nv.\nCraig WILSON, et al.\nNo. 19A1041.\nSupreme Court of the United States.\nMay 26, 2020\nThe application for stay presented to Justice Sotomayor and by her referred to the Court denied. The Government is seeking a stay only of the District Court's April 22 preliminary injunction. But on May 19, the District Court issued a new order enforcing the preliminary injunction and imposing additional measures. The Government has not sought review of or a stay of the May 19 order in the U.S. Court of Appeals for the Sixth Circuit. Particularly in light of that procedural posture, the Court declines to stay the District Court's April 22 preliminary injunction without prejudice to the Government seeking a new stay if circumstances warrant. Justice Thomas, Justice Alito, and Justice Gorsuch would grant the application."
+  },
+  "file_name": "2800-01",
+  "first_page_order": 2800,
+  "last_page_order": 2801
+}

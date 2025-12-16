@@ -1,0 +1,64 @@
+{
+  "id": 12614552,
+  "name": "Keith SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135818.",
+  "first_page": "342",
+  "last_page": "342",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 342"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "aafaa4ea80faedc9066c0b7d8152039bb36b5c295d96954215ae3fdfef6e56f2",
+    "simhash": "1:d5ac7644b7a656b1",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Keith SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Keith SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 17-5818.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0342-02",
+  "first_page_order": 342,
+  "last_page_order": 342
+}

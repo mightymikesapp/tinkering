@@ -1,0 +1,64 @@
+{
+  "id": 12629303,
+  "name": "IN RE Richard Arjun KAUL, Petitioner",
+  "name_abbreviation": "In re Kaul",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-5873",
+  "first_page": "514",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 514"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 331"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "d45163fae9f604fe787ea30da74ee5763f5fc68ae9a80bc046c93f8917ba5f00",
+    "simhash": "1:4a0700049355937b",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Richard Arjun KAUL, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Richard Arjun KAUL, Petitioner\nNo. 19-5873\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0514-05",
+  "first_page_order": 514,
+  "last_page_order": 514
+}

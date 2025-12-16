@@ -1,0 +1,64 @@
+{
+  "id": 12622128,
+  "name": "Oscar RODRIGUEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rodriguez v. United States",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18M9.",
+  "first_page": "299",
+  "last_page": "299",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 299"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 10"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 217,
+    "sha256": "57007f267d326f63fbeef3037c11f8f6d823dcbf1ee81be0c28cd079cd7b828d",
+    "simhash": "1:e1af140538cbdd1d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oscar RODRIGUEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari with the supplemental appendix under seal granted."
+    ],
+    "corrections": "",
+    "head_matter": "Oscar RODRIGUEZ, petitioner,\nv.\nUNITED STATES.\nNo. 18M9.\nSupreme Court of the United States\nOct. 1, 2018.\nMotion for leave to file a petition for writ of certiorari with the supplemental appendix under seal granted."
+  },
+  "file_name": "0299-04",
+  "first_page_order": 299,
+  "last_page_order": 299
+}

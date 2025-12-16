@@ -1,0 +1,83 @@
+{
+  "id": 12621761,
+  "name": "Gregory Dean BANISTER, petitioner, v. Lorie DAVIS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.",
+  "name_abbreviation": "Banister v. Davis",
+  "decision_date": "2019-06-24",
+  "docket_number": "No. 18\u20136943.",
+  "first_page": "2742",
+  "last_page": "2742",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2742"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1130"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "545 U.S. 524",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8209485
+      ],
+      "weight": 3,
+      "year": 2005,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/545/0524-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 619,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636256013381475
+    },
+    "sha256": "76c9b6c9859fb2cd258535980ba82483459ed9a3f8c46427606be020b7b20623",
+    "simhash": "1:d4c5f284026b9edd",
+    "word_count": 96
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory Dean BANISTER, petitioner,\nv.\nLorie DAVIS, Director, Texas Department of Criminal Justice, Correctional Institutions Division."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis granted, and petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit granted limited to the following question: Whether and under what circumstances a timely Rule 59(e) motion should be recharacterized as a second or successive habeas petition under Gonzalez v. Crosby, 545 U.S. 524, 125 S.Ct. 2641, 162 L.Ed.2d 480 (2005)."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory Dean BANISTER, petitioner,\nv.\nLorie DAVIS, Director, Texas Department of Criminal Justice, Correctional Institutions Division.\nNo. 18-6943.\nSupreme Court of the United States\nJune 24, 2019.\nMotion of petitioner for leave to proceed in forma pauperis granted, and petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit granted limited to the following question: Whether and under what circumstances a timely Rule 59(e) motion should be recharacterized as a second or successive habeas petition under Gonzalez v. Crosby, 545 U.S. 524, 125 S.Ct. 2641, 162 L.Ed.2d 480 (2005)."
+  },
+  "file_name": "2742-01",
+  "first_page_order": 2742,
+  "last_page_order": 2742
+}

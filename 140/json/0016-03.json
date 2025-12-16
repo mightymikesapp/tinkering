@@ -1,0 +1,64 @@
+{
+  "id": 12626071,
+  "name": "In Re UNITED STATES, et al.",
+  "name_abbreviation": "In re United States",
+  "decision_date": "2019-07-29",
+  "docket_number": "No. 18\u2013505 (R46\u2013022).",
+  "first_page": "16",
+  "last_page": "16",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 16"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1171"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 205,
+    "sha256": "4f1678a2270a541a042d4e5a19c55c9e1bd989595781f46b375fc624fa53ab76",
+    "simhash": "1:5ba734d45e52101b",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re UNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of mandamus was dismissed today pursuant to Rule 46.2 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "In Re UNITED STATES, et al.\nNo. 18-505 (R46-022).\nSupreme Court of the United States\nJuly 29, 2019.\nThe petition for writ of mandamus was dismissed today pursuant to Rule 46.2 of the Rules of this Court."
+  },
+  "file_name": "0016-03",
+  "first_page_order": 16,
+  "last_page_order": 16
+}

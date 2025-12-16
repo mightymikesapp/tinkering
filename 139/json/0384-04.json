@@ -1,0 +1,64 @@
+{
+  "id": 12622573,
+  "name": "Thomas BLACKLEDGE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Blackledge v. United States",
+  "decision_date": "2018-10-15",
+  "docket_number": "No. 18\u20135668.",
+  "first_page": "384",
+  "last_page": "384",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 384"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 294"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 214,
+    "sha256": "c8bd3489e3310d2f52ffead7ebdaf9ce94966df3556a155dd28acf515c464506",
+    "simhash": "1:57ace6443a86d49d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas BLACKLEDGE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas BLACKLEDGE, petitioner,\nv.\nUNITED STATES.\nNo. 18-5668.\nSupreme Court of the United States\nOct. 15, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0384-04",
+  "first_page_order": 384,
+  "last_page_order": 384
+}

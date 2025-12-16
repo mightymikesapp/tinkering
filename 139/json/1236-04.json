@@ -1,0 +1,64 @@
+{
+  "id": 12617881,
+  "name": "Eric GOLDEN, petitioner, v. Randy PFISTER, Warden.",
+  "name_abbreviation": "Golden v. Pfister",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18M96.",
+  "first_page": "1236",
+  "last_page": "1236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1236"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 202,
+    "sha256": "8228741c2f6be57c996242a97dc15c6f95e03fd60a00b2c56c3b22f2fd62af86",
+    "simhash": "1:79ef5206cbc97337",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric GOLDEN, petitioner,\nv.\nRandy PFISTER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric GOLDEN, petitioner,\nv.\nRandy PFISTER, Warden.\nNo. 18M96.\nSupreme Court of the United States\nFeb. 19, 2019.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "1236-04",
+  "first_page_order": 1236,
+  "last_page_order": 1236
+}

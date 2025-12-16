@@ -1,0 +1,64 @@
+{
+  "id": 12612118,
+  "name": "William A. WHITE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "White v. United States",
+  "decision_date": "2018-04-30",
+  "docket_number": "No. 17\u20138238.",
+  "first_page": "1707",
+  "last_page": "1707",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1707"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 961"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "38c571b09844764f7be51e001353009151598fb0e342e03c04a637cb76b85838",
+    "simhash": "1:426fe6041a8ac017",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William A. WHITE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William A. WHITE, petitioner,\nv.\nUNITED STATES.\nNo. 17-8238.\nSupreme Court of the United States\nApril 30, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1707-06",
+  "first_page_order": 1707,
+  "last_page_order": 1707
+}

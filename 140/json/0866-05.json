@@ -1,0 +1,64 @@
+{
+  "id": 12630438,
+  "name": "IN RE Brad K. EDMONDS, Petitioner.",
+  "name_abbreviation": "In re Edmonds",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6887",
+  "first_page": "866",
+  "last_page": "866",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 866"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 506"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "a364849afe6554319313b5894026052b321b5f5a46bd191645cc6694bc2e238a",
+    "simhash": "1:c07b5640db79591c",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Brad K. EDMONDS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Brad K. EDMONDS, Petitioner.\nNo. 19-6887\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0866-05",
+  "first_page_order": 866,
+  "last_page_order": 866
+}

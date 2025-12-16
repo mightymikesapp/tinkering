@@ -1,0 +1,64 @@
+{
+  "id": 12630056,
+  "name": "Melba L. FORD, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Ford v. United States",
+  "decision_date": "2019-12-16",
+  "docket_number": "No. 19-644",
+  "first_page": "677",
+  "last_page": "677",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 677"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 441"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 209,
+    "sha256": "e4b37eb65b77bbb7c855d53815f51513d481be6c699612205d532a8ebaacce99",
+    "simhash": "1:f3ad764403855625",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Melba L. FORD, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Melba L. FORD, Petitioner\nv.\nUNITED STATES\nNo. 19-644\nSupreme Court of the United States.\nDecember 16, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0677-04",
+  "first_page_order": 677,
+  "last_page_order": 677
+}

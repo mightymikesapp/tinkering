@@ -1,0 +1,64 @@
+{
+  "id": 12630612,
+  "name": "Sandra G. HALE, Petitioner v. UNITED STATES, et al.",
+  "name_abbreviation": "Hale v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-596",
+  "first_page": "902",
+  "last_page": "902",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 902"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 465"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 217,
+    "sha256": "6a55952404e07ff8938258d11b5a8479968217f0139193bb59383ea64e6a2663",
+    "simhash": "1:c2af56047b01529c",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sandra G. HALE, Petitioner\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sandra G. HALE, Petitioner\nv.\nUNITED STATES, et al.\nNo. 19-596\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0902-04",
+  "first_page_order": 902,
+  "last_page_order": 902
+}

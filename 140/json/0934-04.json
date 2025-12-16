@@ -1,0 +1,64 @@
+{
+  "id": 12630779,
+  "name": "Thomas S. BELL, Petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Bell v. Pennsylvania",
+  "decision_date": "2020-01-21",
+  "docket_number": "No. 19-622",
+  "first_page": "934",
+  "last_page": "934",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 934"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 522"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 204,
+    "sha256": "b8b1461c5130f379edaefea30faa34c592aae572e75a098f94d0f1f4495dd00e",
+    "simhash": "1:fdef541c3a850799",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas S. BELL, Petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas S. BELL, Petitioner,\nv.\nPENNSYLVANIA.\nNo. 19-622\nSupreme Court of the United States.\nJanuary 21, 2020\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District denied."
+  },
+  "file_name": "0934-04",
+  "first_page_order": 934,
+  "last_page_order": 934
+}

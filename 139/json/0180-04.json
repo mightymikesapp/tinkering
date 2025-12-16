@@ -1,0 +1,64 @@
+{
+  "id": 12620120,
+  "name": "Jose RODRIGUEZ, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Rodriguez v. Massachusetts",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20139487.",
+  "first_page": "180",
+  "last_page": "180",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 180"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 187,
+    "sha256": "652007102dcb1f80313200a7ff20655b0e22f6cdf6f27c45916a7a6b78cb4ac5",
+    "simhash": "1:e9ef725cdd9d4495",
+    "word_count": 28
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose RODRIGUEZ, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appeals Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose RODRIGUEZ, petitioner,\nv.\nMASSACHUSETTS.\nNo. 17-9487.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Appeals Court of Massachusetts denied."
+  },
+  "file_name": "0180-04",
+  "first_page_order": 180,
+  "last_page_order": 180
+}

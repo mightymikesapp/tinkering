@@ -1,0 +1,64 @@
+{
+  "id": 12620687,
+  "name": "In Re Terrence Matthew BROWN, petitioner.",
+  "name_abbreviation": "In re Brown",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135175.",
+  "first_page": "229",
+  "last_page": "229",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 229"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 238,
+    "sha256": "601e6c43d72d8377a286d3b48c92e0387b54761a30a6a302027c70d8b63274ac",
+    "simhash": "1:6ae77c7d8cdb8759",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Terrence Matthew BROWN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Terrence Matthew BROWN, petitioner.\nNo. 18-5175.\nSupreme Court of the United States\nOct. 1, 2018.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8."
+  },
+  "file_name": "0229-01",
+  "first_page_order": 229,
+  "last_page_order": 229
+}

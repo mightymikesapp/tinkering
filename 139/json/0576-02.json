@@ -1,0 +1,64 @@
+{
+  "id": 12623370,
+  "name": "George JENKINS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jenkins v. United States",
+  "decision_date": "2018-11-19",
+  "docket_number": "No. 18\u20136335.",
+  "first_page": "576",
+  "last_page": "576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 576"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 410"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "654804a6d198d53fcc5e9f2c3ebfbafea87c6303a8434e72edd574f9f4a19c54",
+    "simhash": "1:38adf6c4330d96f5",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George JENKINS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George JENKINS, petitioner,\nv.\nUNITED STATES.\nNo. 18-6335.\nSupreme Court of the United States\nNov. 19, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0576-02",
+  "first_page_order": 576,
+  "last_page_order": 576
+}

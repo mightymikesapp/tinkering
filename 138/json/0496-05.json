@@ -1,0 +1,62 @@
+{
+  "id": 12615525,
+  "name": "In the Matter of James A. ROBBINS.",
+  "name_abbreviation": "In re Robbins",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. D\u20132973.",
+  "first_page": "496",
+  "last_page": "496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 496"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 379"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 318,
+    "sha256": "53ef0fd24061196998211bb2bbdb9511344e3f3448ba55ac12958c79cc788ca2",
+    "simhash": "1:1a883b063ff344a4",
+    "word_count": 59
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of James A. ROBBINS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of James A. ROBBINS.\nNo. D-2973.\nSupreme Court of the United States\nNov. 27, 2017.\nDue to mistake identity, the order suspending James A. Robbins, of New York, New York, from the practice of law in this Court, dated May 15, 2017, is vacated and the Rule to Show Cause issued on that date is discharged."
+  },
+  "file_name": "0496-05",
+  "first_page_order": 496,
+  "last_page_order": 496
+}

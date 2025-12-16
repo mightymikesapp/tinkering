@@ -1,0 +1,64 @@
+{
+  "id": 12624467,
+  "name": "In Re Michael D. JOHNSON, petitioner.",
+  "name_abbreviation": "In re Johnson",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136961.",
+  "first_page": "856",
+  "last_page": "856",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 856"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 632"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "1c483750c301a97fc08ce4791f214890355037ee2275ef735cb105c43d66ee09",
+    "simhash": "1:6bef22645ad8c349",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Michael D. JOHNSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Michael D. JOHNSON, petitioner.\nNo. 18-6961.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0856-02",
+  "first_page_order": 856,
+  "last_page_order": 856
+}

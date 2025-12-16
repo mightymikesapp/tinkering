@@ -1,0 +1,64 @@
+{
+  "id": 12613614,
+  "name": "In Re Edwin F. REILLY, II, petitioner.",
+  "name_abbreviation": "In re Reilly",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u2013181.",
+  "first_page": "264",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 264"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 139,
+    "sha256": "51c6d715d6cde0e095f812cac1814299e28954383ec293b1a4d54fd663928c87",
+    "simhash": "1:d207f254fe8d557b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Edwin F. REILLY, II, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Edwin F. REILLY, II, petitioner.\nNo. 17-181.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0264-04",
+  "first_page_order": 264,
+  "last_page_order": 264
+}

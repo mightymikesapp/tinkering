@@ -1,0 +1,82 @@
+{
+  "id": 12621988,
+  "name": "Wilbur L. ROSS, Secretary of Commerce, et al., petitioners, v. CALIFORNIA, et al.",
+  "name_abbreviation": "Ross v. California",
+  "decision_date": "2019-06-28",
+  "docket_number": "No. 18\u20131214.",
+  "first_page": "2778",
+  "last_page": "2778",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2778"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2551",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620860
+      ],
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2551-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 62,
+    "char_count": 580,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636283041984301
+    },
+    "sha256": "0242ea0775cadde38d0bbeced9c69c53e2eecfbfa04291c8707c61aa4e5b02bb",
+    "simhash": "1:93ac40840fc01ea8",
+    "word_count": 94
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wilbur L. ROSS, Secretary of Commerce, et al., petitioners,\nv.\nCALIFORNIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Fair Lines America Foundation for leave to file a brief as amicus curiae granted. Petition for writ of certiorari before judgment to the United States Court of Appeals for the Ninth Circuit granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of Department of Commerce v. New York, 588 U.S. ----, 139 S.Ct. 2551, --- L.E.2d ---- (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Wilbur L. ROSS, Secretary of Commerce, et al., petitioners,\nv.\nCALIFORNIA, et al.\nNo. 18-1214.\nSupreme Court of the United States\nJune 28, 2019.\nMotion of Fair Lines America Foundation for leave to file a brief as amicus curiae granted. Petition for writ of certiorari before judgment to the United States Court of Appeals for the Ninth Circuit granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of Department of Commerce v. New York, 588 U.S. ----, 139 S.Ct. 2551, --- L.E.2d ---- (2019)."
+  },
+  "file_name": "2778-01",
+  "first_page_order": 2778,
+  "last_page_order": 2778
+}

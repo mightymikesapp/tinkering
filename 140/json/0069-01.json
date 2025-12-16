@@ -1,0 +1,64 @@
+{
+  "id": 12630083,
+  "name": "John Patrick FLETCHER, Petitioner v. INMATE BANK, et al.",
+  "name_abbreviation": "Fletcher v. Inmate Bank",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9145",
+  "first_page": "69",
+  "last_page": "69",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 69"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 60"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 222,
+    "sha256": "24f6849145ea65a27956c67672aece7ced61a485670eeef7a1d1b8df55bcf8c0",
+    "simhash": "1:42af74d622809107",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Patrick FLETCHER, Petitioner\nv.\nINMATE BANK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Patrick FLETCHER, Petitioner\nv.\nINMATE BANK, et al.\nNo. 18-9145\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0069-01",
+  "first_page_order": 69,
+  "last_page_order": 69
+}

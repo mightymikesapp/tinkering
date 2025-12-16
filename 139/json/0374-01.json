@@ -1,0 +1,88 @@
+{
+  "id": 12622507,
+  "name": "Carlos WILSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Wilson v. United States",
+  "decision_date": "2018-10-15",
+  "docket_number": "No. 17\u20138746.",
+  "first_page": "374",
+  "last_page": "374",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 374"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 14",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12618957
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": " Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0014-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 446,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26363023481291764
+    },
+    "sha256": "530ba9b3051ac9879b9fe59915a709def5eb28c915b64305f312abf267878941",
+    "simhash": "1:78ec925409250659",
+    "word_count": 69
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos WILSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.",
+      "Justice SOTOMAYOR, dissenting form the denial of certiorari: I dissent from the denial of certiorari for the reasons set out in Brown v. United States, 586 U.S. ----, 139 S.Ct. 14, --- L.E.2d ---- (2018) ( Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos WILSON, petitioner,\nv.\nUNITED STATES.\nNo. 17-8746.\nSupreme Court of the United States\nOct. 15, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.\nJustice SOTOMAYOR, dissenting form the denial of certiorari: I dissent from the denial of certiorari for the reasons set out in Brown v. United States, 586 U.S. ----, 139 S.Ct. 14, --- L.E.2d ---- (2018) ( Sotomayor, J., dissenting)."
+  },
+  "file_name": "0374-01",
+  "first_page_order": 374,
+  "last_page_order": 374
+}

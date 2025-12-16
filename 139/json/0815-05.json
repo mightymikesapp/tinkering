@@ -1,0 +1,64 @@
+{
+  "id": 12624192,
+  "name": "Charles NASH, petitioner, v. Shawn PHILLIPS, Warden.",
+  "name_abbreviation": "Nash v. Phillips",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136454.",
+  "first_page": "815",
+  "last_page": "815",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 815"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 596"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 216,
+    "sha256": "cb8f53a410751bfea721c0f08e28e84d523360a6c2e30f9175211a67df44940c",
+    "simhash": "1:b2bff0442280c724",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles NASH, petitioner,\nv.\nShawn PHILLIPS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles NASH, petitioner,\nv.\nShawn PHILLIPS, Warden.\nNo. 18-6454.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0815-05",
+  "first_page_order": 815,
+  "last_page_order": 815
+}

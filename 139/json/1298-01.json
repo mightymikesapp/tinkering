@@ -1,0 +1,64 @@
+{
+  "id": 12618297,
+  "name": "John A. ANDERSON, petitioner, v. John F. WALRATH, Warden.",
+  "name_abbreviation": "Anderson v. Walrath",
+  "decision_date": "2019-03-04",
+  "docket_number": "No. 18\u2013977.",
+  "first_page": "1298",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1298"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 416"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 222,
+    "sha256": "05f4a03e697f31482eda1474d857cf933d88fa6f4d2737ebf3003fb518047dff",
+    "simhash": "1:53bf74443b003521",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John A. ANDERSON, petitioner,\nv.\nJohn F. WALRATH, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John A. ANDERSON, petitioner,\nv.\nJohn F. WALRATH, Warden.\nNo. 18-977.\nSupreme Court of the United States\nMarch 4, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1298-01",
+  "first_page_order": 1298,
+  "last_page_order": 1298
+}

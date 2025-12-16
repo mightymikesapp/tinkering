@@ -1,0 +1,64 @@
+{
+  "id": 12630196,
+  "name": "Ledell TYLER, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Tyler v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6850",
+  "first_page": "819",
+  "last_page": "819",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 819"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 500"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "2addf95178a72d04ad6d2b35947dfcd95c5081099d3ee3862685dfc468ff1407",
+    "simhash": "1:dfaf74469b8c773c",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ledell TYLER, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ledell TYLER, Petitioner\nv.\nUNITED STATES\nNo. 19-6850\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0819-04",
+  "first_page_order": 819,
+  "last_page_order": 819
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12614438,
+  "name": "In Re Otis BRASCOM, petitioner.",
+  "name_abbreviation": "In re Brascom",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135490.",
+  "first_page": "325",
+  "last_page": "325",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 325"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 235"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 243,
+    "sha256": "0d536d46d25464ba03bc17faf50d26160e6c8e4c1e3a073db4b38b5b11151dbf",
+    "simhash": "1:72c1440d44338618",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Otis BRASCOM, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of mandamus and/or prohibition dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Otis BRASCOM, petitioner.\nNo. 17-5490.\nSupreme Court of the United States\nOct. 10, 2017.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of mandamus and/or prohibition dismissed. See Rule 39.8."
+  },
+  "file_name": "0325-03",
+  "first_page_order": 325,
+  "last_page_order": 325
+}

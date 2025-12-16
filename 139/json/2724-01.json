@@ -1,0 +1,64 @@
+{
+  "id": 12621652,
+  "name": "Charles LORRAINE, petitioner, v. OHIO.",
+  "name_abbreviation": "Lorraine v. Ohio",
+  "decision_date": "2019-06-17",
+  "docket_number": "No. 18\u20138992.",
+  "first_page": "2724",
+  "last_page": "2724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2724"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1118"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 192,
+    "sha256": "90aa3aaeb1cac5a4058223940a4ef98efb2d8d6147e2617aa26e15cd82df8ca0",
+    "simhash": "1:60bf66c237c107b5",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles LORRAINE, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Trumbull County denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles LORRAINE, petitioner,\nv.\nOHIO.\nNo. 18-8992.\nSupreme Court of the United States\nJune 17, 2019.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Trumbull County denied."
+  },
+  "file_name": "2724-01",
+  "first_page_order": 2724,
+  "last_page_order": 2724
+}

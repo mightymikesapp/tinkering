@@ -1,0 +1,64 @@
+{
+  "id": 12625580,
+  "name": "IN RE R.C.",
+  "name_abbreviation": "In re R.C.",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-481",
+  "first_page": "1256",
+  "last_page": "1256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1256"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 171,
+    "sha256": "2db72d9f41afed79bcb90ed8f07a0a598f37f8f3e8eeb310f405b42acfcafc6c",
+    "simhash": "1:a19f54261d90ff17",
+    "word_count": 29
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE R.C."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "\"Rick\" Lussy, petitioner. Motion of petitioner for leave to file a petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE R.C.\nNo. 19-481\nSupreme Court of the United States.\nFeb. 24, 2020\n\"Rick\" Lussy, petitioner. Motion of petitioner for leave to file a petition for rehearing denied."
+  },
+  "file_name": "1256-02",
+  "first_page_order": 1256,
+  "last_page_order": 1256
+}

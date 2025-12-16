@@ -1,0 +1,64 @@
+{
+  "id": 12623702,
+  "name": "Ambrose KING, petitioner, v. Mary KING.",
+  "name_abbreviation": "King v. King",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 18\u20135119.",
+  "first_page": "624",
+  "last_page": "624",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 624"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 450"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 134,
+    "sha256": "cfb8675495ca6009d23d8ea3a33bddb756c17e71a77fc5440c75fa3869a650b1",
+    "simhash": "1:60c67c1214cc1022",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ambrose KING, petitioner,\nv.\nMary KING."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ambrose KING, petitioner,\nv.\nMary KING.\nNo. 18-5119.\nSupreme Court of the United States\nDec. 3, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "0624-02",
+  "first_page_order": 624,
+  "last_page_order": 624
+}

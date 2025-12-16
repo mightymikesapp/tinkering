@@ -1,0 +1,64 @@
+{
+  "id": 12617556,
+  "name": "John McQUEEN, petitioner, v. Lynn FISHER.",
+  "name_abbreviation": "McQueen v. Fisher",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20136999.",
+  "first_page": "1187",
+  "last_page": "1187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1187"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 220"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 206,
+    "sha256": "a169d5c2d64a2a7c8498c75315ab87b87aad8a686207dfbaead621e8ee97a452",
+    "simhash": "1:71ff74441b21d725",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John McQUEEN, petitioner,\nv.\nLynn FISHER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John McQUEEN, petitioner,\nv.\nLynn FISHER.\nNo. 18-6999.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1187-06",
+  "first_page_order": 1187,
+  "last_page_order": 1187
+}

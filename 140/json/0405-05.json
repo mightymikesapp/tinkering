@@ -1,0 +1,64 @@
+{
+  "id": 12628724,
+  "name": "Kevin CARSON, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Carson v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5884",
+  "first_page": "405",
+  "last_page": "405",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 405"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 239"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "5f3f627c5073c99c92655c162e72f6bd0b684297b00151c9def6ccb66928b147",
+    "simhash": "1:7aaf6644372811a0",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin CARSON, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin CARSON, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5884\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0405-05",
+  "first_page_order": 405,
+  "last_page_order": 405
+}

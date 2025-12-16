@@ -1,0 +1,64 @@
+{
+  "id": 12628460,
+  "name": "Daniel George BROWN, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9490",
+  "first_page": "325",
+  "last_page": "325",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 325"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 291,
+    "sha256": "675e55809aaa7b6e1e7c5ff611e0cd094585dead1d7a9e1e02e151038678ebb7",
+    "simhash": "1:f9ad76c6330cdf43",
+    "word_count": 48
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel George BROWN, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Alito took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Alito took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel George BROWN, Petitioner\nv.\nUNITED STATES\nNo. 18-9490\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0325-02",
+  "first_page_order": 325,
+  "last_page_order": 325
+}

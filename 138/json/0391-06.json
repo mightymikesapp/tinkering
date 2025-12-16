@@ -1,0 +1,64 @@
+{
+  "id": 12614843,
+  "name": "Michael SMITH, et al., petitioners, v. CITY OF LOS ANGELES, CALIFORNIA, et al.",
+  "name_abbreviation": "Smith v. City of L. A.",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u2013308.",
+  "first_page": "391",
+  "last_page": "391",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 391"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 242,
+    "sha256": "0d02934d0cf9f19cc15064bed097dd0808f986f3befe440de42f64afa91092ee",
+    "simhash": "1:b0afe6543cc117a1",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael SMITH, et al., petitioners,\nv.\nCITY OF LOS ANGELES, CALIFORNIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael SMITH, et al., petitioners,\nv.\nCITY OF LOS ANGELES, CALIFORNIA, et al.\nNo. 17-308.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0391-06",
+  "first_page_order": 391,
+  "last_page_order": 391
+}

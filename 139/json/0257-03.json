@@ -1,0 +1,64 @@
+{
+  "id": 12620869,
+  "name": "Gary CLACK, petitioner, v. KENTUCKY.",
+  "name_abbreviation": "Clack v. Kentucky",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135348.",
+  "first_page": "257",
+  "last_page": "257",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 257"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 172"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 176,
+    "sha256": "e1375acdd7c5320b1aa15b93864b14a848afef1e5b415dcc20da58a5525aeca3",
+    "simhash": "1:65bc429426870499",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary CLACK, petitioner,\nv.\nKENTUCKY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Kentucky denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gary CLACK, petitioner,\nv.\nKENTUCKY.\nNo. 18-5348.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Court of Appeals of Kentucky denied."
+  },
+  "file_name": "0257-03",
+  "first_page_order": 257,
+  "last_page_order": 257
+}

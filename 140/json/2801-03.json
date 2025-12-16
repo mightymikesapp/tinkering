@@ -1,0 +1,64 @@
+{
+  "id": 12628037,
+  "name": "Belinda SMITH, Petitioner, v. UNIVERSITY OF CHICAGO MEDICAL CENTER.",
+  "name_abbreviation": "Smith v. Univ. of Chi. Med. Ctr.",
+  "decision_date": "2020-05-26",
+  "docket_number": "No. 19M138.",
+  "first_page": "2801",
+  "last_page": "2801",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2801"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 219,
+    "sha256": "7d5393345f7470f43d8f1c3030be74b11e89bfb590acb16ba7b01f076e1f0d5b",
+    "simhash": "1:59c74046b39db9b1",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Belinda SMITH, Petitioner,\nv.\nUNIVERSITY OF CHICAGO MEDICAL CENTER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Belinda SMITH, Petitioner,\nv.\nUNIVERSITY OF CHICAGO MEDICAL CENTER.\nNo. 19M138.\nSupreme Court of the United States.\nMay 26, 2020\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "2801-03",
+  "first_page_order": 2801,
+  "last_page_order": 2801
+}

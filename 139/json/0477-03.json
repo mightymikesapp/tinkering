@@ -1,0 +1,91 @@
+{
+  "id": 12623106,
+  "name": "Jesse GUARDADO, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Guardado v. Florida",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 17\u20139284.",
+  "first_page": "477",
+  "last_page": "477",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 477"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 388"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 27",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12621483
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "Thomas, J., concurring"
+        },
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0027-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 568,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636344821647903
+    },
+    "sha256": "0ba39d69c8cc5b0f6fd53b0dbed44c996ace1ea862aeafac064fa8a826908117",
+    "simhash": "1:eec9d095ae29376c",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesse GUARDADO, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied. Justice THOMAS, concurring in the denial of certiorari: I concur for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, ---L.Ed.2d ---- (2018) (Thomas, J., concurring). Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, --- L.Ed.2d ---- (2018) (Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Jesse GUARDADO, petitioner,\nv.\nFLORIDA.\nNo. 17-9284.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for writ of certiorari to the Supreme Court of Florida denied. Justice THOMAS, concurring in the denial of certiorari: I concur for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, ---L.Ed.2d ---- (2018) (Thomas, J., concurring). Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, --- L.Ed.2d ---- (2018) (Sotomayor, J., dissenting)."
+  },
+  "file_name": "0477-03",
+  "first_page_order": 477,
+  "last_page_order": 477
+}

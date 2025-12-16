@@ -1,0 +1,64 @@
+{
+  "id": 12615318,
+  "name": "Michael McCLOUD, petitioner, v. A.M. FUNAIOCK, et al.",
+  "name_abbreviation": "McCloud v. Funaiock",
+  "decision_date": "2017-11-13",
+  "docket_number": "No. 16\u20139484.",
+  "first_page": "465",
+  "last_page": "465",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 465"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 349"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 228,
+    "sha256": "abac37b5bbdf1fc6a897fb9e3d0a9dcc87551503cb95a81a99ec0e32b5c93896",
+    "simhash": "1:1c335486de0e52ca",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael McCLOUD, petitioner,\nv.\nA.M. FUNAIOCK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice GORSUCH took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice GORSUCH took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael McCLOUD, petitioner,\nv.\nA.M. FUNAIOCK, et al.\nNo. 16-9484.\nSupreme Court of the United States\nNov. 13, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "0465-06",
+  "first_page_order": 465,
+  "last_page_order": 465
+}

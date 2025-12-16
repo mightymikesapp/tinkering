@@ -1,0 +1,64 @@
+{
+  "id": 12623982,
+  "name": "RIMINI STREET, INC., et al., petitioners, v. ORACLE USA, INC., et al.",
+  "name_abbreviation": "Rimini St., Inc. v. Oracle USA, Inc.",
+  "decision_date": "2019-01-04",
+  "docket_number": "No. 17\u20131625.",
+  "first_page": "783",
+  "last_page": "783",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 783"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 510"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 258,
+    "sha256": "fba5f82e3e8fca06ccb649fed2eec3ca503ea448e1c26ee8ad9c016f496e3dcb",
+    "simhash": "1:a2e092c2a3c2ee5c",
+    "word_count": 43
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RIMINI STREET, INC., et al., petitioners,\nv.\nORACLE USA, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of the Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument granted."
+    ],
+    "corrections": "",
+    "head_matter": "RIMINI STREET, INC., et al., petitioners,\nv.\nORACLE USA, INC., et al.\nNo. 17-1625.\nSupreme Court of the United States\nJan. 4, 2019.\nMotion of the Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument granted."
+  },
+  "file_name": "0783-05",
+  "first_page_order": 783,
+  "last_page_order": 783
+}

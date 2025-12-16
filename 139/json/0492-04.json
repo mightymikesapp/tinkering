@@ -1,0 +1,64 @@
+{
+  "id": 12623209,
+  "name": "Cornelius LYNCH, petitioner, v. OHIO.",
+  "name_abbreviation": "Lynch v. Ohio",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18\u20136270.",
+  "first_page": "492",
+  "last_page": "492",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 492"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 191,
+    "sha256": "f5f886d08bd23375fab90514927017b131680a60be6a4a0c7e433d05e6f815e0",
+    "simhash": "1:44ef50860acc06b8",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cornelius LYNCH, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cornelius LYNCH, petitioner,\nv.\nOHIO.\nNo. 18-6270.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+  },
+  "file_name": "0492-04",
+  "first_page_order": 492,
+  "last_page_order": 492
+}

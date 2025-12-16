@@ -1,0 +1,64 @@
+{
+  "id": 12617799,
+  "name": "Michael Martin STEELE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Steele v. United States",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20137306.",
+  "first_page": "1224",
+  "last_page": "1224",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1224"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "df93382dd18b6ed0341de4983c916d7f7f9c2e7593287ac3659faf9df64cf7a9",
+    "simhash": "1:61af744033a4d12c",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Martin STEELE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Martin STEELE, petitioner,\nv.\nUNITED STATES.\nNo. 18-7306.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1224-01",
+  "first_page_order": 1224,
+  "last_page_order": 1224
+}

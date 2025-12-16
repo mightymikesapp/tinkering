@@ -1,0 +1,64 @@
+{
+  "id": 12622911,
+  "name": "In Re SEALED PETITIONER, petitioner.",
+  "name_abbreviation": "In re Sealed Petitioner",
+  "decision_date": "2018-10-29",
+  "docket_number": "No. 18M57.",
+  "first_page": "444",
+  "last_page": "444",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 444"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 311"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 218,
+    "sha256": "a82bb7ea33ad292d7aea7803f8d8d18bba83d3e526149cb15cb4a90a36b8a679",
+    "simhash": "1:7ac754767fc1255f",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re SEALED PETITIONER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of mandamus under seal with redacted copies for the public record denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re SEALED PETITIONER, petitioner.\nNo. 18M57.\nSupreme Court of the United States\nOct. 29, 2018.\nMotion for leave to file a petition for writ of mandamus under seal with redacted copies for the public record denied."
+  },
+  "file_name": "0444-02",
+  "first_page_order": 444,
+  "last_page_order": 444
+}

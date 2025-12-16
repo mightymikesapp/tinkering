@@ -1,0 +1,64 @@
+{
+  "id": 12614589,
+  "name": "Leroy CHARLES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Charles v. United States",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135956.",
+  "first_page": "348",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 348"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 232"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "821b8af0494d295a75b36f6865d9d96f51ea328362efb7628a83e2e525fba5c4",
+    "simhash": "1:f3ae66458706873f",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leroy CHARLES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leroy CHARLES, petitioner,\nv.\nUNITED STATES.\nNo. 17-5956.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0348-03",
+  "first_page_order": 348,
+  "last_page_order": 348
+}

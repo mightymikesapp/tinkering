@@ -1,0 +1,64 @@
+{
+  "id": 12622110,
+  "name": "In Re Clifford WINKLES, petitioner.",
+  "name_abbreviation": "In re Winkles",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135785.",
+  "first_page": "296",
+  "last_page": "296",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 296"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 156,
+    "sha256": "73df5fabc293d735d45d9528d44c897fa172d9b9c1dff6dde8f30666620596d3",
+    "simhash": "1:68e1620448890c1e",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Clifford WINKLES, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Clifford WINKLES, petitioner.\nNo. 18-5785.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0296-05",
+  "first_page_order": 296,
+  "last_page_order": 296
+}

@@ -1,0 +1,82 @@
+{
+  "id": 12621974,
+  "name": "Ishmael DOUGLAS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Douglas v. United States",
+  "decision_date": "2019-06-28",
+  "docket_number": "No. 18\u20137331.",
+  "first_page": "2775",
+  "last_page": "2775",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2775"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2319",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620706
+      ],
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2319-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 525,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636277250140838
+    },
+    "sha256": "c9cc3a4cd695b4032bf7c558916605fd96f27afcf3d5ab77b52f15d7f76d71bd",
+    "simhash": "1:76a860c40f04169d",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ishmael DOUGLAS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the First Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the First Circuit for further consideration in light of United States v. Davis, 588 U.S. ----, 139 S.Ct. 2319, --- L.E.2d ---- (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Ishmael DOUGLAS, petitioner,\nv.\nUNITED STATES.\nNo. 18-7331.\nSupreme Court of the United States\nJune 28, 2019.\nOn petition for writ of certiorari to the United States Court of Appeals for the First Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the First Circuit for further consideration in light of United States v. Davis, 588 U.S. ----, 139 S.Ct. 2319, --- L.E.2d ---- (2019)."
+  },
+  "file_name": "2775-03",
+  "first_page_order": 2775,
+  "last_page_order": 2775
+}

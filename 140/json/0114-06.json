@@ -1,0 +1,64 @@
+{
+  "id": 12625172,
+  "name": "MICHIGAN, Petitioner, v. Michael FREDERICK, et al.",
+  "name_abbreviation": "Michigan v. Frederick",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-1513",
+  "first_page": "114",
+  "last_page": "114",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 114"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 39"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 192,
+    "sha256": "1017a43e73829b513c8d4c6a46b6abd4236a470d0811c084943e61bdb1c4d602",
+    "simhash": "1:7aef464cb7c1811d",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MICHIGAN, Petitioner,\nv.\nMichael FREDERICK, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "MICHIGAN, Petitioner,\nv.\nMichael FREDERICK, et al.\nNo. 18-1513\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "0114-06",
+  "first_page_order": 114,
+  "last_page_order": 114
+}

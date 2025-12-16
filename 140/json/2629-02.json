@@ -1,0 +1,64 @@
+{
+  "id": 12627139,
+  "name": "Ramon F. FLORES, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Flores v. United States",
+  "decision_date": "2020-03-30",
+  "docket_number": "No. 19-7804.",
+  "first_page": "2629",
+  "last_page": "2629",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2629"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "1bff9f11a22a795cb74e7841de2317cbec377b8d130d9f8c566a10b368f60105",
+    "simhash": "1:d6ed544633055225",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ramon F. FLORES, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ramon F. FLORES, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7804.\nSupreme Court of the United States.\nMarch 30, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "2629-02",
+  "first_page_order": 2629,
+  "last_page_order": 2629
+}

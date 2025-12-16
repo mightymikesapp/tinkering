@@ -1,0 +1,64 @@
+{
+  "id": 12616136,
+  "name": "ALL-TAG SECURITY, S.A., et al., petitioners, v. CHECKPOINT SYSTEMS, INC.",
+  "name_abbreviation": "All-Tag Sec., S.A. v. CheckPoint Sys., Inc.",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u2013519.",
+  "first_page": "650",
+  "last_page": "650",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 650"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 531"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 237,
+    "sha256": "f34a681d2f5a0f53eadcb37dea6bc9e9eb5f30a1e5172389a92dcc16484d97b7",
+    "simhash": "1:1baf64c4338513cc",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ALL-TAG SECURITY, S.A., et al., petitioners,\nv.\nCHECKPOINT SYSTEMS, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "ALL-TAG SECURITY, S.A., et al., petitioners,\nv.\nCHECKPOINT SYSTEMS, INC.\nNo. 17-519.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0650-05",
+  "first_page_order": 650,
+  "last_page_order": 650
+}

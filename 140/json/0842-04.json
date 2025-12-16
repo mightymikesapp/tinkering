@@ -1,0 +1,64 @@
+{
+  "id": 12630318,
+  "name": "Antonio BOGAN, Petitioner, v. Jeffrey GERMAN, et al.",
+  "name_abbreviation": "Bogan v. German",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6319",
+  "first_page": "842",
+  "last_page": "842",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 842"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 475"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "401963281dee4e999b1c866cbf0baf2cc139b9a0005562286c208e1eb3d30044",
+    "simhash": "1:cdab744c3b4585a8",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio BOGAN, Petitioner,\nv.\nJeffrey GERMAN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio BOGAN, Petitioner,\nv.\nJeffrey GERMAN, et al.\nNo. 19-6319\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0842-04",
+  "first_page_order": 842,
+  "last_page_order": 842
+}

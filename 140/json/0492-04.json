@@ -1,0 +1,64 @@
+{
+  "id": 12629183,
+  "name": "Charles R. HUNTER, Petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Hunter v. United States",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-429.",
+  "first_page": "492",
+  "last_page": "492",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 492"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 319"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 219,
+    "sha256": "c1564acb5b7c103eefbf7706054ed5e1434cf685c49c4a48d8118bd76d52718e",
+    "simhash": "1:622d56443b00920d",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles R. HUNTER, Petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles R. HUNTER, Petitioner,\nv.\nUNITED STATES, et al.\nNo. 19-429.\nSupreme Court of the United States.\nNov. 12, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0492-04",
+  "first_page_order": 492,
+  "last_page_order": 492
+}

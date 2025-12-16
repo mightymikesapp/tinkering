@@ -1,0 +1,64 @@
+{
+  "id": 12616246,
+  "name": "In Re Terry G. WATSON, petitioner.",
+  "name_abbreviation": "In re Watson",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136510.",
+  "first_page": "668",
+  "last_page": "668",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 668"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 590"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 155,
+    "sha256": "eb98883dadfe08c38f5d7c7845ea6cb21020abf998d33e97452d84052d0fa841",
+    "simhash": "1:3a67c0b5b898145e",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Terry G. WATSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Terry G. WATSON, petitioner.\nNo. 17-6510.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0668-03",
+  "first_page_order": 668,
+  "last_page_order": 668
+}

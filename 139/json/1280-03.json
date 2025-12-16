@@ -1,0 +1,64 @@
+{
+  "id": 12618180,
+  "name": "David L. PRICE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Price v. United States",
+  "decision_date": "2019-02-25",
+  "docket_number": "No. 18\u20137579.",
+  "first_page": "1280",
+  "last_page": "1280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1280"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 291"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "0834dd18c948f2829f853168f87957e8958ed165a9f60c649aec907080c74cce",
+    "simhash": "1:f8ac44c42206d729",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David L. PRICE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David L. PRICE, petitioner,\nv.\nUNITED STATES.\nNo. 18-7579.\nSupreme Court of the United States\nFeb. 25, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1280-03",
+  "first_page_order": 1280,
+  "last_page_order": 1280
+}

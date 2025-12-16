@@ -1,0 +1,64 @@
+{
+  "id": 12624291,
+  "name": "George R. THOMAS, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Thomas v. California",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138839.",
+  "first_page": "83",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 83"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 55"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 183,
+    "sha256": "fb2965ce45bcd85f42dbb7f60cadbf9a7c436b8893224396e4e82fa0a2233ec1",
+    "simhash": "1:d8ac160c3895a035",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George R. THOMAS, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "George R. THOMAS, petitioner,\nv.\nCALIFORNIA.\nNo. 17-8839.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "0083-03",
+  "first_page_order": 83,
+  "last_page_order": 83
+}

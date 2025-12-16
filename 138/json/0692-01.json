@@ -1,0 +1,64 @@
+{
+  "id": 12616408,
+  "name": "Richard M. PLATO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Plato v. United States",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136725.",
+  "first_page": "692",
+  "last_page": "692",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 692"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 568"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 211,
+    "sha256": "1397cabcfec5231960fae3d4c8dd42d971b2c7bbd637dece10e98219c069543c",
+    "simhash": "1:6daef2c42a0f160d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard M. PLATO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard M. PLATO, petitioner,\nv.\nUNITED STATES.\nNo. 17-6725.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0692-01",
+  "first_page_order": 692,
+  "last_page_order": 692
+}

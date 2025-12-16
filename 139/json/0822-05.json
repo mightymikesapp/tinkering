@@ -1,0 +1,64 @@
+{
+  "id": 12624242,
+  "name": "Don KOZICH, petitioner, v. Ann DEIBERT, et al.",
+  "name_abbreviation": "Kozich v. Deibert",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136529.",
+  "first_page": "822",
+  "last_page": "822",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 822"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 599"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 213,
+    "sha256": "8a8cb06a7ee2ab8d042797be364f6eab0c38e3f3ee955363b199db8d1e6b6a67",
+    "simhash": "1:3b2ec644328c83df",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Don KOZICH, petitioner,\nv.\nAnn DEIBERT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Don KOZICH, petitioner,\nv.\nAnn DEIBERT, et al.\nNo. 18-6529.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0822-05",
+  "first_page_order": 822,
+  "last_page_order": 822
+}

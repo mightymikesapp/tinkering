@@ -1,0 +1,64 @@
+{
+  "id": 12628613,
+  "name": "COURTHOUSE NEWS SERVICE, Petitioner, v. Dorothy BROWN, Clerk, Circuit Court of Illinois, Cook County.",
+  "name_abbreviation": "Courthouse News Serv. v. Brown",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 18-1203.",
+  "first_page": "384",
+  "last_page": "384",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 384"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 269,
+    "sha256": "cc6256a9d850111a241c53dc839ff05b9c847c0af8c8996fef53ff6af37ce35e",
+    "simhash": "1:e96dd640220036f5",
+    "word_count": 42
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COURTHOUSE NEWS SERVICE, Petitioner,\nv.\nDorothy BROWN, Clerk, Circuit Court of Illinois, Cook County."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "COURTHOUSE NEWS SERVICE, Petitioner,\nv.\nDorothy BROWN, Clerk, Circuit Court of Illinois, Cook County.\nNo. 18-1203.\nSupreme Court of the United States.\nOct. 15, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0384-01",
+  "first_page_order": 384,
+  "last_page_order": 384
+}

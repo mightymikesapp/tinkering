@@ -1,0 +1,62 @@
+{
+  "id": 12610017,
+  "name": "Greg ABBOTT, Governor of Texas, et al., Applicants v. Shannon PEREZ, et al.",
+  "name_abbreviation": "Abbott v. Perez",
+  "decision_date": "2017-08-31",
+  "docket_number": "No. 17A245.",
+  "first_page": "1",
+  "last_page": "1",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 776"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 561,
+    "sha256": "eebb939ea74eaa4b43d2a856023cd588a2755d0fceb98364c88db906c6131f43",
+    "simhash": "1:d6ed37761d4c5e8f",
+    "word_count": 95
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Greg ABBOTT, Governor of Texas, et al., Applicants\nv.\nShannon PEREZ, et al."
+    ],
+    "opinions": [
+      {
+        "text": "SAMUEL A. ALITO, JR., Associate Justice.\nUPON CONSIDERATION of the application of counsel for the applicants,\nIT IS ORDERED that the order of the United States District Court for the Western District of Texas, case No. SA-11-CV-360, entered August 24, 2017, is hereby stayed pending receipt of a response, due on or before Thursday, September 7, 2017, by 3 p.m., and further order of the undersigned or of the Court.",
+        "type": "majority",
+        "author": "SAMUEL A. ALITO, JR., Associate Justice."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Greg ABBOTT, Governor of Texas, et al., Applicants\nv.\nShannon PEREZ, et al.\nNo. 17A245.\nSupreme Court of the United States\nAug. 31, 2017.\nORDER"
+  },
+  "file_name": "0001-02",
+  "first_page_order": 1,
+  "last_page_order": 1
+}

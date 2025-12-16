@@ -1,0 +1,64 @@
+{
+  "id": 12623236,
+  "name": "James RODWELL, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Rodwell v. Massachusetts",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18M62.",
+  "first_page": "497",
+  "last_page": "497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 497"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 374"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 213,
+    "sha256": "57ca4d647ae490006e50dfff96db49d6dc7e4efd58812edaf2c3c8250a50e853",
+    "simhash": "1:a2a754243bea771d",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James RODWELL, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari with supplemental appendix under seal granted."
+    ],
+    "corrections": "",
+    "head_matter": "James RODWELL, petitioner,\nv.\nMASSACHUSETTS.\nNo. 18M62.\nSupreme Court of the United States\nNov. 13, 2018.\nMotion for leave to file a petition for writ of certiorari with supplemental appendix under seal granted."
+  },
+  "file_name": "0497-01",
+  "first_page_order": 497,
+  "last_page_order": 497
+}

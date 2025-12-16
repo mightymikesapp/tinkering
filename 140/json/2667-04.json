@@ -1,0 +1,64 @@
+{
+  "id": 12627331,
+  "name": "W.M.V.C., et al., Petitioners, v. William P. BARR, Attorney General.",
+  "name_abbreviation": "W.M.V.C. v. Barr",
+  "decision_date": "2020-04-20",
+  "docket_number": "No. 19-506.",
+  "first_page": "2667",
+  "last_page": "2667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2667"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 822"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 233,
+    "sha256": "90e6f374dae26a6e0e82dbc38d1073c79ccbc344ae96c4aa7dfc8ad4cdc4ad96",
+    "simhash": "1:4baf40c4378097c9",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "W.M.V.C., et al., Petitioners,\nv.\nWilliam P. BARR, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "W.M.V.C., et al., Petitioners,\nv.\nWilliam P. BARR, Attorney General.\nNo. 19-506.\nSupreme Court of the United States.\nApril 20, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "2667-04",
+  "first_page_order": 2667,
+  "last_page_order": 2667
+}

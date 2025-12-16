@@ -1,0 +1,64 @@
+{
+  "id": 12629462,
+  "name": "Daryl SCOTT, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Scott v. United States",
+  "decision_date": "2019-11-18",
+  "docket_number": "No. 19-6283",
+  "first_page": "544",
+  "last_page": "544",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 544"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 346"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 223,
+    "sha256": "25d76239893eb2071155e3403200c0a4762cc8ac31db1e4b6d020ca2cccceafb",
+    "simhash": "1:79efc644339ec635",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daryl SCOTT, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daryl SCOTT, Petitioner\nv.\nUNITED STATES\nNo. 19-6283\nSupreme Court of the United States.\nNovember 18, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "0544-03",
+  "first_page_order": 544,
+  "last_page_order": 544
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12626501,
+  "name": "Mark Douglas ROBISON, Petitioner, v. TEXAS",
+  "name_abbreviation": "Robison v. Texas",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-183",
+  "first_page": "221",
+  "last_page": "221",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 221"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 135"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 201,
+    "sha256": "18a0a0c1d155e728785e4402715e5fddb93af2f274d64bcf35413b30bf5f24cb",
+    "simhash": "1:f8af068aa2c20519",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark Douglas ROBISON, Petitioner,\nv.\nTEXAS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Fourteenth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark Douglas ROBISON, Petitioner,\nv.\nTEXAS\nNo. 19-183\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Texas, Fourteenth District denied."
+  },
+  "file_name": "0221-02",
+  "first_page_order": 221,
+  "last_page_order": 221
+}

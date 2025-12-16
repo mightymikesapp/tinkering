@@ -1,0 +1,64 @@
+{
+  "id": 12612066,
+  "name": "John ORTEGA, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Ortega v. Illinois",
+  "decision_date": "2018-04-30",
+  "docket_number": "No. 17\u20137848.",
+  "first_page": "1699",
+  "last_page": "1700",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1699"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 957"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 194,
+    "sha256": "fb49d0a57af829feba2b0167208cc8dfd51c2d5b59ce1baafb0b64f0a5836f7e",
+    "simhash": "1:f4ef66165a988192",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John ORTEGA, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "John ORTEGA, petitioner,\nv.\nILLINOIS.\nNo. 17-7848.\nSupreme Court of the United States\nApril 30, 2018.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "1699-06",
+  "first_page_order": 1699,
+  "last_page_order": 1700
+}

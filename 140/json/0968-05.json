@@ -1,0 +1,64 @@
+{
+  "id": 12630942,
+  "name": "Fred Martin WIMBERLEY, Petitioner v. Rachel M. SACRAMENTO",
+  "name_abbreviation": "Wimberley v. Sacramento",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-6762",
+  "first_page": "968",
+  "last_page": "968",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 968"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 127"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 224,
+    "sha256": "592be3645ed1c97c6a032ac2685207888d96d988c99083b2c733bb48f3d5ee1e",
+    "simhash": "1:efbf7484af0533ae",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fred Martin WIMBERLEY, Petitioner\nv.\nRachel M. SACRAMENTO"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fred Martin WIMBERLEY, Petitioner\nv.\nRachel M. SACRAMENTO\nNo. 19-6762\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0968-05",
+  "first_page_order": 968,
+  "last_page_order": 968
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12622418,
+  "name": "David L. PIERCE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Pierce v. United States",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 18\u20135845.",
+  "first_page": "347",
+  "last_page": "347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 347"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 244"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 210,
+    "sha256": "4f4d0addceef259c0c6613eb0c8fe676abedec99ec008987acb155d609c591d7",
+    "simhash": "1:70adf6443a04d095",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David L. PIERCE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David L. PIERCE, petitioner,\nv.\nUNITED STATES.\nNo. 18-5845.\nSupreme Court of the United States\nOct. 9, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0347-05",
+  "first_page_order": 347,
+  "last_page_order": 347
+}

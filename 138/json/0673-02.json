@@ -1,0 +1,64 @@
+{
+  "id": 12616282,
+  "name": "Ivan VARGAS, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Vargas v. California",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136541.",
+  "first_page": "673",
+  "last_page": "673",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 673"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 558"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 206,
+    "sha256": "25fbb8174bf81d1598b8d46ad5c98d76cd1c22e6df0ac259678a07f003eb6dca",
+    "simhash": "1:7defeec6ba91515d",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ivan VARGAS, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, Sixth Appellate District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ivan VARGAS, petitioner,\nv.\nCALIFORNIA.\nNo. 17-6541.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the Court of Appeal of California, Sixth Appellate District denied."
+  },
+  "file_name": "0673-02",
+  "first_page_order": 673,
+  "last_page_order": 673
+}

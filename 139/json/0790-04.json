@@ -1,0 +1,83 @@
+{
+  "id": 12624028,
+  "name": "Justin Michael WOLFE, petitioner, v. VIRGINIA.",
+  "name_abbreviation": "Wolfe v. Virginia",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u2013227.",
+  "first_page": "790",
+  "last_page": "790",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 790"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 561"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 798",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12616876
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/0798-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 403,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636393087010092
+    },
+    "sha256": "2af6c779dbead382ceccb59211959c404528dafe147e4743848fd89fb4afe2a4",
+    "simhash": "1:faa7e20418c7269d",
+    "word_count": 65
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Justin Michael WOLFE, petitioner,\nv.\nVIRGINIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Supreme Court of Virginia. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Virginia for further consideration in light of Class v. United States, 583 U.S. ----, 138 S.Ct. 798, 200 L.Ed.2d 37 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Justin Michael WOLFE, petitioner,\nv.\nVIRGINIA.\nNo. 18-227.\nSupreme Court of the United States\nJan. 7, 2019.\nOn petition for writ of certiorari to the Supreme Court of Virginia. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Virginia for further consideration in light of Class v. United States, 583 U.S. ----, 138 S.Ct. 798, 200 L.Ed.2d 37 (2018)."
+  },
+  "file_name": "0790-04",
+  "first_page_order": 790,
+  "last_page_order": 790
+}

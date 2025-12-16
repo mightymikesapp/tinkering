@@ -1,0 +1,64 @@
+{
+  "id": 12622443,
+  "name": "Willis MAXI, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Maxi v. United States",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 18\u20135901.",
+  "first_page": "351",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 351"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "6690e013bbd462368e9816348cc952e81117ec6699365f99f103d3454efc2355",
+    "simhash": "1:fcacf644170456dd",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Willis MAXI, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Willis MAXI, petitioner,\nv.\nUNITED STATES.\nNo. 18-5901.\nSupreme Court of the United States\nOct. 9, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0351-04",
+  "first_page_order": 351,
+  "last_page_order": 351
+}

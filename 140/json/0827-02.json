@@ -1,0 +1,64 @@
+{
+  "id": 12630235,
+  "name": "James Anthony BROWN, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6667",
+  "first_page": "827",
+  "last_page": "827",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 827"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "80fe95eac85960c4b8e4a8ec06db540d71466ac91c2e0c6fe26477f82e4368d3",
+    "simhash": "1:e4af764473045595",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Anthony BROWN, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Anthony BROWN, Petitioner\nv.\nUNITED STATES\nNo. 19-6667\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0827-02",
+  "first_page_order": 827,
+  "last_page_order": 827
+}

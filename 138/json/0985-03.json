@@ -1,0 +1,64 @@
+{
+  "id": 12617191,
+  "name": "Tarvey REGO, petitioner, v. Stu SHERMAN, Warden.",
+  "name_abbreviation": "Rego v. Sherman",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20136879.",
+  "first_page": "985",
+  "last_page": "985",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 985"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 263"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 213,
+    "sha256": "e38ccd3cb9acf458a988cbf59d51542007520df2a8486ce40fbd448abc4d9247",
+    "simhash": "1:41ec56442ba795a8",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tarvey REGO, petitioner,\nv.\nStu SHERMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tarvey REGO, petitioner,\nv.\nStu SHERMAN, Warden.\nNo. 17-6879.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0985-03",
+  "first_page_order": 985,
+  "last_page_order": 985
+}

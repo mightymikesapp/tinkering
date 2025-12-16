@@ -1,0 +1,64 @@
+{
+  "id": 12628962,
+  "name": "BANK OF AMERICA CORPORATION, et al., Applicants, v. CITY OF MIAMI, FLORIDA.",
+  "name_abbreviation": "Bank of Am. Corp. v. City of Miami",
+  "decision_date": "2019-10-30",
+  "docket_number": "No. 19A429",
+  "first_page": "450",
+  "last_page": "450",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 450"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 231,
+    "sha256": "d16d18f950b305619c248673c6ce565a477892c478fc80fde6ca3d64976b0de1",
+    "simhash": "1:78e21c9c3cad1b06",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BANK OF AMERICA CORPORATION, et al., Applicants,\nv.\nCITY OF MIAMI, FLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay presented to Justice Thomas and by him referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "BANK OF AMERICA CORPORATION, et al., Applicants,\nv.\nCITY OF MIAMI, FLORIDA.\nNo. 19A429\nSupreme Court of the United States.\nOctober 30, 2019\nApplication for stay presented to Justice Thomas and by him referred to the Court denied."
+  },
+  "file_name": "0450-02",
+  "first_page_order": 450,
+  "last_page_order": 450
+}

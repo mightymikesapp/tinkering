@@ -1,0 +1,64 @@
+{
+  "id": 12630715,
+  "name": "Steven E. DAVIS, et al., Petitioners, v. BANK OF AMERICA CORPORATION, et al.",
+  "name_abbreviation": "Davis v. Bank of Am. Corp.",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-332",
+  "first_page": "923",
+  "last_page": "923",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 923"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 511"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 180,
+    "sha256": "f9c6262d09a81001f2e0ccb6945ec6e0f077ae99c56a8aa875390926667779c8",
+    "simhash": "1:ecb77e84bcb4f4df",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven E. DAVIS, et al., Petitioners,\nv.\nBANK OF AMERICA CORPORATION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for rehearing is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven E. DAVIS, et al., Petitioners,\nv.\nBANK OF AMERICA CORPORATION, et al.\nNo. 19-332\nSupreme Court of the United States.\nJanuary 13, 2020\nThe petition for rehearing is denied."
+  },
+  "file_name": "0923-06",
+  "first_page_order": 923,
+  "last_page_order": 923
+}

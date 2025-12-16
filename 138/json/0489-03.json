@@ -1,0 +1,64 @@
+{
+  "id": 12615472,
+  "name": "Robert HOPES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hopes v. United States",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 17\u20136439.",
+  "first_page": "489",
+  "last_page": "489",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 489"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 371"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "0610adecec77d490cb92dab4c44510a0ca57ca8a0f3dace120f12a612026be50",
+    "simhash": "1:c0ac54c53684c625",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert HOPES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert HOPES, petitioner,\nv.\nUNITED STATES.\nNo. 17-6439.\nSupreme Court of the United States\nNov. 27, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0489-03",
+  "first_page_order": 489,
+  "last_page_order": 489
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12625477,
+  "name": "Ernest William SINGLETON, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Singleton v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7364",
+  "first_page": "1238",
+  "last_page": "1238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1238"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 227"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 219,
+    "sha256": "e8e192bde270a452d986462a15ee89a68982c4179092309e2b7fedbbb215340f",
+    "simhash": "1:faed44441386d621",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ernest William SINGLETON, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ernest William SINGLETON, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7364\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1238-02",
+  "first_page_order": 1238,
+  "last_page_order": 1238
+}

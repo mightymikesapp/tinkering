@@ -1,0 +1,64 @@
+{
+  "id": 12629511,
+  "name": "UNITED STATES, EX REL. Stephanie STRUBBE, et al., Petitioners, v. CRAWFORD COUNTY MEMORIAL HOSPITAL, et al.",
+  "name_abbreviation": "United States ex rel. Strubbe v. Crawford Cnty. Mem'l Hosp.",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 19-225",
+  "first_page": "553",
+  "last_page": "553",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 553"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 356"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 275,
+    "sha256": "1f9df81b9bae5a6d0713b3cdd0dc8fe71a0dac90f6c7e902e5913f952d64c0a3",
+    "simhash": "1:7eadfe8e7d0c1185",
+    "word_count": 44
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, EX REL. Stephanie STRUBBE, et al., Petitioners,\nv.\nCRAWFORD COUNTY MEMORIAL HOSPITAL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, EX REL. Stephanie STRUBBE, et al., Petitioners,\nv.\nCRAWFORD COUNTY MEMORIAL HOSPITAL, et al.\nNo. 19-225\nSupreme Court of the United States.\nNovember 25, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0553-01",
+  "first_page_order": 553,
+  "last_page_order": 553
+}

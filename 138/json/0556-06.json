@@ -1,0 +1,64 @@
+{
+  "id": 12615861,
+  "name": "James A. LANE, petitioner, v. KENTUCKY.",
+  "name_abbreviation": "Lane v. Kentucky",
+  "decision_date": "2017-12-11",
+  "docket_number": "No. 17\u20135869.",
+  "first_page": "556",
+  "last_page": "557",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 556"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 440"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 180,
+    "sha256": "38b527a6fd67b634cba4c90d18cc3cd97bc3dc917b35e1f00c35f82654cb0355",
+    "simhash": "1:fa2f525f3687341d",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James A. LANE, petitioner,\nv.\nKENTUCKY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Kentucky denied."
+    ],
+    "corrections": "",
+    "head_matter": "James A. LANE, petitioner,\nv.\nKENTUCKY.\nNo. 17-5869.\nSupreme Court of the United States\nDec. 11, 2017.\nPetition for writ of certiorari to the Court of Appeals of Kentucky denied."
+  },
+  "file_name": "0556-06",
+  "first_page_order": 556,
+  "last_page_order": 557
+}

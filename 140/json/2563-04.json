@@ -1,0 +1,64 @@
+{
+  "id": 12626974,
+  "name": "Douglas BROWNBACK, et al., Petitioners, v. James KING.",
+  "name_abbreviation": "Brownback v. King",
+  "decision_date": "2020-03-30",
+  "docket_number": "No. 19-546.",
+  "first_page": "2563",
+  "last_page": "2563",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2563"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 495"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 220,
+    "sha256": "1050ac668fcd24b6f97f023998d397a03cf6e3c154a675467e7e71c5ba9e2e97",
+    "simhash": "1:622d728e3781d6c9",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Douglas BROWNBACK, et al., Petitioners,\nv.\nJames KING."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "Douglas BROWNBACK, et al., Petitioners,\nv.\nJames KING.\nNo. 19-546.\nSupreme Court of the United States.\nMarch 30, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit granted."
+  },
+  "file_name": "2563-04",
+  "first_page_order": 2563,
+  "last_page_order": 2563
+}

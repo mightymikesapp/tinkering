@@ -1,0 +1,64 @@
+{
+  "id": 12617343,
+  "name": "OHIO, ex rel. Robert WALGATE, Jr., et al., petitioners, v. John R. KASICH, Governor of Ohio, et al.",
+  "name_abbreviation": "Ohio ex rel. Walgate v. Kasich",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20131599.",
+  "first_page": "108",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 108"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 30"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 252,
+    "sha256": "e479aaed46c3c9e236f454e453e9e31603021adf96a5486dbba87006fbb733d4",
+    "simhash": "1:77b6660cfd44a5bc",
+    "word_count": 44
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "OHIO, ex rel. Robert WALGATE, Jr., et al., petitioners,\nv.\nJohn R. KASICH, Governor of Ohio, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Franklin County denied."
+    ],
+    "corrections": "",
+    "head_matter": "OHIO, ex rel. Robert WALGATE, Jr., et al., petitioners,\nv.\nJohn R. KASICH, Governor of Ohio, et al.\nNo. 17-1599.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Franklin County denied."
+  },
+  "file_name": "0108-02",
+  "first_page_order": 108,
+  "last_page_order": 108
+}

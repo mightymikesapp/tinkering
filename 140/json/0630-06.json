@@ -1,0 +1,64 @@
+{
+  "id": 12629822,
+  "name": "IN RE R.C. \"Rick\" LUSSY, Petitioner;",
+  "name_abbreviation": "In re Lussy",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-481",
+  "first_page": "630",
+  "last_page": "630",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 630"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 411"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "506113e3ae7c9ff7b36a0a1ef0f4f9cc2f43abc959c595eb33df2636c9f51b04",
+    "simhash": "1:e07f5004f4d13471",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE R.C. \"Rick\" LUSSY, Petitioner;"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE R.C. \"Rick\" LUSSY, Petitioner;\nNo. 19-481\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0630-06",
+  "first_page_order": 630,
+  "last_page_order": 630
+}

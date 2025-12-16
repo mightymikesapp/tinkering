@@ -1,0 +1,64 @@
+{
+  "id": 12622575,
+  "name": "MICHIGAN, petitioner, v. Charles Damon JONES.",
+  "name_abbreviation": "Michgan v. Jones",
+  "decision_date": "2018-10-15",
+  "docket_number": "No. 18\u2013200.",
+  "first_page": "384",
+  "last_page": "384",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 384"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 185,
+    "sha256": "c361e3fb872314853ad74b84c02d3314c6f1c5cb3b091914744991fdab4d1b29",
+    "simhash": "1:70fdc65e9a8795bd",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MICHIGAN, petitioner,\nv.\nCharles Damon JONES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "MICHIGAN, petitioner,\nv.\nCharles Damon JONES.\nNo. 18-200.\nSupreme Court of the United States\nOct. 15, 2018.\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "0384-06",
+  "first_page_order": 384,
+  "last_page_order": 384
+}

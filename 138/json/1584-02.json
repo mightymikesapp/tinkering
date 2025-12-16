@@ -1,0 +1,64 @@
+{
+  "id": 12611769,
+  "name": "In Re Glen Dale SPIVEY, petitioner.",
+  "name_abbreviation": "In re Spivey",
+  "decision_date": "2018-04-16",
+  "docket_number": "No. 17\u20138258.",
+  "first_page": "1584",
+  "last_page": "1584",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1584"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 770"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "fae4f35293943ae33b933c61ccfc250a795cd3e34f65ee25290321adb87d671f",
+    "simhash": "1:64eed4101b99451a",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Glen Dale SPIVEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Glen Dale SPIVEY, petitioner.\nNo. 17-8258.\nSupreme Court of the United States\nApril 16, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1584-02",
+  "first_page_order": 1584,
+  "last_page_order": 1584
+}

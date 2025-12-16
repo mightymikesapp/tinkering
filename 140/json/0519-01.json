@@ -1,0 +1,64 @@
+{
+  "id": 12629326,
+  "name": "UNITED STATES, Petitioner v. Richard D. COLLINS",
+  "name_abbreviation": "United States v. Collins",
+  "decision_date": "2019-11-15",
+  "docket_number": "No. 19-184",
+  "first_page": "519",
+  "last_page": "519",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 519"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 333"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 295,
+    "sha256": "e6dc2f8a7927056d23a7b04356ada87730c9a53f0dd692b1da8353de154f236f",
+    "simhash": "1:71bd664439218034",
+    "word_count": 50
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, Petitioner\nv.\nRichard D. COLLINS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Armed Forces granted. The case is consolidated, and a total of one hour is allotted for oral argument."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, Petitioner\nv.\nRichard D. COLLINS\nNo. 19-184\nSupreme Court of the United States.\nNovember 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Armed Forces granted. The case is consolidated, and a total of one hour is allotted for oral argument."
+  },
+  "file_name": "0519-01",
+  "first_page_order": 519,
+  "last_page_order": 519
+}

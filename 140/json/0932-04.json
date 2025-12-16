@@ -1,0 +1,64 @@
+{
+  "id": 12630770,
+  "name": "UNITED STATES HOUSE OF REPRESENTATIVES, Petitioner v. TEXAS, et al.",
+  "name_abbreviation": "U.S. House of Representatives v. Texas",
+  "decision_date": "2020-01-21",
+  "docket_number": "No. 19-841",
+  "first_page": "932",
+  "last_page": "932",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 932"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 521"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 228,
+    "sha256": "94cca1f759bd5d0ec1f054d212e162abce5116a20de045d89ca9220a3ada8d0b",
+    "simhash": "1:46b2b804d8f16d13",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES HOUSE OF REPRESENTATIVES, Petitioner\nv.\nTEXAS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner to expedite consideration of the petitions for writ of certiorari denied."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES HOUSE OF REPRESENTATIVES, Petitioner\nv.\nTEXAS, et al.\nNo. 19-841\nSupreme Court of the United States.\nJanuary 21, 2020\nMotion of petitioner to expedite consideration of the petitions for writ of certiorari denied."
+  },
+  "file_name": "0932-04",
+  "first_page_order": 932,
+  "last_page_order": 932
+}

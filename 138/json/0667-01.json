@@ -1,0 +1,64 @@
+{
+  "id": 12616238,
+  "name": "Troy DAVIS, petitioner, v. Darrel VANNOY, Warden.",
+  "name_abbreviation": "Davis v. Vannoy",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136492.",
+  "first_page": "667",
+  "last_page": "667",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 667"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 555"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 213,
+    "sha256": "f709ceecae533575d5c7ad75584ded7315c01aff8a60b60639e211c67544f3b8",
+    "simhash": "1:3dbf664438a547af",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Troy DAVIS, petitioner,\nv.\nDarrel VANNOY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Troy DAVIS, petitioner,\nv.\nDarrel VANNOY, Warden.\nNo. 17-6492.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0667-01",
+  "first_page_order": 667,
+  "last_page_order": 667
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12628639,
+  "name": "Antonio Rashawne CARR, Petitioner v. TEXAS",
+  "name_abbreviation": "Carr v. Texas",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5423",
+  "first_page": "389",
+  "last_page": "389",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 389"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 220"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 198,
+    "sha256": "aaf86e99e118a8046c1c47c26b794c4005330ea5a3b3d0cd4043d4bdbbfe4d93",
+    "simhash": "1:687f6406f3012134",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio Rashawne CARR, Petitioner\nv.\nTEXAS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Fifth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio Rashawne CARR, Petitioner\nv.\nTEXAS\nNo. 19-5423\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the Court of Appeals of Texas, Fifth District denied."
+  },
+  "file_name": "0389-04",
+  "first_page_order": 389,
+  "last_page_order": 389
+}

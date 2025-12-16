@@ -1,0 +1,64 @@
+{
+  "id": 12614226,
+  "name": "Edgar TATUM, petitioner, v. Peter MURPHY, Warden.",
+  "name_abbreviation": "Tatum v. Murphy",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17M31.",
+  "first_page": "292",
+  "last_page": "292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 292"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 12"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 200,
+    "sha256": "33a698373944b3ca94dd18399481c25e7711afa8478f6c46a41e59cb34d31e72",
+    "simhash": "1:eaaf7216df91bbfe",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edgar TATUM, petitioner,\nv.\nPeter MURPHY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edgar TATUM, petitioner,\nv.\nPeter MURPHY, Warden.\nNo. 17M31.\nSupreme Court of the United States\nOct. 2, 2017.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0292-03",
+  "first_page_order": 292,
+  "last_page_order": 292
+}

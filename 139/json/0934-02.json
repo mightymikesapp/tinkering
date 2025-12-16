@@ -1,0 +1,64 @@
+{
+  "id": 12624754,
+  "name": "Evelyn PERSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Person v. United States",
+  "decision_date": "2019-01-14",
+  "docket_number": "No. 18\u20137076.",
+  "first_page": "934",
+  "last_page": "934",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 934"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 658"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "1322f91fee7e07bb0296a6e9b87087c13dd24dbf720f82047d1f209fc649440a",
+    "simhash": "1:ecad66c43345470d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Evelyn PERSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Evelyn PERSON, petitioner,\nv.\nUNITED STATES.\nNo. 18-7076.\nSupreme Court of the United States\nJan. 14, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0934-02",
+  "first_page_order": 934,
+  "last_page_order": 934
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12629488,
+  "name": "IN RE Larry CHARLES, Petitioner;",
+  "name_abbreviation": "In re Charles",
+  "decision_date": "2019-11-18",
+  "docket_number": "No. 19-5295",
+  "first_page": "549",
+  "last_page": "549",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 549"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 352"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 131,
+    "sha256": "0ba17b3a7abdb00296b04c7c87d6e44354ad30b8cf1ff40cb676d0f2b3e3b499",
+    "simhash": "1:90278cc2f6e9d7e5",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Larry CHARLES, Petitioner;"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Larry CHARLES, Petitioner;\nNo. 19-5295\nSupreme Court of the United States.\nNovember 18, 2019\nPetition for rehearing denied."
+  },
+  "file_name": "0549-04",
+  "first_page_order": 549,
+  "last_page_order": 549
+}

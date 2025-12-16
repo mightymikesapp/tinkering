@@ -1,0 +1,64 @@
+{
+  "id": 12626731,
+  "name": "Eric F. KELLY, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Kelly v. United States",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-1011.",
+  "first_page": "2515",
+  "last_page": "2515",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2515"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 467"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 210,
+    "sha256": "2425f3003e6edc6c63c8f6d45586e1456c3561ee7d30f053ba7e9f23ffdb2712",
+    "simhash": "1:ffafe44433821313",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric F. KELLY, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric F. KELLY, Petitioner,\nv.\nUNITED STATES.\nNo. 19-1011.\nSupreme Court of the United States.\nMarch 23, 2020.\nPetition for writ of certiorari to the United States Court of Appeals for the Armed Forces denied."
+  },
+  "file_name": "2515-01",
+  "first_page_order": 2515,
+  "last_page_order": 2515
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12623730,
+  "name": "Barbara Ann THOMAS, et vir, petitioners, v. J.J. WILLIAMS.",
+  "name_abbreviation": "Thomas v. Williams",
+  "decision_date": "2018-12-10",
+  "docket_number": "No. 17\u20131641.",
+  "first_page": "638",
+  "last_page": "638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 638"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 491"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 223,
+    "sha256": "1f6ac5f414b2d497478f7eda95a7864e2eb024e1e04fdedcac5f0f0f10408a6f",
+    "simhash": "1:bbff70c43504d57f",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Barbara Ann THOMAS, et vir, petitioners,\nv.\nJ.J. WILLIAMS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Barbara Ann THOMAS, et vir, petitioners,\nv.\nJ.J. WILLIAMS.\nNo. 17-1641.\nSupreme Court of the United States\nDec. 10, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0638-03",
+  "first_page_order": 638,
+  "last_page_order": 638
+}

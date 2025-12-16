@@ -1,0 +1,64 @@
+{
+  "id": 12618765,
+  "name": "McArthur BAKER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Baker v. United States",
+  "decision_date": "2019-03-18",
+  "docket_number": "No. 17\u20138818.",
+  "first_page": "1370",
+  "last_page": "1370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1370"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 605"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 142,
+    "sha256": "bd4893dfbde435044ab8ce46fa0ea7482e31c8a73ba9bf2ba8c776e8dc7860cf",
+    "simhash": "1:c2ec1866128ee641",
+    "word_count": 21
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McArthur BAKER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "McArthur BAKER, petitioner,\nv.\nUNITED STATES.\nNo. 17-8818.\nSupreme Court of the United States\nMarch 18, 2019.\nPetition for rehearing denied."
+  },
+  "file_name": "1370-07",
+  "first_page_order": 1370,
+  "last_page_order": 1370
+}

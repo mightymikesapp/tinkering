@@ -1,0 +1,64 @@
+{
+  "id": 12616390,
+  "name": "Juan DeJesus SANTIAGO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Santiago v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20138805.",
+  "first_page": "69",
+  "last_page": "69",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 69"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 48"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "64ff7f99eee9198e7c3668063fd1030f3c24cab3f29321da33f3bad8b5a22f13",
+    "simhash": "1:fb2ce6441a201119",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan DeJesus SANTIAGO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan DeJesus SANTIAGO, petitioner,\nv.\nUNITED STATES.\nNo. 16-8805.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0069-01",
+  "first_page_order": 69,
+  "last_page_order": 69
+}

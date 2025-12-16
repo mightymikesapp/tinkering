@@ -1,0 +1,64 @@
+{
+  "id": 12629300,
+  "name": "George E. BROWN, Jr., Petitioner v. UNITED STATES",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-6221",
+  "first_page": "514",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 514"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 218,
+    "sha256": "5976513b71c51f454af2946e335a28f7c1bada0cab4e4919cdb50cc9fee54fb5",
+    "simhash": "1:65bd6444b70e06e1",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George E. BROWN, Jr., Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George E. BROWN, Jr., Petitioner\nv.\nUNITED STATES\nNo. 19-6221\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0514-02",
+  "first_page_order": 514,
+  "last_page_order": 514
+}

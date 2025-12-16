@@ -1,0 +1,64 @@
+{
+  "id": 12625849,
+  "name": "James J. KAUFMAN, Petitioner, v. Scott WALKER, et al.",
+  "name_abbreviation": "Kaufman v. Walker",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-1111",
+  "first_page": "133",
+  "last_page": "133",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 133"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 24"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 208,
+    "sha256": "c7670f7f659af55e816f2ef0b0a512c861399abfd7c811e975a802531ffcfa08",
+    "simhash": "1:f8af548832c2c991",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James J. KAUFMAN, Petitioner,\nv.\nScott WALKER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Wisconsin, District I denied."
+    ],
+    "corrections": "",
+    "head_matter": "James J. KAUFMAN, Petitioner,\nv.\nScott WALKER, et al.\nNo. 18-1111\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Wisconsin, District I denied."
+  },
+  "file_name": "0133-03",
+  "first_page_order": 133,
+  "last_page_order": 133
+}

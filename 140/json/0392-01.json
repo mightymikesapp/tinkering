@@ -1,0 +1,64 @@
+{
+  "id": 12628655,
+  "name": "SOUTH CAROLINA, Petitioner v. UNITED STATES, et al.",
+  "name_abbreviation": "South Carolina v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 18-1531",
+  "first_page": "392",
+  "last_page": "392",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 392"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 219,
+    "sha256": "d123582672234d19d48b1c2f17d748afc5d2043de69ee45c3771e1fce35561ab",
+    "simhash": "1:5b2f6444bf91c015",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SOUTH CAROLINA, Petitioner\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "SOUTH CAROLINA, Petitioner\nv.\nUNITED STATES, et al.\nNo. 18-1531\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0392-01",
+  "first_page_order": 392,
+  "last_page_order": 392
+}

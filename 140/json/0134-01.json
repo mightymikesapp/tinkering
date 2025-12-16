@@ -1,0 +1,64 @@
+{
+  "id": 12625854,
+  "name": "IN RE Samuel H. WILLIAMS, Petitioner.",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-8907",
+  "first_page": "134",
+  "last_page": "134",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 134"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 21"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 204,
+    "sha256": "2643c28c9d5ccb8359844d0411af2ae325190c567b6d4d3e7b5f6a1268d40326",
+    "simhash": "1:e2a8347a0704ff7a",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Samuel H. WILLIAMS, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Samuel H. WILLIAMS, Petitioner.\nNo. 18-8907\nSupreme Court of the United States.\nOctober 7, 2019\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0134-01",
+  "first_page_order": 134,
+  "last_page_order": 134
+}

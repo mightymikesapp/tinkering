@@ -1,0 +1,64 @@
+{
+  "id": 12612984,
+  "name": "Joe WASHINGTON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Washington v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135233.",
+  "first_page": "231",
+  "last_page": "231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 231"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 212,
+    "sha256": "185e8b80d2da7555988ea9d3fd1aeafb98d94516652b4b2a643944f1b3c32dc2",
+    "simhash": "1:feade644930d4617",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joe WASHINGTON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joe WASHINGTON, petitioner,\nv.\nUNITED STATES.\nNo. 17-5233.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0231-05",
+  "first_page_order": 231,
+  "last_page_order": 231
+}

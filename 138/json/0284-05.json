@@ -1,0 +1,64 @@
+{
+  "id": 12614180,
+  "name": "Andrew BENNETT, et al., petitioners, v. JEFFERSON COUNTY, ALABAMA, et al.",
+  "name_abbreviation": "Bennett v. Jefferson Cnty.",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u2013281.",
+  "first_page": "284",
+  "last_page": "284",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 284"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 127"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 208,
+    "sha256": "b7fd1eb08b8cb59204b26f0213f7ae1aaf805daf3e23d47f2b7ccabf64cee72d",
+    "simhash": "1:f2af445c12241572",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew BENNETT, et al., petitioners,\nv.\nJEFFERSON COUNTY, ALABAMA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Alabama denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew BENNETT, et al., petitioners,\nv.\nJEFFERSON COUNTY, ALABAMA, et al.\nNo. 17-281.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the Supreme Court of Alabama denied."
+  },
+  "file_name": "0284-05",
+  "first_page_order": 284,
+  "last_page_order": 284
+}

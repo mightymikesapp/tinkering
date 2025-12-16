@@ -1,0 +1,64 @@
+{
+  "id": 12626615,
+  "name": "Richard POTTS, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Potts v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5221",
+  "first_page": "239",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 239"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "d65f873a37211948ba9cadedb06f2f1bb0e9ca7e467cfd904fc5d31e065a9953",
+    "simhash": "1:faac464c37045325",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard POTTS, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard POTTS, Petitioner\nv.\nUNITED STATES\nNo. 19-5221\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0239-05",
+  "first_page_order": 239,
+  "last_page_order": 239
+}

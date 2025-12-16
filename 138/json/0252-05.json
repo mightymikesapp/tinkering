@@ -1,0 +1,64 @@
+{
+  "id": 12613114,
+  "name": "In Re Cliven BUNDY, petitioner.",
+  "name_abbreviation": "In re Bundy",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u2013141.",
+  "first_page": "252",
+  "last_page": "252",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 252"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "99dc71fb7708072b23e52ba60fe4bed2f170101daf2247521c6b84068be5e6dc",
+    "simhash": "1:ff67c454fe297573",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Cliven BUNDY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Cliven BUNDY, petitioner.\nNo. 17-141.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0252-05",
+  "first_page_order": 252,
+  "last_page_order": 252
+}

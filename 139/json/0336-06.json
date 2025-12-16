@@ -1,0 +1,64 @@
+{
+  "id": 12622352,
+  "name": "My Van TRAN, petitioner, v. Ed SHELDON, Warden.",
+  "name_abbreviation": "Van Tran v. Sheldon",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 18\u20135513.",
+  "first_page": "336",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 336"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 236"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 211,
+    "sha256": "59b2d998551455d77a4f8bf84e66228fa7135782ff656569937423d515b57795",
+    "simhash": "1:f4aff6451304d6e3",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "My Van TRAN, petitioner,\nv.\nEd SHELDON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "My Van TRAN, petitioner,\nv.\nEd SHELDON, Warden.\nNo. 18-5513.\nSupreme Court of the United States\nOct. 9, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0336-06",
+  "first_page_order": 336,
+  "last_page_order": 336
+}

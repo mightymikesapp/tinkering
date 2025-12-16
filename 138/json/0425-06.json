@@ -1,0 +1,64 @@
+{
+  "id": 12615068,
+  "name": "David Allen O'NEAL, petitioner, v. CRAWFORD COUNTY, GEORGIA.",
+  "name_abbreviation": "O'Neal v. Crawford Cnty.",
+  "decision_date": "2017-11-06",
+  "docket_number": "No. 17\u2013341.",
+  "first_page": "425",
+  "last_page": "425",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 425"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 312"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 199,
+    "sha256": "6e0d6265900cde88fe581f78b72cdf086344a1fb77d4f03a2aa4f4eaa56f669b",
+    "simhash": "1:60acc68c66cab089",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Allen O'NEAL, petitioner,\nv.\nCRAWFORD COUNTY, GEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "David Allen O'NEAL, petitioner,\nv.\nCRAWFORD COUNTY, GEORGIA.\nNo. 17-341.\nSupreme Court of the United States\nNov. 06, 2017.\nPetition for writ of certiorari to the Court of Appeals of Georgia denied."
+  },
+  "file_name": "0425-06",
+  "first_page_order": 425,
+  "last_page_order": 425
+}

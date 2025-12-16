@@ -1,0 +1,62 @@
+{
+  "id": 12616370,
+  "name": "William COLON, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Colon v. Pennsylvania",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136691.",
+  "first_page": "686",
+  "last_page": "686",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 686"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 206,
+    "sha256": "2712358d5b42ffaf723562a45156965ab94c231691c718a201ae40a86a25313c",
+    "simhash": "1:69fbf69c429b87d4",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William COLON, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William COLON, petitioner,\nv.\nPENNSYLVANIA.\nNo. 17-6691.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office denied."
+  },
+  "file_name": "0686-04",
+  "first_page_order": 686,
+  "last_page_order": 686
+}

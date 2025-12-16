@@ -1,0 +1,64 @@
+{
+  "id": 12616218,
+  "name": "S.A.B., petitioner, v. Jefferson B. SESSIONS, III, Attorney General.",
+  "name_abbreviation": "S.A.B. v. Sessions",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u2013616.",
+  "first_page": "663",
+  "last_page": "663",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 663"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 534"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 233,
+    "sha256": "a9870985a1162f305a19858ea22884519ca1070926482f6b82fe33b3fd96d4d7",
+    "simhash": "1:1baff2851ba4178d",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S.A.B., petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "S.A.B., petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General.\nNo. 17-616.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0663-02",
+  "first_page_order": 663,
+  "last_page_order": 663
+}

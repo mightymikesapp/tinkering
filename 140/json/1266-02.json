@@ -1,0 +1,62 @@
+{
+  "id": 12625628,
+  "name": "Michael S. BARTH, Petitioner, v. TOWNSHIP OF BERNARDS, New Jersey, et al.",
+  "name_abbreviation": "Barth v. Twp. of Bernards",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-806",
+  "first_page": "1266",
+  "last_page": "1266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1266"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 255"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 232,
+    "sha256": "318e312b67df3645b4006e5d084ebf18c5030a77dbec7d3d073e6b08c7585919",
+    "simhash": "1:4a33c454179b179f",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael S. BARTH, Petitioner,\nv.\nTOWNSHIP OF BERNARDS, New Jersey, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael S. BARTH, Petitioner,\nv.\nTOWNSHIP OF BERNARDS, New Jersey, et al.\nNo. 19-806\nSupreme Court of the United States.\nMarch 2, 2020\nPetition for writ of certiorari to the Superior Court of New Jersey, Appellate Division denied."
+  },
+  "file_name": "1266-02",
+  "first_page_order": 1266,
+  "last_page_order": 1266
+}

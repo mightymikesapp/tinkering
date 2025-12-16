@@ -1,0 +1,64 @@
+{
+  "id": 12625882,
+  "name": "Juan RODRIGUEZ, Petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Rodriguez v. Illinois",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9759",
+  "first_page": "139",
+  "last_page": "139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 139"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 112"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 197,
+    "sha256": "9d89fceb375881a68feb5b060331fc2e25a0aec7d0e4f57a7b64dd301212752f",
+    "simhash": "1:f2ef5cdeea88c180",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan RODRIGUEZ, Petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan RODRIGUEZ, Petitioner,\nv.\nILLINOIS.\nNo. 18-9759\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "0139-04",
+  "first_page_order": 139,
+  "last_page_order": 139
+}

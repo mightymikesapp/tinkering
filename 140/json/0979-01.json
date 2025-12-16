@@ -1,0 +1,64 @@
+{
+  "id": 12630994,
+  "name": "John Kenneth SCHIEFER, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Schiefer v. United States",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-7059",
+  "first_page": "979",
+  "last_page": "979",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 979"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "8a10d500abb37db1313ff1f368a7deb99d42f768e960211e45d0e98e695de1cc",
+    "simhash": "1:efbf7446af045607",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Kenneth SCHIEFER, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Kenneth SCHIEFER, Petitioner\nv.\nUNITED STATES\nNo. 19-7059\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0979-01",
+  "first_page_order": 979,
+  "last_page_order": 979
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12629007,
+  "name": "Edward KRAMER, Petitioner, v. Antonio VITTI, et al.",
+  "name_abbreviation": "Kramer v. Vitti",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-1355",
+  "first_page": "46",
+  "last_page": "46",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 46"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 27"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 218,
+    "sha256": "a8c1faa7ef2d9d59a25abae0d69aa2d2169c23da9b64d4776b75bd8a130fef47",
+    "simhash": "1:72a744ccba01812f",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward KRAMER, Petitioner,\nv.\nAntonio VITTI, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edward KRAMER, Petitioner,\nv.\nAntonio VITTI, et al.\nNo. 18-1355\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0046-02",
+  "first_page_order": 46,
+  "last_page_order": 46
+}

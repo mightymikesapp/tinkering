@@ -1,0 +1,64 @@
+{
+  "id": 12626141,
+  "name": "HOME DEPOT U.S.A., INC., petitioner, v. George W. JACKSON.",
+  "name_abbreviation": "Home Depot U.S.A., Inc. v. Jackson",
+  "decision_date": "2019-08-05",
+  "docket_number": "No. 17\u20131471.",
+  "first_page": "17",
+  "last_page": "17",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 17"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1172"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 153,
+    "sha256": "5e7eb1d900d57f7c982724e4894ffe9df590b0010160fa6460fd1870d020a62f",
+    "simhash": "1:80b55c829ffad70b",
+    "word_count": 24
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HOME DEPOT U.S.A., INC., petitioner,\nv.\nGeorge W. JACKSON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "HOME DEPOT U.S.A., INC., petitioner,\nv.\nGeorge W. JACKSON.\nNo. 17-1471.\nSupreme Court of the United States\nAug. 5, 2019.\nPetition for rehearing denied."
+  },
+  "file_name": "0017-01",
+  "first_page_order": 17,
+  "last_page_order": 17
+}

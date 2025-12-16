@@ -1,0 +1,64 @@
+{
+  "id": 12627750,
+  "name": "Michael LEE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lee v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5331",
+  "first_page": "275",
+  "last_page": "275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 275"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "df207b6b4cb74310b091b5d051911c4c73cbdb3216a1131aeacc00c1017c87c9",
+    "simhash": "1:faad6644b305853d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael LEE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael LEE, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5331\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0275-03",
+  "first_page_order": 275,
+  "last_page_order": 275
+}

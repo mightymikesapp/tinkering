@@ -1,0 +1,64 @@
+{
+  "id": 12626659,
+  "name": "Lee CHANG, Petitioner, v. WISCONSIN",
+  "name_abbreviation": "Chang v. Wisconsin",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5224",
+  "first_page": "246",
+  "last_page": "246",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 246"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 191,
+    "sha256": "47d39c65df75b7e3cd76412bdb3407357979ddab3975f60233f90d6d2b456abe",
+    "simhash": "1:eeef04cab280e1b9",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lee CHANG, Petitioner,\nv.\nWISCONSIN"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Wisconsin, District IV denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lee CHANG, Petitioner,\nv.\nWISCONSIN\nNo. 19-5224\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Wisconsin, District IV denied."
+  },
+  "file_name": "0246-05",
+  "first_page_order": 246,
+  "last_page_order": 246
+}

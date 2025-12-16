@@ -1,0 +1,62 @@
+{
+  "id": 12614612,
+  "name": "APPLE INC., petitioner, v. Robert PEPPER, et al.",
+  "name_abbreviation": "Apple Inc. v. Pepper",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u2013204.",
+  "first_page": "351",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 351"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 217,
+    "sha256": "3701c9acbe01dff9a90295fb76d3728b30767921e6ffb4fb12c809e4fe26cefc",
+    "simhash": "1:b2ad86043f6c85ef",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "APPLE INC., petitioner,\nv.\nRobert PEPPER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "APPLE INC., petitioner,\nv.\nRobert PEPPER, et al.\nNo. 17-204.\nSupreme Court of the United States\nOct. 10, 2017.\nThe Solicitor General is invited to file a brief in this case expressing the views of the United States."
+  },
+  "file_name": "0351-02",
+  "first_page_order": 351,
+  "last_page_order": 351
+}

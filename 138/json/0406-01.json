@@ -1,0 +1,64 @@
+{
+  "id": 12614937,
+  "name": "R.B.R., petitioner, v. K.D.",
+  "name_abbreviation": "R.B.R. v. K.D.",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u20135990.",
+  "first_page": "406",
+  "last_page": "406",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 406"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 181,
+    "sha256": "c8bb2bca989f250c659c8116b9bb1032abeb72cc4cac59ef0e524ed91f3a3759",
+    "simhash": "1:2cf76644f2c282b0",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R.B.R., petitioner,\nv.\nK.D."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Franklin County denied."
+    ],
+    "corrections": "",
+    "head_matter": "R.B.R., petitioner,\nv.\nK.D.\nNo. 17-5990.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Franklin County denied."
+  },
+  "file_name": "0406-01",
+  "first_page_order": 406,
+  "last_page_order": 406
+}

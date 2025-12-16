@@ -1,0 +1,64 @@
+{
+  "id": 12616705,
+  "name": "WASHINGTON, petitioner, v. UNITED STATES, et al.",
+  "name_abbreviation": "Washington v. United States",
+  "decision_date": "2018-01-12",
+  "docket_number": "No. 17\u2013269.",
+  "first_page": "735",
+  "last_page": "735",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 735"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 602"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 314,
+    "sha256": "a253a837243e194452de3ff3baecb203b12d781592048b21a9635177551d1940",
+    "simhash": "1:52eed4663bd9068c",
+    "word_count": 53
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WASHINGTON, petitioner,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Modoc Point Irrigation District, et al. for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "WASHINGTON, petitioner,\nv.\nUNITED STATES, et al.\nNo. 17-269.\nSupreme Court of the United States\nJan. 12, 2018.\nMotion of Modoc Point Irrigation District, et al. for leave to file a brief as amici curiae granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit granted."
+  },
+  "file_name": "0735-01",
+  "first_page_order": 735,
+  "last_page_order": 735
+}

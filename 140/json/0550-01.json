@@ -1,0 +1,64 @@
+{
+  "id": 12629497,
+  "name": "FNU TANZIN, et al., petitioners, v. Muhammed TANVIR, et al.",
+  "name_abbreviation": "FNU Tanzin v. Tanvir",
+  "decision_date": "2019-11-22",
+  "docket_number": "No. 19-71",
+  "first_page": "550",
+  "last_page": "550",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 550"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 353"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 223,
+    "sha256": "0288d52d016ed890cb20dc1896f2eba2cac8eab4a5dfe4b880448bf7387f832d",
+    "simhash": "1:71a7f084efe012c1",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FNU TANZIN, et al., petitioners,\nv.\nMuhammed TANVIR, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "FNU TANZIN, et al., petitioners,\nv.\nMuhammed TANVIR, et al.\nNo. 19-71\nSupreme Court of the United States.\nNov. 22, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit granted."
+  },
+  "file_name": "0550-01",
+  "first_page_order": 550,
+  "last_page_order": 550
+}

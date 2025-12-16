@@ -1,0 +1,83 @@
+{
+  "id": 12618051,
+  "name": "Tony LIPSCOMB, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lipscomb v. United States",
+  "decision_date": "2019-02-25",
+  "docket_number": "No. 18\u20136177.",
+  "first_page": "1260",
+  "last_page": "1260",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1260"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 544",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12623291
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0544-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 503,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636155621428122
+    },
+    "sha256": "4e039e3cd0e72b00c7884008d4dc9958b3e1c4d364fc10c88545186079da1750",
+    "simhash": "1:6cad62c40b068699",
+    "word_count": 83
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tony LIPSCOMB, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Seventh Circuit in light of Stokeling v. United States, 586 U.S. ----, 139 S.Ct. 544, 202 L.E.2d 512 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Tony LIPSCOMB, petitioner,\nv.\nUNITED STATES.\nNo. 18-6177.\nSupreme Court of the United States\nFeb. 25, 2019.\nOn petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Seventh Circuit in light of Stokeling v. United States, 586 U.S. ----, 139 S.Ct. 544, 202 L.E.2d 512 (2019)."
+  },
+  "file_name": "1260-01",
+  "first_page_order": 1260,
+  "last_page_order": 1260
+}

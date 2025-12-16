@@ -1,0 +1,193 @@
+{
+  "id": 12610602,
+  "name": "UNITED STATES, Petitioner v. MICROSOFT CORPORATION.",
+  "name_abbreviation": "United States v. Microsoft Corp.",
+  "decision_date": "2018-04-17",
+  "docket_number": "No. 17\u20132.",
+  "first_page": "1186",
+  "last_page": "1188",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1186"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "477 U.S. 556",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210408
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "559"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0556-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2701",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "829 F.3d 197",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4341186
+      ],
+      "weight": 3,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "204-205"
+        },
+        {
+          "page": "205"
+        },
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/829/0197-01"
+      ]
+    },
+    {
+      "cite": "15 F.Supp.3d 466",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4223738
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/15/0466-01"
+      ]
+    },
+    {
+      "cite": "199 L.Ed.2d 261",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12614628,
+        12614632,
+        12614636,
+        12614637,
+        12614638,
+        12614639,
+        12614642,
+        12614643
+      ],
+      "year": 2017,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/0354-03",
+        "/s-ct/138/0355-01",
+        "/s-ct/138/0355-05",
+        "/s-ct/138/0355-06",
+        "/s-ct/138/0356-01",
+        "/s-ct/138/0356-02",
+        "/s-ct/138/0356-05",
+        "/s-ct/138/0356-06"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 356",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12614638,
+        12614639,
+        12614640,
+        12614641,
+        12614642,
+        12614643
+      ],
+      "year": 2017,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/0356-01",
+        "/s-ct/138/0356-02",
+        "/s-ct/138/0356-03",
+        "/s-ct/138/0356-04",
+        "/s-ct/138/0356-05",
+        "/s-ct/138/0356-06"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2703",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 351,
+    "char_count": 4779,
+    "pagerank": {
+      "raw": 6.080409965582826e-08,
+      "percentile": 0.3754172540561245
+    },
+    "sha256": "6a8cd1f0379673ed6f86009c5ecc68067faf1ad6b011d3a81f3f7a1686a24741",
+    "simhash": "1:dfbc6e01f00035d1",
+    "word_count": 747
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, Petitioner\nv.\nMICROSOFT CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nThe Court granted certiorari in this case to decide whether, when the Government has obtained a warrant under 18 U.S.C. \u00a7 2703, a U.S. provider of e-mail services must disclose to the Government electronic communications within its control even if the provider stores the communications abroad. 583 U.S. ----, 138 S.Ct. 356, 199 L.Ed.2d 261 (2017).\nIn December 2013, federal law enforcement agents applied to the United States District Court for the Southern District of New York for a \u00a7 2703 warrant requiring Microsoft to disclose all e-mails and other information associated with the account of one of its customers. Satisfied that the agents had demonstrated probable cause to believe that the account was being used to further illegal drug trafficking, a Magistrate Judge issued the requested \u00a7 2703 warrant. App. 22-26. The warrant directed Microsoft to disclose to the Government the contents of a specified e-mail account and all other records or information associated with the account \"[t]o the extent that the information ... is within [Microsoft's] possession, custody, or control.\" Id., at 24.\nAfter service of the \u00a7 2703 warrant, Microsoft determined that the account's e-mail contents were stored in a sole location: Microsoft's datacenter in Dublin, Ireland. Id., at 34. Microsoft moved to quash the warrant with respect to the information stored in Ireland. The Magistrate Judge denied Microsoft's motion. In re Warrant To Search a Certain E-Mail Account Controlled and Maintained by Microsoft Corp., 15 F.Supp.3d 466 (S.D.N.Y.2014). The District Court, after a hearing, adopted the Magistrate Judge's reasoning and affirmed his ruling. See In re Warrant To Search a Certain E-Mail Account Controlled and Maintained by Microsoft Corp., 829 F.3d 197, 204-205 (C.A.2 2016). Soon after, acting on a stipulation submitted jointly by the parties, the District Court held Microsoft in civil contempt for refusing to comply fully with the warrant. Id., at 205. On appeal, a panel of the Court of Appeals for the Second Circuit reversed the denial of the motion to quash and vacated the civil contempt finding, holding that requiring Microsoft to disclose the electronic communications in question would be an unauthorized extraterritorial application of \u00a7 2703. Id., at 222.\nThe parties now advise us that on March 23, 2018, Congress enacted and the President signed into law the Clarifying Lawful Overseas Use of Data Act (CLOUD Act), as part of the Consolidated Appropriations Act, 2018, Pub. L. 115-141. The CLOUD Act amends the Stored Communications Act, 18 U.S.C. \u00a7 2701 et seq., by adding the following provision:\n\"A [service provider] shall comply with the obligations of this chapter to preserve, backup, or disclose the contents of a wire or electronic communication and any record or other information pertaining to a customer or subscriber within such provider's possession, custody, or control, regardless of whether such communication, record, or other information is located within or outside of the United States.\" CLOUD Act \u00a7 103(a)(1).\nSoon thereafter, the Government obtained, pursuant to the new law, a new \u00a7 2703 warrant covering the information requested in the \u00a7 2703 warrant at issue in this case.\nNo live dispute remains between the parties over the issue with respect to which certiorari was granted. See Department of Treasury, Bureau of Alcohol, Tobacco and Firearms v. Galioto, 477 U.S. 556, 559, 106 S.Ct. 2683, 91 L.Ed.2d 459 (1986). Further, the parties agree that the new warrant has replaced the original warrant. This case, therefore, has become moot. Following the Court's established practice in such cases, the judgment on review is accordingly vacated, and the case is remanded to the United States Court of Appeals for the Second Circuit with instructions first to vacate the District Court's contempt finding and its denial of Microsoft's motion to quash, then to direct the District Court to dismiss the case as moot.\nIt is so ordered.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Noel J. Francisco, Solicitor General, John P. Cronan, Acting Assistant Attorney General, Michael R. Dreeben, Deputy Solicitor General, Morgan L. Goodspeed, Assistant to the Solicitor General, Ross B. Goldman, Attorney, Department of Justice, Washington, DC, for Petitioner.",
+      "Bradford L. Smith, David M. Howard, Julie Brill, John Frank, Jonathan Palmer, Microsoft Corporation, Redmond, WA, James M. Garland, Alexander A. Berengaut, Lauren K. Moxley, Covington & Burling LLP, Washington, DC, E. Joshua Rosenkranz, Robert M. Loeb, Brian P. Goldman, Evan M. Rose, Hannah Garden-Monheit, Alec Schierenbeck, Orrick, Herrington & Sutcliffe LLP, New York, NY, for Respondent."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, Petitioner\nv.\nMICROSOFT CORPORATION.\nNo. 17-2.\nSupreme Court of the United States\nApril 17, 2018.\nNoel J. Francisco, Solicitor General, John P. Cronan, Acting Assistant Attorney General, Michael R. Dreeben, Deputy Solicitor General, Morgan L. Goodspeed, Assistant to the Solicitor General, Ross B. Goldman, Attorney, Department of Justice, Washington, DC, for Petitioner.\nBradford L. Smith, David M. Howard, Julie Brill, John Frank, Jonathan Palmer, Microsoft Corporation, Redmond, WA, James M. Garland, Alexander A. Berengaut, Lauren K. Moxley, Covington & Burling LLP, Washington, DC, E. Joshua Rosenkranz, Robert M. Loeb, Brian P. Goldman, Evan M. Rose, Hannah Garden-Monheit, Alec Schierenbeck, Orrick, Herrington & Sutcliffe LLP, New York, NY, for Respondent."
+  },
+  "file_name": "1186-01",
+  "first_page_order": 1186,
+  "last_page_order": 1188
+}

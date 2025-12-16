@@ -1,0 +1,64 @@
+{
+  "id": 12617795,
+  "name": "Michael L. MILLIS, petitioner, v. Stephen KALLIS, Warden.",
+  "name_abbreviation": "Millis v. Kallis",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20137300.",
+  "first_page": "1223",
+  "last_page": "1223",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1223"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 222,
+    "sha256": "2ba3470868141d20b045fcc2da0d7cff1e15a3a23c01961609f2d60758f6c8f3",
+    "simhash": "1:70ff74462b805725",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael L. MILLIS, petitioner,\nv.\nStephen KALLIS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael L. MILLIS, petitioner,\nv.\nStephen KALLIS, Warden.\nNo. 18-7300.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1223-03",
+  "first_page_order": 1223,
+  "last_page_order": 1223
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12629213,
+  "name": "John BUNCICH, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Buncich v. United States",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-456",
+  "first_page": "499",
+  "last_page": "499",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 499"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 320"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "f807fd81129db4a1cc48cd2174f01d54071343727abfa373bcf6764e27657c1a",
+    "simhash": "1:bead7644230f16ad",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John BUNCICH, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John BUNCICH, Petitioner,\nv.\nUNITED STATES.\nNo. 19-456\nSupreme Court of the United States.\nNov. 12, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0499-02",
+  "first_page_order": 499,
+  "last_page_order": 499
+}

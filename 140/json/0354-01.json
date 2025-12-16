@@ -1,0 +1,110 @@
+{
+  "id": 12628554,
+  "name": "Calmer COTTIER v. UNITED STATES",
+  "name_abbreviation": "Cottier v. United States",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 18-9261",
+  "first_page": "354",
+  "last_page": "354",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 354"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 409"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "470 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298734
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "7-8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/470/0001-01"
+      ]
+    },
+    {
+      "cite": "908 F.3d 1141",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12519111
+      ],
+      "weight": 3,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1149"
+        },
+        {
+          "page": "1149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/908/1141-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 156,
+    "char_count": 1807,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26366073852182115
+    },
+    "sha256": "da7705c7d1b571b519c8dfb05a4c2efdf881aa4979ab0346a624da63dd65615f",
+    "simhash": "1:fa1f744f422156fa",
+    "word_count": 279
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Calmer COTTIER\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "Statement of Justice SOTOMAYOR respecting the denial of certiorari.\nFor his alleged role in a group beating, petitioner Calmer Cottier was charged with, among other things, second-degree murder by an Indian in Indian country. Two other participants accepted plea deals with the Government; as part of their pleas, the participants signed statements-known as factual-basis statements-that implicated Cottier in the murder. A federal prosecutor also signed those inculpatory statements to vouch for their veracity. Then, that same prosecutor offered those same incriminating statements as evidence at Cottier's trial.\nOn appeal, the Court of Appeals for the Eighth Circuit observed that the court in which Cottier was prosecuted \"routinely\" sends unredacted factual-basis statements into the jury room. 908 F.3d 1141, 1149 (2018). I agree with the Eighth Circuit that this practice is \"troubling.\" Ibid. By presenting the jury with a factual-basis statement signed by the Government, the prosecution improperly expresses its \" 'personal belief ' \" in the truth of the witness' statements-a stamp of approval, an assurance from the Government itself, that the witness is to be believed. United States v. Young , 470 U.S. 1, 7-8, 105 S.Ct. 1038, 84 L.Ed.2d 1 (1985). In this case, however, Cottier's attorney did not object to the statements' admission and used them as part of Cottier's defense. For that reason and others expressed by the Eighth Circuit in affirming Cottier's convictions, I do not dissent from the denial of certiorari but instead echo its admonition that the admission of such statements \"is not a favored practice.\" 908 F.3d, at 1149.",
+        "type": "majority",
+        "author": "Statement of Justice SOTOMAYOR respecting the denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The petition for a writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Calmer COTTIER\nv.\nUNITED STATES\nNo. 18-9261\nSupreme Court of the United States.\nDecided December 9, 2019\nThe petition for a writ of certiorari is denied."
+  },
+  "file_name": "0354-01",
+  "first_page_order": 354,
+  "last_page_order": 354
+}

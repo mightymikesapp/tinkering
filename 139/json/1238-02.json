@@ -1,0 +1,64 @@
+{
+  "id": 12617892,
+  "name": "In Re GRAND JURY SUBPOENA.",
+  "name_abbreviation": "In re Grand Jury Subpoena",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u2013948.",
+  "first_page": "1238",
+  "last_page": "1238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1238"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 279,
+    "sha256": "83de44db520b7989e556ea589a079f1f747e0d0f54446fb89accad1452558a75",
+    "simhash": "1:0aec7516b7714753",
+    "word_count": 46
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re GRAND JURY SUBPOENA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Reporters Committee for Freedom of the Press to intervene denied. Motion of respondent for leave to file redacted copies of the application for stay, response, and reply granted."
+    ],
+    "corrections": "",
+    "head_matter": "In Re GRAND JURY SUBPOENA.\nNo. 18-948.\nSupreme Court of the United States\nFeb. 19, 2019.\nMotion of Reporters Committee for Freedom of the Press to intervene denied. Motion of respondent for leave to file redacted copies of the application for stay, response, and reply granted."
+  },
+  "file_name": "1238-02",
+  "first_page_order": 1238,
+  "last_page_order": 1238
+}

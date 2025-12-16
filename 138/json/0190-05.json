@@ -1,0 +1,64 @@
+{
+  "id": 12612316,
+  "name": "Juan Carlos SANCHEZ, petitioner, v. Stu SHERMAN, Warden.",
+  "name_abbreviation": "Sanchez v. Sherman",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135003.",
+  "first_page": "190",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 190"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 220,
+    "sha256": "bf84438ef7bd9b051948be7e7e873e8458aa0f535c8de94756752036e577e0d6",
+    "simhash": "1:e3afe2443d2ab7a8",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan Carlos SANCHEZ, petitioner,\nv.\nStu SHERMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan Carlos SANCHEZ, petitioner,\nv.\nStu SHERMAN, Warden.\nNo. 17-5003.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0190-05",
+  "first_page_order": 190,
+  "last_page_order": 190
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12610855,
+  "name": "In Re Eric DRAKE, petitioner.",
+  "name_abbreviation": "In re Drake",
+  "decision_date": "2018-03-19",
+  "docket_number": "No. 17\u20137349.",
+  "first_page": "1291",
+  "last_page": "1291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1291"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 506"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 133,
+    "sha256": "80b1c30055097dcae71c7370e00f8306d41f8efcb205ea05127e0b001fa562d5",
+    "simhash": "1:ee2e30d67ef9423f",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Eric DRAKE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Eric DRAKE, petitioner.\nNo. 17-7349.\nSupreme Court of the United States\nMarch 19, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1291-01",
+  "first_page_order": 1291,
+  "last_page_order": 1291
+}

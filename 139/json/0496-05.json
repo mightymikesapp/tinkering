@@ -1,0 +1,64 @@
+{
+  "id": 12623234,
+  "name": "Edwin Darrell LETT, petitioner, v. MISSISSIPPI.",
+  "name_abbreviation": "Lett v. Mississippi",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18\u20136362.",
+  "first_page": "496",
+  "last_page": "496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 496"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 388"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 188,
+    "sha256": "b2f7e774b7778f1ce659adb7d5665358f5788030b8bc9f55d9f49c1869c7da19",
+    "simhash": "1:486e740438cc2080",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edwin Darrell LETT, petitioner,\nv.\nMISSISSIPPI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edwin Darrell LETT, petitioner,\nv.\nMISSISSIPPI.\nNo. 18-6362.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for writ of certiorari to the Supreme Court of Mississippi denied."
+  },
+  "file_name": "0496-05",
+  "first_page_order": 496,
+  "last_page_order": 496
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630206,
+  "name": "Thomas Abdul HOLCOMBE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Holcombe v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6824",
+  "first_page": "820",
+  "last_page": "820",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 820"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 499"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 220,
+    "sha256": "1f7887f90908dd66f8bd088163d16c878e5cc40a57d4c69b1ae78f963bce9e0a",
+    "simhash": "1:dcaf5644798635ad",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas Abdul HOLCOMBE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas Abdul HOLCOMBE, Petitioner,\nv.\nUNITED STATES.\nNo. 19-6824\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0820-04",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

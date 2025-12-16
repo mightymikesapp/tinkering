@@ -1,0 +1,64 @@
+{
+  "id": 12623801,
+  "name": "Thomas A. WOODS, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Woods v. Massachusetts",
+  "decision_date": "2018-12-10",
+  "docket_number": "No. 18\u20136552.",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 649"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 498"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 198,
+    "sha256": "7b875a87a29dbdac46fbffd242b07c17302e6ecb00b377fd4d0eec9c2531501f",
+    "simhash": "1:e0fdd6dcf8b44787",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas A. WOODS, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas A. WOODS, petitioner,\nv.\nMASSACHUSETTS.\nNo. 18-6552.\nSupreme Court of the United States\nDec. 10, 2018.\nPetition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+  },
+  "file_name": "0649-01",
+  "first_page_order": 649,
+  "last_page_order": 649
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630801,
+  "name": "Samuel R. JONES, Petitioner v. Erica HUSS",
+  "name_abbreviation": "Jones v. Huss",
+  "decision_date": "2020-01-21",
+  "docket_number": "No. 19-6625",
+  "first_page": "939",
+  "last_page": "939",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 939"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 525"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 208,
+    "sha256": "737ebb687104eb32de7530e016285cdab963ff74e71225cb0d9d58cbc2683aa7",
+    "simhash": "1:7dafd60423851181",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Samuel R. JONES, Petitioner\nv.\nErica HUSS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel R. JONES, Petitioner\nv.\nErica HUSS\nNo. 19-6625\nSupreme Court of the United States.\nJanuary 21, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0939-06",
+  "first_page_order": 939,
+  "last_page_order": 939
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12615157,
+  "name": "In Re Jerry M. BREWER, petitioner.",
+  "name_abbreviation": "In re Brewer",
+  "decision_date": "2017-11-06",
+  "docket_number": "No. 17\u20136356.",
+  "first_page": "439",
+  "last_page": "439",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 439"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 324"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 141,
+    "sha256": "a71d5281cd1e2d87fd1a5ad04c652fb50003cfe71edddba29bea0e7400a72e44",
+    "simhash": "1:4c7710c4f7a8773b",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Jerry M. BREWER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Jerry M. BREWER, petitioner.\nNo. 17-6356.\nSupreme Court of the United States\nNov. 6, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0439-02",
+  "first_page_order": 439,
+  "last_page_order": 439
+}

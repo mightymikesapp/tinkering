@@ -1,0 +1,64 @@
+{
+  "id": 12629160,
+  "name": "IN RE Charles Russell RHINES, Petitioner.",
+  "name_abbreviation": "In re Rhines",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-6479 (19A484)",
+  "first_page": "488",
+  "last_page": "489",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 285,
+    "sha256": "ec5abcec496ed878b2253ba733440be93e214b08e404bb5f5121861841e7a46f",
+    "simhash": "1:68ed462d1f120bc1",
+    "word_count": 46
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Charles Russell RHINES, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay of execution of sentence of death presented to Justice Gorsuch and by him referred to the Court denied. Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Charles Russell RHINES, Petitioner.\nNo. 19-6479 (19A484)\nSupreme Court of the United States.\nNovember 4, 2019\nApplication for stay of execution of sentence of death presented to Justice Gorsuch and by him referred to the Court denied. Petition for writ of habeas corpus denied."
+  },
+  "file_name": "0488-05",
+  "first_page_order": 488,
+  "last_page_order": 489
+}

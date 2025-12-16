@@ -1,0 +1,78 @@
+{
+  "id": 12614028,
+  "name": "Santiago SOLANO-HERNANDEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Solano-Hernandez v. United States",
+  "decision_date": "2018-06-28",
+  "docket_number": "No. 16\u20139187.",
+  "first_page": "2701",
+  "last_page": "2701",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2701"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1897",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12612311
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1897-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 602,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636049437631306
+    },
+    "sha256": "baecf0bc56871eb351bd4243a26327e855304928725d1e0142377851596502b1",
+    "simhash": "1:56ad76346109869d",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Santiago SOLANO-HERNANDEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Rosales Mireles v. United States, 585 U.S. ----, 138 S.Ct. 1897, --- L.E.2d ---- (2018), and for consideration of the question whether the case is moot."
+    ],
+    "corrections": "",
+    "head_matter": "Santiago SOLANO-HERNANDEZ, petitioner,\nv.\nUNITED STATES.\nNo. 16-9187.\nSupreme Court of the United States\nJune 28, 2018.\nOn petition for writ of certiorari to the United Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Rosales Mireles v. United States, 585 U.S. ----, 138 S.Ct. 1897, --- L.E.2d ---- (2018), and for consideration of the question whether the case is moot."
+  },
+  "file_name": "2701-03",
+  "first_page_order": 2701,
+  "last_page_order": 2701
+}

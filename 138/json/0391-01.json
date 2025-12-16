@@ -1,0 +1,64 @@
+{
+  "id": 12614838,
+  "name": "John WATSON, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Watson v. United States",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u20135738.",
+  "first_page": "391",
+  "last_page": "391",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 391"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 289"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "b8b1191aa813b195aa78961e228470602e74f9213093411f2c21435f9e75839f",
+    "simhash": "1:f1eec6541782d601",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John WATSON, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John WATSON, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 17-5738.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0391-01",
+  "first_page_order": 391,
+  "last_page_order": 391
+}

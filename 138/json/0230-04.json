@@ -1,0 +1,64 @@
+{
+  "id": 12612975,
+  "name": "In Re Theodore OSWALD, petitioner.",
+  "name_abbreviation": "In re Oswald",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135224.",
+  "first_page": "230",
+  "last_page": "230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 230"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 136,
+    "sha256": "db8ab8d68cb147c8dd4cc3d1ca94fd460893d9321cb31ab881537d823aa506fd",
+    "simhash": "1:de0f0255fe241578",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Theodore OSWALD, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Theodore OSWALD, petitioner.\nNo. 17-5224.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0230-04",
+  "first_page_order": 230,
+  "last_page_order": 230
+}

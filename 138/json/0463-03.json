@@ -1,0 +1,64 @@
+{
+  "id": 12615304,
+  "name": "In Re Ramon Casimiro Peraza VIERA, petitioner.",
+  "name_abbreviation": "In re Viera",
+  "decision_date": "2017-11-13",
+  "docket_number": "No. 17\u20136445.",
+  "first_page": "463",
+  "last_page": "463",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 463"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 348"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 154,
+    "sha256": "53a1a1b122f14ec9cc3d628bc0cd9e615bfffa4a04cb594a2da52df6b9ea870c",
+    "simhash": "1:e08e5000da994309",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Ramon Casimiro Peraza VIERA, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Ramon Casimiro Peraza VIERA, petitioner.\nNo. 17-6445.\nSupreme Court of the United States\nNov. 13, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0463-03",
+  "first_page_order": 463,
+  "last_page_order": 463
+}

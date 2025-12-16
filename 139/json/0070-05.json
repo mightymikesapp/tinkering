@@ -1,0 +1,64 @@
+{
+  "id": 12623914,
+  "name": "Angel MEDINA, petitioner, v. Steven JOHNSON, Administrator, New Jersey State Prison, et al.",
+  "name_abbreviation": "Medina v. Johnson",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138646.",
+  "first_page": "70",
+  "last_page": "70",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 70"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 47"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 255,
+    "sha256": "89fde7b66c335882eda642ccc61cfd8e570a3949ebf21ee2c50c0c8968581a8b",
+    "simhash": "1:30af72042a4d06a8",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Angel MEDINA, petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Angel MEDINA, petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al.\nNo. 17-8646.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0070-05",
+  "first_page_order": 70,
+  "last_page_order": 70
+}

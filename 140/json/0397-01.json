@@ -1,0 +1,83 @@
+{
+  "id": 12628679,
+  "name": "Isaac THOMAS, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Thomas v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5025",
+  "first_page": "397",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 397"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 210"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2191",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620627
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2191-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 530,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26366208995196244
+    },
+    "sha256": "15dcc58628c1fdd782cbcc4568f23c024b20636ef2b45090cc7351da7b09a458",
+    "simhash": "1:7eaf66c48d06861d",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Isaac THOMAS, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Isaac THOMAS, Petitioner\nv.\nUNITED STATES\nNo. 19-5025\nSupreme Court of the United States.\nOctober 15, 2019\nOn petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+  },
+  "file_name": "0397-01",
+  "first_page_order": 397,
+  "last_page_order": 397
+}

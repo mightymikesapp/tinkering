@@ -1,0 +1,64 @@
+{
+  "id": 12616245,
+  "name": "John CODY, petitioner, v. OHIO.",
+  "name_abbreviation": "Cody v. Ohio",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136506.",
+  "first_page": "668",
+  "last_page": "668",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 668"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 556"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 184,
+    "sha256": "1297d9df9f335f1ad66ee087ef1d00868f5f01bbd3485518b8049c3372e785bd",
+    "simhash": "1:50ef46941a87049d",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John CODY, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+    ],
+    "corrections": "",
+    "head_matter": "John CODY, petitioner,\nv.\nOHIO.\nNo. 17-6506.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+  },
+  "file_name": "0668-02",
+  "first_page_order": 668,
+  "last_page_order": 668
+}

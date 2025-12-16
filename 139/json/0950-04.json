@@ -1,0 +1,64 @@
+{
+  "id": 12624867,
+  "name": "Edgar Baltazar GARCIA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Garcia v. United States",
+  "decision_date": "2019-01-22",
+  "docket_number": "No. 18M89.",
+  "first_page": "950",
+  "last_page": "950",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 950"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 129"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 225,
+    "sha256": "d1ac0ab10a2ffbc794de1051f5837cabb2415beaf7cc15073225c4e591ffe295",
+    "simhash": "1:d3ef500606a2d318",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edgar Baltazar GARCIA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari with the supplemental appendix under seal granted."
+    ],
+    "corrections": "",
+    "head_matter": "Edgar Baltazar GARCIA, petitioner,\nv.\nUNITED STATES.\nNo. 18M89.\nSupreme Court of the United States\nJan. 22, 2019.\nMotion for leave to file a petition for writ of certiorari with the supplemental appendix under seal granted."
+  },
+  "file_name": "0950-04",
+  "first_page_order": 950,
+  "last_page_order": 950
+}

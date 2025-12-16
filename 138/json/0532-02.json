@@ -1,0 +1,64 @@
+{
+  "id": 12615752,
+  "name": "James Brown MADISON, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Madison v. California",
+  "decision_date": "2017-12-04",
+  "docket_number": "No. 17M61.",
+  "first_page": "532",
+  "last_page": "532",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 532"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 198,
+    "sha256": "e7aed6d2dc983b294dfd6b3c71c6eab9fa0c8a4298f831af2cfc3a6db5def405",
+    "simhash": "1:7c015006c381f33f",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Brown MADISON, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Brown MADISON, petitioner,\nv.\nCALIFORNIA.\nNo. 17M61.\nSupreme Court of the United States\nDec. 4, 2017.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0532-02",
+  "first_page_order": 532,
+  "last_page_order": 532
+}

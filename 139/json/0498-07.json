@@ -1,0 +1,64 @@
+{
+  "id": 12623248,
+  "name": "In Re Richard DeCARO, petitioner.",
+  "name_abbreviation": "In re DeCaro",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18\u20135812.",
+  "first_page": "498",
+  "last_page": "498",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 498"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 399"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 129,
+    "sha256": "9f05d15ba420ae0cce7ad9928e23b1c64df9a7d226ddcfb4dc6c2b49095e2035",
+    "simhash": "1:08fd30028d9c528c",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Richard DeCARO, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Richard DeCARO, petitioner.\nNo. 18-5812.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "0498-07",
+  "first_page_order": 498,
+  "last_page_order": 498
+}

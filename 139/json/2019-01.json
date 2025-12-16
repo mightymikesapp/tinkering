@@ -1,0 +1,104 @@
+{
+  "id": 12620318,
+  "name": "Paul Glen EVERETT, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Everett v. Florida",
+  "decision_date": "2019-05-13",
+  "docket_number": "No. 18\u20138300.",
+  "first_page": "2019",
+  "last_page": "2019",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2019"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "202 L.Ed.2d 389",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12623114,
+        12621483
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": " Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0478-05",
+        "/s-ct/139/0027-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 27",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12621483
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": " Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0027-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 379,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26362193317062116
+    },
+    "sha256": "2a4a2883781f389cee672f96f55121d405e063f64c2ced7d2247b35551e58d41",
+    "simhash": "1:fae1961d2e3d256e",
+    "word_count": 60
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul Glen EVERETT, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied.",
+      "Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, 202 L.Ed.2d 389 (2018) ( Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Paul Glen EVERETT, petitioner,\nv.\nFLORIDA.\nNo. 18-8300.\nSupreme Court of the United States\nMay 13, 2019.\nPetition for writ of certiorari to the Supreme Court of Florida denied.\nJustice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, 202 L.Ed.2d 389 (2018) ( Sotomayor, J., dissenting)."
+  },
+  "file_name": "2019-01",
+  "first_page_order": 2019,
+  "last_page_order": 2019
+}

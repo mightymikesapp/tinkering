@@ -1,0 +1,87 @@
+{
+  "id": 12627523,
+  "name": "Scott L. RENDELMAN, Petitioner, v. William TRUE, Warden.",
+  "name_abbreviation": "Rendelman v. True",
+  "decision_date": "2020-04-20",
+  "docket_number": "No. 19-7922.",
+  "first_page": "2705",
+  "last_page": "2705",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2705"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 819"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 77,
+    "char_count": 668,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636551397398072
+    },
+    "sha256": "a8c700a2a05392510985b816ac4bcef29a22d1b11cdffff4c2a561eccade877f",
+    "simhash": "1:656eb4cc2545d6eb",
+    "word_count": 109
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott L. RENDELMAN, Petitioner,\nv.\nWilliam TRUE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and the petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petition in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals , 506 U.S. 1 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Scott L. RENDELMAN, Petitioner,\nv.\nWilliam TRUE, Warden.\nNo. 19-7922.\nSupreme Court of the United States.\nApril 20, 2020\nMotion of petitioner for leave to proceed in forma pauperis denied, and the petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petition in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals , 506 U.S. 1 (1992) (per curiam )."
+  },
+  "file_name": "2705-01",
+  "first_page_order": 2705,
+  "last_page_order": 2705
+}

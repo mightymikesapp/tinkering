@@ -1,0 +1,97 @@
+{
+  "id": 12620787,
+  "name": "Richard GRAMM, petitioner, v. DEERE & COMPANY.",
+  "name_abbreviation": "Gramm v. Deere & Co.",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u201388.",
+  "first_page": "244",
+  "last_page": "244",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 244"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "200 L.Ed.2d 695",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12611230
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1348-01"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 1348",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12611230,
+        12611231
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1348-01",
+        "/s-ct/138/1348-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 467,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636228984778649
+    },
+    "sha256": "762114e9843af521791cdb8ed66d4781cd2133bfcb7e3e8daf1165018ebe46ad",
+    "simhash": "1:d62fea44ad4f078d",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard GRAMM, petitioner,\nv.\nDEERE & COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of SAS Institute Inc. v. Iancu, 584 U.S. ----, 138 S.Ct. 1348, 200 L.Ed.2d 695 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Richard GRAMM, petitioner,\nv.\nDEERE & COMPANY.\nNo. 18-88.\nSupreme Court of the United States\nOct. 1, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of SAS Institute Inc. v. Iancu, 584 U.S. ----, 138 S.Ct. 1348, 200 L.Ed.2d 695 (2018)."
+  },
+  "file_name": "0244-04",
+  "first_page_order": 244,
+  "last_page_order": 244
+}

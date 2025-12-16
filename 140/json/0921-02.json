@@ -1,0 +1,64 @@
+{
+  "id": 12630699,
+  "name": "Mitchell TAEBEL, Petitioner, v. MARICOPA COUNTY ATTORNEY'S OFFICE, et al.",
+  "name_abbreviation": "Taebel v. Maricopa Cnty. Attorney's Office",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-5475",
+  "first_page": "921",
+  "last_page": "921",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 921"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 178,
+    "sha256": "a0c4d2483b91ae5388e7553537b58c21b1a794cd029fbf049a3e158c78711624",
+    "simhash": "1:eaa174449c94b479",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mitchell TAEBEL, Petitioner,\nv.\nMARICOPA COUNTY ATTORNEY'S OFFICE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for rehearing is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mitchell TAEBEL, Petitioner,\nv.\nMARICOPA COUNTY ATTORNEY'S OFFICE, et al.\nNo. 19-5475\nSupreme Court of the United States.\nJanuary 13, 2020\nThe petition for rehearing is denied."
+  },
+  "file_name": "0921-02",
+  "first_page_order": 921,
+  "last_page_order": 921
+}

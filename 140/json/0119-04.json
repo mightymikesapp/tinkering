@@ -1,0 +1,64 @@
+{
+  "id": 12625326,
+  "name": "Charles HEAD, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Head v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5513",
+  "first_page": "119",
+  "last_page": "119",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 119"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "0aee45972ad69248159d2e7d07e013b6b211b5cba574803c77d551f61a4235a1",
+    "simhash": "1:e2af764c3b86d32f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles HEAD, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles HEAD, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5513\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0119-04",
+  "first_page_order": 119,
+  "last_page_order": 119
+}

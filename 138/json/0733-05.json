@@ -1,0 +1,62 @@
+{
+  "id": 12616699,
+  "name": "In the Matter of DISBARMENT OF Andre MICHNIAK.",
+  "name_abbreviation": "In re Michniak",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. D\u20133005.",
+  "first_page": "733",
+  "last_page": "733",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 733"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 600"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 18,
+    "char_count": 135,
+    "sha256": "90e0342f1747287ab3095696cd9d25c969fe9e189e6ccf1c0d74746f10bdbd78",
+    "simhash": "1:61ab54c43fd8ccc4",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Andre MICHNIAK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Andre MICHNIAK.\nNo. D-3005.\nSupreme Court of the United States\nJan. 8, 2018.\nDisbarment order entered."
+  },
+  "file_name": "0733-05",
+  "first_page_order": 733,
+  "last_page_order": 733
+}

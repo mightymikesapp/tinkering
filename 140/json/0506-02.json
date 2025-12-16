@@ -1,0 +1,62 @@
+{
+  "id": 12629254,
+  "name": "Jerome BURNAM, Petitioner v. PENNSYLVANIA.",
+  "name_abbreviation": "Burnam v. Pennsylvania",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-5737",
+  "first_page": "506",
+  "last_page": "506",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 506"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 321"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 207,
+    "sha256": "368b942549c64f11f32f22e3c2c11bee9176a750798b950684a9f6886af83d55",
+    "simhash": "1:e807361d328d17f1",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerome BURNAM, Petitioner\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jerome BURNAM, Petitioner\nv.\nPENNSYLVANIA.\nNo. 19-5737\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Pittsburgh Office denied."
+  },
+  "file_name": "0506-02",
+  "first_page_order": 506,
+  "last_page_order": 506
+}

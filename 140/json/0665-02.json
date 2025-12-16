@@ -1,0 +1,94 @@
+{
+  "id": 12629998,
+  "name": "Anson CHI, Petitioner v. Andrew STOVER, et al.",
+  "name_abbreviation": "Chi v. Stover",
+  "decision_date": "2019-12-16",
+  "docket_number": "No. 19-6228",
+  "first_page": "665",
+  "last_page": "665",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 665"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 437"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 83,
+    "char_count": 686,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26366710954963013
+    },
+    "sha256": "3f7f3a555dd82eddaea651a144335d5752aeea670486e1b5193795f20c633564",
+    "simhash": "1:64eaf59c040dd60d",
+    "word_count": 114
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anson CHI, Petitioner\nv.\nAndrew STOVER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petition in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals , 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Anson CHI, Petitioner\nv.\nAndrew STOVER, et al.\nNo. 19-6228\nSupreme Court of the United States.\nDecember 16, 2019\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petition in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals , 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "0665-02",
+  "first_page_order": 665,
+  "last_page_order": 665
+}

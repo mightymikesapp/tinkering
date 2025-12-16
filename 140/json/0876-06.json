@@ -1,0 +1,64 @@
+{
+  "id": 12630480,
+  "name": "Rene TORRES, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Torres v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6756",
+  "first_page": "876",
+  "last_page": "876",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 876"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 496"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "ccd5d54aab7191a49e8390df33d18994ad408ca1296aa140dce7c7b70b869e2b",
+    "simhash": "1:f2af7444730dd7ff",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rene TORRES, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rene TORRES, Petitioner\nv.\nUNITED STATES\nNo. 19-6756\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0876-06",
+  "first_page_order": 876,
+  "last_page_order": 876
+}

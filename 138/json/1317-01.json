@@ -1,0 +1,64 @@
+{
+  "id": 12611023,
+  "name": "John Anthony GENTRY, petitioner, v. TENNESSEE, et al.",
+  "name_abbreviation": "Gentry v. Tennessee",
+  "decision_date": "2018-03-19",
+  "docket_number": "No. 17M88.",
+  "first_page": "1317",
+  "last_page": "1317",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1317"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 467"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 180,
+    "sha256": "ff898b66b0f085c9ff72b702f7ab8ff98f1932e487edf8b6d3bc9f9cfdbb1d92",
+    "simhash": "1:b3a150960445a399",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Anthony GENTRY, petitioner,\nv.\nTENNESSEE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed as a veteran denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Anthony GENTRY, petitioner,\nv.\nTENNESSEE, et al.\nNo. 17M88.\nSupreme Court of the United States\nMarch 19, 2018.\nMotion of petitioner for leave to proceed as a veteran denied."
+  },
+  "file_name": "1317-01",
+  "first_page_order": 1317,
+  "last_page_order": 1317
+}

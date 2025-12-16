@@ -1,0 +1,64 @@
+{
+  "id": 12628793,
+  "name": "DOE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Doe v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 18-1522",
+  "first_page": "418",
+  "last_page": "419",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 418"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 241"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 413,
+    "sha256": "671dd8166d62744c685667ad3e04ae58c94544a8e2f4a8b7545bafec4ad249d3",
+    "simhash": "1:d2ee7025bfca5549",
+    "word_count": 70
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DOE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a brief in opposition under seal with redacted copies for the public record granted. Motion for leave to file a reply brief under seal with redacted copies for the public record granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "DOE, Petitioner,\nv.\nUNITED STATES.\nNo. 18-1522\nSupreme Court of the United States.\nOctober 15, 2019\nMotion for leave to file a brief in opposition under seal with redacted copies for the public record granted. Motion for leave to file a reply brief under seal with redacted copies for the public record granted. Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0418-05",
+  "first_page_order": 418,
+  "last_page_order": 419
+}

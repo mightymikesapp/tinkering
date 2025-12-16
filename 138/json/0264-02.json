@@ -1,0 +1,64 @@
+{
+  "id": 12613612,
+  "name": "Sean PETERS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Peters v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135455.",
+  "first_page": "264",
+  "last_page": "264",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 264"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 169"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "752cddb933a9c47c85abb44a0357135f049e5d7163dc26a49f923153f52d7b05",
+    "simhash": "1:f3ade6541b29c651",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sean PETERS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sean PETERS, petitioner,\nv.\nUNITED STATES.\nNo. 17-5455.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0264-02",
+  "first_page_order": 264,
+  "last_page_order": 264
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12625742,
+  "name": "Nathaniel WOODS, Applicant, v. Cynthia STEWART, Warden, et al.",
+  "name_abbreviation": "Woods v. Stewart",
+  "decision_date": "2020-03-05",
+  "docket_number": "No. 19A984.",
+  "first_page": "1290",
+  "last_page": "1290",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1290"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 251,
+    "sha256": "3d3ab53074218d0ddedddc425f1934e5a24961dbec6f8d78c8d7412405769fd2",
+    "simhash": "1:70efbc7c1f2d0aa4",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nathaniel WOODS, Applicant,\nv.\nCynthia STEWART, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay of execution of sentence of death presented to Justice Thomas and by him referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Nathaniel WOODS, Applicant,\nv.\nCynthia STEWART, Warden, et al.\nNo. 19A984.\nSupreme Court of the United States.\nMarch 5, 2020.\nApplication for stay of execution of sentence of death presented to Justice Thomas and by him referred to the Court denied."
+  },
+  "file_name": "1290-02",
+  "first_page_order": 1290,
+  "last_page_order": 1290
+}

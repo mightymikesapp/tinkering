@@ -1,0 +1,64 @@
+{
+  "id": 12628171,
+  "name": "Patrick Henry MURPHY, Petitioner, v. TEXAS.",
+  "name_abbreviation": "Murphy v. Texas",
+  "decision_date": "2020-06-01",
+  "docket_number": "No. 19-7481.",
+  "first_page": "2829",
+  "last_page": "2829",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2829"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 189,
+    "sha256": "56bc26a3891d0f348c403abb01c0afb3d7e6705b90ea36acb2f34bb366c5b74b",
+    "simhash": "1:5825747623c124b9",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick Henry MURPHY, Petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick Henry MURPHY, Petitioner,\nv.\nTEXAS.\nNo. 19-7481.\nSupreme Court of the United States.\nJune 1, 2020\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "2829-05",
+  "first_page_order": 2829,
+  "last_page_order": 2829
+}

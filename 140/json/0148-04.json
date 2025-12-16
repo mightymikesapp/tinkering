@@ -1,0 +1,64 @@
+{
+  "id": 12625941,
+  "name": "Jose NINO-CARREON, Petitioner, v. UNITED STATES",
+  "name_abbreviation": "Nino-Carreon v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-8314",
+  "first_page": "148",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 148"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 48"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "7ffd30925805f0bf999ad207343fa898a6dff532df10b00de75b3f340aeb3dde",
+    "simhash": "1:eaac74cc2704d34d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose NINO-CARREON, Petitioner,\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose NINO-CARREON, Petitioner,\nv.\nUNITED STATES\nNo. 18-8314\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0148-04",
+  "first_page_order": 148,
+  "last_page_order": 148
+}

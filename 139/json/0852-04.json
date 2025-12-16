@@ -1,0 +1,64 @@
+{
+  "id": 12624445,
+  "name": "David CROSBY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Crosby v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136894.",
+  "first_page": "852",
+  "last_page": "852",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 852"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 617"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "a2a8c2426fe0910a2a1c326e500ed4bd10f0345d4abe25a9fac71ab5a4937ea2",
+    "simhash": "1:f3ef6644228dd701",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David CROSBY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David CROSBY, petitioner,\nv.\nUNITED STATES.\nNo. 18-6894.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0852-04",
+  "first_page_order": 852,
+  "last_page_order": 852
+}

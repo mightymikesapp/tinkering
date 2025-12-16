@@ -1,0 +1,62 @@
+{
+  "id": 12611100,
+  "name": "Marcus JOHNSON, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Johnson v. Pennsylvania",
+  "decision_date": "2018-03-26",
+  "docket_number": "No. 17\u20137486.",
+  "first_page": "1328",
+  "last_page": "1328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1328"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 517"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 209,
+    "sha256": "df85da73ab6bdb0182f5fe7a953549a861930ed7f3fc0b00ff730378f97f4bc5",
+    "simhash": "1:fa6af49d5a981690",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marcus JOHNSON, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Marcus JOHNSON, petitioner,\nv.\nPENNSYLVANIA.\nNo. 17-7486.\nSupreme Court of the United States\nMarch 26, 2018.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office denied."
+  },
+  "file_name": "1328-02",
+  "first_page_order": 1328,
+  "last_page_order": 1328
+}

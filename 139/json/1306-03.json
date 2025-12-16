@@ -1,0 +1,64 @@
+{
+  "id": 12618353,
+  "name": "In Re Jose Joaquin RAMIREZ, petitioner.",
+  "name_abbreviation": "In re Ramirez",
+  "decision_date": "2019-03-04",
+  "docket_number": "No. 18\u20137890.",
+  "first_page": "1306",
+  "last_page": "1306",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1306"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 147,
+    "sha256": "e713b97b5ad719e27828e152433d0e3ad21024217283cefa8c0f0da1b4a9f780",
+    "simhash": "1:7037706017f9434d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Jose Joaquin RAMIREZ, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Jose Joaquin RAMIREZ, petitioner.\nNo. 18-7890.\nSupreme Court of the United States\nMarch 4, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1306-03",
+  "first_page_order": 1306,
+  "last_page_order": 1306
+}

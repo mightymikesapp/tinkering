@@ -1,0 +1,64 @@
+{
+  "id": 12629633,
+  "name": "CITY OF EAST CLEVELAND, OHIO, et al., Petitioners v. Charles HUNT, et al.",
+  "name_abbreviation": "City of E. Cleveland v. Hunt",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 19-472",
+  "first_page": "576",
+  "last_page": "576",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 576"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 359"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 229,
+    "sha256": "d60f01b234727d5a872fdf8f01de8e00bbc3436e2dc9cfa207bb58d29df6459b",
+    "simhash": "1:f0976405b145a59d",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CITY OF EAST CLEVELAND, OHIO, et al., Petitioners\nv.\nCharles HUNT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+    ],
+    "corrections": "",
+    "head_matter": "CITY OF EAST CLEVELAND, OHIO, et al., Petitioners\nv.\nCharles HUNT, et al.\nNo. 19-472\nSupreme Court of the United States.\nNovember 25, 2019\nPetition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+  },
+  "file_name": "0576-01",
+  "first_page_order": 576,
+  "last_page_order": 576
+}

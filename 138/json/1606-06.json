@@ -1,0 +1,64 @@
+{
+  "id": 12611921,
+  "name": "In Re Joseph WITCHARD, petitioner.",
+  "name_abbreviation": "In re Witchard",
+  "decision_date": "2018-04-23",
+  "docket_number": "No. 17\u20138234.",
+  "first_page": "1606",
+  "last_page": "1606",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1606"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 789"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 138,
+    "sha256": "c6fba377ac88d42511671882ecf1f3a56fa50c3d4207872dd15f2b1d94139e0c",
+    "simhash": "1:e6055644aade755f",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Joseph WITCHARD, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Joseph WITCHARD, petitioner.\nNo. 17-8234.\nSupreme Court of the United States\nApril 23, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1606-06",
+  "first_page_order": 1606,
+  "last_page_order": 1606
+}

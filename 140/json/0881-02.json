@@ -1,0 +1,64 @@
+{
+  "id": 12630504,
+  "name": "Samier Patrick CLARK, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Clark v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6632",
+  "first_page": "881",
+  "last_page": "881",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 881"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 216,
+    "sha256": "1472bc18291a331f867b84fec26e6e5d5b89877b261e573bec9631d795000480",
+    "simhash": "1:a3af74447705d7bd",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Samier Patrick CLARK, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Samier Patrick CLARK, Petitioner\nv.\nUNITED STATES\nNo. 19-6632\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0881-02",
+  "first_page_order": 881,
+  "last_page_order": 881
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12626585,
+  "name": "Lincoln RYMER, Petitioner v. Robert LEMASTER, et al.",
+  "name_abbreviation": "Rymer v. Lemaster",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-96",
+  "first_page": "234",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 129"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "ce333d5e6ee54234198d950047ee290b67127b717ff825e6375f65b4d1d93fcc",
+    "simhash": "1:7aaf564cb7801525",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lincoln RYMER, Petitioner\nv.\nRobert LEMASTER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lincoln RYMER, Petitioner\nv.\nRobert LEMASTER, et al.\nNo. 19-96\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0234-05",
+  "first_page_order": 234,
+  "last_page_order": 234
+}

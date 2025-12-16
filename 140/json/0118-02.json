@@ -1,0 +1,64 @@
+{
+  "id": 12625318,
+  "name": "Scott OGLE, Petitioner, v. TEXAS",
+  "name_abbreviation": "Ogle v. Texas",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-1182",
+  "first_page": "118",
+  "last_page": "118",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 118"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 25"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 187,
+    "sha256": "c5b11ad2f87e16b03d944db2bf4b94ae274452d87cf71e6c6f9aea878ad9011a",
+    "simhash": "1:f8af3647f28009fc",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott OGLE, Petitioner,\nv.\nTEXAS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Third District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Scott OGLE, Petitioner,\nv.\nTEXAS\nNo. 18-1182\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Texas, Third District denied."
+  },
+  "file_name": "0118-02",
+  "first_page_order": 118,
+  "last_page_order": 118
+}

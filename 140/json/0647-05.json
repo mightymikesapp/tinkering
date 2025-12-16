@@ -1,0 +1,64 @@
+{
+  "id": 12629913,
+  "name": "IN RE Jonathan E. BRUNSON, Petitioner",
+  "name_abbreviation": "In re Brunson",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-5225",
+  "first_page": "647",
+  "last_page": "647",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 647"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "df5ff151a0a5bc5acb2c0b846134404c31dce98196c2590cf41aebd18e5feaea",
+    "simhash": "1:60bddd025404e635",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Jonathan E. BRUNSON, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Jonathan E. BRUNSON, Petitioner\nNo. 19-5225\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for rehearing denied."
+  },
+  "file_name": "0647-05",
+  "first_page_order": 647,
+  "last_page_order": 647
+}

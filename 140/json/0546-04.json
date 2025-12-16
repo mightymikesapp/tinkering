@@ -1,0 +1,64 @@
+{
+  "id": 12629473,
+  "name": "IN RE E. Edward ZIMMERMANN, Petitioner.",
+  "name_abbreviation": "In re Zimmermann",
+  "decision_date": "2019-11-18",
+  "docket_number": "No. 18-9582",
+  "first_page": "546",
+  "last_page": "546",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 546"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 350"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 160,
+    "sha256": "a4728280fffbba36cb2b57975d191475026daf048c2644f80efb4b79ba05af09",
+    "simhash": "1:98e7e0eea6196418",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE E. Edward ZIMMERMANN, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE E. Edward ZIMMERMANN, Petitioner.\nNo. 18-9582\nSupreme Court of the United States.\nNov. 18, 2019\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0546-04",
+  "first_page_order": 546,
+  "last_page_order": 546
+}

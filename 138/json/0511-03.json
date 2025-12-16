@@ -1,0 +1,64 @@
+{
+  "id": 12615614,
+  "name": "In Re Elmer SCHECKEL, petitioner.",
+  "name_abbreviation": "In re Scheckel",
+  "decision_date": "2017-12-04",
+  "docket_number": "No. 17\u20136150.",
+  "first_page": "511",
+  "last_page": "511",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 511"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 409"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 154,
+    "sha256": "b1b928faec6235e2f02d0d1bb4b38bb1ebf0508c5239263e040d90d6113308a3",
+    "simhash": "1:ba73507ca0a3055e",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Elmer SCHECKEL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Elmer SCHECKEL, petitioner.\nNo. 17-6150.\nSupreme Court of the United States\nDec. 4, 2017.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0511-03",
+  "first_page_order": 511,
+  "last_page_order": 511
+}

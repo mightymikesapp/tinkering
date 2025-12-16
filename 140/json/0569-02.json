@@ -1,0 +1,64 @@
+{
+  "id": 12629595,
+  "name": "Larry Craig CASH, Petitioner, v. Vance LAUGHLIN, Warden.",
+  "name_abbreviation": "Cash v. Laughlin",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 19-6043",
+  "first_page": "569",
+  "last_page": "569",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 569"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 192,
+    "sha256": "5de3dbdeb5af0bfaae61de30b71483b853dc87f4ea1827ddc41df915afe947ad",
+    "simhash": "1:ec25548492e5a2bd",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry Craig CASH, Petitioner,\nv.\nVance LAUGHLIN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Larry Craig CASH, Petitioner,\nv.\nVance LAUGHLIN, Warden.\nNo. 19-6043\nSupreme Court of the United States.\nNov. 25, 2019\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "0569-02",
+  "first_page_order": 569,
+  "last_page_order": 569
+}

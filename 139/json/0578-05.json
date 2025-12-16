@@ -1,0 +1,64 @@
+{
+  "id": 12623385,
+  "name": "Bob Lee JONES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jones v. United States",
+  "decision_date": "2018-11-19",
+  "docket_number": "No. 18\u20136361.",
+  "first_page": "578",
+  "last_page": "578",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 578"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 412"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 210,
+    "sha256": "567f78ebcf79172e8e37f1e07283d314cb41d2f1292b4fd44d399e7a6b6b54d2",
+    "simhash": "1:62adc4841bc4d614",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bob Lee JONES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bob Lee JONES, petitioner,\nv.\nUNITED STATES.\nNo. 18-6361.\nSupreme Court of the United States\nNov. 19, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0578-05",
+  "first_page_order": 578,
+  "last_page_order": 578
+}

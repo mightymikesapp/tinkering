@@ -1,0 +1,64 @@
+{
+  "id": 12616671,
+  "name": "In Re Tommy PHILLIPS, petitioner.",
+  "name_abbreviation": "In re Phillips",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20135827.",
+  "first_page": "730",
+  "last_page": "730",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 730"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 596"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 128,
+    "sha256": "49f60f42a76e0f0e8b803473f4c83b9e0e38ff9b796e9c9ab29b4d22642ce750",
+    "simhash": "1:aff76c447ebe564e",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Tommy PHILLIPS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Tommy PHILLIPS, petitioner.\nNo. 17-5827.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "0730-01",
+  "first_page_order": 730,
+  "last_page_order": 730
+}

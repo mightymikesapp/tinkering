@@ -1,0 +1,64 @@
+{
+  "id": 12612597,
+  "name": "Juan PEREZ-PADRON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Perez-Padron v. United States",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u20138482.",
+  "first_page": "2013",
+  "last_page": "2013",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2013"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 212,
+    "sha256": "c7c923a4b3d9d5bd35c0aaf03505ad1d063c8a326ed6445170429f4ab8375d80",
+    "simhash": "1:d3ae76440d8611c9",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan PEREZ-PADRON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan PEREZ-PADRON, petitioner,\nv.\nUNITED STATES.\nNo. 17-8482.\nSupreme Court of the United States\nMay 14, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "2013-02",
+  "first_page_order": 2013,
+  "last_page_order": 2013
+}

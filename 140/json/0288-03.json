@@ -1,0 +1,64 @@
+{
+  "id": 12628249,
+  "name": "Leslie E. THOMAS, Petitioner v. COURT OF COMMON PLEAS OF PENNSYLVANIA, UNION COUNTY",
+  "name_abbreviation": "Thomas v. Court of Common Pleas of Pa.",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9203",
+  "first_page": "288",
+  "last_page": "288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 288"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 197"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 326,
+    "sha256": "40a6675c8a3a52fb48c7a43ecc55abb94d67e71baedb6dea3ff8513eb330c524",
+    "simhash": "1:eab752c633cc9b6d",
+    "word_count": 54
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leslie E. THOMAS, Petitioner\nv.\nCOURT OF COMMON PLEAS OF PENNSYLVANIA, UNION COUNTY"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Alito took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Alito took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leslie E. THOMAS, Petitioner\nv.\nCOURT OF COMMON PLEAS OF PENNSYLVANIA, UNION COUNTY\nNo. 18-9203\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0288-03",
+  "first_page_order": 288,
+  "last_page_order": 288
+}

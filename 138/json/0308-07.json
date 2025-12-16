@@ -1,0 +1,62 @@
+{
+  "id": 12614335,
+  "name": "In the Matter of DISBARMENT OF Pamela Bruce STUART.",
+  "name_abbreviation": "In re Stuart",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. D\u20132972.",
+  "first_page": "308",
+  "last_page": "308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 308"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 140,
+    "sha256": "46a30d173fa02a1fe46428e274a45e941172feaa25cdc25c1a0190f3b3d201b7",
+    "simhash": "1:62239447beb62261",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Pamela Bruce STUART."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Pamela Bruce STUART.\nNo. D-2972.\nSupreme Court of the United States\nOct. 2, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0308-07",
+  "first_page_order": 308,
+  "last_page_order": 308
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12615008,
+  "name": "In Re Reginald Earl RICE, petitioner.",
+  "name_abbreviation": "In re Rice",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u20136155.",
+  "first_page": "417",
+  "last_page": "417",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 417"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "50c1ac5e184b445016853ffa8d0ebdafa8c21e09051b311b5e7fad0a060ca8e2",
+    "simhash": "1:6ccf42549798c651",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Reginald Earl RICE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Reginald Earl RICE, petitioner.\nNo. 17-6155.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0417-01",
+  "first_page_order": 417,
+  "last_page_order": 417
+}

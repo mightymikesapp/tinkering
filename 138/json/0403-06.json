@@ -1,0 +1,64 @@
+{
+  "id": 12614924,
+  "name": "Lucas ROBINSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robinson v. United States",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u2013385.",
+  "first_page": "403",
+  "last_page": "404",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 403"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "2db67043698bf825c39562057b08bc234f9af904fd3005f2f2a0c26eb231f44a",
+    "simhash": "1:70afe6459fa216a1",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lucas ROBINSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lucas ROBINSON, petitioner,\nv.\nUNITED STATES.\nNo. 17-385.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0403-06",
+  "first_page_order": 403,
+  "last_page_order": 404
+}

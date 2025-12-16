@@ -1,0 +1,64 @@
+{
+  "id": 12624990,
+  "name": "James Joseph KNOCHEL, Petitioner, v. Emily Noelle MIHAYLO.",
+  "name_abbreviation": "Knochel v. Mihaylo",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19M102",
+  "first_page": "1101",
+  "last_page": "1101",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1101"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 199,
+    "sha256": "b7443a2ad3f9707c60255cb4ead34d37238a669915546cce77ed44418a40e4f8",
+    "simhash": "1:b96b58761bdbd51f",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Joseph KNOCHEL, Petitioner,\nv.\nEmily Noelle MIHAYLO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari under seal denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Joseph KNOCHEL, Petitioner,\nv.\nEmily Noelle MIHAYLO.\nNo. 19M102\nSupreme Court of the United States.\nFeb. 24, 2020\nMotion for leave to file a petition for writ of certiorari under seal denied."
+  },
+  "file_name": "1101-03",
+  "first_page_order": 1101,
+  "last_page_order": 1101
+}

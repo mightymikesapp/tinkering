@@ -1,0 +1,64 @@
+{
+  "id": 12625999,
+  "name": "Richard BEN, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ben v. United States",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19-7567.",
+  "first_page": "1547",
+  "last_page": "1547",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1547"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 384"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "960e39c8dacb40b1bab1c246fe59f34c1adbe38d3020e99b08c483ad70a8dad1",
+    "simhash": "1:faedf64d7f8d469f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard BEN, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard BEN, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7567.\nSupreme Court of the United States.\nMarch 9, 2020.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1547-04",
+  "first_page_order": 1547,
+  "last_page_order": 1547
+}

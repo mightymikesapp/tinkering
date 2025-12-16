@@ -1,0 +1,64 @@
+{
+  "id": 12628659,
+  "name": "Glenn Ray SMITH, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5838",
+  "first_page": "392",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 392"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 236"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "268a6a2a18980eeb8534602af1802232538916f6d808cfade32a2c59086fdee1",
+    "simhash": "1:ebbf64443329400d",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Glenn Ray SMITH, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Glenn Ray SMITH, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5838\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0392-05",
+  "first_page_order": 392,
+  "last_page_order": 393
+}

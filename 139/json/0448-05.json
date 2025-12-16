@@ -1,0 +1,62 @@
+{
+  "id": 12622938,
+  "name": "In the Matter of DISCIPLINE OF John Edwin COOPER.",
+  "name_abbreviation": "In re Cooper",
+  "decision_date": "2018-10-29",
+  "docket_number": "No. D\u20133037.",
+  "first_page": "448",
+  "last_page": "449",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 448"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 356,
+    "sha256": "b4daa1e9cb5d7ea2a97ae4a797af74779a6d8ba53a42cd0200ee3525716127d0",
+    "simhash": "1:6a8b65bebfcea7e3",
+    "word_count": 64
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF John Edwin COOPER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF John Edwin COOPER.\nNo. D-3037.\nSupreme Court of the United States\nOct. 29, 2018.\nJohn Edwin Cooper, of Erie, Pennsylvania, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0448-05",
+  "first_page_order": 448,
+  "last_page_order": 449
+}

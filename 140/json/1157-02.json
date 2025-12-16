@@ -1,0 +1,64 @@
+{
+  "id": 12625252,
+  "name": "King BUSH, Petitioner, v. Kannika SAY.",
+  "name_abbreviation": "Bush v. Say",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-6990",
+  "first_page": "1157",
+  "last_page": "1157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1157"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 178,
+    "sha256": "9adef830a5ab7149780a7a13a7e5a296d29f855f2122b249e5e791749b107aa5",
+    "simhash": "1:6def445e2300c1bd",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "King BUSH, Petitioner,\nv.\nKannika SAY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "King BUSH, Petitioner,\nv.\nKannika SAY.\nNo. 19-6990\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "1157-02",
+  "first_page_order": 1157,
+  "last_page_order": 1157
+}

@@ -1,0 +1,78 @@
+{
+  "id": 12614066,
+  "name": "Donald J. TRUMP, President of the United States, et al., petitioners, v. INTERNATIONAL REFUGEE ASSISTANCE PROJECT, et al.",
+  "name_abbreviation": "Trump v. Int'l Refugee Assistance Project",
+  "decision_date": "2018-06-28",
+  "docket_number": "No. 17\u20131270.",
+  "first_page": "2710",
+  "last_page": "2710",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2710"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 2392",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12613035
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/2392-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 531,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636074535619644
+    },
+    "sha256": "757ba99924d948210d03380528a6ee070e19b39e43876f6f4bf14d53d6ac5d53",
+    "simhash": "1:52af60041440079c",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald J. TRUMP, President of the United States, et al., petitioners,\nv.\nINTERNATIONAL REFUGEE ASSISTANCE PROJECT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of Trump v. Hawaii, 585 U.S. ----, 138 S.Ct. 2392, --- L.E.2d ---- (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Donald J. TRUMP, President of the United States, et al., petitioners,\nv.\nINTERNATIONAL REFUGEE ASSISTANCE PROJECT, et al.\nNo. 17-1270.\nSupreme Court of the United States\nJune 28, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of Trump v. Hawaii, 585 U.S. ----, 138 S.Ct. 2392, --- L.E.2d ---- (2018)."
+  },
+  "file_name": "2710-02",
+  "first_page_order": 2710,
+  "last_page_order": 2710
+}

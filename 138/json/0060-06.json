@@ -1,0 +1,83 @@
+{
+  "id": 12616015,
+  "name": "Rogers LACAZE, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Lacaze v. Louisiana",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20131125.",
+  "first_page": "60",
+  "last_page": "61",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 60"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 905",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12609944
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/0905-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 684,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26361054254514454
+    },
+    "sha256": "436fe5ef7b455690819a718e2d31663afe827820b366f253e5f363ad2a107870",
+    "simhash": "1:a28e443c5a720f89",
+    "word_count": 115
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rogers LACAZE, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Supreme Court of Louisiana. Motion of Louisiana Association of Criminal Defense Lawyers, et al. for leave to file a brief as amici curiae granted. Motion of National Jury Project for leave to file a brief as amicus curiae granted. Motion of The Ethics Bureau at Yale for leave to file a brief as amicus curiae granted. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Louisiana for further consideration in light of Rippo v. Baker, 580 U.S. ----, 137 S.Ct. 905, 197 L.Ed.2d 167 (2017)."
+    ],
+    "corrections": "",
+    "head_matter": "Rogers LACAZE, petitioner,\nv.\nLOUISIANA.\nNo. 16-1125.\nSupreme Court of the United States\nOct. 2, 2017.\nOn petition for writ of certiorari to the Supreme Court of Louisiana. Motion of Louisiana Association of Criminal Defense Lawyers, et al. for leave to file a brief as amici curiae granted. Motion of National Jury Project for leave to file a brief as amicus curiae granted. Motion of The Ethics Bureau at Yale for leave to file a brief as amicus curiae granted. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Louisiana for further consideration in light of Rippo v. Baker, 580 U.S. ----, 137 S.Ct. 905, 197 L.Ed.2d 167 (2017)."
+  },
+  "file_name": "0060-06",
+  "first_page_order": 60,
+  "last_page_order": 61
+}

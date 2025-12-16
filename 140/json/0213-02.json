@@ -1,0 +1,64 @@
+{
+  "id": 12626451,
+  "name": "David WOOD, Petitioner v. TEXAS.",
+  "name_abbreviation": "Wood v. Texas",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9262",
+  "first_page": "213",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 213"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 67"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 180,
+    "sha256": "2bbe29142fdfb30cdd09044be3af369273746c7373ed46e07cb790a33654aa92",
+    "simhash": "1:68af24fee381119c",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David WOOD, Petitioner\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "David WOOD, Petitioner\nv.\nTEXAS.\nNo. 18-9262\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0213-02",
+  "first_page_order": 213,
+  "last_page_order": 213
+}

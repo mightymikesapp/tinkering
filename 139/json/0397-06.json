@@ -1,0 +1,64 @@
+{
+  "id": 12622661,
+  "name": "William SAPPINGTON, petitioner, v. Bill OLDHAM, Sheriff, Shelby County, Tennessee.",
+  "name_abbreviation": "Sappington v. Oldham",
+  "decision_date": "2018-10-15",
+  "docket_number": "No. 17\u20136147.",
+  "first_page": "397",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 397"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 205,
+    "sha256": "ff025989a9fc65f619dd7b8f02304cd5029149835f9ed948ad738d98aab1bf53",
+    "simhash": "1:61af50325e895165",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William SAPPINGTON, petitioner,\nv.\nBill OLDHAM, Sheriff, Shelby County, Tennessee."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "William SAPPINGTON, petitioner,\nv.\nBill OLDHAM, Sheriff, Shelby County, Tennessee.\nNo. 17-6147.\nSupreme Court of the United States\nOct. 15, 2018.\nMotion for leave to file a petition for rehearing denied."
+  },
+  "file_name": "0397-06",
+  "first_page_order": 397,
+  "last_page_order": 397
+}

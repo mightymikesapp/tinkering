@@ -1,0 +1,62 @@
+{
+  "id": 12624492,
+  "name": "Jean COULTER, petitioner, v. Thomas FORREST, et al.",
+  "name_abbreviation": "Coulter v. Forrest",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20131538.",
+  "first_page": "86",
+  "last_page": "86",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 86"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 26"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 212,
+    "sha256": "dc0cf90a7311b9027efd0f22aed7a7214ae515af0bdcb7c771b4ebd29eb7129a",
+    "simhash": "1:a0c760141a918d80",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jean COULTER, petitioner,\nv.\nThomas FORREST, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jean COULTER, petitioner,\nv.\nThomas FORREST, et al.\nNo. 17-1538.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Harrisburg Office denied."
+  },
+  "file_name": "0086-02",
+  "first_page_order": 86,
+  "last_page_order": 86
+}

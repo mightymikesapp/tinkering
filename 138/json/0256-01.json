@@ -1,0 +1,64 @@
+{
+  "id": 12613137,
+  "name": "In Re Robert GLASSGOW, petitioner.",
+  "name_abbreviation": "In re Glassgow",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135380.",
+  "first_page": "256",
+  "last_page": "256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 256"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "ebb9718aba5829b2f7ffd17813dc587b8f92e3a0b27ee764fef7b11797e429f5",
+    "simhash": "1:6f4e00369ab8c711",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Robert GLASSGOW, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Robert GLASSGOW, petitioner.\nNo. 17-5380.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0256-01",
+  "first_page_order": 256,
+  "last_page_order": 256
+}

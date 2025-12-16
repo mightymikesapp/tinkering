@@ -1,0 +1,64 @@
+{
+  "id": 12629529,
+  "name": "Robert GRAY, Petitioner v. UNITED STATES.",
+  "name_abbreviation": "Gray v. United States",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 19-5699",
+  "first_page": "557",
+  "last_page": "557",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 557"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 361"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "b4188675d99476a91f07e66f838ec5ae6cb392df6089ff2322c3deb2f11354e0",
+    "simhash": "1:f7ad64c43385d70d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert GRAY, Petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert GRAY, Petitioner\nv.\nUNITED STATES.\nNo. 19-5699\nSupreme Court of the United States.\nNovember 25, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0557-01",
+  "first_page_order": 557,
+  "last_page_order": 557
+}

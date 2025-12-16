@@ -1,0 +1,62 @@
+{
+  "id": 12631047,
+  "name": "In the MATTER OF DISBARMENT OF Bruce B. MCLEOD, III.",
+  "name_abbreviation": "In re McLeod",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. D-3045",
+  "first_page": "988",
+  "last_page": "988",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 988"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "084cbfd621177c7033abcdad96187d866229757c3bb8e65d7ff21683f9e73e8c",
+    "simhash": "1:e225d41eae2c03f4",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the MATTER OF DISBARMENT OF Bruce B. MCLEOD, III."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the MATTER OF DISBARMENT OF Bruce B. MCLEOD, III.\nNo. D-3045\nSupreme Court of the United States.\nJanuary 27, 2020\nDisbarment order entered."
+  },
+  "file_name": "0988-06",
+  "first_page_order": 988,
+  "last_page_order": 988
+}

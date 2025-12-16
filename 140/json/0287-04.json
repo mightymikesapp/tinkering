@@ -1,0 +1,64 @@
+{
+  "id": 12628246,
+  "name": "Moses SHEPARD, Petitioner v. UNITED STATES.",
+  "name_abbreviation": "Shepard v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5722",
+  "first_page": "287",
+  "last_page": "287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 287"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "bc172e4f088241cb7d3eafd8f1e889b094aabd67dfe7a845661e0fceb15b327d",
+    "simhash": "1:eaad76c6b7845125",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Moses SHEPARD, Petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Moses SHEPARD, Petitioner\nv.\nUNITED STATES.\nNo. 19-5722\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0287-04",
+  "first_page_order": 287,
+  "last_page_order": 287
+}

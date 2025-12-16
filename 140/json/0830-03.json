@@ -1,0 +1,64 @@
+{
+  "id": 12630256,
+  "name": "Dijon Rasheed BROWN, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6603",
+  "first_page": "830",
+  "last_page": "830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 830"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 488"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 216,
+    "sha256": "8717bcb14af77b691d24912309b1966cafdc5d44ad8838e08db8444d0e5301cf",
+    "simhash": "1:f0af7446290c17a0",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dijon Rasheed BROWN, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dijon Rasheed BROWN, Petitioner\nv.\nUNITED STATES\nNo. 19-6603\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0830-03",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12615526,
+  "name": "In the Matter of DISBARMENT OF Eric A. KLEIN.",
+  "name_abbreviation": "In re Klein",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. D\u20132975.",
+  "first_page": "496",
+  "last_page": "496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 496"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 379"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 135,
+    "sha256": "a7cead8cac2c0aff0963cf044b8584bb6b8be6bdaf42a9edd3e3786c31543a8d",
+    "simhash": "1:b0205544b62075e1",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Eric A. KLEIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Eric A. KLEIN.\nNo. D-2975.\nSupreme Court of the United States\nNov. 27, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0496-06",
+  "first_page_order": 496,
+  "last_page_order": 496
+}

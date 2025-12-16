@@ -1,0 +1,64 @@
+{
+  "id": 12612204,
+  "name": "MARYLAND, petitioner, v. Joseph NORMAN, Jr.",
+  "name_abbreviation": "Maryland v. Norman",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20131547.",
+  "first_page": "174",
+  "last_page": "174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 174"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 183,
+    "sha256": "ccf7e05ccce916f5eeb649281a14f1e750ab4a1e6be09b1ee553579675de4d77",
+    "simhash": "1:72bfc44d3ee714b9",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MARYLAND, petitioner,\nv.\nJoseph NORMAN, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Maryland denied."
+    ],
+    "corrections": "",
+    "head_matter": "MARYLAND, petitioner,\nv.\nJoseph NORMAN, Jr.\nNo. 16-1547.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the Court of Appeals of Maryland denied."
+  },
+  "file_name": "0174-02",
+  "first_page_order": 174,
+  "last_page_order": 174
+}

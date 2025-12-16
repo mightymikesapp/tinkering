@@ -1,0 +1,64 @@
+{
+  "id": 12612240,
+  "name": "Kevin BURNS, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Burns v. Tennessee",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139681.",
+  "first_page": "179",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 179"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 206,
+    "sha256": "9e904352d7fce97396d9b0cfca96160ad56db4189139e22adcdf32f637d3a55f",
+    "simhash": "1:7bafa2fea6c990f3",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin BURNS, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin BURNS, petitioner,\nv.\nTENNESSEE.\nNo. 16-9681.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division denied."
+  },
+  "file_name": "0179-05",
+  "first_page_order": 179,
+  "last_page_order": 179
+}

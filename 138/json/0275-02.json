@@ -1,0 +1,64 @@
+{
+  "id": 12614123,
+  "name": "Willie STRONG, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Strong v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135586.",
+  "first_page": "275",
+  "last_page": "275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 275"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 176"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "dca34a5ef26dc99df3cdfe9f68d41311c02805f135644cb1137f3cc02ee4351f",
+    "simhash": "1:f32cc6d41f289701",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Willie STRONG, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Willie STRONG, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 17-5586.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0275-02",
+  "first_page_order": 275,
+  "last_page_order": 275
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12611190,
+  "name": "Roger HARRISON, et al., petitioners, v. Charlotte HUGGINS, et al.",
+  "name_abbreviation": "Harrison v. Huggins",
+  "decision_date": "2018-03-26",
+  "docket_number": "No. 17\u20137881.",
+  "first_page": "1341",
+  "last_page": "1341",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1341"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 525"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 223,
+    "sha256": "a95a195eed4108283c64511b0b32355346ad657660f11a7cdba06cf0ae1cdcdf",
+    "simhash": "1:5aa2fc041a902594",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roger HARRISON, et al., petitioners,\nv.\nCharlotte HUGGINS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Fourth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roger HARRISON, et al., petitioners,\nv.\nCharlotte HUGGINS, et al.\nNo. 17-7881.\nSupreme Court of the United States\nMarch 26, 2018.\nPetition for writ of certiorari to the Appellate Court of Illinois, Fourth District denied."
+  },
+  "file_name": "1341-04",
+  "first_page_order": 1341,
+  "last_page_order": 1341
+}

@@ -1,0 +1,114 @@
+{
+  "id": 12618153,
+  "name": "Charles FOXX, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Foxx v. United States",
+  "decision_date": "2019-02-25",
+  "docket_number": "No. 18\u20137448.",
+  "first_page": "1276",
+  "last_page": "1276",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1276"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 296"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "202 L.Ed.2d 302",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12622506,
+        12622507,
+        12622508,
+        12618957,
+        12622511
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": " Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0373-06",
+        "/s-ct/139/0374-01",
+        "/s-ct/139/0374-02",
+        "/s-ct/139/0014-01",
+        "/s-ct/139/0374-05"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 14",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12618957
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": " Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0014-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 449,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636159482657097
+    },
+    "sha256": "8001ea3124744b9565fc6b8e2ceb1d90fcbe4d851666ea08d3b92441a58aef89",
+    "simhash": "1:b0a9b686ab25d109",
+    "word_count": 71
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles FOXX, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.",
+      "Justice SOTOMAYOR, with whom Justice GINSBURG joins, dissenting from the denial of certiorari: I dissent for the reasons set out in Brown v. United States, 586 U.S. ----, 139 S.Ct. 14, 202 L.Ed.2d 302 (2018) ( Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Charles FOXX, petitioner,\nv.\nUNITED STATES.\nNo. 18-7448.\nSupreme Court of the United States\nFeb. 25, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied.\nJustice SOTOMAYOR, with whom Justice GINSBURG joins, dissenting from the denial of certiorari: I dissent for the reasons set out in Brown v. United States, 586 U.S. ----, 139 S.Ct. 14, 202 L.Ed.2d 302 (2018) ( Sotomayor, J., dissenting)."
+  },
+  "file_name": "1276-05",
+  "first_page_order": 1276,
+  "last_page_order": 1276
+}

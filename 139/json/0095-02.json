@@ -1,0 +1,64 @@
+{
+  "id": 12624859,
+  "name": "John GARCIA, petitioner, v. TEXAS.",
+  "name_abbreviation": "Garcia v. Texas",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138928.",
+  "first_page": "95",
+  "last_page": "95",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 95"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 60"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 192,
+    "sha256": "176cc69fc929dd32c09be5d86a1e9f5df2588419951979a1ece5e422890c2283",
+    "simhash": "1:f1af201e7ac70498",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John GARCIA, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Thirteenth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "John GARCIA, petitioner,\nv.\nTEXAS.\nNo. 17-8928.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Court of Appeals of Texas, Thirteenth District denied."
+  },
+  "file_name": "0095-02",
+  "first_page_order": 95,
+  "last_page_order": 95
+}

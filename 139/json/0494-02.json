@@ -1,0 +1,64 @@
+{
+  "id": 12623219,
+  "name": "Cheryl SINGLETON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Singleton v. United States",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18\u20136300.",
+  "first_page": "494",
+  "last_page": "494",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 494"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 386"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 215,
+    "sha256": "c6f30c6e561b73d12c8165952e3692e7d7c26ec6b0b3b6f9194eee1b361b92e1",
+    "simhash": "1:70ad7444270cd299",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cheryl SINGLETON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cheryl SINGLETON, petitioner,\nv.\nUNITED STATES.\nNo. 18-6300.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0494-02",
+  "first_page_order": 494,
+  "last_page_order": 494
+}

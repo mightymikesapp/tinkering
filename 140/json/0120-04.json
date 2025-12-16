@@ -1,0 +1,64 @@
+{
+  "id": 12625340,
+  "name": "Desroy A. CLARKE, Petitioner, v. William P. BARR, Attorney General.",
+  "name_abbreviation": "Clarke v. Barr",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9685",
+  "first_page": "120",
+  "last_page": "120",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 120"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 234,
+    "sha256": "7ec671ed495279655ec89d46901bce227ef34cc580979ee244edd46ef5a28c17",
+    "simhash": "1:faad56ec3f4001cf",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Desroy A. CLARKE, Petitioner,\nv.\nWilliam P. BARR, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Desroy A. CLARKE, Petitioner,\nv.\nWilliam P. BARR, Attorney General.\nNo. 18-9685\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0120-04",
+  "first_page_order": 120,
+  "last_page_order": 120
+}

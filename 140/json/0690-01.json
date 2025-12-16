@@ -1,0 +1,770 @@
+{
+  "id": 12630089,
+  "name": "Howard L. BALDWIN, Et Ux. v. UNITED STATES",
+  "name_abbreviation": "Baldwin v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-402",
+  "first_page": "690",
+  "last_page": "695",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 690"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "142 U.S. 615",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3557650
+      ],
+      "weight": 3,
+      "year": 1892,
+      "pin_cites": [
+        {
+          "page": "621"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/142/0615-01"
+      ]
+    },
+    {
+      "cite": "9 Wheat. 738",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1421282
+      ],
+      "weight": 2,
+      "year": 1824,
+      "pin_cites": [
+        {
+          "page": "866",
+          "parenthetical": "Marshall, C. J., for the Court"
+        },
+        {
+          "parenthetical": "Marshall, C. J., for the Court"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/22/0738-01"
+      ]
+    },
+    {
+      "cite": "128 U.S. 40",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3533983
+      ],
+      "weight": 3,
+      "year": 1888,
+      "pin_cites": [
+        {
+          "page": "48-49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/128/0040-01"
+      ]
+    },
+    {
+      "cite": "14 Pet. 497",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3335339
+      ],
+      "weight": 2,
+      "year": 1840,
+      "pin_cites": [
+        {
+          "page": "515"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/39/0497-01"
+      ]
+    },
+    {
+      "cite": "12 Pet. 524",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5619741
+      ],
+      "weight": 2,
+      "year": 1838,
+      "pin_cites": [
+        {
+          "page": "610"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/37/0524-01"
+      ]
+    },
+    {
+      "cite": "70 U. Chi. L. Rev. 519",
+      "category": "journals:journal",
+      "reporter": "U. Chi. L. Rev.",
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "551-552, n. 137"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Va. L. Rev. 1",
+      "category": "journals:journal",
+      "reporter": "Va. L. Rev.",
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "14-21"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Mass. 122",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "year": 1821,
+      "pin_cites": [
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Va. 31",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        6724977,
+        6725039
+      ],
+      "year": 1808,
+      "pin_cites": [
+        {
+          "page": "36",
+          "parenthetical": "opinion of Roane, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/12/0322-01",
+        "/va/12/0322-02"
+      ]
+    },
+    {
+      "cite": "1 L.Ed. 316",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1791,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Dall. 124",
+      "category": "reporters:scotus_early",
+      "reporter": "Dall.",
+      "case_ids": [
+        11737307
+      ],
+      "year": 1791,
+      "pin_cites": [
+        {
+          "page": "125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/2/0124-01"
+      ]
+    },
+    {
+      "cite": "2 L.Ed. 115",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        12123072
+      ],
+      "year": 1803,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[I]t is sufficient to observe, that practice and acquiescence under [a statute] for a period of several years, commencing with the organization of the judicial system, affords an irrefutable answer, and has indeed fixed the construction\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/5/0299-01"
+      ]
+    },
+    {
+      "cite": "1 Cranch 299",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        12123072,
+        6764438
+      ],
+      "year": 1803,
+      "pin_cites": [
+        {
+          "page": "309",
+          "parenthetical": "\"[I]t is sufficient to observe, that practice and acquiescence under [a statute] for a period of several years, commencing with the organization of the judicial system, affords an irrefutable answer, and has indeed fixed the construction\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/5/0299-01",
+        "/dc/1/0299-01"
+      ]
+    },
+    {
+      "cite": "137 U.S. 542",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3546423
+      ],
+      "weight": 5,
+      "year": 1890,
+      "pin_cites": [
+        {
+          "page": "552"
+        },
+        {
+          "page": "552"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/137/0542-01"
+      ]
+    },
+    {
+      "cite": "8 How. 48",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3350275
+      ],
+      "weight": 2,
+      "year": 1850,
+      "pin_cites": [
+        {
+          "page": "68",
+          "parenthetical": "similar"
+        },
+        {
+          "parenthetical": "similar"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/49/0048-01"
+      ]
+    },
+    {
+      "cite": "6 Pet. 29",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        1439708
+      ],
+      "weight": 2,
+      "year": 1832,
+      "pin_cites": [
+        {
+          "page": "39-40"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/31/0029-01"
+      ]
+    },
+    {
+      "cite": "12 Wheat. 206",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        1429927
+      ],
+      "weight": 2,
+      "year": 1827,
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/25/0206-01"
+      ]
+    },
+    {
+      "cite": "15 Pet. 141",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3332065
+      ],
+      "weight": 4,
+      "year": 1841,
+      "pin_cites": [
+        {
+          "page": "161-162",
+          "parenthetical": "Story, J., for the Court"
+        },
+        {
+          "parenthetical": "Story, J., for the Court"
+        },
+        {
+          "page": "161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/40/0141-01"
+      ]
+    },
+    {
+      "cite": "13 Wall. 72",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        1134243
+      ],
+      "weight": 3,
+      "year": 1871,
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/80/0072-01"
+      ]
+    },
+    {
+      "cite": "126 Yale L. J. 908",
+      "category": "journals:journal",
+      "reporter": "Yale L.J.",
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "948"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 Texas L. Rev. 113",
+      "category": "journals:journal",
+      "reporter": "Tex. L. Rev.",
+      "weight": 2,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Harv. L. Rev. 899",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 1943,
+      "pin_cites": [
+        {
+          "page": "901"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "325 U.S. 365",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6156422
+      ],
+      "weight": 5,
+      "year": 1945,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/325/0365-01"
+      ]
+    },
+    {
+      "cite": "5 U.S.C. \u00a7 706",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "533 U.S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9313070
+      ],
+      "weight": 3,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "241",
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "parenthetical": "Scalia, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/533/0218-01"
+      ]
+    },
+    {
+      "cite": "135 S.Ct. 1225",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12587356
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "THOMAS, J., concurring in judgment"
+        },
+        {
+          "parenthetical": "THOMAS, J., concurring in judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/1225-01"
+      ]
+    },
+    {
+      "cite": "575 U.S. 43",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "74",
+          "parenthetical": "THOMAS, J., concurring in judgment"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 S.Ct. 2699",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591135
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "2712",
+          "parenthetical": "THOMAS, J., concurring"
+        },
+        {
+          "parenthetical": "THOMAS, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2699-01"
+      ]
+    },
+    {
+      "cite": "576 U.S. 743",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "THOMAS, J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 S.Ct. 1199",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12587337
+      ],
+      "weight": 8,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "opinion concurring in judgment"
+        },
+        {
+          "parenthetical": "opinion concurring in judgment"
+        },
+        {
+          "parenthetical": "opinion concurring in judgment"
+        },
+        {
+          "parenthetical": "opinion concurring in judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/1199-01"
+      ]
+    },
+    {
+      "cite": "575 U.S. 92",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "119",
+          "parenthetical": "opinion concurring in judgment"
+        },
+        {
+          "page": "114, n. 1",
+          "parenthetical": "opinion concurring in judgment"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 L.Ed. 173",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "pin_cites": [
+        {
+          "parenthetical": "Jackson, J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "340 U.S. 162",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930984
+      ],
+      "weight": 2,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "178",
+          "parenthetical": "Jackson, J., concurring"
+        },
+        {
+          "parenthetical": "Jackson, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/340/0162-01"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 2080",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12612833
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "2100",
+          "parenthetical": "THOMAS, J., concurring"
+        },
+        {
+          "parenthetical": "THOMAS, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/2080-01"
+      ]
+    },
+    {
+      "cite": "921 F.3d 836",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12520851
+      ],
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "843"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/921/0836-01"
+      ]
+    },
+    {
+      "cite": "26 CFR \u00a7 301.7502-1",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "(e)(2)(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 U.S.C. \u00a7 7502",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "966 F.2d 487",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521489
+      ],
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "489",
+          "parenthetical": "interpreting 26 U.S.C. \u00a7 7502 "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/966/0487-01"
+      ]
+    },
+    {
+      "cite": "545 U.S. 967",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8210237
+      ],
+      "weight": 6,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "982"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/545/0967-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 8,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "844"
+        },
+        {
+          "page": "843"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1067,
+    "char_count": 19744,
+    "pagerank": {
+      "raw": 4.643594115661138e-08,
+      "percentile": 0.29184732391734036
+    },
+    "sha256": "c3af1a104476190690c09aa64c2a41be24c5a06b81503573ef07536cefd0af70",
+    "simhash": "1:a4b2535a72758ea9",
+    "word_count": 3142
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Howard L. BALDWIN, Et Ux.\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "Justice THOMAS, dissenting from the denial of certiorari.\nUnder Chevron deference, courts generally must adopt an agency's interpretation of an ambiguous statute if that interpretation is \"reasonable.\" Chevron U.S. A. Inc. v. Natural Resources Defense Council, Inc. , 467 U.S. 837, 844, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984). Usually, the agency interprets the statute before any court has considered the question. But sometimes, the agency advances an interpretation after a court has already weighed in. In the latter instance, we have held that it \"follows from Chevron \" that a court must abandon its previous interpretation in favor of the agency's interpretation unless the prior court decision holds that the statute is unambiguous. National Cable & Telecommunications Assn. v. Brand X Internet Services , 545 U.S. 967, 982, 125 S.Ct. 2688, 162 L.Ed.2d 820 (2005).\nThis petition asks us to reconsider Brand X . In 1992, the Ninth Circuit interpreted a deadline for requesting a refund from the Internal Revenue Service (IRS). See Anderson v. United States , 966 F.2d 487, 489 (2019) (interpreting 26 U.S.C. \u00a7 7502 ). Nineteen years later-and two months after petitioners claim to have mailed their paperwork to the IRS-the Treasury Department adopted a different interpretation through an informal rulemaking. See 26 CFR \u00a7 301.7502-1(e)(2)(i) (2012). When petitioners sued the IRS to recover their refund, the Ninth Circuit followed Brand X , deferred to the agency's new interpretation, and rejected petitioners' claim. 921 F.3d 836, 843 (2019).\nAlthough I authored Brand X , \"it is never too late to 'surrende[r] former views to a better considered position.' \" South Dakota v. Wayfair , Inc. , 585 U.S. ----, ----, 138 S.Ct. 2080, 2100, 201 L.Ed.2d 403 (2018) (THOMAS, J., concurring) (quoting McGrath v. Kristensen , 340 U.S. 162, 178, 71 S.Ct. 224, 95 L.Ed. 173 (1950) (Jackson, J., concurring)). Brand X appears to be inconsistent with the Constitution, the Administrative Procedure Act (APA), and traditional tools of statutory interpretation. Because I would revisit Brand X , I respectfully dissent from the denial of certiorari.\nI\nMy skepticism of Brand X begins at its foundation- Chevron deference. In 1984, a bare quorum of six Justices decided Chevron . The Court reasoned that \"if [a] statute is silent or ambiguous with respect to the specific issue, the question for the court is whether the agency's answer is based on a permissible construction of the statute.\" 467 U.S. at 843, 104 S.Ct. 2778. The decision rests on the fiction that silent or ambiguous statutes are an implicit delegation from Congress to agencies. Id. , at 843-844, 104 S.Ct. 2778. Chevron is in serious tension with the Constitution, the APA, and over 100 years of judicial decisions.\nA\nChevron compels judges to abdicate the judicial power without constitutional sanction. The Vesting Clause of Article III gives \"[t]he judicial Power of the United States\" to \"one supreme Court, and ... such inferior Courts as the Congress may from time to time ordain and establish.\" \u00a7 1. As I have previously explained, \"the judicial power, as originally understood, requires a court to exercise its independent judgment in interpreting and expounding upon the laws.\" Perez v. Mortgage Bankers Assn. , 575 U.S. 92, 119, 135 S.Ct. 1199, 191 L.Ed.2d 186 (2015) (opinion concurring in judgment). The Framers anticipated that legal texts would sometimes be ambiguous, and they understood the judicial power \"to include the power to resolve these ambiguities over time\" in judicial proceedings. Ibid. The Court's decision in Chevron , however, \"precludes judges from exercising that judgment.\" Michigan v. EPA , 576 U.S. 743, ----, 135 S.Ct. 2699, 2712, 192 L.Ed.2d 674 (2015) (THOMAS, J., concurring) (quoting Perez , supra , at 119, 135 S.Ct. 1199 (THOMAS, J., concurring in judgment)).\nChevron also gives federal agencies unconstitutional power. Executive agencies enjoy only \"the executive Power.\" Art. II, \u00a7 1. But when they receive Chevron deference, they arguably exercise \"[t]he judicial Power of the United States,\" which is vested in the courts. Chevron cannot be salvaged by saying instead that agencies are \"engaged in the 'formulation of policy.' \" Michigan , supra , at ----, 135 S.Ct. at, 2713 (THOMAS, J., concurring) (quoting Chevron , supra , at 843, 104 S.Ct. 2778 ). If that is true, then agencies are unconstitutionally exercising \"legislative Powers\" vested in Congress. See Art. I, \u00a7 1.\nThis apparent abdication by the Judiciary and usurpation by the Executive is not a harmless transfer of power. The Constitution carefully imposes structural constraints on all three branches, and the exercise of power free of those accompanying restraints subverts the design of the Constitution's ratifiers. The Constitution shielded judges from both the \"external threats\" of politics and \"the 'internal threat' of 'human will' \" by providing tenure and salary protections during good behavior and by insulating judges from the process of writing the laws they are asked to interpret. Perez , supra , at 120, 135 S.Ct. 1199 (THOMAS, J., concurring in judgment) (quoting P. Hamburger, Law and Judicial Duty 507, 508 (2008)). The Constitution also restricted the legislative power by dividing it between two Houses that check each other, one of which was kept close to the people through biennial elections. See Department of Transportation v. Association of American Railroads , 575 U.S. 43, 74, 135 S.Ct. 1225, 191 L.Ed.2d 153 (2015) (THOMAS, J., concurring in judgment). When the Executive exercises judicial or legislative power, however, it does so largely free of these safeguards. The Executive is not insulated from external threats, and it is by definition an agent of will, not judgment. The Executive also faces election less frequently than do Members of the House, and its power is vested in a single person.\nPerhaps worst of all, Chevron deference undermines the ability of the Judiciary to perform its checking function on the other branches. The Founders expected that the Federal Government's powers would remain separated-and the people's liberty secure-only if the branches could check each other. The Judiciary's checking power is its authority to apply the law in cases or controversies properly before it. See Michigan , supra , at ----, n. 1, 135 S.Ct. at, 2713, n. 1 (THOMAS, J., concurring); Perez , supra , at 124-126, 135 S.Ct. 1199 (THOMAS, J., concurring in judgment). When the Executive is free to dictate the outcome of cases through erroneous interpretations, the courts cannot check the Executive by applying the correct interpretation of the law.\nB\nChevron deference appears to be inappropriate in many cases for another reason: It is likely contrary to the APA, \"which [ Chevron ] did not even bother to cite.\" United States v. Mead Corp. , 533 U.S. 218, 241, 121 S.Ct. 2164, 150 L.Ed.2d 292 (2001) (Scalia, J., dissenting). The APA provides that, \"[t]o the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law, interpret constitutional and statutory provisions, and determine the meaning or applicability of the terms of an agency action.\" 5 U.S.C. \u00a7 706. When the APA was enacted, the meaning of a statute was considered a question of law. The Court recognized as much in Trust of Bingham v. Commissioner , 325 U.S. 365, 65 S.Ct. 1232, 89 L.Ed. 1670 (1945), writing that questions about \"the meaning of the words of [the statute]\" were \"questions of law,\" id. , at 371, 65 S.Ct. 1232. See also Brown, Fact and Law in Judicial Review, 56 Harv. L. Rev. 899, 901 (1943) ; J. Thayer, Preliminary Treatise on Evidence at the Common Law 193 (1898). Moreover, \u00a7 706 \"places the court's duty to interpret statutes on an equal footing with its duty to interpret the Constitution, and courts never defer to agencies in reading the Constitution.\" Duffy, Administrative Common Law in Judicial Review, 77 Texas L. Rev. 113, 194 (1998). Finally, the deferential standards of review elsewhere in the APA-which require courts to \"hold unlawful and set aside agency action, findings, and conclusions found to be ... arbitrary, capricious, an abuse of discretion ... [or] unsupported by substantial evidence,\" \u00a7 706(2) -do not mention statutory interpretation. See id. , at 194. Even if Chevron raised no constitutional concerns, these statutory arguments give rise to serious doubts about Chevron 's legitimacy.\nC\nIn the past, I have left open the possibility that \"there is some unique historical justification for deferring to federal agencies.\" Michigan , supra , at ----, 135 S.Ct. at, 2713 (concurring opinion). It now appears to me that there is no such special justification and that Chevron is inconsistent with accepted principles of statutory interpretation from the first century of the Republic.\nFor most of the 19th century, there was no general federal-question jurisdiction. Instead, review was available in a common-law action, under certain limited grants of federal-question jurisdiction, or by extraordinary writ (such as a writ of mandamus). Bamzai, The Origins of Judicial Deference to Executive Interpretation, 126 Yale L. J. 908, 948 (2017).\nWhen 18th- and 19th-century courts decided questions of statutory interpretation in common-law actions or under federal-question jurisdiction, they did not apply anything resembling Chevron deference. Judges interpreted statutes according to their independent judgment. For example, in a lawsuit involving a federal land patent, the Court simply \"inquire[d] whether the statute, rightly construed, defeated [the respondent's] otherwise perfect right to the patent.\" Johnson v. Towsley, 13 Wall. 72, 88, 20 L.Ed. 485 (1871) ; see also id. , at 91. When courts disagreed with the Executive's interpretation, they gave no weight to it. See United States v. Dickson, 15 Pet. 141, 161-162, 10 L.Ed. 689 (1841) (Story, J., for the Court).\nCourts did apply traditional interpretive canons that accorded respect to certain contemporaneous, consistent interpretations of statutes by executive officers. See Bamzai, supra , at 933-947. In perhaps its most famous articulation, the Court wrote that \"[i]n the construction of a doubtful and ambiguous law, the contemporaneous construction of those who were called upon to act under the law, and were appointed to carry its provisions into effect, is entitled to very great respect.\" Edwards' Lessee v. Darby, 12 Wheat. 206, 210, 6 L.Ed. 603 (1827). The Court continued to apply this approach throughout the 19th century. See, e.g., United States v. State Bank of N. C., 6 Pet. 29, 39-40, 8 L.Ed. 308 (1832) (\"[T]he construction which we have given to the terms of the ac[t] is that which is understood to have been practically acted upon by the government, as well as by individuals, ever since its enactment.... We think the practice was founded in the true exposition of the terms and intent of the act: but if it were susceptible of some doubt, so long an acquiescence in it would justify us in yielding to it as a safe and reasonable exposition\"); Surgett v. Lapice, 8 How. 48, 68, 12 L.Ed. 982 (1850) (similar). And when the interpretation \"has not been uniform,\" the Court declined to give weight to executive interpretations. See Merritt v. Cameron , 137 U.S. 542, 552, 11 S.Ct. 174, 34 L.Ed. 772 (1890).\nThis practice is consistent with the more general principle of \"liquidation,\" in which consistent and longstanding interpretations of an ambiguous text could fix its meaning. See Stuart v. Laird, 1 Cranch 299, 309, 2 L.Ed. 115 (1803) (\"[I]t is sufficient to observe, that practice and acquiescence under [a statute] for a period of several years, commencing with the organization of the judicial system, affords an irrefutable answer, and has indeed fixed the construction\"); see also Respublica v. Roberts, 2 Dall. 124, 125, 1 L.Ed. 316 (Pa. 1791) ; Minnis v. Echols , 12 Va. 31, 36 (1808) (opinion of Roane, J.);\nPackard v. Richardson , 17 Mass. 122, 144 (1821) ; Nelson, Stare Decisis and Demonstrably Erroneous Precedents, 87 Va. L. Rev. 1, 14-21 (2001). Chevron is not a species of liquidation because it \"give[s] administrative agencies substantially more freedom to depart from settled understandings.\" Nelson, Originalism and Interpretive Conventions, 70 U. Chi. L. Rev. 519, 551-552, n. 137 (2003). But the existence of liquidation by nonexecutive actors confirms that \"the pedigree and contemporaneity of the interpretation\" mattered in the early Republic, not the mere fact that it was an interpretation by the Executive. Bamzai, supra , at 916.\nThe standard applied in mandamus cases might appear to be a forerunner of Chevron deference, but the comparison dissipates upon close examination. In mandamus cases, courts generally would not second-guess legal interpretations made \"in the discharge of any official duty, partaking in any respect of an executive character,\" but they would \"enforce the performance of a mere ministerial act.\" Kendall v. United States ex rel. Stokes, 12 Pet. 524, 610, 9 L.Ed. 1181 (1838). The \"application of th[is] mandamus standard was a consequence solely of the form of relief requested,\" not a requirement that courts defer to the Executive's reasonable interpretation of a statute. Bamzai, 126 Yale L. J., at 958. The Court even acknowledged in mandamus cases that \"[i]f a suit should come before this Court, which involved the construction of any of these laws, the Court certainly would not be bound to adopt the construction given by the head of a department.\" Decatur v. Paulding, 14 Pet. 497, 515, 10 L.Ed. 559 (1840) ; see also United States ex rel. Dunlap v. Black , 128 U.S. 40, 48-49, 9 S.Ct. 12, 32 L.Ed. 354 (1888).\nThe rule in Chevron thus differs from historical practice in at least four ways. First, it requires deference regardless of whether the interpretation began around the time of the statute's enactment (and thus might reflect the statute's original meaning). Second, it requires deference regardless of whether an agency has changed its position. Third, it requires deference regardless of whether the agency's interpretation has the sanction of long practice. And fourth, it applies in actions in which courts historically have interpreted statutes independently.\nII\nEven if Chevron deference were sound, I have become increasingly convinced that Brand X was still wrongly decided because it is even more inconsistent with the Constitution and traditional tools of statutory interpretation than Chevron .\nA\nBy requiring courts to overrule their own precedent simply because an agency later adopts a different interpretation of a statute, Brand X likely conflicts with Article III of the Constitution. The Constitution imposes a duty on judges to exercise the judicial power. See supra , at 690. That power is to be exercised \"for the purpose of giving effect to the will of the Legislature; or, in other words, to the will of the law.\" Osborn v. Bank of United States, 9 Wheat. 738, 866, 6 L.Ed. 204 (1824) (Marshall, C. J., for the Court). But Brand X directs courts to give effect to the will of the Executive by depriving judges of the ability to follow their own precedent. This rule raises grave Article III concerns, no less than if it allowed judges to substitute their policy preferences for the original meaning of a statute.\nThe Article III duty to decide cases even when the Executive disagrees with the conclusion has long been recognized by this Court. In a statutory interpretation case in 1841, the Court acknowledged \"the uniform construction given to the act ... ever since its passage, by the Treasury Department,\" but stated that \"if it is not in conformity to the true intendment and provisions of the law, it cannot be permitted to conclude the judgment of a Court of justice.\" Dickson , 15 Pet. at 161. Justice Story, writing for the Court, admonished that\n\"it is not to be forgotten, that ours is a government of laws, and not of men; and that the Judicial Department has imposed upon it, by the Constitution, the solemn duty to interpret the laws, in the last resort; and however disagreeable that duty may be, in cases where its own judgment shall differ from that of other high functionaries, it is not at liberty to surrender, or to waive it.\" Id. , at 162.\nBrand X is in serious tension with this understanding of Article III.\nBrand X takes on the constitutional deficiencies of Chevron and exacerbates them. Chevron requires judges to surrender their independent judgment to the will of the Executive, see supra , at 691; Brand X forces them to do so despite a controlling precedent. Chevron transfers power to agencies, see supra , at 691; Brand X gives agencies the power to effectively overrule judicial precedents. Chevron withdraws a crucial check on the Executive from the separation of powers, see supra , at 692; Brand X gives the Executive the ability to neutralize a previously exercised check by the Judiciary. But, with this said, there is no need to question Chevron in order to recognize the heightened constitutional harms wrought by Brand X .\nB\nBrand X also seems to be strongly at odds with traditional tools of statutory interpretation. As discussed above, early federal courts afforded weight to longstanding executive interpretations of a law that were made contemporaneously with its passage and that were uniformly maintained. See supra , at 692 - 694. Brand X , however, mandates deference to an executive interpretation that is neither contemporaneous nor settled.\nUnder traditional rules of statutory interpretation, this Court declined to give weight to late-arising or inconsistent statutory interpretations by the Executive. In Merritt v. Cameron , for example, the Court rejected an interpretation offered by the Executive because there was no \"long and uninterrupted ... departmental construction ... as will bring the case within the rule announced at an early day in this court, and followed in very many cases.\" 137 U.S. at 552, 11 S.Ct. 174 ; see also United States v. Alabama Great Southern R. Co. , 142 U.S. 615, 621, 12 S.Ct. 306, 35 L.Ed. 1134 (1892). Even if only to resolve the tension with our traditional approach to statutory interpretation, we should revisit Brand X .\nIII\nRegrettably, Brand X has taken this Court to the precipice of administrative absolutism. Under its rule of deference, agencies are free to invent new (purported) interpretations of statutes and then require courts to reject their own prior interpretations. Brand X may well follow from Chevron , but in so doing, it poignantly lays bare the flaws of our entire executive-deference jurisprudence. Even if the Court is not willing to question Chevron itself, at the very least, we should consider taking a step away from the abyss by revisiting Brand X .\nAs I have previously noted, Chevron arguably sets out an \"interpretive too[l]\" and so may not be entitled to stare decisis treatment. Perez v. Mortgage Bankers Assn. , 575 U.S. 92, 114, n. 1, 135 S.Ct. 1199, 191 L.Ed.2d 186 (2015) (opinion concurring in judgment) (citing C. Nelson, Statutory Interpretation 701 (2011)). The same can be said of National Cable & Telecommunications Assn. v. Brand X Internet Services , 545 U.S. 967, 125 S.Ct. 2688, 162 L.Ed.2d 820 (2005).\nThe phrasing and substance of these canons vary, and I express no opinion on their details, such as whether congressional acquiescence in a longstanding interpretation was required. See P. Hamburger, Is Administrative Law Unlawful? 583, n. 24 (2014).",
+        "type": "majority",
+        "author": "Justice THOMAS, dissenting from the denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The petition for a writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Howard L. BALDWIN, Et Ux.\nv.\nUNITED STATES\nNo. 19-402\nSupreme Court of the United States.\nDecided February 24, 2020\nThe petition for a writ of certiorari is denied."
+  },
+  "file_name": "0690-01",
+  "first_page_order": 690,
+  "last_page_order": 695
+}

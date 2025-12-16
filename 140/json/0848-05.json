@@ -1,0 +1,64 @@
+{
+  "id": 12630345,
+  "name": "MAKO ONE CORPORATION, et al., Petitioners, v. CEDAR RAPIDS BANK AND TRUST COMPANY.",
+  "name_abbreviation": "Mako One Corp. v. Cedar Rapids Bank & Trust Co.",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-709",
+  "first_page": "848",
+  "last_page": "848",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 848"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 249,
+    "sha256": "fe9465548366f6490cb089130542590730835733f7789116740ca7198c7b653b",
+    "simhash": "1:ec9f76442104b3a8",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MAKO ONE CORPORATION, et al., Petitioners,\nv.\nCEDAR RAPIDS BANK AND TRUST COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "MAKO ONE CORPORATION, et al., Petitioners,\nv.\nCEDAR RAPIDS BANK AND TRUST COMPANY.\nNo. 19-709\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0848-05",
+  "first_page_order": 848,
+  "last_page_order": 848
+}

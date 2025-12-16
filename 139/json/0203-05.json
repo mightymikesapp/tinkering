@@ -1,0 +1,64 @@
+{
+  "id": 12620396,
+  "name": "Mark O. WRIGHT, petitioner, v. VIRGINIA.",
+  "name_abbreviation": "Wright v. Virginia",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135027.",
+  "first_page": "203",
+  "last_page": "203",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 203"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 177,
+    "sha256": "eb4c35574a7da4a990e396e90960c4b03a76a371e211e9617cfa21a2e40a57e1",
+    "simhash": "1:e1a6001c78c724b8",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark O. WRIGHT, petitioner,\nv.\nVIRGINIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark O. WRIGHT, petitioner,\nv.\nVIRGINIA.\nNo. 18-5027.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Supreme Court of Virginia denied."
+  },
+  "file_name": "0203-05",
+  "first_page_order": 203,
+  "last_page_order": 203
+}

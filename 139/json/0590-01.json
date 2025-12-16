@@ -1,0 +1,82 @@
+{
+  "id": 12623476,
+  "name": "MARKLE INTERESTS, L.L.C., et al., petitioners, v. UNITED STATES FISH AND WILDLIFE SERVICE, et al.",
+  "name_abbreviation": "Markle Interests, L.L.C. v. U.S. Fish & Wildlife Serv.",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 17\u201374.",
+  "first_page": "590",
+  "last_page": "590",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 590"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 423"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 361",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12622500
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0361-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 551,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636367989021754
+    },
+    "sha256": "3005e82b6b21714eb13d4135054c565d46020823b6638e896d2024152f362448",
+    "simhash": "1:6eed62c415cd16a9",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MARKLE INTERESTS, L.L.C., et al., petitioners,\nv.\nUNITED STATES FISH AND WILDLIFE SERVICE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Weyerhaeuser Co. v. United States Fish and Wildlife Serv., et al., 586 U.S. ----, 139 S.Ct. 361, ---L.Ed.2d ---- (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "MARKLE INTERESTS, L.L.C., et al., petitioners,\nv.\nUNITED STATES FISH AND WILDLIFE SERVICE, et al.\nNo. 17-74.\nSupreme Court of the United States\nDec. 3, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Weyerhaeuser Co. v. United States Fish and Wildlife Serv., et al., 586 U.S. ----, 139 S.Ct. 361, ---L.Ed.2d ---- (2018)."
+  },
+  "file_name": "0590-01",
+  "first_page_order": 590,
+  "last_page_order": 590
+}

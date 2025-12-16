@@ -1,0 +1,83 @@
+{
+  "id": 12612392,
+  "name": "Daniel Larios-VILLATORO, petitioner, v. UNITED STATES; Jaime Adrian Hernandez-Hernandez, petitioner v. United States.",
+  "name_abbreviation": "Larios-Villatoro v. United States",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 16\u20139660.",
+  "first_page": "1980",
+  "last_page": "1980",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1980"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1204",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610616
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 57,
+    "char_count": 708,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635956768135903
+    },
+    "sha256": "0f1008a76dd668e1a28afbfa8c28ceb365bd28ca022f100e270d18d2407e1881",
+    "simhash": "1:7e2df6060125c69d",
+    "word_count": 112
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel Larios-VILLATORO, petitioner,\nv.\nUNITED STATES; Jaime Adrian Hernandez-Hernandez, petitioner\nv.\nUnited States."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion for leave to proceed in forma pauperis and the petition for writ of certiorari as to Daniel Larios-Villatoro are granted. The judgment is vacated, and the case is remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018). The petition for writ of certiorari as to Jaime A. Hernandez-Hernandez denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel Larios-VILLATORO, petitioner,\nv.\nUNITED STATES; Jaime Adrian Hernandez-Hernandez, petitioner\nv.\nUnited States.\nNo. 16-9660.\nSupreme Court of the United States\nMay 14, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion for leave to proceed in forma pauperis and the petition for writ of certiorari as to Daniel Larios-Villatoro are granted. The judgment is vacated, and the case is remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018). The petition for writ of certiorari as to Jaime A. Hernandez-Hernandez denied."
+  },
+  "file_name": "1980-03",
+  "first_page_order": 1980,
+  "last_page_order": 1980
+}

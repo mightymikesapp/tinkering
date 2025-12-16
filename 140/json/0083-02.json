@@ -1,0 +1,64 @@
+{
+  "id": 12630249,
+  "name": "Gustavo GOMEZ, Petitioner v. CALIFORNIA.",
+  "name_abbreviation": "Gomez v. California",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9333",
+  "first_page": "83",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 83"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 72"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 206,
+    "sha256": "167c26083636089ce4949482ff1c06733cb04f643549cdf9ba858fa447198e32",
+    "simhash": "1:f3af54483b80112c",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gustavo GOMEZ, Petitioner\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gustavo GOMEZ, Petitioner\nv.\nCALIFORNIA.\nNo. 18-9333\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0083-02",
+  "first_page_order": 83,
+  "last_page_order": 83
+}

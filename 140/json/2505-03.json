@@ -1,0 +1,64 @@
+{
+  "id": 12626687,
+  "name": "Donald J. TRUMP, Petitioner, v. Cyrus R. VANCE, Jr., in His Official Capacity as District Attorney of the County of New York, et al.",
+  "name_abbreviation": "Trump v. Vance",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-635.",
+  "first_page": "2505",
+  "last_page": "2505",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2505"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 461"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 322,
+    "sha256": "29cc7b95dfcc9749ff326bfd0934b01ae85f500a1dca29e08548b5b72c0954d3",
+    "simhash": "1:c0040e349fb0ee54",
+    "word_count": 55
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald J. TRUMP, Petitioner,\nv.\nCyrus R. VANCE, Jr., in His Official Capacity as District Attorney of the County of New York, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of the Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument granted."
+    ],
+    "corrections": "",
+    "head_matter": "Donald J. TRUMP, Petitioner,\nv.\nCyrus R. VANCE, Jr., in His Official Capacity as District Attorney of the County of New York, et al.\nNo. 19-635.\nSupreme Court of the United States.\nMarch 23, 2020\nMotion of the Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument granted."
+  },
+  "file_name": "2505-03",
+  "first_page_order": 2505,
+  "last_page_order": 2505
+}

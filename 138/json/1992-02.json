@@ -1,0 +1,64 @@
+{
+  "id": 12612458,
+  "name": "In re Brandon LEE, petitioner.",
+  "name_abbreviation": "In re Lee",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u20137976.",
+  "first_page": "1992",
+  "last_page": "1992",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1992"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "80d5d2c196cae9ee9194ec4b21e9ad13bbf9de94e420dc873c5671c7c1d62efc",
+    "simhash": "1:c82e5a54feb751ff",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Brandon LEE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Brandon LEE, petitioner.\nNo. 17-7976.\nSupreme Court of the United States\nMay 14, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1992-02",
+  "first_page_order": 1992,
+  "last_page_order": 1992
+}

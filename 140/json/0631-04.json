@@ -1,0 +1,64 @@
+{
+  "id": 12629826,
+  "name": "IN RE The LAW OFFICES OF NINA RINGGOLD, et al., Petitioners;",
+  "name_abbreviation": "In re Law Offices of Nina Ringgold",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-359",
+  "first_page": "631",
+  "last_page": "631",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 631"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 411"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 164,
+    "sha256": "4a9a3068e1878a495f7999bef3bbd38e7a2e472c4c862b18c37af3d771388d3b",
+    "simhash": "1:7e276474f6d135b1",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE The LAW OFFICES OF NINA RINGGOLD, et al., Petitioners;"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE The LAW OFFICES OF NINA RINGGOLD, et al., Petitioners;\nNo. 19-359\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0631-04",
+  "first_page_order": 631,
+  "last_page_order": 631
+}

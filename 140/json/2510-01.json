@@ -1,0 +1,64 @@
+{
+  "id": 12626710,
+  "name": "Fernando A. RAMIREZ, Petitioner, v. Dave HOGUE, et al.",
+  "name_abbreviation": "Ramirez v. Hogue",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-876.",
+  "first_page": "2510",
+  "last_page": "2510",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2510"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 464"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 196,
+    "sha256": "4cd5b9356cab481704887aac795822783e317ee6ae73240d6593fee2cad2a73b",
+    "simhash": "1:e22f941436952195",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fernando A. RAMIREZ, Petitioner,\nv.\nDave HOGUE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of North Dakota denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fernando A. RAMIREZ, Petitioner,\nv.\nDave HOGUE, et al.\nNo. 19-876.\nSupreme Court of the United States.\nMarch 23, 2020\nPetition for writ of certiorari to the Supreme Court of North Dakota denied."
+  },
+  "file_name": "2510-01",
+  "first_page_order": 2510,
+  "last_page_order": 2510
+}

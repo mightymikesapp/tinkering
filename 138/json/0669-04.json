@@ -1,0 +1,64 @@
+{
+  "id": 12616254,
+  "name": "John L. CORRIGAN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Corrigan v. United States",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u2013622.",
+  "first_page": "669",
+  "last_page": "669",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 669"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 534"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "43b769630aac4d8246a50189fac51225ee2a5b97c808ea279724245b37fd6f59",
+    "simhash": "1:6fbfe0443a07168d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John L. CORRIGAN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John L. CORRIGAN, petitioner,\nv.\nUNITED STATES.\nNo. 17-622.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0669-04",
+  "first_page_order": 669,
+  "last_page_order": 669
+}

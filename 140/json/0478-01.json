@@ -1,0 +1,64 @@
+{
+  "id": 12629102,
+  "name": "Melinda SCOTT, Petitioner v. Joshua MOON, et al.",
+  "name_abbreviation": "Scott v. Moon",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-5720",
+  "first_page": "478",
+  "last_page": "478",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 478"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 275"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "020aeb9212e29a56c86bbc9eab92053812900010d62e94ae0d2b7e1c5d344991",
+    "simhash": "1:6bfdd28cbee19723",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Melinda SCOTT, Petitioner\nv.\nJoshua MOON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Melinda SCOTT, Petitioner\nv.\nJoshua MOON, et al.\nNo. 19-5720\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0478-01",
+  "first_page_order": 478,
+  "last_page_order": 478
+}

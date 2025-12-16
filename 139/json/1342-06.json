@@ -1,0 +1,64 @@
+{
+  "id": 12618575,
+  "name": "Charles Edward CASE, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Edward v. California",
+  "decision_date": "2019-03-18",
+  "docket_number": "No. 18\u20137457.",
+  "first_page": "1342",
+  "last_page": "1343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1342"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 583"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 188,
+    "sha256": "ffb43ed8647aecc32bb5f50cdd4b02ece3c1c6e66da87c2ccc7540d920ee6591",
+    "simhash": "1:68ec144452b4631d",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles Edward CASE, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles Edward CASE, petitioner,\nv.\nCALIFORNIA.\nNo. 18-7457.\nSupreme Court of the United States\nMarch 18, 2019.\nPetition for writ of certiorari to the Supreme Court of California denied."
+  },
+  "file_name": "1342-06",
+  "first_page_order": 1342,
+  "last_page_order": 1343
+}

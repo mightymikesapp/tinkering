@@ -1,0 +1,64 @@
+{
+  "id": 12618830,
+  "name": "Mark A. PEREZ, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Perez v. Pennsylvania",
+  "decision_date": "2019-03-25",
+  "docket_number": "No. 18\u20137510.",
+  "first_page": "1380",
+  "last_page": "1380",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1380"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 615"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 203,
+    "sha256": "942b91b84d5dcfbe65959fec07eb979d8a3f3e2080d234bbc87267b71488145c",
+    "simhash": "1:d42a444c7ab52785",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mark A. PEREZ, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mark A. PEREZ, petitioner,\nv.\nPENNSYLVANIA.\nNo. 18-7510.\nSupreme Court of the United States\nMarch 25, 2019.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Middle District denied."
+  },
+  "file_name": "1380-02",
+  "first_page_order": 1380,
+  "last_page_order": 1380
+}

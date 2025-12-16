@@ -1,0 +1,76 @@
+{
+  "id": 12628845,
+  "name": "Arthur J. LOMAX, Petitioner v. Christina ORTIZ-MARQUEZ, et al.",
+  "name_abbreviation": "Lomax v. Ortiz-Marquez",
+  "decision_date": "2019-10-18",
+  "docket_number": "No. 18-8369",
+  "first_page": "428",
+  "last_page": "428",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 428"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 244"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "28 U.S.C. \u00a7 1915",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(g)"
+        }
+      ],
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 438,
+    "sha256": "2ac99afd812f5e1544d4452b56b1b82a3fd08d943ee3da8177177b8b168a5869",
+    "simhash": "1:f28f74c40f61079f",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arthur J. LOMAX, Petitioner\nv.\nChristina ORTIZ-MARQUEZ, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit granted limited to the following question: Does a dismissal without prejudice for failure to state a claim count as a strike under 28 U.S.C. \u00a7 1915(g) ?"
+    ],
+    "corrections": "",
+    "head_matter": "Arthur J. LOMAX, Petitioner\nv.\nChristina ORTIZ-MARQUEZ, et al.\nNo. 18-8369\nSupreme Court of the United States.\nOctober 18, 2019\nMotion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit granted limited to the following question: Does a dismissal without prejudice for failure to state a claim count as a strike under 28 U.S.C. \u00a7 1915(g) ?"
+  },
+  "file_name": "0428-04",
+  "first_page_order": 428,
+  "last_page_order": 428
+}

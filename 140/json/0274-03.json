@@ -1,0 +1,64 @@
+{
+  "id": 12627696,
+  "name": "Hal Bernard BLACK, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Black v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5352",
+  "first_page": "274",
+  "last_page": "274",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 274"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 172"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "ec98f897c394e9b12e68048d791ab71f37787cf71485da2f2522f478f0fd192c",
+    "simhash": "1:faad66e437034205",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hal Bernard BLACK, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Hal Bernard BLACK, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5352\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0274-03",
+  "first_page_order": 274,
+  "last_page_order": 274
+}

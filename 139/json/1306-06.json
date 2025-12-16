@@ -1,0 +1,64 @@
+{
+  "id": 12618356,
+  "name": "Wallace Dixon COX, et ux., petitioners, v. UNITED STATES, et al.",
+  "name_abbreviation": "Cox v. United States",
+  "decision_date": "2019-03-04",
+  "docket_number": "No. 18M107.",
+  "first_page": "1306",
+  "last_page": "1306",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1306"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 413"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 217,
+    "sha256": "0d4a0dfd2e6caec0a656fb66699e05bbedea2de2a8ecc5efe05158685e6e9fc5",
+    "simhash": "1:52ab50461bc1d11f",
+    "word_count": 39
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wallace Dixon COX, et ux., petitioners,\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Wallace Dixon COX, et ux., petitioners,\nv.\nUNITED STATES, et al.\nNo. 18M107.\nSupreme Court of the United States\nMarch 4, 2019.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "1306-06",
+  "first_page_order": 1306,
+  "last_page_order": 1306
+}

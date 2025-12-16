@@ -1,0 +1,64 @@
+{
+  "id": 12624913,
+  "name": "Freya D. PEARSON, applicant, v. UNITED STATES.",
+  "name_abbreviation": "Pearson v. United States",
+  "decision_date": "2019-07-15",
+  "docket_number": "No. 18A1197.",
+  "first_page": "10",
+  "last_page": "10",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 10"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 197,
+    "sha256": "e7c5977157afb252a8410a4dd526e2e3f1999097ab4cbd9c0d921238e597c957",
+    "simhash": "1:f9ed1e6d3d86c959",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Freya D. PEARSON, applicant,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for bail addressed to Justice SOTOMAYOR and referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Freya D. PEARSON, applicant,\nv.\nUNITED STATES.\nNo. 18A1197.\nSupreme Court of the United States\nJuly 15, 2019.\nApplication for bail addressed to Justice SOTOMAYOR and referred to the Court denied."
+  },
+  "file_name": "0010-01",
+  "first_page_order": 10,
+  "last_page_order": 10
+}

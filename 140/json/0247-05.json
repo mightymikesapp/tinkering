@@ -1,0 +1,64 @@
+{
+  "id": 12626665,
+  "name": "John Francis LECHNER, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Lechner v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5227",
+  "first_page": "247",
+  "last_page": "247",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 247"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 161"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "b7446820126cf52d74f72ff87f548cd333c8714ea0523117c8500cdaac12a011",
+    "simhash": "1:faad64443380d125",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Francis LECHNER, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Francis LECHNER, Petitioner\nv.\nUNITED STATES\nNo. 19-5227\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0247-05",
+  "first_page_order": 247,
+  "last_page_order": 247
+}

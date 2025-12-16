@@ -1,0 +1,64 @@
+{
+  "id": 12624090,
+  "name": "Roy PARKER, petitioner, v. Burl CAIN, Warden.",
+  "name_abbreviation": "Parker v. Cain",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136247.",
+  "first_page": "800",
+  "last_page": "800",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 800"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 209,
+    "sha256": "6a2a38c42e363dafba55d2bf2dd19eaa789829b6570613c98904558e49156be5",
+    "simhash": "1:b1af66442a8046a9",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roy PARKER, petitioner,\nv.\nBurl CAIN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roy PARKER, petitioner,\nv.\nBurl CAIN, Warden.\nNo. 18-6247.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0800-01",
+  "first_page_order": 800,
+  "last_page_order": 800
+}

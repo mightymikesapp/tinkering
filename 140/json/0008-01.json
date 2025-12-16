@@ -1,0 +1,145 @@
+{
+  "id": 12630154,
+  "name": "Charles Russell RHINES v. Darin YOUNG, Warden",
+  "name_abbreviation": "Rhines v. Young",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-6477 (19A482)",
+  "first_page": "8",
+  "last_page": "9",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 8"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 390",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925317
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0390-01"
+      ]
+    },
+    {
+      "cite": "556 U.S. 180",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3653689
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "192",
+          "parenthetical": "quoting Herrera v. Collins , 506 U.S. 390, 415, 113 S.Ct. 853, 122 L.Ed.2d 203 (1993) "
+        },
+        {
+          "parenthetical": "quoting Herrera v. Collins , 506 U.S. 390, 415, 113 S.Ct. 853, 122 L.Ed.2d 203 (1993) "
+        },
+        {
+          "parenthetical": "quoting Herrera v. Collins , 506 U.S. 390, 415, 113 S.Ct. 853, 122 L.Ed.2d 203 (1993) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0180-01"
+      ]
+    },
+    {
+      "cite": "2019 WL 5485274",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2018 WL 2390130",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "*9"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3599",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 244,
+    "char_count": 2810,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26366923322556646
+    },
+    "sha256": "64a1ed66acc3803e1d473f1ad2cd2f5dd893cc1e6cae53e952f513cdc012d2a5",
+    "simhash": "1:cc0811149341b3d7",
+    "word_count": 447
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles Russell RHINES\nv.\nDarin YOUNG, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "Statement of Justice SOTOMAYOR respecting the denial of certiorari.\nIn 1993, a South Dakota jury sentenced petitioner Charles Rhines to death for murdering his co-worker. In order to assist them in preparing a state clemency application, Rhines' federal habeas attorneys retained medical experts to evaluate Rhines. State officials, as well as a state court, refused to grant the experts access to Rhines in prison. The Federal District Court below also denied Rhines' request for access. It reasoned, among other things, that the federal public defender statute, 18 U.S.C. \u00a7 3599, did not give it authority to \"supervise or control a state's clemency process\" and that South Dakota did not violate Rhines' due process rights by denying his experts access to the prison. 2018 WL 2390130, *9 (D.S.D., May 25, 2018).\nThe Court of Appeals for the Eighth Circuit did not address the bulk of Rhines' contentions. It instead dismissed the appeal, concluding that the expert-access issue was \"either moot, or ... not ... fully exhausted.\" 2019 WL 5485274, *1 (Oct. 25, 2019). In essence, because Rhines' execution was imminent and his clemency application pending before the Governor of South Dakota, the court found that Rhines should have previously asked the Governor to allow his experts access to the prison-or that he could still do so. Ibid. The Eighth Circuit reached that conclusion even though the anticipated expert report was, in Rhines' view, an important predicate for the clemency application itself.\nIt is unclear from this record whether an expert evaluation is necessary to Rhines' clemency application. Although Rhines' experts believed there were additional grounds for investigation-including traumatic events that Rhines suffered earlier in his life-Rhines, as the State notes, has already been evaluated by several psychiatric experts in a different context. For that reason, I do not dissent from the denial of certiorari. I write separately, however, to note that this Court's denial of certiorari does not represent an endorsement of the lower courts' opinions. I also write separately to emphasize that clemency is not \"a matter of mercy alone,\" but rather is the \" 'fail safe' in our criminal justice system.\" Harbison v. Bell , 556 U.S. 180, 192, 129 S.Ct. 1481, 173 L.Ed.2d 347 (2009) (quoting Herrera v. Collins , 506 U.S. 390, 415, 113 S.Ct. 853, 122 L.Ed.2d 203 (1993) ). By closing the prison doors in this context, a State risks rendering this fundamental process an empty ritual.",
+        "type": "majority",
+        "author": "Statement of Justice SOTOMAYOR respecting the denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The application for stay of execution of sentence of death presented to Justice GORSUCH and by him referred to the Court is denied. The petition for a writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles Russell RHINES\nv.\nDarin YOUNG, Warden\nNo. 19-6477 (19A482)\nSupreme Court of the United States.\nNovember 4, 2019\nThe application for stay of execution of sentence of death presented to Justice GORSUCH and by him referred to the Court is denied. The petition for a writ of certiorari is denied."
+  },
+  "file_name": "0008-01",
+  "first_page_order": 8,
+  "last_page_order": 9
+}

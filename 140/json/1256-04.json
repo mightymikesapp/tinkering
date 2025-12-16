@@ -1,0 +1,64 @@
+{
+  "id": 12625582,
+  "name": "Harold B. ROTTE, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Rotte v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-6481",
+  "first_page": "1256",
+  "last_page": "1256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1256"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 184,
+    "sha256": "a81f128e8e69f6a94fb0560ffa43d8f2747ebc1ef2931b429d2aafe2fde456a4",
+    "simhash": "1:b7ad5c16579df44f",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Harold B. ROTTE, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to file a petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Harold B. ROTTE, Petitioner\nv.\nUNITED STATES\nNo. 19-6481\nSupreme Court of the United States.\nFebruary 24, 2020\nMotion of petitioner for leave to file a petition for rehearing denied."
+  },
+  "file_name": "1256-04",
+  "first_page_order": 1256,
+  "last_page_order": 1256
+}

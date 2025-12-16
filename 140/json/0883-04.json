@@ -1,0 +1,64 @@
+{
+  "id": 12630515,
+  "name": "David Lee SMITH, Petitioner v. NORTH CAROLINA, et al.",
+  "name_abbreviation": "Smith v. North Carolina",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6579",
+  "first_page": "883",
+  "last_page": "883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 883"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 488"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 221,
+    "sha256": "cdde5d1de19db425bff984187b7c8e91c2d54cfc33c9e60c93cfa7d2ac4bb047",
+    "simhash": "1:e3afd64c3bc5b53b",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Lee SMITH, Petitioner\nv.\nNORTH CAROLINA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David Lee SMITH, Petitioner\nv.\nNORTH CAROLINA, et al.\nNo. 19-6579\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0883-04",
+  "first_page_order": 883,
+  "last_page_order": 883
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12610065,
+  "name": "In Re Arthur O. ARMSTRONG, petitioner.",
+  "name_abbreviation": "In re Armstrong",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20137130.",
+  "first_page": "1006",
+  "last_page": "1006",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1006"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "20313d9d38fe331d03ca583ed30563a1e413000c674bfedf39ab05b7a68b7b76",
+    "simhash": "1:6a635054ae315437",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Arthur O. ARMSTRONG, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Arthur O. ARMSTRONG, petitioner.\nNo. 17-7130.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1006-06",
+  "first_page_order": 1006,
+  "last_page_order": 1006
+}

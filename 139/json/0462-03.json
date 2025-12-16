@@ -1,0 +1,64 @@
+{
+  "id": 12623016,
+  "name": "Ronald JONES, petitioner, v. Steven JOHNSON, Administrator, New Jersey State Prison, et al.",
+  "name_abbreviation": "Jones v. Johnson",
+  "decision_date": "2018-11-05",
+  "docket_number": "No. 18\u20135932.",
+  "first_page": "462",
+  "last_page": "462",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 462"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 362"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 332,
+    "sha256": "df65c5948663a6dde15c7c0f3685caa0397917ebe6fcb718906bec5af17baf5e",
+    "simhash": "1:38bf76c43b4c16eb",
+    "word_count": 54
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald JONES, petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ronald JONES, petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al.\nNo. 18-5932.\nSupreme Court of the United States\nNov. 5, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0462-03",
+  "first_page_order": 462,
+  "last_page_order": 462
+}

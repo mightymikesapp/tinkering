@@ -1,0 +1,114 @@
+{
+  "id": 12614625,
+  "name": "Donald J. TRUMP, President of the United States, et al., petitioners, v. INTERNATIONAL REFUGEE ASSISTANCE, et al.",
+  "name_abbreviation": "Trump v. Int'l Refugee Assistance",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 16\u20131436.",
+  "first_page": "353",
+  "last_page": "353",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 353"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": -1
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 2,
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "39"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    },
+    {
+      "cite": "479 U.S. 361",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6216314
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/479/0361-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 118,
+    "char_count": 1075,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636084188692082
+    },
+    "sha256": "f818f5b5aa5bee6e401757bd1db892f76cbeb95f97f9b51734a66b5095d0a503",
+    "simhash": "1:7ea1a00eb1525f5b",
+    "word_count": 179
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald J. TRUMP, President of the United States, et al., petitioners,\nv.\nINTERNATIONAL REFUGEE ASSISTANCE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "We granted certiorari in this case to resolve a challenge to \"the temporary suspension of entry of aliens abroad under Section 2(c) of Executive Order No. 13,780 .\" Because that provision of the Order \"expired by its own terms\" on September 24, 2017, the appeal no longer presents a \"live case or controversy.\" Burke v. Barnes, 479 U.S. 361, 363, 107 S.Ct. 734, 93 L.Ed.2d 732 (1987). Following our established practice in such cases, the judgment is therefore vacated, and the case is remanded to the United States Court of Appeals for the Fourth Circuit with instructions to dismiss as moot the challenge to Executive Order No. 13,780 . United States v. Munsingwear, Inc., 340 U.S. 36, 39, 71 S.Ct. 104, 95 L.Ed. 36 (1950). We express no view on the merits."
+    ],
+    "corrections": "",
+    "head_matter": "Donald J. TRUMP, President of the United States, et al., petitioners,\nv.\nINTERNATIONAL REFUGEE ASSISTANCE, et al.\nNo. 16-1436.\nSupreme Court of the United States\nOct. 10, 2017.\nWe granted certiorari in this case to resolve a challenge to \"the temporary suspension of entry of aliens abroad under Section 2(c) of Executive Order No. 13,780 .\" Because that provision of the Order \"expired by its own terms\" on September 24, 2017, the appeal no longer presents a \"live case or controversy.\" Burke v. Barnes, 479 U.S. 361, 363, 107 S.Ct. 734, 93 L.Ed.2d 732 (1987). Following our established practice in such cases, the judgment is therefore vacated, and the case is remanded to the United States Court of Appeals for the Fourth Circuit with instructions to dismiss as moot the challenge to Executive Order No. 13,780 . United States v. Munsingwear, Inc., 340 U.S. 36, 39, 71 S.Ct. 104, 95 L.Ed. 36 (1950). We express no view on the merits.\nJustice SOTOMAYOR dissents from the order vacating the judgment below And would dismiss the writ of certiorari as improvidently granted."
+  },
+  "file_name": "0353-03",
+  "first_page_order": 353,
+  "last_page_order": 353
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12612925,
+  "name": "In Re Dexter ROGERS, petitioner.",
+  "name_abbreviation": "In re Rogers",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u201387.",
+  "first_page": "223",
+  "last_page": "223",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 223"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 132,
+    "sha256": "7d311ac1bbe549e573dafff885d2f730c0ea01ab0ed4e1871784f47a3a42d927",
+    "simhash": "1:eba7205cbea8377b",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Dexter ROGERS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Dexter ROGERS, petitioner.\nNo. 17-87.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0223-03",
+  "first_page_order": 223,
+  "last_page_order": 223
+}

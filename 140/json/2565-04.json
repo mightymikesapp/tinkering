@@ -1,0 +1,64 @@
+{
+  "id": 12626982,
+  "name": "UNIVERSITY OF PENNSYLVANIA, et al., Petitioners, v. Jennifer SWEDA, et al.",
+  "name_abbreviation": "Univ. of Pa. v. Sweda",
+  "decision_date": "2020-03-30",
+  "docket_number": "No. 19-784.",
+  "first_page": "2565",
+  "last_page": "2565",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2565"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 496"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 239,
+    "sha256": "2108519918f56c5855ff92911c7948196b74739113f055a2ee330fe95c318ea8",
+    "simhash": "1:d22f16047b41768b",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNIVERSITY OF PENNSYLVANIA, et al., Petitioners,\nv.\nJennifer SWEDA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "UNIVERSITY OF PENNSYLVANIA, et al., Petitioners,\nv.\nJennifer SWEDA, et al.\nNo. 19-784.\nSupreme Court of the United States.\nMarch 30, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "2565-04",
+  "first_page_order": 2565,
+  "last_page_order": 2565
+}

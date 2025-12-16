@@ -1,0 +1,64 @@
+{
+  "id": 12625456,
+  "name": "Julian MOZ-AGUILAR, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Moz-Aguilar v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7307",
+  "first_page": "1232",
+  "last_page": "1232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1232"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 224"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "bbd1c4a7c74db9bb9bd9a2fcd7c3d79f02873fa142fa793aa61c7cfc1c8aeaf1",
+    "simhash": "1:7cac54441700d2b9",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Julian MOZ-AGUILAR, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Julian MOZ-AGUILAR, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7307\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "1232-03",
+  "first_page_order": 1232,
+  "last_page_order": 1232
+}

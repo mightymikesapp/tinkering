@@ -1,0 +1,64 @@
+{
+  "id": 12628732,
+  "name": "Johnny Ellery SMITH, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5744",
+  "first_page": "407",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 407"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "16654c368eab28a6388616a7e16d31dd548443f2d1c285b67186451704c99bd9",
+    "simhash": "1:cbaf644433007124",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Johnny Ellery SMITH, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Johnny Ellery SMITH, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5744\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0407-02",
+  "first_page_order": 407,
+  "last_page_order": 407
+}

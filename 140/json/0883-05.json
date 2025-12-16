@@ -1,0 +1,62 @@
+{
+  "id": 12630516,
+  "name": "David INGRAHAM, Petitioner, v. FLORIDA.",
+  "name_abbreviation": "Ingraham v. Florida",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6594",
+  "first_page": "883",
+  "last_page": "883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 883"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 488"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 205,
+    "sha256": "2fbdb44dddca414a547832d1c483489ad914390e3a77f37df790867064071fe8",
+    "simhash": "1:52faf446d8c961c5",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David INGRAHAM, Petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "David INGRAHAM, Petitioner,\nv.\nFLORIDA.\nNo. 19-6594\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the District Court of Appeal of Florida, Third District denied."
+  },
+  "file_name": "0883-05",
+  "first_page_order": 883,
+  "last_page_order": 883
+}

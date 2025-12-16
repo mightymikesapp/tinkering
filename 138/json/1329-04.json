@@ -1,0 +1,64 @@
+{
+  "id": 12611108,
+  "name": "Jerry WIZAR, petitioner, v. Stu SHERMAN, Warden.",
+  "name_abbreviation": "Wizar v. Sherman",
+  "decision_date": "2018-03-26",
+  "docket_number": "No. 17\u20137509.",
+  "first_page": "1329",
+  "last_page": "1329",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1329"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 518"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 214,
+    "sha256": "df308dd296cd52cea4611419c1d7a872fb1923bdf8f4e4b61b47a2c008c2d021",
+    "simhash": "1:62ee76441883358d",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry WIZAR, petitioner,\nv.\nStu SHERMAN, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerry WIZAR, petitioner,\nv.\nStu SHERMAN, Warden.\nNo. 17-7509.\nSupreme Court of the United States\nMarch 26, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1329-04",
+  "first_page_order": 1329,
+  "last_page_order": 1329
+}

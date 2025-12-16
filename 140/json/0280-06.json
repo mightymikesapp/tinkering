@@ -1,0 +1,64 @@
+{
+  "id": 12628030,
+  "name": "IN RE Levar Lee SPENCE, Petitioner",
+  "name_abbreviation": "In re Spence",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5587",
+  "first_page": "280",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 280"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 143,
+    "sha256": "e7535fba4f91f10efd649b3deff4523fb4f10759bf1023b836d94e05b9729013",
+    "simhash": "1:e8bf061cb6904164",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Levar Lee SPENCE, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Levar Lee SPENCE, Petitioner\nNo. 19-5587\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0280-06",
+  "first_page_order": 280,
+  "last_page_order": 280
+}

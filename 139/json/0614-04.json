@@ -1,0 +1,64 @@
+{
+  "id": 12623634,
+  "name": "Tyrone HART, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hart v. United States",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 18\u20136474.",
+  "first_page": "614",
+  "last_page": "614",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 614"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 443"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "4b4babf43314c4e79ef86cc7c3656da201c654099c2a8a839ba38c56ee97f90a",
+    "simhash": "1:38ec76c43f0d94dd",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tyrone HART, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tyrone HART, petitioner,\nv.\nUNITED STATES.\nNo. 18-6474.\nSupreme Court of the United States\nDec. 3, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0614-04",
+  "first_page_order": 614,
+  "last_page_order": 614
+}

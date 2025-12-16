@@ -1,0 +1,64 @@
+{
+  "id": 12629168,
+  "name": "Jeffrey T. MAEHR, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Maehr v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5151",
+  "first_page": "49",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 49"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "7f379c9adee2716521ad59c0371051ddedbedfa9fd7fdae33607fb57dc6a3411",
+    "simhash": "1:eaaf664eb600920d",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey T. MAEHR, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey T. MAEHR, Petitioner\nv.\nUNITED STATES\nNo. 19-5151\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0049-04",
+  "first_page_order": 49,
+  "last_page_order": 49
+}

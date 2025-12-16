@@ -1,0 +1,64 @@
+{
+  "id": 12610204,
+  "name": "In Re Archie CABELLO, petitioner.",
+  "name_abbreviation": "In re Cabello",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20137367.",
+  "first_page": "1027",
+  "last_page": "1027",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1027"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 303"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 139,
+    "sha256": "8f9ce33711a972a1febad4eabe1821dd4f6b7637b6e5ea69763270fd35fd3ee1",
+    "simhash": "1:6c87d41cffa051dd",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Archie CABELLO, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Archie CABELLO, petitioner.\nNo. 17-7367.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of prohibition denied."
+  },
+  "file_name": "1027-03",
+  "first_page_order": 1027,
+  "last_page_order": 1027
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12627188,
+  "name": "Alfred BROWN v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2020-04-02",
+  "docket_number": "No. 19-7903; R46-016",
+  "first_page": "2638",
+  "last_page": "2638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2638"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 711"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 207,
+    "sha256": "941f0f65999b4430375eef489e5412fd7d861c7ff44544a4f2ee9ca71aaf5a25",
+    "simhash": "1:4fad04543d8ece1b",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alfred BROWN\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+    ],
+    "corrections": "",
+    "head_matter": "Alfred BROWN\nv.\nUNITED STATES.\nNo. 19-7903\nR46-016\nSupreme Court of the United States.\nApril 2, 2020.\nThe petition for writ of certiorari was dismissed today pursuant to Rule 46 of the Rules of this Court."
+  },
+  "file_name": "2638-03",
+  "first_page_order": 2638,
+  "last_page_order": 2638
+}

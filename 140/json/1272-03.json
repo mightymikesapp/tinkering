@@ -1,0 +1,64 @@
+{
+  "id": 12625659,
+  "name": "Marcus Bartholomew BOOKER, Petitioner, v. TEXAS.",
+  "name_abbreviation": "Booker v. Texas",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-6213",
+  "first_page": "1272",
+  "last_page": "1272",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1272"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 194,
+    "sha256": "0c774d846dc1afb1e911f2ead5922341ef2474e302d917856814c740f2ca0c1a",
+    "simhash": "1:482df07632cd1098",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marcus Bartholomew BOOKER, Petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marcus Bartholomew BOOKER, Petitioner,\nv.\nTEXAS.\nNo. 19-6213\nSupreme Court of the United States.\nMarch 2, 2020\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "1272-03",
+  "first_page_order": 1272,
+  "last_page_order": 1272
+}

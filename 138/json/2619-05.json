@@ -1,0 +1,78 @@
+{
+  "id": 12613476,
+  "name": "SEALED APPELANT, petitioner, v. SEALED APPELLEE.",
+  "name_abbreviation": "Sealed Appelant v. Sealed Appellee",
+  "decision_date": "2018-06-11",
+  "docket_number": "No. 17\u20137035.",
+  "first_page": "2619",
+  "last_page": "2619",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2619"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1765",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12612221
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1765-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 528,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26360166171850175
+    },
+    "sha256": "b7ec282934776d75467cfa20287086ec6d7e28b753de3c6b9d556e29dc1b8267",
+    "simhash": "1:d6ad724c0001169d",
+    "word_count": 84
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SEALED APPELANT, petitioner,\nv.\nSEALED APPELLEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Hughes v. United States, 584 U.S. ----, 138 S.Ct. 1765, --- L.Ed.2d ---- (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "SEALED APPELANT, petitioner,\nv.\nSEALED APPELLEE.\nNo. 17-7035.\nSupreme Court of the United States\nJune 11, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Hughes v. United States, 584 U.S. ----, 138 S.Ct. 1765, --- L.Ed.2d ---- (2018)."
+  },
+  "file_name": "2619-05",
+  "first_page_order": 2619,
+  "last_page_order": 2619
+}

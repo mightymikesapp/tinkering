@@ -1,0 +1,64 @@
+{
+  "id": 12630481,
+  "name": "Daniel WERT, Petitioner v. Ronnie R. HOLT, Warden",
+  "name_abbreviation": "Wert v. Holt",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6708",
+  "first_page": "877",
+  "last_page": "877",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 877"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "1fbad2469ad3e6382c7f1b07d18059fcf09262af488dda4c8d094a3cd7103bf8",
+    "simhash": "1:f72ff4466bc93768",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel WERT, Petitioner\nv.\nRonnie R. HOLT, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel WERT, Petitioner\nv.\nRonnie R. HOLT, Warden\nNo. 19-6708\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0877-01",
+  "first_page_order": 877,
+  "last_page_order": 877
+}

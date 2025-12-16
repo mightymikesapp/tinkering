@@ -1,0 +1,64 @@
+{
+  "id": 12625398,
+  "name": "Casey Lee JONES, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jones v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7201",
+  "first_page": "1221",
+  "last_page": "1221",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1221"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "94148fd051ee92352146c67c8c3b6210c3cb4a12bcc94ccd1f27d96d9b3853b5",
+    "simhash": "1:e5ad56443785c225",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Casey Lee JONES, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Casey Lee JONES, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7201\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1221-02",
+  "first_page_order": 1221,
+  "last_page_order": 1221
+}

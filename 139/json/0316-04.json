@@ -1,0 +1,64 @@
+{
+  "id": 12622232,
+  "name": "Anthony WEST, petitioner, v. Mary BERGHUIS, Warden.",
+  "name_abbreviation": "West v. Berghuis",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138230.",
+  "first_page": "316",
+  "last_page": "316",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 316"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 209"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 146,
+    "sha256": "a69121e49a0e6bfe6f16718f888bc01089ef06df0f1167234b605c4fd4326d57",
+    "simhash": "1:b1e6d214189e06a4",
+    "word_count": 22
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony WEST, petitioner,\nv.\nMary BERGHUIS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony WEST, petitioner,\nv.\nMary BERGHUIS, Warden.\nNo. 17-8230.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "0316-04",
+  "first_page_order": 316,
+  "last_page_order": 316
+}

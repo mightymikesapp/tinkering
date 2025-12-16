@@ -1,0 +1,64 @@
+{
+  "id": 12628379,
+  "name": "IN RE Frank J. ASHLEY, Petitioner",
+  "name_abbreviation": "In re Ashley",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9671",
+  "first_page": "309",
+  "last_page": "309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 309"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "sha256": "a5c7b6198f47db9692194ebd8ab2ca01b3020b7312a5d86f30beff7ab51180b2",
+    "simhash": "1:eadf404ea2d8590d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Frank J. ASHLEY, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Frank J. ASHLEY, Petitioner\nNo. 18-9671\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0309-04",
+  "first_page_order": 309,
+  "last_page_order": 309
+}

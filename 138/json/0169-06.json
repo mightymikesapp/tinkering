@@ -1,0 +1,83 @@
+{
+  "id": 12612013,
+  "name": "E.F., a Minor, By and Through His Parents, Eric FULSANG, et ux., et al., petitioners, v. NEWPORT MESA UNIFIED SCHOOL DISTRICT.",
+  "name_abbreviation": "E.F. v. Newport Mesa Unified Sch. Dist.",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20131533.",
+  "first_page": "169",
+  "last_page": "170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 169"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 988",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610008
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/0988-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 63,
+    "char_count": 562,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26359239476896146
+    },
+    "sha256": "2ce0b7b633f55b16e12653515c77ad66bb3f644834d36cea1e6fe8d425439a33",
+    "simhash": "1:6fcf62c4bd040699",
+    "word_count": 94
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "E.F., a Minor, By and Through His Parents, Eric FULSANG, et ux., et al., petitioners,\nv.\nNEWPORT MESA UNIFIED SCHOOL DISTRICT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of Endrew F. v. Douglas County School Dist. RE-1, 580 U.S. ----, 137 S.Ct. 988, 197 L.Ed.2d 335 (2017)."
+    ],
+    "corrections": "",
+    "head_matter": "E.F., a Minor, By and Through His Parents, Eric FULSANG, et ux., et al., petitioners,\nv.\nNEWPORT MESA UNIFIED SCHOOL DISTRICT.\nNo. 16-1533.\nSupreme Court of the United States\nOct. 2, 2017.\nOn petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of Endrew F. v. Douglas County School Dist. RE-1, 580 U.S. ----, 137 S.Ct. 988, 197 L.Ed.2d 335 (2017)."
+  },
+  "file_name": "0169-06",
+  "first_page_order": 169,
+  "last_page_order": 170
+}

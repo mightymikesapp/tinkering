@@ -1,0 +1,64 @@
+{
+  "id": 12628824,
+  "name": "Jerry D. SCOTT, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Scott v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5944",
+  "first_page": "424",
+  "last_page": "424",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 424"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "8e5a55144b7d881c9f39231c519a9fe61ae7fa1ca9e5c75986db9e1828829dba",
+    "simhash": "1:49af6444338813a1",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry D. SCOTT, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerry D. SCOTT, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5944\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0424-02",
+  "first_page_order": 424,
+  "last_page_order": 424
+}

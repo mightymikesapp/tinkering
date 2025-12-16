@@ -1,0 +1,64 @@
+{
+  "id": 12628274,
+  "name": "Michael L. MILLIS, Petitioner v. Stephen KALLIS, Warden",
+  "name_abbreviation": "Millis v. Kallis",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-7300",
+  "first_page": "291",
+  "last_page": "291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 291"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "77a4d10c7341dbb1844cd1397d7a81208f4ff70f7fdbf5c783dba6c15cdfef75",
+    "simhash": "1:c2bf1c422a887324",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael L. MILLIS, Petitioner\nv.\nStephen KALLIS, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael L. MILLIS, Petitioner\nv.\nStephen KALLIS, Warden\nNo. 18-7300\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for rehearing denied."
+  },
+  "file_name": "0291-06",
+  "first_page_order": 291,
+  "last_page_order": 291
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12624485,
+  "name": "Ronald MARSHALL, petitioner, v. Ann ASH, et al.",
+  "name_abbreviation": "Marshall v. Ash",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18M85.",
+  "first_page": "859",
+  "last_page": "859",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 859"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 563"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 198,
+    "sha256": "eecd8ab539d82f7f80d42648cd4a49d92bc6fc920e5aa1cfb3151d63659e6db4",
+    "simhash": "1:4caf82060381901e",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ronald MARSHALL, petitioner,\nv.\nAnn ASH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ronald MARSHALL, petitioner,\nv.\nAnn ASH, et al.\nNo. 18M85.\nSupreme Court of the United States\nJan. 7, 2019.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0859-01",
+  "first_page_order": 859,
+  "last_page_order": 859
+}

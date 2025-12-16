@@ -1,0 +1,64 @@
+{
+  "id": 12623496,
+  "name": "In Re Christopher DAWSON, petitioner.",
+  "name_abbreviation": "In re Dawson",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 18\u2013223.",
+  "first_page": "593",
+  "last_page": "593",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 593"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 448"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 157,
+    "sha256": "fab6fcad76a5fa5197c44882e489a5fac9dc92392c479c1cdd82bf89aa6fb590",
+    "simhash": "1:3868f6560e49044a",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Christopher DAWSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Christopher DAWSON, petitioner.\nNo. 18-223.\nSupreme Court of the United States\nDec. 3, 2018.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0593-04",
+  "first_page_order": 593,
+  "last_page_order": 593
+}

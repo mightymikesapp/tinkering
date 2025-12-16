@@ -1,0 +1,62 @@
+{
+  "id": 12626605,
+  "name": "John R. POLGAR, Petitioner, v. FLORIDA.",
+  "name_abbreviation": "Polgar v. Florida",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9514",
+  "first_page": "238",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 238"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 88"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 205,
+    "sha256": "a78a5f8d25ecb4f222b4e62ed40a2d2f0abf8e58a53d407cd7bce8c93f48864c",
+    "simhash": "1:d06f726cbe894965",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John R. POLGAR, Petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John R. POLGAR, Petitioner,\nv.\nFLORIDA.\nNo. 18-9514\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the District Court of Appeal of Florida, Second District denied."
+  },
+  "file_name": "0238-01",
+  "first_page_order": 238,
+  "last_page_order": 238
+}

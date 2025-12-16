@@ -1,0 +1,64 @@
+{
+  "id": 12629313,
+  "name": "Jason SIMON, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Simon v. United States",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-6256",
+  "first_page": "516",
+  "last_page": "516",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 516"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "3f1e6a2089a6dc0c1e43f0551f02d38e7e335098a4d7d25da5b64b0a3f4ae105",
+    "simhash": "1:e2ad6644678d46e5",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason SIMON, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason SIMON, Petitioner\nv.\nUNITED STATES\nNo. 19-6256\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0516-05",
+  "first_page_order": 516,
+  "last_page_order": 516
+}

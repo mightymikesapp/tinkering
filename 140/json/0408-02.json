@@ -1,0 +1,64 @@
+{
+  "id": 12628736,
+  "name": "Robert Gene RAND, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rand v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5742",
+  "first_page": "408",
+  "last_page": "408",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 408"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "2bff8c5ea0290d9f26f0bfbed10ae58b04a90acc6f54de45d2fd793b68dd0400",
+    "simhash": "1:6bad64403f247311",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Gene RAND, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Gene RAND, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5742\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0408-02",
+  "first_page_order": 408,
+  "last_page_order": 408
+}

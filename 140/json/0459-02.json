@@ -1,0 +1,64 @@
+{
+  "id": 12629001,
+  "name": "Estelle STEIN, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Stein v. United States",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-393",
+  "first_page": "459",
+  "last_page": "459",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 459"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 272"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "08da41ff99c55160d618c548ec5974a6a75d851b747e3d34ccbe743157fbbdda",
+    "simhash": "1:78adf60413035771",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Estelle STEIN, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Estelle STEIN, Petitioner,\nv.\nUNITED STATES.\nNo. 19-393\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0459-02",
+  "first_page_order": 459,
+  "last_page_order": 459
+}

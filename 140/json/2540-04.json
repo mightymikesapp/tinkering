@@ -1,0 +1,64 @@
+{
+  "id": 12626859,
+  "name": "Richard WILLIAMS, Petitioner, v. Tony MAYS, Warden.",
+  "name_abbreviation": "Williams v. Mays",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-7571.",
+  "first_page": "2540",
+  "last_page": "2540",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2540"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 480"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 220,
+    "sha256": "6c95b927a990e546cb42467491cf5d662ce1d901f13fe450e2d843dd703e0295",
+    "simhash": "1:707fb05673d965b4",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard WILLIAMS, Petitioner,\nv.\nTony MAYS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Middle Division denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard WILLIAMS, Petitioner,\nv.\nTony MAYS, Warden.\nNo. 19-7571.\nSupreme Court of the United States.\nMarch 23, 2020\nPetition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Middle Division denied."
+  },
+  "file_name": "2540-04",
+  "first_page_order": 2540,
+  "last_page_order": 2540
+}

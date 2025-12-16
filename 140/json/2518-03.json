@@ -1,0 +1,64 @@
+{
+  "id": 12626746,
+  "name": "David PEARSON, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Pearson v. United States",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-6363.",
+  "first_page": "2518",
+  "last_page": "2518",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2518"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "00a7e141a029312c4834913c8fe05704fe8ff8144194d3806dc5c9edcc3d3c94",
+    "simhash": "1:7aadf64437055537",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David PEARSON, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David PEARSON, Petitioner,\nv.\nUNITED STATES.\nNo. 19-6363.\nSupreme Court of the United States.\nMarch 23, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2518-03",
+  "first_page_order": 2518,
+  "last_page_order": 2518
+}

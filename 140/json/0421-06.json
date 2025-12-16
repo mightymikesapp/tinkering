@@ -1,0 +1,64 @@
+{
+  "id": 12628812,
+  "name": "Scott PETERS, Petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Peters v. Illinois",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 18-9038",
+  "first_page": "421",
+  "last_page": "421",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 421"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 136,
+    "sha256": "28008a120d14cfbd59d300ddf42ff693653dc50b6417237b71c8ded30c5d23e7",
+    "simhash": "1:d9377c02bb88d08a",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott PETERS, Petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Scott PETERS, Petitioner,\nv.\nILLINOIS.\nNo. 18-9038\nSupreme Court of the United States.\nOctober 15, 2019\nPetition for rehearing denied."
+  },
+  "file_name": "0421-06",
+  "first_page_order": 421,
+  "last_page_order": 421
+}

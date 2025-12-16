@@ -1,0 +1,823 @@
+{
+  "id": 12627115,
+  "name": "Bradley LITTLE, Governor of Idaho, et al. v. RECLAIM IDAHO, et al.",
+  "name_abbreviation": "Little v. Reclaim Idaho",
+  "decision_date": "2020-07-30",
+  "docket_number": "No. 20A18",
+  "first_page": "2616",
+  "last_page": "2619",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2616"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "205 L.Ed.2d 532",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12630857,
+        12630858,
+        12630859,
+        12630860,
+        12630862,
+        12630863,
+        12630864,
+        12630865
+      ],
+      "year": 2020,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/140/0950-02",
+        "/s-ct/140/0950-03",
+        "/s-ct/140/0950-04",
+        "/s-ct/140/0950-05",
+        "/s-ct/140/0951-02",
+        "/s-ct/140/0951-03",
+        "/s-ct/140/0951-04",
+        "/s-ct/140/0951-05"
+      ]
+    },
+    {
+      "cite": "140 S.Ct. 951",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12630861,
+        12630862,
+        12630863,
+        12630864,
+        12630865
+      ],
+      "year": 2020,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/140/0951-01",
+        "/s-ct/140/0951-02",
+        "/s-ct/140/0951-03",
+        "/s-ct/140/0951-04",
+        "/s-ct/140/0951-05"
+      ]
+    },
+    {
+      "cite": "2020 WL 3604049",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2020,
+      "opinion_index": -1
+    },
+    {
+      "cite": "2020 WL 4006821",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2020,
+      "opinion_index": -1
+    },
+    {
+      "cite": "140 S.Ct. 2590",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12627097
+      ],
+      "year": 2020,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/140/2590-01"
+      ]
+    },
+    {
+      "cite": "140 S.Ct. 1205",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12625345
+      ],
+      "weight": 2,
+      "year": 2020,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/140/1205-01"
+      ]
+    },
+    {
+      "cite": "206 L.Ed.2d 115",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12630866,
+        12630867,
+        12629670
+      ],
+      "year": 2020,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/140/0952-01",
+        "/s-ct/140/0952-02",
+        "/s-ct/140/0599-01"
+      ]
+    },
+    {
+      "cite": "140 S.Ct. 599",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12629670
+      ],
+      "year": 2020,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/140/0599-01"
+      ]
+    },
+    {
+      "cite": "137 S.Ct. 1159",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12603187
+      ],
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1170"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/1159-01"
+      ]
+    },
+    {
+      "cite": "206 L.Ed.2d 142",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12631066,
+        12630079
+      ],
+      "weight": 2,
+      "year": 2020,
+      "pin_cites": [
+        {
+          "parenthetical": "SOTOMAYOR, J., dissenting from grant of stay"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/140/0991-03",
+        "/s-ct/140/0681-01"
+      ]
+    },
+    {
+      "cite": "140 S.Ct. 681",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12630079
+      ],
+      "weight": 2,
+      "year": 2020,
+      "pin_cites": [
+        {
+          "page": "683-684",
+          "parenthetical": "SOTOMAYOR, J., dissenting from grant of stay"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/140/0681-01"
+      ]
+    },
+    {
+      "cite": "4 L.Ed.2d 615",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "616",
+          "parenthetical": "Harlan, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "80 S.Ct. 623",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1960,
+      "pin_cites": [
+        {
+          "page": "624",
+          "parenthetical": "Harlan, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "123 L.Ed.2d 285",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "O'Connor, J., concurring in denial of application"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "113 S.Ct. 1668",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "O'Connor, J., concurring in denial of application"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "507 U.S. 1013",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6475464,
+        6475260,
+        6475333
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1014",
+          "parenthetical": "O'Connor, J., concurring in denial of application"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/507/1013-03",
+        "/us/507/1013-01",
+        "/us/507/1013-02"
+      ]
+    },
+    {
+      "cite": "115 L.Ed.2d 1087",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "Scalia, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "112 S.Ct. 1",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "Scalia, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "501 U.S. 1301",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107835
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "1304-1305",
+          "parenthetical": "Scalia, J., in chambers"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/501/1301-01"
+      ]
+    },
+    {
+      "cite": "127 L.Ed.2d 530",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "Rehnquist, C. J., in chambers"
+        },
+        {
+          "parenthetical": "Rehnquist, C. J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "114 S.Ct. 1036",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "Rehnquist, C. J., in chambers"
+        },
+        {
+          "parenthetical": "Rehnquist, C. J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "510 U.S. 1319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        235410
+      ],
+      "weight": 2,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1320",
+          "parenthetical": "Rehnquist, C. J., in chambers"
+        },
+        {
+          "page": "1320",
+          "parenthetical": "Rehnquist, C. J., in chambers"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/510/1319-01"
+      ]
+    },
+    {
+      "cite": "518 U.S. 343",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1729949
+      ],
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/518/0343-01"
+      ]
+    },
+    {
+      "cite": "555 U.S. 7",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3679402
+      ],
+      "weight": 3,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/555/0007-01"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 1942",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12612343
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1944-1945",
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1942-01"
+      ]
+    },
+    {
+      "cite": "50 L.Ed.2d 56",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "Marshall, J., in chambers"
+        },
+        {
+          "parenthetical": "Marshall, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "97 S.Ct. 14",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "Marshall, J., in chambers"
+        },
+        {
+          "parenthetical": "Marshall, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "429 U.S. 1325",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5762
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "1330",
+          "parenthetical": "Marshall, J., in chambers"
+        },
+        {
+          "page": "1330",
+          "parenthetical": "Marshall, J., in chambers"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/429/1325-01"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 2305",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12612979
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "2323-2324"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/2305-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 414",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6218442
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/486/0414-01"
+      ]
+    },
+    {
+      "cite": "126 L.Ed.2d 410",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "O'Connor, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "114 S.Ct. 422",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1993,
+      "pin_cites": [
+        {
+          "parenthetical": "O'Connor, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "510 U.S. 1301",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        231091
+      ],
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "1304",
+          "parenthetical": "O'Connor, J., in chambers"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/510/1301-01"
+      ]
+    },
+    {
+      "cite": "963 F.3d 595",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "year": 2020,
+      "pin_cites": [
+        {
+          "page": "597"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "964 F.3d 649",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "year": 2020,
+      "pin_cites": [
+        {
+          "page": "652",
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "967 F. 3d 727",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "year": 2020,
+      "pin_cites": [
+        {
+          "page": "740-41"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "126 F.3d 1111",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        943607
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1113"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/126/1111-01"
+      ]
+    },
+    {
+      "cite": "450 F.3d 1082",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3090001
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "1099-1100",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/450/1082-01"
+      ]
+    },
+    {
+      "cite": "892 F.3d 935",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12517285
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "938"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/892/0935-01"
+      ]
+    },
+    {
+      "cite": "673 F.3d 1122",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3742713
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1133"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/673/1122-01"
+      ]
+    },
+    {
+      "cite": "959 F.3d 804",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "year": 2020,
+      "pin_cites": [
+        {
+          "page": "808",
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "525 U.S. 182",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11076445
+      ],
+      "weight": 5,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "191"
+        },
+        {
+          "page": "204-205"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/525/0182-01"
+      ]
+    },
+    {
+      "cite": "558 U.S. 183",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3639179
+      ],
+      "weight": 5,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "190",
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "page": "190"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/558/0183-01"
+      ]
+    },
+    {
+      "cite": "137 S.Ct. 1159",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12603187
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1159-01"
+      ]
+    },
+    {
+      "cite": "50 L.Ed.2d 56",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1976,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 876,
+    "char_count": 14649,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.4148848060253706
+    },
+    "sha256": "8c876d2ae51a26699e1973fa123615feebc4b19d32b40370c88a0e8d4d829fbd",
+    "simhash": "1:297232bcaa11938b",
+    "word_count": 2324
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bradley LITTLE, Governor of Idaho, et al.\nv.\nRECLAIM IDAHO, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Today, by jumping ahead of the Court of Appeals, this Court once again forgets that it is \" 'a court of review, not of first view,' \" id., at ----, 137 S.Ct., at 1170, and undermines the public's expectation that its highest court will act only after considered deliberation. I respectfully dissent from the grant of stay.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The application for stay presented to Justice KAGAN and by her referred to the Court is granted. The district court's June 23, June 26, and June 30, 2020 orders are stayed pending disposition of the appeal in the United States Court of Appeals for the Ninth Circuit and disposition of the petition for a writ of certiorari, if such writ is timely sought. Should the petition for a writ of certiorari be denied, this stay shall terminate automatically. In the event the petition for a writ of certiorari is granted, the stay shall terminate upon the sending down of the judgment of this Court.",
+      "Under the well-settled standard for this form of relief, the State must show (1) a \"reasonable probability\" that this Court will grant certiorari, (2) a \"fair prospect\" that the Court will reverse the judgment below, and (3) a \"likelihood that irreparable harm will result from the denial of a stay.\" Hollingsworth v. Perry , 558 U.S. 183, 190, 130 S.Ct. 705, 175 L.Ed.2d 657 (2010) (per curiam ). In my view, the State has satisfied each requirement for a stay.",
+      "First, the Court is reasonably likely to grant certiorari to resolve the split presented by this case on an important issue of election administration. States retain \"considerable leeway to protect the integrity and reliability of the initiative process.\" Buckley v. American Constitutional Law Foundation, Inc. , 525 U.S. 182, 191, 119 S.Ct. 636, 142 L.Ed.2d 599 (1999). In exercising this discretionary authority, the States depend on clear and administrable guidelines from the courts. Yet the Circuits diverge in fundamental respects when presented with challenges to the sort of state laws at issue here. According to the Sixth and Ninth Circuits, the First Amendment requires scrutiny of the interests of the State whenever a neutral, procedural regulation inhibits a person's ability to place an initiative on the ballot. See Thompson v. DeWine , 959 F.3d 804, 808 (C.A.6 2020) (per curiam ); Angle v. Miller , 673 F.3d 1122, 1133 (C.A.9 2012). Other Circuits, by contrast, have held that regulations that may make the initiative process more challenging do not implicate the First Amendment so long as the State does not restrict political discussion or petition circulation. See, e.g., Jones v. Markiewicz-Qualkinbush , 892 F.3d 935, 938 (C.A.7 2018) ; Initiative and Referendum Institute v. Walker , 450 F.3d 1082, 1099-1100 (C.A.10 2006) (en banc); Dobrovolny v. Moore , 126 F.3d 1111, 1113 (C.A.8 1997). Since the onset of the pandemic, the Circuits have applied their conflicting frameworks to reach predictably contrary conclusions as to whether and to what extent States must adapt the initiative process to account for new obstacles to collecting signatures. Compare, e.g., Miller v. Thurston , 967 F. 3d 727, 740-41 (C.A.8, July 23, 2020), and Morgan v. White , 964 F.3d 649, 652 (C.A.7 2020) (per curiam ), with, e.g., SawariMedia, LLC v. Whitmer , 963 F.3d 595, 597 (C.A.6 2020)."
+    ],
+    "corrections": "",
+    "head_matter": "Bradley LITTLE, Governor of Idaho, et al.\nv.\nRECLAIM IDAHO, et al.\nNo. 20A18\nSupreme Court of the United States.\nJuly 30, 2020\nThe application for stay presented to Justice KAGAN and by her referred to the Court is granted. The district court's June 23, June 26, and June 30, 2020 orders are stayed pending disposition of the appeal in the United States Court of Appeals for the Ninth Circuit and disposition of the petition for a writ of certiorari, if such writ is timely sought. Should the petition for a writ of certiorari be denied, this stay shall terminate automatically. In the event the petition for a writ of certiorari is granted, the stay shall terminate upon the sending down of the judgment of this Court.\nChief Justice ROBERTS, with whom Justice ALITO, Justice GORSUCH, and Justice KAVANAUGH join, concurring in the grant of stay.\nThe District Court in this case ordered Idaho either to certify an initiative for inclusion on the ballot without the requisite number of signatures, or to allow the initiative sponsor additional time to gather digital signatures through an online process of solicitation and submission never before used by the State. When the State chose neither option, the District Court authorized the sponsor to join with a third-party vendor to develop and implement a new online system over the course of nine days. The Ninth Circuit subsequently denied the State's request for a stay pending appeal, and Idaho now seeks the same relief from this Court.\nUnder the well-settled standard for this form of relief, the State must show (1) a \"reasonable probability\" that this Court will grant certiorari, (2) a \"fair prospect\" that the Court will reverse the judgment below, and (3) a \"likelihood that irreparable harm will result from the denial of a stay.\" Hollingsworth v. Perry , 558 U.S. 183, 190, 130 S.Ct. 705, 175 L.Ed.2d 657 (2010) (per curiam ). In my view, the State has satisfied each requirement for a stay.\nFirst, the Court is reasonably likely to grant certiorari to resolve the split presented by this case on an important issue of election administration. States retain \"considerable leeway to protect the integrity and reliability of the initiative process.\" Buckley v. American Constitutional Law Foundation, Inc. , 525 U.S. 182, 191, 119 S.Ct. 636, 142 L.Ed.2d 599 (1999). In exercising this discretionary authority, the States depend on clear and administrable guidelines from the courts. Yet the Circuits diverge in fundamental respects when presented with challenges to the sort of state laws at issue here. According to the Sixth and Ninth Circuits, the First Amendment requires scrutiny of the interests of the State whenever a neutral, procedural regulation inhibits a person's ability to place an initiative on the ballot. See Thompson v. DeWine , 959 F.3d 804, 808 (C.A.6 2020) (per curiam ); Angle v. Miller , 673 F.3d 1122, 1133 (C.A.9 2012). Other Circuits, by contrast, have held that regulations that may make the initiative process more challenging do not implicate the First Amendment so long as the State does not restrict political discussion or petition circulation. See, e.g., Jones v. Markiewicz-Qualkinbush , 892 F.3d 935, 938 (C.A.7 2018) ; Initiative and Referendum Institute v. Walker , 450 F.3d 1082, 1099-1100 (C.A.10 2006) (en banc); Dobrovolny v. Moore , 126 F.3d 1111, 1113 (C.A.8 1997). Since the onset of the pandemic, the Circuits have applied their conflicting frameworks to reach predictably contrary conclusions as to whether and to what extent States must adapt the initiative process to account for new obstacles to collecting signatures. Compare, e.g., Miller v. Thurston , 967 F. 3d 727, 740-41 (C.A.8, July 23, 2020), and Morgan v. White , 964 F.3d 649, 652 (C.A.7 2020) (per curiam ), with, e.g., SawariMedia, LLC v. Whitmer , 963 F.3d 595, 597 (C.A.6 2020).\nSecond, there is a fair prospect that the Court will set aside the District Court order. INS v. Legalization Assistance Project of Los Angeles County Federation of Labor , 510 U.S. 1301, 1304, 114 S.Ct. 422, 126 L.Ed.2d 410 (1993) (O'Connor, J., in chambers). This is not a case about the right to vote, but about how items are placed on the ballot in the first place. Nothing in the Constitution requires Idaho or any other State to provide for ballot initiatives. See Meyer v. Grant , 486 U.S. 414, 424, 108 S.Ct. 1886, 100 L.Ed.2d 425 (1988). And the claims at issue here challenge the application of only the most typical sort of neutral regulations on ballot access. Even assuming that the state laws at issue implicate the First Amendment, such reasonable, nondiscretionary restrictions are almost certainly justified by the important regulatory interests in combating fraud and ensuring that ballots are not cluttered with initiatives that have not demonstrated sufficient grassroots support. See Buckley , 525 U.S., at 204-205, 119 S.Ct. 636. The State's established verification procedure is no empty formality. In Idaho's largest county, clerks reject about 30 to 40 percent of signatures at this stage.\nThird, the State is likely to suffer irreparable harm absent a stay. Right now, the preliminary injunction disables Idaho from vindicating its sovereign interest in the enforcement of initiative requirements that are likely consistent with the First Amendment. See Abbott v. Perez , 585 U. S. ----, ---- - ----, and n. 17, 138 S.Ct. 2305, 2323-2324, and n. 17, 201 L.Ed.2d 714 (2018). The dissent does not regard the burden on the State as significant, but in my view that judgment fails to appreciate that the initiative process is just one aspect of a primary and general election system facing a wide variety of challenges in the face of the pandemic. The Governor and Secretary of State here, for example, have suspended some limits on absentee voting and processed requests for absentee ballots through online channels. In addition to preparing for elections with a record number of absentee ballot requests, the county clerks must now also learn, under extraordinary time pressures, how to verify digital signatures through an entirely new system mandated by the District Court. The District Court did not accord sufficient weight to the State's discretionary judgments about how to prioritize limited state resources across the election system as a whole.\nThe pending appeal in the Ninth Circuit does not eliminate the present strain imposed by this structural injunction on the time and resources of state and local officials, and the costs to the State will continue to add up over the coming weeks. Nor does the balance of equities counsel in favor of denying relief at this point. See Hollingsworth , 558 U.S., at 190, 130 S.Ct. 705. While a stay may preclude this particular initiative from appearing on the ballot this November, that consequence is attributable at least in part to Reclaim Idaho, which \"delayed unnecessarily\" its pursuit of relief until more than a month after the deadline for submitting signatures. Fishman v. Schaffer , 429 U.S. 1325, 1330, 97 S.Ct. 14, 50 L.Ed.2d 56 (1976) (Marshall, J., in chambers); see also Benisek v. Lamone , 585 U. S. ----, ---- - ----, 138 S.Ct. 1942, 1944-1945, 201 L.Ed.2d 398 (2018) (per curiam ). Finally, the dissent is wrong to criticize this Court for supposedly offering the \"first view\" on this matter. The District Court and the Court of Appeals have already acted on the State's request for a stay, which is now before us.\n\"A preliminary injunction is an extraordinary remedy.\" Winter v. Natural Resources Defense Council, Inc. , 555 U.S. 7, 24, 129 S.Ct. 365, 172 L.Ed.2d 249 (2008). And the injunction here is all the more extraordinary given the extent to which the District Court recast the initiative process. See Lewis v. Casey , 518 U.S. 343, 349, 116 S.Ct. 2174, 135 L.Ed.2d 606 (1996). No one has overlooked that the State bears an \"especially heavy burden\" in justifying a stay pending its appeal to the Ninth Circuit. Packwood v. Senate Select Comm. on Ethics , 510 U.S. 1319, 1320, 114 S.Ct. 1036, 127 L.Ed.2d 530 (1994) (Rehnquist, C. J., in chambers). But in my view that burden has been met, especially in light of the transformative and intrusive nature of this preliminary injunction.\nJustice SOTOMAYOR, with whom Justice GINSBURG joins, dissenting from the grant of stay.\nYet again, this Court intervenes to grant a stay pending appeal, in this case less than two weeks before the Court of Appeals for the Ninth Circuit is poised to hear an expedited appeal on a preliminary injunction entered by the District Court. That injunction requires the State of Idaho to accommodate delays and risks introduced by the COVID-19 pandemic by extending the deadline for accepting ballot-initiative signatures and permitting digital collection of signatures. The State claims that it requires immediate intervention from this Court because, absent a stay, it must expend time and resources verifying digital signatures in advance of the extended signature-submission deadline.\nBut the equities do not favor the State, at least not yet. The Ninth Circuit will hear Idaho's case on August 11, almost a month before Idaho's Secretary of State must certify ballot questions to county clerks (on September 7), and almost three months before election day. If the District Court's preliminary injunction turns out to have been improper, Idaho will still have time to omit respondents' initiative from the November ballot. Respondents, on the other hand, are in a far more precarious position. Cf. Barnes v. E-Systems, Inc. Group Hospital Medical & Surgical Ins. Plan , 501 U.S. 1301, 1304-1305, 112 S.Ct. 1, 115 L.Ed.2d 1087 (1991) (Scalia, J., in chambers) (even where an injunction bars enforcement of a State's laws, \"sound equitable discretion\" requires balancing harms to stay applicant against harms to respondent). The stay granted today puts a halt to their signature-collection efforts, meaning that even if respondents ultimately prevail on appeal, it will be extremely difficult, if not impossible, for them to collect enough qualifying signatures by any reasonable deadline for the November ballot. In other words, the delay occasioned by this Court's stay likely dooms to mootness respondents' First Amendment claims before any appellate court has had the chance to consider their merits (and, indeed, before this Court has had the chance to consider any potential petition for certiorari).\nTo be sure, as the concurrence points out, the District Court's preliminary injunction burdens Idaho's county clerks with the task of verifying digital signatures during an already busy election year. But Idaho's undeniable interest in vacatur of the preliminary injunction should be considered in the first instance by the Ninth Circuit, which must weigh the State's temporary expenditure of resources against the significant First Amendment questions raised by respondents. It is premature to assume, based only on that court's (necessarily quick) resolution of Idaho's emergency motion for a stay, that the Ninth Circuit will strike that balance incorrectly upon consideration of the parties' full briefing and oral argument.\nNonetheless, based on only the chance that Idaho will not prevail on appeal, that Idaho will seek certiorari in this Court, and that this Court will grant that petition and reverse the (hypothetical) judgment below, this Court takes the extraordinary step of staying the District Court's preliminary injunction pending appeal. In doing so, the Court dispenses liberally a \"rare and exceptional\" remedy, one that this Court traditionally has granted \"only 'upon the weightiest considerations,' \" merely to address alleged harms that would exist in the mine-run of similar cases. Fargo Women's Health Organization v. Schafer , 507 U.S. 1013, 1014, 113 S.Ct. 1668, 123 L.Ed.2d 285 (1993) (O'Connor, J., concurring in denial of application) (quoting O'Rourke v. Levine , 80 S.Ct. 623, 624, 4 L.Ed.2d 615, 616 (1960) (Harlan, J., in chambers)). And it deprives itself of the benefit of the appellate court's full consideration and review of the important constitutional issues at the heart of this case. See Wolf v. Cook County , 589 U. S. ----, ----, 140 S.Ct. 681, 683-684, 206 L.Ed.2d 142 (2020) (SOTOMAYOR, J., dissenting from grant of stay). Especially given that the Ninth Circuit has signaled its intent to act expeditiously, there is no cause for this Court to usurp the Court of Appeals' responsibility \"to review the District Court's decision ... in the first instance.\" McLane Co. v. EEOC , 581 U. S. ----, ---- - ----, 137 S.Ct. 1159, 1170, 197 L.Ed.2d 500 (2017)\nAlthough an applicant seeking a stay pending appeal \"has an especially heavy burden,\" Packwood v. Senate Select Comm. on Ethics , 510 U.S. 1319, 1320, 114 S.Ct. 1036, 127 L.Ed.2d 530 (1994) (Rehnquist, C. J., in chambers), this Court has begun to grant such stays with notable frequency. See, e.g., Department of Homeland Security v. New York , 589 U. S. ----, 140 S.Ct. 599, 206 L.Ed.2d 115 (2020) ; Republican National Committee v. Democratic National Committee , 589 U. S. ----, 140 S.Ct. 1205, 206 L.Ed.2d 452 (2020) (per curiam ); Barr v. Lee , --- U.S. ----, 140 S.Ct. 2590, --- L.Ed.2d ---- (2020), ante , p. ----, (per curiam ); Barr v. Purkey , --- U.S. ----, --- S.Ct. ----, --- L.Ed.2d ---- (2020), ante , p. ----, 2020 WL 4006821 ; Merrill v. People First of Alabama , --- U.S. ----, --- S.Ct. ----, --- L.Ed.2d ---- (2020), ante , p. ----, 2020 WL 3604049 ; Wolf v. Cook County , 589 U. S. ----, 140 S.Ct. 681, 206 L.Ed.2d 142 (2020) ; Henry Schein, Inc. v. Archer & White Sales, Inc. , 589 U. S. ----, 140 S.Ct. 951, 205 L.Ed.2d 532 (2020). It is beginning to look like such an applicant has nearly no burden at all.\nAs the concurrence notes, the fact that respondents are short on time is attributable, at least in part, to their delay in filing suit. But given the difficulties of securing legal counsel during a pandemic, I cannot agree with THE CHIEF JUSTICE's conclusion that their delay was \" 'unnecessar[y].' \" Ante , at 2617 (quoting Fishman v. Schaffer , 429 U.S. 1325, 1330, 97 S.Ct. 14, 50 L.Ed.2d 56 (1976) (Marshall, J., in chambers) (concluding that applicants seeking to challenge a years' old statute had \"delayed unnecessarily in commencing ... suit\"))."
+  },
+  "file_name": "2616-01",
+  "first_page_order": 2616,
+  "last_page_order": 2619
+}

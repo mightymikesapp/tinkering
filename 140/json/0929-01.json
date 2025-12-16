@@ -1,0 +1,64 @@
+{
+  "id": 12630746,
+  "name": "Cornell D. REYNOLDS, Petitioner, v. Randall HEPP, Warden.",
+  "name_abbreviation": "Reynolds v. Hepp",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 18-8818",
+  "first_page": "929",
+  "last_page": "929",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 929"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 507"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 162,
+    "sha256": "50f5c979067071cf3f7122ddf73ad707346cbc471ea3c746b53d652b8e03fcd9",
+    "simhash": "1:e8bd7042c89ab444",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cornell D. REYNOLDS, Petitioner,\nv.\nRandall HEPP, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for rehearing is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cornell D. REYNOLDS, Petitioner,\nv.\nRandall HEPP, Warden.\nNo. 18-8818\nSupreme Court of the United States.\nJanuary 13, 2020\nThe petition for rehearing is denied."
+  },
+  "file_name": "0929-01",
+  "first_page_order": 929,
+  "last_page_order": 929
+}

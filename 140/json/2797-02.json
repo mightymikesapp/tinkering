@@ -1,0 +1,64 @@
+{
+  "id": 12628000,
+  "name": "Fernando A. RAMIREZ, Petitioner, v. Dave HOGUE, et al.",
+  "name_abbreviation": "Ramirez v. Hogue",
+  "decision_date": "2020-05-18",
+  "docket_number": "No. 19-876.",
+  "first_page": "2797",
+  "last_page": "2797",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2797"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 958"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 148,
+    "sha256": "a2c2d98deb342e31a017b04b7a97d62a903d7f5f1b730b8f4dbb477eae656bd5",
+    "simhash": "1:c7259c1897df30df",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fernando A. RAMIREZ, Petitioner,\nv.\nDave HOGUE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fernando A. RAMIREZ, Petitioner,\nv.\nDave HOGUE, et al.\nNo. 19-876.\nSupreme Court of the United States.\nMay 18, 2020\nPetition for rehearing denied."
+  },
+  "file_name": "2797-02",
+  "first_page_order": 2797,
+  "last_page_order": 2797
+}

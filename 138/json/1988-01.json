@@ -1,0 +1,64 @@
+{
+  "id": 12612427,
+  "name": "WYOMING, petitioner, v. Phillip SAM.",
+  "name_abbreviation": "Wyoming v. Sam",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u2013952.",
+  "first_page": "1988",
+  "last_page": "1988",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1988"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 248"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 171,
+    "sha256": "0b67374a9be778f222a9a51b89d32b88840203fccf4a18cc4130dec90afe2189",
+    "simhash": "1:68ef44143aae64b1",
+    "word_count": 28
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WYOMING, petitioner,\nv.\nPhillip SAM."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Wyoming denied."
+    ],
+    "corrections": "",
+    "head_matter": "WYOMING, petitioner,\nv.\nPhillip SAM.\nNo. 17-952.\nSupreme Court of the United States\nMay 14, 2018.\nPetition for writ of certiorari to the Supreme Court of Wyoming denied."
+  },
+  "file_name": "1988-01",
+  "first_page_order": 1988,
+  "last_page_order": 1988
+}

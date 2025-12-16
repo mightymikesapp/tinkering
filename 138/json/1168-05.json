@@ -1,0 +1,64 @@
+{
+  "id": 12610486,
+  "name": "In Re Sharon CLOUD, petitioner.",
+  "name_abbreviation": "In re Cloud",
+  "decision_date": "2018-02-26",
+  "docket_number": "No. 17\u20137211.",
+  "first_page": "1168",
+  "last_page": "1168",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1168"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 328"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 153,
+    "sha256": "ed815fd1b436ccdd234df0e4a96adf4d26765a1c48c1d2ad289c2e35cc6169af",
+    "simhash": "1:b87754569e162816",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Sharon CLOUD, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Sharon CLOUD, petitioner.\nNo. 17-7211.\nSupreme Court of the United States\nFeb. 26, 2018.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "1168-05",
+  "first_page_order": 1168,
+  "last_page_order": 1168
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12625865,
+  "name": "ZIMMER, INC., et al., Petitioners, v. STRYKER CORPORATION, et al.",
+  "name_abbreviation": "Zimmer, Inc. v. Stryker Corp.",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-1549",
+  "first_page": "136",
+  "last_page": "136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 136"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 233,
+    "sha256": "ceb81df01385c3f772a16279d99897e4f5ec375e5dceda90eb998615d1aa43fc",
+    "simhash": "1:eaff74cc37009385",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ZIMMER, INC., et al., Petitioners,\nv.\nSTRYKER CORPORATION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "ZIMMER, INC., et al., Petitioners,\nv.\nSTRYKER CORPORATION, et al.\nNo. 18-1549\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0136-02",
+  "first_page_order": 136,
+  "last_page_order": 136
+}

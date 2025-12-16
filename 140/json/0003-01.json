@@ -1,0 +1,366 @@
+{
+  "id": 12628319,
+  "name": "William P. BARR, Attorney General, et al. v. EAST BAY SANCTUARY COVENANT, et al.",
+  "name_abbreviation": "Barr v. E. Bay Sanctuary Covenant",
+  "decision_date": "2019-09-11",
+  "docket_number": "No. 19A230",
+  "first_page": "3",
+  "last_page": "6",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 3"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1189"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "202 L.Ed.2d 510",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12623972,
+        12623973,
+        12623977,
+        12623981,
+        12623982,
+        12623983
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0782-01",
+        "/s-ct/139/0782-02",
+        "/s-ct/139/0782-06",
+        "/s-ct/139/0783-04",
+        "/s-ct/139/0783-05",
+        "/s-ct/139/0783-06"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 782",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12623972,
+        12623973,
+        12623974,
+        12623975,
+        12623976,
+        12623977
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0782-01",
+        "/s-ct/139/0782-02",
+        "/s-ct/139/0782-03",
+        "/s-ct/139/0782-04",
+        "/s-ct/139/0782-05",
+        "/s-ct/139/0782-06"
+      ]
+    },
+    {
+      "cite": "2019 WL 4265078",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2019,
+      "opinion_index": -1
+    },
+    {
+      "cite": "391 F.Supp.3d 974",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        12532556
+      ],
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-supp-3d/391/0974-01"
+      ]
+    },
+    {
+      "cite": "127 L.Ed.2d 530",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "Rehnquist, C. J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "114 S.Ct. 1036",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "Rehnquist, C. J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "510 U.S. 1319",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        235410
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1320",
+          "parenthetical": "Rehnquist, C. J., in chambers"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/510/1319-01"
+      ]
+    },
+    {
+      "cite": "183 L.Ed.2d 667",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "ROBERTS, C.J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "133 S.Ct. 1",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "parenthetical": "ROBERTS, C.J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "567 U.S. 1301",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12413270
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "1302",
+          "parenthetical": "ROBERTS, C.J., in chambers"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/567/1301-01"
+      ]
+    },
+    {
+      "cite": "60 L.Ed.2d 1033",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "Stevens, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "99 S.Ct. 2095",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "Stevens, J., in chambers"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "442 U.S. 1309",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1531853
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1311",
+          "parenthetical": "Stevens, J., in chambers"
+        },
+        {
+          "page": "1311"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/442/1309-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 770",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6222374
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "776"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/481/0770-01"
+      ]
+    },
+    {
+      "cite": "2019 WL 3850928",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "934 F.3d 1026",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12522354
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/934/1026-01"
+      ]
+    },
+    {
+      "cite": "84 Fed. Reg. 33839",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "94 Stat. 105",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "385 F.Supp.3d 922",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        12531976
+      ],
+      "weight": 9,
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "929-930"
+        },
+        {
+          "page": "939-947, 959"
+        },
+        {
+          "page": "948-951",
+          "parenthetical": "discussing statutory exceptions to notice-and-comment procedures"
+        },
+        {
+          "page": "951-957"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f-supp-3d/385/0922-01"
+      ]
+    },
+    {
+      "cite": "84 Fed. Reg. 33829",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "weight": 2,
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 591,
+    "char_count": 8927,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41488499908681936
+    },
+    "sha256": "ae241edfd2f4ee96a9aa55deb01bdd2bb74a48e992aad82ee9e6b90fab402c4c",
+    "simhash": "1:b17c73262b93c7bf",
+    "word_count": 1397
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William P. BARR, Attorney General, et al.\nv.\nEAST BAY SANCTUARY COVENANT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The application for stay presented to Justice KAGAN and by her referred to the Court is granted. The district court's July 24, 2019 order granting a preliminary injunction and September 9, 2019 order restoring the nationwide scope of the injunction are stayed in full pending disposition of the Government's appeal in the United States Court of Appeals for the Ninth Circuit and disposition of the Government's petition for a writ of certiorari, if such writ is sought. If a writ of certiorari is sought and the Court denies the petition, this order shall terminate automatically. If the Court grants the petition for a writ of certiorari, this order shall terminate when the Court enters its judgment.",
+      "Once again the Executive Branch has issued a rule that seeks to upend longstanding practices regarding refugees who seek shelter from persecution. Although this Nation has long kept its doors open to refugees-and although the stakes for asylum seekers could not be higher-the Government implemented its rule without first providing the public notice and inviting the public input generally required by law. After several organizations representing immigrants sued to stop the rule from going into effect, a federal district court found that the organizations were likely to prevail and preliminarily enjoined the rule nationwide. A federal appeals court narrowed the injunction to run only circuit-wide, but denied the Government's motion for a complete stay.",
+      "Now the Government asks this Court to intervene and to stay the preliminary decisions below. This is an extraordinary request. Unfortunately, the Court acquiesces. Because I do not believe the Government has met its weighty burden for such relief, I would deny the stay.",
+      "The Attorney General and Secretary of Homeland Security promulgated the rule at issue here on July 16, 2019. See 84 Fed. Reg. 33829. In effect, the rule forbids almost all Central Americans-even unaccompanied children-to apply for asylum in the United States if they enter or seek to enter through the southern border, unless they were first denied asylum in Mexico or another third country. Id. , at 33835, 33840 ; see also 385 F.Supp.3d 922, 929-930 (N.D. Cal. 2019)."
+    ],
+    "corrections": "",
+    "head_matter": "William P. BARR, Attorney General, et al.\nv.\nEAST BAY SANCTUARY COVENANT, et al.\nNo. 19A230\nSupreme Court of the United States.\nSeptember 11, 2019\nThe application for stay presented to Justice KAGAN and by her referred to the Court is granted. The district court's July 24, 2019 order granting a preliminary injunction and September 9, 2019 order restoring the nationwide scope of the injunction are stayed in full pending disposition of the Government's appeal in the United States Court of Appeals for the Ninth Circuit and disposition of the Government's petition for a writ of certiorari, if such writ is sought. If a writ of certiorari is sought and the Court denies the petition, this order shall terminate automatically. If the Court grants the petition for a writ of certiorari, this order shall terminate when the Court enters its judgment.\nJustice SOTOMAYOR, with whom Justice GINSBURG joins, dissenting from grant of stay.\nOnce again the Executive Branch has issued a rule that seeks to upend longstanding practices regarding refugees who seek shelter from persecution. Although this Nation has long kept its doors open to refugees-and although the stakes for asylum seekers could not be higher-the Government implemented its rule without first providing the public notice and inviting the public input generally required by law. After several organizations representing immigrants sued to stop the rule from going into effect, a federal district court found that the organizations were likely to prevail and preliminarily enjoined the rule nationwide. A federal appeals court narrowed the injunction to run only circuit-wide, but denied the Government's motion for a complete stay.\nNow the Government asks this Court to intervene and to stay the preliminary decisions below. This is an extraordinary request. Unfortunately, the Court acquiesces. Because I do not believe the Government has met its weighty burden for such relief, I would deny the stay.\nThe Attorney General and Secretary of Homeland Security promulgated the rule at issue here on July 16, 2019. See 84 Fed. Reg. 33829. In effect, the rule forbids almost all Central Americans-even unaccompanied children-to apply for asylum in the United States if they enter or seek to enter through the southern border, unless they were first denied asylum in Mexico or another third country. Id. , at 33835, 33840 ; see also 385 F.Supp.3d 922, 929-930 (N.D. Cal. 2019).\nThe District Court found that the rule was likely unlawful for at least three reasons. See id. , at 938-957. First, the court found it probable that the rule was inconsistent with the asylum statute, 94 Stat. 105, as amended, 8 U.S. C. \u00a7 1158. See \u00a7 1158(b)(2)(C) (requiring that any regulation like the rule be \"consistent\" with the statute). Section 1158 generally provides that any noncitizen \"physically present in the United States or who arrives in the United States ... may apply for asylum.\" \u00a7 1158(a)(1). And unlike the rule, the District Court explained, the statute provides narrow, carefully calibrated exceptions to asylum eligibility. As relevant here, Congress restricted asylum based on the possibility that a person could safely resettle in a third country. See \u00a7 1158(a)(2)(A), (b)(2)(A)(vi). The rule, by contrast, does not consider whether refugees were safe or resettled in Mexico-just whether they traveled through it. That blunt approach, according to the District Court, rewrote the statute. See 385 F.Supp.3d at 939-947, 959.\nSecond, the District Court found that the challengers would likely prevail because the Government skirted typical rulemaking procedures. Id. , at 947-951. The District Court noted \"serious questions\" about the rule's validity because the Government effected a sea change in immigration law without first providing advance notice and opportunity for public comment. Id. , at 930 ; see also 5 U.S. C. \u00a7 553. The District Court found the Government's purported justifications unpersuasive at the preliminary-injunction stage. 385 F.Supp.3d at 948-951 (discussing statutory exceptions to notice-and-comment procedures).\nLast, the District Court found the explanation for the rule so poorly reasoned that the Government's action was likely arbitrary and capricious. See id. , at 951-957 ; 5 U.S. C. \u00a7 706. On this score, the District Court addressed the Government's principal justifications for the rule: that failing to seek asylum while fleeing through more than one country \"raises questions about the validity and urgency\" of the asylum seeker's claim, 84 Fed. Reg. 33839 ; and that Mexico, the last port of entry before the United States, offers a feasible alternative for persons seeking protection from persecution, id. , at 33835, 33839-33840. The District Court examined the evidence in the administrative record and explained why it flatly refuted the Government's assumptions. 385 F.Supp.3d at 951-957. A \"mountain of evidence points one way,\" the District Court observed, yet the Government \"went the other-with no explanation .\" Id. , at 955.\nAfter the District Court issued the injunction, the Ninth Circuit declined the Government's request for a complete stay, reasoning that the Government did not make the required \" 'strong showing' \" that it would likely succeed on the merits of each issue. 934 F.3d 1026, 1028 - 1029 (2019), 2019 WL 3850928, *1 (quoting Hilton v. Braunskill , 481 U.S. 770, 776, 107 S.Ct. 2113, 95 L.Ed.2d 724 (1987) ). Narrowing the injunction to the Circuit's borders, the Ninth Circuit expedited the appeal and permitted the District Court to consider whether additional facts would warrant a broader injunction. 934 F.3d 1026, 1029 - 1031, 2019 WL 3850928, *2-*3.\nThe lower courts' decisions warrant respect. A stay pending appeal is \"extraordinary\" relief. Williams v. Zbaraz , 442 U.S. 1309, 1311, 99 S.Ct. 2095, 60 L.Ed.2d 1033 (1979) (Stevens, J., in chambers); see also Maryland v. King , 567 U.S. 1301, 1302, 133 S.Ct. 1, 183 L.Ed.2d 667 (2012) (ROBERTS, C.J., in chambers) (listing stay factors). Given the District Court's thorough analysis, and the serious questions that court raised, I do not believe the Government has carried its \"especially heavy\" burden. Packwood v. Senate Select Comm. on Ethics , 510 U.S. 1319, 1320, 114 S.Ct. 1036, 127 L.Ed.2d 530 (1994) (Rehnquist, C. J., in chambers). The rule here may be, as the District Court concluded, in significant tension with the asylum statute. It may also be arbitrary and capricious for failing to engage with the record evidence contradicting its conclusions. It is especially concerning, moreover, that the rule the Government promulgated topples decades of settled asylum practices and affects some of the most vulnerable people in the Western Hemisphere-without affording the public a chance to weigh in.\nSetting aside the merits, the unusual history of this case also counsels against our intervention. This lawsuit has been proceeding on three tracks: In this Court, the parties have litigated the Government's stay request. In the Ninth Circuit, the parties are briefing the Government's appeal. And in the District Court, the parties recently participated in an evidentiary hearing to supplement the record. Indeed, just two days ago the District Court reinstated a nationwide injunction based on new facts. See East Bay Sanctuary Covenant v. Barr , No. 4:19-cv-4073, Doc. 73, 391 F.Supp.3d 974, 2019 WL 4265078 (N.D. Cal., Sept. 9, 2019). Notably, the Government moved to stay the newest order in both the District Court and the Ninth Circuit. (Neither court has resolved that request, though the Ninth Circuit granted an administrative stay to allow further deliberation.) This Court has not considered the new evidence, nor does it pause for the lower courts to resolve the Government's pending motions. By granting a stay, the Court simultaneously lags behind and jumps ahead of the courts below. And in doing so, the Court sidesteps the ordinary judicial process to allow the Government to implement a rule that bypassed the ordinary rulemaking process. I fear that the Court's precipitous action today risks undermining the interbranch governmental processes that encourage deliberation, public participation, and transparency.\n* * *\nIn sum, granting a stay pending appeal should be an \"extraordinary\" act. Williams , 442 U.S., at 1311, 99 S.Ct. 2095. Unfortunately, it appears the Government has treated this exceptional mechanism as a new normal. Historically, the Government has made this kind of request rarely; now it does so reflexively. See, e.g. , Vladeck, The Solicitor General and the Shadow Docket, 133 Harv. L. Rev. (forthcoming Nov. 2019). Not long ago, the Court resisted the shortcut the Government now invites. See Trump v. East Bay Sanctuary Covenant , 586 U.S. ----, 139 S.Ct. 782, 202 L.Ed.2d 510 (2018). I regret that my colleagues have not exercised the same restraint here. I respectfully dissent."
+  },
+  "file_name": "0003-01",
+  "first_page_order": 3,
+  "last_page_order": 6
+}

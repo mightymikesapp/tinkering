@@ -1,0 +1,64 @@
+{
+  "id": 12623247,
+  "name": "John Anthony GENTRY, petitioner, v. TENNESSEE, et al.",
+  "name_abbreviation": "Gentry v. Tennessee",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18\u2013170.",
+  "first_page": "498",
+  "last_page": "498",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 498"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 399"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 148,
+    "sha256": "6036bf256e9cf6bd5963a1008a25c95dd440a8b7b8975b4f682723711b50870a",
+    "simhash": "1:10e354060ecec680",
+    "word_count": 23
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Anthony GENTRY, petitioner,\nv.\nTENNESSEE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Anthony GENTRY, petitioner,\nv.\nTENNESSEE, et al.\nNo. 18-170.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "0498-06",
+  "first_page_order": 498,
+  "last_page_order": 498
+}

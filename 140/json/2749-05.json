@@ -1,0 +1,64 @@
+{
+  "id": 12627746,
+  "name": "William L. LEWIS, Petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Lewis v. Illinois",
+  "decision_date": "2020-05-04",
+  "docket_number": "No. 19-7971.",
+  "first_page": "2749",
+  "last_page": "2749",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2749"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 924"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 197,
+    "sha256": "754998856f08531f7b1ed7e3d0e31ae402ad8ca93cbb60616f32294cdb586f76",
+    "simhash": "1:d4aff6501a184416",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William L. LEWIS, Petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Second District denied."
+    ],
+    "corrections": "",
+    "head_matter": "William L. LEWIS, Petitioner,\nv.\nILLINOIS.\nNo. 19-7971.\nSupreme Court of the United States.\nMay 4, 2020\nPetition for writ of certiorari to the Appellate Court of Illinois, Second District denied."
+  },
+  "file_name": "2749-05",
+  "first_page_order": 2749,
+  "last_page_order": 2749
+}

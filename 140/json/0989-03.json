@@ -1,0 +1,62 @@
+{
+  "id": 12631050,
+  "name": "In the MATTER OF DISBARMENT OF Marc Norman SILBERMAN",
+  "name_abbreviation": "In re Silberman",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. D-3047",
+  "first_page": "989",
+  "last_page": "989",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 989"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 144,
+    "sha256": "495af99377dbc4b5e3adaf41dc6a28d3e049ade3ddf4a0e5989a3043ad8964e3",
+    "simhash": "1:e9b7d40ea6245744",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the MATTER OF DISBARMENT OF Marc Norman SILBERMAN"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the MATTER OF DISBARMENT OF Marc Norman SILBERMAN\nNo. D-3047\nSupreme Court of the United States.\nJanuary 27, 2020\nDisbarment order entered."
+  },
+  "file_name": "0989-03",
+  "first_page_order": 989,
+  "last_page_order": 989
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12625838,
+  "name": "Roger L. RICHARDS, Petitioner, v. Darrel VANNOY, Warden.",
+  "name_abbreviation": "Richards v. Vannoy",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19M6",
+  "first_page": "131",
+  "last_page": "131",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 131"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 14"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 210,
+    "sha256": "859f595cffa1bf45c541e2fd70961508f16aef3271d34574dd7da95bb3ebbb29",
+    "simhash": "1:fdaf5247a789f9bf",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roger L. RICHARDS, Petitioner,\nv.\nDarrel VANNOY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roger L. RICHARDS, Petitioner,\nv.\nDarrel VANNOY, Warden.\nNo. 19M6\nSupreme Court of the United States.\nOctober 7, 2019\nMotion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+  },
+  "file_name": "0131-04",
+  "first_page_order": 131,
+  "last_page_order": 131
+}

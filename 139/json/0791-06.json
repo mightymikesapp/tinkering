@@ -1,0 +1,64 @@
+{
+  "id": 12624035,
+  "name": "Pedro GARCIA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Garcia v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20135762.",
+  "first_page": "791",
+  "last_page": "792",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 791"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "0d850893aa519dd043dc0c4a4db54457769ee206401b4fabff44ece13b3f694a",
+    "simhash": "1:bbaf624432068715",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro GARCIA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro GARCIA, petitioner,\nv.\nUNITED STATES.\nNo. 18-5762.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0791-06",
+  "first_page_order": 791,
+  "last_page_order": 792
+}

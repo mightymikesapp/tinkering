@@ -1,0 +1,64 @@
+{
+  "id": 12610744,
+  "name": "In Re Edwin Eugene TROUT, petitioner.",
+  "name_abbreviation": "In re Trout",
+  "decision_date": "2018-03-05",
+  "docket_number": "No. 17\u20137665.",
+  "first_page": "1274",
+  "last_page": "1274",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1274"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "09425c80c6ef48f4548436765eb466935fa6e5009e5a87a563f310d0c59ec775",
+    "simhash": "1:7c4a56641fb95108",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Edwin Eugene TROUT, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Edwin Eugene TROUT, petitioner.\nNo. 17-7665.\nSupreme Court of the United States\nMarch 5, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1274-06",
+  "first_page_order": 1274,
+  "last_page_order": 1274
+}

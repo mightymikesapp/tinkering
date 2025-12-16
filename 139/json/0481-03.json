@@ -1,0 +1,91 @@
+{
+  "id": 12623136,
+  "name": "Ray Lamar JOHNSTON, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Johnston v. Florida",
+  "decision_date": "2018-11-13",
+  "docket_number": "No. 18\u20135793.",
+  "first_page": "481",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 481"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 398"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 27",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12621483
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "Thomas, J., concurring"
+        },
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0027-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 572,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636354474720341
+    },
+    "sha256": "ed79bd2f2f1e0192ef8c758f92b13f3a9bd51b6782b9de7c7571cddc414ea1f6",
+    "simhash": "1:eee99097ae2d27ec",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ray Lamar JOHNSTON, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied. Justice THOMAS, concurring in the denial of certiorari: I concur for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, ---L.Ed.2d ---- (2018) (Thomas, J., concurring). Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, --- L.Ed.2d ---- (2018) (Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Ray Lamar JOHNSTON, petitioner,\nv.\nFLORIDA.\nNo. 18-5793.\nSupreme Court of the United States\nNov. 13, 2018.\nPetition for writ of certiorari to the Supreme Court of Florida denied. Justice THOMAS, concurring in the denial of certiorari: I concur for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, ---L.Ed.2d ---- (2018) (Thomas, J., concurring). Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, --- L.Ed.2d ---- (2018) (Sotomayor, J., dissenting)."
+  },
+  "file_name": "0481-03",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12627107,
+  "name": "Steven L. RACKLEY, Petitioner, v. Brigham SLOAN, Warden",
+  "name_abbreviation": "Rackley v. Sloan",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5131",
+  "first_page": "260",
+  "last_page": "260",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 260"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 151"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "8e142d844f832ffef70f9ea9f06a1f56f26f0eb208df90cec0311ec5a8178b2a",
+    "simhash": "1:f2ad42463381432b",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven L. RACKLEY, Petitioner,\nv.\nBrigham SLOAN, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven L. RACKLEY, Petitioner,\nv.\nBrigham SLOAN, Warden\nNo. 19-5131\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0260-05",
+  "first_page_order": 260,
+  "last_page_order": 260
+}

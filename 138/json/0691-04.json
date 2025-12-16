@@ -1,0 +1,64 @@
+{
+  "id": 12616405,
+  "name": "Louis T. AGE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Age v. United States",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136713.",
+  "first_page": "691",
+  "last_page": "691",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 691"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 568"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 207,
+    "sha256": "16fd395788b503ab0f87f2b8393389bfef893589e8318272ef064e541fb51991",
+    "simhash": "1:adaff6c43b87520d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Louis T. AGE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Louis T. AGE, petitioner,\nv.\nUNITED STATES.\nNo. 17-6713.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0691-04",
+  "first_page_order": 691,
+  "last_page_order": 691
+}

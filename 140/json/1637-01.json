@@ -1,0 +1,649 @@
+{
+  "id": 12626102,
+  "name": "GE ENERGY POWER CONVERSION FRANCE SAS, CORP., fka Converteam SAS, Petitioner v. OUTOKUMPU STAINLESS USA, LLC, et al.",
+  "name_abbreviation": "Ge Energy Power Conversion Fr. Sas, Corp. v. Outokumpu Stainless USA, LLC",
+  "decision_date": "2020-06-01",
+  "docket_number": "No. 18-1048",
+  "first_page": "1637",
+  "last_page": "1649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1637"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "526 F.3d 38",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6048136
+      ],
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/526/0038-01"
+      ]
+    },
+    {
+      "cite": "675 F.3d 355",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3752062
+      ],
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "375"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/675/0355-01"
+      ]
+    },
+    {
+      "cite": "2017 WL 480716",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2017,
+      "opinion_index": 0
+    },
+    {
+      "cite": "535 U.S. 106",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353010
+      ],
+      "weight": 3,
+      "year": 2002,
+      "pin_cites": [
+        {
+          "page": "114-115, n. 8",
+          "parenthetical": "\"[T]here is no need to resolve deference issues when there is no need for deference\""
+        },
+        {
+          "parenthetical": "\"[T]here is no need to resolve deference issues when there is no need for deference\""
+        },
+        {
+          "parenthetical": "\"[T]here is no need to resolve deference issues when there is no need for deference\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/535/0106-01"
+      ]
+    },
+    {
+      "cite": "307 U.S. 325",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6139858
+      ],
+      "weight": 3,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "328, 337-349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/307/0325-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 122",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605499
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "136",
+          "parenthetical": "Brennan, J., concurring in judgment"
+        },
+        {
+          "parenthetical": "Brennan, J., concurring in judgment"
+        },
+        {
+          "parenthetical": "Brennan, J., concurring in judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0122-01"
+      ]
+    },
+    {
+      "cite": "560 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12448994,
+        3641994
+      ],
+      "weight": 4,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/176/0789-01",
+        "/us/560/0001-01"
+      ]
+    },
+    {
+      "cite": "876 F.3d 996",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12266368
+      ],
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1000-1001",
+          "parenthetical": "declining to give weight to the 2006 UN recommendation"
+        },
+        {
+          "page": "1001-1002"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/876/0996-01"
+      ]
+    },
+    {
+      "cite": "525 U.S. 155",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11076427
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/525/0155-01"
+      ]
+    },
+    {
+      "cite": "516 U.S. 217",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        327173
+      ],
+      "weight": 9,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "226"
+        },
+        {
+          "page": "227"
+        },
+        {
+          "page": "227"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/516/0217-01"
+      ]
+    },
+    {
+      "cite": "9 U.S.C. \u00a7 208",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "473 U.S. 614",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204792
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "639, n. 21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0614-01"
+      ]
+    },
+    {
+      "cite": "568 U.S. 371",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12407533
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "380-384"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/568/0371-01"
+      ]
+    },
+    {
+      "cite": "552 U.S. 491",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3675774
+      ],
+      "weight": 7,
+      "year": 2008,
+      "pin_cites": [
+        {
+          "page": "506"
+        },
+        {
+          "page": "507"
+        },
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/552/0491-01"
+      ]
+    },
+    {
+      "cite": "9 U.S.C. \u00a7\u00a7 201",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 Stat. 692",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "556 U.S. 624",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3653731
+      ],
+      "weight": 9,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "630"
+        },
+        {
+          "page": "631-632"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/556/0624-01"
+      ]
+    },
+    {
+      "cite": "417 U.S. 506",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1519355
+      ],
+      "weight": 5,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "511"
+        },
+        {
+          "page": "520, n. 15"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/417/0506-01"
+      ]
+    },
+    {
+      "cite": "489 U.S. 468",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032439
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "474",
+          "parenthetical": "quoting Scherk v. Alberto-Culver Co. , 417 U.S. 506, 511, 94 S.Ct. 2449, 41 L.Ed.2d 270 (1974) "
+        },
+        {
+          "parenthetical": "quoting Scherk v. Alberto-Culver Co. , 417 U.S. 506, 511, 94 S.Ct. 2449, 41 L.Ed.2d 270 (1974) "
+        },
+        {
+          "parenthetical": "quoting Scherk v. Alberto-Culver Co. , 417 U.S. 506, 511, 94 S.Ct. 2449, 41 L.Ed.2d 270 (1974) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/0468-01"
+      ]
+    },
+    {
+      "cite": "9 U.S.C. \u00a7 2",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "204 L.Ed.2d 1156",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12621984,
+        12621994,
+        12621995,
+        12621964,
+        12621973,
+        12621981,
+        12621982
+      ],
+      "year": 2019,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/139/2777-03",
+        "/s-ct/139/2779-03",
+        "/s-ct/139/2779-04",
+        "/s-ct/139/2773-03",
+        "/s-ct/139/2775-02",
+        "/s-ct/139/2776-06",
+        "/s-ct/139/2777-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 2776",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12621976,
+        12621977,
+        12621978,
+        12621979,
+        12621980,
+        12621981
+      ],
+      "year": 2019,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/139/2776-01",
+        "/s-ct/139/2776-02",
+        "/s-ct/139/2776-03",
+        "/s-ct/139/2776-04",
+        "/s-ct/139/2776-05",
+        "/s-ct/139/2776-06"
+      ]
+    },
+    {
+      "cite": "902 F.3d 1316",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518413
+      ],
+      "weight": 6,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1326"
+        },
+        {
+          "page": "1326"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/902/1316-01"
+      ]
+    },
+    {
+      "cite": "2017 WL 401951",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 3,
+      "year": 2017,
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 U.S.C. \u00a7 205",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "200 U.S. 321",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8294520
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "337"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/200/0321-01"
+      ]
+    },
+    {
+      "cite": "561 U.S. 287",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12455281,
+        3644277
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "299",
+          "parenthetical": "\"[T]he first principle that underscores all of our arbitration decisions\" is that \"[a]rbitration is strictly 'a matter of consent' \""
+        },
+        {
+          "parenthetical": "\"[T]he first principle that underscores all of our arbitration decisions\" is that \"[a]rbitration is strictly 'a matter of consent' \""
+        },
+        {
+          "parenthetical": "\"[T]he first principle that underscores all of our arbitration decisions\" is that \"[a]rbitration is strictly 'a matter of consent' \""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/l-ed-2d/177/0567-01",
+        "/us/561/0287-01"
+      ]
+    },
+    {
+      "cite": "203 L.Ed.2d 636",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2019,
+      "pin_cites": [
+        {
+          "parenthetical": "\"Consent is essential under the FAA\""
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "139 S.Ct. 1407",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12619005,
+        12619006
+      ],
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "1416",
+          "parenthetical": "\"Consent is essential under the FAA\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/s-ct/139/1407-01",
+        "/s-ct/139/1407-02"
+      ]
+    },
+    {
+      "cite": "559 U.S. 662",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12448443,
+        3582279
+      ],
+      "weight": 7,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "681"
+        },
+        {
+          "page": "684"
+        },
+        {
+          "page": "684"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/l-ed-2d/176/0605-01",
+        "/us/559/0662-01"
+      ]
+    },
+    {
+      "cite": "9 U.S.C. \u00a7 208",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "489 U.S. 468",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12032439
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/489/0468-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1170,
+    "char_count": 26328,
+    "pagerank": {
+      "raw": 4.417441169658951e-08,
+      "percentile": 0.2772570910504821
+    },
+    "sha256": "eab535ba9d775ac880e5cbbff9a7585ab2d14be271426335c7d3b0c46a969610",
+    "simhash": "1:4acba32d5befd789",
+    "word_count": 4114
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GE ENERGY POWER CONVERSION FRANCE SAS, CORP., fka Converteam SAS, Petitioner\nv.\nOUTOKUMPU STAINLESS USA, LLC, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice THOMAS delivered the opinion of the Court.\nThe question in this case is whether the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, June 10, 1958, 21 U.S.T. 2517, T.I.A.S. No. 6997, conflicts with domestic equitable estoppel doctrines that permit the enforcement of arbitration agreements by nonsignatories. We hold that it does not.\nI\nIn 2007, ThyssenKrupp Stainless USA, LLC, entered into three contracts with F.L. Industries, Inc., for the construction of cold rolling mills at ThyssenKrupp's steel manufacturing plant in Alabama. Each of the contracts contained an identical arbitration clause. The clause provided that \"[a]ll disputes arising between both parties in connection with or in the performances of the Contract ... shall be submitted to arbitration for settlement.\" App. 171.\nAfter executing these agreements, F.L. Industries, Inc., entered into a subcontractor agreement with petitioner GE Energy Power Conversion France SAS, Corp. (GE Energy), then known as Converteam SAS. Under that agreement, GE Energy agreed to design, manufacture, and supply motors for the cold rolling mills. Between 2011 and 2012, GE Energy delivered nine motors to the Alabama plant for installation. Soon thereafter, respondent Outokumpu Stainless USA, LLC, acquired ownership of the plant from ThyssenKrupp.\nAccording to Outokumpu, GE Energy's motors failed by the summer of 2015, resulting in substantial damages. In 2016, Outokumpu and its insurers filed suit against GE Energy in Alabama state court. GE Energy removed the case to federal court under 9 U.S.C. \u00a7 205, which authorizes the removal of an action from state to federal court if the action \"relates to an arbitration agreement ... falling under the Convention [on the Recognition and Enforcement of Foreign Arbitral Awards].\" GE Energy then moved to dismiss and compel arbitration, relying on the arbitration clauses in the contracts between F.L. Industries, Inc., and ThyssenKrupp.\nThe District Court granted GE Energy's motion to dismiss and compel arbitration with Outokumpu and Sompo Japan Insurance Company of America. Outokumpu Stainless USA LLC v. Converteam SAS , 2017 WL 401951 (SD Ala., Jan. 30, 2017). The court held that GE Energy qualified as a party under the arbitration clauses because the contracts defined the terms \"Seller\" and \"Parties\" to include subcontractors. Id. , at *4. Because the court concluded that both Outokumpu and GE Energy were parties to the agreements, it declined to address GE Energy's argument that the agreement was enforceable under equitable estoppel. Id. , at *1, n. 1.\nThe Eleventh Circuit reversed the District Court's order compelling arbitration. Outokumpu Stainless USA, LLC v. Converteam SAS , 902 F.3d 1316 (2018). The court interpreted the Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention or Convention) to include a \"requirement that the parties actually sign an agreement to arbitrate their disputes in order to compel arbitration.\" Id. , at 1326 (emphasis in original). The court concluded that this requirement was not satisfied because \"GE Energy is undeniably not a signatory to the Contracts.\" Ibid. It then held that GE Energy could not rely on state-law equitable estoppel doctrines to enforce the arbitration agreement as a nonsignatory because, in the court's view, equitable estoppel conflicts with the Convention's signatory requirement. Id. , at 1326-1327.\nGiven a conflict between the Courts of Appeals on this question, we granted certiorari. 588 U.S. ----, 139 S.Ct. 2776, 204 L.Ed.2d 1156 (2019).\nII\nA\nChapter 1 of the Federal Arbitration Act (FAA) permits courts to apply state-law doctrines related to the enforcement of arbitration agreements. Section 2 of that chapter provides that an arbitration agreement in writing \"shall be ... enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.\" 9 U.S.C. \u00a7 2. As we have explained, this provision requires federal courts to \"place [arbitration] agreements ' \"upon the same footing as other contracts.\" ' \" Volt Information Sciences, Inc. v. Board of Trustees of Leland Stanford Junior Univ. , 489 U.S. 468, 474, 109 S.Ct. 1248, 103 L.Ed.2d 488 (1989) (quoting Scherk v. Alberto-Culver Co. , 417 U.S. 506, 511, 94 S.Ct. 2449, 41 L.Ed.2d 270 (1974) ). But it does not \"alter background principles of state contract law regarding the scope of agreements (including the question of who is bound by them).\" Arthur Andersen LLP v. Carlisle , 556 U.S. 624, 630, 129 S.Ct. 1896, 173 L.Ed.2d 832 (2009).\nThe \"traditional principles of state law\" that apply under Chapter 1 include doctrines that authorize the enforcement of a contract by a nonsignatory. Id. , at 631, 129 S.Ct. 1896 (internal quotation marks omitted). For example, we have recognized that arbitration agreements may be enforced by nonsignatories through \" 'assumption, piercing the corporate veil, alter ego, incorporation by reference, third-party beneficiary theories, waiver and estoppel.' \" Ibid. (quoting 21 R. Lord, Williston on Contracts \u00a7 57:19, p. 183 (4th ed. 2001) ).\nThis case implicates domestic equitable estoppel doctrines. Generally, in the arbitration context, \"equitable estoppel allows a nonsignatory to a written agreement containing an arbitration clause to compel arbitration where a signatory to the written agreement must rely on the terms of that agreement in asserting its claims against the nonsignatory.\" Id. , at 200 (2017). In Arthur Andersen , we recognized that Chapter 1 of the FAA permits a nonsignatory to rely on state-law equitable estoppel doctrines to enforce an arbitration agreement. 556 U.S. at 631-632, 129 S.Ct. 1896.\nB\nThe New York Convention is a multilateral treaty that addresses international arbitration. 21 U.S.T. 2517, T.I.A.S. No. 6997. It focuses almost entirely on arbitral awards. Article I(1) describes the Convention as applying only to \"the recognition and enforcement of arbitral awards.\" Id., at 2519. Articles III, IV, and V contain recognition and enforcement obligations related to arbitral awards for contracting states and for parties seeking the enforcement of arbitral awards. Id., at 2519-2520. Article VI addresses when an award can be set aside or suspended. Id., at 2520. And Article VII(1) states that the \"Convention shall not ... deprive any interested party of any right he may have to avail himself of an arbitral award in the manner and to the extent allowed by the law or the treaties of the country where such award is sought to be relied upon.\" Id., at 2520-2521.\nOnly one article of the Convention addresses arbitration agreements-Article II. That article contains only three provisions, each one sentence long. Article II(1) requires \"[e]ach Contracting State [to] recognize an agreement in writing under which the parties undertake to submit to arbitration all or any differences which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not, concerning a subject matter capable of settlement by arbitration.\" Id., at 2519. Article II(2) provides that \"[t]he term 'agreement in writing' shall include an arbitral clause in a contract or an arbitration agreement, signed by the parties or contained in an exchange of letters or telegrams.\" Ibid. Finally, Article II(3) states that \"[t]he court of a Contracting State, when seized of an action in a matter in respect of which the parties have made an agreement within the meaning of this article, shall, at the request of one of the parties, refer the parties to arbitration, unless it finds that the said agreement is null and void, inoperative or incapable of being performed.\" Ibid.\nC\nIn 1970, the United States acceded to the New York Convention, and Congress enacted implementing legislation in Chapter 2 of the FAA. See 84 Stat. 692, 9 U.S.C. \u00a7\u00a7 201 - 208. Chapter 2 grants federal courts jurisdiction over actions governed by the Convention, \u00a7 203; establishes venue for such actions, \u00a7 204; authorizes removal from state court, \u00a7 205 ; and empowers courts to compel arbitration, \u00a7 206. Chapter 2 also states that \"Chapter 1 applies to actions and proceedings brought under this chapter to the extent that [Chapter 1] is not in conflict with this chapter or the Convention.\" \u00a7 208.\nIII\nWe must determine whether the equitable estoppel doctrines permitted under Chapter 1 of the FAA, see supra, at 1643 - 1644, \"conflict with ... the Convention.\" \u00a7 208. Applying familiar tools of treaty interpretation, we conclude that they do not conflict.\nA\n\"The interpretation of a treaty, like the interpretation of a statute, begins with its text.\" Medell\u00edn v. Texas , 552 U.S. 491, 506, 128 S.Ct. 1346, 170 L.Ed.2d 190 (2008). The text of the New York Convention does not address whether nonsignatories may enforce arbitration agreements under domestic doctrines such as equitable estoppel. The Convention is simply silent on the issue of nonsignatory enforcement, and in general, \"a matter not covered is to be treated as not covered\"-a principle \"so obvious that it seems absurd to recite it,\" A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts 93 (2012).\nThis silence is dispositive here because nothing in the text of the Convention could be read to otherwise prohibit the application of domestic equitable estoppel doctrines. Only one Article of the Convention addresses arbitration agreements-Article II-and only one provision of Article II addresses the enforcement of those agreements-Article II(3). The text of Article II(3) states that courts of a contracting state \"shall ... refer the parties to arbitration\" when the parties to an action entered into a written agreement to arbitrate and one of the parties requests referral to arbitration. The provision, however, does not restrict contracting states from applying domestic law to refer parties to arbitration in other circumstances. That is, Article II(3) provides that arbitration agreements must be enforced in certain circumstances, but it does not prevent the application of domestic laws that are more generous in enforcing arbitration agreements. Article II(3) contains no exclusionary language; it does not state that arbitration agreements shall be enforced only in the identified circumstances. Given that the Convention was drafted against the backdrop of domestic law, it would be unnatural to read Article II(3) to displace domestic doctrines in the absence of exclusionary language. Cf. Marx v. General Revenue Corp. , 568 U.S. 371, 380-384, 133 S.Ct. 1166, 185 L.Ed.2d 242 (2013).\nThis interpretation is especially appropriate in the context of Article II. Far from displacing domestic law, the provisions of Article II contemplate the use of domestic doctrines to fill gaps in the Convention. For example, Article II(1) refers to disputes \"capable of settlement by arbitration,\" but it does not identify what disputes are arbitrable, leaving that matter to domestic law. Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc. , 473 U.S. 614, 639, n. 21, 105 S.Ct. 3346, 87 L.Ed.2d 444 (1985). Similarly, Article II(3) states that it does not apply to agreements that are \"null and void, inoperative or incapable of being performed,\" but it fails to define those terms. Again, the Convention requires courts to rely on domestic law to fill the gaps; it does not set out a comprehensive regime that displaces domestic law.\nIn sum, the only provision of the Convention that addresses the enforcement of arbitration agreements is Article II(3). We do not read the nonexclusive language of that provision to set a ceiling that tacitly precludes the use of domestic law to enforce arbitration agreements. Thus, nothing in the text of the Convention \"conflict[s] with\" the application of domestic equitable estoppel doctrines permitted under Chapter 1 of the FAA. 9 U.S.C. \u00a7 208.\nB\n\"Because a treaty ratified by the United States is 'an agreement among sovereign powers,' we have also considered as 'aids to its interpretation' the negotiation and drafting history of the treaty as well as 'the postratification understanding' of signatory nations.\" Medell\u00edn , 552 U.S. at 507, 128 S.Ct. 1346 (quoting Zicherman v. Korean Air Lines Co. , 516 U.S. 217, 226, 116 S.Ct. 629, 133 L.Ed.2d 596 (1996) ). These aids confirm our interpretation of the Convention's text.\n1\nOur precedents have looked to the \"negotiating and drafting history\" of a treaty as an aid in determining the shared understanding of the treaty. Id. , at 226, 116 S.Ct. 629. Invoking this interpretive aid, Outokumpu argues that the Convention's drafting history establishes a \"rule of consent\" that \"displace[s] varying local laws.\" Brief for Respondents 27. We are unpersuaded. For one, nothing in the text of the Convention imposes a \"rule of consent\" that displaces domestic law-let alone a rule that allows some domestic-law doctrines and not others, as Outokumpu proposes. The only time the Convention uses the word \"consent\" is in Article X(3), which addresses ratification and accession procedures. Moreover, the statements relied on by Outokumpu do not address the specific question whether the Convention prohibits the application of domestic law that would allow nonsignatories to compel arbitration. Cherry-picked \"generalization[s]\" from the negotiating and drafting history cannot be used to create a rule that finds no support in the treaty's text. Zicherman , 516 U.S. at 227, 116 S.Ct. 629.\nTo the extent the drafting history sheds any light on the meaning of the Convention, it shows only that the drafters sought to impose baseline requirements on contracting states. As this Court has recognized, \"[i]n their discussion of [Article II], the delegates to the Convention voiced frequent concern that courts of signatory countries ... should not be permitted to decline enforcement of such agreements on the basis of parochial views of their desirability or in a manner that would diminish the mutually binding nature of the agreements.\" Scherk , 417 U.S. at 520, n. 15, 94 S.Ct. 2449 (citing G. Haight, Convention on the Recognition and Enforcement of Foreign Arbitral Awards: Summary Analysis of Record of United Nations Conference, May/June 1958, pp. 24-28 (1958)). Nothing in the drafting history suggests that the Convention sought to prevent contracting states from applying domestic law that permits nonsignatories to enforce arbitration agreements in additional circumstances.\n2\n\"[T]he postratification understanding\" of other contracting states may also serve as an aid to our interpretation of a treaty's meaning. Medell\u00edn , 552 U.S. at 507, 128 S.Ct. 1346 (internal quotation marks omitted). To discern this understanding, we have looked to the \"[d]ecisions of the courts of other Convention signatories,\" El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng , 525 U.S. 155, 175, 119 S.Ct. 662, 142 L.Ed.2d 576 (1999), as well as the \"postratification conduct\" of the governments of contracting states, Zicherman , 516 U.S. at 227, 116 S.Ct. 629.\nHere, the weight of authority from contracting states indicates that the New York Convention does not prohibit the application of domestic law addressing the enforcement of arbitration agreements. The courts of numerous contracting states permit enforcement of arbitration agreements by entities who did not sign an agreement. See 1 G. Born, International Commercial Arbitration \u00a7 10.02, pp. 1418-1484 (2d ed. 2014) (compiling cases). The United States identifies at least one contracting state with domestic legislation illustrating a similar understanding. See Brief for United States as Amicus Curiae 28 (discussing Peru's national legislation). And GE Energy points to a recommendation issued by the United Nations Commission on International Trade Law that, although not directly addressing Article II(3), adopts a nonexclusive interpretation of Article II(1) and (2). Report of the United Nations Commission on International Trade Law on the Work of Its Thirty-Ninth Session, Recommendation Regarding the Interpretation of Article II, Paragraph 2, and Article VII, Paragraph 1, of the Convention on the Recognition and Enforcement of Foreign Arbitral Awards \u00b6\u00b61, 2, U. N. Doc. A/61/17, annex II (July 7, 2006) (UN recommendation).\nThese sources, while generally pointing in one direction, are not without their faults. The court decisions, domestic legislation, and UN recommendation relied on by the parties occurred decades after the finalization of the New York Convention's text in 1958. This diminishes the value of these sources as evidence of the original shared understanding of the treaty's meaning. Moreover, unlike the actions and decisions of signatory nations, we have not previously relied on UN recommendations to discern the meaning of treaties. See also Yang v. Majestic Blue Fisheries, LLC , 876 F.3d 996, 1000-1001 (CA9 2017) (declining to give weight to the 2006 UN recommendation). But to the extent this evidence is given any weight, it confirms our interpretation of the Convention's text.\n3\nFinally, the parties dispute whether the Executive's interpretation of the New York Convention should affect our analysis. The United States claims that we should apply a \" 'canon of deference' \" and give \" ' \"great weight\" ' \" to an interpretation set forth by the Executive in an amicus brief submitted to the D C. Circuit in 2014. Brief for United States as Amicus Curiae 30 (quoting Abbott v. Abbott , 560 U.S. 1, 15, 130 S.Ct. 1983, 176 L.Ed.2d 789 (2010) ); see also Brief for United States as Amicus Curiae in No. 13-7004 (CADC), pp. 7, 9. GE Energy echoes this request. Outokumpu, on the other hand, argues that the Executive's noncontemporaneous interpretation sheds no light on the meaning of the treaty, asserting that the Executive expressed the \"opposite ... view at the time of the Convention's adoption.\" Brief for Respondents 33. Outokumpu asserts that this Court has repeatedly rejected executive interpretations that contradict the treaty's text or the political branches' previous understanding of a treaty. Id. , at 34-35 (citing, e.g., Chan v. Korean Air Lines, Ltd. , 490 U.S. 122, 136, 109 S.Ct. 1676, 104 L.Ed.2d 113 (1989) (Brennan, J., concurring in judgment); Perkins v. Elg , 307 U.S. 325, 328, 337-349, 59 S.Ct. 884, 83 L.Ed. 1320 (1939) ).\nWe have never provided a full explanation of the basis for our practice of giving weight to the Executive's interpretation of a treaty. Nor have we delineated the limitations of this practice, if any. But we need not resolve these issues today. Our textual analysis aligns with the Executive's interpretation so there is no need to determine whether the Executive's understanding is entitled to \"weight\" or \"deference.\" Cf. Edelman v. Lynchburg College , 535 U.S. 106, 114-115, n. 8, 122 S.Ct. 1145, 152 L.Ed.2d 188 (2002) (\"[T]here is no need to resolve deference issues when there is no need for deference\").\nIV\nThe Court of Appeals did not analyze whether Article II(3) of the New York Convention conflicts with equitable estoppel. Instead, the court held that Article II(1) and (2) include a \"requirement that the parties actually sign an agreement to arbitrate their disputes in order to compel arbitration.\" 902 F.3d at 1326. But those provisions address the recognition of arbitration agreements, not who is bound by a recognized agreement. Article II(1) simply requires contracting states to \"recognize an agreement in writing,\" and Article II(2) defines the term \"agreement in writing.\" Here, the three agreements at issue were both written and signed. Only Article II(3) speaks to who may request referral under those agreements, and it does not prohibit the application of domestic law. See supra, at 1644 - 1645.\nBecause the Court of Appeals concluded that the Convention prohibits enforcement by nonsignatories, the court did not determine whether GE Energy could enforce the arbitration clauses under principles of equitable estoppel or which body of law governs that determination. Those questions can be addressed on remand. We hold only that the New York Convention does not conflict with the enforcement of arbitration agreements by nonsignatories under domestic-law equitable estoppel doctrines.\n* * *\nFor the foregoing reasons, we reverse the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion.\nIt is so ordered.\nThe District Court later granted GE Energy's motion to compel arbitration with additional insurers. Outokumpu Stainless USA LLC v. Converteam SAS , 2017 WL 480716 (SD Ala., Feb. 3, 2017).\nCompare 902 F.3d 1316, 1326 (CA11 2018), and Yang v. Majestic Blue Fisheries, LLC , 876 F.3d 996, 1001-1002 (CA9 2017), with Aggarao v. MOL Ship Mgmt. Co. , 675 F.3d 355, 375 (CA4 2012), and Sourcing Unlimited, Inc. v. Asimco Int'l, Inc. , 526 F.3d 38, 48 (CA1 2008).\nWe do not address whether Article II(2) requires a signed agreement.",
+        "type": "majority",
+        "author": "Justice THOMAS delivered the opinion of the Court."
+      },
+      {
+        "text": "Justice SOTOMAYOR, concurring.\nI agree with the Court that the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, June 10, 1958, 21 U.S.T. 2517, T.I.A.S. No. 6997 (New York Convention), does not categorically prohibit the application of domestic doctrines, such as equitable estoppel, that may permit nonsignatories to enforce arbitration agreements. I note, however, that the application of such domestic doctrines is subject to an important limitation: Any applicable domestic doctrines must be rooted in the principle of consent to arbitrate.\nThis limitation is part and parcel of the Federal Arbitration Act (FAA) itself. It is a \"basic precept,\" Stolt-Nielsen S.A. v. AnimalFeeds Int'l Corp. , 559 U.S. 662, 681, 130 S.Ct. 1758, 176 L.Ed.2d 605 (2010), that \"[a]rbitration under the [FAA] is a matter of consent, not coercion,\" Volt Information Sciences, Inc. v. Board of Trustees of Leland Stanford Junior Univ. , 489 U.S. 468, 479, 109 S.Ct. 1248, 103 L.Ed.2d 488 (1989) ; see also, e.g. , Lamps Plus, Inc. v. Varela , 587 U.S. ----, ----, 139 S.Ct. 1407, 1416, 203 L.Ed.2d 636 (2019) (\"Consent is essential under the FAA\"); Granite Rock Co. v. Teamsters , 561 U.S. 287, 299, 130 S.Ct. 2847, 177 L.Ed.2d 567 (2010) (\"[T]he first principle that underscores all of our arbitration decisions\" is that \"[a]rbitration is strictly 'a matter of consent' \"). \"We have emphasized th[is] 'foundational FAA principle' many times,\" Lamps Plus , 587 U.S., at ----, 139 S.Ct., at 1415 (quoting Stolt-Nielsen , 559 U.S. at 684, 130 S.Ct. 1758 ) (citing cases), and even the parties find common ground on the point, see Tr. of Oral Arg. 7, 49; Brief for Respondents 2.\nBecause this consent principle governs the FAA on the whole, it constrains any domestic doctrines under Chapter 1 of the FAA that might \"appl[y]\" to Convention proceedings (to the extent they do not \"conflict with\" the Convention). 9 U.S.C. \u00a7 208 ; cf. ante , at 1644 - 1645. Parties seeking to enforce arbitration agreements under Article II of the Convention thus may not rely on domestic nonsignatory doctrines that fail to reflect consent to arbitrate.\nWhile the FAA's consent principle itself is crystalline, it is admittedly difficult to articulate a bright-line test for determining whether a particular domestic nonsignatory doctrine reflects consent to arbitrate. That is in no small part because some domestic nonsignatory doctrines vary from jurisdiction to jurisdiction. With equitable estoppel, for instance, one formulation of the doctrine may account for a party's consent to arbitrate while another does not. Cf. Brief for Respondents 45 (maintaining that courts have applied at least \"three different versions\" of GE Energy's equitable-estoppel theory, including one that allegedly \"allows a non-party to force arbitration even of claims wholly unconnected to the agreement\"). Lower courts must therefore determine, on a case-by-case basis, whether applying a domestic nonsignatory doctrine would violate the FAA's inherent consent restriction.\nArticle II of the Convention leaves much to the contracting states to resolve on their own, and the FAA imposes few restrictions. Nevertheless, courts applying domestic nonsignatory doctrines to enforce arbitration agreements under the Convention must strictly adhere to \"the foundational FAA principle that arbitration is a matter of consent.\" Stolt-Nielsen , 559 U.S. at 684, 130 S.Ct. 1758. Because the Court's opinion is consistent with this limitation, I join it in full.\nThe syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co. , 200 U.S. 321, 337, 26 S.Ct. 282, 50 L.Ed. 499.\nIn this case, however, I am skeptical that any domestic nonsignatory doctrines need come into play at all, because Outokumpu appears to have expressly agreed to arbitrate disputes under the relevant contract with subcontractors like GE Energy. The contract provided that disputes arising between the buyer and seller in connection with the contract were subject to arbitration. App. 171. It also specified that the seller in the contract \"shall be understood\" to include \"[s]ub-contractors.\" Id., at 88-89. And it appended a list of potential subcontractors, one of which was GE Energy's predecessor, Converteam. Id., at 184-185.",
+        "type": "concurrence",
+        "author": "Justice SOTOMAYOR, concurring."
+      }
+    ],
+    "attorneys": [
+      "Amanda K. Rice, Jones Day, Detroit, MI, Sara Anne Ford, Wesley B. Gilchrist, Amie A. Vague, Lightfoot, Franklin & White, L.L.C., Birmingham, AL, Shay Dvoretzky, Jeffrey R. Johnson, Caroline Edsall Littleton, Benjamin J. Cassady, Jones Day, Washington, DC, for Petitioner.",
+      "Cheri Turnage Gatlin, Burr & Forman LLP, Jackson, MS, Melinda S. Kollross, Joseph J. Ferrini, James R. Swinehart, Clausen Miller, P.C., Chicago, IL, Jonathan D. Hacker, Samantha M. Goldstein, O'Melveny & Myers LLP, Washington, DC, Anton Metlitsky, O'Melveny & Myers LLP, New York, NY, E. Travis Ramey, Devin C. Dolive, Burr & Forman LLP, Birmingham, AL, W. Gregory Aimonette, Kenneth R. Wysocki, Kelly A. Jorgensen, Clausen Miller, P.C., Chicago, IL, for Respondents."
+    ],
+    "corrections": "",
+    "head_matter": "GE ENERGY POWER CONVERSION FRANCE SAS, CORP., fka Converteam SAS, Petitioner\nv.\nOUTOKUMPU STAINLESS USA, LLC, et al.\nNo. 18-1048\nSupreme Court of the United States.\nArgued January 21, 2020\nDecided June 1, 2020\nAmanda K. Rice, Jones Day, Detroit, MI, Sara Anne Ford, Wesley B. Gilchrist, Amie A. Vague, Lightfoot, Franklin & White, L.L.C., Birmingham, AL, Shay Dvoretzky, Jeffrey R. Johnson, Caroline Edsall Littleton, Benjamin J. Cassady, Jones Day, Washington, DC, for Petitioner.\nCheri Turnage Gatlin, Burr & Forman LLP, Jackson, MS, Melinda S. Kollross, Joseph J. Ferrini, James R. Swinehart, Clausen Miller, P.C., Chicago, IL, Jonathan D. Hacker, Samantha M. Goldstein, O'Melveny & Myers LLP, Washington, DC, Anton Metlitsky, O'Melveny & Myers LLP, New York, NY, E. Travis Ramey, Devin C. Dolive, Burr & Forman LLP, Birmingham, AL, W. Gregory Aimonette, Kenneth R. Wysocki, Kelly A. Jorgensen, Clausen Miller, P.C., Chicago, IL, for Respondents."
+  },
+  "file_name": "1637-01",
+  "first_page_order": 1637,
+  "last_page_order": 1649
+}

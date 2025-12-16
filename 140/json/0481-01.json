@@ -1,0 +1,64 @@
+{
+  "id": 12629122,
+  "name": "Terrence HILL, Petitioner, v. CITY OF JACKSON, Michigan, et al.",
+  "name_abbreviation": "Hill v. City of Jackson",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 18-963",
+  "first_page": "481",
+  "last_page": "481",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 481"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 229,
+    "sha256": "fefe4739f174ba7b2d983ae28a5077942bb9e8f88e02781cbfdddd954a319b64",
+    "simhash": "1:75a7f60c1b619731",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Terrence HILL, Petitioner,\nv.\nCITY OF JACKSON, Michigan, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Terrence HILL, Petitioner,\nv.\nCITY OF JACKSON, Michigan, et al.\nNo. 18-963\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0481-01",
+  "first_page_order": 481,
+  "last_page_order": 481
+}

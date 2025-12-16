@@ -1,0 +1,94 @@
+{
+  "id": 12613082,
+  "name": "Michael Moshe PERRY, petitioner, v. MG ENTERPRISES, LLC, et al.",
+  "name_abbreviation": "Perry v. MG Enters., LLC",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135319.",
+  "first_page": "247",
+  "last_page": "247",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 247"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 7"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 86,
+    "char_count": 699,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26360031028836045
+    },
+    "sha256": "21125f9636358e0a1b25dc98c8357c936e91703103e804f30cd20d48d4232ea5",
+    "simhash": "1:65e2e50c2105d63b",
+    "word_count": 116
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Moshe PERRY, petitioner,\nv.\nMG ENTERPRISES, LLC, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Michael Moshe PERRY, petitioner,\nv.\nMG ENTERPRISES, LLC, et al.\nNo. 17-5319.\nSupreme Court of the United States\nOct. 2, 2017.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "0247-04",
+  "first_page_order": 247,
+  "last_page_order": 247
+}

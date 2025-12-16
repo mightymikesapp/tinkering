@@ -1,0 +1,64 @@
+{
+  "id": 12617983,
+  "name": "T.B., et vir, petitioners, v. P.M., et ux.",
+  "name_abbreviation": "T.B. v. P.M.",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20131631.",
+  "first_page": "125",
+  "last_page": "125",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 125"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 33"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 175,
+    "sha256": "1bae30ffcaa326c62274936311a7efd7356ba5ed2ccf04600d45402e689f3759",
+    "simhash": "1:716e204478c72218",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "T.B., et vir, petitioners,\nv.\nP.M., et ux."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Iowa denied."
+    ],
+    "corrections": "",
+    "head_matter": "T.B., et vir, petitioners,\nv.\nP.M., et ux.\nNo. 17-1631.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Supreme Court of Iowa denied."
+  },
+  "file_name": "0125-04",
+  "first_page_order": 125,
+  "last_page_order": 125
+}

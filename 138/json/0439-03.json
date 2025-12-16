@@ -1,0 +1,64 @@
+{
+  "id": 12615158,
+  "name": "In Re Calvin J. WILLIAMS, petitioner.",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "2017-11-06",
+  "docket_number": "No. 17\u20136369.",
+  "first_page": "439",
+  "last_page": "439",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 439"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 324"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "d30dd34627b653133c49312626a77ad8cb924c09dc0434961fa126ae7a1efd8e",
+    "simhash": "1:72d6d020ffaa45d8",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Calvin J. WILLIAMS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Calvin J. WILLIAMS, petitioner.\nNo. 17-6369.\nSupreme Court of the United States\nNov. 6, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0439-03",
+  "first_page_order": 439,
+  "last_page_order": 439
+}

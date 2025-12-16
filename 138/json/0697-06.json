@@ -1,0 +1,64 @@
+{
+  "id": 12616443,
+  "name": "Kevin SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136794.",
+  "first_page": "697",
+  "last_page": "697",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 697"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 573"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "22d3ac6bb52d559399611bec1fdde91d6bb51c92fa234298770801ea80d2915c",
+    "simhash": "1:5bafe6c43b87461d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 17-6794.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0697-06",
+  "first_page_order": 697,
+  "last_page_order": 697
+}

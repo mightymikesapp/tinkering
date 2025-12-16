@@ -1,0 +1,64 @@
+{
+  "id": 12610526,
+  "name": "George SNELSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Snelson v. United States",
+  "decision_date": "2018-02-26",
+  "docket_number": "No. 17\u20137526.",
+  "first_page": "1174",
+  "last_page": "1174",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1174"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 321"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "25a7e0bd45f142fb211bb144733c0189ff8ef513646aade203d7a5d441ce779f",
+    "simhash": "1:e5af74c43f0e5605",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George SNELSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George SNELSON, petitioner,\nv.\nUNITED STATES.\nNo. 17-7526.\nSupreme Court of the United States\nFeb. 26, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1174-01",
+  "first_page_order": 1174,
+  "last_page_order": 1174
+}

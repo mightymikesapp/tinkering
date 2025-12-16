@@ -1,0 +1,64 @@
+{
+  "id": 12610115,
+  "name": "Andrew JONES, et al., petitioners, v. James J. PARMLEY, et al.",
+  "name_abbreviation": "Jones v. Parmley",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u2013928.",
+  "first_page": "1013",
+  "last_page": "1013",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1013"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 301"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 39,
+    "char_count": 309,
+    "sha256": "a5d7553b585cddcb4e726ca0fea1043dd3717e6cfaa1090450774fd50623ec5a",
+    "simhash": "1:3bafd68437a413cd",
+    "word_count": 52
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew JONES, et al., petitioners,\nv.\nJames J. PARMLEY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew JONES, et al., petitioners,\nv.\nJames J. PARMLEY, et al.\nNo. 17-928.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied.\nJustice SOTOMAYOR took no part in the consideration or decision of this petition."
+  },
+  "file_name": "1013-06",
+  "first_page_order": 1013,
+  "last_page_order": 1013
+}

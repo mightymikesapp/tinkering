@@ -1,0 +1,87 @@
+{
+  "id": 12627997,
+  "name": "IN RE Steven CIOTTA, Petitioner.",
+  "name_abbreviation": "In re Ciotta",
+  "decision_date": "2020-05-18",
+  "docket_number": "No. 19-8345.",
+  "first_page": "2796",
+  "last_page": "2796",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2796"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 958"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 73,
+    "char_count": 579,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26365668423139726
+    },
+    "sha256": "021c530e474ae50c35c2a6d3612f896b0a8f476f22001f74263ac6a39dbf89ae",
+    "simhash": "1:6c6e100c0505d659",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Steven CIOTTA, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petition in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals , 506 U.S. 1 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Steven CIOTTA, Petitioner.\nNo. 19-8345.\nSupreme Court of the United States.\nMay 18, 2020\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petition in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals , 506 U.S. 1 (1992) (per curiam )."
+  },
+  "file_name": "2796-05",
+  "first_page_order": 2796,
+  "last_page_order": 2796
+}

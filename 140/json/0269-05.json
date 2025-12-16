@@ -1,0 +1,64 @@
+{
+  "id": 12627443,
+  "name": "Jackie DUNCAN, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Duncan v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5550",
+  "first_page": "269",
+  "last_page": "269",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 269"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 186"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "a1887a3be3acfd753f696d560d253ce3f7f585e0a0643e84e2e561facdb45bba",
+    "simhash": "1:eaad76d63384d00f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jackie DUNCAN, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jackie DUNCAN, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5550\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0269-05",
+  "first_page_order": 269,
+  "last_page_order": 269
+}

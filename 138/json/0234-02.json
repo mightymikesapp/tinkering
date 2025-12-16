@@ -1,0 +1,64 @@
+{
+  "id": 12613000,
+  "name": "John PETRUCELLI, petitioner, v. Kristin RUSIN.",
+  "name_abbreviation": "Petrucelli v. Rusin",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135251.",
+  "first_page": "234",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 211,
+    "sha256": "5080d1035661a6c3f8ce448a325f32fa4dcbb04328ba7593a910279a00e9080a",
+    "simhash": "1:f2ade644bf48058b",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John PETRUCELLI, petitioner,\nv.\nKristin RUSIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John PETRUCELLI, petitioner,\nv.\nKristin RUSIN.\nNo. 17-5251.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0234-02",
+  "first_page_order": 234,
+  "last_page_order": 234
+}

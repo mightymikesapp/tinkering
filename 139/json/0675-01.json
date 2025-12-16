@@ -1,0 +1,645 @@
+{
+  "id": 12623895,
+  "name": "Kathrine Mae MCKEE v. William H. COSBY, Jr.",
+  "name_abbreviation": "McKee v. Cosby",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 17-1542",
+  "first_page": "675",
+  "last_page": "682",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 675"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 247"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Stat. 596",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Mass. 304",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2010352
+      ],
+      "year": 1825,
+      "pin_cites": [
+        {
+          "page": "311-314",
+          "parenthetical": "elaborating on legal standard"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/20/0304-01"
+      ]
+    },
+    {
+      "cite": "3 Johns. Cas. 337",
+      "category": "reporters:state",
+      "reporter": "Johns. Cas.",
+      "year": 1804,
+      "pin_cites": [
+        {
+          "page": "377-378, 393-394",
+          "parenthetical": "opinion of Kent, J."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 N.E. 735",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1889,
+      "pin_cites": [
+        {
+          "page": "737",
+          "parenthetical": "county auditor"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Ind. 105",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1389655
+      ],
+      "year": 1889,
+      "pin_cites": [
+        {
+          "page": "108-109",
+          "parenthetical": "county auditor"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/117/0105-01"
+      ]
+    },
+    {
+      "cite": "33 N.W. 503",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1887,
+      "pin_cites": [
+        {
+          "page": "505-506",
+          "parenthetical": "candidate for city comptroller"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Mich. 307",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1327067
+      ],
+      "year": 1887,
+      "pin_cites": [
+        {
+          "page": "309-310",
+          "parenthetical": "candidate for city comptroller"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/66/0307-01"
+      ]
+    },
+    {
+      "cite": "5 A. 395",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1886,
+      "pin_cites": [
+        {
+          "page": "400",
+          "parenthetical": "chief judge and chancellor"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Vt. 437",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        762025
+      ],
+      "year": 1886,
+      "pin_cites": [
+        {
+          "page": "447-448",
+          "parenthetical": "chief judge and chancellor"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/58/0437-01"
+      ]
+    },
+    {
+      "cite": "5 Johns. 1",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131533
+      ],
+      "year": 1809,
+      "pin_cites": [
+        {
+          "parenthetical": "Governor"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/5/0001-01"
+      ]
+    },
+    {
+      "cite": "81 N. Y. 116",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2175414
+      ],
+      "year": 1880,
+      "pin_cites": [
+        {
+          "page": "126",
+          "parenthetical": "assistant health inspector"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/81/0116-01"
+      ]
+    },
+    {
+      "cite": "7 Cow. 613",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2034872
+      ],
+      "year": 1827,
+      "pin_cites": [
+        {
+          "page": "628",
+          "parenthetical": "lieutenant governor"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/7/0613-01"
+      ]
+    },
+    {
+      "cite": "308 U.S. 147",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138221
+      ],
+      "weight": 3,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "160",
+          "parenthetical": "applying these protections against the States through the Fourteenth Amendment"
+        },
+        {
+          "parenthetical": "applying these protections against the States through the Fourteenth Amendment"
+        },
+        {
+          "parenthetical": "applying these protections against the States through the Fourteenth Amendment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/308/0147-01"
+      ]
+    },
+    {
+      "cite": "283 U.S. 697",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        434240
+      ],
+      "weight": 3,
+      "year": 1931,
+      "pin_cites": [
+        {
+          "page": "715",
+          "parenthetical": "\"[T]he common law rules that subject the libeler to responsibility for the public offense, as well as for the private injury, are not abolished by the protection extended in our constitutions\""
+        },
+        {
+          "parenthetical": "\"[T]he common law rules that subject the libeler to responsibility for the public offense, as well as for the private injury, are not abolished by the protection extended in our constitutions\""
+        },
+        {
+          "parenthetical": "\"[T]he common law rules that subject the libeler to responsibility for the public offense, as well as for the private injury, are not abolished by the protection extended in our constitutions\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/283/0697-01"
+      ]
+    },
+    {
+      "cite": "315 U.S. 568",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        374637
+      ],
+      "weight": 3,
+      "year": 1942,
+      "pin_cites": [
+        {
+          "page": "571-572"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/315/0568-01"
+      ]
+    },
+    {
+      "cite": "7 F. Cas. 624",
+      "category": "reporters:federal",
+      "reporter": "F. Cas.",
+      "case_ids": [
+        6127774
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/7/0624-01"
+      ]
+    },
+    {
+      "cite": "107 Colum. L. Rev. 559",
+      "category": "journals:journal",
+      "reporter": "Colum. L. Rev.",
+      "year": 2007,
+      "pin_cites": [
+        {
+          "page": "567",
+          "parenthetical": "quoting 1 Blackstone *129"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 How. 266",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3318321
+      ],
+      "weight": 3,
+      "year": 1845,
+      "pin_cites": [
+        {
+          "page": "290"
+        },
+        {
+          "page": "291",
+          "parenthetical": "customs collector"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/44/0266-01"
+      ]
+    },
+    {
+      "cite": "4 Mass. 163",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2003910
+      ],
+      "weight": 2,
+      "year": 1808,
+      "pin_cites": [
+        {
+          "page": "169-170"
+        },
+        {
+          "page": "169-170",
+          "parenthetical": "auctioneer"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/4/0149-01"
+      ]
+    },
+    {
+      "cite": "354 U.S. 476",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6160660
+      ],
+      "weight": 3,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/354/0476-01"
+      ]
+    },
+    {
+      "cite": "96 L.Ed. 919",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1952,
+      "opinion_index": 0
+    },
+    {
+      "cite": "343 U.S. 250",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11339036
+      ],
+      "weight": 9,
+      "year": 1952,
+      "pin_cites": [
+        {
+          "page": "254"
+        },
+        {
+          "page": "254-255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/343/0250-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 485",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6202607
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "501-502"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0485-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 767",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6208571
+      ],
+      "weight": 3,
+      "year": 1986,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0767-01"
+      ]
+    },
+    {
+      "cite": "379 U.S. 64",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11728748
+      ],
+      "weight": 5,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/379/0064-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 130",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167825
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "134"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0130-01"
+      ]
+    },
+    {
+      "cite": "472 U.S. 749",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512563
+      ],
+      "weight": 10,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "771",
+          "parenthetical": "White, J., concurring in judgment"
+        },
+        {
+          "parenthetical": "White, J., concurring in judgment"
+        },
+        {
+          "parenthetical": "White, J., concurring in judgment"
+        },
+        {
+          "page": "766"
+        },
+        {
+          "page": "767"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0749-01"
+      ]
+    },
+    {
+      "cite": "418 U.S. 323",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173012
+      ],
+      "weight": 19,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "345"
+        },
+        {
+          "page": "325"
+        },
+        {
+          "page": "386"
+        },
+        {
+          "page": "381"
+        },
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0323-01"
+      ]
+    },
+    {
+      "cite": "874 F.3d 54",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12263471
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "61-62",
+          "parenthetical": "citing Gertz v. Robert Welch, Inc. , 418 U.S. 323, 345, 94 S.Ct. 2997, 41 L.Ed.2d 789 (1974) "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/874/0054-01"
+      ]
+    },
+    {
+      "cite": "376 U.S. 254",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        379234
+      ],
+      "weight": 44,
+      "year": 1964,
+      "pin_cites": [
+        {
+          "parenthetical": "White, J., concurring in judgment"
+        },
+        {
+          "page": "256-257"
+        },
+        {
+          "page": "269-272"
+        },
+        {
+          "page": "268"
+        },
+        {
+          "page": "273-277"
+        },
+        {
+          "parenthetical": "Elliot's Debates"
+        },
+        {
+          "page": "271"
+        },
+        {
+          "page": "276"
+        },
+        {
+          "page": "259"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/376/0254-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1394,
+    "char_count": 27187,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636385364552142
+    },
+    "sha256": "4bdf59b5cdc01d8d5803e34dcd37aab9aef07f1db9a3dd1c14e5618d1e29c96a",
+    "simhash": "1:3b1d9a6a4db4eea7",
+    "word_count": 4355
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kathrine Mae MCKEE\nv.\nWilliam H. COSBY, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "Justice THOMAS, concurring in the denial of certiorari.\nIn December 2014, petitioner Kathrine McKee publicly accused actor and comedian Bill Cosby of forcibly raping her some 40 years earlier. McKee contends that Cosby's attorney responded on his behalf by writing and leaking a defamatory letter. According to McKee, the letter deliberately distorts her personal background to \"damage her reputation for truthfulness and honesty, and further to embarrass, harass, humiliate, intimidate, and shame\" her. App. to Pet. for Cert. 93a. She alleges that excerpts of the letter were disseminated via the Internet and published by news outlets around the world.\nMcKee filed suit in federal court for defamation under state law, but her case was dismissed. Applying New York Times Co. v. Sullivan , 376 U.S. 254, 84 S.Ct. 710, 11 L.Ed.2d 686 (1964), and its progeny, the Court of Appeals concluded that, by disclosing her accusation to a reporter, McKee had \" 'thrust' herself to the 'forefront' \" of the public controversy over \"sexual assault allegations implicating Cosby\" and was therefore a \"limited-purpose public figure.\" 874 F.3d 54, 61-62 (C.A.1 2017) (citing Gertz v. Robert Welch, Inc. , 418 U.S. 323, 345, 94 S.Ct. 2997, 41 L.Ed.2d 789 (1974) ). Under this Court's First Amendment precedents, public figures are barred from recovering damages for defamation unless they can show that the statement at issue was made with \" 'actual malice'-that is, with knowledge that it was false or with reckless disregard of whether it was false or not.\" New York Times , supra , at 280, 84 S.Ct. 710. Like many plaintiffs subject to this \"almost impossible\" standard, McKee was unable to make that showing. See Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc. , 472 U.S. 749, 771, 105 S.Ct. 2939, 86 L.Ed.2d 593 (1985) (White, J., concurring in judgment).\nMcKee asks us to review her classification as a limited-purpose public figure. I agree with the Court's decision not to take up that factbound question. I write to explain why, in an appropriate case, we should reconsider the precedents that require courts to ask it in the first place.\nNew York Times and the Court's decisions extending it were policy-driven decisions masquerading as constitutional law. Instead of simply applying the First Amendment as it was understood by the people who ratified it, the Court fashioned its own \" 'federal rule[s]' \" by balancing the \"competing values at stake in defamation suits.\" Gertz , supra , at 334, 348, 94 S.Ct. 2997 (quoting New York Times , supra , at 279, 84 S.Ct. 710 ).\nWe should not continue to reflexively apply this policy-driven approach to the Constitution. Instead, we should carefully examine the original meaning of the First and Fourteenth Amendments. If the Constitution does not require public figures to satisfy an actual-malice standard in state-law defamation suits, then neither should we.\nI\nFrom the founding of the Nation until 1964, the law of defamation was \"almost exclusively the business of state courts and legislatures.\" Gertz , supra , at 369-370, 94 S.Ct. 2997 (White, J., dissenting). But beginning with New York Times , the Court \"federalized major aspects of libel law by declaring unconstitutional in important respects the prevailing defamation law in all or most of the 50 States.\" Gertz , supra , at 370, 94 S.Ct. 2997. These decisions made little effort to ground their holdings in the original meaning of the Constitution.\nA\nNew York Times involved a full-page advertisement soliciting support for the civil-rights movement and the legal defense of Dr. Martin Luther King, Jr. 376 U.S., at 256-257, 84 S.Ct. 710. The advertisement asserted that the movement was facing an \" 'unprecedented wave of terror by those who would deny and negate' \" the protections of the Constitution. Id ., at 256, 84 S.Ct. 710. As an example, the advertisement claimed that \" 'truckloads of police' \" in Montgomery, Alabama, \" 'armed with shotguns and tear-gas,' \" had surrounded a college campus following a student demonstration. Id ., at 257, 84 S.Ct. 710. It further claimed that \" '[w]hen the entire student body protested to state authorities by refusing to re-register, their dining hall was padlocked in an attempt to starve them into submission.' \" Ibid . The advertisement also stated that \" 'the Southern violators' \" had \" 'answered Dr. King's peaceful protests with intimidation and violence,' \" \" 'bombed his home almost killing his wife and child,' \" \" 'assaulted his person,' \" \" 'arrested him seven times,' \" and \" 'charged him with \"perjury.\" ' \" Id ., at 257-258, 84 S.Ct. 710.\nThe Times made no independent effort to confirm the truth of these claims, and they contained numerous inaccuracies. Id ., at 261, 84 S.Ct. 710. The Times eventually retracted the advertisement. Ibid .\nL. B. Sullivan served as Montgomery's commissioner of public affairs when the advertisement was published. Id ., at 256, 84 S.Ct. 710. Although none of the \"Southern violators\" was identified in the advertisement, Sullivan filed a libel suit alleging that the statements implicating Montgomery police officers were made \" 'of and concerning' \" him because his responsibilities included supervising the police department. Id ., at 256, 262, 84 S.Ct. 710. A jury awarded Sullivan $500,000, and the Supreme Court of Alabama affirmed. Id ., at 256, 84 S.Ct. 710.\nThis Court reversed. Id ., at 264, 84 S.Ct. 710. It held that the evidence in the record was \"incapable of supporting the jury's finding\" that the false statements were made about Sullivan, who was not mentioned \"by name or official position\" in the advertisement. Id ., at 288, 84 S.Ct. 710. The advertisement was an \"impersonal attack on governmental operations\" and could not by \"legal alchemy\" be transformed into \"a libel of an official responsible for those operations.\" Id ., at 292, 84 S.Ct. 710. This holding was sufficient to resolve the case.\nBut the Court also addressed \"the extent to which the constitutional protections for speech and press limit a State's power to award damages in a libel action brought by a public official against critics of his official conduct.\" Id ., at 256, 84 S.Ct. 710. The Court took it upon itself \"to define the proper accommodation between\" two competing interests-\"the law of defamation and the freedoms of speech and press protected by the First Amendment.\" Gertz , 418 U.S., at 325, 94 S.Ct. 2997 (majority opinion). It consulted a variety of materials to assist it in its analysis: \"general proposition[s]\" about the value of free speech and the inevitability of false statements, New York Times , 376 U.S., at 269-272, and n. 13, 84 S.Ct. 710 ; judicial decisions involving criminal contempt and official immunity, id ., at 272-273, 282-283, 84 S.Ct. 710 ; public responses to the Sedition Act of 1798, id ., at 273-277, 84 S.Ct. 710 ; comparisons of civil libel damages to criminal fines, id ., at 277-278, 84 S.Ct. 710 ; policy arguments against \"self-censorship,\" id ., at 278-279, 84 S.Ct. 710 ; the \"consensus of scholarly opinion,\" id ., at 280, n. 20, 84 S.Ct. 710 ; and state defamation laws, id ., at 280-282, 84 S.Ct. 710. These materials led the Court to promulgate a \"federal rule\" that \"prohibits a public official from recovering damages for a defamatory falsehood relating to his official conduct unless he proves that the statement was made with 'actual malice'-that is, with knowledge that it was false or with reckless disregard of whether it was false or not.\" Id ., at 279-280, 84 S.Ct. 710. Although the Court held that its newly minted actual-malice rule was \"required by the First and Fourteenth Amendments,\" id ., at 283, 84 S.Ct. 710, it made no attempt to base that rule on the original understanding of those provisions.\nB\nNew York Times was \"the first major step in what proved to be a seemingly irreversible process of constitutionalizing the entire law of libel and slander.\" Dun & Bradstreet , 472 U.S., at 766, 105 S.Ct. 2939 (White, J., concurring in judgment). The Court promptly expanded the actual-malice rule to all defamed \" 'public figures,' \" Curtis Publishing Co. v. Butts , 388 U.S. 130, 134, 87 S.Ct. 1975, 18 L.Ed.2d 1094 (1967), which it defined to include private persons who \"thrust themselves to the forefront of particular public controversies in order to influence the resolution of the issues involved,\" Gertz , supra , at 345, 94 S.Ct. 2997. The Court also extended the actual-malice rule to criminal libel prosecutions, Garrison v. Louisiana , 379 U.S. 64, 85 S.Ct. 209, 13 L.Ed.2d 125 (1964), and even restricted the situations in which private figures could recover for defamation against media defendants, Gertz , supra , at 347, 349, 94 S.Ct. 2997 ; Philadelphia Newspapers, Inc. v. Hepps , 475 U.S. 767, 106 S.Ct. 1558, 89 L.Ed.2d 783 (1986).\nNone of these decisions made a sustained effort to ground their holdings in the Constitution's original meaning. As the Court itself acknowledged, \"the rule enunciated in the New York Times case\" is \"largely a judge-made rule of law,\" the \"content\" of which is \"given meaning through the evolutionary process of common-law adjudication.\" Bose Corp. v. Consumers Union of United States, Inc. , 466 U.S. 485, 501-502, 104 S.Ct. 1949, 80 L.Ed.2d 502 (1984). Only Justice White grappled with the historical record, and he concluded that \"there are wholly insufficient grounds for scuttling the libel laws of the States in such wholesale fashion, to say nothing of deprecating the reputation interest of ordinary citizens and rendering them powerless to protect themselves.\" Gertz , supra , at 370, 94 S.Ct. 2997 (dissenting opinion).\nII\nThe constitutional libel rules adopted by this Court in New York Times and its progeny broke sharply from the common law of libel, and there are sound reasons to question whether the First and Fourteenth Amendments displaced this body of common law.\nA\nThe common law of libel at the time the First and Fourteenth Amendments were ratified did not require public figures to satisfy any kind of heightened liability standard as a condition of recovering damages. Typically, a defamed individual needed only to prove \"a false written publication that subjected him to hatred, contempt, or ridicule.\" Dun & Bradstreet , supra , at 765, 105 S.Ct. 2939 (White, J., concurring in judgment); see 4 W. Blackstone, Commentaries *150 (Blackstone); H. Folkard, Starkie on Slander and Libel *156 (H. Wood ed., 4th Eng. ed. 1877) (Starkie). Malice was presumed in the absence of an applicable privilege, right, or duty. Id ., at *293-*294. General injury to reputation was also presumed, special damages could be recovered, and punitive damages were available if actual malice was established. Dun & Bradstreet , supra , at 765, 105 S.Ct. 2939 (White, J., concurring in judgment); see Starkie *151, *322-*323; M. Newell, Defamation, Libel and Slander 842-843 (1890) (Newell). Truth was a defense to a civil libel claim. See Starkie *170, *528-*530; 4 Blackstone *150-*151. But where the publication was false, even if the defendant could show that no reputational injury occurred, the prevailing rule was that at least nominal damages were to be awarded. Dun & Bradstreet , supra , at 765, 105 S.Ct. 2939 (White, J., concurring in judgment) (citing Restatement of Torts \u00a7 569, Comment b , p. 166 (1938) ); see Starkie *492; Newell 839.\nLibel was also a \"common-law crime, and thus criminal in the colonies.\" Beauharnais v. Illinois , 343 U.S. 250, 254, 72 S.Ct. 725, 96 L.Ed. 919 (1952) ; see 4 Blackstone *150-*153. The same principles generally applied, except that truth traditionally was not a defense to libel prosecutions-the crime was intended to punish provocations to a breach of the peace, not the falsity of the statement. See id ., at *150-*151; Starkie *712-*713. Laws authorizing the criminal prosecution of libel were both widespread and well established at the time of the founding. See Roth v. United States , 354 U.S. 476, 482, and n. 11, 77 S.Ct. 1304, 1 L.Ed.2d 1498 (1957) ; Newell 28-29 (describing colonial statutes dating back to 1645 and 1701). And they remained so when the Fourteenth Amendment was adopted, although many States by then allowed truth or good motives to serve as a defense to a libel prosecution. Beauharnais , supra , at 254-255, and n. 4, 72 S.Ct. 725.\nFar from increasing a public figure's burden in a defamation action, the common law deemed libels against public figures to be, if anything, more serious and injurious than ordinary libels. See 3 Blackstone *124 (\"Words also tending to scandalize a magistrate, or person in a public trust, are reputed more highly injurious than when spoken of a private man\"); 4 id., at *150 (defining libels as \"malicious defamations of any person, and especially a magistrate , made public by either printing, writing, signs, or pictures, in order to provoke him to wrath, or expose him to public hatred, contempt, and ridicule\" (emphasis added) ). Libel of a public official was deemed an offense \" 'most dangerous to the people, and deserv[ing of] punishment, because the people may be deceived and reject the best citizens to their great injury, and it may be to the loss of their liberties.' \" Newell 533 (quoting Commonwealth v. Clap , 4 Mass. 163, 169-170 (1808) ); accord, White v. Nicholls , 3 How. 266, 290, 11 L.Ed. 591 (1845).\nThe common law did afford defendants a privilege to comment on public questions and matters of public interest. Starkie *237-*238. This privilege extended to the \"public conduct of a public man,\" which was a \"matter of public interest\" that could \"be discussed with the fullest freedom\" and \"made the subject of hostile criticism.\" Id ., at *242. Under this privilege, \"criticism may reasonably be applied to a public man in a public capacity which might not be applied to a private individual.\" Ibid . And the privilege extended to the man's character \" 'so far as it may respect his fitness and qualifications for the office,' \" which was in the interest of the people to know. White , supra , at 290 (quoting Clap , supra , at 169 ).\nBut the purposes underlying this privilege also defined its limits. Thus, the privilege applied only when the facts stated were true. Starkie *238, n. 4; White , supra , at 290. And the privilege did not afford the publisher an opportunity to defame the officer's private character. Starkie *238; see id ., at *242 (\"The question for the jury is, whether the writer has transgressed the bounds within which comments upon the character of a public man ought to be confined ... \"); ibid . (distinguishing between criticism of public conduct and the \"imputation of motives by which that conduct may be supposed to be actuated\"). \"One may in good faith publish the truth concerning a public officer, but if he states that which is false and aspersive, he is liable therefor however good his motives may be; and the same is true whether the party defamed be an officer or a candidate for an office, elective or appointive.\" Newell 533 (footnote omitted).\nB\nThese common-law protections for the \"core private righ[t]\" of a person's \" 'uninterrupted enjoyment of ... his reputation' \" formed the backdrop against which the First and Fourteenth Amendments were ratified. Nelson, Adjudication in the Political Branches, 107 Colum. L. Rev. 559, 567 (2007) (quoting 1 Blackstone *129). Before our decision in New York Times , we consistently recognized that the First Amendment did not displace the common law of libel. As Justice Story explained,\n\"The liberty of speech, or of the press, has nothing to do with this subject. They are not endangered by the punishment of libellous publications. The liberty of speech and the liberty of the press do not authorize malicious and injurious defamation.\" Dexter v. Spear , 7 F. Cas. 624 (No. 3,867) (C.C. R.I. 1825).\nThe Court consistently listed libel among the \"well-defined and narrowly limited classes of speech, the prevention and punishment of which have never been thought to raise any Constitutional problem.\" Chaplinsky v. New Hampshire , 315 U.S. 568, 571-572, 62 S.Ct. 766, 86 L.Ed. 1031 (1942) ; see, e .g ., Beauharnais , supra , at 254-256, and nn. 4-5, 266, 72 S.Ct. 725 (libelous utterances are \"not ... within the area of constitutionally protected speech\"); Near v. Minnesota ex rel. Olson , 283 U.S. 697, 715, 51 S.Ct. 625, 75 L.Ed. 1357 (1931) (\"[T]he common law rules that subject the libeler to responsibility for the public offense, as well as for the private injury, are not abolished by the protection extended in our constitutions\").\nNew York Times marked a fundamental change in the relationship between the First Amendment and state libel law. Although the Court did not repudiate its earlier statements that libel is constitutionally unprotected, it nevertheless was unable to \"accept the generality of this historic view.\" Gertz , 418 U.S., at 386, 94 S.Ct. 2997 (White, J., dissenting). The Court instead observed that it had never upheld the use of libel law \"to impose sanctions upon expression critical of the official conduct of public officials.\" New York Times , 376 U.S., at 268, 84 S.Ct. 710. In the Court's view, it was \"writing upon a clean slate,\" id ., at 299, 84 S.Ct. 710 (Goldberg, J., concurring in result), and thus free to work a \"substantial abridgement\" of the common law of libel based on its balancing of competing interests, Gertz , supra , at 343, 94 S.Ct. 2997 (majority opinion).\nC\nThere are sound reasons to question whether either the First or Fourteenth Amendment, as originally understood, encompasses an actual-malice standard for public figures or otherwise displaces vast swaths of state defamation law.\nThe First Amendment provides that \"Congress shall make no law ... abridging the freedom of speech, or of the press.\" See Schneider v. State ( Town of Irvington) , 308 U.S. 147, 160, 60 S.Ct. 146, 84 L.Ed. 155 (1939) (applying these protections against the States through the Fourteenth Amendment). Justice White's dissenting opinion in Gertz provides a helpful starting point in interpreting these terms. Justice White had joined the majority opinion in New York Times . But after canvassing historical practice under similar state constitutions, treatises, scholarly commentary, the ratification debates, and our precedent, he concluded that \"[s]cant, if any, evidence exists that the First Amendment was intended to abolish the common law of libel, at least to the extent of depriving ordinary citizens of meaningful redress against their defamers.\" Gertz , 418 U.S., at 381, 94 S.Ct. 2997 ; see id ., at 380-388, 94 S.Ct. 2997. Justice White later expressed \"doubts about the soundness of the Court's approach\" in New York Times \"and about some of the assumptions underlying it.\" Dun & Bradstreet , 472 U.S., at 767, 105 S.Ct. 2939 (concluding that the Court \"struck an improvident balance in the New York Times case\").\nHistorical practice further suggests that protections for free speech and a free press-whether embodied in state constitutions, the First Amendment, or the Fourteenth Amendment-did not abrogate the common law of libel. See generally Chase, Criticism of Public Officers and Candidates for Office, 23 Am. L. Rev. 346 (1889) (surveying American defamation decisions). Public officers and public figures continued to be able to bring civil libel suits for unprivileged statements without showing proof of actual malice as a condition for liability. See, e .g ., Root v. King , 7 Cow. 613, 628 (N. Y. 1827) (lieutenant governor); White , 3 How., at 291 (customs collector); Hamilton v. Eno , 81 N. Y. 116, 126 (1880) (assistant health inspector) (citing Lewis v. Few , 5 Johns. 1 (N. Y. 1809) (Governor) ); Royce v. Maloney , 58 Vt. 437, 447-448, 5 A. 395, 400 (1886) (chief judge and chancellor); Wheaton v. Beecher , 66 Mich. 307, 309-310, 33 N.W. 503, 505-506 (1887) (candidate for city comptroller); Prosser v. Callis , 117 Ind. 105, 108-109, 19 N.E. 735, 737 (1889) (county auditor). The States continued to criminalize libel, including of public figures. E .g ., People v. Croswell , 3 Johns. Cas. 337, 377-378, 393-394 (N. Y. 1804) (opinion of Kent, J.), and id ., at 403-404, 410 (opinion of Lewis, J.) (President Jefferson); Clap , 4 Mass., at 169-170 (auctioneer); see also Commonwealth v. Blanding , 20 Mass. 304, 311-314 (1825) (elaborating on legal standard); Beauharnais , 343 U.S., at 254-255, 72 S.Ct. 725 (noting that many States in the first decades after the founding began to allow truth or good motives to serve as a defense, but \"nowhere was there any suggestion that the crime of libel be abolished\"). As of 1952, \"every American jurisdiction ... punish[ed] libels directed at individuals.\" Id ., at 255, and n. 5, 72 S.Ct. 725. And \"Congresses, during the period while [the Fourteenth] Amendment was being considered or was but freshly adopted, approved Constitutions of 'Reconstructed' States that expressly mentioned state libel laws, and also approved similar Constitutions for States erected out of the federal domain.\" Id ., at 293-294, and nn. 7-8, 72 S.Ct. 725 (Jackson, J., dissenting). Criticism of the public actions of public figures remained privileged, allowing latitude for public discourse and disagreement on matters of public concern.\nAs against this body of historical evidence, New York Times pointed only to opposition surrounding the Sedition Act of 1798, which prohibited \"any false, scandalous and malicious writing\" against \"the government of the United States, or either house of the Congress ..., or the President.\" \u00a7 2, 1 Stat. 596; see New York Times , 376 U.S., at 273-277, 84 S.Ct. 710. Most prominently, the opinion discusses a report written by James Madison in support of the Virginia Resolutions of 1798, which protested the Act. Id ., at 274-275, 84 S.Ct. 710. The opinion highlights Madison's view that the press in every State had \" 'exerted a freedom in canvassing the merits and measures of public men, of every description, which has not been confined to the strict limits of the common law.' \" Id ., at 275, 84 S.Ct. 710 (quoting 4 Debates on the Federal Constitution 570 (J. Elliot ed. 1876) (Elliot's Debates) ). It also emphasizes Madison's point that \" '[s]ome degree of abuse is inseparable from the proper use of every thing; and in no instance is this more true than in that of the press.' \" 376 U.S., at 271, 84 S.Ct. 710 (quoting 4 Elliot's Debates 571). After discussing other opposition to the Act, the Court concluded that \"the attack upon its validity has carried the day in the court of history.\" 376 U.S., at 276, 84 S.Ct. 710 ; see id ., at 273-277, 84 S.Ct. 710.\nThe Court gleaned from this evidence a \"broad consensus\" that the First Amendment protects \"criticism of government and public officials.\" Id ., at 276, 84 S.Ct. 710. And the Court further inferred that because the Act allowed truth to be offered as a defense and applied to defamatory statements, a libel law prohibiting only false defamation could still fail First Amendment scrutiny. Id ., at 273-274, 84 S.Ct. 710. But constitutional opposition to the Sedition Act-a federal law directly criminalizing criticism of the Government-does not necessarily support a constitutional actual-malice rule in all civil libel actions brought by public figures. Madison did not contend that the Constitution abrogated the common law applicable to these private actions. Instead, he seemed to contemplate that \"those who administer [the Federal Government]\" retain \"a remedy, for their injured reputations, under the same laws, and in the same tribunals, which protect their lives, their liberties, and their properties.\" 4 Elliot's Debates 573. Moreover, a central assumption of Madison's view was the historical absence of a national common law \"pervading and operating through\" each colony \"as one society.\" Id ., at 561. Yet the Court elevated just such a rule to constitutional status in New York Times .\nIt is certainly true that defamation law did not remain static after the founding. For example, many States acted \"by judicial decision, statute or constitution\" during the early 19th century to allow truth or good motives to serve as a defense to a libel prosecution. Beauharnais , supra , at 254-255, and n. 4, 72 S.Ct. 725. Eventually, changing views led to the \"virtual disappearance\" of criminal libel prosecutions involving individuals. Garrison , 379 U.S., at 69, 85 S.Ct. 209. But these changes appear to have reflected changing policy judgments, not a sense that existing law violated the original meaning of the First or Fourteenth Amendment.\nIn short, there appears to be little historical evidence suggesting that the New York Times actual-malice rule flows from the original understanding of the First or Fourteenth Amendment.\nIII\nLike Justice White, I assume that New York Times and our other constitutional decisions displacing state defamation law have been popular in some circles, \"but this is not the road to salvation for a court of law.\" Gertz , 418 U.S., at 370, 94 S.Ct. 2997 (dissenting opinion). We did not begin meddling in this area until 1964, nearly 175 years after the First Amendment was ratified. The States are perfectly capable of striking an acceptable balance between encouraging robust public discourse and providing a meaningful remedy for reputational harm. We should reconsider our jurisprudence in this area.\nFor example, the police did not \"at any time\" surround the campus when deployed near it; the dining hall \"was not padlocked on any occasion\"; the student protesters had not \"refus[ed] to register\" but rather \"boycott[ed] classes on a single day\"; \"Dr. King had not been arrested seven times, but only four\"; and the police \"were not only not implicated in the bombings, but had made every effort to apprehend those who were.\" New York Times , 376 U.S., at 259, 84 S.Ct. 710.\nIn England, \"[w]ords spoken in derogation of a peer, a judge, or other great officer of the realm\" were called scandalum magnatum and were \"held to be still more heinous\"; such words could support a claim that \"would not be actionable in the case of a common person.\" 3 Blackstone *123 (emphasis added); Starkie *142-*143. This action, recognized by English statutes dating back to 1275, had fallen into disuse by the 19th century and was not employed in the United States. See id., at *142, n. 1 (\"In this country, no distinction as to persons is recognized, and in practice, a person holding a high office is regarded as a target at whom any person may let fly his poisonous words\"). Nevertheless, the action of scandalum magnatum confirms that the law of defamation historically did not impose a heightened burden on public figures as plaintiffs.\nBy its terms, the First Amendment addresses only \"law[s]\" \"ma[d]e\" by \"Congress.\" For present purposes, I set aside the question whether the speech and press rights incorporated against the States restrict common-law rights of action that are not codified by state legislatures.",
+        "type": "majority",
+        "author": "Justice THOMAS, concurring in the denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The petition for a writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kathrine Mae MCKEE\nv.\nWilliam H. COSBY, Jr.\nNo. 17-1542\nSupreme Court of the United States.\nDecided February 19, 2019\nThe petition for a writ of certiorari is denied."
+  },
+  "file_name": "0675-01",
+  "first_page_order": 675,
+  "last_page_order": 682
+}

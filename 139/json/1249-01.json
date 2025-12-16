@@ -1,0 +1,83 @@
+{
+  "id": 12617975,
+  "name": "Steven KLIKNO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Klikno v. United States",
+  "decision_date": "2019-02-25",
+  "docket_number": "No. 17\u20135018.",
+  "first_page": "1249",
+  "last_page": "1249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1249"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 269"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 544",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12623291
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0544-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 503,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26361478989701714
+    },
+    "sha256": "a3c809d4591b40ca46dcdf43bca388e1e418a1e0ceb0ae7126435e2786a676e8",
+    "simhash": "1:64ad60440b849699",
+    "word_count": 83
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven KLIKNO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Seventh Circuit in light of Stokeling v. United States, 586 U.S. ----, 139 S.Ct. 544, 202 L.E.2d 512 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Steven KLIKNO, petitioner,\nv.\nUNITED STATES.\nNo. 17-5018.\nSupreme Court of the United States\nFeb. 25, 2019.\nOn petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Seventh Circuit in light of Stokeling v. United States, 586 U.S. ----, 139 S.Ct. 544, 202 L.E.2d 512 (2019)."
+  },
+  "file_name": "1249-01",
+  "first_page_order": 1249,
+  "last_page_order": 1249
+}

@@ -1,0 +1,144 @@
+{
+  "id": 12617369,
+  "name": "Patrick Henry MURPHY v. Bryan COLLIER, Executive Director, Texas Department of Criminal Justice, et al.",
+  "name_abbreviation": "Murphy v. Collier",
+  "decision_date": "2019-03-28",
+  "docket_number": "No. 18A985",
+  "first_page": "1111",
+  "last_page": "1112",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "456 U.S. 228",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6185638
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/456/0228-01"
+      ]
+    },
+    {
+      "cite": "137 S.Ct. 2012",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12605129
+      ],
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "2023-2024"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/2012-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 909",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12624611
+      ],
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "909-910",
+          "parenthetical": "statement of KAVANAUGH, J., respecting denial of certiorari"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0909-01"
+      ]
+    },
+    {
+      "cite": "421 U.S. 7",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541737
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "17-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0007-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 263,
+    "char_count": 3685,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636140176512221
+    },
+    "sha256": "9a0a7dcb88aa183fe01a6144eb871330e1823e42484e218311162634ba4e070b",
+    "simhash": "1:f4edeae4c1e5fdfb",
+    "word_count": 577
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick Henry MURPHY\nv.\nBryan COLLIER, Executive Director, Texas Department of Criminal Justice, et al."
+    ],
+    "opinions": [
+      {
+        "text": "In an equal-treatment case of this kind, the government ordinarily has its choice of remedy, so long as the remedy ensures equal treatment going forward. See Stanton v. Stanton, 421 U.S. 7, 17-18, 95 S.Ct. 1373, 43 L.Ed.2d 688 (1975). For this kind of claim, there would be at least two possible equal-treatment remedies available to the State going forward: (1) allow all inmates to have a religious adviser of their religion in the execution room; or (2) allow inmates to have a religious adviser, including any state-employed chaplain, only in the viewing room, not the execution room. A State may choose a remedy in which it would allow religious advisers only into the viewing room and not the execution room because there are operational and security issues associated with an execution by lethal injection. Things can go wrong and sometimes do go wrong in executions, as they can go wrong and sometimes do go wrong in medical procedures. States therefore have a strong interest in tightly controlling access to an execution room in order to ensure that the execution occurs without any complications, distractions, or disruptions. The solution to that concern would be to allow religious advisers only into the viewing room.\nIn any event, the choice of remedy going forward is up to the State. What the State may not do, in my view, is allow Christian or Muslim inmates but not Buddhist inmates to have a religious adviser of their religion in the execution room.\nUnder all the circumstances of this case, I conclude that Murphy made his request to the State in a sufficiently timely manner, one month before the scheduled execution.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The application for a stay of execution of sentence of death presented to Justice ALITO and by him referred to the Court is granted. The State may not carry out Murphy's execution pending the timely filing and disposition of a petition for a writ of certiorari unless the State permits Murphy's Buddhist spiritual advisor or another Buddhist reverend of the State's choosing to accompany Murphy in the execution chamber during the execution.",
+      "Justice THOMAS and Justice GORSUCH would deny the application for a stay of execution.",
+      "Justice KAVANAUGH, concurring in grant of application for stay.",
+      "As this Court has repeatedly held, governmental discrimination against religion -in particular, discrimination against religious persons, religious organizations, and religious speech-violates the Constitution. The government may not discriminate against religion generally or against particular religious denominations. See Morris County Bd. of Chosen Freeholders v. Freedom from Religion Foundation, 586 U.S. ___, ___, 139 S.Ct. 909, 909-910, ___ L.Ed.2d ___ (2019) (statement of KAVANAUGH, J., respecting denial of certiorari); Trinity Lutheran Church of Columbia, Inc. v. Comer, 582 U.S. ___, ___-___, 137 S.Ct. 2012, 2023-2024, 198 L.Ed.2d 551 (2017); Larson v. Valente, 456 U.S. 228, 244, 102 S.Ct. 1673, 72 L.Ed.2d 33 (1982). In this case, the relevant Texas policy allows a Christian or Muslim inmate to have a state-employed Christian or Muslim religious adviser present either in the execution room or in the adjacent viewing room. But inmates of other religious denominations-for example, Buddhist inmates such as Murphy-who want their religious adviser to be present can have the religious adviser present only in the viewing room and not in the execution room itself for their executions. In my view, the Constitution prohibits such denominational discrimination."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick Henry MURPHY\nv.\nBryan COLLIER, Executive Director, Texas Department of Criminal Justice, et al.\nNo. 18A985\nSupreme Court of the United States.\nDecided March 28, 2019\nThe application for a stay of execution of sentence of death presented to Justice ALITO and by him referred to the Court is granted. The State may not carry out Murphy's execution pending the timely filing and disposition of a petition for a writ of certiorari unless the State permits Murphy's Buddhist spiritual advisor or another Buddhist reverend of the State's choosing to accompany Murphy in the execution chamber during the execution.\nJustice THOMAS and Justice GORSUCH would deny the application for a stay of execution.\nJustice KAVANAUGH, concurring in grant of application for stay.\nAs this Court has repeatedly held, governmental discrimination against religion -in particular, discrimination against religious persons, religious organizations, and religious speech-violates the Constitution. The government may not discriminate against religion generally or against particular religious denominations. See Morris County Bd. of Chosen Freeholders v. Freedom from Religion Foundation, 586 U.S. ___, ___, 139 S.Ct. 909, 909-910, ___ L.Ed.2d ___ (2019) (statement of KAVANAUGH, J., respecting denial of certiorari); Trinity Lutheran Church of Columbia, Inc. v. Comer, 582 U.S. ___, ___-___, 137 S.Ct. 2012, 2023-2024, 198 L.Ed.2d 551 (2017); Larson v. Valente, 456 U.S. 228, 244, 102 S.Ct. 1673, 72 L.Ed.2d 33 (1982). In this case, the relevant Texas policy allows a Christian or Muslim inmate to have a state-employed Christian or Muslim religious adviser present either in the execution room or in the adjacent viewing room. But inmates of other religious denominations-for example, Buddhist inmates such as Murphy-who want their religious adviser to be present can have the religious adviser present only in the viewing room and not in the execution room itself for their executions. In my view, the Constitution prohibits such denominational discrimination."
+  },
+  "file_name": "1111-01",
+  "first_page_order": 1111,
+  "last_page_order": 1112
+}

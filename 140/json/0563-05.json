@@ -1,0 +1,64 @@
+{
+  "id": 12629568,
+  "name": "Rafael ALVARADO, Petitioner v. Frank LAWRENCE, Warden",
+  "name_abbreviation": "Alvarado v. Lawrence",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 19-6347",
+  "first_page": "563",
+  "last_page": "564",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 563"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 366"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 212,
+    "sha256": "405d68f03b2c1d4909aacb043fd1ba28ad042202bc4f83d7414f9691ed0dee75",
+    "simhash": "1:f2bff2c478b92599",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rafael ALVARADO, Petitioner\nv.\nFrank LAWRENCE, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Fifth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Rafael ALVARADO, Petitioner\nv.\nFrank LAWRENCE, Warden\nNo. 19-6347\nSupreme Court of the United States.\nNovember 25, 2019\nPetition for writ of certiorari to the Appellate Court of Illinois, Fifth District denied."
+  },
+  "file_name": "0563-05",
+  "first_page_order": 563,
+  "last_page_order": 564
+}

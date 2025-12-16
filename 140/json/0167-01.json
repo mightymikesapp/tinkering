@@ -1,0 +1,64 @@
+{
+  "id": 12626121,
+  "name": "Charles C. BREWINGTON, Petitioner, v. OKLAHOMA.",
+  "name_abbreviation": "Brewington v. Oklahoma",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9557",
+  "first_page": "167",
+  "last_page": "167",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 167"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 92"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 198,
+    "sha256": "7a9ddc633fac8fa19ea8b616b2984aa5f097a887608b50f6fb84431b91f5ef9a",
+    "simhash": "1:78bf264e22911115",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles C. BREWINGTON, Petitioner,\nv.\nOKLAHOMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Oklahoma denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles C. BREWINGTON, Petitioner,\nv.\nOKLAHOMA.\nNo. 18-9557\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Criminal Appeals of Oklahoma denied."
+  },
+  "file_name": "0167-01",
+  "first_page_order": 167,
+  "last_page_order": 167
+}

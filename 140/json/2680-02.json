@@ -1,0 +1,64 @@
+{
+  "id": 12627396,
+  "name": "John D. MCALLISTER, Petitioner, v. Timothy MALFITANO, et al.",
+  "name_abbreviation": "McAllister v. Malfitano",
+  "decision_date": "2020-04-20",
+  "docket_number": "No. 19-7592.",
+  "first_page": "2680",
+  "last_page": "2680",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2680"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 829"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 227,
+    "sha256": "383d4ab6c33645e080735644eb14feaf7fbe738641b69953b83b77f82805f081",
+    "simhash": "1:72e7d6943b45176f",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John D. MCALLISTER, Petitioner,\nv.\nTimothy MALFITANO, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John D. MCALLISTER, Petitioner,\nv.\nTimothy MALFITANO, et al.\nNo. 19-7592.\nSupreme Court of the United States.\nApril 20, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2680-02",
+  "first_page_order": 2680,
+  "last_page_order": 2680
+}

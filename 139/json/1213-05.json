@@ -1,0 +1,64 @@
+{
+  "id": 12617731,
+  "name": "Pablo COLON, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Colon v. Illinois",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u2013839.",
+  "first_page": "1213",
+  "last_page": "1213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1213"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 206"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 192,
+    "sha256": "a3f07df9ea0a3a2517ab25cdb5105f80ca02917e79e55784fc361915f9a0a87b",
+    "simhash": "1:71ef77388a28b110",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pablo COLON, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pablo COLON, petitioner,\nv.\nILLINOIS.\nNo. 18-839.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "1213-05",
+  "first_page_order": 1213,
+  "last_page_order": 1213
+}

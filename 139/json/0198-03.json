@@ -1,0 +1,62 @@
+{
+  "id": 12620241,
+  "name": "C.G., petitioner, v. DEBORAH HEART AND LUNG CENTER, et al.",
+  "name_abbreviation": "C.G. v. Deborah Heart & Lung Ctr.",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20131.",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 198"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 123"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 215,
+    "sha256": "2a91bfe514cb85f87233d00d9bc7daf1a1c9f14d89c29bc999b8a64c7a1a4ced",
+    "simhash": "1:bbe62094189924bc",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C.G., petitioner,\nv.\nDEBORAH HEART AND LUNG CENTER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "C.G., petitioner,\nv.\nDEBORAH HEART AND LUNG CENTER, et al.\nNo. 18-1.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Superior Court of New Jersey, Appellate Division denied."
+  },
+  "file_name": "0198-03",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

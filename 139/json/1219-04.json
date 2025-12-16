@@ -1,0 +1,64 @@
+{
+  "id": 12617766,
+  "name": "Joel E. MILLER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Miller v. United States",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20137264.",
+  "first_page": "1219",
+  "last_page": "1219",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1219"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 289,
+    "sha256": "dc36a3ef4df9cde7d5eb087aa7c9cb3354f950ad61e049d590ce30f153c04a39",
+    "simhash": "1:89ef72c6334cd79b",
+    "word_count": 48
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joel E. MILLER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice GORSUCH took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice GORSUCH took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joel E. MILLER, petitioner,\nv.\nUNITED STATES.\nNo. 18-7264.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1219-04",
+  "first_page_order": 1219,
+  "last_page_order": 1219
+}

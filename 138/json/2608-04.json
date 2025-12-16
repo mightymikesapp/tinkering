@@ -1,0 +1,64 @@
+{
+  "id": 12613401,
+  "name": "William T. ESREY, et al., petitioners, v. UNITED STATES.",
+  "name_abbreviation": "Esrey v. United States",
+  "decision_date": "2018-06-04",
+  "docket_number": "No. 17\u20131400.",
+  "first_page": "2608",
+  "last_page": "2608",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2608"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 1004"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 221,
+    "sha256": "495a44239a3c6e9d9cca16ce3e146de7d8adc012fdf4ae552f8b93eab8ebc296",
+    "simhash": "1:68afe6c43f861549",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William T. ESREY, et al., petitioners,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William T. ESREY, et al., petitioners,\nv.\nUNITED STATES.\nNo. 17-1400.\nSupreme Court of the United States\nJune 4, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "2608-04",
+  "first_page_order": 2608,
+  "last_page_order": 2608
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12622179,
+  "name": "In Re Andrew R. SPENGLER, petitioner.",
+  "name_abbreviation": "In re Spengler",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138794.",
+  "first_page": "307",
+  "last_page": "307",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 307"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 17"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 202,
+    "sha256": "1dcb56839cad28f4cf6d856d676cef3022619475db828bf3ec3dc46063fbbcd9",
+    "simhash": "1:e2e43c58a0a70613",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Andrew R. SPENGLER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Andrew R. SPENGLER, petitioner.\nNo. 17-8794.\nSupreme Court of the United States\nOct. 1, 2018.\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "0307-03",
+  "first_page_order": 307,
+  "last_page_order": 307
+}

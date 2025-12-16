@@ -1,0 +1,64 @@
+{
+  "id": 12616918,
+  "name": "Joel Marvin MUNT, petitioner, v. Michelle SMITH, Warden.",
+  "name_abbreviation": "Munt v. Smith",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139066.",
+  "first_page": "85",
+  "last_page": "86",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 85"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 55"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 197,
+    "sha256": "13ff8ef03da0c31a67952564c007c803099bc340c19aa4864efeb19076b3303e",
+    "simhash": "1:db1e76dd3bc417b1",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joel Marvin MUNT, petitioner,\nv.\nMichelle SMITH, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Minnesota denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joel Marvin MUNT, petitioner,\nv.\nMichelle SMITH, Warden.\nNo. 16-9066.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the Court of Appeals of Minnesota denied."
+  },
+  "file_name": "0085-07",
+  "first_page_order": 85,
+  "last_page_order": 86
+}

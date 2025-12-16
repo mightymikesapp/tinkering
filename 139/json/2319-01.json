@@ -1,0 +1,3008 @@
+{
+  "id": 12620706,
+  "name": "UNITED STATES, Petitioner v. Maurice Lamont DAVIS and Andre Levon Glover",
+  "name_abbreviation": "United States v. Davis",
+  "decision_date": "2019-06-24",
+  "docket_number": "No. 18-431",
+  "first_page": "2319",
+  "last_page": "2355",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2319"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 757"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "98 Stat. 2151",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Stat. 2021",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 L.Ed.2d 372",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 S.Ct. 2427",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 2014,
+      "opinion_index": 0
+    },
+    {
+      "cite": "573 U.S. 302",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "319-320"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 S.Ct. 1074",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12586973
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/1074-01"
+      ]
+    },
+    {
+      "cite": "574 U.S. 528",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "537",
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "W. Va. Code Ann. \u00a7 61-7-12",
+      "category": "laws:leg_statute",
+      "reporter": "W. Va. Code Ann.",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "parenthetical": "\"substantial risk of death or serious bodily injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2923.162",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "(C)(2)",
+          "parenthetical": "\"substantial risk of physical harm\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ark. Code Ann. \u00a7 5-74-107",
+      "category": "laws:leg_statute",
+      "reporter": "Ark. Code Ann.",
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "(b)(1)",
+          "parenthetical": "\"substantial risk of physical injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Alaska Stat. \u00a7 11.61.190",
+      "category": "laws:leg_statute",
+      "reporter": "Alaska Stat.",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "(a)(2)",
+          "parenthetical": "\"substantial and unjustifiable risk of physical injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Kan. Stat. Ann. \u00a7 21-5406",
+      "category": "laws:leg_statute",
+      "reporter": "Kan. Stat. Ann.",
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "2018 Cum. Supp."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. \u00a7\u00a7 941.11",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Kan. Stat. Ann. \u00a7\u00a7 21-5812",
+      "category": "laws:leg_statute",
+      "reporter": "Kan. Stat. Ann.",
+      "pin_cites": [
+        {
+          "page": "(c)(2)(A)(i)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 825.102",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "(3)(a)",
+          "parenthetical": "\"substantial risk of death\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. \u00a7\u00a7 948.03",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "W. Va. Code Ann. \u00a7\u00a7 61",
+      "category": "laws:leg_statute",
+      "reporter": "W. Va. Code Ann.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "Iowa Code \u00a7 709.3",
+      "category": "laws:leg_statute",
+      "reporter": "Iowa Code",
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "(1)(a)",
+          "parenthetical": "\"substantial risk of death or serious injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2903.31",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "(A)",
+          "parenthetical": "\"substantial risk of causing mental or physical harm\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Mo. Rev. Stat. \u00a7\u00a7 578.365",
+      "category": "laws:leg_statute",
+      "reporter": "Mo. Rev. Stat.",
+      "pin_cites": [
+        {
+          "page": "(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ind. Code \u00a7 35-42-2-2",
+      "category": "laws:leg_statute",
+      "reporter": "Ind. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Minn. Stat. \u00a7 609.52",
+      "category": "laws:leg_statute",
+      "reporter": "Minn. Stat.",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "(3a)",
+          "parenthetical": "\"reasonably foreseeable risk of bodily harm\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ind. Code \u00a7 35-43-4-2",
+      "category": "laws:leg_statute",
+      "reporter": "Ind. Code",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "(a)(2)(B)",
+          "parenthetical": "\"substantial risk of bodily injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Tex. Penal Code Ann. \u00a7 20.02",
+      "category": "laws:leg_statute",
+      "reporter": "Tex. Code Ann.",
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "(c)(2)(A)",
+          "parenthetical": "\"substantial risk of serious bodily injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ariz. Rev. Stat. Ann. \u00a7\u00a7 13-1201",
+      "category": "laws:leg_statute",
+      "reporter": "Ariz. Rev. Stat. Ann.",
+      "pin_cites": [
+        {
+          "page": "(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. Ann. \u00a7 939.24",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat. Ann.",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "(1)",
+          "parenthetical": "\"unreasonable and substantial risk of death or great bodily harm\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Wis. Stat. \u00a7 940.19",
+      "category": "laws:leg_statute",
+      "reporter": "Wis. Stat.",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "(6)",
+          "parenthetical": "\"substantial risk of great bodily harm\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ind. Code \u00a7 35-42-2-1",
+      "category": "laws:leg_statute",
+      "reporter": "Ind. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Mo. Rev. Stat. \u00a7 565.056",
+      "category": "laws:leg_statute",
+      "reporter": "Mo. Rev. Stat.",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "(1)(4)",
+          "parenthetical": "\"substantial risk of death or serious physical injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2905.01",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "(B)",
+          "parenthetical": "\"substantial risk of serious physical harm\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Alaska Stat. \u00a7 11.41.300",
+      "category": "laws:leg_statute",
+      "reporter": "Alaska Stat.",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "(a)(2)(B)",
+          "parenthetical": "\"substantial risk of serious physical injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Neb. Rev. Stat. \u00a7 28-904",
+      "category": "laws:leg_statute",
+      "reporter": "Neb. Rev. Stat.",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "(1)(b)",
+          "parenthetical": "\"substantial risk of causing physical injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Mo. Rev. Stat. \u00a7 575.150",
+      "category": "laws:leg_statute",
+      "reporter": "Mo. Rev. Stat.",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "\"substantial risk of serious physical injury or death\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ind. Code \u00a7 35-44.1-3",
+      "category": "laws:leg_statute",
+      "reporter": "Ind. Code",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Colo. Rev. Stat. \u00a7 18-8-103",
+      "category": "laws:leg_statute",
+      "reporter": "Colo. Rev. Stat.",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "(1)(b)",
+          "parenthetical": "\"substantial risk of causing bodily injury\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 F.3d 455",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        22421
+      ],
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "458",
+          "parenthetical": "denying early release because \"[c]onspiracy does not by its 'nature' present a serious risk; but Bush's 'conduct' did so\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/133/0455-01"
+      ]
+    },
+    {
+      "cite": "28 CFR \u00a7 550.55",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "(b)(5)(iii)",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 F.3d 53",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3711218,
+        22382
+      ],
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/328/0190-01",
+        "/f3d/133/0053-01"
+      ]
+    },
+    {
+      "cite": "706 F.3d 1333",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        6048227,
+        3661971
+      ],
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "1336-1337"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/706/1333-02",
+        "/f3d/706/1333-01"
+      ]
+    },
+    {
+      "cite": "394 F.3d 865",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9169911
+      ],
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "870"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/394/0865-01"
+      ]
+    },
+    {
+      "cite": "68 F.3d 1222",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415477
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1225-1226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/68/1222-01"
+      ]
+    },
+    {
+      "cite": "38 F.3d 977",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1852492
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "979-980"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/38/0977-01"
+      ]
+    },
+    {
+      "cite": "201 L.Ed.2d 240",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12612391,
+        12612392,
+        12612393,
+        12612405,
+        12612381
+      ],
+      "year": 2018,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/1980-02",
+        "/s-ct/138/1980-03",
+        "/s-ct/138/1980-04",
+        "/s-ct/138/1983-04",
+        "/s-ct/138/1979-03"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 1983",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12612402,
+        12612403,
+        12612404,
+        12612405
+      ],
+      "year": 2018,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/1983-01",
+        "/s-ct/138/1983-02",
+        "/s-ct/138/1983-03",
+        "/s-ct/138/1983-04"
+      ]
+    },
+    {
+      "cite": "865 F.3d 946",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12275717
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "952"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/865/0946-01"
+      ]
+    },
+    {
+      "cite": "644 F.3d 447",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5649634
+      ],
+      "year": 2011,
+      "pin_cites": [
+        {
+          "page": "453"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/644/0447-01"
+      ]
+    },
+    {
+      "cite": "343 F.3d 423",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9096824
+      ],
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/343/0423-01"
+      ]
+    },
+    {
+      "cite": "496 Fed.Appx. 158",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "161"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "470 F.3d 132",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5665817
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "134-135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/470/0132-01"
+      ]
+    },
+    {
+      "cite": "898 F.3d 36",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12517965
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "37-38",
+          "parenthetical": "holding that \u00a7 924(c)(3)(B) is vague"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/898/0036-01"
+      ]
+    },
+    {
+      "cite": "132 Stat. 5221",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 Stat. 3469",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "508 U.S. 129",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12096
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "132"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0129-01"
+      ]
+    },
+    {
+      "cite": "805 F.2d 1464",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1111333
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "1469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/805/1464-01"
+      ]
+    },
+    {
+      "cite": "805 F.3d 485",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        4357175
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "490-492"
+        },
+        {
+          "page": "498"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/805/0485-01"
+      ]
+    },
+    {
+      "cite": "907 F.3d 1",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518971
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "4-5"
+        },
+        {
+          "page": "11-16"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/907/0001-01"
+      ]
+    },
+    {
+      "cite": "2014 WL 12788997",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "839 F.3d 697",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12176377
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "698"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/839/0697-01"
+      ]
+    },
+    {
+      "cite": "849 F.3d 390",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12277411
+      ],
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "393",
+          "parenthetical": "kidnaping"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/849/0390-01"
+      ]
+    },
+    {
+      "cite": "889 F.3d 681",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12516853
+      ],
+      "weight": 3,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "683-684",
+          "parenthetical": "arson"
+        },
+        {
+          "page": "685-686"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/889/0681-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 171",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298296
+      ],
+      "weight": 6,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "176"
+        },
+        {
+          "page": "176",
+          "parenthetical": "accepting government's construction, which was \"not contested by appellees\""
+        },
+        {
+          "parenthetical": "accepting government's construction, which was \"not contested by appellees\""
+        },
+        {
+          "parenthetical": "accepting government's construction, which was \"not contested by appellees\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0171-01"
+      ]
+    },
+    {
+      "cite": "287 U.S. 77",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        369583
+      ],
+      "weight": 6,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "82"
+        },
+        {
+          "page": "82-83",
+          "parenthetical": "finding statute unambiguous and construing it according to \"the natural import of its terms\""
+        },
+        {
+          "parenthetical": "finding statute unambiguous and construing it according to \"the natural import of its terms\""
+        },
+        {
+          "parenthetical": "finding statute unambiguous and construing it according to \"the natural import of its terms\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/287/0077-01"
+      ]
+    },
+    {
+      "cite": "435 U.S. 371",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2396
+      ],
+      "weight": 6,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "374"
+        },
+        {
+          "page": "379",
+          "parenthetical": "finding statute clear and refusing to \"manufacture ambiguity where none exists\""
+        },
+        {
+          "parenthetical": "finding statute clear and refusing to \"manufacture ambiguity where none exists\""
+        },
+        {
+          "parenthetical": "finding statute clear and refusing to \"manufacture ambiguity where none exists\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/435/0371-01"
+      ]
+    },
+    {
+      "cite": "364 U.S. 587",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173277
+      ],
+      "weight": 5,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "596",
+          "parenthetical": "\"at the end of the process of construing what Congress has expressed\""
+        },
+        {
+          "parenthetical": "\"at the end of the process of construing what Congress has expressed\""
+        },
+        {
+          "parenthetical": "\"at the end of the process of construing what Congress has expressed\""
+        },
+        {
+          "page": "596"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/364/0587-01"
+      ]
+    },
+    {
+      "cite": "498 U.S. 103",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6219942
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "108",
+          "parenthetical": "\"after resort to the language and structure, legislative history, and motivating policies of the statute\" (internal quotation marks omitted)"
+        },
+        {
+          "parenthetical": "\"after resort to the language and structure, legislative history, and motivating policies of the statute\" (internal quotation marks omitted)"
+        },
+        {
+          "parenthetical": "\"after resort to the language and structure, legislative history, and motivating policies of the statute\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/498/0103-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 223",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11457
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "239",
+          "parenthetical": "\"after seizing every thing from which aid can be derived\" (internal quotation marks and alterations omitted)"
+        },
+        {
+          "parenthetical": "\"after seizing every thing from which aid can be derived\" (internal quotation marks and alterations omitted)"
+        },
+        {
+          "parenthetical": "\"after seizing every thing from which aid can be derived\" (internal quotation marks and alterations omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0223-01"
+      ]
+    },
+    {
+      "cite": "513 U.S. 10",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1330519
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "17",
+          "parenthetical": "\"after consulting traditional canons of statutory construction\""
+        },
+        {
+          "parenthetical": "\"after consulting traditional canons of statutory construction\""
+        },
+        {
+          "parenthetical": "\"after consulting traditional canons of statutory construction\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0010-01"
+      ]
+    },
+    {
+      "cite": "515 U.S. 50",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1564550
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "65",
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/515/0050-01"
+      ]
+    },
+    {
+      "cite": "519 U.S. 482",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11596238
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "499",
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/0482-01"
+      ]
+    },
+    {
+      "cite": "524 U.S. 125",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11181745
+      ],
+      "weight": 5,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "138",
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        },
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/524/0125-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 1423",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12596011
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "\"after seizing everything from which aid can be derived\" (internal quotation marks omitted)"
+        },
+        {
+          "parenthetical": "\"after seizing everything from which aid can be derived\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/1423-01"
+      ]
+    },
+    {
+      "cite": "3 Pet. 433",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3305738
+      ],
+      "weight": 4,
+      "year": 1830,
+      "pin_cites": [
+        {
+          "page": "448-449"
+        },
+        {
+          "parenthetical": "Story, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/28/0433-01"
+      ]
+    },
+    {
+      "cite": "112 U.S. 261",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3508962
+      ],
+      "weight": 3,
+      "year": 1884,
+      "pin_cites": [
+        {
+          "page": "268-269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/112/0261-01"
+      ]
+    },
+    {
+      "cite": "213 U.S. 366",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8289641
+      ],
+      "weight": 3,
+      "year": 1909,
+      "pin_cites": [
+        {
+          "page": "407-408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/213/0366-01"
+      ]
+    },
+    {
+      "cite": "241 U.S. 394",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8287957
+      ],
+      "weight": 3,
+      "year": 1916,
+      "pin_cites": [
+        {
+          "page": "401"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/241/0394-01"
+      ]
+    },
+    {
+      "cite": "255 U.S. 224",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        341511
+      ],
+      "weight": 3,
+      "year": 1921,
+      "pin_cites": [
+        {
+          "page": "225-226"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/255/0224-01"
+      ]
+    },
+    {
+      "cite": "258 U.S. 204",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1479271
+      ],
+      "weight": 3,
+      "year": 1922,
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/258/0204-01"
+      ]
+    },
+    {
+      "cite": "264 U.S. 375",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141420
+      ],
+      "weight": 3,
+      "year": 1924,
+      "pin_cites": [
+        {
+          "page": "390"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/264/0375-01"
+      ]
+    },
+    {
+      "cite": "268 U.S. 5",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        13181
+      ],
+      "weight": 3,
+      "year": 1925,
+      "pin_cites": [
+        {
+          "page": "17-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/268/0005-01"
+      ]
+    },
+    {
+      "cite": "270 U.S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141575
+      ],
+      "weight": 3,
+      "year": 1926,
+      "pin_cites": [
+        {
+          "page": "471-472"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/270/0466-01"
+      ]
+    },
+    {
+      "cite": "275 U.S. 142",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138486
+      ],
+      "weight": 3,
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "148-149",
+          "parenthetical": "opinion of Holmes, J."
+        },
+        {
+          "parenthetical": "opinion of Holmes, J."
+        },
+        {
+          "parenthetical": "opinion of Holmes, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/275/0142-01"
+      ]
+    },
+    {
+      "cite": "275 U.S. 331",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141524
+      ],
+      "weight": 3,
+      "year": 1928,
+      "pin_cites": [
+        {
+          "page": "345-346"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/275/0331-01"
+      ]
+    },
+    {
+      "cite": "279 U.S. 573",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3907629
+      ],
+      "weight": 3,
+      "year": 1929,
+      "pin_cites": [
+        {
+          "page": "577-578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/279/0573-01"
+      ]
+    },
+    {
+      "cite": "285 U.S. 22",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1175221
+      ],
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "62-63"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/285/0022-01"
+      ]
+    },
+    {
+      "cite": "288 U.S. 14",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        79843
+      ],
+      "weight": 3,
+      "year": 1933,
+      "pin_cites": [
+        {
+          "page": "40-42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/288/0014-01"
+      ]
+    },
+    {
+      "cite": "297 U.S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3929479
+      ],
+      "weight": 3,
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "348",
+          "parenthetical": "Brandeis, J., concurring"
+        },
+        {
+          "parenthetical": "Brandeis, J., concurring"
+        },
+        {
+          "parenthetical": "Brandeis, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/297/0288-01"
+      ]
+    },
+    {
+      "cite": "367 U.S. 740",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1785561
+      ],
+      "weight": 3,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "749-750"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/367/0740-01"
+      ]
+    },
+    {
+      "cite": "451 U.S. 772",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6192522
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "780-781"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0772-01"
+      ]
+    },
+    {
+      "cite": "485 U.S. 568",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        14057
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "575-578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0568-01"
+      ]
+    },
+    {
+      "cite": "487 U.S. 735",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1774712
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "762"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/487/0735-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 440",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215707
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "465-467"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0440-01"
+      ]
+    },
+    {
+      "cite": "500 U.S. 173",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6220676
+      ],
+      "weight": 6,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "190-191"
+        },
+        {
+          "page": "190-191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0173-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 144",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1480961
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0144-01"
+      ]
+    },
+    {
+      "cite": "508 U.S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11531
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "628-630"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/508/0602-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 651",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11652680
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "658"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0651-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 2355",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12598120
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "2372-2373"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/2355-01"
+      ]
+    },
+    {
+      "cite": "12 Pet. 72",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5620278
+      ],
+      "weight": 4,
+      "year": 1838,
+      "pin_cites": [
+        {
+          "page": "76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/37/0072-01"
+      ]
+    },
+    {
+      "cite": "413 U.S. 548",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11342106
+      ],
+      "weight": 5,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "571"
+        },
+        {
+          "page": "571"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0548-01"
+      ]
+    },
+    {
+      "cite": "1 L.Ed. 720",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1800,
+      "opinion_index": 0
+    },
+    {
+      "cite": "543 U.S. 371",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3442797
+      ],
+      "weight": 5,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "380",
+          "parenthetical": "\"plausible\""
+        },
+        {
+          "parenthetical": "\"plausible\""
+        },
+        {
+          "parenthetical": "\"plausible\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/543/0371-01"
+      ]
+    },
+    {
+      "cite": "155 U.S. 648",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3580407
+      ],
+      "weight": 7,
+      "year": 1895,
+      "pin_cites": [
+        {
+          "page": "657",
+          "parenthetical": "\"reasonable\""
+        },
+        {
+          "parenthetical": "\"reasonable\""
+        },
+        {
+          "parenthetical": "\"reasonable\""
+        },
+        {
+          "page": "657"
+        },
+        {
+          "page": "657"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/155/0648-01"
+      ]
+    },
+    {
+      "cite": "486 U.S. 825",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6224652
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "837"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/486/0825-01"
+      ]
+    },
+    {
+      "cite": "539 U.S. 23",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8896954
+      ],
+      "weight": 3,
+      "year": 2003,
+      "pin_cites": [
+        {
+          "page": "35"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/539/0023-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 1048",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12617322
+      ],
+      "weight": 2,
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "1061"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/139/1048-01"
+      ]
+    },
+    {
+      "cite": "565 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12186613
+      ],
+      "weight": 3,
+      "year": 2012,
+      "pin_cites": [
+        {
+          "page": "483"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/565/0478-01"
+      ]
+    },
+    {
+      "cite": "555 U.S. 415",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3679422
+      ],
+      "weight": 6,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "421-422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/555/0415-01"
+      ]
+    },
+    {
+      "cite": "544 U.S. 13",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5879404
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "24-25",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/544/0013-01"
+      ]
+    },
+    {
+      "cite": "530 U.S. 466",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413911
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "490"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0466-01"
+      ]
+    },
+    {
+      "cite": "555 U.S. 122",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3679441
+      ],
+      "weight": 3,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "125"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/555/0122-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 2243",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12598042
+      ],
+      "weight": 6,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "2252"
+        },
+        {
+          "page": "2253"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/2243-01"
+      ]
+    },
+    {
+      "cite": "495 U.S. 575",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        634101
+      ],
+      "weight": 14,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "601-602"
+        },
+        {
+          "page": "601"
+        },
+        {
+          "page": "600"
+        },
+        {
+          "page": "600"
+        },
+        {
+          "page": "600"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/495/0575-01"
+      ]
+    },
+    {
+      "cite": "569 U.S. 184",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12697041
+      ],
+      "weight": 5,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "200-201"
+        },
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/569/0184-01"
+      ]
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1227",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(2)(A)(iii)",
+          "parenthetical": "deportation"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 U.S.C. \u00a7 1101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(a)(43)(F)"
+        },
+        {
+          "page": "(a)(43)(M)(i)"
+        },
+        {
+          "page": "(a)(43)(F)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "527 U.S. 41",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1248042
+      ],
+      "weight": 3,
+      "year": 1999,
+      "pin_cites": [
+        {
+          "page": "114",
+          "parenthetical": "THOMAS, J., dissenting"
+        },
+        {
+          "parenthetical": "THOMAS, J., dissenting"
+        },
+        {
+          "parenthetical": "THOMAS, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/527/0041-01"
+      ]
+    },
+    {
+      "cite": "905 F.3d 1231",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518752
+      ],
+      "weight": 9,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1250, n. 8",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1241"
+        },
+        {
+          "page": "1245"
+        },
+        {
+          "page": "1235"
+        },
+        {
+          "page": "1253",
+          "parenthetical": "concurring opinion"
+        },
+        {
+          "page": "1240-1252",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "1295",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/905/1231-01"
+      ]
+    },
+    {
+      "cite": "Tenn. Code Ann. \u00a7 39-13-303",
+      "category": "laws:leg_statute",
+      "reporter": "Tenn. Code Ann.",
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "(a)",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Pa. Cons. Stat. \u00a7 5104",
+      "category": "laws:leg_statute",
+      "reporter": "Pa. Cons. Stat.",
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "21 U.S.C. \u00a7 858",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 S.Ct. 1257",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12595643
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1262-1263",
+          "parenthetical": "quoting Johnson , 576 U.S., at ----, 135 S.Ct., at 2561 "
+        },
+        {
+          "parenthetical": "quoting Johnson , 576 U.S., at ----, 135 S.Ct., at 2561 "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/1257-01"
+      ]
+    },
+    {
+      "cite": "137 S.Ct. 1170",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12603201
+      ],
+      "weight": 2,
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "1176"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/137/1170-01"
+      ]
+    },
+    {
+      "cite": "5 L.Ed. 37",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1442088
+      ],
+      "weight": 2,
+      "year": 1820,
+      "pin_cites": [
+        {
+          "parenthetical": "Marshall, C.J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/18/0076-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 259",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11651497
+      ],
+      "weight": 5,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "265-267"
+        },
+        {
+          "page": "265-266"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0259-01"
+      ]
+    },
+    {
+      "cite": "130 S.Ct. 2896",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3644193,
+        12455283,
+        3815903
+      ],
+      "weight": 3,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "\"fairly possible\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/561/0358-01",
+        "/l-ed-2d/177/0619-01",
+        "/br/430/2896-01"
+      ]
+    },
+    {
+      "cite": "561 U.S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3644193,
+        12455283
+      ],
+      "weight": 5,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "405-406"
+        },
+        {
+          "page": "406",
+          "parenthetical": "\"fairly possible\" (internal quotation marks omitted)"
+        },
+        {
+          "parenthetical": "\"fairly possible\" (internal quotation marks omitted)"
+        },
+        {
+          "page": "405-409"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/561/0358-01",
+        "/l-ed-2d/177/0619-01"
+      ]
+    },
+    {
+      "cite": "97 L.Ed. 770",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "345 U.S. 41",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        372756
+      ],
+      "weight": 2,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "45, 47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/345/0041-01"
+      ]
+    },
+    {
+      "cite": "914 F.3d 229",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12519907
+      ],
+      "weight": 9,
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "247-248",
+          "parenthetical": "en banc"
+        },
+        {
+          "page": "256-257",
+          "parenthetical": "Wynn, J., concurring"
+        },
+        {
+          "page": "264"
+        },
+        {
+          "page": "272",
+          "parenthetical": "opinion of Niemeyer, J."
+        },
+        {
+          "page": "233-234",
+          "parenthetical": "conspiracy to commit robbery"
+        },
+        {
+          "page": "232"
+        },
+        {
+          "page": "264"
+        },
+        {
+          "page": "236-246",
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/914/0229-01"
+      ]
+    },
+    {
+      "cite": "82 Stat. 1224",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 L.Ed.2d 519",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        3582239,
+        12448255
+      ],
+      "year": 2010,
+      "pin_cites": [
+        {
+          "parenthetical": "interpretations of three courts of appeals \"may not have 'settled' the meaning\" of a statute for purposes of the reenactment canon"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/559/0573-01",
+        "/l-ed-2d/176/0519-01"
+      ]
+    },
+    {
+      "cite": "559 U.S. 573",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12448255,
+        3582239
+      ],
+      "weight": 2,
+      "year": 2010,
+      "pin_cites": [
+        {
+          "page": "590",
+          "parenthetical": "interpretations of three courts of appeals \"may not have 'settled' the meaning\" of a statute for purposes of the reenactment canon"
+        },
+        {
+          "parenthetical": "interpretations of three courts of appeals \"may not have 'settled' the meaning\" of a statute for purposes of the reenactment canon"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/l-ed-2d/176/0519-01",
+        "/us/559/0573-01"
+      ]
+    },
+    {
+      "cite": "778 F.2d 86",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1526934
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/778/0086-01"
+      ]
+    },
+    {
+      "cite": "570 U.S. 729",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12698481
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "733"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0729-01"
+      ]
+    },
+    {
+      "cite": "100 Stat. 457",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Stat. 2138",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Stat. 2136",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 844",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "o "
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "496 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12124021
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "484"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/496/0478-01"
+      ]
+    },
+    {
+      "cite": "903 F.3d 166",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518534
+      ],
+      "weight": 3,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "182",
+          "parenthetical": "quoting Oxford Dictionary of English 1183 (A. Stevenson ed., 3d ed. 2010)"
+        },
+        {
+          "page": "179"
+        },
+        {
+          "page": "178-184",
+          "parenthetical": "taking the opposite view"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/903/0166-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 1507",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12619253
+      ],
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "1512"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/139/1507-01"
+      ]
+    },
+    {
+      "cite": "557 U.S. 29",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3658219
+      ],
+      "weight": 22,
+      "year": 2009,
+      "pin_cites": [
+        {
+          "page": "33-34"
+        },
+        {
+          "page": "33-34"
+        },
+        {
+          "page": "40"
+        },
+        {
+          "page": "36"
+        },
+        {
+          "page": "36"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/557/0029-01"
+      ]
+    },
+    {
+      "cite": "570 U.S. 254",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12698469
+      ],
+      "weight": 7,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "269-270"
+        },
+        {
+          "page": "270"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0254-01"
+      ]
+    },
+    {
+      "cite": "543 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3442217
+      ],
+      "weight": 16,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "7, 10"
+        },
+        {
+          "page": "7"
+        },
+        {
+          "page": "7"
+        },
+        {
+          "page": "6"
+        },
+        {
+          "page": "10"
+        },
+        {
+          "page": "4, 7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/543/0001-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 16",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "135 S.Ct. 2551",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591035
+      ],
+      "weight": 23,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "page": "2557"
+        },
+        {
+          "page": "2558-2559"
+        },
+        {
+          "page": "2558, 2561"
+        },
+        {
+          "page": "2652"
+        },
+        {
+          "page": "2561"
+        },
+        {
+          "page": "2561"
+        },
+        {
+          "page": "2556"
+        },
+        {
+          "page": "2561-2562"
+        },
+        {
+          "page": "2557-2558"
+        },
+        {
+          "page": "2579",
+          "parenthetical": "ALITO, J., dissenting"
+        },
+        {
+          "page": "2562-2563"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2551-01"
+      ]
+    },
+    {
+      "cite": "23 L.Ed. 563",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        8777
+      ],
+      "year": 1876,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/92/0214-02"
+      ]
+    },
+    {
+      "cite": "92 U.S. 214",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8777,
+        8790
+      ],
+      "year": 1876,
+      "pin_cites": [
+        {
+          "page": "221"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/92/0214-02",
+        "/us/92/0214-01"
+      ]
+    },
+    {
+      "cite": "255 U.S. 81",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        341573
+      ],
+      "weight": 3,
+      "year": 1921,
+      "pin_cites": [
+        {
+          "page": "89-91"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/255/0081-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 352",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298570
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "357-358"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0352-01"
+      ]
+    },
+    {
+      "cite": "7 Cranch 32",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        572722
+      ],
+      "weight": 3,
+      "year": 1812,
+      "pin_cites": [
+        {
+          "page": "34"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/11/0032-01"
+      ]
+    },
+    {
+      "cite": "234 U.S. 634",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        675081
+      ],
+      "weight": 3,
+      "year": 1914,
+      "pin_cites": [
+        {
+          "page": "638"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/234/0634-01"
+      ]
+    },
+    {
+      "cite": "269 U.S. 385",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        186255
+      ],
+      "weight": 3,
+      "year": 1926,
+      "pin_cites": [
+        {
+          "page": "391"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/269/0385-01"
+      ]
+    },
+    {
+      "cite": "202 L.Ed.2d 511",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12623976,
+        12623974,
+        12623975
+      ],
+      "year": 2018,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/139/0782-05",
+        "/s-ct/139/0782-03",
+        "/s-ct/139/0782-04"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 782",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12623972,
+        12623973,
+        12623974,
+        12623975,
+        12623976,
+        12623977
+      ],
+      "year": 2018,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/139/0782-01",
+        "/s-ct/139/0782-02",
+        "/s-ct/139/0782-03",
+        "/s-ct/139/0782-04",
+        "/s-ct/139/0782-05",
+        "/s-ct/139/0782-06"
+      ]
+    },
+    {
+      "cite": "903 F.3d 483",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12518556
+      ],
+      "weight": 2,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "486",
+          "parenthetical": "per curiam "
+        },
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/903/0483-01"
+      ]
+    },
+    {
+      "cite": "138 S.Ct. 1204",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610616
+      ],
+      "weight": 24,
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1212-1213",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "1224-1228",
+          "parenthetical": "GORSUCH, J., concurring in part and concurring in judgment"
+        },
+        {
+          "page": "1216",
+          "parenthetical": "internal quotation marks omitted"
+        },
+        {
+          "page": "1217",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "1217",
+          "parenthetical": "quoting Webster's Third New International Dictionary 1507 (2002)"
+        },
+        {
+          "page": "1215-1216"
+        },
+        {
+          "page": "1216-1218"
+        },
+        {
+          "page": "1218",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "1218",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "1256",
+          "parenthetical": "dissenting opinion"
+        },
+        {
+          "page": "1254",
+          "parenthetical": "THOMAS, J., dissenting"
+        },
+        {
+          "page": "1217-1218"
+        },
+        {
+          "page": "1217",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/138/1204-01"
+      ]
+    },
+    {
+      "cite": "677 Fed.Appx. 933",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "936",
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 1951",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 924",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "(c)(1)(A)"
+        },
+        {
+          "page": "(c)(3)(B)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 3280,
+    "char_count": 120038,
+    "pagerank": {
+      "raw": 3.219063672086963e-06,
+      "percentile": 0.9977077814189167
+    },
+    "sha256": "0a3efa42e279fc41f1ed092576626d08a588fcaa2043928cd7435728f4ce1356",
+    "simhash": "1:b87af7b94b5c85bb",
+    "word_count": 19745
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES, Petitioner\nv.\nMaurice Lamont DAVIS and Andre Levon Glover"
+    ],
+    "opinions": [
+      {
+        "text": "Justice GORSUCH delivered the opinion of the Court.\nIn our constitutional order, a vague law is no law at all. Only the people's elected representatives in Congress have the power to write new federal criminal laws. And when Congress exercises that power, it has to write statutes that give ordinary people fair warning about what the law demands of them. Vague laws transgress both of those constitutional requirements. They hand off the legislature's responsibility for defining criminal behavior to unelected prosecutors and judges, and they leave people with no sure way to know what consequences will attach to their conduct. When Congress passes a vague law, the role of courts under our Constitution is not to fashion a new, clearer law to take its place, but to treat the law as a nullity and invite Congress to try again.\nToday we apply these principles to 18 U.S.C. \u00a7 924(c). That statute threatens long prison sentences for anyone who uses a firearm in connection with certain other federal crimes. But which other federal crimes? The statute's residual clause points to those felonies \"that by [their] nature, involv[e] a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.\" \u00a7 924(c)(3)(B). Even the government admits that this language, read in the way nearly everyone (including the government) has long understood it, provides no reliable way to determine which offenses qualify as crimes of violence and thus is unconstitutionally vague. So today the government attempts a new and alternative reading designed to save the residual clause. But this reading, it turns out, cannot be squared with the statute's text, context, and history. Were we to adopt it, we would be effectively stepping outside our role as judges and writing a new law rather than applying the one Congress adopted.\nI\nAfter Maurice Davis and Andre Glover committed a string of gas station robberies in Texas, a federal prosecutor charged both men with multiple counts of robbery affecting interstate commerce in violation of the Hobbs Act, 18 U.S.C. \u00a7 1951(a), and one count of conspiracy to commit Hobbs Act robbery. The prosecutor also charged Mr. Davis with being a felon in possession of a firearm. In the end, a jury acquitted Mr. Davis of one robbery charge and otherwise found the men guilty on all counts. And these convictions, none of which are challenged here, authorized the court to impose prison sentences of up to 70 years for Mr. Davis and up to 100 years for Mr. Glover.\nBut that was not all. This appeal concerns additional charges the government pursued against the men under \u00a7 924(c). That statute authorizes heightened criminal penalties for using or carrying a firearm \"during and in relation to,\" or possessing a firearm \"in furtherance of,\" any federal \"crime of violence or drug trafficking crime.\" \u00a7 924(c)(1)(A). The statute proceeds to define the term \"crime of violence\" in two subparts-the first known as the elements clause, and the second the residual clause. According to \u00a7 924(c)(3), a crime of violence is \"an offense that is a felony\" and\n\"(A) has as an element the use, attempted use, or threatened use of physical force against the person or property of another, or\n\"(B) that by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.\"\nViolators of \u00a7 924(c) face a mandatory minimum sentence of five years in prison, over and above any sentence they receive for the underlying crime of violence or drug trafficking crime. The minimum sentence rises to 7 years if the defendant brandishes the firearm and 10 years if he discharges it. Certain types of weapons also trigger enhanced penalties-for example, a defendant who uses a short-barreled shotgun faces a minimum sentence of 10 years. And repeat violations of \u00a7 924(c) carry a minimum sentence of 25 years.\nAt trial, the government argued that Mr. Davis and Mr. Glover had each committed two separate \u00a7 924(c) violations by brandishing a short-barreled shotgun in connection with their crimes. Here, too, the jury agreed. These convictions yielded a mandatory minimum sentence for each man of 35 years, which had to run consecutively to their other sentences. Adding the \u00a7 924(c) mandatory minimums to its discretionary sentences for their other crimes, the district court ultimately sentenced Mr. Glover to more than 41 years in prison and Mr. Davis to more than 50 years.\nOn appeal, both defendants argued that \u00a7 924(c)'s residual clause is unconstitutionally vague. At first, the Fifth Circuit rejected the argument. United States v. Davis , 677 Fed.Appx. 933, 936 (2017) (per curiam ). But after we vacated its judgment and remanded for further consideration in light of our decision in Sessions v. Dimaya , 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018), striking down a different, almost identically worded statute, the court reversed course and held \u00a7 924(c)(3)(B) unconstitutional. 903 F.3d 483, 486 (2018) (per curiam ). It then held that Mr. Davis's and Mr. Glover's convictions on one of the two \u00a7 924(c) counts, the one that charged robbery as a predicate crime of violence, could be sustained under the elements clause. But it held that the other count, which charged conspiracy as a predicate crime of violence, depended on the residual clause; and so it vacated the men's convictions and sentences on that count.\nBecause the Fifth Circuit's ruling deepened a dispute among the lower courts about the constitutionality of \u00a7 924(c)'s residual clause, we granted certiorari to resolve the question. 586 U.S. ----, 139 S.Ct. 782, 202 L.Ed.2d 511 (2018).\nII\nOur doctrine prohibiting the enforcement of vague laws rests on the twin constitutional pillars of due process and separation of powers. See Dimaya , 584 U.S., at ---- - ----, 138 S.Ct., at 1212-1213 (plurality opinion); id. , at ---- - ----, 138 S.Ct., at 1224-1228 (GORSUCH, J., concurring in part and concurring in judgment). Vague laws contravene the \"first essential of due process of law\" that statutes must give people \"of common intelligence\" fair notice of what the law demands of them. Connally v. General Constr. Co. , 269 U.S. 385, 391, 46 S.Ct. 126, 70 L.Ed. 322 (1926) ; see Collins v. Kentucky , 234 U.S. 634, 638, 34 S.Ct. 924, 58 L.Ed. 1510 (1914). Vague laws also undermine the Constitution's separation of powers and the democratic self-governance it aims to protect. Only the people's elected representatives in the legislature are authorized to \"make an act a crime.\" United States v. Hudson , 7 Cranch 32, 34, 11 U.S. 32, 3 L.Ed. 259 (1812). Vague statutes threaten to hand responsibility for defining crimes to relatively unaccountable police, prosecutors, and judges, eroding the people's ability to oversee the creation of the laws they are expected to abide. See Kolender v. Lawson , 461 U.S. 352, 357-358, and n. 7, 103 S.Ct. 1855, 75 L.Ed.2d 903 (1983) ; United States v. L. Cohen Grocery Co. , 255 U.S. 81, 89-91, 41 S.Ct. 298, 65 L.Ed. 516 (1921) ; United States v. Reese , 92 U.S. 214, 221, 23 L.Ed. 563 (1876).\nIn recent years, this Court has applied these principles to two statutes that bear more than a passing resemblance to \u00a7 924(c)(3)(B)'s residual clause. In Johnson v. United States , 576 U.S. ----, 135 S.Ct. 2551, 192 L.Ed.2d 569 (2015), the Court addressed the residual clause of the Armed Career Criminal Act (ACCA), which defined a \"violent felony\" to include offenses that presented a \"serious potential risk of physical injury to another.\" \u00a7 924(e)(2)(B)(ii). The ACCA's residual clause required judges to use a form of what we've called the \"categorical approach\" to determine whether an offense qualified as a violent felony. Following the categorical approach, judges had to disregard how the defendant actually committed his crime. Instead, they were required to imagine the idealized \" 'ordinary case' \" of the defendant's crime and then guess whether a \" 'serious potential risk of physical injury to another' \" would attend its commission. Id. , at ----, 135 S.Ct., at 2557. Johnson held this judicial inquiry produced \"more unpredictability and arbitrariness\" when it comes to specifying unlawful conduct than the Constitution allows. Id. , at ---- - ----, 135 S.Ct., at 2558-2559\nNext, in Sessions v. Dimaya , we considered the residual clause of 18 U.S.C. \u00a7 16, which defines a \"crime of violence\" for purposes of many federal statutes. Like \u00a7 924(c)(3), \u00a7 16 contains an elements clause and a residual clause. The only difference is that \u00a7 16's elements clause, unlike \u00a7 924(c)(3)'s elements clause, isn't limited to felonies; but there's no material difference in the language or scope of the statutes' residual clauses. As with the ACCA, our precedent under \u00a7 16's residual clause required courts to use the categorical approach to determine whether an offense qualified as a crime of violence. Dimaya , 584 U.S., at ---- - ----, 138 S.Ct., at 1211-1212 ; see Leocal v. Ashcroft , 543 U.S. 1, 7, 10, 125 S.Ct. 377, 160 L.Ed.2d 271 (2004). And, again as with the ACCA, we held that \u00a7 16's residual clause was unconstitutionally vague because it required courts \"to picture the kind of conduct that the crime involves in the ordinary case, and to judge whether that abstraction presents some not-well-specified-yet-sufficiently-large degree of risk.\" Dimaya , 584 U.S., at ----, 138 S.Ct., at 1216 (internal quotation marks omitted).\nWhat do Johnson and Dimaya have to say about the statute before us? Those decisions teach that the imposition of criminal punishment can't be made to depend on a judge's estimation of the degree of risk posed by a crime's imagined \"ordinary case.\" But does \u00a7 924(c)(3)(B) require that sort of inquiry? The government and lower courts have long thought so. For years, almost everyone understood \u00a7 924(c)(3)(B) to require exactly the same categorical approach that this Court found problematic in the residual clauses of the ACCA and \u00a7 16. Today, the government acknowledges that, if this understanding is correct, then \u00a7 924(c)(3)(B) must be held unconstitutional too.\nBut the government thinks it has now found a way around the problem. In the aftermath of our decisions holding the residual clauses of the ACCA and \u00a7 16(b) unconstitutionally vague, the government \"abandon[ed] its longstanding position\" that \u00a7 924(c)(3)(B) requires a categorical analysis and began urging lower courts to \"adopt a new 'case specific' method\" that would look to \"the 'defendant's actual conduct' in the predicate offense.\" 903 F.3d at 485. Now, the government tries the same strategy in this Court, asking us to abandon the traditional categorical approach and hold that the statute actually commands the government's new case-specific approach. So, while the consequences in this case may be of constitutional dimension, the real question before us turns out to be one of pure statutory interpretation.\nIn approaching the parties' dispute over the statute's meaning, we begin by acknowledging that the government is right about at least two things. First, a case-specific approach would avoid the vagueness problems that doomed the statutes in Johnson and Dimaya . In those cases, we recognized that there would be no vagueness problem with asking a jury to decide whether a defendant's \" 'real-world conduct' \" created a substantial risk of physical violence. Dimaya , 584 U.S., at ---- - ----, 138 S.Ct., at 1215-1216 ; see Johnson , 576 U.S., at ----, ----, 135 S.Ct., at 2558, 2561. Second, a case-specific approach wouldn't yield the same practical and Sixth Amendment complications under \u00a7 924(c) that it would have under the ACCA or \u00a7 16. Those other statutes, in at least some of their applications, required a judge to determine whether a defendant's prior conviction was for a \"crime of violence\" or \"violent felony.\" In that context, a case-specific approach would have entailed \"reconstruct[ing], long after the original conviction, the conduct underlying that conviction.\" Id. , at ----, 135 S.Ct., at 2652. And having a judge, not a jury, make findings about that underlying conduct would have \"raise[d] serious Sixth Amendment concerns.\" Descamps v. United States , 570 U.S. 254, 269-270, 133 S.Ct. 2276, 186 L.Ed.2d 438 (2013). By contrast, a \u00a7 924(c) prosecution focuses on the conduct with which the defendant is currently charged . The government already has to prove to a jury that the defendant committed all the acts necessary to punish him for the underlying crime of violence or drug trafficking crime. So it wouldn't be that difficult to ask the jury to make an additional finding about whether the defendant's conduct also created a substantial risk that force would be used.\nBut all this just tells us that it might have been a good idea for Congress to have written a residual clause for \u00a7 924(c) using a case-specific approach. It doesn't tell us whether Congress actually wrote such a clause. To answer that question, we need to examine the statute's text, context, and history. And when we do that, it becomes clear that the statute simply cannot support the government's newly minted case-specific theory.\nIII\nA\nRight out of the gate, the government faces a challenge. This Court, in a unanimous opinion, has already read the nearly identical language of 18 U.S.C. \u00a7 16(b) to mandate a categorical approach. And, importantly, the Court did so without so much as mentioning the practical and constitutional concerns described above. Instead, the Court got there based entirely on the text. In Leocal , the Court wrote:\n\"In determining whether petitioner's conviction falls within the ambit of \u00a7 16, the statute directs our focus to the 'offense' of conviction. See \u00a7 16(a) (defining a crime of violence as 'an offense that has as an element the use ... of physical force against the person or property of another' (emphasis added)); \u00a7 16(b) (defining the term as 'any other offense that is a felony and that, by its nature , involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense' (emphasis added)). This language requires us to look to the elements and the nature of the offense of conviction, rather than to the particular facts relating to petitioner's crime.\" 543 U.S. at 7, 125 S.Ct. 377.\nLeocal went on to suggest that burglary would always be a crime of violence under \u00a7 16(b) \"because burglary, by its nature , involves a substantial risk that the burglar will use force against a victim in completing the crime,\" regardless of how any particular burglar might act on a specific occasion. Id. , at 10, 125 S.Ct. 377 (emphasis added); see also Dimaya , 584 U.S., at ----, 138 S.Ct., at 1217 (plurality opinion) (reaffirming that \" \u00a7 16(b)'s text ... demands a categorical approach\"). And what was true of \u00a7 16(b) seems to us at least as true of \u00a7 924(c)(3)(B) : It's not even close; the statutory text commands the categorical approach.\nConsider the word \"offense.\" It's true that \"in ordinary speech,\" this word can carry at least two possible meanings. It can refer to \"a generic crime, say, the crime of fraud or theft in general,\" or it can refer to \"the specific acts in which an offender engaged on a specific occasion.\" Nijhawan v. Holder , 557 U.S. 29, 33-34, 129 S.Ct. 2294, 174 L.Ed.2d 22 (2009). But the word \"offense\" appears just once in \u00a7 924(c)(3), in the statute's prefatory language. And everyone agrees that, in connection with the elements clause, the term \"offense\" carries the first, \"generic\" meaning. Cf. id. , at 36, 129 S.Ct. 2294 (similar language of the ACCA's elements clause \"refers directly to generic crimes\"). So reading this statute most naturally, we would expect \"offense\" to retain that same meaning in connection with the residual clause. After all, \"[i]n all but the most unusual situations, a single use of a statutory phrase must have a fixed meaning.\" Cochise Consultancy, Inc. v. United States ex rel. Hunt , 587 U.S. ----, ----, 139 S.Ct. 1507, 1512, --- L.Ed.2d ---- (2019).\nTo prevail, the government admits it must persuade us that the singular term \"offense\" bears a split personality in \u00a7 924(c), carrying the \"generic\" meaning in connection with the elements clause but then taking on the \"specific act\" meaning in connection with the residual clause. And, the government suggests, this isn't quite as implausible as it may sound; sometimes the term \"offense\" can carry both meanings simultaneously. To illustrate its point, the government posits a statute defining a \"youthful gun crime\" as \"an offense that has as an element the use of a gun and is committed by someone under the age of 21.\" Tr. of Oral Arg. 16. This statute, the government suggests, would leave us little choice but to understand the single word \"offense\" as encompassing both the generic crime and the manner of its commission on a specific occasion. To which we say: Fair enough. It's possible for surrounding text to make clear that \"offense\" carries a double meaning. But absent evidence to the contrary, we presume the term is being used consistently. And nothing in \u00a7 924(c)(3)(B) comes close to rebutting that presumption.\nJust the opposite. The language of the residual clause itself reinforces the conclusion that the term \"offense\" carries the same \"generic\" meaning throughout the statute. Section 924(c)(3)(B), just like \u00a7 16(b), speaks of an offense that, \"by its nature,\" involves a certain type of risk. And that would be an exceedingly strange way of referring to the circumstances of a specific offender's conduct. As both sides agree, the \"nature\" of a thing typically denotes its \" 'normal and characteristic quality,' \" Dimaya , 584 U.S., at ----, 138 S.Ct., at 1217 (quoting Webster's Third New International Dictionary 1507 (2002)), or its \" 'basic or inherent features,' \" United States v. Barrett , 903 F.3d 166, 182 (CA2 2018) (quoting Oxford Dictionary of English 1183 (A. Stevenson ed., 3d ed. 2010)). So in plain English, when we speak of the nature of an offense, we're talking about \"what an offense normally-or, as we have repeatedly said, 'ordinarily'-entails, not what happened to occur on one occasion.\" Dimaya , 584 U.S., at ----, 138 S.Ct., at 1217 ; see Leocal , 543 U.S. at 7, 125 S.Ct. 377 (contrasting the \"nature of the offense\" with \"the particular facts [of] petitioner's crime\").\nOnce again, the government asks us to overlook this obvious reading of the text in favor of a strained one. It suggests that the statute might be referring to the \"nature\" of the defendant's conduct on a particular occasion. But while this reading may be linguistically feasible, we struggle to see why, if it had intended this meaning, Congress would have used the phrase \"by its nature\" at all. The government suggests that \"by its nature\" keeps the focus on the offender's conduct and excludes evidence about his personality , such as whether he has violent tendencies. But even without the words \"by its nature,\" nothing in the statute remotely suggests that courts are allowed to consider character evidence-a type of evidence usually off-limits during the guilt phase of a criminal trial. Cf. Fed. Rule Evid. 404.\nB\nThings become clearer yet when we consider \u00a7 924(c)(3)(B)'s role in the broader context of the federal criminal code. As we've explained, the language of \u00a7 924(c)(3)(B) is almost identical to the language of \u00a7 16(b), which this Court has read to mandate a categorical approach. And we normally presume that the same language in related statutes carries a consistent meaning. See, e.g. , Sullivan v. Stroop , 496 U.S. 478, 484, 110 S.Ct. 2499, 110 L.Ed.2d 438 (1990).\nThis case perfectly illustrates why we do that. There are dozens of federal statutes that use the phrase \"crime of violence\" to refer to presently charged conduct rather than a past conviction. Some of those statutes cross-reference the definition of \"crime of violence\" in \u00a7 924(c)(3), while others are governed by the virtually identical definition in \u00a7 16. The choice appears completely random. Reading the similar language in \u00a7 924(c)(3)(B) and \u00a7 16(b) similarly yields sensibly congruent applications across all these other statutes. But if we accepted the government's invitation to reinterpret \u00a7 924(c)(3)(B) as alone endorsing a case-specific approach, we would produce a series of seemingly inexplicable results.\nTake just a few examples. If the government were right, Congress would have mandated the case-specific approach in a prosecution for providing explosives to facilitate a crime of violence, 18 U.S.C. \u00a7 844(o ), but the (now-invalidated) categorical approach in a prosecution for providing information about explosives to facilitate a crime of violence, \u00a7 842(p)(2). It would have mandated the case-specific approach in a prosecution for using false identification documents in connection with a crime of violence, \u00a7 1028(b)(3)(B), but the categorical approach in a prosecution for using confidential phone records in connection with a crime of violence, \u00a7 1039(e)(1). It would have mandated the case-specific approach in a prosecution for giving someone a firearm to use in a crime of violence, \u00a7 924(h), but the categorical approach in a prosecution for giving a minor a handgun to use in a crime of violence, \u00a7 924(a)(6)(B)(ii). It would have mandated the case-specific approach in a prosecution for traveling to another State to acquire a firearm for use in a crime of violence, \u00a7 924(g), but the categorical approach in a prosecution for traveling to another State to commit a crime of violence, \u00a7 1952(a)(2). And it would have mandated the case-specific approach in a prosecution for carrying armor-piercing ammunition in connection with a crime of violence, \u00a7 924(c)(5), but the categorical approach in a prosecution for carrying a firearm while \"in possession of armor piercing ammunition capable of being fired in that firearm\" in connection with a crime of violence, \u00a7 929(a)(1).\nThere would be no rhyme or reason to any of this. Nor does the government offer any plausible account why Congress would have wanted courts to take such dramatically different approaches to classifying offenses as crimes of violence in these various provisions. To hold, as the government urges, that \u00a7 16(b) requires the categorical approach while \u00a7 924(c)(3)(B) requires the case-specific approach would make a hash of the federal criminal code.\nC\nSection 924(c)(3)(B)'s history provides still further evidence that it carries the same categorical-approach command as \u00a7 16(b). It's no accident that the language of the two laws is almost exactly the same. The statutory term \"crime of violence\" traces its origins to the Comprehensive Crime Control Act of 1984. There, Congress enacted the definition of \"crime of violence\" in \u00a7 16. \u00a7 1001(a), 98 Stat. 2136. It also \"employed the term 'crime of violence' in numerous places in the Act,\" Leocal , 543 U.S. at 6, 125 S.Ct. 377, including in \u00a7 924(c). \u00a7 1005(a), 98 Stat. 2138. At that time, Congress didn't provide a separate definition of \"crime of violence\" in \u00a7 924(c) but relied on \u00a7 16's general definition. The two statutes, thus, were originally designed to be read together.\nAdmittedly, things changed a bit over time. Eventually, Congress expanded \u00a7 924(c)'s predicate offenses to include drug trafficking crimes as well as crimes of violence. \u00a7\u00a7 104(a)(2)(B)-(C), 100 Stat. 457. When it did so, Congress added a subsection-specific definition of \"drug trafficking crime\" in \u00a7 924(c)(2) -and, perhaps thinking that both terms should be defined in the same place, it also added a subsection-specific definition of \"crime of violence\" in \u00a7 924(c)(3). \u00a7 104(a)(2)(F), id. , at 457. But even then, Congress didn't write a new definition of that term. Instead, it copied and pasted the definition from \u00a7 16 without making any material changes to the language of the residual clause. The government suggests that, in doing so, Congress \"intentionally separated\" and \"decoupled\"\nthe two definitions. Brief for United States 34, 37. But importing the residual clause from \u00a7 16 into \u00a7 924(c)(3) almost word for word would have been a bizarre way of suggesting that the two clauses should bear drastically different meanings. Usually when statutory language \" 'is obviously transplanted from ... other legislation,' \" we have reason to think \" 'it brings the old soil with it.' \" Sekhar v. United States , 570 U.S. 729, 733, 133 S.Ct. 2720, 186 L.Ed.2d 794 (2013).\nWhat's more, when Congress copied \u00a7 16(b)'s language into \u00a7 924(c) in 1986, it proceeded on the premise that the language required a categorical approach. By then courts had, as the government puts it, \"beg[u]n to settle\" on the view that \u00a7 16(b) demanded a categorical analysis. Brief for United States 36-37. Of particular significance, the Second Circuit, along with a number of district courts, had relied on the categorical approach to hold that selling drugs could never qualify as a crime of violence because \"[w]hile the traffic in drugs is often accompanied by violence,\" it can also be carried out through consensual sales and thus \"does not by its nature involve substantial risk that physical violence will be used.\" United States v. Diaz , 778 F.2d 86, 88 (1985). Congress moved quickly to abrogate those decisions. But, notably, it didn't do so by directing a case-specific approach or changing the language courts had read to require the categorical approach. Instead, it accepted the categorical approach as given and simply declared that certain drug trafficking crimes automatically trigger \u00a7 924 penalties, regardless of the risk of violence that attends them. \u00a7\u00a7 104(a)(2)(B)-(C), 100 Stat. 457.\nThe government's reply to this development misses the mark. The government argues that \u00a7 16(b) had not acquired such a well-settled judicial construction by 1986 that the reenactment of its language in \u00a7 924(c)(3)(B) should be presumed to have incorporated the same construction. We agree. See Jerman v. Carlisle, McNellie, Rini, Kramer & Ulrich, L. P. A. , 559 U.S. 573, 590, 130 S.Ct. 1605, 176 L.Ed.2d 519 (2010) (interpretations of three courts of appeals \"may not have 'settled' the meaning\" of a statute for purposes of the reenactment canon). But Congress in 1986 did more than just reenact language that a handful of courts had interpreted to require the categorical approach. It amended \u00a7 924(c) specifically to abrogate the results of those decisions, without making any attempt to overturn the categorical reading on which they were based. And that would have been an odd way of proceeding if Congress had thought the categorical reading erroneous.\nThere's yet one further and distinct way in which \u00a7 924(c)'s history undermines the government's case-specific reading of the residual clause. As originally enacted in 1968, \u00a7 924(c) prohibited the use of a firearm in connection with any federal felony. \u00a7 102, 82 Stat. 1224. The 1984 amendments narrowed \u00a7 924(c) by limiting its predicate offenses to \"crimes of violence.\" But the case-specific reading would go a long way toward nullifying that limitation and restoring the statute's original breadth. After all, how many felonies don't involve a substantial risk of physical force when they're committed using a firearm-let alone when the defendant brandishes or discharges the firearm?\nRecognizing this difficulty, the government assures us that a jury wouldn't be allowed to find a felony to be a crime of violence solely because the defendant used a firearm, although it could consider the firearm as a \"factor.\" Tr. of Oral Arg. 8. But the government identifies no textual basis for this rule, and exactly how it would work in practice is anyone's guess. The government says, for example, that \"selling counterfeit handbags\" while carrying a gun wouldn't be a crime of violence under its approach. Id. , at 9. But why not? Because the counterfeit-handbag trade is so inherently peaceful that there's no substantial risk of a violent confrontation with dissatisfied customers, territorial competitors, or dogged police officers? And how are jurors supposed to determine that? The defendant presumably knew the risks of his trade, and he chose to arm himself. See United States v. Simms , 914 F.3d 229, 247-248 (CA4 2019) (en banc) (refusing to \"condem[n] jurors to such an ill-defined inquiry\"). Even granting the government its handbag example, we suspect its approach would result in the vast majority of federal felonies becoming potential predicates for \u00a7 924(c) charges, contrary to the limitation Congress deliberately imposed when it restricted the statute's application to crimes of violence.\nD\nWith all this statutory evidence now arrayed against it, the government answers that it should prevail anyway because of the canon of constitutional avoidance. Maybe the case-specific approach doesn't represent the best reading of the statute-but, the government insists, it is our duty to adopt any \" 'fairly possible' \" reading of a statute to save it from being held unconstitutional. Brief for United States 45.\nWe doubt, however, the canon could play a proper role in this case even if the government's reading were \"possible.\" True, when presented with two \"fair alternatives,\" this Court has sometimes adopted the narrower construction of a criminal statute to avoid having to hold it unconstitutional if it were construed more broadly. United States v. Rumely , 345 U.S. 41, 45, 47, 73 S.Ct. 543, 97 L.Ed. 770 (1953) ; see, e.g. , Skilling v. United States , 561 U.S. 358, 405-406, and n. 40, 130 S.Ct. 2896, 177 L.Ed.2d 619 (2010) ; United States v. Lanier , 520 U.S. 259, 265-267, and n. 6, 117 S.Ct. 1219, 137 L.Ed.2d 432 (1997). But no one before us has identified a case in which this Court has invoked the canon to expand the reach of a criminal statute in order to save it. Yet that is exactly what the government seeks here. Its case-specific reading would cause \u00a7 924(c)(3)(B)'s penalties to apply to conduct they have not previously been understood to reach: categorically nonviolent felonies committed in violent ways. See Simms , 914 F.3d at 256-257 (Wynn, J., concurring).\nEmploying the avoidance canon to expand a criminal statute's scope would risk offending the very same due process and separation-of-powers principles on which the vagueness doctrine itself rests. See supra , at 2325 - 2326. Everyone agrees that Mr. Davis and Mr. Glover did many things that Congress had declared to be crimes; and no matter how we rule today, they will face substantial prison sentences for those offenses. But does \u00a7 924(c)(3)(B) require them to suffer additional punishment, on top of everything else? Even if you think it's possible to read the statute to impose such additional punishment, it's impossible to say that Congress surely intended that result, or that the law gave Mr. Davis and Mr. Glover fair warning that \u00a7 924(c)'s mandatory penalties would apply to their conduct. Respect for due process and the separation of powers suggests a court may not, in order to save Congress the trouble of having to write a new law, construe a criminal statute to penalize conduct it does not clearly proscribe.\nEmploying the canon as the government wishes would also sit uneasily with the rule of lenity's teaching that ambiguities about the breadth of a criminal statute should be resolved in the defendant's favor. That rule is \"perhaps not much less old than\" the task of statutory \"construction itself.\" United States v. Wiltberger , 18 U.S. (5 Wheat.) 76, 95, 5 L.Ed. 37 (1820) (Marshall, C.J.). And much like the vagueness doctrine, it is founded on \"the tenderness of the law for the rights of individuals\" to fair notice of the law \"and on the plain principle that the power of punishment is vested in the legislative, not in the judicial department.\" Ibid. ; see Lanier , 520 U.S. at 265-266, and n. 5, 117 S.Ct. 1219. Applying constitutional avoidance to narrow a criminal statute, as this Court has historically done, accords with the rule of lenity. By contrast, using the avoidance canon instead to adopt a more expansive reading of a criminal statute would place these traditionally sympathetic doctrines at war with one another.\nIV\nWhat does the dissent have to say about all this? It starts by emphasizing that \u00a7 924(c)(3)(B) has been used in \"tens of thousands of federal prosecutions\" since its enactment 33 years ago. Post , at 2337 (opinion of KAVANAUGH, J.). And the dissent finds it \"surprising\" and \"extraordinary\" that, after all those prosecutions over all that time, the statute could \"suddenly\" be deemed unconstitutional. Post , at 2337 - 2338. But the government concedes that \u00a7 924(c)(3)(B) is unconstitutional if it means what everyone has understood it to mean in nearly all of those prosecutions over all those years. So the only way the statute can be saved is if we were \"suddenly\" to give it a new meaning different from the one it has borne for the last three decades. And if we could do that , it would indeed be \"surprising\" and \"extraordinary.\"\nThe dissent defends giving this old law a new meaning by appealing to intuition. It suggests that a categorical reading of \u00a7 924(c)(3)(B) is \"unnatural\" because \"[i]f you were to ask John Q. Public whether a particular crime posed a substantial risk of violence, surely he would respond, 'Well, tell me how it went down-what happened ?' \" Post , at 2343 (some internal quotation marks omitted). Maybe so. But the language in the statute before us isn't the language posited in the dissent's push poll. Section 924(c)(3)(B) doesn't ask about the risk that \"a particular crime posed\" but about the risk that an \"offense ... by its nature, involves.\" And a categorical reading of this categorical language seemed anything but \"unnatural\" to the unanimous Court in Leocal or the plurality in Dimaya . Nor did the government think the categorical reading of \u00a7 924(c)(3)(B) \"unnatural\" when it embraced that reading for decades. The dissent asks us to overlook the government's prior view, explaining that the government only defended a categorical reading of the statute \"when it did not matter for constitutional vagueness purposes\"-that is, before Johnson and Dimaya identified constitutional problems with the categorical approach. Post , at 2355. But isn't that exactly the point? Isn't it at least a little revealing that, when the government had no motive to concoct an alternative reading, even it thought the best reading of \u00a7 924(c)(3)(B) demanded a categorical analysis?\nIf this line of attack won't work, the dissent tries another by telling us that we have \"not fully account[ed] for the long tradition of substantial-risk criminal statutes.\" Post , at 2355. The dissent proceeds to offer a lengthy bill of particulars, citing dozens of state and federal laws that do not use the categorical approach. Post , at 2339 - 2342, and nn. 4-17. But what does this prove? Most of the statutes the dissent cites impose penalties on whoever \"creates,\" or \"engages in conduct that creates,\" or acts under \"circumstances that create\" a substantial risk of harm; others employ similar language. Not a single one imposes penalties for committing certain acts during \"an offense ... that by its nature, involves\" a substantial risk, or anything similar. Marching through the dissent's own catalog thus only winds up confirming that legislatures know how to write risk-based statutes that require a case-specific analysis-and that \u00a7 924(c)(3)(B) is not a statute like that.\nWhen the dissent finally turns to address the words Congress actually wrote in \u00a7 924(c)(3)(B), its main argument seems to be that a categorical reading violates the canon against superfluity. On this account, reading \"offense\" generically in connection with the residual clause makes the residual clause \"duplicate\" the elements clause and leaves it with \"virtually nothing\" to do. Post , at 2347. But that is a surprising assertion coming from the dissent, which devotes several pages to describing the \"many\" offenders who have been convicted under the residual clause using the categorical approach but who \"might not\" be prosecutable under the elements clause. Post , at 2353 - 2355. It is also wrong. As this Court has long understood, the residual clause, read categorically, \"sweeps more broadly\" than the elements clause-potentially reaching offenses, like burglary, that do not have violence as an element but that arguably create a substantial risk of violence. Leocal , 543 U.S. at 10, 125 S.Ct. 377. So even under the categorical reading, the residual clause is far from superfluous.\nWithout its misplaced reliance on the superfluity canon, there is little left of the dissent's textual analysis. The dissent asserts that the phrase \"by its nature\" must \"focu[s] on the defendant's actual conduct\"-but only because this \"follows\" from the dissent's earlier (and mistaken) superfluity argument. Post , at 2347. Next, the dissent claims that \"the word 'involves' \" and \"the phrase 'in the course of committing the offense' \" both support a case-specific approach. Post , at 2348. But these words do not favor either reading: It is just as natural to ask whether the offense of robbery ordinarily \"involves\" a substantial risk that violence will be used \"in the course of committing the offense\" as it is to ask whether a particular robbery \"involved\" a substantial risk that violence would be used \"in the course of committing the offense.\" If anything, the statute's use of the present and not the past tense lends further support to the categorical reading. The dissent thinks it significant, too, that the statute before us \"does not use the term 'conviction,' \" post , at 2349; but that word is hardly a prerequisite for the categorical approach, as Dimaya makes clear. Remarkably, the dissent has nothing at all to say about \u00a7 924(c)(3)'s history or its relationship with other criminal statutes; it just ignores those arguments. And when it comes to the constitutional avoidance canon, the dissent does not even try to explain how using that canon to criminalize conduct that isn't criminal under the fairest reading of a statute might be reconciled with traditional principles of fair notice and separation of powers. Instead, the dissent seems willing to consign \" 'thousands' \" of defendants to prison for \"years-potentially decades,\" not because it is certain or even likely that Congress ordained those penalties, but because it is merely \"possible\" Congress might have done so. Post , at 2352, 2354 - 2355. In our republic, a speculative possibility that a man's conduct violated the law should never be enough to justify taking his liberty.\nIn the end, the dissent is forced to argue that holding \u00a7 924(c)(3)(B) unconstitutional would invite \"bad\" social policy consequences. Post , at 2355. In fact, the dissent's legal analysis only comes sandwiched between a lengthy paean to laws that impose severe punishments for gun crimes and a rogue's gallery of offenses that may now be punished somewhat less severely. See post , at 2336 - 2337, 2352 - 2355. The dissent acknowledges that \"the consequences cannot change our understanding of the law.\" Post , at 2355. But what's the point of all this talk of \"bad\" consequences if not to suggest that judges should be tempted into reading the law to satisfy their policy goals? Even taken on their own terms, too, the dissent's policy concerns are considerably overblown. While the dissent worries that our ruling may elicit challenges to past \u00a7 924(c) convictions, post , at 2354, the dissent's preferred approach-saving \u00a7 924(c)(3)(B) by changing its meaning-would also call into question countless convictions premised on the categorical reading. And defendants whose \u00a7 924(c) convictions are overturned by virtue of today's ruling will not even necessarily receive lighter sentences: As this Court has noted, when a defendant's \u00a7 924(c) conviction is invalidated, courts of appeals \"routinely\" vacate the defendant's entire sentence on all counts \"so that the district court may increase the sentences for any remaining counts\" if such an increase is warranted. Dean v. United States , 581 U.S. ----, ----, 137 S.Ct. 1170, 1176, 197 L.Ed.2d 490 (2017).\nOf course, too, Congress always remains free to adopt a case-specific approach to defining crimes of violence for purposes of \u00a7 924(c)(3)(B) going forward. As Mr. Davis and Mr. Glover point out, one easy way of achieving that goal would be to amend the statute so it covers any felony that, \"based on the facts underlying the offense, involved a substantial risk\" that physical force against the person or property of another would be used in the course of committing the offense. Brief for Respondents 46 (quoting H. R. 7113, 115th Cong., 2d Sess. (2018); emphasis deleted); see also Tr. of Oral Arg. 19 (government's counsel agreeing that this language would offer \"clearer\" support for the case-specific approach than the current version of the statute does). The dissent's catalog of case-specific, risk-based criminal statutes supplies plenty of other models Congress could follow. Alternatively still, Congress might choose to retain the categorical approach but avoid vagueness in other ways, such as by defining crimes of violence to include certain enumerated offenses or offenses that carry certain minimum penalties. All these options and more are on the table. But these are options that belong to Congress to consider; no matter how tempting, this Court is not in the business of writing new statutes to right every social wrong it may perceive.\n*\nWe agree with the court of appeals' conclusion that \u00a7 924(c)(3)(B) is unconstitutionally vague. At the same time, exactly what that holding means for Mr. Davis and Mr. Glover remains to be determined. After the Fifth Circuit vacated their convictions and sentences on one of the two \u00a7 924(c) counts at issue, both men sought rehearing and argued that the court should have vacated their sentences on all counts. In response, the government conceded that, if \u00a7 924(c)(3)(B) is held to be vague, then the defendants are entitled to a full resentencing, not just the more limited remedy the court had granted them. The Fifth Circuit has deferred ruling on the rehearing petitions pending our decision, so we remand the case to allow the court to address those petitions. The judgment below is affirmed in part and vacated in part, and the case is remanded for further proceedings consistent with this opinion.\nIt is so ordered.\nJustice KAVANAUGH, with whom Justice THOMAS and Justice ALITO join, and with whom THE CHIEF JUSTICE joins as to all but Part II-C, dissenting.\nCrime and firearms form a dangerous mix. From the 1960s through the 1980s, violent gun crime was rampant in America. The wave of violence destroyed lives and devastated communities, particularly in America's cities. Between 1963 and 1968, annual murders with firearms rose by a staggering 87 percent, and annual aggravated assaults with firearms increased by more than 230 percent.\nFaced with an onslaught of violent gun crime and its debilitating effects, the American people demanded action. In 1968, Congress passed and President Lyndon Johnson signed the Gun Control Act. That law made it a separate federal crime to use or carry a firearm during a federal felony. Despite that and other efforts, violent crime with firearms continued at extraordinarily dangerous levels. In 1984 and again in 1986, in legislation signed by President Reagan, Congress reenacted that provision of the 1968 Act, with amendments. The law now prohibits, among other things, using or carrying a firearm during and in relation to a federal \"crime of violence.\" 18 U.S.C. \u00a7 924(c)(1)(A). The law mandates substantial prison time for violators.\nOver the last 33 years, tens of thousands of \u00a7 924(c) cases have been prosecuted in the federal courts. Meanwhile, violent crime with firearms has decreased significantly. Over the last 25 years, the annual rate of murders with firearms has dropped by about 50 percent, and the annual rate of nonfatal violent crimes (robberies, aggravated assaults, and sex crimes) with firearms has decreased by about 75 percent. Violent crime in general (committed with or without a firearm) has also declined. During that same time period, both the annual rate of overall violent crime and the annual rate of murders have dropped by almost 50 percent.\nAlthough the level of violent crime in America is still very high, especially in certain cities, Americans under the age of 40 probably cannot fully appreciate how much safer most American cities and towns are now than they were in the 1960s, 1970s, and 1980s. Many factors have contributed to the decline of violent crime in America. But one cannot dismiss the effects of state and federal laws that impose steep punishments on those who commit violent crimes with firearms.\nYet today, after 33 years and tens of thousands of federal prosecutions, the Court suddenly finds a key provision of \u00a7 924(c) to be unconstitutional because it is supposedly too vague. That is a surprising conclusion for the Court to reach about a federal law that has been applied so often for so long with so little problem. The Court's decision today will make it harder to prosecute violent gun crimes in the future. The Court's decision also will likely mean that thousands of inmates who committed violent gun crimes will be released far earlier than Congress specified when enacting \u00a7 924(c). The inmates who will be released early are not nonviolent offenders. They are not drug offenders. They are offenders who committed violent crimes with firearms, often brutally violent crimes.\nA decision to strike down a 33-year-old, often-prosecuted federal criminal law because it is all of a sudden unconstitutionally vague is an extraordinary event in this Court. The Constitution's separation of powers authorizes this Court to declare Acts of Congress unconstitutional. That is an awesome power. We exercise that power of judicial review in justiciable cases to, among other things, ensure that Congress acts within constitutional limits and abides by the separation of powers. But when we overstep our role in the name of enforcing limits on Congress, we do not uphold the separation of powers, we transgress the separation of powers.\nI fully understand how the Court has arrived at its conclusion given the Court's recent precedents in Johnson v. United States , 576 U.S. ----, 135 S.Ct. 2551, 192 L.Ed.2d 569 (2015), and Sessions v. Dimaya , 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018). But this case presents an entirely different question. Those cases involved statutes that imposed additional penalties based on prior convictions. This case involves a statute that focuses on the defendant's current conduct during the charged crime. The statute here operates entirely in the present. Under our precedents, this statute therefore is not unconstitutionally vague. It is a serious mistake, in my respectful view, to follow Johnson and Dimaya off the constitutional cliff in this case. I respectfully dissent.\nI\nSection 924(c) prohibits using or carrying a firearm during and in relation to a federal \"crime of violence,\" or possessing a firearm in furtherance of a federal \"crime of violence.\" Section 924(c) is a substantive criminal offense, not a sentence enhancement. The Government therefore charges a \u00a7 924(c) offense in the indictment. Ordinarily, when charged under \u00a7 924(c), a defendant will be charged with both an underlying federal crime and then also a \u00a7 924(c) offense. For example, Davis was charged with both conspiracy to commit robbery and a \u00a7 924(c) offense. Glover was likewise charged with both conspiracy to commit robbery and a \u00a7 924(c) offense.\nBy any measure, Davis and Glover's conduct during the conspiracy was violent. Davis and Glover committed multiple armed robberies of convenience stores in the early morning hours. Those armed robberies followed a pattern: Davis and Glover (or Glover and a co-conspirator)-usually covering their faces-would arrive at a convenience store in the early morning hours in a car with no plates. One of them would point a short-barreled shotgun at a female employee and order her around. Sometimes, he would point the short-barreled shotgun in her face. Sometimes, he would put the short-barreled shotgun in her side. While one of them was aiming the short-barreled shotgun at the store employee, another would take cigarettes and demand money. Davis and Glover's crime spree ended with still more dangerous behavior: a high-speed car chase in wet and dangerous driving conditions that culminated in a crash.\nSection 924(c)(3) lays out the definition of \"crime of violence\" for purposes of \u00a7 924(c). That definition has two prongs, either of which can bring a defendant within the scope of \u00a7 924(c).\nThe first prong of \u00a7 924(c)(3) is the elements prong. That prong, the Government concedes here, asks whether the underlying crime categorically fits within \u00a7 924(c) because of the elements of the crime. The judge makes that determination. If the answer is yes, then the judge instructs the jury on the \u00a7 924(c) offense to simply find whether the defendant used or carried a firearm during and in relation to that underlying crime, or possessed a firearm in furtherance of that underlying crime.\nThe Fifth Circuit concluded that Davis and Glover's conspiracy offenses did not fit within the elements prong of \u00a7 924(c)(3). So the question was whether Davis and Glover were covered by the second prong.\nThe second prong of \u00a7 924(c)(3) is the substantial-risk prong. That prong covers cases beyond those covered by the first prong, the elements prong. Congress sensibly wanted to cover defendants who committed crimes that are not necessarily violent by definition under the elements prong, but who committed crimes with firearms in a way that created a substantial risk that violent force would be used. To that end, the substantial-risk prong, properly read, focuses not on the elements of the underlying crime, but rather on the defendant's conduct during that crime. If a defendant used or carried a firearm during and in relation to the crime, and the defendant's conduct during the crime created a substantial risk that physical force may be used, then the defendant may be guilty of a \u00a7 924(c) offense. In that instance, the jury makes the finding: Did the defendant's conduct during the underlying crime create a substantial risk that violent force would be used?\nIn other words, as relevant here, a defendant can fall within the scope of \u00a7 924(c) either (1) because of the elements of the underlying crime or (2) because of the defendant's conduct in committing the underlying crime. Either (1) the judge finds that an element of the underlying crime entails the use of physical force or (2) the jury finds that the defendant's actual conduct involved a substantial risk that physical force may be used. Put another way, the underlying crime itself may automatically bring the defendant within the scope of \u00a7 924(c). Or if the underlying crime does not automatically qualify as a crime of violence, then the defendant's conduct during the crime may still bring the defendant within the scope of \u00a7 924(c). Sensible enough.\nThe basic question in this case is whether the substantial-risk prong of \u00a7 924(c)(3)'s definition of \"crime of violence\" is unconstitutionally vague. It is not.\nAs this Court has explained multiple times, criminal laws that apply a risk standard to a defendant's conduct are not too vague, but instead are perfectly constitutional. Writing for the Court in Johnson , for example, Justice Scalia stated that \"we do not doubt the constitutionality of laws that call for the application of a qualitative standard such as 'substantial risk' to real-world conduct.\" 576 U.S., at ----, 135 S.Ct., at 2561. The following year in Welch v. United States , Justice Kennedy confirmed that Johnson \"cast no doubt on the many laws that 'require gauging the riskiness of conduct in which an individual defendant engages on a particular occasion .'\n\" 578 U.S. ----, ---- - ----, 136 S.Ct. 1257, 1262-1263, 194 L.Ed.2d 387 (2016) (quoting Johnson , 576 U.S., at ----, 135 S.Ct., at 2561 ). Two years later in Dimaya , Justice KAGAN wrote for the Court and echoed Justice Scalia and Justice Kennedy: \"In Johnson 's words, 'we do not doubt' the constitutionality of applying \u00a7 16(b)'s 'substantial risk [standard] to real-world conduct.' \" 584 U.S., at ---- - ----, 138 S.Ct., at 1215-1216 (quoting Johnson , 576 U.S., at ----, 135 S.Ct., at 2561 ).\nThat kind of risk-based criminal statute is not only constitutional, it is very common. As the Court has recognized, \"dozens of federal and state criminal laws use terms like 'substantial risk,' 'grave risk,' and 'unreasonable risk,' \" and almost all of those statutes \"require gauging the riskiness of conduct in which an individual defendant engages on a particular occasion .\" Johnson , 576 U.S., at ----, 135 S.Ct., at 2561. Indeed, the Government's brief in Johnson collected more than 200 state and federal statutes that imposed criminal penalties for conduct that created a risk of injury to others. App. to Supp. Brief for United States in Johnson v. United States , O. T. 2014, No. 13-7120, pp. 1a-99a.\nTake a few examples from federal law: It is a federal crime to create \"a substantial risk of harm to human life\" while illegally \"manufacturing a controlled substance.\" 21 U.S.C. \u00a7 858 (emphasis added). Under certain circumstances, it is a federal crime to create \"a substantial risk of serious bodily injury to any other person by destroying or damaging any structure, conveyance, or other real or personal property within the United States or by attempting or conspiring to\" do so. 18 U.S.C. \u00a7 2332b(a)(1)(B) (emphasis added). And for purposes of the chapter of the federal criminal code dealing with sexual abuse crimes, \"serious bodily injury\" is defined as \"bodily injury that involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.\" \u00a7 2246(4) (emphasis added).\nThe States' criminal codes are similar. Among the crimes that the States define by using qualitative risk standards are resisting arrest, kidnaping, assault, battery, criminal recklessness, endangerment, unlawful restraint, theft, hazing, abuse, neglect, arson, homicide, and weapons offenses.\nConsider a few specific examples: In Pennsylvania, a person resists arrest \"if, with the intent of preventing a public servant from effecting a lawful arrest or discharging any other duty, the person creates a substantial risk of bodily injury to the public servant or anyone else.\" 18 Pa. Cons. Stat. \u00a7 5104 (2015) (emphasis added). In Tennessee, kidnaping is defined as false imprisonment \"under circumstances exposing the other person to substantial risk of bodily injury.\" Tenn. Code Ann. \u00a7 39-13-303(a) (2018) (emphasis added). In New York, reckless endangerment occurs when a person \"recklessly engages in conduct which creates a substantial risk of serious physical injury to another person.\" N. Y. Penal Law Ann. \u00a7 120.20 (emphasis added). And in Maryland, neglect of a minor is defined as \"the intentional failure to provide necessary assistance and resources for the physical needs or mental health of a minor that creates a substantial risk of harm to the minor's physical health or a substantial risk of mental injury to the minor.\" Md. Crim. Law Code Ann. \u00a7 3-602.1(a)(5)(i) (2012) (emphasis added).\nThe above examples demonstrate that substantial-risk standards like the one in \u00a7 924(c)(3)(B) are a traditional and common feature of criminal statutes. As the Eleventh Circuit succinctly stated, there \"is nothing remarkable about asking jurors to make that sort of risk determination-and, if necessary, requiring judges to instruct jurors on the meaning of terms like 'substantial' and 'physical force.' \" Ovalles v. United States , 905 F.3d 1231, 1250, n. 8 (2018) (en banc). That is \"exactly how similar questions have been resolved for centuries and are resolved every day in courts throughout the country.\" Ibid.\nA statute is unconstitutionally vague only if \"it fails to give ordinary people fair notice of the conduct it punishes,\" or is \"so standardless that it invites arbitrary enforcement.\" Johnson , 576 U.S., at ----, 135 S.Ct., at 2556. Section 924(c)(3)(B) is not unconstitutionally vague. To reiterate, \u00a7 924(c)(3)(B) defines \"crime of violence\" as \"an offense that is a felony and ... that by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.\" Section 924(c)(3)(B) affords people of ordinary intelligence ample notice that they may be punished if they carry or use a gun while engaging in criminal conduct that presents a risk that physical force may be used. There \"is a whole range of conduct that anyone with at least a semblance of common sense would know\" is covered by \u00a7 924(c)(3)(B). Chicago v. Morales , 527 U.S. 41, 114, 119 S.Ct. 1849, 144 L.Ed.2d 67 (1999) (THOMAS, J., dissenting) (internal quotation marks omitted). And prosecutors, defense attorneys, judges, and juries are well equipped to enforce and defend \u00a7 924(c)(3)(B) prosecutions in a principled and predictable way-just as they have for decades with many other substantial-risk criminal statutes. As Judge Niemeyer wrote in his separate opinion in the Fourth Circuit, \"the parties in those cases had little difficulty understanding, enforcing, or defending the \u00a7 924(c)(1) charges at issue.\" United States v. Simms , 914 F.3d 229, 264 (2019).\nIn short, \u00a7 924(c)(3)(B) is a garden-variety, substantial-risk criminal law. Section 924(c)(3)(B) is not unconstitutionally vague.\nII\nThis case therefore should be straightforward. But the Court complicates things by engaging in a two-step dance that ends with the Court concluding that \u00a7 924(c)(3)(B) is unconstitutionally vague.\nThe Court's first step is to construe \u00a7 924(c)(3)'s substantial-risk prong to require an ordinary-case categorical approach rather than a conduct-specific approach. In other words, the Court says that a defendant's guilt or innocence under \u00a7 924(c)(3)'s substantial-risk prong hinges on a judge's assessment of how a hypothetical defendant would ordinarily commit the underlying crime. In the Court's view, a defendant's guilt or innocence under \u00a7 924(c)(3)'s substantial-risk prong does not depend on a jury's finding about how the actual defendant actually committed the underlying crime.\nThe Court's second step is based on the Court's decisions in Johnson and Dimaya . The Court says that the ordinary-case categorical approach makes \u00a7 924(c)(3)(B) unconstitutionally vague.\nFor purposes of this case, the Court's error is its first step-that is, in construing the substantial-risk prong of \u00a7 924(c)(3) to require an ordinary-case categorical approach. For three reasons, I disagree with the Court's analysis. First, the Court's justifications in Johnson and Dimaya for adopting the categorical approach do not apply in the context of \u00a7 924(c). Second, the text of \u00a7 924(c)(3)(B) is best read to focus on the actual defendant's actual conduct during the underlying crime, not on a hypothetical defendant's imagined conduct during an ordinary case of the underlying crime. Third, even if the text were ambiguous, the constitutional avoidance canon requires that we interpret the statute to focus on the actual defendant's actual conduct.\nI will address those three points in Parts II-A, II-B, and II-C.\nA\nAccording to the Court, if \u00a7 924(c)(3)(B) focused on the defendant's conduct during the underlying crime, then it would not be unconstitutionally vague. But \u00a7 924(c)(3)(B), as the Court reads it, focuses on a hypothetical defendant's conduct during an ordinary case of the underlying crime. As a result, the Court says that \u00a7 924(c)(3)(B) is unconstitutionally vague.\nBut it makes little sense, as I see it, to say that \u00a7 924(c)(3)(B)'s substantial-risk inquiry focuses on whether a hypothetical defendant's imagined conduct during an ordinary case of the crime creates a substantial risk that physical force may be used, rather than on whether the actual defendant's actual conduct during the actual crime created a substantial risk that physical force may be used. Why would we interpret a federal law that criminalizes current-offense conduct to focus on a hypothetical defendant rather than on the actual defendant? As Judge Newsom cogently wrote for the Eleventh Circuit en banc majority, \"If you were to ask John Q. Public whether a particular crime posed a substantial risk of violence, surely he would respond, 'Well, tell me how it went down-what happened ?' \" Ovalles , 905 F.3d at 1241.\nWhy does the Court read the substantial-risk prong in such an unnatural way? The Court explains that Johnson interpreted similar substantial-risk language to require the ordinary-case categorical approach. See 576 U.S., at ---- - ----, 135 S.Ct., at 2561-2562. A plurality of the Court did the same in Dimaya . See 584 U.S., at ---- - ----, 138 S.Ct., at 1216-1218. And the Court today casts this case as the third installment in a trilogy with a predictable ending, one that was supposedly foreordained by Johnson and Dimaya .\nThe gaping hole in the Court's analysis, in my view, is that Johnson and Dimaya addressed statutes that imposed penalties based on a defendant's prior criminal convictions.\nIn Johnson , the Court interpreted a definition of \"violent felony\" that was used in sentencing proceedings to classify prior convictions as predicates for stricter sentences. See \u00a7\u00a7 924(e)(1), (e)(2)(B). In Dimaya , the Court interpreted a definition of \"crime of violence\" that was used in immigration proceedings to classify prior convictions as predicates for more severe immigration consequences. See \u00a7 16 (defining \"crime of violence\"); 8 U.S.C. \u00a7 1101(a)(43)(F) (incorporating 18 U.S.C. \u00a7 16 ); 8 U.S.C. \u00a7 1227(a)(2)(A)(iii) (deportation); \u00a7\u00a7 1229b(a)(3), (b)(1)(C) (ineligibility for cancellation of removal and adjustment of status).\nIn interpreting those statutes, the Court employed the ordinary-case categorical approach to assess an individual's past convictions. And application of that categorical approach, the Court then said, rendered the statutes at issue in those cases unconstitutionally vague. See Dimaya , 584 U.S., at ---- - ----, 138 S.Ct., at 1215-1216 ; Johnson , 576 U.S., at ---- - ----, 135 S.Ct., at 2557-2558.\nTwo important principles drove the Court's adoption of the categorical approach in the prior -conviction context in Johnson and Dimaya .\nFirst , in the prior-conviction cases, the Court emphasized that the categorical approach avoids the difficulties and inequities of relitigating \"past convictions in minitrials conducted long after the fact.\" Moncrieffe v. Holder , 569 U.S. 184, 200-201, 133 S.Ct. 1678, 185 L.Ed.2d 727 (2013). Without the categorical approach, courts would have to determine the underlying conduct from years-old or even decades-old documents with varying levels of factual detail. See Taylor v. United States , 495 U.S. 575, 601-602, 110 S.Ct. 2143, 109 L.Ed.2d 607 (1990). The factual statements that are contained in those documents are often \"prone to error.\" Mathis v. United States , 579 U.S. ----, ----, 136 S.Ct. 2243, 2252, 195 L.Ed.2d 604 (2016). The categorical approach avoids the unfairness of allowing inaccuracies to \"come back to haunt the defendant many years down the road.\" Id. , at ----, 136 S.Ct., at 2253. The Court has echoed that reasoning time and again. See, e.g. , Dimaya , 584 U.S., at ----, 138 S.Ct., at 1218 (plurality opinion); Johnson , 576 U.S., at ----, 135 S.Ct., at 2561 ; Descamps v. United States , 570 U.S. 254, 270, 133 S.Ct. 2276, 186 L.Ed.2d 438 (2013) ; Chambers v. United States , 555 U.S. 122, 125, 129 S.Ct. 687, 172 L.Ed.2d 484 (2009).\nSecond , in the prior-conviction cases, the Court insisted on the categorical approach to avoid \"Sixth Amendment concerns.\" Descamps , 570 U.S. at 269, 133 S.Ct. 2276. The Sixth Amendment, as interpreted by this Court's precedents, does not allow a judge (rather than a jury) to make factual determinations that increase the maximum penalty. See Apprendi v. New Jersey , 530 U.S. 466, 490, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000). The Court has read its Sixth Amendment precedents to require the categorical approach. Under the categorical approach, the judge looks only to the fact of conviction and the statutory definition of the prior offense. The Court has reiterated those Sixth Amendment concerns in countless categorical-approach cases. See, e.g. , Dimaya , 584 U.S., at ----, 138 S.Ct., at 1218 (plurality opinion); Mathis , 579 U.S., at ----, 136 S.Ct., at 2252 ; Shepard v. United States , 544 U.S. 13, 24-25, 125 S.Ct. 1254, 161 L.Ed.2d 205 (2005) (plurality opinion); Taylor , 495 U.S. at 601, 110 S.Ct. 2143.\nIn short, the Court in Johnson and Dimaya employed something akin to the constitutional avoidance doctrine to read the statutes at issue to avoid practical and Sixth Amendment problems. In the words of Justice THOMAS, the \"categorical approach was never really about the best reading of the text.\" Dimaya , 584 U.S., at ----, 138 S.Ct., at 1256 (dissenting opinion). As Judge Raggi has perceptively stated: \"[C]onstitutional avoidance informed the original categorical-approach mandate.\" United States v. Barrett , 903 F.3d 166, 179 (CA2 2018).\nBut neither of the two reasons identified in Johnson and Dimaya applies to 18 U.S.C. \u00a7 924(c)(3)(B) -not even a little.\nFirst , \u00a7 924(c) does not require examination of old conduct underlying a prior conviction. Section 924(c) operates entirely in the present. In a \u00a7 924(c) prosecution, there are ordinarily two charged crimes: the underlying crime and the \u00a7 924(c) offense. Here, for example, the defendants were charged with conspiracy to commit robbery and with the \u00a7 924(c) offense. The defendant's conduct during the underlying crime is part of the \u00a7 924(c) offense. The conduct charged in the \u00a7 924(c) offense is in front of the jury (if the case goes to trial) or accepted by the defendant in the plea agreement (if the defendant pleads guilty). The indictment must allege specific offense conduct, and that conduct must be proved with real-world facts in order to obtain a conviction. There is no need to worry about stale evidence or unavailable witnesses. Nor is there any need to worry about inaccuracies in years-old or decades-old documents coming back to haunt the defendant.\nSecond , \u00a7 924(c) likewise raises no Sixth Amendment concerns. A jury will find the facts or, if the case ends in a guilty plea, the defendant will accept the facts in the plea agreement. For the \u00a7 924(c) charge, as relevant here, a jury must find that the defendant's conduct \"by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.\" The defendant has the opportunity to contest the relevant facts either at the trial or in plea negotiations. No Sixth Amendment issue arises in a \u00a7 924(c) prosecution.\nNo practical or Sixth Amendment problems exist with \u00a7 924(c)(3)(B). Indeed, the Court itself acknowledges that \"a case-specific approach wouldn't yield the same practical and Sixth Amendment complications\" that arose in Johnson and Dimaya . Ante , at 2327.\nWe should recognize that Johnson and Dimaya dealt with an entirely different context: prior convictions. There is no need to follow Johnson and Dimaya off the cliff here. We should read \u00a7 924(c)(3)(B) like the dozens of other substantial-risk statutes in federal and state criminal law: to focus on the actual defendant's actual conduct during the actual underlying crime, not on a hypothetical defendant's imagined conduct during an ordinary case of that crime.\nB\nNow to the statutory text of \u00a7 924(c)(3)(B). Even though the context here is current-offense conduct, not past convictions, the Court says that the statutory language nonetheless compels a focus on a hypothetical defendant's imagined conduct, not on the actual defendant's actual conduct. I disagree. Criminal defendants are usually punished based on what they actually did, not based on what a hypothetical defendant might have done.\nTo begin with, the text of \u00a7 924(c)(3)(B) must be interpreted against the backdrop of traditional criminal-law practice. As described above, substantial-risk statutes are commonplace in federal and state criminal law. Those statutes ordinarily call for examination of the actual defendant's actual conduct during the actual crime. The Court does not identify a single self-contained federal or state law that defines the actus reus of the crime based on the imagination of the judge about a hypothetical defendant, rather than on the evidence before the jury about the actual defendant.\nThis Court applied an exception in Johnson and Dimaya for substantial-risk statutes that impose sentencing and other penalties based on past convictions. But that is an exception for past convictions, not a rule for current-offense conduct. Section 924(c)(3)(B) must be read in line with the traditional, common practice of focusing on the actual defendant's actual conduct during the underlying crime.\nWith that background, I turn to the precise text of \u00a7 924(c)(3). To repeat, the text of \u00a7 924(c)(3) provides: A defendant may not use or carry a firearm during and in relation to, or possess a firearm in furtherance of, \"an offense that is a felony and\" that either (A) \"has as an element the use, attempted use, or threatened use of physical force against the person or property of another,\" or (B) \"by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.\"\nI will focus on four particular aspects of the statutory text of \u00a7 924(c)(3)(B).\nFirst , start with the term \"offense.\" Section 924(c)(3) has two prongs under which a defendant might qualify for a \u00a7 924(c) conviction: first, if the underlying crime automatically qualifies as a crime of violence based on its elements; and, second, if the defendant's conduct during the underlying crime created a substantial risk that physical force may be used, even if the underlying crime by its elements does not constitute a crime of violence.\nThe term \"offense\" applies to both prongs. In the elements prong, the term refers to the elements of the underlying crime. In the substantial-risk prong, the term refers to the defendant's conduct during the underlying crime. That is entirely commonplace and sensible.\nReading \"offense\" in that commonsense way follows from the Court's precedents interpreting the term \"offense.\" As the Court has explained many times, the term \"offense\" may \"sometimes refer to a generic crime\" and may \"sometimes refer to the specific acts in which an offender engaged on a specific occasion.\" Nijhawan v. Holder , 557 U.S. 29, 33-34, 129 S.Ct. 2294, 174 L.Ed.2d 22 (2009). Indeed, the single term \"offense\" can refer to both in the same statutory scheme. See, e.g. , id. , at 40, 129 S.Ct. 2294 ; id. , at 38, 129 S.Ct. 2294 (listing other examples); United States v. Hayes , 555 U.S. 415, 421-422, 129 S.Ct. 1079, 172 L.Ed.2d 816 (2009).\nIn United States v. Hayes , for example, the Court interpreted the term \"misdemeanor crime of domestic violence.\" That term was defined as \"an offense\" that (1) \"has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon,\" and (2) was \"committed by\" a person who has a particular relationship with the victim. \u00a7 921(a)(33)(A). The Court interpreted the \"offense that ... has, as an element\" language in that provision to focus on the legal prohibition, and interpreted the \"offense ... committed by\" language to focus on the defendant's conduct. See Hayes , 555 U.S. at 421-422, 129 S.Ct. 1079. In other words, the term \"offense\" was used once but had two different meanings as applied to the two different parts of the statutory provision.\nAnother example is the Immigration and Nationality Act. That statute defines \"aggravated felony\" in part as \"an offense\" (1) that \"involves fraud or deceit\" and (2) \"in which the loss to the victim or victims exceeds $ 10,000.\" 8 U.S.C. \u00a7 1101(a)(43)(M)(i). The Court interpreted the \"offense that ... involves fraud or deceit\" language to focus on the legal prohibition. See Kawashima v. Holder , 565 U.S. 478, 483, 132 S.Ct. 1166, 182 L.Ed.2d 1 (2012). And the Court interpreted the \"offense ... in which the loss\" language to focus on the individual's conduct. See Nijhawan , 557 U.S. at 40, 129 S.Ct. 2294. Again, the term \"offense\" was used once, but had two different meanings as applied to the two different parts of the statutory provision.\nSection 924(c)(3) is the same kind of statutory provision. It likewise encompasses both the legal prohibition (in subpart (A)) and the defendant's actual conduct (in subpart (B)). The term \"offense\" was read in Hayes , Kawashima , and Nijhawan to encompass both the legal prohibition and the defendant's conduct. The term should be read that same way here.\nMoreover, if the substantial-risk prong of \u00a7 924(c)(3) requires assessing a hypothetical defendant's conduct rather than the actual defendant's conduct, then there would be little daylight between the elements prong and the substantial-risk prong. After all, a crime is defined by its elements. The elements tell you what happens in an ordinary case of a crime. To imagine how a hypothetical defendant would have committed an ordinary case of the crime, you would presumably look back to the elements of the crime. But doing that under the substantial-risk prong-as the Court would do-would just duplicate the inquiry that already occurs under the elements prong. That would defeat Congress' purpose in adding the substantial-risk prong to \u00a7 924(c)(3) -namely, covering defendants who committed crimes that are not violent by definition but that are committed by particular defendants in ways that create a risk of violence. There is no reason to think that Congress meant to duplicate the elements prong in the substantial-risk prong.\nThe Court usually tries to avoid an interpretation of a statutory provision that would make the provision redundant and accomplish virtually nothing. See, e.g. , Republic of Sudan v. Harrison , 587 U.S. ----, ----, 139 S.Ct. 1048, 1061, 203 L.Ed.2d 433 (2019) ; Dastar Corp. v. Twentieth Century Fox Film Corp. , 539 U.S. 23, 35, 123 S.Ct. 2041, 156 L.Ed.2d 18 (2003) ; Mackey v. Lanier Collection Agency & Service, Inc. , 486 U.S. 825, 837, 108 S.Ct. 2182, 100 L.Ed.2d 836 (1988) ; A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts 174-179 (2012); W. Eskridge, Interpreting Law: A Primer on How to Read Statutes and the Constitution 112-114 (2016). We should heed that principle here, and recognize that the term \"offense\" in the substantial-risk prong refers to the actual defendant's conduct during the underlying crime.\nIn short, the term \"offense\" in \u00a7 924(c)(3), as applied to the substantial-risk prong, focuses on the actual defendant's actual conduct, not on a hypothetical defendant's imagined conduct.\nSecond , \u00a7 924(c)(3)(B) asks whether the defendant's offense \"by its nature\" involves a risk that physical force may be used. In a vacuum, the \"nature\" of an offense could be either \"the metaphysical 'nature' of the offense\" or \"the underlying facts of the offense.\" Dimaya , 584 U.S., at ----, 138 S.Ct., at 1254 (THOMAS, J., dissenting). But that is because the term \"offense\" could refer to a legal prohibition or to the defendant's actual conduct. As explained above, however, the term \"offense\" as applied to the substantial-risk prong refers to the actual defendant's conduct during the underlying crime. It follows that \"by its nature\" focuses on the nature of the actual defendant's conduct during the crime. The phrase \"by its nature\" is linked to the term \"offense.\" If the term \"offense\" refers to the defendant's actual conduct, then \"by its nature\" also focuses on the defendant's actual conduct.\nUnder the conduct-specific approach to the substantial-risk prong, the \"by its nature\" language simply means that the Government has to show more than a defendant's proclivity for crime and more than the mere fact that the defendant was carrying a gun. The Government has to show that the defendant's conduct by its nature during the crime created a substantial risk that physical force may be used.\nIn short, as Justice THOMAS has pointed out, it \"is entirely natural to use words like 'nature' and 'offense' to refer to an offender's actual underlying conduct.\" Ibid. So it is here.\nThird , \u00a7 924(c)(3)(B) asks whether the defendant's conduct \"involves\" a substantial risk that physical force may be used. In Taylor v. United States , a case involving a prior-conviction statutory provision, the Court pointed to the absence of the word \"involved\" in adopting a categorical approach. 495 U.S. at 600, 110 S.Ct. 2143. And in Nijhawan v. Holder , another case involving a prior-conviction statutory provision, the Court explained that the word \"involves\" did not support a categorical approach. 557 U.S. at 36, 129 S.Ct. 2294. Here, unlike in Taylor , the statute does use the word \"involves.\" Under Taylor 's reasoning, the inclusion of the word \"involves\" in \u00a7 924(c)(3)(B) supports the conclusion that \u00a7 924(c)(3)(B) employs a conduct-specific approach rather than a categorical approach.\nFourth , \u00a7 924(c)(3)(B)'s use of the phrase \"in the course of committing the offense\" indicates that the proper focus is on the actual defendant's actual conduct, not on a hypothetical defendant's imagined conduct. After all, the underlying offense was committed by the actual defendant, not by a hypothetical defendant. It strains common sense to think that the \"in the course of committing the offense\" language in \u00a7 924(c)(3)(B) contemplates an inquiry into a hypothetical defendant's conduct during an ordinary case of the crime.\nImportantly, the law at issue in Johnson did not have the \"in the course of committing the offense\" language. \u00a7 924(e)(2)(B)(ii). That is a major textual difference between the law in Johnson on the one hand and \u00a7 924(c)(3)(B) on the other hand. And that textual distinction further shows that \u00a7 924(c)(3)(B) focuses on the actual defendant's actual conduct.\nIn short, those four textual indicators, while not all entirely one-sided, together strongly suggest that \u00a7 924(c)(3)(B) focuses on the actual defendant's actual conduct during the actual crime, not on a hypothetical defendant's imagined conduct during an ordinary case of the crime.\nOn top of all the language in the statute, \u00a7 924(c)(3)(B) does not contain the critical term that ordinarily marks a categorical approach.\nSection 924(c)(3)(B) does not use the term \"conviction.\" This Court has historically recognized the term \"conviction\" as a key textual driver of the categorical approach. In cases such as Taylor and Johnson , the Court zeroed in on the word \"convictions.\" See Johnson , 576 U.S., at ----, 135 S.Ct., at 2561 ; Taylor , 495 U.S. at 600, 110 S.Ct. 2143 ; see also Mathis , 579 U.S., at ----, 136 S.Ct., at 2252 ; Moncrieffe , 569 U.S. at 191, 133 S.Ct. 1678 ; Ovalles , 905 F.3d at 1245. So too, the Court in Leocal v. Ashcroft emphasized that the text of the INA that incorporated \u00a7 16(b) used the term \"convicted.\" 543 U.S. 1, 4, 7, 125 S.Ct. 377, 160 L.Ed.2d 271 (2004).\nThe term \"conviction\" is nowhere to be found in the text of \u00a7 924(c)(3)(B). That should not come as a surprise, given that \u00a7 924(c)(3)(B) is a substantive criminal offense concerned with the defendant's current-offense conduct. The absence of the term \"conviction\" in \u00a7 924(c)(3)(B) strongly supports a conduct-specific approach.\nPut simply, the textual clues-both the words that are used and the words that are not used-point strongly to the conclusion that \u00a7 924(c)(3)(B) requires a jury to assess the actual defendant's actual conduct during the underlying crime. The conclusion becomes overwhelming when considered against the general background of substantial-risk statutes. To be sure, a statute can always be written more clearly. But here, the textual toolkit leads decisively to that conclusion.\nC\nBut after all of that, suppose that you are not convinced. Suppose that you think that this case is still a close call on the text, even with the background of substantial-risk statutes and the Court's precedents. Indeed, suppose you ultimately disagree with the above analysis of the text. Even so, the Government still wins-unless it can be said that \u00a7 924(c)(3)(B) unambiguously requires a categorical approach. Under the constitutional avoidance canon, the precise question before us is not whether \u00a7 924(c)(3)(B) is best read to require a conduct-specific approach, but rather (as the Court's cases say) whether \u00a7 924(c)(3)(B) can reasonably, plausibly, or fairly possibly be interpreted to require a conduct-specific approach. The answer to that question is easy. Yes. See Hooper v. California , 155 U.S. 648, 657, 15 S.Ct. 207, 39 L.Ed. 297 (1895) (\"reasonable\"); Clark v. Martinez , 543 U.S. 371, 380, 125 S.Ct. 716, 160 L.Ed.2d 734 (2005) (\"plausible\"); Skilling v. United States , 561 U.S. 358, 406, 130 S.Ct. 2896, 177 L.Ed.2d 619 (2010) (\"fairly possible\" (internal quotation marks omitted)).\nThe Court says that if \u00a7 924(c)(3)(B) requires the categorical approach, then it is unconstitutionally vague. But the Court also says that if \u00a7 924(c)(3)(B) focuses on the defendant's actual conduct, then it is constitutionally permissible. As the Court puts it, \"a case-specific approach would avoid the vagueness problems that doomed the statutes in Johnson and Dimaya .\" Ante , at ----. So the entire ball game is whether it is fairly possible to interpret \u00a7 924(c)(3)(B) to require a conduct-specific approach. It surely is at least fairly possible.\nIt is an elementary principle of statutory interpretation that an ambiguous statute must be interpreted, whenever possible, to avoid unconstitutionality. See generally Scalia, Reading Law: The Interpretation of Legal Texts, at 247-251; Eskridge, Interpreting Law: A Primer on How to Read Statutes and the Constitution, at 317-322. That uncontroversial principle of statutory interpretation dates back to the Founding era. See Mossman v. Higginson , 4 U.S. (4 Dall.) 12, 14, 1 L.Ed. 720 (1800). As Justice THOMAS has explained, the traditional doctrine of constitutional avoidance commands \"courts, when faced with two plausible constructions of a statute-one constitutional and the other unconstitutional-to choose the constitutional reading.\" Clark , 543 U.S. at 395, 125 S.Ct. 716 (dissenting opinion). This Court's duty is \"not to destroy the Act if we can, but to construe it, if consistent with the will of Congress, so as to comport with constitutional limitations.\" Civil Service Comm'n v. Letter Carriers , 413 U.S. 548, 571, 93 S.Ct. 2880, 37 L.Ed.2d 796 (1973). In discharging that duty, \"every reasonable construction must be resorted to, in order to save a statute from unconstitutionality.\" Hooper , 155 U.S. at 657, 15 S.Ct. 207.\nThis Court's longstanding practice of saving ambiguous statutes from unconstitutionality where fairly possible affords proper respect for the representative branches of our Government. The Court has explained that \"a presumption never ought to be indulged, that congress meant to exercise or usurp any unconstitutional authority, unless that conclusion is forced upon the Court by language altogether unambiguous.\" United States v. Coombs , 12 Pet. 72, 76, 37 U.S. 72, 9 L.Ed. 1004 (1838).\nIn countless cases for more than 200 years, this Court has recognized the principle that courts should construe ambiguous laws to be consistent with the Constitution. See, e.g. , McDonnell v. United States , 579 U.S. ----, ---- - ----, 136 S.Ct. 2355, 2372-2373, 195 L.Ed.2d 639 (2016) ; Skilling , 561 U.S. at 405-409, 130 S.Ct. 2896 ; Clark , 543 U.S. at 380-382, 125 S.Ct. 716 ; Edmond v. United States , 520 U.S. 651, 658, 117 S.Ct. 1573, 137 L.Ed.2d 917 (1997) ; Concrete Pipe & Products of Cal., Inc. v. Construction Laborers Pension Trust for Southern Cal. , 508 U.S. 602, 628-630, 113 S.Ct. 2264, 124 L.Ed.2d 539 (1993) ; New York v. United States , 505 U.S. 144, 170, 112 S.Ct. 2408, 120 L.Ed.2d 120 (1992) ; Rust v. Sullivan , 500 U.S. 173, 190-191, 111 S.Ct. 1759, 114 L.Ed.2d 233 (1991) ; Public Citizen v. Department of Justice , 491 U.S. 440, 465-467, 109 S.Ct. 2558, 105 L.Ed.2d 377 (1989) ; Communications Workers v. Beck , 487 U.S. 735, 762, 108 S.Ct. 2641, 101 L.Ed.2d 634 (1988) ; Edward J. DeBartolo Corp. v. Florida Gulf Coast Building & Constr. Trades Council , 485 U.S. 568, 575-578, 108 S.Ct. 1392, 99 L.Ed.2d 645 (1988) ; St. Martin Evangelical Lutheran Church v. South Dakota , 451 U.S. 772, 780-781, 101 S.Ct. 2142, 68 L.Ed.2d 612 (1981) ; Letter Carriers , 413 U.S. at 571, 93 S.Ct. 2880 ; Machinists v. Street , 367 U.S. 740, 749-750, 81 S.Ct. 1784, 6 L.Ed.2d 1141 (1961) ; Ashwander v. TVA , 297 U.S. 288, 348, 56 S.Ct. 466, 80 L.Ed. 688 (1936) (Brandeis, J., concurring); ICC v. Oregon-Washington R. & Nav. Co. , 288 U.S. 14, 40-42, 53 S.Ct. 266, 77 L.Ed. 588 (1933) ; Crowell v. Benson , 285 U.S. 22, 62-63, 52 S.Ct. 285, 76 L.Ed. 598 (1932) ; Lucas v. Alexander , 279 U.S. 573, 577-578, 49 S.Ct. 426, 73 L.Ed. 851 (1929) ; Richmond Screw Anchor Co. v. United States , 275 U.S. 331, 345-346, 48 S.Ct. 194, 72 L.Ed. 303 (1928) ;\nBlodgett v. Holden , 275 U.S. 142, 148-149, 48 S.Ct. 105, 72 L.Ed. 206 (1927) (opinion of Holmes, J.); Missouri Pacific R. Co. v. Boone , 270 U.S. 466, 471-472, 46 S.Ct. 341, 70 L.Ed. 688 (1926) ; Linder v. United States , 268 U.S. 5, 17-18, 45 S.Ct. 446, 69 L.Ed. 819 (1925) ; Panama R. Co. v. Johnson , 264 U.S. 375, 390, 44 S.Ct. 391, 68 L.Ed. 748 (1924) ; Texas v. Eastern Texas R. Co. , 258 U.S. 204, 217, 42 S.Ct. 281, 66 L.Ed. 566 (1922) ; Baender v. Barnett , 255 U.S. 224, 225-226, 41 S.Ct. 271, 65 L.Ed. 597 (1921) ; United States v. Jin Fuey Moy , 241 U.S. 394, 401, 36 S.Ct. 658, 60 L.Ed. 1061 (1916) ; United States ex rel. Attorney General v. Delaware & Hudson Co. , 213 U.S. 366, 407-408, 29 S.Ct. 527, 53 L.Ed. 836 (1909) ; Hooper , 155 U.S. at 657, 15 S.Ct. 207 ; Grenada County Supervisors v. Brogden , 112 U.S. 261, 268-269, 5 S.Ct. 125, 28 L.Ed. 704 (1884) ; Coombs , 12 Pet. at 76 ; Parsons v. Bedford , 3 Pet. 433, 448-449, 28 U.S. 433, 7 L.Ed. 732 (1830) ; Mossman , 4 Dall. at 14.\nTo be clear, the case before us is not a case of avoiding possible unconstitutionality. This is a case of avoiding actual unconstitutionality. There is a debate about the former practice. There is no real debate about the latter rule. And it is the latter rule of statutory interpretation at issue here.\nSection 924(c)(3)(B) is best read to focus on the defendant's actual conduct. But at a minimum-given the text, the background of substantial-risk laws, and the relevant precedents-it is fairly possible to interpret \u00a7 924(c)(3)(B) to focus on the defendant's actual conduct. Because that reasonable interpretation would save \u00a7 924(c)(3)(B) from unconstitutionality, this case should be very straightforward, as Judge Newsom explained in his thorough majority opinion in the Eleventh Circuit and as Judge Niemeyer and Judge Richardson explained in their persuasive separate opinions in the Fourth Circuit. Ovalles , 905 F.3d at 1251 ; Simms , 914 F.3d at 272 (opinion of Niemeyer, J.); id. , at 272-277 (opinion of Richardson, J.). We should prefer the constitutional reading over the unconstitutional reading.\nThe Court did not apply constitutional avoidance in Johnson and Dimaya . Why not? In those two cases, the Court explained, the canon of constitutional avoidance was essentially rendered a nullity. That is because, as the Court described the situation, the Court was between a rock and a hard place. The categorical approach would have led to Fifth Amendment vagueness concerns, whereas applying the conduct-specific approach would have led to Sixth Amendment jury-trial concerns. See Dimaya , 584 U.S., at ---- - ----, 138 S.Ct. 1204, 1217-1218 (plurality opinion).\nHere, by contrast, the Court is not between a rock and a hard place. Applying the categorical approach to \u00a7 924(c)(3)(B) would lead to vagueness concerns, whereas applying the conduct-specific approach would lead to no constitutional concerns.\nFaced with a choice between a rock and constitutionality, the Court chooses the rock. I do not understand that choice.\nThe Court offers two related reasons for its choice to run the statute into a rock. Neither reason holds up.\nFirst , the Court concludes that the constitutional avoidance canon must yield to the rule of lenity. That argument disregards the Court's oft-repeated statements that the rule of lenity is a tool of last resort that applies \"only when, after consulting traditional canons of statutory construction,\" grievous ambiguity remains. Hayes , 555 U.S. at 429, 129 S.Ct. 1079 (internal quotation marks omitted); see also, e.g. , Ocasio v. United States , 578 U.S. ----, ----, n. 8, 136 S.Ct. 1423, 1434 n. 8, 194 L.Ed.2d 520 (2016) (\"after seizing everything from which aid can be derived\" (internal quotation marks omitted)); Muscarello v. United States , 524 U.S. 125, 138, 118 S.Ct. 1911, 141 L.Ed.2d 111 (1998) (same); United States v. Wells , 519 U.S. 482, 499, 117 S.Ct. 921, 137 L.Ed.2d 107 (1997) (same); Reno v. Koray , 515 U.S. 50, 65, 115 S.Ct. 2021, 132 L.Ed.2d 46 (1995) (same); United States v. Shabani , 513 U.S. 10, 17, 115 S.Ct. 382, 130 L.Ed.2d 225 (1994) (\"after consulting traditional canons of statutory construction\"); Smith v. United States , 508 U.S. 223, 239, 113 S.Ct. 2050, 124 L.Ed.2d 138 (1993) (\"after seizing every thing from which aid can be derived\" (internal quotation marks and alterations omitted)); Moskal v. United States , 498 U.S. 103, 108, 111 S.Ct. 461, 112 L.Ed.2d 449 (1990) (\"after resort to the language and structure, legislative history, and motivating policies of the statute\" (internal quotation marks omitted)); Callanan v. United States , 364 U.S. 587, 596, 81 S.Ct. 321, 5 L.Ed.2d 312 (1961) (\"at the end of the process of construing what Congress has expressed\").\nThe constitutional avoidance canon is a traditional canon of statutory interpretation. The constitutional avoidance canon is employed to reach a reasonable interpretation of an ambiguous statute. Where, as here, that canon applies and yields such a reasonable interpretation, no grievous ambiguity remains. The rule of lenity has no role to play. Contrary to the Court's assertion, the canon of constitutional avoidance is not \"at war\" with the rule of lenity. Ante , at 2333. The canon of constitutional avoidance precedes the rule of lenity because the rule of lenity comes into play (this Court has said countless times) only \"after consulting traditional canons of statutory construction.\" Hayes , 555 U.S. at 429, 129 S.Ct. 1079 (emphasis added; internal quotation marks omitted). The rule of lenity \"comes into operation at the end of the process of construing what Congress has expressed, not at the beginning as an overriding consideration of being lenient to wrongdoers.\" Callanan , 364 U.S. at 596, 81 S.Ct. 321.\nIn addition, the rule of lenity is triggered only in the face of \"grievous ambiguity.\" Muscarello , 524 U.S. at 139, 118 S.Ct. 1911 (internal quotation marks omitted). To reiterate, \u00a7 924(c)(3)(B) is best read to focus on the actual defendant's actual conduct. But to the extent that there is any ambiguity in \u00a7 924(c)(3)(B), that ambiguity is far from grievous.\nSecond , and relatedly, the Court claims that the canon of constitutional avoidance, as a general matter, cannot be relied upon to broaden the scope of a criminal statute, as opposed to narrowing the scope of a criminal statute. And the Court says that the canon cannot be used here because, in the Court's view, relying on the constitutional avoidance canon in this case would expand the scope of \u00a7 924(c)(3)(B). I disagree for two independent reasons.\nTo begin with, that theory seems to come out of nowhere. The Court's novel cabining of the constitutional avoidance canon is not reflected in this Court's precedents. On the contrary, it contradicts several precedents. This Court has applied the constitutional avoidance canon even when avoiding the constitutional problems would have broadened the statute's scope. For example, in United States v. Culbert , this Court rejected a narrowing construction of the Hobbs Act because that construction would have raised vagueness concerns. 435 U.S. 371, 374, 98 S.Ct. 1112, 55 L.Ed.2d 349 (1978) ; see also United States v. Shreveport Grain & Elevator Co. , 287 U.S. 77, 82, 53 S.Ct. 42, 77 L.Ed. 175 (1932) ; cf. United States v. Grace , 461 U.S. 171, 176, 103 S.Ct. 1702, 75 L.Ed.2d 736 (1983).\nMoreover, the premise of this novel broadening/ narrowing theory is flawed. A categorical approach to \u00a7 924(c)(3)(B) would not be inherently narrower than a conduct-specific approach. Each approach would sweep in some crimes that the other would not. On the one hand, some crimes that might be deemed categorically violent sometimes may be committed in nonviolent ways. Those crimes would be covered by the categorical approach but not by a conduct-specific approach. On the other hand, some categorically nonviolent crimes are committed in violent ways. Those crimes would not be covered by the categorical approach but would be covered by a conduct-specific approach. See Johnson , 576 U.S., at ----, 135 S.Ct., at 2579 (ALITO, J., dissenting).\nIn sum, the constitutional avoidance canon makes this an especially straightforward case. It is at least fairly possible to read \u00a7 924(c)(3)(B) to focus on the actual defendant's actual conduct during the actual crime. End of case.\nIII\nThe consequences of the Court's decision today will be severe. By invalidating the substantial-risk prong of \u00a7 924(c)(3), the Court's decision will thwart Congress' law enforcement policies, destabilize the criminal justice system, and undermine safety in American communities. If the law required those results, we would have to swallow the consequences. But the law, in my respectful view, does no such thing.\nThe Court's decision means that people who in the future commit violent crimes with firearms may be able to escape conviction under \u00a7 924(c). In enacting \u00a7 924(c), Congress sought to keep firearms away from violent criminal situations. Today, the Court invalidates a critical provision designed to achieve that goal. To be sure, many violent crimes still might fall within \u00a7 924(c)(3)'s elements clause. But many others might not. When defendants use firearms during conspiracies to commit robbery, arsons, attempted carjackings, and kidnapings, to name just a few, they might no longer be subject to prosecution under \u00a7 924(c). See, e.g. , Simms , 914 F.3d at 233-234 (conspiracy to commit robbery); United States v. Salas , 889 F.3d 681, 683-684 (CA10 2018) (arson); United States v. Jenkins , 849 F.3d 390, 393 (CA7 2017) (kidnaping).\nTo get a flavor of the offenders who will now potentially avoid conviction under \u00a7 924(c), consider a sample of those offenders who have been convicted under \u00a7 924(c)(3)'s substantial-risk prong:\n\u2022 One defendant committed assault with intent to commit murder. The defendant shot his wife multiple times while the couple was camping in Buffalo River National Park. See United States v. Prickett , 839 F.3d 697, 698 (CA8 2016).\n\u2022 One defendant committed arson. The defendant used a molotov cocktail to firebomb the Irish Ink Tattoo Shop. See Salas , 889 F.3d at 683 ; United States v. Salazar , 2014 WL 12788997, *1 (D.N.M., Aug. 14, 2014).\n\u2022 One defendant and others kidnaped a man who they believed had stolen money and an Xbox from the defendant. They beat the man severely and threatened to kill him. See Pet. for Cert. in United States v. Jenkins , O. T. 2017, No. 1797, p. 2.\n\u2022 One defendant committed conspiracy to commit robbery. The defendant and his co-conspirators planned to steal Percocet and cash from a man they thought was a drug dealer. Armed with a pistol and a crowbar, they broke into the man's home by shattering a sliding glass door and found three men there. One of the defendant's co-conspirators attacked all three men with the crowbar, and the defendant threatened the men with a pistol multiple times. See United States v. Douglas , 907 F.3d 1, 4-5 (CA1 2018).\n\u2022 One defendant committed attempted carjacking. Armed with guns and baseball bats, the defendant and her co-conspirators robbed a grocery store and carjacked two vehicles, pistol whipping the owner of one of the vehicles in the process. They then attempted to carjack a third vehicle. They approached a family getting out of a minivan and demanded the keys. One of the defendant's co-conspirators hit a 13-year-old girl in the mouth with a baseball bat. Another shot an AK-47 at the girl's family. See Ovalles , 905 F.3d at 1235.\n\u2022 One defendant operated multiple houses of prostitution in Annapolis. The defendant threatened perceived competitors with violence. He also beat and threatened women, sometimes to compel them to engage in prostitution. See United States v. Fuertes , 805 F.3d 485, 490-492 (CA4 2015).\n\u2022 One defendant committed conspiracy to commit robbery. In the middle of the night, the defendant and a co-conspirator crawled into a McDonald's through the drive-through window. The defendant pointed a gun at the restaurant's manager and attempted to hit another employee. The defendant demanded money, and the manager complied. The defendant then removed the money from the cash drawer, pistol whipped the manager, threw the cash drawer at the other employee, and fled the scene along with his co-conspirators and $ 1,100. See Simms , 914 F.3d at 232.\n\u2022 One defendant committed conspiracy to commit robbery. The defendant and his co-conspirators committed a string of armed robberies of small businesses. During the robberies, they wore masks and gloves. They were armed with guns, knives, and baseball bats. They injured several people during the course of their robberies, breaking bones, drawing blood, and knocking people out. They also shot and killed one of their victims point blank. See Barrett , 903 F.3d at 170, 184.\nThose real-life stories highlight a second unfortunate consequence of the Court's decision. Many offenders who have already committed violent crimes with firearms-and who have already been convicted under \u00a7 924(c) -may be released early from prison. The Court's decision will apply to all defendants whose convictions are not yet final on direct review and who preserved the argument. With the benefit of this Court's decision, many dangerous offenders who received lengthy prison sentences as a result of their violent conduct might walk out of prison early. And who knows whether the ruling will be retroactive? Courts will be inundated with collateral-review petitions from some of the most dangerous federal offenders in America. As Judge Niemeyer wrote in his separate opinion in the Fourth Circuit, \"thousands of \u00a7 924(c)(1) convictions will unnecessarily be challenged as premised on what the majority today concludes is an unconstitutionally vague provision, even though the parties in those cases had little difficulty understanding, enforcing, or defending the \u00a7 924(c)(1) charges at issue.\" Simms , 914 F.3d at 264.\nMoreover, defendants who successfully challenge their \u00a7 924(c) convictions will not merely be resentenced. Rather, their \u00a7 924(c) convictions will be thrown out altogether.\nThat is because, to restate an obvious point, \u00a7 924(c) defines a substantive criminal offense. To be sure, the \u00a7 924(c) defendants may also be serving other sentences for other convictions (for instance, if they were convicted of and sentenced for the underlying crime of violence). But with the benefit of the Court's decision, they may be able to get their \u00a7 924(c) convictions tossed and lop off years-potentially decades-from their total prison time.\nAll because the Court thinks that \u00a7 924(c)(3)(B) unambiguously compels a focus on the imagined conduct of a hypothetical defendant rather than on the actual conduct of the actual defendant. That analysis is not persuasive, especially in light of the constitutional avoidance doctrine. It is true that the Government once advocated for a categorical approach. But in the early years after Congress added a \"crime of violence\" definition to \u00a7 924(c), before courts settled on a categorical approach, the Government correctly argued for a conduct-specific approach to the substantial-risk prong. See, e.g. , United States v. Cruz , 805 F.2d 1464, 1469 (CA11 1986). The Government later changed its tune only after the courts settled on a categorical approach-at a time when it did not matter for constitutional vagueness purposes, before Johnson and Dimaya . In any event, the question is what to do now after Johnson and Dimaya . The answer should not be hard. To quote Judge William Pryor, writing for five judges in the Eleventh Circuit, how \"did we ever reach the point where\" we \"must debate whether a carjacking in which an assailant struck a 13-year-old girl in the mouth with a baseball bat and a cohort fired an AK-47 at her family is a crime of violence? It's nuts.\" Ovalles , 905 F.3d at 1253 (concurring opinion).\nTo be sure, the consequences cannot change our understanding of the law. But when the consequences are this bad, it is useful to double-check the work. And double-checking here, in my view, reveals several problems: relying on cases from the prior-conviction context whose rationales do not apply in this current-offense context; not fully accounting for the long tradition of substantial-risk criminal statutes; not reading the words of the statute in context and consistent with precedents such as Hayes ; and then, perhaps most problematically, misapplying the longstanding constitutional avoidance canon. After double-checking, it should be evident that the law does not compel those serious consequences. I am not persuaded that the Court can blame this decision on Congress. The Court has a way out, if it wants a way out.\n* * *\nThe Court usually reads statutes with a presumption of rationality and a presumption of constitutionality. Instead of reading \u00a7 924(c)(3)(B) to ensure that it is constitutional, the Court reads \u00a7 924(c)(3)(B) in a way that makes it unconstitutional. The bedrock principle that the Court interprets ambiguous statutes to avoid unconstitutionality is seemingly transformed into a principle of interpreting ambiguous statutes to lead to unconstitutionality.\nI respect and entirely understand how the Court got here. Johnson and Dimaya were earth-rattling decisions. But we should not follow Johnson and Dimaya off the constitutional cliff in this different \u00a7 924(c) context. Unlike the statutes at issue in Johnson and Dimaya , this statute is not a prior-conviction statute. This statute operates entirely in the present and is not remotely vague. I respectfully dissent.\nWhen this case was tried, a defendant convicted of two \u00a7 924(c) violations in a single prosecution faced a 25-year minimum for the second violation. See Deal v. United States , 508 U.S. 129, 132, 113 S.Ct. 1993, 124 L.Ed.2d 44 (1993) ; \u00a7 1(a)(1), 112 Stat. 3469. In 2018, Congress changed the law so that, going forward, only a second \u00a7 924(c) violation committed \"after a prior [\u00a7 924(c) ] conviction ... has become final\" will trigger the 25-year minimum. Pub. L. 115-391, \u00a7 403(a), 132 Stat. 5221.\nCompare United States v. Simms , 914 F.3d 229, 236-246 (CA4 2019) (en banc), United States v. Salas , 889 F.3d 681, 685-686 (CA10 2018), and United States v. Eshetu , 898 F.3d 36, 37-38 (CADC 2018) (holding that \u00a7 924(c)(3)(B) is vague), with United States v. Douglas , 907 F.3d 1, 11-16 (CA1 2018), Ovalles v. United States , 905 F.3d 1231, 1240-1252 (CA11 2018) (en banc), and United States v. Barrett , 903 F.3d 166, 178-184 (CA2 2018) (taking the opposite view).\nSection 16 provides that the term \"crime of violence\" means \"(a) an offense that has as an element the use, attempted use, or threatened use of physical force against the person or property of another, or (b) any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.\"\nSee, e.g. , United States v. Acosta , 470 F.3d 132, 134-135 (CA2 2006) ; United States v. Butler , 496 Fed.Appx. 158, 161 (CA3 2012) ; United States v. Fuertes , 805 F.3d 485, 498 (CA4 2015) ; United States v. Williams , 343 F.3d 423, 431 (CA5 2003) ; Evans v. Zych , 644 F.3d 447, 453 (CA6 2011) ; United States v. Jackson , 865 F.3d 946, 952 (CA7 2017), vacated and remanded, 584 U.S. ----, 138 S.Ct. 1983, 201 L.Ed.2d 240 (2018) ; United States v. Moore , 38 F.3d 977, 979-980 (CA8 1994) ; United States v. Amparo , 68 F.3d 1222, 1225-1226 (CA9 1995) ; United States v. Munro , 394 F.3d 865, 870 (CA10 2005) ; United States v. McGuire , 706 F.3d 1333, 1336-1337 (CA11 2013) ; United States v. Kennedy , 133 F.3d 53, 56 (CADC 1998) ; see also Ovalles v. United States , 905 F.3d 1231, 1295 (CA11 2018) (en banc) (J. Pryor, J., dissenting) (\"For years, and even after Johnson , the government consistently has urged that we apply a categorical approach to \u00a7 924(c)\").\nThe government's own regulations reflect this understanding of the ordinary meaning of \"by its nature.\" A Department of Justice regulation provides that an inmate is not eligible for early release if he was convicted of an offense \"that, by its nature or conduct , presents a serious potential risk of physical force.\" 28 CFR \u00a7 550.55(b)(5)(iii) (2017) (emphasis added); see Bush v. Pitzer , 133 F.3d 455, 458 (CA7 1997) (denying early release because \"[c]onspiracy does not by its 'nature' present a serious risk; but Bush's 'conduct' did so\").\nThere are at least two different canons of construction that sometimes go by the name \"constitutional avoidance.\" The one the government invokes here is perhaps better termed the presumption of constitutionality. Of long lineage, it holds that courts should, if possible, interpret ambiguous statutes to avoid rendering them unconstitutional, see, e.g. , Parsons v. Bedford , 28 U.S. (3 Pet.) 433, 448-449, 7 L.Ed. 732 (1830) (Story, J.), and it is distinct from the more modern (and more debated) constitutional doubt canon, which suggests courts should construe ambiguous statutes to avoid the need even to address serious questions about their constitutionality, see Rust v. Sullivan , 500 U.S. 173, 190-191, 111 S.Ct. 1759, 114 L.Ed.2d 233 (1991).\nThe government claims to have found cases invoking the canon to expand a statute's reach, but none actually stands for that proposition. Each simply remarks in passing that a construction the Court arrived at for other reasons had the additional benefit of avoiding vagueness concerns; none suggests that a narrower construction was available. See United States v. Grace , 461 U.S. 171, 176, 103 S.Ct. 1702, 75 L.Ed.2d 736 (1983) (accepting government's construction, which was \"not contested by appellees\"); United States v. Culbert , 435 U.S. 371, 379, 98 S.Ct. 1112, 55 L.Ed.2d 349 (1978) (finding statute clear and refusing to \"manufacture ambiguity where none exists\"); United States v. Shreveport Grain & Elevator Co. , 287 U.S. 77, 82-83, 53 S.Ct. 42, 77 L.Ed. 175 (1932) (finding statute unambiguous and construing it according to \"the natural import of its terms\"). And the dissent, despite compiling a page-long list of constitutional avoidance cases spanning \"more than 200 years,\" post , at 2349 - 2351, has been unable to find any better examples. See post , at 2352 - 2353 (opinion of KAVANAUGH, J.).\nAdmittedly, abandoning the categorical approach in favor of the case-specific approach would also have the effect of excluding from the statute's coverage defendants who commit categorically violent felonies in nonviolent ways, and in that respect would be more \"lenient\" for some defendants. Regardless, the constitutional principles underlying the rule of lenity counsel caution before invoking constitutional avoidance to construe the statute to punish conduct that it does not unambiguously proscribe.\nTo be sure, the dissent suggests that Leocal and Dimaya adopted a categorical reading simply to avoid practical and constitutional problems. Post , at 2344 - 2345, 2348, and n. 23. But, as we have seen, this too is mistaken. Leocal did not even mention those problems, and Dimaya held that the text demanded a categorical approach. See supra , at 2348.\nThe dissent claims that Taylor v. United States , 495 U.S. 575, 110 S.Ct. 2143, 109 L.Ed.2d 607 (1990), and Nijhawan v. Holder , 557 U.S. 29, 129 S.Ct. 2294, 174 L.Ed.2d 22 (2009), pointed to \"the absence of the word 'involved' \" as one reason to adopt a categorical approach. Post , at 2348. Not true. Taylor explained that the ACCA's elements clause requires a categorical approach in part because it refers to a crime \"that 'has as an element'-not any crime that, in a particular case, involves-the use or threat of force.\" 495 U.S. at 600, 110 S.Ct. 2143. All the work in that sentence was being done by the phrase \"in a particular case,\" not by the word \"involves.\" And Nijhawan noted that the Court had construed the ACCA's residual clause, which refers to crimes \"that 'involv[e] conduct that presents a serious potential risk of physical injury,' \" to require the categorical approach. 557 U.S. at 36, 129 S.Ct. 2294.\nThe statistics contained in the introduction are drawn from: Dept. of Justice, Federal Bureau of Investigation, Uniform Crime Reports 6-7, 8-9 (1963) (rise in violent crime with firearms in the 1960s); id. , at 1, 6-7, 9 (1968) (same); Pew Research Center, Gun Homicide Rate Down 49% Since 1993 Peak; Public Unaware 6, n. 5, and 36, 50 (2013) (decrease in violent crime with firearms over about the past 25 years); N. James, Congressional Research Service, Recent Violent Crime Trends in the United States 25-26 (Rep. No. R45236) (June 20, 2018) (decrease in violent crime over about the past 25 years).\nSection 924(c)(1)(A) provides: \"Except to the extent that a greater minimum sentence is otherwise provided by this subsection or by any other provision of law, any person who, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which the person may be prosecuted in a court of the United States, uses or carries a firearm, or who, in furtherance of any such crime, possesses a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime-(i) be sentenced to a term of imprisonment of not less than 5 years; (ii) if the firearm is brandished, be sentenced to a term of imprisonment of not less than 7 years; and (iii) if the firearm is discharged, be sentenced to a term of imprisonment of not less than 10 years.\" Section 924(c)(1)(B) imposes heightened penalties for certain types of firearms and firearm devices, and \u00a7 924(c)(1)(C) imposes heightened penalties for subsequent \u00a7 924(c) convictions.\nSection 924(c)(3) provides: \"For purposes of this subsection the term 'crime of violence' means an offense that is a felony and-(A) has as an element the use, attempted use, or threatened use of physical force against the person or property of another, or (B) that by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.\"\nSee, e.g. , Colo. Rev. Stat. \u00a7 18-8-103(1)(b) (2018) (\"substantial risk of causing bodily injury\"); Ind. Code \u00a7 35-44.1-3-1(b)(1)(B) (2019) (\"substantial risk of bodily injury\"); Mo. Rev. Stat. \u00a7 575.150 (2016) (\"substantial risk of serious physical injury or death\"); Neb. Rev. Stat. \u00a7 28-904(1)(b) (2016) (\"substantial risk of causing physical injury\"); Ore. Rev. Stat. \u00a7 162.315(2)(c) (2017) (\"substantial risk of physical injury\").\nSee, e.g. , Alaska Stat. \u00a7 11.41.300(a)(2)(B) (2018) (\"substantial risk of serious physical injury\"); Ohio Rev. Code Ann. \u00a7 2905.01(B) (Lexis Supp. 2019) (\"substantial risk of serious physical harm\").\nSee, e.g. , Ala. Code \u00a7 13A-6-20(a)(3) (2015) (\"grave risk of death\"); Del. Code Ann., Tit. 11, \u00a7 613(a)(3) (2015) (\"substantial risk of death\"); D. C. Code \u00a7 22-404.01(a)(2) (2018 Cum. Supp.) (\"grave risk of serious bodily injury\"); Mo. Rev. Stat. \u00a7 565.056(1)(4) (2016) (\"substantial risk of death or serious physical injury\"); Utah Code \u00a7 76-5-102(1)(b) (2017) (\"substantial risk of bodily injury\").\nSee, e.g. , Ind. Code \u00a7 35-42-2-1.5 (Supp. 2018) (\"substantial risk of death\"); Wis. Stat. \u00a7 940.19(6) (2016) (\"substantial risk of great bodily harm\").\nSee, e.g. , Me. Rev. Stat. Ann., Tit. 17-A, \u00a7 211(1) (2006) (\"substantial risk of serious bodily injury\"), \u00a7 213(1) (same); Okla. Stat., Tit. 21, \u00a7 1289.11 (2011) (\"unreasonable risk and probability of death or great bodily harm\"); Wis. Stat. Ann. \u00a7 939.24(1) (2016) (\"unreasonable and substantial risk of death or great bodily harm\").\nSee, e.g. , Ariz. Rev. Stat. Ann. \u00a7\u00a7 13-1201(A), (B) (2010) (\"substantial risk of imminent death or physical injury\" and \"substantial risk of imminent death\"); N. D. Cent. Code Ann. \u00a7 12.1-17-03 (2012) (\"substantial risk of serious bodily injury or death\"); Ore. Rev. Stat. \u00a7 163.195(1) (2017) (\"substantial risk of serious physical injury\"); Wash. Rev. Code \u00a7 9A.36.050(1) (2018) (\"substantial risk of death or serious physical injury\").\nSee, e.g. , Ark. Code \u00a7 5-11-103(a) (2013) (\"substantial risk of serious physical injury\"); Conn. Gen. Stat. \u00a7 53a-95(a) (2017) (\"substantial risk of physical injury\"); Tex. Penal Code Ann. \u00a7 20.02(c)(2)(A) (2019) (\"substantial risk of serious bodily injury\").\nSee, e.g. , Ind. Code \u00a7 35-43-4-2(a)(2)(B) (2018) (\"substantial risk of bodily injury\"); Minn. Stat. \u00a7 609.52(3a) (2016) (\"reasonably foreseeable risk of bodily harm\").\nSee, e.g. , Ind. Code \u00a7 35-42-2-2.5(a) (2018) (\"substantial risk of bodily injury\"); Miss. Code. Ann. \u00a7\u00a7 97-3-105(1), (3) (2014) (\"substantial risk of physical injury\"); Mo. Rev. Stat. \u00a7\u00a7 578.365(1), (5) (2016) (\"probable risk of the loss of life or probable bodily or psychological harm\" and \"substantial risk to the life of the student or prospective member\"); Ohio Rev. Code Ann. \u00a7 2903.31(A) (Lexis 2014) (\"substantial risk of causing mental or physical harm\"); Ore. Rev. Stat. \u00a7\u00a7 163.197(4)(a)(B), (C) (2017) (\"unreasonable risk of harm\").\nSee, e.g. , Iowa Code \u00a7 709.3(1)(a) (2019) (\"substantial risk of death or serious injury\"); N. C. Gen. Stat. Ann. \u00a7 14-318.2(a) (2017) (\"substantial risk of physical injury\"); W. Va. Code Ann. \u00a7\u00a7 61-8D-3(c), (d)(1) (2014) (\"substantial risk of death or serious bodily injury\" and \"substantial risk of bodily injury\"); Wis. Stat. \u00a7\u00a7 948.03(1), (4)(a), (b) (2016) (\"unreasonable risk of harm,\" \"unreasonable risk of great bodily harm,\" and \"unreasonable risk of bodily harm\").\nSee, e.g. , Fla. Stat. \u00a7 825.102(3)(a) (2018) (\"substantial risk of death\"), \u00a7 827.03(1)(e) (same); W. Va. Code Ann. \u00a7\u00a7 61-8D-4(c), (d)(1) (2014) (\"substantial risk of death or serious bodily injury\" and \"substantial risk of bodily injury\").\nSee, e.g. , Kan. Stat. Ann. \u00a7\u00a7 21-5812(c)(2)(A)(i), (ii) (2018 Cum. Supp.) (\"substantial risk of bodily harm\"); R. I. Gen. Laws \u00a7 11-4-2 (2002) (\"substantial risk of serious physical harm\"); Wis. Stat. \u00a7\u00a7 941.11(1), (2) (2016) (\"unreasonable risk of death or great bodily harm\").\nSee, e.g. , Ala. Code \u00a7 13A-6-2(a)(2) (2015) (\"grave risk of death\"); Kan. Stat. Ann. \u00a7 21-5406(a) (2018 Cum. Supp.) (\"unreasonable risk of injury\"); N. Y. Penal Law Ann. \u00a7 125.20(4) (West 2009) (\"grave risk of serious physical injury\"), \u00a7\u00a7 125.25(2), (4) (\"grave risk of death\" and \"grave risk of serious physical injury or death\").\nSee, e.g. , Alaska Stat. \u00a7 11.61.190(a)(2) (2018) (\"substantial and unjustifiable risk of physical injury\"); Ark. Code Ann. \u00a7 5-74-107(b)(1) (Supp. 2017) (\"substantial risk of physical injury\"); Ohio Rev. Code Ann. \u00a7 2923.162(C)(2) (Lexis 2014) (\"substantial risk of physical harm\"); R. I. Gen. Laws \u00a7 11-47-61 (2002) (\"substantial risk of death or serious injury\"); Wash. Rev. Code \u00a7 9A.36.045(1) (2018) (\"substantial risk of death or serious physical injury\"); W. Va. Code Ann. \u00a7 61-7-12 (2014) (\"substantial risk of death or serious bodily injury\").\nJudge Niemeyer's opinion was joined by Judges Wilkinson, Duncan, Agee, Keenan, and Quattlebaum.\nJudge Newsom's majority opinion was joined by Chief Judge Ed Carnes and Judges Tjoflat, Marcus, William Pryor, Rosenbaum, Branch, and Hull.\nTellingly, the Government in Johnson and Dimaya did not dispute that the categorical approach was the proper method of interpreting the statutes at issue. See Sessions v. Dimaya , 584 U.S. ----, ----, 138 S.Ct. 1204, 1217, 200 L.Ed.2d 549 (2018) (plurality opinion); Johnson v. United States , 576 U.S. ----, ----, 135 S.Ct. 2551, 2562-2563, 192 L.Ed.2d 569 (2015). In this case, the Government strenuously disputes the applicability of the categorical approach precisely because the inquiry is not about past convictions.\nMore generally, this Court has often said that \"identical language may convey varying content\" in the same statute, based on context. Yates v. United States , 574 U.S. 528, 537, 135 S.Ct. 1074, 191 L.Ed.2d 64 (2015) (plurality opinion); see also Utility Air Regulatory Group v. EPA , 573 U.S. 302, 319-320, 134 S.Ct. 2427, 189 L.Ed.2d 372 (2014).\nThis duplication point is icing on a textual cake already frosted. In other words, our interpretation of the term \"offense\" is informed by the text and by our precedents. Our interpretation stands with or without the duplication argument.\nIn Leocal , the Court interpreted \u00a7 16(b) to require a categorical approach. But unlike \u00a7 924(c)(3)(B), that statutory provision applied in the context of past convictions. See 8 U.S.C. \u00a7\u00a7 1101(a)(43)(F), 1227(a)(2)(A)(iii) ; Sentencing Reform Act of 1984, \u00a7 217(a), 98 Stat. 2021; Comprehensive Crime Control Act of 1984, \u00a7 1202, 98 Stat. 2151. To be sure, \u00a7 16(b) was once incorporated into \u00a7 924(c). But in 1986, Congress severed the two provisions and included a standalone \"crime of violence\" definition in \u00a7 924(c). For those two reasons, \u00a7 924(c)(3)(B) need not and should not be interpreted in the same way as \u00a7 16(b).",
+        "type": "majority",
+        "author": "Justice GORSUCH delivered the opinion of the Court."
+      }
+    ],
+    "attorneys": [
+      "Noel J. Francisco, Solicitor General, Department of Justice, Washington, DC, for Petitioner.",
+      "Noel J. Francisco, Solicitor General, Brian A. Benczkowski, Assistant Attorney General, Eric J. Feigin, Erica L. Ross, Assistants to the Solicitor, General, Robert A. Parker, John P. Taddei, Attorneys, Department of Justice, Washington, DC, for Petitioner.",
+      "Jeffrey T. Green, Tobias S. Loss-Eaton, Chike Croslin, Gabriel Schonfeld, Sidley Austin LLP, Washington, DC, Sarah O'Rourke Schrup, Northwestern Supreme, Court Practicum, Chicago, IL, Brandon E. Beck, J. Matthew Wright, K. Joel Page, Jason Hawkins, Federal Defender for N. District of Texas, Lubbock, TX, J. Joseph Mongaras, Tiffany Talamentez, Udashen & Anton, Dallas, TX, for Respondents."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES, Petitioner\nv.\nMaurice Lamont DAVIS and Andre Levon Glover\nNo. 18-431\nSupreme Court of the United States.\nArgued April 17, 2019\nDecided June 24, 2019\nNoel J. Francisco, Solicitor General, Department of Justice, Washington, DC, for Petitioner.\nNoel J. Francisco, Solicitor General, Brian A. Benczkowski, Assistant Attorney General, Eric J. Feigin, Erica L. Ross, Assistants to the Solicitor, General, Robert A. Parker, John P. Taddei, Attorneys, Department of Justice, Washington, DC, for Petitioner.\nJeffrey T. Green, Tobias S. Loss-Eaton, Chike Croslin, Gabriel Schonfeld, Sidley Austin LLP, Washington, DC, Sarah O'Rourke Schrup, Northwestern Supreme, Court Practicum, Chicago, IL, Brandon E. Beck, J. Matthew Wright, K. Joel Page, Jason Hawkins, Federal Defender for N. District of Texas, Lubbock, TX, J. Joseph Mongaras, Tiffany Talamentez, Udashen & Anton, Dallas, TX, for Respondents."
+  },
+  "file_name": "2319-01",
+  "first_page_order": 2319,
+  "last_page_order": 2355
+}

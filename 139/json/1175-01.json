@@ -1,0 +1,64 @@
+{
+  "id": 12617473,
+  "name": "Steven JAMES, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "James v. Massachusetts",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20136849.",
+  "first_page": "1175",
+  "last_page": "1175",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1175"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 195,
+    "sha256": "4af7efccb5f48f3af1a08a0b5be4f5259dc1932057bd2c667626ed7a8ea21a30",
+    "simhash": "1:e16df604b3c4d101",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven JAMES, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven JAMES, petitioner,\nv.\nMASSACHUSETTS.\nNo. 18-6849.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of certiorari to the Supreme Judicial Court of Massachusetts denied."
+  },
+  "file_name": "1175-01",
+  "first_page_order": 1175,
+  "last_page_order": 1175
+}

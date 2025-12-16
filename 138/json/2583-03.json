@@ -1,0 +1,64 @@
+{
+  "id": 12613231,
+  "name": "In Re Lawrence Lynell SIMMONS, petitioner.",
+  "name_abbreviation": "In re Simmons",
+  "decision_date": "2018-05-29",
+  "docket_number": "No. 17\u20131403.",
+  "first_page": "2583",
+  "last_page": "2583",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2583"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 163,
+    "sha256": "9d0a5f24835fecbe43a02f504aa86f086414e80d10e8dbd4cbc3513cae7161b9",
+    "simhash": "1:d87a56d628f79d3e",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Lawrence Lynell SIMMONS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Lawrence Lynell SIMMONS, petitioner.\nNo. 17-1403.\nSupreme Court of the United States\nMay 29, 2018.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "2583-03",
+  "first_page_order": 2583,
+  "last_page_order": 2583
+}

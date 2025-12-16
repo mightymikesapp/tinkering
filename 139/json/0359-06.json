@@ -1,0 +1,64 @@
+{
+  "id": 12622494,
+  "name": "Robert AUSTIN, petitioner, v. DISTRICT ATTORNEY OF PHILADELPHIA COUNTY, PENNSYLVANIA, et al.",
+  "name_abbreviation": "Austin v. Dist. Attorney of Phila. Cnty.",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 18\u20135704.",
+  "first_page": "359",
+  "last_page": "360",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 359"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 256"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 333,
+    "sha256": "df7696db881b1356c9ca50203398bc1ecf8e90d9759983339d09781416246977",
+    "simhash": "1:39add24c3706d677",
+    "word_count": 53
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert AUSTIN, petitioner,\nv.\nDISTRICT ATTORNEY OF PHILADELPHIA COUNTY, PENNSYLVANIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert AUSTIN, petitioner,\nv.\nDISTRICT ATTORNEY OF PHILADELPHIA COUNTY, PENNSYLVANIA, et al.\nNo. 18-5704.\nSupreme Court of the United States\nOct. 9, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0359-06",
+  "first_page_order": 359,
+  "last_page_order": 360
+}

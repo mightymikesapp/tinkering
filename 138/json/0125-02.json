@@ -1,0 +1,64 @@
+{
+  "id": 12610641,
+  "name": "Roy Red JOEY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Joey v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139403.",
+  "first_page": "125",
+  "last_page": "125",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 125"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 77"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 207,
+    "sha256": "758db8cd3395d2923594f14fdec8f40811f56c3410a15015702fd8b42dc4c726",
+    "simhash": "1:c38c76440e245633",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roy Red JOEY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roy Red JOEY, petitioner,\nv.\nUNITED STATES.\nNo. 16-9403.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0125-02",
+  "first_page_order": 125,
+  "last_page_order": 125
+}

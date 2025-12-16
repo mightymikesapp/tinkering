@@ -1,0 +1,64 @@
+{
+  "id": 12614510,
+  "name": "Jose DOE, petitioner, v. Dave GOODMAN, et al.",
+  "name_abbreviation": "Doe v. Goodman",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u2013296.",
+  "first_page": "336",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 336"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 210,
+    "sha256": "f0f39d1183cc2c39eb5e4456ac52ac4e1e6d01196cce9198d1e17c1f03042ecc",
+    "simhash": "1:7225f65cbfa313fb",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose DOE, petitioner,\nv.\nDave GOODMAN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose DOE, petitioner,\nv.\nDave GOODMAN, et al.\nNo. 17-296.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0336-02",
+  "first_page_order": 336,
+  "last_page_order": 336
+}

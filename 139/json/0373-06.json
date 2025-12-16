@@ -1,0 +1,88 @@
+{
+  "id": 12622506,
+  "name": "Bobby Jo GIPSON, petitioner, v. UNITED STATES; Keith Walker, petitioner, v. United States.",
+  "name_abbreviation": "Gipson v. United States",
+  "decision_date": "2018-10-15",
+  "docket_number": "No. 17\u20138637.",
+  "first_page": "373",
+  "last_page": "374",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 373"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 14",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12618957
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": " Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0014-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 490,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636300417514689
+    },
+    "sha256": "d7ce9a5df390f9e311b936556a5dafc26680ed6769c9d66009abb5a48483c9b8",
+    "simhash": "1:76edc6570aa5d619",
+    "word_count": 76
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bobby Jo GIPSON, petitioner,\nv.\nUNITED STATES;"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.",
+      "Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent from the denial of certiorari for the reasons set out in Brown v. United States , 586 U.S. ----, 139 S.Ct. 14, --- L.E.2d ---- (2018) ( Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Bobby Jo GIPSON, petitioner,\nv.\nUNITED STATES;\nKeith Walker, petitioner,\nv.\nUnited States.\nNo. 17-8637.\nSupreme Court of the United States\nOct. 15, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied.\nJustice SOTOMAYOR, dissenting from the denial of certiorari: I dissent from the denial of certiorari for the reasons set out in Brown v. United States , 586 U.S. ----, 139 S.Ct. 14, --- L.E.2d ---- (2018) ( Sotomayor, J., dissenting)."
+  },
+  "file_name": "0373-06",
+  "first_page_order": 373,
+  "last_page_order": 374
+}

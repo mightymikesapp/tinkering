@@ -1,0 +1,64 @@
+{
+  "id": 12612148,
+  "name": "Robert BAEZ, aka Roberto Baez, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Baez v. United States",
+  "decision_date": "2018-04-30",
+  "docket_number": "No. 17\u20138330.",
+  "first_page": "1712",
+  "last_page": "1712",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1712"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 963"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 229,
+    "sha256": "0b16a94d8d2f3e57b94579be50ed62e46aacf8ac84f92114551e1dd4f645abb0",
+    "simhash": "1:64ede6440b06d493",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert BAEZ, aka Roberto Baez, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert BAEZ, aka Roberto Baez, petitioner,\nv.\nUNITED STATES.\nNo. 17-8330.\nSupreme Court of the United States\nApril 30, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1712-01",
+  "first_page_order": 1712,
+  "last_page_order": 1712
+}

@@ -1,0 +1,129 @@
+{
+  "id": 12624453,
+  "name": "Carlton ROBINSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robinson v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136915.",
+  "first_page": "853",
+  "last_page": "854",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 853"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "202 L.Ed.2d 450",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12623696,
+        12623697,
+        12623698,
+        12623699,
+        12623700,
+        12623701,
+        12623702,
+        12623703
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0623-04",
+        "/s-ct/139/0623-05",
+        "/s-ct/139/0623-06",
+        "/s-ct/139/0623-07",
+        "/s-ct/139/0623-08",
+        "/s-ct/139/0624-01",
+        "/s-ct/139/0624-02",
+        "/s-ct/139/0624-03"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 624",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12623701,
+        12623702,
+        12623703,
+        12623704,
+        12623705,
+        12623706,
+        12623707,
+        12623708
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0624-01",
+        "/s-ct/139/0624-02",
+        "/s-ct/139/0624-03",
+        "/s-ct/139/0624-04",
+        "/s-ct/139/0624-05",
+        "/s-ct/139/0624-06",
+        "/s-ct/139/0624-07",
+        "/s-ct/139/0624-08"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 449,
+    "sha256": "4cb381a9175a9adb8a353b287a11c0438d2bc48769c6b1cc0b3e7c09a3cfdc05",
+    "simhash": "1:f2e964d52a2dd329",
+    "word_count": 71
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlton ROBINSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied. Justice SOTOMAYOR, with whom Justice GINSBURG joins, dissenting from the denial of certiorari: I dissent for the reasons set out in Brown v. United States, 586 U.S. ----, 139 S.Ct. 624, 202 L.Ed.2d 450 (2018) (Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Carlton ROBINSON, petitioner,\nv.\nUNITED STATES.\nNo. 18-6915.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied. Justice SOTOMAYOR, with whom Justice GINSBURG joins, dissenting from the denial of certiorari: I dissent for the reasons set out in Brown v. United States, 586 U.S. ----, 139 S.Ct. 624, 202 L.Ed.2d 450 (2018) (Sotomayor, J., dissenting)."
+  },
+  "file_name": "0853-06",
+  "first_page_order": 853,
+  "last_page_order": 854
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12616682,
+  "name": "In Re Michael Allyn KENNEDY, petitioner.",
+  "name_abbreviation": "In re Kennedy",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20135914.",
+  "first_page": "731",
+  "last_page": "731",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 731"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "ab8b0671ec842b57ea5d7d0f812eb71e1aa29975f9130133a36d279e85fb154b",
+    "simhash": "1:35b37cc49ea45e5c",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Michael Allyn KENNEDY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Michael Allyn KENNEDY, petitioner.\nNo. 17-5914.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "0731-04",
+  "first_page_order": 731,
+  "last_page_order": 731
+}

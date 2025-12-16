@@ -1,0 +1,64 @@
+{
+  "id": 12623803,
+  "name": "Walter COLLINS, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Collins v. Tennessee",
+  "decision_date": "2018-12-10",
+  "docket_number": "No. 18\u20136554.",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 649"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 498"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 210,
+    "sha256": "163eb520cc68211bef95364e2b4d1086136e4aaaee5817af94e2f098195ae13c",
+    "simhash": "1:58af728c37c17299",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Walter COLLINS, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division denied."
+    ],
+    "corrections": "",
+    "head_matter": "Walter COLLINS, petitioner,\nv.\nTENNESSEE.\nNo. 18-6554.\nSupreme Court of the United States\nDec. 10, 2018.\nPetition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division denied."
+  },
+  "file_name": "0649-03",
+  "first_page_order": 649,
+  "last_page_order": 649
+}

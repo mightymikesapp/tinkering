@@ -1,0 +1,64 @@
+{
+  "id": 12620254,
+  "name": "Samuel COHEN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cohen v. United States",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20138.",
+  "first_page": "200",
+  "last_page": "200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 200"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 282,
+    "sha256": "d610d531d21ca240dda6da4ede50d98bcb6acee2672a89b5c35fd0ddac645335",
+    "simhash": "1:e3fd7244378646df",
+    "word_count": 47
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Samuel COHEN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYER took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice BREYER took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel COHEN, petitioner,\nv.\nUNITED STATES.\nNo. 18-8.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0200-03",
+  "first_page_order": 200,
+  "last_page_order": 200
+}

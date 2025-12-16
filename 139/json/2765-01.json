@@ -1,0 +1,64 @@
+{
+  "id": 12621908,
+  "name": "John DOE, petitioner, v. COLGATE UNIVERSITY.",
+  "name_abbreviation": "Doe v. Colgate Univ.",
+  "decision_date": "2019-06-24",
+  "docket_number": "No. 18M174.",
+  "first_page": "2765",
+  "last_page": "2765",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2765"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 197,
+    "sha256": "acfe1c99df1ccb8124223a2d74c81bc36f65ec15bb360292f85f03c8522b649f",
+    "simhash": "1:9dafd206cb89341e",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DOE, petitioner,\nv.\nCOLGATE UNIVERSITY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "John DOE, petitioner,\nv.\nCOLGATE UNIVERSITY.\nNo. 18M174.\nSupreme Court of the United States\nJune 24, 2019.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "2765-01",
+  "first_page_order": 2765,
+  "last_page_order": 2765
+}

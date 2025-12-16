@@ -1,0 +1,64 @@
+{
+  "id": 12627502,
+  "name": "Daniel RODRIGUEZ, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Rodriguez v. United States",
+  "decision_date": "2020-04-20",
+  "docket_number": "No. 19-8053.",
+  "first_page": "2700",
+  "last_page": "2700",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2700"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 840"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 216,
+    "sha256": "988da5db6c6275a13cc06e2c8604109eadff7a9d2db68fb2303ccad9811b109f",
+    "simhash": "1:7aaf7644374f9497",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel RODRIGUEZ, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel RODRIGUEZ, Petitioner,\nv.\nUNITED STATES.\nNo. 19-8053.\nSupreme Court of the United States.\nApril 20, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2700-02",
+  "first_page_order": 2700,
+  "last_page_order": 2700
+}

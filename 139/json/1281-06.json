@@ -1,0 +1,64 @@
+{
+  "id": 12618189,
+  "name": "Bruce WHITE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "White v. United States",
+  "decision_date": "2019-02-25",
+  "docket_number": "No. 18\u20137607.",
+  "first_page": "1281",
+  "last_page": "1281",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1281"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 292"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "4f5c2b9c853926bd5393720750799c9ddb16b855b6a6ab37b19a64740e9de4d3",
+    "simhash": "1:c46d764423065731",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bruce WHITE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bruce WHITE, petitioner,\nv.\nUNITED STATES.\nNo. 18-7607.\nSupreme Court of the United States\nFeb. 25, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1281-06",
+  "first_page_order": 1281,
+  "last_page_order": 1281
+}

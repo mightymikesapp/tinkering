@@ -1,0 +1,64 @@
+{
+  "id": 12624349,
+  "name": "Jesus SANTIAGO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Santiago v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136729.",
+  "first_page": "839",
+  "last_page": "839",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 839"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "fc3180d4220e3e7ef5215e7435f692dac2f625c44efab51bdec6541d935ba366",
+    "simhash": "1:f9af66443a4c533d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesus SANTIAGO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jesus SANTIAGO, petitioner,\nv.\nUNITED STATES.\nNo. 18-6729.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0839-01",
+  "first_page_order": 839,
+  "last_page_order": 839
+}

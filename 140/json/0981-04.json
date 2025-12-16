@@ -1,0 +1,64 @@
+{
+  "id": 12631009,
+  "name": "Edward MERRITT, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Merritt v. United States",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-7103",
+  "first_page": "981",
+  "last_page": "981",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 981"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 134"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "7a2e2132ae66c3404251adcfef7247417ae00a0c32688e82023bc8ca5fc21fde",
+    "simhash": "1:ffbdf4462d2453a1",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward MERRITT, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edward MERRITT, Petitioner\nv.\nUNITED STATES\nNo. 19-7103\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0981-04",
+  "first_page_order": 981,
+  "last_page_order": 981
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12616797,
+  "name": "In Re Dion WILLIAMS, petitioner.",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "2018-01-16",
+  "docket_number": "No. 17\u20137010.",
+  "first_page": "749",
+  "last_page": "749",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 749"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 618"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "7da9a9475aaa5b1e1f82113941e1f7658c778ffeef4166c81945667c27e9e23b",
+    "simhash": "1:6e6f105437e8d55c",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Dion WILLIAMS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Dion WILLIAMS, petitioner.\nNo. 17-7010.\nSupreme Court of the United States\nJan. 16, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0749-05",
+  "first_page_order": 749,
+  "last_page_order": 749
+}

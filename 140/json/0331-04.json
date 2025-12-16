@@ -1,0 +1,64 @@
+{
+  "id": 12628493,
+  "name": "IN RE Phillip S. GRIGALANZ, Petitioner",
+  "name_abbreviation": "In re Grigalanz",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9334",
+  "first_page": "331",
+  "last_page": "331",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 331"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "cefb252e8eb2f523fd74e30b204ff12f44274ea93bbe5937aae43424c9f01e54",
+    "simhash": "1:e865525eb608197d",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Phillip S. GRIGALANZ, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Phillip S. GRIGALANZ, Petitioner\nNo. 18-9334\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0331-04",
+  "first_page_order": 331,
+  "last_page_order": 331
+}

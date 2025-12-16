@@ -1,0 +1,64 @@
+{
+  "id": 12627577,
+  "name": "IN RE Stephen Daniel LEONARD, Petitioner",
+  "name_abbreviation": "In re Leonard",
+  "decision_date": "2020-04-27",
+  "docket_number": "No. 19-6874.",
+  "first_page": "2717",
+  "last_page": "2717",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2717"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 853"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 207,
+    "sha256": "0ad6d3706a208837f0e6c630f902f794b191f9e5fcb01ea3e8d8a79af30cad7e",
+    "simhash": "1:e2f47e024f04eb7a",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Stephen Daniel LEONARD, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Stephen Daniel LEONARD, Petitioner\nNo. 19-6874.\nSupreme Court of the United States.\nApril 27, 2020\nMotion of petitioner for reconsideration of order denying leave to proceed in forma pauperis denied."
+  },
+  "file_name": "2717-03",
+  "first_page_order": 2717,
+  "last_page_order": 2717
+}

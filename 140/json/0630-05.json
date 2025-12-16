@@ -1,0 +1,64 @@
+{
+  "id": 12629821,
+  "name": "IN RE Richard J. FIELDS, Petitioner;",
+  "name_abbreviation": "In re Fields",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-410",
+  "first_page": "630",
+  "last_page": "630",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 630"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 411"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "dac4c774da3362c970427666aa0c6e7880a9c609f563209144c2b0d4078ccb03",
+    "simhash": "1:782f1004f654f635",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Richard J. FIELDS, Petitioner;"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Richard J. FIELDS, Petitioner;\nNo. 19-410\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0630-05",
+  "first_page_order": 630,
+  "last_page_order": 630
+}

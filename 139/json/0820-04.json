@@ -1,0 +1,64 @@
+{
+  "id": 12624229,
+  "name": "John TEDESCO, petitioner, v. MONROE COUNTY, PENNSYLVANIA, et al.",
+  "name_abbreviation": "Tedesco v. Monroe Cnty.",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136509.",
+  "first_page": "820",
+  "last_page": "820",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 820"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 228,
+    "sha256": "194339fbe64cd141ee36450f06e2a237f5dd438a4463941d1a3e8e92761d3260",
+    "simhash": "1:33aec4442a80860d",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John TEDESCO, petitioner,\nv.\nMONROE COUNTY, PENNSYLVANIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John TEDESCO, petitioner,\nv.\nMONROE COUNTY, PENNSYLVANIA, et al.\nNo. 18-6509.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0820-04",
+  "first_page_order": 820,
+  "last_page_order": 820
+}

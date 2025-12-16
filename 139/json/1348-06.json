@@ -1,0 +1,64 @@
+{
+  "id": 12618611,
+  "name": "Lincoln E. FOX, petitioner, v. Neil TURNER, Warden.",
+  "name_abbreviation": "Fox v. Turner",
+  "decision_date": "2019-03-18",
+  "docket_number": "No. 18\u20137634.",
+  "first_page": "1348",
+  "last_page": "1348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1348"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 217,
+    "sha256": "f5ca93d4c0065a5fd0670ed2bce33361c22b4c5ec4ec78fb85911ae333047de6",
+    "simhash": "1:726d50441624c3e1",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lincoln E. FOX, petitioner,\nv.\nNeil TURNER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lincoln E. FOX, petitioner,\nv.\nNeil TURNER, Warden.\nNo. 18-7634.\nSupreme Court of the United States\nMarch 18, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1348-06",
+  "first_page_order": 1348,
+  "last_page_order": 1348
+}

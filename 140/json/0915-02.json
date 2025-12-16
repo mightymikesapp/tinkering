@@ -1,0 +1,64 @@
+{
+  "id": 12630671,
+  "name": "James W. RILEY, Petitioner v. DELAWARE",
+  "name_abbreviation": "Riley v. Delaware",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6856",
+  "first_page": "915",
+  "last_page": "915",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 915"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 506"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 255,
+    "sha256": "b2e675729a344d0e6da5f4051868cce385e64664bf1e911d6713d0ecc04fd4d8",
+    "simhash": "1:48bf561ef0e775d3",
+    "word_count": 42
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James W. RILEY, Petitioner\nv.\nDELAWARE"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Alito took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Alito took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Delaware denied."
+    ],
+    "corrections": "",
+    "head_matter": "James W. RILEY, Petitioner\nv.\nDELAWARE\nNo. 19-6856\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the Supreme Court of Delaware denied."
+  },
+  "file_name": "0915-02",
+  "first_page_order": 915,
+  "last_page_order": 915
+}

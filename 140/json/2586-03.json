@@ -1,0 +1,64 @@
+{
+  "id": 12627085,
+  "name": "John Henry HOYLE, Petitioner, v. WEST VIRGINIA.",
+  "name_abbreviation": "Hoyle v. West Virginia",
+  "decision_date": "2020-03-30",
+  "docket_number": "No. 19-7777.",
+  "first_page": "2586",
+  "last_page": "2586",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2586"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 508"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 202,
+    "sha256": "815826f405ab9858222aa747259852285139f7d99b6179d9e01647913676b0b8",
+    "simhash": "1:d06f145630d5309d",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Henry HOYLE, Petitioner,\nv.\nWEST VIRGINIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Henry HOYLE, Petitioner,\nv.\nWEST VIRGINIA.\nNo. 19-7777.\nSupreme Court of the United States.\nMarch 30, 2020\nPetition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+  },
+  "file_name": "2586-03",
+  "first_page_order": 2586,
+  "last_page_order": 2586
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12617846,
+  "name": "In Re James RUDNICK, petitioner.",
+  "name_abbreviation": "In re Rudnick",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20137392.",
+  "first_page": "1230",
+  "last_page": "1230",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1230"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "ad730dd3c634896eac4812ba171cb41422d97f6b2396c131eafaf49b6e312b66",
+    "simhash": "1:69e7902e13595111",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re James RUDNICK, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re James RUDNICK, petitioner.\nNo. 18-7392.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1230-06",
+  "first_page_order": 1230,
+  "last_page_order": 1230
+}

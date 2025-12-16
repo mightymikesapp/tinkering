@@ -1,0 +1,157 @@
+{
+  "id": 12625329,
+  "name": "ARCHDIOCESE OF WASHINGTON v. WASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY, et al.",
+  "name_abbreviation": "Archdiocese of Wash. v. Wash. Metro. Area Transit Auth.",
+  "decision_date": "2020-04-06",
+  "docket_number": "No. 18-1455",
+  "first_page": "1198",
+  "last_page": "1200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1198"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 724"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "508 U.S. 384",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12185
+      ],
+      "weight": 3,
+      "year": 1993,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/508/0384-01"
+      ]
+    },
+    {
+      "cite": "515 U.S. 819",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1564137
+      ],
+      "weight": 5,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "831"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/515/0819-01"
+      ]
+    },
+    {
+      "cite": "533 U.S. 98",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9312877
+      ],
+      "weight": 5,
+      "year": 2001,
+      "pin_cites": [
+        {
+          "page": "110-112"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/533/0098-01"
+      ]
+    },
+    {
+      "cite": "938 F.3d 424",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "year": 2019,
+      "pin_cites": [
+        {
+          "page": "435-437",
+          "parenthetical": "noting disagreement with D. C. Circuit"
+        }
+      ],
+      "opinion_index": -1
+    },
+    {
+      "cite": "910 F.3d 1248",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12519384
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "page": "1250-1254",
+          "parenthetical": "Griffith, J., dissenting from denial of rehearing en banc"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/910/1248-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 366,
+    "char_count": 4386,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26364394217577936
+    },
+    "sha256": "859b7304d5e7fcdcc1b1e50c84f71de4da3b4583a82afc32abb2067b3598ac85",
+    "simhash": "1:7627fc126c249e56",
+    "word_count": 699
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ARCHDIOCESE OF WASHINGTON\nv.\nWASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The petition for a writ of certiorari is denied. JUSTICE KAVANAUGH took no part in the consideration or decision of this petition.",
+      "Because the full Court is unable to hear this case, it makes a poor candidate for our review. But for that complication, however, our intervention and a reversal would be warranted for reasons admirably explained by Judge Griffith in his dissent below and by Judge Hardiman in an opinion for the Third Circuit. See 910 F.3d 1248, 1250-1254 (C.A.D.C. 2018) (Griffith, J., dissenting from denial of rehearing en banc); Northeastern Pa. Freethought Society v. Lackawanna Transit System , 938 F.3d 424, 435-437 (C.A.3 2019) (noting disagreement with D. C. Circuit).",
+      "At Christmastime a few years ago, the Catholic Church sought to place advertisements on the side of local buses in Washington, D. C. The proposed image was a simple one-a silhouette of three shepherds and sheep, along with the words \"Find the Perfect Gift\" and a church website address. No one disputes that, if Macy's had sought to place the same advertisement with its own website address, the Washington Metropolitan Area Transit Authority (WMATA) would have accepted the business gladly. Indeed, WMATA admits that it views Christmas as having \" 'a secular half' \" and \" 'a religious half,' \" and it has shown no hesitation in taking secular Christmas advertisements. Pet. for Cert. 1. Still, when it came to the church's proposal, WMATA balked.",
+      "WMATA's response only underscores its error. WMATA suggests that its conduct comported with our decision in Rosenberger because it banned religion as a subject rather than discriminated between religious and nonreligious viewpoints . But that reply rests on a misunderstanding of Rosenberger . There, the Court recognized that religion is not just a subject isolated to itself, but often also \"a specific premise, a perspective, a standpoint from which a variety of subjects may be discussed and considered.\" 515 U.S. at 831, 115 S.Ct. 2510. That means the government may minimize religious speech incidentally by reasonably limiting a forum like bus advertisement space to subjects where religious views are unlikely or rare. But once the government allows a subject to be discussed, it cannot silence religious views on that topic. See Good News Club , 533 U.S. at 110-112, 121 S.Ct. 2093. So the government may designate a forum for art or music, but it cannot then forbid discussion of Michelangelo's David or Handel's Messiah. And once the government declares Christmas open for commentary, it can hardly turn around and mute religious speech on a subject that so naturally invites it.",
+      "That's not to say WMATA lacks a choice. The Constitution requires the government to respect religious speech, not to maximize advertising revenues. So if WMATA finds messages like the one here intolerable, it may close its buses to all advertisements. More modestly, it might restrict advertisement space to subjects where religious viewpoints are less likely to arise without running afoul of our free speech precedents. The one thing it cannot do is what it did here-permit a subject sure to inspire religious views, one that even WMATA admits is \"half \" religious in nature, and then suppress those views. The First Amendment requires governments to protect religious viewpoints, not single them out for silencing."
+    ],
+    "corrections": "",
+    "head_matter": "ARCHDIOCESE OF WASHINGTON\nv.\nWASHINGTON METROPOLITAN AREA TRANSIT AUTHORITY, et al.\nNo. 18-1455\nSupreme Court of the United States.\nDecided April 6, 2020\nThe petition for a writ of certiorari is denied. JUSTICE KAVANAUGH took no part in the consideration or decision of this petition.\nStatement of Justice GORSUCH, with whom Justice THOMAS joins, respecting the denial of certiorari.\nBecause the full Court is unable to hear this case, it makes a poor candidate for our review. But for that complication, however, our intervention and a reversal would be warranted for reasons admirably explained by Judge Griffith in his dissent below and by Judge Hardiman in an opinion for the Third Circuit. See 910 F.3d 1248, 1250-1254 (C.A.D.C. 2018) (Griffith, J., dissenting from denial of rehearing en banc); Northeastern Pa. Freethought Society v. Lackawanna Transit System , 938 F.3d 424, 435-437 (C.A.3 2019) (noting disagreement with D. C. Circuit).\nAt Christmastime a few years ago, the Catholic Church sought to place advertisements on the side of local buses in Washington, D. C. The proposed image was a simple one-a silhouette of three shepherds and sheep, along with the words \"Find the Perfect Gift\" and a church website address. No one disputes that, if Macy's had sought to place the same advertisement with its own website address, the Washington Metropolitan Area Transit Authority (WMATA) would have accepted the business gladly. Indeed, WMATA admits that it views Christmas as having \" 'a secular half' \" and \" 'a religious half,' \" and it has shown no hesitation in taking secular Christmas advertisements. Pet. for Cert. 1. Still, when it came to the church's proposal, WMATA balked.\nThat is viewpoint discrimination by a governmental entity and a violation of the First Amendment. In fact, this Court has already rejected no-religious-speech policies materially identical to WMATA's on no fewer than three occasions over the last three decades. See Good News Club v. Milford Central School , 533 U.S. 98, 121 S.Ct. 2093, 150 L.Ed.2d 151 (2001) ; Rosenberger v. Rector and Visitors of Univ. of Va. , 515 U.S. 819, 115 S.Ct. 2510, 132 L.Ed.2d 700 (1995) ; Lamb's Chapel v. Center Moriches Union Free School Dist. , 508 U.S. 384, 113 S.Ct. 2141, 124 L.Ed.2d 352 (1993). In each case, the government opened a forum to discussion of a particular subject but then sought to ban discussion of that subject from a religious viewpoint. What WMATA did here is no different.\nWMATA's response only underscores its error. WMATA suggests that its conduct comported with our decision in Rosenberger because it banned religion as a subject rather than discriminated between religious and nonreligious viewpoints . But that reply rests on a misunderstanding of Rosenberger . There, the Court recognized that religion is not just a subject isolated to itself, but often also \"a specific premise, a perspective, a standpoint from which a variety of subjects may be discussed and considered.\" 515 U.S. at 831, 115 S.Ct. 2510. That means the government may minimize religious speech incidentally by reasonably limiting a forum like bus advertisement space to subjects where religious views are unlikely or rare. But once the government allows a subject to be discussed, it cannot silence religious views on that topic. See Good News Club , 533 U.S. at 110-112, 121 S.Ct. 2093. So the government may designate a forum for art or music, but it cannot then forbid discussion of Michelangelo's David or Handel's Messiah. And once the government declares Christmas open for commentary, it can hardly turn around and mute religious speech on a subject that so naturally invites it.\nThat's not to say WMATA lacks a choice. The Constitution requires the government to respect religious speech, not to maximize advertising revenues. So if WMATA finds messages like the one here intolerable, it may close its buses to all advertisements. More modestly, it might restrict advertisement space to subjects where religious viewpoints are less likely to arise without running afoul of our free speech precedents. The one thing it cannot do is what it did here-permit a subject sure to inspire religious views, one that even WMATA admits is \"half \" religious in nature, and then suppress those views. The First Amendment requires governments to protect religious viewpoints, not single them out for silencing."
+  },
+  "file_name": "1198-01",
+  "first_page_order": 1198,
+  "last_page_order": 1200
+}

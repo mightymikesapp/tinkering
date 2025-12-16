@@ -1,0 +1,64 @@
+{
+  "id": 12630201,
+  "name": "Albert RANDOLPH, Petitioner, v. TEXAS",
+  "name_abbreviation": "Randolph v. Texas",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9153",
+  "first_page": "82",
+  "last_page": "82",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 82"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 61"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 185,
+    "sha256": "a619f931c0975802f2be82a2b18282090a3c1222c6378cece4e2e1601274b464",
+    "simhash": "1:78eb26fe23c98189",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albert RANDOLPH, Petitioner,\nv.\nTEXAS"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Albert RANDOLPH, Petitioner,\nv.\nTEXAS\nNo. 18-9153\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "0082-04",
+  "first_page_order": 82,
+  "last_page_order": 82
+}

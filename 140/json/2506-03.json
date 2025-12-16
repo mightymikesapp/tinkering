@@ -1,0 +1,64 @@
+{
+  "id": 12626692,
+  "name": "John DOE 1, et al., Petitioners, v. FEDERAL ELECTION COMMISSION.",
+  "name_abbreviation": "Doe v. Fed. Election Comm'n",
+  "decision_date": "2020-03-23",
+  "docket_number": "No. 19-484.",
+  "first_page": "2506",
+  "last_page": "2506",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2506"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 462"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 244,
+    "sha256": "29ee3ee80aea587313a3945168ab7d0e910ad514bdb6ddd1643d02411e5cbeba",
+    "simhash": "1:f8bea44427d14769",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DOE 1, et al., Petitioners,\nv.\nFEDERAL ELECTION COMMISSION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John DOE 1, et al., Petitioners,\nv.\nFEDERAL ELECTION COMMISSION.\nNo. 19-484.\nSupreme Court of the United States.\nMarch 23, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "2506-03",
+  "first_page_order": 2506,
+  "last_page_order": 2506
+}

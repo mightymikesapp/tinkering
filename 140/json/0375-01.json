@@ -1,0 +1,83 @@
+{
+  "id": 12628567,
+  "name": "Christopher STACY, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Stacy v. United States",
+  "decision_date": "2019-10-15",
+  "docket_number": "No. 19-5383",
+  "first_page": "375",
+  "last_page": "375",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 375"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 210"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2191",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620627
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2191-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 535,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636613177061674
+    },
+    "sha256": "088e9cb1980ead12cd936ec94eac5b137500a3deab21a64b713b469944b04f08",
+    "simhash": "1:7ea766c48d03061f",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Christopher STACY, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Christopher STACY, Petitioner\nv.\nUNITED STATES\nNo. 19-5383\nSupreme Court of the United States.\nOctober 15, 2019\nOn petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Rehaif v. United States , 588 U.S. ----, 139 S.Ct. 2191, 204 L.Ed.2d 594 (2019)."
+  },
+  "file_name": "0375-01",
+  "first_page_order": 375,
+  "last_page_order": 375
+}

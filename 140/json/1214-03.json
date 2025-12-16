@@ -1,0 +1,64 @@
+{
+  "id": 12625361,
+  "name": "Michael BLANKENSHIP, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Blankenship v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7138",
+  "first_page": "1214",
+  "last_page": "1214",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1214"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 215,
+    "sha256": "80477ff5865b7bb0137469f33a93c350270a7c27b51792b1ece942afb5ef313d",
+    "simhash": "1:7baf44543381562f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael BLANKENSHIP, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael BLANKENSHIP, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7138\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1214-03",
+  "first_page_order": 1214,
+  "last_page_order": 1214
+}

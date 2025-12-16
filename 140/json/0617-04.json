@@ -1,0 +1,64 @@
+{
+  "id": 12629749,
+  "name": "James TYSON, Jr., Petitioner v. UNITED STATES.",
+  "name_abbreviation": "Tyson v. United States",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-6529",
+  "first_page": "617",
+  "last_page": "617",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 617"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 405"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "d891e8fd1aa5467e886ba224a5883cd871f46df3117cc7a89e3837fe6c649d63",
+    "simhash": "1:f0ef8004b2005635",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James TYSON, Jr., Petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James TYSON, Jr., Petitioner\nv.\nUNITED STATES.\nNo. 19-6529\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0617-04",
+  "first_page_order": 617,
+  "last_page_order": 617
+}

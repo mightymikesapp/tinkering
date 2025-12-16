@@ -1,0 +1,64 @@
+{
+  "id": 12620755,
+  "name": "Richard Lloyd ODOM, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Odom v. Tennessee",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135231.",
+  "first_page": "239",
+  "last_page": "239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 239"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 160"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 213,
+    "sha256": "2c2c5abd35fc36eb6c6d0ce2feba615f7771cb0e48f44b3b1770c82a72304446",
+    "simhash": "1:79a602dca2c80491",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard Lloyd ODOM, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard Lloyd ODOM, petitioner,\nv.\nTENNESSEE.\nNo. 18-5231.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Western Division denied."
+  },
+  "file_name": "0239-04",
+  "first_page_order": 239,
+  "last_page_order": 239
+}

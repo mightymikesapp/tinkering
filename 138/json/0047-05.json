@@ -1,0 +1,62 @@
+{
+  "id": 12615346,
+  "name": "In the Matter of DISBARMENT OF Allan Christopher SMITH.",
+  "name_abbreviation": "In re Smith",
+  "decision_date": "2017-08-25",
+  "docket_number": "No. D\u20132978.",
+  "first_page": "47",
+  "last_page": "47",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 47"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 774"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 145,
+    "sha256": "e451786b84e4068c62ff7b136a37f2f87a335621e5b0aa08293a79af59afa494",
+    "simhash": "1:a0631450b28e2c65",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Allan Christopher SMITH."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Allan Christopher SMITH.\nNo. D-2978.\nSupreme Court of the United States\nAug. 25, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0047-05",
+  "first_page_order": 47,
+  "last_page_order": 47
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12616792,
+  "name": "George KING, petitioner, v. Steven JOHNSON, Administrator, New Jersey State Prison, et al.",
+  "name_abbreviation": "King v. Johnson",
+  "decision_date": "2018-01-16",
+  "docket_number": "No. 17\u20136965.",
+  "first_page": "748",
+  "last_page": "749",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 748"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 614"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 255,
+    "sha256": "b9c7d65f6bb75f8b77f47e4cd8107f8b5707416f881963796483054e08755060",
+    "simhash": "1:2caf72d43a4c16aa",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George KING, petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George KING, petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al.\nNo. 17-6965.\nSupreme Court of the United States\nJan. 16, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0748-06",
+  "first_page_order": 748,
+  "last_page_order": 749
+}

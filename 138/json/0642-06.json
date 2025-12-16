@@ -1,0 +1,64 @@
+{
+  "id": 12616086,
+  "name": "TEXAS, petitioner, v. Charles KLEINERT.",
+  "name_abbreviation": "Texas v. Kleinert",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u2013299.",
+  "first_page": "642",
+  "last_page": "643",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 642"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 527"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 202,
+    "sha256": "23d49fbd902bbbb664403c181393e190b63eaf2de3a00bb2fde0583a9fd6c66e",
+    "simhash": "1:2beef6c41a8c4684",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TEXAS, petitioner,\nv.\nCharles KLEINERT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "TEXAS, petitioner,\nv.\nCharles KLEINERT.\nNo. 17-299.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0642-06",
+  "first_page_order": 642,
+  "last_page_order": 643
+}

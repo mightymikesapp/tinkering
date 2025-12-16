@@ -1,0 +1,64 @@
+{
+  "id": 12629493,
+  "name": "Patrick LLOYD, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Lloyd v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-8677",
+  "first_page": "55",
+  "last_page": "55",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 55"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 50"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "159b5992de89b4f236f190ef08b061e7ed04a56e65e6b5366c65a8de6cff473b",
+    "simhash": "1:7aad66cc3f04d31d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick LLOYD, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick LLOYD, Petitioner\nv.\nUNITED STATES\nNo. 18-8677\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0055-03",
+  "first_page_order": 55,
+  "last_page_order": 55
+}

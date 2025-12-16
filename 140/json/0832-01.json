@@ -1,0 +1,64 @@
+{
+  "id": 12630263,
+  "name": "Pedro J. AMARO, Petitioner, v. Hector BALDERAS, Attorney General of New Mexico, et al.",
+  "name_abbreviation": "Amaro v. Balderas",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6532",
+  "first_page": "832",
+  "last_page": "832",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 832"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 485"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 253,
+    "sha256": "6c0712b8cbe5b7b12d6e3987899b85c03d99595ef32297a39572c37ece1bb609",
+    "simhash": "1:7ee774467b85978f",
+    "word_count": 42
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro J. AMARO, Petitioner,\nv.\nHector BALDERAS, Attorney General of New Mexico, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro J. AMARO, Petitioner,\nv.\nHector BALDERAS, Attorney General of New Mexico, et al.\nNo. 19-6532\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0832-01",
+  "first_page_order": 832,
+  "last_page_order": 832
+}

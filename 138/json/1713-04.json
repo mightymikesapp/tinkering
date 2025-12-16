@@ -1,0 +1,64 @@
+{
+  "id": 12612157,
+  "name": "John DOE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Doe v. United States",
+  "decision_date": "2018-04-30",
+  "docket_number": "No. 17M106.",
+  "first_page": "1713",
+  "last_page": "1713",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1713"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 947"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 225,
+    "sha256": "5cd0a9ce9bcfd6ebdeb7641c7a56d103ad3b27405f7505272179aedf369e92d6",
+    "simhash": "1:82ef54061fcc5957",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DOE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record denied."
+    ],
+    "corrections": "",
+    "head_matter": "John DOE, petitioner,\nv.\nUNITED STATES.\nNo. 17M106.\nSupreme Court of the United States\nApril 30, 2018.\nMotion for leave to file a petition for writ of certiorari under seal with redacted copies for the public record denied."
+  },
+  "file_name": "1713-04",
+  "first_page_order": 1713,
+  "last_page_order": 1713
+}

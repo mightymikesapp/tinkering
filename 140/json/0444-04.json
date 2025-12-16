@@ -1,0 +1,64 @@
+{
+  "id": 12628932,
+  "name": "Sam NEWMAN, Petitioner v. LOUISIANA",
+  "name_abbreviation": "Newman v. Louisiana",
+  "decision_date": "2019-10-21",
+  "docket_number": "No. 19-5709",
+  "first_page": "444",
+  "last_page": "445",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 444"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 194,
+    "sha256": "55fc775c3654a91ab059e130f86a4fba462b219f744c7d2322219665d7466f38",
+    "simhash": "1:faff2e468781d52d",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sam NEWMAN, Petitioner\nv.\nLOUISIANA"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of Louisiana, Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sam NEWMAN, Petitioner\nv.\nLOUISIANA\nNo. 19-5709\nSupreme Court of the United States.\nOctober 21, 2019\nPetition for writ of certiorari to the Court of Appeal of Louisiana, Fourth Circuit denied."
+  },
+  "file_name": "0444-04",
+  "first_page_order": 444,
+  "last_page_order": 445
+}

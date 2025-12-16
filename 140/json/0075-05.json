@@ -1,0 +1,64 @@
+{
+  "id": 12630125,
+  "name": "IN RE Fox Joseph SALERNO, Petitioner",
+  "name_abbreviation": "In re Salerno",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5724",
+  "first_page": "75",
+  "last_page": "75",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 75"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "83746dfa58c3a6c0c50bfc9960625415b25f700da2f2a9cd1a25831fdc9c0838",
+    "simhash": "1:eaef66085ad1c14d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Fox Joseph SALERNO, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Fox Joseph SALERNO, Petitioner\nNo. 19-5724\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0075-05",
+  "first_page_order": 75,
+  "last_page_order": 75
+}

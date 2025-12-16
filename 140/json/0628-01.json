@@ -1,0 +1,64 @@
+{
+  "id": 12629801,
+  "name": "Gregory CLARK, Petitioner v. Austin CLARK",
+  "name_abbreviation": "Clark v. Clark",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-452",
+  "first_page": "628",
+  "last_page": "628",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 628"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 388"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 208,
+    "sha256": "c5b4d6ed99f70fc1de4e1c65c269351e2a22f42d870f64186a9667e9de22d613",
+    "simhash": "1:60bff6446b4837b1",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory CLARK, Petitioner\nv.\nAustin CLARK"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory CLARK, Petitioner\nv.\nAustin CLARK\nNo. 19-452\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0628-01",
+  "first_page_order": 628,
+  "last_page_order": 628
+}

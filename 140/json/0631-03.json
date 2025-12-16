@@ -1,0 +1,64 @@
+{
+  "id": 12629825,
+  "name": "IN RE Morgan Allen ARMSTRONG, Petitioner.",
+  "name_abbreviation": "In re Armstrong",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-6645",
+  "first_page": "631",
+  "last_page": "631",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 631"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 410"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 151,
+    "sha256": "cc6dfed5c88da3a7ef37a3f8154ed46bb662b7d775c03b0bb6179c2d9362e3fd",
+    "simhash": "1:782b58047a59c135",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Morgan Allen ARMSTRONG, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Morgan Allen ARMSTRONG, Petitioner.\nNo. 19-6645\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0631-03",
+  "first_page_order": 631,
+  "last_page_order": 631
+}

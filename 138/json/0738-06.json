@@ -1,0 +1,64 @@
+{
+  "id": 12616727,
+  "name": "Brett A. BOGLE, petitioner, v. FLORIDA, et al.",
+  "name_abbreviation": "Bogle v. Florida",
+  "decision_date": "2018-01-16",
+  "docket_number": "No. 17\u20136329.",
+  "first_page": "738",
+  "last_page": "738",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 738"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 183,
+    "sha256": "aecd419141baa20c1fc0a10ddd881a7e6a414073c16647d2e2a8948a3cd48484",
+    "simhash": "1:68ad509436c7c5d6",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Brett A. BOGLE, petitioner,\nv.\nFLORIDA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Brett A. BOGLE, petitioner,\nv.\nFLORIDA, et al.\nNo. 17-6329.\nSupreme Court of the United States\nJan. 16, 2018.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "0738-06",
+  "first_page_order": 738,
+  "last_page_order": 738
+}

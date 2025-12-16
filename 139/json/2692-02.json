@@ -1,0 +1,88 @@
+{
+  "id": 12621436,
+  "name": "VILLAGE OF LINCOLNSHIRE, ILLINOIS, et al., petitioners, v. INTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 399, et al.",
+  "name_abbreviation": "Vill. of Lincolnshire v. Int'l Union of Operating Eng'rs Local 399",
+  "decision_date": "2019-06-10",
+  "docket_number": "No. 18\u20131070.",
+  "first_page": "2692",
+  "last_page": "2692",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2692"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1088"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "95 L.Ed. 36",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1950,
+      "opinion_index": -1
+    },
+    {
+      "cite": "340 U.S. 36",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930686
+      ],
+      "weight": 2,
+      "year": 1950,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/340/0036-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 584,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636240568465575
+    },
+    "sha256": "f18bdbd9e7c30d48dfb8957952239dd5d8165f79087c7070514054465cad5e0b",
+    "simhash": "1:6ced40c4ab401781",
+    "word_count": 96
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "VILLAGE OF LINCOLNSHIRE, ILLINOIS, et al., petitioners,\nv.\nINTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 399, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "VILLAGE OF LINCOLNSHIRE, ILLINOIS, et al., petitioners,\nv.\nINTERNATIONAL UNION OF OPERATING ENGINEERS LOCAL 399, et al.\nNo. 18-1070.\nSupreme Court of the United States\nJune 10, 2019.\nOn petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Seventh Circuit with instructions to direct the District Court to dismiss the case as moot. See United States v. Munsingwear, Inc., 340 U.S. 36, 71 S.Ct. 104, 95 L.Ed. 36 (1950)."
+  },
+  "file_name": "2692-02",
+  "first_page_order": 2692,
+  "last_page_order": 2692
+}

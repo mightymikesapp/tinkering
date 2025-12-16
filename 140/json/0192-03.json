@@ -1,0 +1,64 @@
+{
+  "id": 12626300,
+  "name": "Antoine GAUSE, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gause v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9701",
+  "first_page": "192",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 192"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 107"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 212,
+    "sha256": "23f8413d01617f742216161e952ec67163390d7a9ad6c16b5b8784d8dab6d675",
+    "simhash": "1:fbafd644bf01d70d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antoine GAUSE, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antoine GAUSE, Petitioner,\nv.\nUNITED STATES.\nNo. 18-9701\nSupreme Court of the United States.\nOctober 07, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0192-03",
+  "first_page_order": 192,
+  "last_page_order": 192
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630593,
+  "name": "Courtney BIRD, Petitioner, v. HAWAII, et al.",
+  "name_abbreviation": "Bird v. Hawaii",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-668",
+  "first_page": "899",
+  "last_page": "899",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 899"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 468"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 210,
+    "sha256": "bac6aa34f77c10005c617bd761bdbcf85d4c342b15b58cc7f8bdc092c5b7f708",
+    "simhash": "1:c1ba76041b4533e4",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Courtney BIRD, Petitioner,\nv.\nHAWAII, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Courtney BIRD, Petitioner,\nv.\nHAWAII, et al.\nNo. 19-668\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0899-03",
+  "first_page_order": 899,
+  "last_page_order": 899
+}

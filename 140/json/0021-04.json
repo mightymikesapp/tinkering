@@ -1,0 +1,64 @@
+{
+  "id": 12626428,
+  "name": "John James BELL, petitioner, v. SOUTH CAROLINA.",
+  "name_abbreviation": "Bell v. South Carolina",
+  "decision_date": "2019-08-05",
+  "docket_number": "No. 18\u20138679.",
+  "first_page": "21",
+  "last_page": "21",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 21"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1176"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "40c2ca01d3a990b3597fbe1db9fcfb7928a0da02bb1459d54c8c932c6cbce10b",
+    "simhash": "1:d0d314921ea8d6a1",
+    "word_count": 22
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John James BELL, petitioner,\nv.\nSOUTH CAROLINA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John James BELL, petitioner,\nv.\nSOUTH CAROLINA.\nNo. 18-8679.\nSupreme Court of the United States\nAug. 5, 2019.\nPetition for rehearing denied."
+  },
+  "file_name": "0021-04",
+  "first_page_order": 21,
+  "last_page_order": 21
+}

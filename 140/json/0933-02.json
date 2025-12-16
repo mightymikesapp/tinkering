@@ -1,0 +1,64 @@
+{
+  "id": 12630773,
+  "name": "CITY OF FLINT, MICHIGAN, et al., Petitioners, v. Shari GUERTIN, et al.",
+  "name_abbreviation": "City of Flint v. Guertin",
+  "decision_date": "2020-01-21",
+  "docket_number": "No. 19-205",
+  "first_page": "933",
+  "last_page": "933",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 933"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 522"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 236,
+    "sha256": "30a84866e6a8ee1fd6fe62d3f6032d4b4d786a0cac7eb48e718c7260c9c2658e",
+    "simhash": "1:74afd40437c59745",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CITY OF FLINT, MICHIGAN, et al., Petitioners,\nv.\nShari GUERTIN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "CITY OF FLINT, MICHIGAN, et al., Petitioners,\nv.\nShari GUERTIN, et al.\nNo. 19-205\nSupreme Court of the United States.\nJanuary 21, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0933-02",
+  "first_page_order": 933,
+  "last_page_order": 933
+}

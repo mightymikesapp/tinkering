@@ -1,0 +1,64 @@
+{
+  "id": 12615983,
+  "name": "In Re Ramsey RANDALL, petitioner.",
+  "name_abbreviation": "In re Randall",
+  "decision_date": "2017-12-11",
+  "docket_number": "No. 17\u20135512.",
+  "first_page": "574",
+  "last_page": "574",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 574"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 451"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 129,
+    "sha256": "ac3d76a5aae4e8db8cd5821e068792a36d2fdc543b4641c16738693c55a12997",
+    "simhash": "1:700674443da63326",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Ramsey RANDALL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Ramsey RANDALL, petitioner.\nNo. 17-5512.\nSupreme Court of the United States\nDec. 11, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "0574-06",
+  "first_page_order": 574,
+  "last_page_order": 574
+}

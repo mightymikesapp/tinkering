@@ -1,0 +1,64 @@
+{
+  "id": 12628451,
+  "name": "Randall B. LORD, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Lord v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5597",
+  "first_page": "320",
+  "last_page": "320",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 320"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 210,
+    "sha256": "d0fa3fe26ac4fe6d430e1af165a4e253f3e755e379fc2bbabfa2c319838678c3",
+    "simhash": "1:f2ef54473681c127",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randall B. LORD, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Randall B. LORD, Petitioner\nv.\nUNITED STATES\nNo. 19-5597\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0320-02",
+  "first_page_order": 320,
+  "last_page_order": 320
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12615898,
+  "name": "Frederic A. BROWN, petitioner, v. OHIO.",
+  "name_abbreviation": "Brown v. Ohio",
+  "decision_date": "2017-12-11",
+  "docket_number": "No. 17\u20136284.",
+  "first_page": "562",
+  "last_page": "562",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 562"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 442"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 193,
+    "sha256": "30a6ccf02226322fbb2f3962f33076909314b2b825e72d99ae3f5bb589d8986f",
+    "simhash": "1:74d75254fe0614b1",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Frederic A. BROWN, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+    ],
+    "corrections": "",
+    "head_matter": "Frederic A. BROWN, petitioner,\nv.\nOHIO.\nNo. 17-6284.\nSupreme Court of the United States\nDec. 11, 2017.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Cuyahoga County denied."
+  },
+  "file_name": "0562-02",
+  "first_page_order": 562,
+  "last_page_order": 562
+}

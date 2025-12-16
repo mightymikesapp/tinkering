@@ -1,0 +1,64 @@
+{
+  "id": 12626506,
+  "name": "Dwight BROWN, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9836",
+  "first_page": "222",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 222"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 120"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "936321069babc84d22644bd289b2e797916f45188ed94fb74ffc47286e62b2fa",
+    "simhash": "1:faad66c43684c595",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dwight BROWN, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dwight BROWN, Petitioner,\nv.\nUNITED STATES.\nNo. 18-9836\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0222-02",
+  "first_page_order": 222,
+  "last_page_order": 222
+}

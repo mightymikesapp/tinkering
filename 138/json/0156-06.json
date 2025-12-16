@@ -1,0 +1,64 @@
+{
+  "id": 12611609,
+  "name": "In Re Christopher PARKER, petitioner.",
+  "name_abbreviation": "In re Parker",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139565.",
+  "first_page": "156",
+  "last_page": "156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 156"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 192"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 144,
+    "sha256": "9bbbce4313194a05ab12091221dd918da4dde2dc18ab1877a2cc53c75c633de5",
+    "simhash": "1:405e80779eba1563",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Christopher PARKER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Christopher PARKER, petitioner.\nNo. 16-9565.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0156-06",
+  "first_page_order": 156,
+  "last_page_order": 156
+}

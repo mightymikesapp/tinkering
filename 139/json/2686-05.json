@@ -1,0 +1,64 @@
+{
+  "id": 12621394,
+  "name": "State of TEXAS, plaintiff, v. State of NEW MEXICO.",
+  "name_abbreviation": "Texas v. New Mexico",
+  "decision_date": "2019-06-03",
+  "docket_number": "No. 65, Original.",
+  "first_page": "2686",
+  "last_page": "2686",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2686"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1068"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 304,
+    "sha256": "bba12c2e365f6ea4bd25847754c8dd2d153832e2a7cfa87e3c4d8e1cdd206c29",
+    "simhash": "1:d2c24e4a692cc771",
+    "word_count": 53
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of TEXAS, plaintiff,\nv.\nState of NEW MEXICO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The Solicitor General is invited to file a brief in this case expressing the views of the United States with respect to the motion for review of the River Master's final determination."
+    ],
+    "corrections": "",
+    "head_matter": "State of TEXAS, plaintiff,\nv.\nState of NEW MEXICO.\nNo. 65, Original.\nSupreme Court of the United States\nJune 3, 2019.\nThe Solicitor General is invited to file a brief in this case expressing the views of the United States with respect to the motion for review of the River Master's final determination."
+  },
+  "file_name": "2686-05",
+  "first_page_order": 2686,
+  "last_page_order": 2686
+}

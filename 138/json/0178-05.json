@@ -1,0 +1,64 @@
+{
+  "id": 12612232,
+  "name": "Thomas NGUYEN, petitioner, v. Eduador LOPEZ, et al.",
+  "name_abbreviation": "Nguyen v. Lopez",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139674.",
+  "first_page": "178",
+  "last_page": "178",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 178"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 215,
+    "sha256": "240dbf7f467be25ee53020842cf903712c36e9e2aef66c27473aeec553cf14bd",
+    "simhash": "1:f3adf6451fad17bb",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas NGUYEN, petitioner,\nv.\nEduador LOPEZ, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas NGUYEN, petitioner,\nv.\nEduador LOPEZ, et al.\nNo. 16-9674.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0178-05",
+  "first_page_order": 178,
+  "last_page_order": 178
+}

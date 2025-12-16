@@ -1,0 +1,64 @@
+{
+  "id": 12613683,
+  "name": "John RE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Re v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135464.",
+  "first_page": "265",
+  "last_page": "265",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 265"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 203,
+    "sha256": "b12dd3ff739eb36a90c6e7ea9b63d2ff5883bd51f712944d290a9e22cd2db549",
+    "simhash": "1:f7afe644fb0d5319",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John RE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John RE, petitioner,\nv.\nUNITED STATES.\nNo. 17-5464.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0265-03",
+  "first_page_order": 265,
+  "last_page_order": 265
+}

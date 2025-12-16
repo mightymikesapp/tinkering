@@ -1,0 +1,64 @@
+{
+  "id": 12614520,
+  "name": "Joe FERNANDEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Fernandez v. United States",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135760.",
+  "first_page": "337",
+  "last_page": "337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 337"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 210,
+    "sha256": "00b886dd7d204b1e3857a6275bc0d895ab858de2691b3c3cda016db35da2793d",
+    "simhash": "1:f62cf6c47b028e3f",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joe FERNANDEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joe FERNANDEZ, petitioner,\nv.\nUNITED STATES.\nNo. 17-5760.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0337-06",
+  "first_page_order": 337,
+  "last_page_order": 337
+}

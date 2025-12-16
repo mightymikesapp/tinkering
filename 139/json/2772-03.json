@@ -1,0 +1,82 @@
+{
+  "id": 12621960,
+  "name": "Nicholas HONCHARIW, petitioner, v. COUNTY OF STANISLAUS, CALIFORNIA, et al.",
+  "name_abbreviation": "Honchariw v. Cnty. of Stanislaus",
+  "decision_date": "2019-06-28",
+  "docket_number": "No. 18\u2013294.",
+  "first_page": "2772",
+  "last_page": "2772",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 2772"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2162",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620608
+      ],
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2162-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 493,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636267597068401
+    },
+    "sha256": "b0075205968c952574fa94393c3943be76fe3156e97d9312375eb1897c6326f6",
+    "simhash": "1:13af6284bd47179f",
+    "word_count": 78
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nicholas HONCHARIW, petitioner,\nv.\nCOUNTY OF STANISLAUS, CALIFORNIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of Knick v. Township of Scott, 588 U.S. ----, 139 S.Ct. 2162, --- L.E.2d ---- (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "Nicholas HONCHARIW, petitioner,\nv.\nCOUNTY OF STANISLAUS, CALIFORNIA, et al.\nNo. 18-294.\nSupreme Court of the United States\nJune 28, 2019.\nOn petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Ninth Circuit for further consideration in light of Knick v. Township of Scott, 588 U.S. ----, 139 S.Ct. 2162, --- L.E.2d ---- (2019)."
+  },
+  "file_name": "2772-03",
+  "first_page_order": 2772,
+  "last_page_order": 2772
+}

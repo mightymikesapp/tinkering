@@ -1,0 +1,64 @@
+{
+  "id": 12612199,
+  "name": "In Re Adem ALBRA, petitioner.",
+  "name_abbreviation": "In re Albra",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139641.",
+  "first_page": "173",
+  "last_page": "173",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 173"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 131,
+    "sha256": "51ebd719cf0bfcb486c4043802e4086ad611fc17d79a7d9e8a33b0e8f7639e77",
+    "simhash": "1:cb6f52747ea8b33f",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Adem ALBRA, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Adem ALBRA, petitioner.\nNo. 16-9641.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0173-03",
+  "first_page_order": 173,
+  "last_page_order": 173
+}

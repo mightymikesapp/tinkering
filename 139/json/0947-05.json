@@ -1,0 +1,107 @@
+{
+  "id": 12624843,
+  "name": "Willie Seth CRAIN, Jr., petitioner, v. FLORIDA.",
+  "name_abbreviation": "Crain v. Florida",
+  "decision_date": "2019-01-22",
+  "docket_number": "No. 18\u20136882.",
+  "first_page": "947",
+  "last_page": "947",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 947"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "202 L.Ed.2d 389",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12623114,
+        12621483
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0478-05",
+        "/s-ct/139/0027-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 27",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12621483
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/0027-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 384,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26364008094680424
+    },
+    "sha256": "c1b65126cdbe165ca7c4db55049d707673061eb84b67aa012d864d0bdcad9a76",
+    "simhash": "1:fbe1141c6e2dc546",
+    "word_count": 61
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Willie Seth CRAIN, Jr., petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied. Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, 202 L.Ed.2d 389 (2018) (Sotomayor, J., dissenting)."
+    ],
+    "corrections": "",
+    "head_matter": "Willie Seth CRAIN, Jr., petitioner,\nv.\nFLORIDA.\nNo. 18-6882.\nSupreme Court of the United States\nJan. 22, 2019.\nPetition for writ of certiorari to the Supreme Court of Florida denied. Justice SOTOMAYOR, dissenting from the denial of certiorari: I dissent for the reasons set out in Reynolds v. Florida, 586 U.S. ----, 139 S.Ct. 27, 202 L.Ed.2d 389 (2018) (Sotomayor, J., dissenting)."
+  },
+  "file_name": "0947-05",
+  "first_page_order": 947,
+  "last_page_order": 947
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12624296,
+  "name": "Carlos COSME, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cosme v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136623.",
+  "first_page": "830",
+  "last_page": "830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 830"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 603"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "77acb18007ccc427e99a7ed6e1dbcdce72393b1998886e28e70abcd6b3525595",
+    "simhash": "1:f3af64413e86d705",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos COSME, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos COSME, petitioner,\nv.\nUNITED STATES.\nNo. 18-6623.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0830-02",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

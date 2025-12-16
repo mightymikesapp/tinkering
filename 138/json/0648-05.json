@@ -1,0 +1,64 @@
+{
+  "id": 12616120,
+  "name": "Gustavo VENTA, petitioner, v. Tamyra JARVIS, Warden.",
+  "name_abbreviation": "Venta v. Jarvis",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136099.",
+  "first_page": "648",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 648"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 546"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 219,
+    "sha256": "8a54ac1120c95e98cd89e36495e19915e826028a1f886bfba04cbda5eebdfcce",
+    "simhash": "1:78ee52447227448f",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gustavo VENTA, petitioner,\nv.\nTamyra JARVIS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gustavo VENTA, petitioner,\nv.\nTamyra JARVIS, Warden.\nNo. 17-6099.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0648-05",
+  "first_page_order": 648,
+  "last_page_order": 649
+}

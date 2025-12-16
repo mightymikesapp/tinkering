@@ -1,0 +1,62 @@
+{
+  "id": 12615535,
+  "name": "In the Matter of DISCIPLINE OF William James MEACHAM.",
+  "name_abbreviation": "In re Meacham",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. D\u20133009.",
+  "first_page": "498",
+  "last_page": "498",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 498"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 380"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 368,
+    "sha256": "cd8d2f5179524cdd90f43a8110ae2b42a73b9b48b6d9d521dcdd1e7654659f75",
+    "simhash": "1:608a71a43fcab7e2",
+    "word_count": 64
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF William James MEACHAM."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF William James MEACHAM.\nNo. D-3009.\nSupreme Court of the United States\nNov. 27, 2017.\nWilliam James Meacham, of Edwardsville, Illinois, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0498-03",
+  "first_page_order": 498,
+  "last_page_order": 498
+}

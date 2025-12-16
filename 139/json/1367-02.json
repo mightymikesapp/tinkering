@@ -1,0 +1,64 @@
+{
+  "id": 12618735,
+  "name": "In Re Charlette Dufray JOHNSON, petitioner.",
+  "name_abbreviation": "In re Johnson",
+  "decision_date": "2019-03-18",
+  "docket_number": "No. 18\u20138080.",
+  "first_page": "1367",
+  "last_page": "1367",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1367"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 604"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "b393b3cbc0ee4a03fe48dfdd339b419c6f7c94fe6ef1782abfe0451466f345bb",
+    "simhash": "1:4a6d44601ed9c151",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Charlette Dufray JOHNSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Charlette Dufray JOHNSON, petitioner.\nNo. 18-8080.\nSupreme Court of the United States\nMarch 18, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1367-02",
+  "first_page_order": 1367,
+  "last_page_order": 1367
+}

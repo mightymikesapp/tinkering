@@ -1,0 +1,64 @@
+{
+  "id": 12624324,
+  "name": "Gary Jefferson BYRD, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Byrd v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u2013633.",
+  "first_page": "834",
+  "last_page": "834",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 834"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 581"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "0f49391a1b3ade8a07dc8191a211e0d58298708b7f0ac9a5500e6e640a915b4d",
+    "simhash": "1:f9ed64c4328dc625",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gary Jefferson BYRD, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gary Jefferson BYRD, petitioner,\nv.\nUNITED STATES.\nNo. 18-633.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0834-06",
+  "first_page_order": 834,
+  "last_page_order": 834
+}

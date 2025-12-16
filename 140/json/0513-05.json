@@ -1,0 +1,64 @@
+{
+  "id": 12629298,
+  "name": "Lewis BROWN, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-6189",
+  "first_page": "513",
+  "last_page": "513",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 513"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 330"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 285,
+    "sha256": "83a3812cc6e804fa2aabfb6a8a061f1c9211b99d93b91a95545dc9aa3015d2b5",
+    "simhash": "1:f8a56244370ed607",
+    "word_count": 47
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lewis BROWN, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Kagan took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Kagan took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lewis BROWN, Petitioner\nv.\nUNITED STATES\nNo. 19-6189\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0513-05",
+  "first_page_order": 513,
+  "last_page_order": 513
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12629812,
+  "name": "Robert GRAY, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Gray v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9319",
+  "first_page": "63",
+  "last_page": "63",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 63"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 71"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "9c4582945e7de9d7a2ce08b9966aaefd10e09c081ab65b32f56b5ed60d5e480c",
+    "simhash": "1:f2ef76c43704d31d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert GRAY, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert GRAY, Petitioner,\nv.\nUNITED STATES.\nNo. 18-9319\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0063-02",
+  "first_page_order": 63,
+  "last_page_order": 63
+}

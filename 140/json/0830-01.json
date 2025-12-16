@@ -1,0 +1,64 @@
+{
+  "id": 12630254,
+  "name": "John Garrett SMITH, Petitioner, v. Ronald HAYNES.",
+  "name_abbreviation": "Smith v. Haynes",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6577",
+  "first_page": "830",
+  "last_page": "830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 830"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 487"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 216,
+    "sha256": "d7f45ef68e2e1c185272e2b06d6da9619cb6dc103de1e4a46b9fd3bc876f0308",
+    "simhash": "1:e3b776443b0407aa",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Garrett SMITH, Petitioner,\nv.\nRonald HAYNES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Garrett SMITH, Petitioner,\nv.\nRonald HAYNES.\nNo. 19-6577\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0830-01",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

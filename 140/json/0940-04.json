@@ -1,0 +1,64 @@
+{
+  "id": 12630811,
+  "name": "Robert H. SMITH, Petitioner v. INDIANA",
+  "name_abbreviation": "Smith v. Indiana",
+  "decision_date": "2020-01-21",
+  "docket_number": "No. 19-6691",
+  "first_page": "940",
+  "last_page": "940",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 940"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 526"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 180,
+    "sha256": "157c355999ea4793c97ed84d11a88a2cbe3406324cc607e1224749b5775222b4",
+    "simhash": "1:7bff56ce238985b7",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert H. SMITH, Petitioner\nv.\nINDIANA"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Indiana denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert H. SMITH, Petitioner\nv.\nINDIANA\nNo. 19-6691\nSupreme Court of the United States.\nJanuary 21, 2020\nPetition for writ of certiorari to the Court of Appeals of Indiana denied."
+  },
+  "file_name": "0940-04",
+  "first_page_order": 940,
+  "last_page_order": 940
+}

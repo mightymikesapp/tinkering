@@ -1,0 +1,64 @@
+{
+  "id": 12628504,
+  "name": "Alpidio GONZALEZ, Petitioner v. Ralph HANSON, Warden",
+  "name_abbreviation": "Gonzalez v. Hanson",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9842",
+  "first_page": "333",
+  "last_page": "333",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 333"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 295,
+    "sha256": "f383c101cc3cb02bafcea4b2cd74efa5178dca2d637d4725b02ba684cf3e3914",
+    "simhash": "1:fbbf70c43784dbc6",
+    "word_count": 48
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alpidio GONZALEZ, Petitioner\nv.\nRalph HANSON, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Kagan took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Kagan took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alpidio GONZALEZ, Petitioner\nv.\nRalph HANSON, Warden\nNo. 18-9842\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0333-05",
+  "first_page_order": 333,
+  "last_page_order": 333
+}

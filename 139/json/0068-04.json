@@ -1,0 +1,83 @@
+{
+  "id": 12623899,
+  "name": "Nathaniel PEMBROOK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Pembrook v. United States",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138608.",
+  "first_page": "68",
+  "last_page": "68",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 68"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1204",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610616
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 523,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26363872951666295
+    },
+    "sha256": "061a9d5cf283a6fed675c58cd983f8a9e5497f7210e6c29cf9f265af1458e210",
+    "simhash": "1:f6ad60448b038699",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nathaniel PEMBROOK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Nathaniel PEMBROOK, petitioner,\nv.\nUNITED STATES.\nNo. 17-8608.\nSupreme Court of the United States\nOct. 1, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+  },
+  "file_name": "0068-04",
+  "first_page_order": 68,
+  "last_page_order": 68
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12622783,
+  "name": "George BRISCOE, petitioner, v. TEXAS.",
+  "name_abbreviation": "Briscoe v. Texas",
+  "decision_date": "2018-10-29",
+  "docket_number": "No. 18\u2013255.",
+  "first_page": "425",
+  "last_page": "425",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 425"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 317"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 190,
+    "sha256": "9f991121d85157e73fcb580a267e6f6d90790342cc6398a217bb20d1617dabd0",
+    "simhash": "1:6cbb6253f2c505fc",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George BRISCOE, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Sixth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "George BRISCOE, petitioner,\nv.\nTEXAS.\nNo. 18-255.\nSupreme Court of the United States\nOct. 29, 2018.\nPetition for writ of certiorari to the Court of Appeals of Texas, Sixth District denied."
+  },
+  "file_name": "0425-03",
+  "first_page_order": 425,
+  "last_page_order": 425
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12616584,
+  "name": "In Re Garvester BRACKEN, petitioner.",
+  "name_abbreviation": "In re Bracken",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20137077.",
+  "first_page": "719",
+  "last_page": "719",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 719"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 143,
+    "sha256": "30e127982c316ddd7151fdc713d04576a1e1ec5752ebebe221b1def3f327ae4f",
+    "simhash": "1:683750c43aebc55c",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Garvester BRACKEN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Garvester BRACKEN, petitioner.\nNo. 17-7077.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0719-02",
+  "first_page_order": 719,
+  "last_page_order": 719
+}

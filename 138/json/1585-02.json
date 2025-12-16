@@ -1,0 +1,62 @@
+{
+  "id": 12611775,
+  "name": "State of MISSOURI, et al., plaintiffs, v. State of CALIFORNIA.",
+  "name_abbreviation": "Missouri v. California",
+  "decision_date": "2018-04-16",
+  "docket_number": "No. 148, Original.",
+  "first_page": "1585",
+  "last_page": "1585",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1585"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 739"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 239,
+    "sha256": "5b205895b7e4a6df117255bce9967110d93bba840423088347a7ac1d6641831e",
+    "simhash": "1:f2e514083f0bc45b",
+    "word_count": 41
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of MISSOURI, et al., plaintiffs,\nv.\nState of CALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "State of MISSOURI, et al., plaintiffs,\nv.\nState of CALIFORNIA.\nNo. 148, Original.\nSupreme Court of the United States\nApril 16, 2018.\nThe Solicitor General is invited to file a brief in this case expressing the views of the United States."
+  },
+  "file_name": "1585-02",
+  "first_page_order": 1585,
+  "last_page_order": 1585
+}

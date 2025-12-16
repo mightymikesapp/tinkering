@@ -1,0 +1,64 @@
+{
+  "id": 12629586,
+  "name": "William T. WINDSOR, Petitioner v. DELAWARE",
+  "name_abbreviation": "Windsor v. Delaware",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 18-9660",
+  "first_page": "567",
+  "last_page": "567",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 567"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 141,
+    "sha256": "cd516eb124ee686155f6f63f34d69bb79877d30fdb3e2da820d3b3677fefb52f",
+    "simhash": "1:12b50c8457f18081",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William T. WINDSOR, Petitioner\nv.\nDELAWARE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "William T. WINDSOR, Petitioner\nv.\nDELAWARE\nNo. 18-9660\nSupreme Court of the United States.\nNovember 25, 2019\nPetition for rehearing denied."
+  },
+  "file_name": "0567-03",
+  "first_page_order": 567,
+  "last_page_order": 567
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12614437,
+  "name": "Patrick Lamar ADGER, petitioner, v. TEXAS.",
+  "name_abbreviation": "Adger v. Texas",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135488.",
+  "first_page": "325",
+  "last_page": "325",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 325"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 219"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 196,
+    "sha256": "8b43442be72bb56faef40c41ed8139d70c0d3811efb8a2a9b9e15c320d5d759b",
+    "simhash": "1:f8eff65ed6c78ef9",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick Lamar ADGER, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Fifth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick Lamar ADGER, petitioner,\nv.\nTEXAS.\nNo. 17-5488.\nSupreme Court of the United States\nOct. 10, 2017.\nPetition for writ of certiorari to the Court of Appeals of Texas, Fifth District denied."
+  },
+  "file_name": "0325-02",
+  "first_page_order": 325,
+  "last_page_order": 325
+}

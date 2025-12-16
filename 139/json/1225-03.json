@@ -1,0 +1,64 @@
+{
+  "id": 12617807,
+  "name": "Robert WILLIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Willis v. United States",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18\u20137323.",
+  "first_page": "1225",
+  "last_page": "1225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1225"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 241"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "707324f0be734db95057b4e281bc7b23bf59d781c268b668f4499e03817a6949",
+    "simhash": "1:79ed74443b44d405",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert WILLIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert WILLIS, petitioner,\nv.\nUNITED STATES.\nNo. 18-7323.\nSupreme Court of the United States\nFeb. 19, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1225-03",
+  "first_page_order": 1225,
+  "last_page_order": 1225
+}

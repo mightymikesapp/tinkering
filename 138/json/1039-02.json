@@ -1,0 +1,64 @@
+{
+  "id": 12610282,
+  "name": "Bill STOLLER, petitioner, v. CITY OF PHOENIX, ARIZONA, et al.",
+  "name_abbreviation": "Stoller v. City of Phx.",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17M80.",
+  "first_page": "1039",
+  "last_page": "1039",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1039"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 213,
+    "sha256": "3bdf95c6bd20f935ff1f4d8d4dd624f9a2f67591b5a77dd93d5501e1c720ddec",
+    "simhash": "1:78c7c2268b491137",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bill STOLLER, petitioner,\nv.\nCITY OF PHOENIX, ARIZONA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bill STOLLER, petitioner,\nv.\nCITY OF PHOENIX, ARIZONA, et al.\nNo. 17M80.\nSupreme Court of the United States\nFeb. 20, 2018.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "1039-02",
+  "first_page_order": 1039,
+  "last_page_order": 1039
+}

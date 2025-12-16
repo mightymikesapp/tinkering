@@ -1,0 +1,64 @@
+{
+  "id": 12628029,
+  "name": "Gregory DANIELS, Petitioner v. UNITED STATES.",
+  "name_abbreviation": "Daniels v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5408",
+  "first_page": "280",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 280"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 212,
+    "sha256": "6101aa787be77e7ee9bb1d402c0f3eecc157122615b3a9f3dc5e34b3c0fb8ef2",
+    "simhash": "1:7aad544c3b805b25",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory DANIELS, Petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory DANIELS, Petitioner\nv.\nUNITED STATES.\nNo. 19-5408\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0280-05",
+  "first_page_order": 280,
+  "last_page_order": 280
+}

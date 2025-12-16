@@ -1,0 +1,62 @@
+{
+  "id": 12628446,
+  "name": "In the Matter of DISCIPLINE OF Maurice Rudolph FRANKS.",
+  "name_abbreviation": "In re Franks",
+  "decision_date": "2019-08-23",
+  "docket_number": "No. D\u20133052.",
+  "first_page": "32",
+  "last_page": "32",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 32"
+    },
+    {
+      "type": "parallel",
+      "cite": "204 L. Ed. 2d 1187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 365,
+    "sha256": "0955b5e8217905ee6ed443ba82204d2d0969f1d0c204aa2cbc91949e3b9c4ab6",
+    "simhash": "1:788f44bebefa27e3",
+    "word_count": 64
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Maurice Rudolph FRANKS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Maurice Rudolph FRANKS.\nNo. D-3052.\nSupreme Court of the United States\nAug. 23, 2019.\nMaurice Rudolph Franks, of Baker, Louisiana, is suspended from the practice of law in this Court, and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0032-03",
+  "first_page_order": 32,
+  "last_page_order": 32
+}

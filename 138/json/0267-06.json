@@ -1,0 +1,64 @@
+{
+  "id": 12613820,
+  "name": "Steve McGary CARROLL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Carroll v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135497.",
+  "first_page": "267",
+  "last_page": "267",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 267"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 171"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "925b3950f349ef03544bd24390b2182b07dbfe5e9beeb61f74074b315ecc187e",
+    "simhash": "1:d6aee4451f24561d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steve McGary CARROLL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steve McGary CARROLL, petitioner,\nv.\nUNITED STATES.\nNo. 17-5497.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0267-06",
+  "first_page_order": 267,
+  "last_page_order": 267
+}

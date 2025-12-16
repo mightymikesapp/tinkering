@@ -1,0 +1,64 @@
+{
+  "id": 12618840,
+  "name": "Tylon HUDSON, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Hudson v. Illinois",
+  "decision_date": "2019-03-25",
+  "docket_number": "No. 18\u20137534.",
+  "first_page": "1381",
+  "last_page": "1381",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1381"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 616"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "db064a7a0f0fd9696af0bf697d5b5d6b0f1014e036ac897054f4c983aa66b2b5",
+    "simhash": "1:f0bf57967819e111",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tylon HUDSON, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First district denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tylon HUDSON, petitioner,\nv.\nILLINOIS.\nNo. 18-7534.\nSupreme Court of the United States\nMarch 25, 2019.\nPetition for writ of certiorari to the Appellate Court of Illinois, First district denied."
+  },
+  "file_name": "1381-06",
+  "first_page_order": 1381,
+  "last_page_order": 1381
+}

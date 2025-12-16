@@ -1,0 +1,62 @@
+{
+  "id": 12630246,
+  "name": "Sean M. DONAHUE, Petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Donahue v. Pennsylvania",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6628",
+  "first_page": "829",
+  "last_page": "829",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 829"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 209,
+    "sha256": "6c7b9f716612320e996f73e4e9a18086fb9e2e0d19079fc85673fd2e01f8f91c",
+    "simhash": "1:e99b545c428817d0",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sean M. DONAHUE, Petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Sean M. DONAHUE, Petitioner,\nv.\nPENNSYLVANIA.\nNo. 19-6628\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Harrisburg Office denied."
+  },
+  "file_name": "0829-04",
+  "first_page_order": 829,
+  "last_page_order": 829
+}

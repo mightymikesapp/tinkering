@@ -1,0 +1,64 @@
+{
+  "id": 12624074,
+  "name": "Edward LANG, petitioner, v. David BOBBY, Warden.",
+  "name_abbreviation": "Lang v. Bobby",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136174.",
+  "first_page": "798",
+  "last_page": "798",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 798"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 588"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 212,
+    "sha256": "219a03ca459834d63551077ee6a650f6fb137264b6e79b3c77aeee43d31dd2b0",
+    "simhash": "1:e2efe0443388c124",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Edward LANG, petitioner,\nv.\nDavid BOBBY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Edward LANG, petitioner,\nv.\nDavid BOBBY, Warden.\nNo. 18-6174.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0798-04",
+  "first_page_order": 798,
+  "last_page_order": 798
+}

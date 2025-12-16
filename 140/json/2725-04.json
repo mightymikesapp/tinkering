@@ -1,0 +1,64 @@
+{
+  "id": 12627616,
+  "name": "Freddy GARCIA, Petitioner, v. TEXAS.",
+  "name_abbreviation": "Garcia v. Texas",
+  "decision_date": "2020-04-27",
+  "docket_number": "No. 19-7779.",
+  "first_page": "2725",
+  "last_page": "2725",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2725"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 858"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 184,
+    "sha256": "00be193300447216d8c1e37c43afce71b7fdb7104dee17fc995c79f2bd2c0485",
+    "simhash": "1:798bf4b6a2c94db0",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Freddy GARCIA, Petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Freddy GARCIA, Petitioner,\nv.\nTEXAS.\nNo. 19-7779.\nSupreme Court of the United States.\nApril 27, 2020\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "2725-04",
+  "first_page_order": 2725,
+  "last_page_order": 2725
+}

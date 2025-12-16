@@ -1,0 +1,64 @@
+{
+  "id": 12626536,
+  "name": "BANK OF LOUISIANA, et al., Petitioners, v. FEDERAL DEPOSIT INSURANCE CORPORATION.",
+  "name_abbreviation": "Bank of La. v. Fed. Deposit Ins. Corp.",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-15",
+  "first_page": "227",
+  "last_page": "227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 227"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 122"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 245,
+    "sha256": "bd01df54a037e0b501f399c125cc4f9a15a041f25b038cc264f6dac736ebf972",
+    "simhash": "1:e3ae64cc3781132d",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BANK OF LOUISIANA, et al., Petitioners,\nv.\nFEDERAL DEPOSIT INSURANCE CORPORATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "BANK OF LOUISIANA, et al., Petitioners,\nv.\nFEDERAL DEPOSIT INSURANCE CORPORATION.\nNo. 19-15\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0227-04",
+  "first_page_order": 227,
+  "last_page_order": 227
+}

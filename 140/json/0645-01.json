@@ -1,0 +1,64 @@
+{
+  "id": 12629899,
+  "name": "Jorge L. MEDINA, Petitioner v. William P. BARR, Attorney General",
+  "name_abbreviation": "Medina v. Barr",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-287",
+  "first_page": "645",
+  "last_page": "645",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 645"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 386"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 245,
+    "sha256": "53c5a436b04e63b792f2a116e9504a466ff3df2e35fea7a1a056974bc79e76e9",
+    "simhash": "1:7fefc2443704a329",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jorge L. MEDINA, Petitioner\nv.\nWilliam P. BARR, Attorney General"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jorge L. MEDINA, Petitioner\nv.\nWilliam P. BARR, Attorney General\nNo. 19-287\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "0645-01",
+  "first_page_order": 645,
+  "last_page_order": 645
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12622460,
+  "name": "David R. SMITH, petitioner, v. TENNESSEE NATIONAL GUARD.",
+  "name_abbreviation": "Smith v. Tenn. Nat'l Guard",
+  "decision_date": "2018-10-09",
+  "docket_number": "No. 18\u2013312.",
+  "first_page": "354",
+  "last_page": "354",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 354"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 226"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 210,
+    "sha256": "4e07b885407fb2b16bf9c0172439c56553dcd1aee2e8ac1f7d56f3c4becf835a",
+    "simhash": "1:d8aff41478a54178",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David R. SMITH, petitioner,\nv.\nTENNESSEE NATIONAL GUARD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Tennessee, Middle Division denied."
+    ],
+    "corrections": "",
+    "head_matter": "David R. SMITH, petitioner,\nv.\nTENNESSEE NATIONAL GUARD.\nNo. 18-312.\nSupreme Court of the United States\nOct. 9, 2018.\nPetition for writ of certiorari to the Supreme Court of Tennessee, Middle Division denied."
+  },
+  "file_name": "0354-03",
+  "first_page_order": 354,
+  "last_page_order": 354
+}

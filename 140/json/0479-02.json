@@ -1,0 +1,64 @@
+{
+  "id": 12629108,
+  "name": "George BERKA, Petitioner, v. CITY OF MIDDLETOWN, Connecticut.",
+  "name_abbreviation": "Berka v. City of Middletown",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 18-7806",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 479"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 206,
+    "sha256": "d4700317225e06e5cd5a0c89102281e64e8c250b4b2976df2a7a1d6d05e41087",
+    "simhash": "1:f4e7f20492638331",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George BERKA, Petitioner,\nv.\nCITY OF MIDDLETOWN, Connecticut."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Connecticut denied."
+    ],
+    "corrections": "",
+    "head_matter": "George BERKA, Petitioner,\nv.\nCITY OF MIDDLETOWN, Connecticut.\nNo. 18-7806\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of certiorari to the Appellate Court of Connecticut denied."
+  },
+  "file_name": "0479-02",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

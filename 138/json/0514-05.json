@@ -1,0 +1,64 @@
+{
+  "id": 12615634,
+  "name": "In Re Robert K. HUDNALL, petitioner.",
+  "name_abbreviation": "In re Hudnall",
+  "decision_date": "2017-12-04",
+  "docket_number": "No. 17\u2013485.",
+  "first_page": "514",
+  "last_page": "514",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 514"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 409"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 137,
+    "sha256": "fab58f1427d0c151bb76c8256ce21fe98a77e041da695d8e828597ab1e54f5ad",
+    "simhash": "1:7a871254f483615f",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Robert K. HUDNALL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Robert K. HUDNALL, petitioner.\nNo. 17-485.\nSupreme Court of the United States\nDec. 4, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0514-05",
+  "first_page_order": 514,
+  "last_page_order": 514
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12612389,
+  "name": "In Re Edwin CULP, petitioner.",
+  "name_abbreviation": "In re Culp",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135065.",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 198"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 195"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 131,
+    "sha256": "bff377eadc48fbe8bc99ee6c94ffe0139c11c0d23bb4cb4c2675b50852324fb1",
+    "simhash": "1:f34e4274fead157a",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Edwin CULP, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Edwin CULP, petitioner.\nNo. 17-5065.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0198-07",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

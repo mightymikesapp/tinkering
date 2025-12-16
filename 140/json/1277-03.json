@@ -1,0 +1,64 @@
+{
+  "id": 12625680,
+  "name": "Michael J. WALTON, Petitioner, v. Jack KOWALSKI, Warden.",
+  "name_abbreviation": "Walton v. Kowalski",
+  "decision_date": "2020-03-02",
+  "docket_number": "No. 19-7150",
+  "first_page": "1277",
+  "last_page": "1277",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1277"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 261"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 220,
+    "sha256": "2f3aee85e48217f985d0eed86fdadb84d1af70ad779da1c81cdf85877bc1b029",
+    "simhash": "1:eaad75443f880b89",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael J. WALTON, Petitioner,\nv.\nJack KOWALSKI, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael J. WALTON, Petitioner,\nv.\nJack KOWALSKI, Warden.\nNo. 19-7150\nSupreme Court of the United States.\nMarch 2, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1277-03",
+  "first_page_order": 1277,
+  "last_page_order": 1277
+}

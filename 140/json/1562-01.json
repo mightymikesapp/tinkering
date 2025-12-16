@@ -1,0 +1,64 @@
+{
+  "id": 12626043,
+  "name": "Kevin M. MERCK, Petitioner, v. MINNESOTA SUPREME COURT, et al.",
+  "name_abbreviation": "Merck v. Minn. Supreme Court",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19-6744.",
+  "first_page": "1562",
+  "last_page": "1562",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1562"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 388"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 159,
+    "sha256": "5db608c2a540996541364023b03bf695b2927afecdc66b5a0b986471f9cfd52c",
+    "simhash": "1:d2a03c10158346c2",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin M. MERCK, Petitioner,\nv.\nMINNESOTA SUPREME COURT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin M. MERCK, Petitioner,\nv.\nMINNESOTA SUPREME COURT, et al.\nNo. 19-6744.\nSupreme Court of the United States.\nMarch 9, 2020.\nPetition for rehearing denied."
+  },
+  "file_name": "1562-01",
+  "first_page_order": 1562,
+  "last_page_order": 1562
+}

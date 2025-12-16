@@ -1,0 +1,64 @@
+{
+  "id": 12614744,
+  "name": "David OPALINSKI, et al., petitioners, v. ROBERT HALF INTERNATIONAL, INC., et al.",
+  "name_abbreviation": "Opalinski v. Robert Half Int'l, Inc.",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 16\u20131456.",
+  "first_page": "378",
+  "last_page": "378",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 378"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 324,
+    "sha256": "02a0aad3edae13e6ff3f68c6d341506dc14524a0448fec0c60897e18550ced80",
+    "simhash": "1:b97e72c4b1001769",
+    "word_count": 53
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David OPALINSKI, et al., petitioners,\nv.\nROBERT HALF INTERNATIONAL, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice GORSUCH took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice GORSUCH took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David OPALINSKI, et al., petitioners,\nv.\nROBERT HALF INTERNATIONAL, INC., et al.\nNo. 16-1456.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0378-01",
+  "first_page_order": 378,
+  "last_page_order": 378
+}

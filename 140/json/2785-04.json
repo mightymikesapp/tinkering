@@ -1,0 +1,71 @@
+{
+  "id": 12627940,
+  "name": "Carolyn R. DAWSON, Petitioner, v. BANK OF NEW YORK MELLON, et al.",
+  "name_abbreviation": "Dawson v. Bank of N.Y. Mellon",
+  "decision_date": "2020-05-18",
+  "docket_number": "No. 19-8171.",
+  "first_page": "2785",
+  "last_page": "2785",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2785"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 950"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "797 Fed.Appx. 816",
+      "category": "reporters:federal",
+      "reporter": "Fed. Appx.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 260,
+    "sha256": "8b6f33f643550c819e4c9bcdb8e57eff6ba996b8a588c60b194ecc3cd3c22aa4",
+    "simhash": "1:6eae5645b72d028f",
+    "word_count": 45
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carolyn R. DAWSON, Petitioner,\nv.\nBANK OF NEW YORK MELLON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carolyn R. DAWSON, Petitioner,\nv.\nBANK OF NEW YORK MELLON, et al.\nNo. 19-8171.\nSupreme Court of the United States.\nMay 18, 2020\nCase below, 797 Fed.Appx. 816.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "2785-04",
+  "first_page_order": 2785,
+  "last_page_order": 2785
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12615161,
+  "name": "C. Gordan DILLARD, petitioner, v. OREGON, et al.",
+  "name_abbreviation": "Dillard v. Oregon",
+  "decision_date": "2017-11-06",
+  "docket_number": "No. 17M54.",
+  "first_page": "439",
+  "last_page": "439",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 439"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 199,
+    "sha256": "9962cb7a8f64293362231880c378a61acfd405e2d00654c7411e9be3a6d6fac1",
+    "simhash": "1:3cc65006d389311f",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. Gordan DILLARD, petitioner,\nv.\nOREGON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "C. Gordan DILLARD, petitioner,\nv.\nOREGON, et al.\nNo. 17M54.\nSupreme Court of the United States\nNov. 6, 2017.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0439-06",
+  "first_page_order": 439,
+  "last_page_order": 439
+}

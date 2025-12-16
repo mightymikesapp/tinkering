@@ -1,0 +1,94 @@
+{
+  "id": 12622824,
+  "name": "David Gerard JEEP, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jeep v. United States",
+  "decision_date": "2018-10-29",
+  "docket_number": "No. 18\u20135856.",
+  "first_page": "431",
+  "last_page": "431",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 431"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 81,
+    "char_count": 686,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26363216542740525
+    },
+    "sha256": "3e741c672beb10c7c6566e72a7d64e4b4d9d5108f26c4255118ed67108bbe58c",
+    "simhash": "1:6deae4cf252dd63d",
+    "word_count": 113
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Gerard JEEP, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "David Gerard JEEP, petitioner,\nv.\nUNITED STATES.\nNo. 18-5856.\nSupreme Court of the United States\nOct. 29, 2018.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "0431-01",
+  "first_page_order": 431,
+  "last_page_order": 431
+}

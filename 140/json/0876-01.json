@@ -1,0 +1,64 @@
+{
+  "id": 12630475,
+  "name": "Jess Lee GREEN, Petitioner v. MISSISSIPPI",
+  "name_abbreviation": "Green v. Mississippi",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6717",
+  "first_page": "876",
+  "last_page": "877",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 876"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 494"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 187,
+    "sha256": "644d85e0768d420bab9deed0af6244e2ade2395cb63413e0c3c8cccbe59da19a",
+    "simhash": "1:69bf744c5bc0a5bd",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jess Lee GREEN, Petitioner\nv.\nMISSISSIPPI"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Mississippi denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jess Lee GREEN, Petitioner\nv.\nMISSISSIPPI\nNo. 19-6717\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the Court of Appeals of Mississippi denied."
+  },
+  "file_name": "0876-01",
+  "first_page_order": 876,
+  "last_page_order": 877
+}

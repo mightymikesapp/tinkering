@@ -1,0 +1,64 @@
+{
+  "id": 12626674,
+  "name": "Justin PANUS, Petitioner, v. TEXAS.",
+  "name_abbreviation": "Panus v. Texas",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5043",
+  "first_page": "249",
+  "last_page": "249",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 249"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 190,
+    "sha256": "d5d4d24c101cec493f11edf976511f4e007dd122109551391e56e04db98bfcc8",
+    "simhash": "1:c8cf0202b2c019a4",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Justin PANUS, Petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Third District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Justin PANUS, Petitioner,\nv.\nTEXAS.\nNo. 19-5043\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Court of Appeals of Texas, Third District denied."
+  },
+  "file_name": "0249-05",
+  "first_page_order": 249,
+  "last_page_order": 249
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12627306,
+  "name": "IN RE James Ernest FRYE, Petitioner.",
+  "name_abbreviation": "In re Frye",
+  "decision_date": "2020-04-06",
+  "docket_number": "No. 19-7884.",
+  "first_page": "2661",
+  "last_page": "2661",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2661"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 730"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "d57b18f7e7411e7509f86389d47098c107cc49645adf129a7a629da5c8d9caee",
+    "simhash": "1:466716422ac9316b",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE James Ernest FRYE, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE James Ernest FRYE, Petitioner.\nNo. 19-7884.\nSupreme Court of the United States.\nApril 6, 2020\nPetition for writ of mandamus denied."
+  },
+  "file_name": "2661-04",
+  "first_page_order": 2661,
+  "last_page_order": 2661
+}

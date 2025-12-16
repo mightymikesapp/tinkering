@@ -1,0 +1,394 @@
+{
+  "id": 12627089,
+  "name": "UPSTATE CITIZENS FOR EQUALITY, INC., et al. v. UNITED STATES, et al.; Town of Vernon, New York v. United States, et al.",
+  "name_abbreviation": "Upstate Citizens for Equal., Inc. v. United States",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 16-1320; No. 17-8",
+  "first_page": "2587",
+  "last_page": "2589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2587"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 372"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "510 U.S. 399",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        233509
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "421"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/0399-01"
+      ]
+    },
+    {
+      "cite": "125 S.Ct. 1478",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        7347689,
+        5913534
+      ],
+      "weight": 2,
+      "year": 2005,
+      "opinion_index": 0,
+      "case_paths": [
+        "/am-tribal-law/6/1478-01",
+        "/us/544/0197-01"
+      ]
+    },
+    {
+      "cite": "544 U.S. 197",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5913534
+      ],
+      "weight": 3,
+      "year": 2005,
+      "pin_cites": [
+        {
+          "page": "203, 221"
+        },
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/544/0197-01"
+      ]
+    },
+    {
+      "cite": "89 Cornell L. Rev. 1069",
+      "category": "journals:journal",
+      "reporter": "Cornell L. Rev.",
+      "pin_cites": [
+        {
+          "page": "1093-1094"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 CFR \u00a7 151.3",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "pin_cites": [
+        {
+          "parenthetical": "providing that the Secretary may take land into trust \"[w]hen the tribe already owns an interest in the land\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "195 L.Ed.2d 317",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "THOMAS, J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 S.Ct. 1954",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12172971
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1967-1969",
+          "parenthetical": "THOMAS, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/am-tribal-law/13/1954-01"
+      ]
+    },
+    {
+      "cite": "195 L.Ed.2d 179",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": "THOMAS, J., concurring in part and concurring in judgment"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 S.Ct. 1863",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12172942
+      ],
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1877",
+          "parenthetical": "THOMAS, J., concurring in part and concurring in judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/am-tribal-law/13/1863-01"
+      ]
+    },
+    {
+      "cite": "124 S.Ct. 1628",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        7345408,
+        5908820
+      ],
+      "year": 2004,
+      "pin_cites": [
+        {
+          "parenthetical": "THOMAS, J., concurring in judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/am-tribal-law/5/1628-01",
+        "/us/541/0193-01"
+      ]
+    },
+    {
+      "cite": "541 U.S. 193",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5908820
+      ],
+      "weight": 2,
+      "year": 2004,
+      "pin_cites": [
+        {
+          "page": "224",
+          "parenthetical": "THOMAS, J., concurring in judgment"
+        },
+        {
+          "parenthetical": "THOMAS, J., concurring in judgment"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/541/0193-01"
+      ]
+    },
+    {
+      "cite": "133 S.Ct. 2552",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        7342721,
+        12698479
+      ],
+      "weight": 5,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "2567",
+          "parenthetical": "THOMAS, J., concurring"
+        },
+        {
+          "page": "2567"
+        },
+        {
+          "page": "2567",
+          "parenthetical": "THOMAS, J., concurring"
+        },
+        {
+          "page": "2569-2570",
+          "parenthetical": "THOMAS, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/am-tribal-law/11/2552-01",
+        "/us/570/0637-01"
+      ]
+    },
+    {
+      "cite": "570 U.S. 637",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12698479
+      ],
+      "weight": 3,
+      "year": 2013,
+      "pin_cites": [
+        {
+          "page": "659",
+          "parenthetical": "THOMAS, J., concurring"
+        },
+        {
+          "parenthetical": "THOMAS, J., concurring"
+        },
+        {
+          "page": "662-666"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/570/0637-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 163",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        604915
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "192"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0163-01"
+      ]
+    },
+    {
+      "cite": "841 F.3d 556",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        12174700
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "564"
+        },
+        {
+          "page": "564"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/841/0556-01"
+      ]
+    },
+    {
+      "cite": "25 U.S.C. \u00a7\u00a7 1321",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 CFR \u00a7 1.4",
+      "category": "laws:admin_compilation",
+      "reporter": "C.F.R.",
+      "year": 2017,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 U.S.C. \u00a7 5108",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "parenthetical": "authorizing the Secretary to take into trust land acquired through \"relinquishment,\" \"gift,\" or \"assignment\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Stat. 985",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 456,
+    "char_count": 6773,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636535952482172
+    },
+    "sha256": "e43f5fdb3b7f7fee5c2aa56bafff0ce583abe62c258aabdb0187ffdf9e557c91",
+    "simhash": "1:316c13527b666757",
+    "word_count": 1117
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UPSTATE CITIZENS FOR EQUALITY, INC., et al.\nv.\nUNITED STATES, et al.;"
+    ],
+    "opinions": [
+      {
+        "text": "Justice THOMAS, dissenting from the denials of certiorari.\nThe Indian Reorganization Act (IRA), 48 Stat. 985, as amended, permits the Secretary of the Interior to take land into trust for individual Indians or Indian tribes. 25 U.S.C. \u00a7 5108. Once land is taken into trust under the IRA, it is exempt from almost all state control. It is no longer subject to state or local taxation. Ibid. Local zoning and regulatory requirements do not apply. 25 CFR \u00a7 1.4(a) (2017). And unless the Indian tribe consents, the State may not exercise criminal or civil jurisdiction. 25 U.S.C. \u00a7\u00a7 1321(a)(1), 1322(a). The IRA thus allows the Secretary to take state land and strip the State of almost all sovereign power over it.\nIn 2008, the Secretary invoked the IRA to take into trust more than 13,000 acres of land in upstate New York for the Oneida Nation of New York, an Indian Tribe that descended from one of the Iroquois nations. 841 F.3d 556, 564 (CA2 2016). Petitioners, a local government and several interested citizens from upstate New York, ask us to decide whether this use of the IRA is a constitutional exercise of Congress' power under the Indian Commerce Clause \"[t]o regulate Commerce ... with the Indian Tribes,\" Art. I, \u00a7 8, cl. 3. I would grant the petitions for writs of certiorari to reconsider our Indian Commerce Clause precedents.\nThose precedents have acquiesced in Congress' assertion of a \"plenary power to legislate in the field of Indian affairs.\" Cotton Petroleum Corp. v. New Mexico , 490 U.S. 163, 192, 109 S.Ct. 1698, 104 L.Ed.2d 209 (1989). But \"neither the text nor the original understanding of the [Indian Commerce] Clause supports Congress' claim to such 'plenary' power.\" Adoptive Couple v. Baby Girl , 570 U.S. 637, 659, 133 S.Ct. 2552, 2567, 186 L.Ed.2d 729 (2013) (THOMAS, J., concurring); see United States v. Lara , 541 U.S. 193, 224, 124 S.Ct. 1628, 158 L.Ed.2d 420 (2004) (THOMAS, J., concurring in judgment); Puerto Rico v. Sanchez Valle , 579 U.S. ----, ----, 136 S.Ct. 1863, 1877, 195 L.Ed.2d 179 (2016) (THOMAS, J., concurring in part and concurring in judgment); United States v. Bryant , 579 U.S. ----, ---- - ----, 136 S.Ct. 1954, 1967-1969, 195 L.Ed.2d 317 (2016) (THOMAS, J., concurring). Instead, as I have previously explained, the Clause extends only to \"regulat[ing] trade with Indian tribes-that is, Indians who had not been incorporated into the body-politic of any State.\" Adoptive Couple , supra, at 660, 133 S.Ct., at 2567.\nUnderstood this way, the Indian Commerce Clause does not appear to give Congress the power to authorize the taking of land into trust under the IRA. Even assuming that land transactions are \"Commerce\" within the scope of the Clause, but see Natelson, The Original Understanding of the Indian Commerce Clause, 85 Denver U. L. Rev. 201, 214-215, and n. 94 (2007), many applications of the IRA do not involve trade of any kind. The IRA permits the Secretary to take into trust land that an Indian tribe already owns . See 25 U.S.C. \u00a7 5108 (authorizing the Secretary to take into trust land acquired through \"relinquishment,\" \"gift,\" or \"assignment\"); 25 CFR \u00a7 151.3 (providing that the Secretary may take land into trust \"[w]hen the tribe already owns an interest in the land\"); \u00a7 151.4 (providing that the Secretary may take into trust \"[u]nrestricted land owned by an individual Indian or a tribe\"). And in cases like these, where the tribe already owns the land, neither money nor property changes hands. Instead, title is slightly modified by adding \"the United States in trust for\" in front of the name of \"the Indian tribe or individual Indian\" who owns the land. See 25 U.S.C. \u00a7 5108. This arrangement does not affect the Indian tribe's beneficial ownership of the property, and it does not afford the United States any meaningful property rights. See F. Cohen, Handbook of Federal Indian Law 997-998, 1057-1058 (2012); Prakash, Against Tribal Fungibility, 89 Cornell L. Rev. 1069, 1093-1094, and n. 152 (2004). In short, because no exchange takes place, these trust arrangements do not resemble \" 'trade with Indians.' \" Adoptive Couple , supra , at 659, 133 S.Ct., at 2567 (THOMAS, J., concurring) (quoting Natelson, supra , at 215-216 ).\nApplying our precedents, the Second Circuit concluded that the Indian Commerce Clause empowered the Federal Government to take into trust the land at issue here. In so doing, it showed how far our precedents interpreting the Indian Commerce Clause have strayed from the original understanding, and how much Congress' power has grown as a result. Asserting plenary power, Congress authorized the Secretary to take 13,000 acres of New York and to declare it sovereign Oneida territory. It did so even though the land had been under New York's sovereign control for more than two centuries. City of Sherrill v. Oneida Indian Nation of N. Y. , 544 U.S. 197, 203, 221, 125 S.Ct. 1478, 161 L.Ed.2d 386 (2005). And it did so even though restoring tribal sovereignty over the land would \" 'seriously burde[n] the administration of state and local governments' and would adversely affect landowners neighboring the tribal patches.\" Id., at 220, 125 S.Ct. 1478 (quoting Hagen v. Utah , 510 U.S. 399, 421, 114 S.Ct. 958, 127 L.Ed.2d 252 (1994) ); see also 841 F.3d at 564.\nUnder our precedents, Congress has thus obtained the power to take any state land and strip the State of almost all sovereign power over it \"for the purpose of providing land for Indians.\" 25 U.S.C. \u00a7 5108. This means Congress could reduce a State to near nonexistence by taking all land within its borders and declaring it sovereign Indian territory. It is highly implausible that the Founders understood the Indian Commerce Clause, which was virtually unopposed at the founding, as giving Congress the power to destroy the States' territorial integrity. See Adoptive Couple , 570 U.S., at 662-666, 133 S.Ct., at 2569-2570 (THOMAS, J., concurring). Indeed, they would have been shocked to find such a power lurking in a Clause they understood to give Congress the limited authority \"to regulate trade with Indian tribes living beyond state borders.\" Ibid.\nWhen our precedents permit such an absurd result, something has gone seriously awry. It is time to fix our error. We should have granted certiorari to reexamine our Indian Commerce Clause precedents, instead of standing idly by as Congress, the Executive, and the lower courts stray further and further from the Constitution.\nI respectfully dissent from the denials of certiorari.",
+        "type": "majority",
+        "author": "Justice THOMAS, dissenting from the denials of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The petitions for writs of certiorari are denied."
+    ],
+    "corrections": "",
+    "head_matter": "UPSTATE CITIZENS FOR EQUALITY, INC., et al.\nv.\nUNITED STATES, et al.;\nTown of Vernon, New York\nv.\nUnited States, et al.\nNo. 16-1320\nNo. 17-8\nSupreme Court of the United States.\nDecided November 27, 2017\nThe petitions for writs of certiorari are denied."
+  },
+  "file_name": "2587-01",
+  "first_page_order": 2587,
+  "last_page_order": 2589
+}

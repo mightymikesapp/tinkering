@@ -1,0 +1,83 @@
+{
+  "id": 12624497,
+  "name": "Quinton BANNISTER, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Bannister v. United States",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138876.",
+  "first_page": "86",
+  "last_page": "87",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 86"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1204",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610616
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1204-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 528,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.263639501762458
+    },
+    "sha256": "395b44b18fbcb095564c8943ff7c6e8681525c73352e97426ae07b6ade767880",
+    "simhash": "1:7aa4e2448b07869d",
+    "word_count": 85
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Quinton BANNISTER, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Quinton BANNISTER, petitioner,\nv.\nUNITED STATES.\nNo. 17-8876.\nSupreme Court of the United States\nOct. 1, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Sessions v. Dimaya, 584 U.S. ----, 138 S.Ct. 1204, 200 L.Ed.2d 549 (2018)."
+  },
+  "file_name": "0086-07",
+  "first_page_order": 86,
+  "last_page_order": 87
+}

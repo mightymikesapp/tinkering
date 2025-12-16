@@ -1,0 +1,64 @@
+{
+  "id": 12630238,
+  "name": "Gregory COOPER, Petitioner, v. Katy POOLE, et al.",
+  "name_abbreviation": "Cooper v. Poole",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6637",
+  "first_page": "828",
+  "last_page": "828",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 828"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 490"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 217,
+    "sha256": "54c79002009afe150dc2a978143c836efdf207769c4988125b44f8f5c177c188",
+    "simhash": "1:4affd64c7bc0955e",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory COOPER, Petitioner,\nv.\nKaty POOLE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory COOPER, Petitioner,\nv.\nKaty POOLE, et al.\nNo. 19-6637\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0828-01",
+  "first_page_order": 828,
+  "last_page_order": 828
+}

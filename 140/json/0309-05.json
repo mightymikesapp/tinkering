@@ -1,0 +1,64 @@
+{
+  "id": 12628380,
+  "name": "IN RE Thomas F. WILLIAMS, Petitioner",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-14",
+  "first_page": "309",
+  "last_page": "309",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 309"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 143,
+    "sha256": "6a1c215ac1cdd041c20ab597d94a1b8063cf85bac51ae8979c259b69f40b718d",
+    "simhash": "1:6aee105c3ad8c124",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Thomas F. WILLIAMS, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Thomas F. WILLIAMS, Petitioner\nNo. 19-14\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0309-05",
+  "first_page_order": 309,
+  "last_page_order": 309
+}

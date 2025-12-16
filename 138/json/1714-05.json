@@ -1,0 +1,64 @@
+{
+  "id": 12612164,
+  "name": "PAICE LLC, et al., petitioners, v. FORD MOTOR COMPANY.",
+  "name_abbreviation": "Paice LLC v. Ford Motor Co.",
+  "decision_date": "2018-04-30",
+  "docket_number": "No. 17\u2013220.",
+  "first_page": "1714",
+  "last_page": "1714",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1714"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 950"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 221,
+    "sha256": "068c901e0522157ea182217a1c2a15220c55a86680c358cfe35eee76a0eae3a4",
+    "simhash": "1:272fe6843b0c11ab",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PAICE LLC, et al., petitioners,\nv.\nFORD MOTOR COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "PAICE LLC, et al., petitioners,\nv.\nFORD MOTOR COMPANY.\nNo. 17-220.\nSupreme Court of the United States\nApril 30, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "1714-05",
+  "first_page_order": 1714,
+  "last_page_order": 1714
+}

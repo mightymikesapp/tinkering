@@ -1,0 +1,64 @@
+{
+  "id": 12610265,
+  "name": "In Re John E. RODARTE, petitioner.",
+  "name_abbreviation": "In re Rodarte",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20137485.",
+  "first_page": "1036",
+  "last_page": "1036",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1036"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 142,
+    "sha256": "81d1f3283b686cfe9eb76ae672da04212f968520d8b5a86843de173110d303bf",
+    "simhash": "1:68875460eaf3574e",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re John E. RODARTE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re John E. RODARTE, petitioner.\nNo. 17-7485.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1036-03",
+  "first_page_order": 1036,
+  "last_page_order": 1036
+}

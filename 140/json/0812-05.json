@@ -1,0 +1,64 @@
+{
+  "id": 12630169,
+  "name": "STATE of Arizona, Plaintiff v. Richard SACKLER, et al.",
+  "name_abbreviation": "State v. Sackler",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 151, Original.",
+  "first_page": "812",
+  "last_page": "812",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 812"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 178,
+    "sha256": "566c3db701cdde26255704881f5ee2b0cc6044e7ff0510c33c2db08466a63239",
+    "simhash": "1:cae7d0173e4337a5",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "STATE of Arizona, Plaintiff\nv.\nRichard SACKLER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a bill of complaint denied."
+    ],
+    "corrections": "",
+    "head_matter": "STATE of Arizona, Plaintiff\nv.\nRichard SACKLER, et al.\nNo. 151, Original.\nSupreme Court of the United States.\nDec. 9, 2019.\nMotion for leave to file a bill of complaint denied."
+  },
+  "file_name": "0812-05",
+  "first_page_order": 812,
+  "last_page_order": 812
+}

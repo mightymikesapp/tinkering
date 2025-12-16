@@ -1,0 +1,64 @@
+{
+  "id": 12627846,
+  "name": "John MCGILL, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "McGill v. United States",
+  "decision_date": "2020-05-18",
+  "docket_number": "No. 19-5497.",
+  "first_page": "2768",
+  "last_page": "2768",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2768"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 940"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "d6158cd7ada40b954785d939a1d707a649fb160a8a8fd8d4c5f8e4098e0b6abc",
+    "simhash": "1:7fadf644370dd4df",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John MCGILL, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John MCGILL, Petitioner,\nv.\nUNITED STATES.\nNo. 19-5497.\nSupreme Court of the United States.\nMay 18, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2768-03",
+  "first_page_order": 2768,
+  "last_page_order": 2768
+}

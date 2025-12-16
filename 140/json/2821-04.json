@@ -1,0 +1,64 @@
+{
+  "id": 12628134,
+  "name": "IN RE Michael A. YOUNG, Petitioner.",
+  "name_abbreviation": "In re Young",
+  "decision_date": "2020-05-26",
+  "docket_number": "No. 19-8284.",
+  "first_page": "2821",
+  "last_page": "2821",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2821"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 152"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 156,
+    "sha256": "f285bb98c0ae9fc30d4b9f5172e3a5697d117082af5aa0b3b5c627287a52345f",
+    "simhash": "1:fa6e42d4b85a2038",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Michael A. YOUNG, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Michael A. YOUNG, Petitioner.\nNo. 19-8284.\nSupreme Court of the United States.\nMay 26, 2020\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "2821-04",
+  "first_page_order": 2821,
+  "last_page_order": 2821
+}

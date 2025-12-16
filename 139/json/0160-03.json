@@ -1,0 +1,64 @@
+{
+  "id": 12619670,
+  "name": "In Re Jerry McCRARY, petitioner.",
+  "name_abbreviation": "In re McCrary",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20139366.",
+  "first_page": "160",
+  "last_page": "160",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 160"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "865996d1bf3740c17b76a7a8350823ba69fccd8fd9968634d024c52a00a1109c",
+    "simhash": "1:6085008c3bdc4d1a",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Jerry McCRARY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Jerry McCRARY, petitioner.\nNo. 17-9366.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0160-03",
+  "first_page_order": 160,
+  "last_page_order": 160
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12625543,
+  "name": "IN RE Paul FAHRING, Petitioner",
+  "name_abbreviation": "In re Fahring",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7029",
+  "first_page": "1250",
+  "last_page": "1250",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1250"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 136,
+    "sha256": "329410c9a75b72402c14ab58f2f52a182b5aa58fba5d9e291408a93be298250c",
+    "simhash": "1:c847d694f711f0b9",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Paul FAHRING, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Paul FAHRING, Petitioner\nNo. 19-7029\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1250-01",
+  "first_page_order": 1250,
+  "last_page_order": 1250
+}

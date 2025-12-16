@@ -1,0 +1,83 @@
+{
+  "id": 12623477,
+  "name": "Arnold FLECK, petitioner, v. Joe WETCH, et al.",
+  "name_abbreviation": "Fleck v. Wetch",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 17\u2013886.",
+  "first_page": "590",
+  "last_page": "590",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 590"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 423"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 2448",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12613066
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/2448-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 66,
+    "char_count": 665,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636369919636241
+    },
+    "sha256": "cdb5674ce24fd0e5d3541e176073166db32c6f8842848b11e300a34cf2d2c1cb",
+    "simhash": "1:1acf466e1d011788",
+    "word_count": 112
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arnold FLECK, petitioner,\nv.\nJoe WETCH, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Pacific Legal Foundation for leave to file a brief as amicus curiae granted. Motion of Kourosh Kenneth Hamidi, et al. for leave to file a brief as amici curiae granted. On petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of Janus v. State, County, and Municipal Employees, 585 U.S. ----, 138 S.Ct. 2448, 201 L.Ed.2d 924 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Arnold FLECK, petitioner,\nv.\nJoe WETCH, et al.\nNo. 17-886.\nSupreme Court of the United States\nDec. 3, 2018.\nMotion of Pacific Legal Foundation for leave to file a brief as amicus curiae granted. Motion of Kourosh Kenneth Hamidi, et al. for leave to file a brief as amici curiae granted. On petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eighth Circuit for further consideration in light of Janus v. State, County, and Municipal Employees, 585 U.S. ----, 138 S.Ct. 2448, 201 L.Ed.2d 924 (2018)."
+  },
+  "file_name": "0590-02",
+  "first_page_order": 590,
+  "last_page_order": 590
+}

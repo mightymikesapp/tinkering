@@ -1,0 +1,64 @@
+{
+  "id": 12620109,
+  "name": "George W. FISHER, petitioner, v. MISSOURI.",
+  "name_abbreviation": "Fisher v. Missouri",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20139478.",
+  "first_page": "179",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 179"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 110"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 207,
+    "sha256": "9f45f0a5e97cd8a896ff3f3c7d2d6cd6c16221337657d450e5590d6a8c5d2cd6",
+    "simhash": "1:72adf444f80705ab",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George W. FISHER, petitioner,\nv.\nMISSOURI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George W. FISHER, petitioner,\nv.\nMISSOURI.\nNo. 17-9478.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0179-02",
+  "first_page_order": 179,
+  "last_page_order": 179
+}

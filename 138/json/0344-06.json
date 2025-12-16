@@ -1,0 +1,64 @@
+{
+  "id": 12614568,
+  "name": "In Re Michael A. SVEUM, petitioner.",
+  "name_abbreviation": "In re Sveum",
+  "decision_date": "2017-10-10",
+  "docket_number": "No. 17\u20135872.",
+  "first_page": "344",
+  "last_page": "344",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 344"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 234"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 233,
+    "sha256": "fdb616078304a93df0a36b49f9c262775c24b158a5e55e83580fe564dd931a90",
+    "simhash": "1:66e9a48cc5f3875c",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Michael A. SVEUM, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Michael A. SVEUM, petitioner.\nNo. 17-5872.\nSupreme Court of the United States\nOct. 10, 2017.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8."
+  },
+  "file_name": "0344-06",
+  "first_page_order": 344,
+  "last_page_order": 344
+}

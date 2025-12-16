@@ -1,0 +1,81 @@
+{
+  "id": 12617173,
+  "name": "MURCO WALL PRODUCTS, INC., petitioner, v. Michael D. GALIER.",
+  "name_abbreviation": "Murco Wall Prods., Inc. v. Galier",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u2013733.",
+  "first_page": "982",
+  "last_page": "982",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 982"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 243"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 1773",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12604783
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/1773-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 518,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636136315283246
+    },
+    "sha256": "bea37ad2b9f742c1eb3e8a875cb491a62a37624e36cd351ff18d65dac553c08e",
+    "simhash": "1:7a9b4a4e25d39499",
+    "word_count": 83
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MURCO WALL PRODUCTS, INC., petitioner,\nv.\nMichael D. GALIER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "MURCO WALL PRODUCTS, INC., petitioner,\nv.\nMichael D. GALIER.\nNo. 17-733.\nSupreme Court of the United States\nFeb. 20, 2018.\nOn petition for writ of certiorari to the Court of Civil Appeals of Oklahoma, First Division. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Civil Appeals of Oklahoma, First Division for further consideration in light of Bristol-Myers Squibb Co. v. Superior Court of Cal., San Francisco Cty., 582 U.S. ----, 137 S.Ct. 1773, 198 L.Ed.2d 395 (2017)."
+  },
+  "file_name": "0982-03",
+  "first_page_order": 982,
+  "last_page_order": 982
+}

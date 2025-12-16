@@ -1,0 +1,64 @@
+{
+  "id": 12622648,
+  "name": "In Re Eric M. RICHARDSON, petitioner.",
+  "name_abbreviation": "In re Richardson",
+  "decision_date": "2018-10-15",
+  "docket_number": "18\u20136065.",
+  "first_page": "395",
+  "last_page": "395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 395"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 306"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 231,
+    "sha256": "6f85cdf0ea6e51b512c2bd74e338ac491b7e013cb388b35049c29f7b49d7f88a",
+    "simhash": "1:6a8f2f7e8cb1c551",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Eric M. RICHARDSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Eric M. RICHARDSON, petitioner.\n18-6065.\nSupreme Court of the United States\nOct. 15, 2018.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of habeas corpus dismissed. See Rule 39.8."
+  },
+  "file_name": "0395-05",
+  "first_page_order": 395,
+  "last_page_order": 395
+}

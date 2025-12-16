@@ -1,0 +1,64 @@
+{
+  "id": 12615484,
+  "name": "In Re Robert Ryan SNYDER, petitioner.",
+  "name_abbreviation": "In re Snyder",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 17\u2013614.",
+  "first_page": "490",
+  "last_page": "490",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 490"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 375"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "8e73808a87415d72ab2c6be677aa0989c232f8fce1d98451682c640acf5cd5f3",
+    "simhash": "1:20ce56c4fe9d4fb1",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Robert Ryan SNYDER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Robert Ryan SNYDER, petitioner.\nNo. 17-614.\nSupreme Court of the United States\nNov. 27, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0490-06",
+  "first_page_order": 490,
+  "last_page_order": 490
+}

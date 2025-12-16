@@ -1,0 +1,78 @@
+{
+  "id": 12613830,
+  "name": "Jeffrey CLARK, petitioner, v. LOUISIANA.",
+  "name_abbreviation": "Clark v. Louisiana",
+  "decision_date": "2018-06-25",
+  "docket_number": "No. 16\u20139541.",
+  "first_page": "2671",
+  "last_page": "2671",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2671"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1500",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12611469
+      ],
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1500-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 44,
+    "char_count": 464,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636024339642968
+    },
+    "sha256": "735c1165e840f2c1ed23ece78917d5e1999a08496991d3efbbcdba1bf08da87e",
+    "simhash": "1:f6a3745419d7069d",
+    "word_count": 72
+  },
+  "last_updated": "2024-02-27T18:39:19.333036+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeffrey CLARK, petitioner,\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Supreme Court of Louisiana. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Louisiana for further consideration in light of McCoy v. Louisiana, 584 U.S. ----, 138 S.Ct. 1500, --- L.Ed.2d ---- (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Jeffrey CLARK, petitioner,\nv.\nLOUISIANA.\nNo. 16-9541.\nSupreme Court of the United States\nJune 25, 2018.\nOn petition for writ of certiorari to the Supreme Court of Louisiana. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Supreme Court of Louisiana for further consideration in light of McCoy v. Louisiana, 584 U.S. ----, 138 S.Ct. 1500, --- L.Ed.2d ---- (2018)."
+  },
+  "file_name": "2671-03",
+  "first_page_order": 2671,
+  "last_page_order": 2671
+}

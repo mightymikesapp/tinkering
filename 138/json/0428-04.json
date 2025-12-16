@@ -1,0 +1,64 @@
+{
+  "id": 12615084,
+  "name": "In Re Corey Brandon EIB, petitioner.",
+  "name_abbreviation": "In re Eib",
+  "decision_date": "2017-11-06",
+  "docket_number": "No. 17\u20136032.",
+  "first_page": "428",
+  "last_page": "428",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 428"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 324"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 138,
+    "sha256": "541eda65a6dea1f0834bd96a71831e19e3d3b65916efe8dc781afc4df362b07a",
+    "simhash": "1:ca665054e6899234",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Corey Brandon EIB, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Corey Brandon EIB, petitioner.\nNo. 17-6032.\nSupreme Court of the United States\nNov. 6, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0428-04",
+  "first_page_order": 428,
+  "last_page_order": 428
+}

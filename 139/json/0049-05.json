@@ -1,0 +1,64 @@
+{
+  "id": 12623191,
+  "name": "In Re Harold B. MASON, petitioner.",
+  "name_abbreviation": "In re Mason",
+  "decision_date": "2018-08-24",
+  "docket_number": "No. 17\u20138811.",
+  "first_page": "49",
+  "last_page": "49",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 49"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 1126"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 130,
+    "sha256": "b310e5264bc847ee684e0fd2f1674bd3e464497f6da3ce0d1a3afc6b3b740cc8",
+    "simhash": "1:68b8d400368a5554",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Harold B. MASON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Harold B. MASON, petitioner.\nNo. 17-8811.\nSupreme Court of the United States\nAug. 24, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "0049-05",
+  "first_page_order": 49,
+  "last_page_order": 49
+}

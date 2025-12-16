@@ -1,0 +1,64 @@
+{
+  "id": 12611347,
+  "name": "Charles SMITH, petitioner, v. Paul ANDERSON.",
+  "name_abbreviation": "Smith v. Anderson",
+  "decision_date": "2018-04-02",
+  "docket_number": "No. 17\u20137647.",
+  "first_page": "1446",
+  "last_page": "1446",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1446"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 723"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 211,
+    "sha256": "8cc6382ac4dfc85d82b59b00a3bd64fd4b78d1aa53cd79acdaccf99c455559bc",
+    "simhash": "1:e6ae76c42b8604aa",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles SMITH, petitioner,\nv.\nPaul ANDERSON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles SMITH, petitioner,\nv.\nPaul ANDERSON.\nNo. 17-7647.\nSupreme Court of the United States\nApril 2, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1446-05",
+  "first_page_order": 1446,
+  "last_page_order": 1446
+}

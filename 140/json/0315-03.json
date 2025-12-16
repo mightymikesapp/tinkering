@@ -1,0 +1,64 @@
+{
+  "id": 12628420,
+  "name": "IN RE Kirk Wayne MCBRIDE, Sr., Petitioner",
+  "name_abbreviation": "In re McBride",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9452",
+  "first_page": "315",
+  "last_page": "315",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 315"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 241,
+    "sha256": "d8f43c820d806cdd7acad426b3f581253a2b21cc96a9f5e0452789d6ce9b9583",
+    "simhash": "1:faa5d7c204126f5f",
+    "word_count": 41
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Kirk Wayne MCBRIDE, Sr., Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and the petition for a writ of mandamus dismissed. See Rule 39.8."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Kirk Wayne MCBRIDE, Sr., Petitioner\nNo. 18-9452\nSupreme Court of the United States.\nOctober 7, 2019\nMotion of petitioner for leave to proceed in forma pauperis denied, and the petition for a writ of mandamus dismissed. See Rule 39.8."
+  },
+  "file_name": "0315-03",
+  "first_page_order": 315,
+  "last_page_order": 315
+}

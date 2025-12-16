@@ -1,0 +1,64 @@
+{
+  "id": 12618352,
+  "name": "In Re John Peyton ALEXANDER, petitioner.",
+  "name_abbreviation": "In re Alexander",
+  "decision_date": "2019-03-04",
+  "docket_number": "No. 18\u20137856.",
+  "first_page": "1306",
+  "last_page": "1306",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1306"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 148,
+    "sha256": "d7f957d205d4323a052cf133185c3a0584ee0f5add1d7f906bb935aef6e2c77a",
+    "simhash": "1:711d6044d3f8c74d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re John Peyton ALEXANDER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re John Peyton ALEXANDER, petitioner.\nNo. 18-7856.\nSupreme Court of the United States\nMarch 4, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1306-02",
+  "first_page_order": 1306,
+  "last_page_order": 1306
+}

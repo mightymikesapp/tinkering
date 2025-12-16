@@ -1,0 +1,64 @@
+{
+  "id": 12629245,
+  "name": "Valerie FLORES, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Flores v. United States",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-6177",
+  "first_page": "504",
+  "last_page": "505",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 504"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 327"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "20be7eaba6996f3c95cf7528377c687cad6a546577495635a71c1fccdc30a82f",
+    "simhash": "1:caad6646730606a5",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Valerie FLORES, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Valerie FLORES, Petitioner\nv.\nUNITED STATES\nNo. 19-6177\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0504-03",
+  "first_page_order": 504,
+  "last_page_order": 505
+}

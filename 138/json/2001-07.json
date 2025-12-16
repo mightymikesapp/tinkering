@@ -1,0 +1,64 @@
+{
+  "id": 12612523,
+  "name": "Juan Edward CASTILLO, petitioner, v. TEXAS.",
+  "name_abbreviation": "Castillo v. Texas",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 17\u20138253.",
+  "first_page": "2001",
+  "last_page": "2002",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2001"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 261"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 189,
+    "sha256": "46adc9fab31af58c76da2db21c4496621ec92a92dedd18ab029b7a39bd23cedb",
+    "simhash": "1:582b02862a8b74b9",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan Edward CASTILLO, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan Edward CASTILLO, petitioner,\nv.\nTEXAS.\nNo. 17-8253.\nSupreme Court of the United States\nMay 14, 2018.\nPetition for writ of certiorari to the Court of Criminal Appeals of Texas denied."
+  },
+  "file_name": "2001-07",
+  "first_page_order": 2001,
+  "last_page_order": 2002
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12629579,
+  "name": "John GIVENS, Petitioner v. ILLINOIS.",
+  "name_abbreviation": "Givens v. Illinois",
+  "decision_date": "2019-11-25",
+  "docket_number": "No. 18-9761",
+  "first_page": "566",
+  "last_page": "566",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 566"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "440ddec712cd0bb7912549582acab7cd33f569029a3a8ea4c073bf474c577e5c",
+    "simhash": "1:54f536165995a591",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John GIVENS, Petitioner\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "John GIVENS, Petitioner\nv.\nILLINOIS.\nNo. 18-9761\nSupreme Court of the United States.\nNovember 25, 2019\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "0566-01",
+  "first_page_order": 566,
+  "last_page_order": 566
+}

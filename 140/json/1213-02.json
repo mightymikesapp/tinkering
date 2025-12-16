@@ -1,0 +1,64 @@
+{
+  "id": 12625356,
+  "name": "Fabio MOREL, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Morel v. United States",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7130",
+  "first_page": "1213",
+  "last_page": "1213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1213"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "9c1bc61b276b32e1f005913875c46613899a2b3ac9e77f46e9fb0748e5646690",
+    "simhash": "1:7badc44c3f05dd0f",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fabio MOREL, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fabio MOREL, Petitioner,\nv.\nUNITED STATES.\nNo. 19-7130\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "1213-02",
+  "first_page_order": 1213,
+  "last_page_order": 1213
+}

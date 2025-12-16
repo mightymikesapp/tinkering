@@ -1,0 +1,64 @@
+{
+  "id": 12610354,
+  "name": "In Re Jerry M. BREWER, petitioner.",
+  "name_abbreviation": "In re Brewer",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20136356.",
+  "first_page": "1048",
+  "last_page": "1048",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1048"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 308"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 130,
+    "sha256": "56b137b007ffb6464932706ddba38360b0d6de638ccf7367a3067e4ed75a6420",
+    "simhash": "1:4c3714423f84522f",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Jerry M. BREWER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Jerry M. BREWER, petitioner.\nNo. 17-6356.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "1048-07",
+  "first_page_order": 1048,
+  "last_page_order": 1048
+}

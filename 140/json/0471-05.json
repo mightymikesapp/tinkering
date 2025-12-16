@@ -1,0 +1,64 @@
+{
+  "id": 12629073,
+  "name": "IN RE Karl David KRETSER, Jr., Petitioner.",
+  "name_abbreviation": "In re Kretser",
+  "decision_date": "2019-11-04",
+  "docket_number": "No. 19-6173",
+  "first_page": "471",
+  "last_page": "471",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 471"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 288"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 229,
+    "sha256": "9b67e2b4e81b3d014629dc957e3aeba91ea87e022deecc667a4c860400cc94fa",
+    "simhash": "1:59f7f2063764cf52",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Karl David KRETSER, Jr., Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Justice Kagan took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice Kagan took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Karl David KRETSER, Jr., Petitioner.\nNo. 19-6173\nSupreme Court of the United States.\nNovember 4, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0471-05",
+  "first_page_order": 471,
+  "last_page_order": 471
+}

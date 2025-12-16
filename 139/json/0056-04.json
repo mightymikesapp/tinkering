@@ -1,0 +1,64 @@
+{
+  "id": 12623301,
+  "name": "Francisco MONTEIRO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Monteiro v. United States",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20138041.",
+  "first_page": "56",
+  "last_page": "56",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 56"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 42"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "70b67f6e60e00abc8781b1869ac64953a28c73b25866d31a8842bdf5f301fbc0",
+    "simhash": "1:73ac62453a061659",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Francisco MONTEIRO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Francisco MONTEIRO, petitioner,\nv.\nUNITED STATES.\nNo. 17-8041.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0056-04",
+  "first_page_order": 56,
+  "last_page_order": 56
+}

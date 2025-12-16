@@ -1,0 +1,64 @@
+{
+  "id": 12624003,
+  "name": "Shannon Dale SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20135314.",
+  "first_page": "787",
+  "last_page": "787",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 787"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "7b79c6e0997de18e68c4b65e3c420df083ea2fe7d1d47e53870de6999cd0f60a",
+    "simhash": "1:e3af74c4228c4709",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shannon Dale SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Shannon Dale SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 18-5314.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0787-03",
+  "first_page_order": 787,
+  "last_page_order": 787
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12629683,
+  "name": "IN RE Lee HALL, Petitioner",
+  "name_abbreviation": "In re Hall",
+  "decision_date": "2019-12-05",
+  "docket_number": "No. 19-6860 (19A626)",
+  "first_page": "602",
+  "last_page": "602",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 602"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 379"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 36,
+    "char_count": 272,
+    "sha256": "deda04ec76433dd01948657b0409abe6c3389ce126870e99d3aec69e93c03a98",
+    "simhash": "1:68df52211f530501",
+    "word_count": 45
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Lee HALL, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay of execution of sentence of death presented to Justice Sotomayor and by her referred to the Court denied. Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Lee HALL, Petitioner\nNo. 19-6860 (19A626)\nSupreme Court of the United States.\nDecember 5, 2019\nApplication for stay of execution of sentence of death presented to Justice Sotomayor and by her referred to the Court denied. Petition for writ of habeas corpus denied."
+  },
+  "file_name": "0602-05",
+  "first_page_order": 602,
+  "last_page_order": 602
+}

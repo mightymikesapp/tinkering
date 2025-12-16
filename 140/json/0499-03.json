@@ -1,0 +1,64 @@
+{
+  "id": 12629214,
+  "name": "Ben W. BANE, Petitioner v. UNITED STATES.",
+  "name_abbreviation": "Bane v. United States",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-5960",
+  "first_page": "499",
+  "last_page": "499",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 499"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 323"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 210,
+    "sha256": "863d5792196370c8e27e4d08128d9aeec4ba3e8d4b19af55388ca47595b91fcb",
+    "simhash": "1:7aad06443f089011",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ben W. BANE, Petitioner\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ben W. BANE, Petitioner\nv.\nUNITED STATES.\nNo. 19-5960\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0499-03",
+  "first_page_order": 499,
+  "last_page_order": 499
+}

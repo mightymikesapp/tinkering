@@ -1,0 +1,64 @@
+{
+  "id": 12629359,
+  "name": "Gregory GREEN, Petitioner v. Donald BECKWITH, Warden",
+  "name_abbreviation": "Green v. Beckwith",
+  "decision_date": "2019-11-18",
+  "docket_number": "No. 19-5512",
+  "first_page": "524",
+  "last_page": "525",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 524"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 339"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 221,
+    "sha256": "c2cb07f201f77bdfc35189ab2da777e840d87a19e1182b2318a270b8b9429ea4",
+    "simhash": "1:5a6fc0443aa995b1",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Gregory GREEN, Petitioner\nv.\nDonald BECKWITH, Warden"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Gregory GREEN, Petitioner\nv.\nDonald BECKWITH, Warden\nNo. 19-5512\nSupreme Court of the United States.\nNovember 18, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0524-05",
+  "first_page_order": 524,
+  "last_page_order": 525
+}

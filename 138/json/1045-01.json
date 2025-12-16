@@ -1,0 +1,64 @@
+{
+  "id": 12610324,
+  "name": "Sergio MIRANDA, et al., petitioners, v. Allan Huber SELIG, Bud, et al.",
+  "name_abbreviation": "Miranda v. Selig",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u2013453.",
+  "first_page": "1045",
+  "last_page": "1045",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1045"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 305"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 165,
+    "sha256": "27bbd3c359c95b262b5338aab7b698278972370186f3b4f09c7b6eb902ea277a",
+    "simhash": "1:00a45c009e90548b",
+    "word_count": 27
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sergio MIRANDA, et al., petitioners,\nv.\nAllan Huber SELIG, Bud, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sergio MIRANDA, et al., petitioners,\nv.\nAllan Huber SELIG, Bud, et al.\nNo. 17-453.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for rehearing denied."
+  },
+  "file_name": "1045-01",
+  "first_page_order": 1045,
+  "last_page_order": 1045
+}

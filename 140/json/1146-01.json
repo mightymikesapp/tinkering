@@ -1,0 +1,64 @@
+{
+  "id": 12625201,
+  "name": "James Ray CLARK, Petitioner, v. UNC HOSPITALS, et al.",
+  "name_abbreviation": "Clark v. UNC Hosps.",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-6872",
+  "first_page": "1146",
+  "last_page": "1146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1146"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 218,
+    "sha256": "08d07a0f0c123c5a6c6654bb4d613f46301e40e337438edf5ff1a11c2256a107",
+    "simhash": "1:7bafc69c1b05178b",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Ray CLARK, Petitioner,\nv.\nUNC HOSPITALS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Ray CLARK, Petitioner,\nv.\nUNC HOSPITALS, et al.\nNo. 19-6872\nSupreme Court of the United States.\nFeb. 24, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "1146-01",
+  "first_page_order": 1146,
+  "last_page_order": 1146
+}

@@ -1,0 +1,58 @@
+{
+  "id": 12619161,
+  "name": "Billy LONG, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Long v. Pennsylvania",
+  "decision_date": "2019-04-01",
+  "docket_number": "No. 18\u20138168.",
+  "first_page": "1464",
+  "last_page": "1464",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1464"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 201,
+    "sha256": "c37c15de5464b2cefa13c6fdb53cf42c05105feb57eb0337f83c182920557a32",
+    "simhash": "1:6d9fc6521ac817a1",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Billy LONG, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Billy LONG, petitioner,\nv.\nPENNSYLVANIA.\nNo. 18-8168.\nSupreme Court of the United States\nApril 1, 2019.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Pittsburg Office denied."
+  },
+  "file_name": "1464-03",
+  "first_page_order": 1464,
+  "last_page_order": 1464
+}

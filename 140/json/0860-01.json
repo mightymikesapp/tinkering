@@ -1,0 +1,62 @@
+{
+  "id": 12630402,
+  "name": "CARGILL, INC., Petitioner, v. John DOE I, et al.",
+  "name_abbreviation": "Cargill, Inc. v. Doe",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-453",
+  "first_page": "860",
+  "last_page": "860",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 860"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 454"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 219,
+    "sha256": "5ab9caf38e0214905b469d1b11ed79ff960e5b5061239decbd310f3e81e823eb",
+    "simhash": "1:b2a396447976a413",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CARGILL, INC., Petitioner,\nv.\nJohn DOE I, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "CARGILL, INC., Petitioner,\nv.\nJohn DOE I, et al.\nNo. 19-453\nSupreme Court of the United States.\nJanuary 13, 2020\nThe Solicitor General is invited to file a brief in this case expressing the views of the United States."
+  },
+  "file_name": "0860-01",
+  "first_page_order": 860,
+  "last_page_order": 860
+}

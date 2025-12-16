@@ -1,0 +1,64 @@
+{
+  "id": 12617280,
+  "name": "David MEYERS, petitioner, v. VIRGINIA.",
+  "name_abbreviation": "Meyers v. Virginia",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20137083.",
+  "first_page": "999",
+  "last_page": "999",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 999"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 176,
+    "sha256": "0b9b1520293ed35482009308f0150169a6d02d7608651fc6e13f220260d35a32",
+    "simhash": "1:6cebd4563af724c5",
+    "word_count": 28
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David MEYERS, petitioner,\nv.\nVIRGINIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "David MEYERS, petitioner,\nv.\nVIRGINIA.\nNo. 17-7083.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of certiorari to the Supreme Court of Virginia denied."
+  },
+  "file_name": "0999-02",
+  "first_page_order": 999,
+  "last_page_order": 999
+}

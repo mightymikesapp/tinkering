@@ -1,0 +1,64 @@
+{
+  "id": 12620795,
+  "name": "Albert JENKINS, et al., petitioners, v. WMC MORTGAGE, et al.",
+  "name_abbreviation": "Jenkins v. WMC Mortg.",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135264.",
+  "first_page": "245",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 245"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 209,
+    "sha256": "c7d58add6ae7c7d3f3c4ee05d47f7baf58fa912c3b11540eec77e3fc8ac0ba80",
+    "simhash": "1:69ce5204a3c18491",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Albert JENKINS, et al., petitioners,\nv.\nWMC MORTGAGE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the District of Columbia Court of Appeals denied."
+    ],
+    "corrections": "",
+    "head_matter": "Albert JENKINS, et al., petitioners,\nv.\nWMC MORTGAGE, et al.\nNo. 18-5264.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the District of Columbia Court of Appeals denied."
+  },
+  "file_name": "0245-05",
+  "first_page_order": 245,
+  "last_page_order": 245
+}

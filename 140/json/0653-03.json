@@ -1,0 +1,64 @@
+{
+  "id": 12629940,
+  "name": "Glen PLOURDE, Petitioner v. Jane DOE",
+  "name_abbreviation": "Plourde v. Doe",
+  "decision_date": "2019-12-09",
+  "docket_number": "No. 19-448",
+  "first_page": "653",
+  "last_page": "653",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 653"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 387"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 181,
+    "sha256": "e68e2fe39d9ca2058941e925a733c3e6ef3034ce6a8ab24a590f555b28ab283a",
+    "simhash": "1:e0afc644d00527a5",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Glen PLOURDE, Petitioner\nv.\nJane DOE"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Maine denied."
+    ],
+    "corrections": "",
+    "head_matter": "Glen PLOURDE, Petitioner\nv.\nJane DOE\nNo. 19-448\nSupreme Court of the United States.\nDecember 9, 2019\nPetition for writ of certiorari to the Supreme Judicial Court of Maine denied."
+  },
+  "file_name": "0653-03",
+  "first_page_order": 653,
+  "last_page_order": 653
+}

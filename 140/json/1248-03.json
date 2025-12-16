@@ -1,0 +1,64 @@
+{
+  "id": 12625527,
+  "name": "IN RE Lawone WILKINSON, Petitioner",
+  "name_abbreviation": "In re Wilkinson",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-7285",
+  "first_page": "1248",
+  "last_page": "1248",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1248"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 242"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 145,
+    "sha256": "43626c48aa4f1da663afd2a472535e4b11b103f757f0dae51e6e9b07e177294b",
+    "simhash": "1:704f41403239e349",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Lawone WILKINSON, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Lawone WILKINSON, Petitioner\nNo. 19-7285\nSupreme Court of the United States.\nFebruary 24, 2020\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1248-03",
+  "first_page_order": 1248,
+  "last_page_order": 1248
+}

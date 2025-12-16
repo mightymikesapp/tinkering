@@ -1,0 +1,83 @@
+{
+  "id": 12622523,
+  "name": "Ahmad Sayed HASHIMI, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hashimi v. United States",
+  "decision_date": "2018-10-15",
+  "docket_number": "No. 18\u20135184.",
+  "first_page": "377",
+  "last_page": "377",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 377"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 285"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1500",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12611469
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1500-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 527,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636313931816102
+    },
+    "sha256": "221ae6b9d0d68665cb5d796d9b9792abfe2036b1b87744933519a1328f7152f6",
+    "simhash": "1:6eadf6441909869d",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ahmad Sayed HASHIMI, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of McCoy v. Louisiana, 584 U.S. ----, 138 S.Ct. 1500, 200 L.Ed.2d 821 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Ahmad Sayed HASHIMI, petitioner,\nv.\nUNITED STATES.\nNo. 18-5184.\nSupreme Court of the United States\nOct. 15, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of McCoy v. Louisiana, 584 U.S. ----, 138 S.Ct. 1500, 200 L.Ed.2d 821 (2018)."
+  },
+  "file_name": "0377-02",
+  "first_page_order": 377,
+  "last_page_order": 377
+}

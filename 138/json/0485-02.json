@@ -1,0 +1,64 @@
+{
+  "id": 12615447,
+  "name": "Benito MOJICA, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Mojica v. United States",
+  "decision_date": "2017-11-27",
+  "docket_number": "No. 17\u20136342.",
+  "first_page": "485",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 485"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 368"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "abcd5f67045b7bb86596d4502766437ddeef640b83032a0e0a45428efade12f3",
+    "simhash": "1:88ac74c53606f721",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Benito MOJICA, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Benito MOJICA, petitioner,\nv.\nUNITED STATES.\nNo. 17-6342.\nSupreme Court of the United States\nNov. 27, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0485-02",
+  "first_page_order": 485,
+  "last_page_order": 485
+}

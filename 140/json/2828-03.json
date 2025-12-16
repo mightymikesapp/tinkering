@@ -1,0 +1,64 @@
+{
+  "id": 12628165,
+  "name": "Anthony Scott HUNT, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Hunt v. United States",
+  "decision_date": "2020-06-01",
+  "docket_number": "No. 19-6939.",
+  "first_page": "2828",
+  "last_page": "2828",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2828"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 159"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "05cd51fac5b7552e731b5377906ebc18d082834688fd22fbaf31db9d1b04b450",
+    "simhash": "1:73ad64043a00c619",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Anthony Scott HUNT, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Anthony Scott HUNT, Petitioner,\nv.\nUNITED STATES.\nNo. 19-6939.\nSupreme Court of the United States.\nJune 1, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2828-03",
+  "first_page_order": 2828,
+  "last_page_order": 2828
+}

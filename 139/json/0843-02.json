@@ -1,0 +1,64 @@
+{
+  "id": 12624382,
+  "name": "In Re William M. BAILEY, petitioner.",
+  "name_abbreviation": "In re Bailey",
+  "decision_date": "2019-01-07",
+  "docket_number": "No. 18\u20136787.",
+  "first_page": "843",
+  "last_page": "843",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 843"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 632"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 143,
+    "sha256": "acc7c5832fd9a0de1526a79a0324b1faf622604a85a3d179051c973a8f309437",
+    "simhash": "1:fbff6244e2d8475d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re William M. BAILEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re William M. BAILEY, petitioner.\nNo. 18-6787.\nSupreme Court of the United States\nJan. 7, 2019.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0843-02",
+  "first_page_order": 843,
+  "last_page_order": 843
+}

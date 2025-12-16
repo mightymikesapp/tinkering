@@ -1,0 +1,64 @@
+{
+  "id": 12623342,
+  "name": "D.L., petitioner, v. WISCONSIN.",
+  "name_abbreviation": "D.L. v. Wisconsin",
+  "decision_date": "2018-11-19",
+  "docket_number": "No. 18\u20136032.",
+  "first_page": "571",
+  "last_page": "571",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 571"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 408"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 186,
+    "sha256": "8990d3dfb40513c01c37caa40c421d1117bb18f2f0307d451ae59678f1897e7d",
+    "simhash": "1:24fd50cea2cad0fc",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D.L., petitioner,\nv.\nWISCONSIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Wisconsin, District II denied."
+    ],
+    "corrections": "",
+    "head_matter": "D.L., petitioner,\nv.\nWISCONSIN.\nNo. 18-6032.\nSupreme Court of the United States\nNov. 19, 2018.\nPetition for writ of certiorari to the Court of Appeals of Wisconsin, District II denied."
+  },
+  "file_name": "0571-04",
+  "first_page_order": 571,
+  "last_page_order": 571
+}

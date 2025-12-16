@@ -1,0 +1,64 @@
+{
+  "id": 12617880,
+  "name": "Richard MORALES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Morales v. United States",
+  "decision_date": "2019-02-19",
+  "docket_number": "No. 18M95.",
+  "first_page": "1236",
+  "last_page": "1236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 1236"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 198,
+    "sha256": "66ee5cff4aea71d2b1b600acc28bcfa2b31d93f7cba09721d3059ab11e74d2a7",
+    "simhash": "1:09e54226038bd137",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard MORALES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard MORALES, petitioner,\nv.\nUNITED STATES.\nNo. 18M95.\nSupreme Court of the United States\nFeb. 19, 2019.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "1236-03",
+  "first_page_order": 1236,
+  "last_page_order": 1236
+}

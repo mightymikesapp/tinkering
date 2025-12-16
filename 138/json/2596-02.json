@@ -1,0 +1,64 @@
+{
+  "id": 12613319,
+  "name": "In Re Samuel H. WILLIAMS, petitioner.",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "2018-05-29",
+  "docket_number": "No. 17\u20138797.",
+  "first_page": "2596",
+  "last_page": "2596",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2596"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 310"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "4aeddf326ab34d90fd43a081fd9b7a33713f5e8b09a8d7628f2fb2d752112564",
+    "simhash": "1:5eebd61632bc5168",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Samuel H. WILLIAMS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Samuel H. WILLIAMS, petitioner.\nNo. 17-8797.\nSupreme Court of the United States\nMay 29, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2596-02",
+  "first_page_order": 2596,
+  "last_page_order": 2596
+}

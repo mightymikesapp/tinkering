@@ -1,0 +1,64 @@
+{
+  "id": 12611091,
+  "name": "R.K.B., et al., petitioners, v. E.T.",
+  "name_abbreviation": "R.K.B. v. E.T.",
+  "decision_date": "2018-03-26",
+  "docket_number": "No. 17\u2013942.",
+  "first_page": "1326",
+  "last_page": "1326",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1326"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 170,
+    "sha256": "0b8f00ca3d65a590278836798e95c0f6b8019d3203f4943012db4087eee27c05",
+    "simhash": "1:62a7c4147ac63091",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "R.K.B., et al., petitioners,\nv.\nE.T."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Utah denied."
+    ],
+    "corrections": "",
+    "head_matter": "R.K.B., et al., petitioners,\nv.\nE.T.\nNo. 17-942.\nSupreme Court of the United States\nMarch 26, 2018.\nPetition for writ of certiorari to the Supreme Court of Utah denied."
+  },
+  "file_name": "1326-05",
+  "first_page_order": 1326,
+  "last_page_order": 1326
+}

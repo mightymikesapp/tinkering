@@ -1,0 +1,64 @@
+{
+  "id": 12629993,
+  "name": "John M. WASSON, Petitioner v. UNITED STATES, et al.",
+  "name_abbreviation": "Wasson v. United States",
+  "decision_date": "2019-12-16",
+  "docket_number": "No. 19M77",
+  "first_page": "664",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 664"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 437"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 206,
+    "sha256": "3d1b943e676bc1334ba3efae11d88161fd2275e737275ab1079c94afb902e0e8",
+    "simhash": "1:5daf541707d5d13e",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John M. WASSON, Petitioner\nv.\nUNITED STATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "John M. WASSON, Petitioner\nv.\nUNITED STATES, et al.\nNo. 19M77\nSupreme Court of the United States.\nDecember 16, 2019\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0664-01",
+  "first_page_order": 664,
+  "last_page_order": 664
+}

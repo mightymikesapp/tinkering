@@ -1,0 +1,64 @@
+{
+  "id": 12630258,
+  "name": "Steve ROMERO, Petitioner, v. Mike MCDONALD, Warden.",
+  "name_abbreviation": "Romero v. McDonald",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6608",
+  "first_page": "830",
+  "last_page": "830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 830"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 489"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 218,
+    "sha256": "0dbf0e3a6497c7f9e86a89edc9b62a3994f528ace829a52ed744c41e5522dd06",
+    "simhash": "1:f3af76440b4477a9",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steve ROMERO, Petitioner,\nv.\nMike MCDONALD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steve ROMERO, Petitioner,\nv.\nMike MCDONALD, Warden.\nNo. 19-6608\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0830-05",
+  "first_page_order": 830,
+  "last_page_order": 830
+}

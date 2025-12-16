@@ -1,0 +1,64 @@
+{
+  "id": 12625775,
+  "name": "Lewis Alan DUGAN, Petitioner, v. WYOMING.",
+  "name_abbreviation": "Dugan v. Wyoming",
+  "decision_date": "2020-03-09",
+  "docket_number": "No. 19-999",
+  "first_page": "1298",
+  "last_page": "1298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1298"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 377"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 176,
+    "sha256": "9101d4904f4e19896c043af8112373f9fea7e9105cae10a9263234126e39f4aa",
+    "simhash": "1:422dd4547ac565d8",
+    "word_count": 29
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lewis Alan DUGAN, Petitioner,\nv.\nWYOMING."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Wyoming denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lewis Alan DUGAN, Petitioner,\nv.\nWYOMING.\nNo. 19-999\nSupreme Court of the United States.\nMarch 9, 2020\nPetition for writ of certiorari to the Supreme Court of Wyoming denied."
+  },
+  "file_name": "1298-01",
+  "first_page_order": 1298,
+  "last_page_order": 1298
+}

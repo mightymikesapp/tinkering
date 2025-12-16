@@ -1,0 +1,64 @@
+{
+  "id": 12611338,
+  "name": "In Re Donovan Charles STONER, petitioner.",
+  "name_abbreviation": "In re Stoner",
+  "decision_date": "2018-04-02",
+  "docket_number": "No. 17\u20137581.",
+  "first_page": "1445",
+  "last_page": "1445",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1445"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 731"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 144,
+    "sha256": "a62f0bce10faf99d6257fe77cb0e0f738b1d87a28c92369e10c71ff67f14c073",
+    "simhash": "1:6a0c8c941cc8907f",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Donovan Charles STONER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Donovan Charles STONER, petitioner.\nNo. 17-7581.\nSupreme Court of the United States\nApril 2, 2018.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1445-02",
+  "first_page_order": 1445,
+  "last_page_order": 1445
+}

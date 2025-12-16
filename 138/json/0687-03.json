@@ -1,0 +1,64 @@
+{
+  "id": 12616374,
+  "name": "Steven A. JOHNSON, petitioner, v. David J. EBBERT, Warden.",
+  "name_abbreviation": "Johnson v. Ebbert",
+  "decision_date": "2018-01-08",
+  "docket_number": "No. 17\u20136695.",
+  "first_page": "687",
+  "last_page": "687",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 687"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 222,
+    "sha256": "9f85a84b1e55da702538a05711a9dd25adb6edcb3d55dddd082a99147988eb40",
+    "simhash": "1:713ef2443b01972c",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven A. JOHNSON, petitioner,\nv.\nDavid J. EBBERT, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven A. JOHNSON, petitioner,\nv.\nDavid J. EBBERT, Warden.\nNo. 17-6695.\nSupreme Court of the United States\nJan. 8, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0687-03",
+  "first_page_order": 687,
+  "last_page_order": 687
+}

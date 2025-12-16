@@ -1,0 +1,64 @@
+{
+  "id": 12628146,
+  "name": "Vincent KANE, Petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Kane v. Pennsylvania",
+  "decision_date": "2020-05-26",
+  "docket_number": "No. 19-7605.",
+  "first_page": "2823",
+  "last_page": "2823",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2823"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 154"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "e8610dcb18af86e818f408876aec12fe88798e3688d76d5bc6dcf95e6e9a1109",
+    "simhash": "1:d06dd4523e9872f3",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Vincent KANE, Petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Vincent KANE, Petitioner,\nv.\nPENNSYLVANIA.\nNo. 19-7605.\nSupreme Court of the United States.\nMay 26, 2020\nPetition for rehearing denied."
+  },
+  "file_name": "2823-04",
+  "first_page_order": 2823,
+  "last_page_order": 2823
+}

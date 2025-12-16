@@ -1,0 +1,64 @@
+{
+  "id": 12612864,
+  "name": "Robert Earl MAYS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Mays v. United States",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135123.",
+  "first_page": "213",
+  "last_page": "213",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 213"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 212,
+    "sha256": "47f9ba1be387693e1f2111ad2450326b53e3397c4c382b4fbcd75d0f58e8f3f4",
+    "simhash": "1:d3aee4551e28d711",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Earl MAYS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Earl MAYS, petitioner,\nv.\nUNITED STATES.\nNo. 17-5123.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0213-04",
+  "first_page_order": 213,
+  "last_page_order": 213
+}

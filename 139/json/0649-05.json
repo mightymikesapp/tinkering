@@ -1,0 +1,64 @@
+{
+  "id": 12623805,
+  "name": "Tommy ALEXANDER, Sr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Alexander v. United States",
+  "decision_date": "2018-12-10",
+  "docket_number": "No. 18\u20136559.",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 649"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 506"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 293,
+    "sha256": "100667346db81119365dc1446c248958261ee8dba15bb7998ffbf4cbb8788d75",
+    "simhash": "1:b9bf72c4362ed74e",
+    "word_count": 48
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tommy ALEXANDER, Sr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tommy ALEXANDER, Sr., petitioner,\nv.\nUNITED STATES.\nNo. 18-6559.\nSupreme Court of the United States\nDec. 10, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0649-05",
+  "first_page_order": 649,
+  "last_page_order": 649
+}

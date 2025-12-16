@@ -1,0 +1,64 @@
+{
+  "id": 12620771,
+  "name": "James McCRAY, petitioner, v. S.L. BURT, Warden.",
+  "name_abbreviation": "McCray v. Burt",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 18\u20135247.",
+  "first_page": "241",
+  "last_page": "242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 241"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 211,
+    "sha256": "9340e6acf9957e90f14d25bfc8ea53ef11f9de9a1de629323dcc3883f19894c2",
+    "simhash": "1:f0ac624ca9840438",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James McCRAY, petitioner,\nv.\nS.L. BURT, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James McCRAY, petitioner,\nv.\nS.L. BURT, Warden.\nNo. 18-5247.\nSupreme Court of the United States\nOct. 1, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0241-06",
+  "first_page_order": 241,
+  "last_page_order": 242
+}

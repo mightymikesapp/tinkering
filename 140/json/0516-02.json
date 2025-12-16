@@ -1,0 +1,64 @@
+{
+  "id": 12629310,
+  "name": "G.D. P., Petitioner v. N.G. P.",
+  "name_abbreviation": "G.D. P. v. N.G. P.",
+  "decision_date": "2019-11-12",
+  "docket_number": "No. 19-299",
+  "first_page": "516",
+  "last_page": "516",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 516"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 318"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 176,
+    "sha256": "49d43935fe7001e5e3fac1e1bc84436f4409ed6f7603b51c77f1f3e9a42afe33",
+    "simhash": "1:62ad0644cb0c0095",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "G.D. P., Petitioner\nv.\nN.G. P."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Judicial Court of Maine denied."
+    ],
+    "corrections": "",
+    "head_matter": "G.D. P., Petitioner\nv.\nN.G. P.\nNo. 19-299\nSupreme Court of the United States.\nNovember 12, 2019\nPetition for writ of certiorari to the Supreme Judicial Court of Maine denied."
+  },
+  "file_name": "0516-02",
+  "first_page_order": 516,
+  "last_page_order": 516
+}

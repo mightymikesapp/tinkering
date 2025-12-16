@@ -1,0 +1,64 @@
+{
+  "id": 12612622,
+  "name": "TEXAS, plaintiff, v. NEW MEXICO and Colorado.",
+  "name_abbreviation": "Texas v. New Mexico",
+  "decision_date": "2018-05-14",
+  "docket_number": "No. 141, Original.",
+  "first_page": "2017",
+  "last_page": "2017",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 2017"
+    },
+    {
+      "type": "parallel",
+      "cite": "201 L. Ed. 2d 246"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 421,
+    "sha256": "4008e9cf431d6a12d274b98aff048827bb86786ceae0eba84224d17084d6b433",
+    "simhash": "1:6c370e929ecf4bfb",
+    "word_count": 73
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TEXAS, plaintiff,\nv.\nNEW MEXICO and Colorado."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of the former Special Master for allowance of fees and disbursements granted, and the former Special Master is awarded a total $10,101.86, for the period March 13, 2017, through April 2, 2018, to be paid as follows: 37.5% by Texas, 37.5% by New Mexico, 20% by the United States, and 5% by Colorado."
+    ],
+    "corrections": "",
+    "head_matter": "TEXAS, plaintiff,\nv.\nNEW MEXICO and Colorado.\nNo. 141, Original.\nSupreme Court of the United States\nMay 14, 2018.\nMotion of the former Special Master for allowance of fees and disbursements granted, and the former Special Master is awarded a total $10,101.86, for the period March 13, 2017, through April 2, 2018, to be paid as follows: 37.5% by Texas, 37.5% by New Mexico, 20% by the United States, and 5% by Colorado."
+  },
+  "file_name": "2017-02",
+  "first_page_order": 2017,
+  "last_page_order": 2017
+}

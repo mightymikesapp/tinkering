@@ -1,0 +1,64 @@
+{
+  "id": 12631026,
+  "name": "IN RE Antwoyn SPENCER, Petitioner",
+  "name_abbreviation": "In re Spencer",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-7047",
+  "first_page": "985",
+  "last_page": "985",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 985"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 137"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 138,
+    "sha256": "d4f597ab1a37163adf0f8e86f6a7f0e333bc11e502361dab87d6944f92c97b86",
+    "simhash": "1:fdaf5454bf54313b",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Antwoyn SPENCER, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Antwoyn SPENCER, Petitioner\nNo. 19-7047\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0985-03",
+  "first_page_order": 985,
+  "last_page_order": 985
+}

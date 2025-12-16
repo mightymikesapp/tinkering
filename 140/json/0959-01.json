@@ -1,0 +1,64 @@
+{
+  "id": 12630893,
+  "name": "John F. SHARPE, Petitioner v. UNITED STATES",
+  "name_abbreviation": "Sharpe v. United States",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-705",
+  "first_page": "959",
+  "last_page": "959",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 959"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 121"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 211,
+    "sha256": "109fc044eb89513b0017b91264cde7dad6bfbba13ce128ac3183d112b7bc556f",
+    "simhash": "1:efaf644c2204138b",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John F. SHARPE, Petitioner\nv.\nUNITED STATES"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John F. SHARPE, Petitioner\nv.\nUNITED STATES\nNo. 19-705\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0959-01",
+  "first_page_order": 959,
+  "last_page_order": 959
+}

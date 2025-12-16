@@ -1,0 +1,83 @@
+{
+  "id": 12630998,
+  "name": "XING LIN, Petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Xing Lin v. United States",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9302",
+  "first_page": "98",
+  "last_page": "98",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 98"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 3"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "139 S.Ct. 2319",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12620706
+      ],
+      "weight": 2,
+      "year": 2019,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/139/2319-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 522,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26367212914729776
+    },
+    "sha256": "c34c55a58b85b7e7bae3111d896e5afeabc979a144124750612284e651fc04fc",
+    "simhash": "1:7aac62c40d06070d",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "XING LIN, Petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Second Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Second Circuit for further consideration in light of United States v. Davis , 588 U.S. ----, 139 S.Ct. 2319, 204 L.Ed.2d 757 (2019)."
+    ],
+    "corrections": "",
+    "head_matter": "XING LIN, Petitioner,\nv.\nUNITED STATES.\nNo. 18-9302\nSupreme Court of the United States.\nOctober 7, 2019\nOn petition for writ of certiorari to the United States Court of Appeals for the Second Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Second Circuit for further consideration in light of United States v. Davis , 588 U.S. ----, 139 S.Ct. 2319, 204 L.Ed.2d 757 (2019)."
+  },
+  "file_name": "0098-01",
+  "first_page_order": 98,
+  "last_page_order": 98
+}

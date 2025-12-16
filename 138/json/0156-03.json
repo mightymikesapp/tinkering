@@ -1,0 +1,64 @@
+{
+  "id": 12611606,
+  "name": "David CRAMER, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Cramer v. California",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 16\u20139562.",
+  "first_page": "156",
+  "last_page": "156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 156"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 93"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 204,
+    "sha256": "8bc3b3c10009cabf74b86d936f3ac8bd54b576aa8c27a52db417c69de3dd0043",
+    "simhash": "1:cbaf66403b052331",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David CRAMER, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David CRAMER, petitioner,\nv.\nCALIFORNIA.\nNo. 16-9562.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0156-03",
+  "first_page_order": 156,
+  "last_page_order": 156
+}

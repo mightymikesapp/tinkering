@@ -1,0 +1,64 @@
+{
+  "id": 12623094,
+  "name": "State of TEXAS v. State of NEW MEXICO.",
+  "name_abbreviation": "Texas v. New Mexico",
+  "decision_date": "2018-11-05",
+  "docket_number": "No. 65, Original.",
+  "first_page": "474",
+  "last_page": "474",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 474"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 43,
+    "char_count": 311,
+    "sha256": "d33aaa8872450f12526b8c48e4dbb5b905618b8c99473b419d45597172b72fbd",
+    "simhash": "1:f1612c5abf80c688",
+    "word_count": 58
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "State of TEXAS\nv.\nState of NEW MEXICO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of the River Master for fees and expenses is granted, and the River Master is awarded a total of $14,242.825, for the period July 1, 2017, through June 30, 2018, to be paid equally by the parties."
+    ],
+    "corrections": "",
+    "head_matter": "State of TEXAS\nv.\nState of NEW MEXICO.\nNo. 65, Original.\nSupreme Court of the United States\nNov. 5, 2018.\nMotion of the River Master for fees and expenses is granted, and the River Master is awarded a total of $14,242.825, for the period July 1, 2017, through June 30, 2018, to be paid equally by the parties."
+  },
+  "file_name": "0474-01",
+  "first_page_order": 474,
+  "last_page_order": 474
+}

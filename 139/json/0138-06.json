@@ -1,0 +1,83 @@
+{
+  "id": 12618828,
+  "name": "Martin DIEZ, petitioner, v. Julie L. JONES, Secretary, Florida Department of Corrections, et al.",
+  "name_abbreviation": "Diez v. Jones",
+  "decision_date": "2018-10-01",
+  "docket_number": "No. 17\u20139248.",
+  "first_page": "138",
+  "last_page": "139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 138"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 2"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "138 S.Ct. 1188",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12610603
+      ],
+      "weight": 2,
+      "year": 2018,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/138/1188-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 58,
+    "char_count": 575,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26361710663440224
+    },
+    "sha256": "d95f0586babc1e51e909008a5cbf2f0361bea406dff579f484ef1cc47f701c86",
+    "simhash": "1:70a572148d0306db",
+    "word_count": 93
+  },
+  "last_updated": "2024-02-27T19:46:34.790810+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Martin DIEZ, petitioner,\nv.\nJulie L. JONES, Secretary, Florida Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Wilson v. Sellers, 584 U.S. ----, 138 S.Ct. 1188, 200 L.Ed.2d 530 (2018)."
+    ],
+    "corrections": "",
+    "head_matter": "Martin DIEZ, petitioner,\nv.\nJulie L. JONES, Secretary, Florida Department of Corrections, et al.\nNo. 17-9248.\nSupreme Court of the United States\nOct. 1, 2018.\nOn petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Eleventh Circuit for further consideration in light of Wilson v. Sellers, 584 U.S. ----, 138 S.Ct. 1188, 200 L.Ed.2d 530 (2018)."
+  },
+  "file_name": "0138-06",
+  "first_page_order": 138,
+  "last_page_order": 139
+}

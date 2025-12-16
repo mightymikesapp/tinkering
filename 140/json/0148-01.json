@@ -1,0 +1,64 @@
+{
+  "id": 12625938,
+  "name": "Michael DAVIS, Petitioner v. Darrel VANNOY, Warden.",
+  "name_abbreviation": "Davis v. Vannoy",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19M33",
+  "first_page": "148",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 148"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 17"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 206,
+    "sha256": "4257e4fe7b8d5b926325042a14d43aa5de930195a7499847029aeb2c0b24e625",
+    "simhash": "1:fc8f52568581f9be",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael DAVIS, Petitioner\nv.\nDarrel VANNOY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael DAVIS, Petitioner\nv.\nDarrel VANNOY, Warden.\nNo. 19M33\nSupreme Court of the United States.\nOctober 7, 2019\nMotion to direct the Clerk to file a petition for a writ of certiorari out of time denied."
+  },
+  "file_name": "0148-01",
+  "first_page_order": 148,
+  "last_page_order": 148
+}

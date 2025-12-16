@@ -1,0 +1,64 @@
+{
+  "id": 12623535,
+  "name": "Scott PETERS, petitioner, v. John BALDWIN, et al.",
+  "name_abbreviation": "Peters v. Baldwin",
+  "decision_date": "2018-12-03",
+  "docket_number": "No. 18\u20136134.",
+  "first_page": "599",
+  "last_page": "599",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 599"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 436"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 215,
+    "sha256": "ec7c1a10a3c8997549af889f5597bcec1ff69cee1cfa57c61dbb7e64b249c595",
+    "simhash": "1:17cf7484af2006b2",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Scott PETERS, petitioner,\nv.\nJohn BALDWIN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Scott PETERS, petitioner,\nv.\nJohn BALDWIN, et al.\nNo. 18-6134.\nSupreme Court of the United States\nDec. 3, 2018.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0599-06",
+  "first_page_order": 599,
+  "last_page_order": 599
+}

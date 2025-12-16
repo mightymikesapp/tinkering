@@ -1,0 +1,64 @@
+{
+  "id": 12610215,
+  "name": "In Re Charles OLIVER, petitioner.",
+  "name_abbreviation": "In re Oliver",
+  "decision_date": "2018-02-20",
+  "docket_number": "No. 17\u20137397.",
+  "first_page": "1029",
+  "last_page": "1029",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1029"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "7b24097d88e4407dbd08f56c8d66512871cdafb104c497edcfa35ef15873f366",
+    "simhash": "1:0ac7d0000e904403",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Charles OLIVER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Charles OLIVER, petitioner.\nNo. 17-7397.\nSupreme Court of the United States\nFeb. 20, 2018.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1029-02",
+  "first_page_order": 1029,
+  "last_page_order": 1029
+}

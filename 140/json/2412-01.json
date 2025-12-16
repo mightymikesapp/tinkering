@@ -1,0 +1,80 @@
+{
+  "id": 12626632,
+  "name": "Tommy SHARP, Interim Warden, Petitioner v. Patrick Dwayne MURPHY",
+  "name_abbreviation": "Sharp v. Murphy",
+  "decision_date": "2020-07-09",
+  "docket_number": "No. 17-1107",
+  "first_page": "2412",
+  "last_page": "2412",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 2412"
+    },
+    {
+      "type": "parallel",
+      "cite": "207 L. Ed. 2d 1043"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "140 S.Ct. 2452",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12626654
+      ],
+      "year": 2020,
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/140/2452-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 55,
+    "char_count": 462,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2636530160638709
+    },
+    "sha256": "f8669673f30e2887b1a287da953114a87fad87c986bdd6411fdf15ca03105125",
+    "simhash": "1:992db6469b4812c3",
+    "word_count": 74
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tommy SHARP, Interim Warden, Petitioner\nv.\nPatrick Dwayne MURPHY"
+    ],
+    "opinions": [
+      {
+        "text": "Per Curiam.\nThe judgment of the United States Court of Appeals for the Tenth Circuit is affirmed for the reasons stated in McGirt v. Oklahoma , --- U.S. ----, 140 S.Ct. 2452, --- L.Ed.2d ---- (2020).\nIt is so ordered.\nJustice GORSUCH took no part in the consideration or decision of this case.\nJustice THOMAS and Justice ALITO dissent.",
+        "type": "majority",
+        "author": "Per Curiam."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Tommy SHARP, Interim Warden, Petitioner\nv.\nPatrick Dwayne MURPHY\nNo. 17-1107\nSupreme Court of the United States.\nJuly 9, 2020"
+  },
+  "file_name": "2412-01",
+  "first_page_order": 2412,
+  "last_page_order": 2412
+}

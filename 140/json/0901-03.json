@@ -1,0 +1,64 @@
+{
+  "id": 12630607,
+  "name": "UKRAINE, Petitioner v. PAO TATNEFT",
+  "name_abbreviation": "Ukraine v. Pao Tatneft",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-606",
+  "first_page": "901",
+  "last_page": "901",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 901"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 466"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 215,
+    "sha256": "c18a2cff0bfeca092c8481a9c50c42d47508b40900fa4db40f0c3fc297412dcf",
+    "simhash": "1:e88f5644ab408709",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UKRAINE, Petitioner\nv.\nPAO TATNEFT"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "UKRAINE, Petitioner\nv.\nPAO TATNEFT\nNo. 19-606\nSupreme Court of the United States.\nJanuary 13, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "0901-03",
+  "first_page_order": 901,
+  "last_page_order": 901
+}

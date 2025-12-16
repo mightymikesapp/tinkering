@@ -1,0 +1,107 @@
+{
+  "id": 12628272,
+  "name": "Fred ANDERSON, Jr., Petitioner v. FLORIDA",
+  "name_abbreviation": "Anderson v. Florida",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-1306",
+  "first_page": "291",
+  "last_page": "291",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 291"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "202 L.Ed.2d 389",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12623114,
+        12621483
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/139/0478-05",
+        "/s-ct/139/0027-01"
+      ]
+    },
+    {
+      "cite": "139 S.Ct. 27",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12621483
+      ],
+      "year": 2018,
+      "pin_cites": [
+        {
+          "parenthetical": "Sotomayor, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/139/0027-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 379,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26365764953864107
+    },
+    "sha256": "ce26c2a9251c03d3f7227af4492823d57f7e899e68bb67df7b01a786d33623cf",
+    "simhash": "1:ebe1143d2e7dc1ce",
+    "word_count": 60
+  },
+  "last_updated": "2024-02-27T18:39:29.857984+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Fred ANDERSON, Jr., Petitioner\nv.\nFLORIDA"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Sotomayor, dissenting from the denial of certiorari:\nI dissent for the reasons set out in Reynolds v. Florida , 586 U.S. ----, 139 S.Ct. 27, 202 L.Ed.2d 389 (2018) (Sotomayor, J., dissenting).",
+        "type": "majority",
+        "author": "Justice Sotomayor, dissenting from the denial of certiorari:"
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "Fred ANDERSON, Jr., Petitioner\nv.\nFLORIDA\nNo. 18-1306\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "0291-04",
+  "first_page_order": 291,
+  "last_page_order": 291
+}

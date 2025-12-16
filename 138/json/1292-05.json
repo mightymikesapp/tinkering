@@ -1,0 +1,64 @@
+{
+  "id": 12610866,
+  "name": "Sam Autry FLETCHER, petitioner, v. TEXAS.",
+  "name_abbreviation": "Fletcher v. Texas",
+  "decision_date": "2018-03-19",
+  "docket_number": "No. 17\u20137370.",
+  "first_page": "1292",
+  "last_page": "1292",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 1292"
+    },
+    {
+      "type": "parallel",
+      "cite": "200 L. Ed. 2d 481"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 196,
+    "sha256": "710d0564283ab181a7781813a9255ed2a201c2bcf437b75cb06d255a345a8736",
+    "simhash": "1:483f7a1762cd5db8",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sam Autry FLETCHER, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sam Autry FLETCHER, petitioner,\nv.\nTEXAS.\nNo. 17-7370.\nSupreme Court of the United States\nMarch 19, 2018.\nPetition for writ of certiorari to the Court of Appeals of Texas, First District denied."
+  },
+  "file_name": "1292-05",
+  "first_page_order": 1292,
+  "last_page_order": 1292
+}

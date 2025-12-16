@@ -1,0 +1,64 @@
+{
+  "id": 12629163,
+  "name": "UNITED STATES PATENT AND TRADEMARK OFFICE, et al., Petitioners v. BOOKING.COM B.V.",
+  "name_abbreviation": "U.S. Patent & Trademark Office v. Booking.com B.V.",
+  "decision_date": "2019-11-08",
+  "docket_number": "No. 19-46",
+  "first_page": "489",
+  "last_page": "489",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 489"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 290"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 249,
+    "sha256": "76774bb742732a5eb28f82f5a74adb9eb5fb78737de341c39c7c6450e9aa4aba",
+    "simhash": "1:6bede68e33c3b585",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES PATENT AND TRADEMARK OFFICE, et al., Petitioners\nv.\nBOOKING.COM B.V."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES PATENT AND TRADEMARK OFFICE, et al., Petitioners\nv.\nBOOKING.COM B.V.\nNo. 19-46\nSupreme Court of the United States.\nNovember 8, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit granted."
+  },
+  "file_name": "0489-03",
+  "first_page_order": 489,
+  "last_page_order": 489
+}

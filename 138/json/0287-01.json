@@ -1,0 +1,64 @@
+{
+  "id": 12614193,
+  "name": "In Re Stephen HARMON, petitioner.",
+  "name_abbreviation": "In re Harmon",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135759.",
+  "first_page": "287",
+  "last_page": "287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 287"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "a80518ffe772391b3adac049888f7c35d486e7b9e3c36c937f9b92c16c2f559e",
+    "simhash": "1:6a4f20211ea84559",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Stephen HARMON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Stephen HARMON, petitioner.\nNo. 17-5759.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0287-01",
+  "first_page_order": 287,
+  "last_page_order": 287
+}

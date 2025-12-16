@@ -1,0 +1,64 @@
+{
+  "id": 12624835,
+  "name": "Donald J. TRUMP, President of the United States, et al., petitioners, v. JANE DOE 2, et al.",
+  "name_abbreviation": "Trump v. Doe",
+  "decision_date": "2019-01-22",
+  "docket_number": "No. 18\u2013677.",
+  "first_page": "946",
+  "last_page": "946",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 946"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 35,
+    "char_count": 286,
+    "sha256": "1b7c25ade269030895c38b22a53c8f622ac843db030a9a3c24f5b634f4f508fc",
+    "simhash": "1:78af40441d40070a",
+    "word_count": 49
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald J. TRUMP, President of the United States, et al., petitioners,\nv.\nJANE DOE 2, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari before judgment to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Donald J. TRUMP, President of the United States, et al., petitioners,\nv.\nJANE DOE 2, et al.\nNo. 18-677.\nSupreme Court of the United States\nJan. 22, 2019.\nPetition for writ of certiorari before judgment to the United States Court of Appeals for the District of Columbia Circuit denied."
+  },
+  "file_name": "0946-03",
+  "first_page_order": 946,
+  "last_page_order": 946
+}

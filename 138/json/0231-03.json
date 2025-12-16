@@ -1,0 +1,64 @@
+{
+  "id": 12612982,
+  "name": "Betty FLOYD, petitioner, v. GLENN GARDENS ASSOCIATES, et al.",
+  "name_abbreviation": "Floyd v. Glenn Gardens Assocs.",
+  "decision_date": "2017-10-02",
+  "docket_number": "No. 17\u20135231.",
+  "first_page": "231",
+  "last_page": "231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 231"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 150"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 200,
+    "sha256": "eb9ee3ea9afe32b082be8ec6ac6c34c8395ad936148123920e822653aed34275",
+    "simhash": "1:1e3db6941ad085fe",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:36.906010+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Betty FLOYD, petitioner,\nv.\nGLENN GARDENS ASSOCIATES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "Betty FLOYD, petitioner,\nv.\nGLENN GARDENS ASSOCIATES, et al.\nNo. 17-5231.\nSupreme Court of the United States\nOct. 2, 2017.\nPetition for writ of certiorari to the Court of Appeals of New York denied."
+  },
+  "file_name": "0231-03",
+  "first_page_order": 231,
+  "last_page_order": 231
+}

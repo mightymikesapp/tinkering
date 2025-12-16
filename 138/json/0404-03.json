@@ -1,0 +1,64 @@
+{
+  "id": 12614927,
+  "name": "Jesus JIMENEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Jimenez v. United States",
+  "decision_date": "2017-10-30",
+  "docket_number": "No. 17\u20135971.",
+  "first_page": "404",
+  "last_page": "404",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "138 S. Ct. 404"
+    },
+    {
+      "type": "parallel",
+      "cite": "199 L. Ed. 2d 297"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 209,
+    "sha256": "1e19a39200ff92153eea8e335c189620a5ecdb716772a212b7a4cbdf20036ed1",
+    "simhash": "1:b4ae764437009609",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesus JIMENEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jesus JIMENEZ, petitioner,\nv.\nUNITED STATES.\nNo. 17-5971.\nSupreme Court of the United States\nOct. 30, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0404-03",
+  "first_page_order": 404,
+  "last_page_order": 404
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12624998,
+  "name": "Donald J. TRUMP, Petitioner, v. Cyrus R. VANCE, Jr., in His Official Capacity as District Attorney of the County of New York, et al.",
+  "name_abbreviation": "Trump v. Vance",
+  "decision_date": "2020-02-24",
+  "docket_number": "No. 19-635",
+  "first_page": "1103",
+  "last_page": "1103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 1103"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 177"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 40,
+    "char_count": 270,
+    "sha256": "8fa7604521c66a9cd0cd56f43373916895e5956b047a79d5045ba9dc039623fc",
+    "simhash": "1:60374e1a9fb07d6a",
+    "word_count": 46
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Donald J. TRUMP, Petitioner,\nv.\nCyrus R. VANCE, Jr., in His Official Capacity as District Attorney of the County of New York, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Donald J. TRUMP, Petitioner,\nv.\nCyrus R. VANCE, Jr., in His Official Capacity as District Attorney of the County of New York, et al.\nNo. 19-635\nSupreme Court of the United States.\nFeb. 24, 2020\nMotion of petitioner to dispense with printing the joint appendix granted."
+  },
+  "file_name": "1103-01",
+  "first_page_order": 1103,
+  "last_page_order": 1103
+}

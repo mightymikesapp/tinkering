@@ -1,0 +1,64 @@
+{
+  "id": 12624841,
+  "name": "In Re Peter T. ROUKIS, petitioner.",
+  "name_abbreviation": "In re Roukis",
+  "decision_date": "2019-01-22",
+  "docket_number": "No. 18\u20136868.",
+  "first_page": "947",
+  "last_page": "947",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 947"
+    },
+    {
+      "type": "parallel",
+      "cite": "203 L. Ed. 2d 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 137,
+    "sha256": "810c267215c68af31165eb06e3f6a4d59cb907d1509867b256e9eb1d31a713a6",
+    "simhash": "1:78631844e6b8a239",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Peter T. ROUKIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Peter T. ROUKIS, petitioner.\nNo. 18-6868.\nSupreme Court of the United States\nJan. 22, 2019.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0947-03",
+  "first_page_order": 947,
+  "last_page_order": 947
+}

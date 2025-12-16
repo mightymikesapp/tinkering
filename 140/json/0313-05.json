@@ -1,0 +1,64 @@
+{
+  "id": 12628410,
+  "name": "IN RE Phillip LOVE, Petitioner",
+  "name_abbreviation": "In re Love",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-9575",
+  "first_page": "313",
+  "last_page": "313",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 313"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "ae2036df74a0d3e49857773ecfed277e68cdd22d65280da93f23c0dccfe21348",
+    "simhash": "1:6aed00ee36d05195",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE Phillip LOVE, Petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE Phillip LOVE, Petitioner\nNo. 18-9575\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0313-05",
+  "first_page_order": 313,
+  "last_page_order": 313
+}

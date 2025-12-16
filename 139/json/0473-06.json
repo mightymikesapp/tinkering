@@ -1,0 +1,64 @@
+{
+  "id": 12623093,
+  "name": "Ellis KEYES, applicant, v. Edison BANKS.",
+  "name_abbreviation": "Keyes v. Banks",
+  "decision_date": "2018-11-05",
+  "docket_number": "No. 18A365.",
+  "first_page": "473",
+  "last_page": "473",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "139 S. Ct. 473"
+    },
+    {
+      "type": "parallel",
+      "cite": "202 L. Ed. 2d 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 189,
+    "sha256": "e6358ee9ab547145e37d629bf97d51d541d0d2a717a3017fc69a8ff4edfef036",
+    "simhash": "1:32fd3683b18cb2b7",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:40.883505+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ellis KEYES, applicant,\nv.\nEdison BANKS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay addressed to THE CHIEF JUSTICE and referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ellis KEYES, applicant,\nv.\nEdison BANKS.\nNo. 18A365.\nSupreme Court of the United States\nNov. 5, 2018.\nApplication for stay addressed to THE CHIEF JUSTICE and referred to the Court denied."
+  },
+  "file_name": "0473-06",
+  "first_page_order": 473,
+  "last_page_order": 473
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12630878,
+  "name": "Jose Javier Banegas GOMEZ, Petitioner, v. William P. BARR, Attorney General.",
+  "name_abbreviation": "Gomez v. Barr",
+  "decision_date": "2020-01-27",
+  "docket_number": "No. 19-510",
+  "first_page": "954",
+  "last_page": "954",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 954"
+    },
+    {
+      "type": "parallel",
+      "cite": "206 L. Ed. 2d 119"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 243,
+    "sha256": "8b8ce23fb74064c3b686e64f0ef4222b32778c248b0cffa5d3f1cf621978c5ed",
+    "simhash": "1:f8add4c43f4409cb",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Javier Banegas GOMEZ, Petitioner,\nv.\nWilliam P. BARR, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Javier Banegas GOMEZ, Petitioner,\nv.\nWilliam P. BARR, Attorney General.\nNo. 19-510\nSupreme Court of the United States.\nJanuary 27, 2020\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0954-04",
+  "first_page_order": 954,
+  "last_page_order": 954
+}

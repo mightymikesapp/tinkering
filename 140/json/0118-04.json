@@ -1,0 +1,62 @@
+{
+  "id": 12625320,
+  "name": "C. S., Petitioner, v. L. S.",
+  "name_abbreviation": "C. S. v. L. S.",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 18-1505",
+  "first_page": "118",
+  "last_page": "118",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 118"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 38"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 189,
+    "sha256": "ab7fcba1c1ed08963fda846dd03dba0bf8397efaf6bec4e43a37b3367da967a1",
+    "simhash": "1:fa7f74fab09015a8",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "C. S., Petitioner,\nv.\nL. S."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "C. S., Petitioner,\nv.\nL. S.\nNo. 18-1505\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the Superior Court of New Jersey, Appellate Division denied."
+  },
+  "file_name": "0118-04",
+  "first_page_order": 118,
+  "last_page_order": 118
+}

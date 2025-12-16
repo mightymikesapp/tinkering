@@ -1,0 +1,64 @@
+{
+  "id": 12628406,
+  "name": "Stephenson Lamar SMITH, Petitioner v. Ted JACKSON, et al.",
+  "name_abbreviation": "Smith v. Jackson",
+  "decision_date": "2019-10-07",
+  "docket_number": "No. 19-5168",
+  "first_page": "313",
+  "last_page": "313",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 313"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 155"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 226,
+    "sha256": "2547e0365974334484ecb64820dac6fe7b7edecbc02dd62b2a4760132d311448",
+    "simhash": "1:f2af36543300815e",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephenson Lamar SMITH, Petitioner\nv.\nTed JACKSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stephenson Lamar SMITH, Petitioner\nv.\nTed JACKSON, et al.\nNo. 19-5168\nSupreme Court of the United States.\nOctober 7, 2019\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0313-01",
+  "first_page_order": 313,
+  "last_page_order": 313
+}

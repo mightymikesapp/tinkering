@@ -1,0 +1,64 @@
+{
+  "id": 12630431,
+  "name": "IN RE David Paul WORTHINGTON, Petitioner.",
+  "name_abbreviation": "In re Worthington",
+  "decision_date": "2020-01-13",
+  "docket_number": "No. 19-6526.",
+  "first_page": "865",
+  "last_page": "865",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "140 S. Ct. 865"
+    },
+    {
+      "type": "parallel",
+      "cite": "205 L. Ed. 2d 507"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 164,
+    "sha256": "2f0ead4701dbc2c3ce6c7962900e88ba34c91562febed6d61a1fdad3cd47cbb5",
+    "simhash": "1:e87e765ee81a64be",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:40.744699+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "IN RE David Paul WORTHINGTON, Petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "IN RE David Paul WORTHINGTON, Petitioner.\nNo. 19-6526.\nSupreme Court of the United States.\nJan. 13, 2020.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0865-04",
+  "first_page_order": 865,
+  "last_page_order": 865
+}
