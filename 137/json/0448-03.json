@@ -1,0 +1,64 @@
+{
+  "id": 12607911,
+  "name": "In re Michael HABINIAK, petitioner.",
+  "name_abbreviation": "In re Habiniak",
+  "decision_date": "2016-11-07",
+  "docket_number": "No. 16\u2013295.",
+  "first_page": "448",
+  "last_page": "448",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 448"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 136,
+    "sha256": "22eee9cc2ce7b296297dcfefe59e03c36631d27b1d44b8ecf917a52353954055",
+    "simhash": "1:5f4790a4aeec711b",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Michael HABINIAK, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Michael HABINIAK, petitioner.\nNo. 16-295.\nSupreme Court of the United States\nNov. 7, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0448-03",
+  "first_page_order": 448,
+  "last_page_order": 448
+}

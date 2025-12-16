@@ -1,0 +1,64 @@
+{
+  "id": 12606770,
+  "name": "Pedro ORTIZ, petitioner, v. MASSACHUSSETTS.",
+  "name_abbreviation": "Ortiz v. Massachussetts",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135435.",
+  "first_page": "234",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 180"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 185,
+    "sha256": "518f437ba05413a3958c4d5f03b87b0c6ccef2cb40e92187a624b3e85bcd0e72",
+    "simhash": "1:7bcfc3362c8d82f5",
+    "word_count": 28
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro ORTIZ, petitioner,\nv.\nMASSACHUSSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appeals Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro ORTIZ, petitioner,\nv.\nMASSACHUSSETTS.\nNo. 16-5435.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Appeals Court of Massachusetts denied."
+  },
+  "file_name": "0234-02",
+  "first_page_order": 234,
+  "last_page_order": 234
+}

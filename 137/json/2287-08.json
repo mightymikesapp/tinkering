@@ -1,0 +1,62 @@
+{
+  "id": 12606496,
+  "name": "In the Matter of DISBARMENT OF Robert Thomas THOMPSON, Jr.",
+  "name_abbreviation": "In re Thompson",
+  "decision_date": "2017-06-19",
+  "docket_number": "No. D\u20132950.",
+  "first_page": "2287",
+  "last_page": "2287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2287"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 717"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 148,
+    "sha256": "ba7fd6dbdb413d9267febda6326f8962124f245c258f6488bb3235bb66183f99",
+    "simhash": "1:e224549b3eed1677",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Robert Thomas THOMPSON, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Robert Thomas THOMPSON, Jr.\nNo. D-2950.\nSupreme Court of the United States\nJune 19, 2017.\nDisbarment order entered."
+  },
+  "file_name": "2287-08",
+  "first_page_order": 2287,
+  "last_page_order": 2287
+}

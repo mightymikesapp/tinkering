@@ -1,0 +1,64 @@
+{
+  "id": 12604927,
+  "name": "In Re Vivek SHAH, petitioner.",
+  "name_abbreviation": "In re Shah",
+  "decision_date": "2017-04-24",
+  "docket_number": "No. 16\u20138431.",
+  "first_page": "1830",
+  "last_page": "1830",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1830"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 777"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 212,
+    "sha256": "58ad5bdb6851fd671af517626ee9e134277e807d585026c8eaea1902f16b72c4",
+    "simhash": "1:0b5352c65a02574a",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Vivek SHAH, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Justice GORSUCH took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice GORSUCH took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Vivek SHAH, petitioner.\nNo. 16-8431.\nSupreme Court of the United States\nApril 24, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1830-04",
+  "first_page_order": 1830,
+  "last_page_order": 1830
+}

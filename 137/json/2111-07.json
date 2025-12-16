@@ -1,0 +1,64 @@
+{
+  "id": 12605329,
+  "name": "Robert PEREZ, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Perez v. Florida",
+  "decision_date": "2017-05-01",
+  "docket_number": "No. 16\u20136250.",
+  "first_page": "2111",
+  "last_page": "2111",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2111"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 909"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 131,
+    "sha256": "702fb169854001ecc6e8526d760fd732c28914e540f15a60e5338fff0cd90f3d",
+    "simhash": "1:11365659bc8f7a07",
+    "word_count": 20
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert PEREZ, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert PEREZ, petitioner,\nv.\nFLORIDA.\nNo. 16-6250.\nSupreme Court of the United States\nMay 1, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "2111-07",
+  "first_page_order": 2111,
+  "last_page_order": 2111
+}

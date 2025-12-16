@@ -1,0 +1,64 @@
+{
+  "id": 12609724,
+  "name": "John Lawrence RACE, petitioner, v. STOUT MANAGEMENT, et al.",
+  "name_abbreviation": "Race v. Stout Mgmt.",
+  "decision_date": "2017-01-17",
+  "docket_number": "No. 16\u20136947.",
+  "first_page": "819",
+  "last_page": "819",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 819"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 605"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 195,
+    "sha256": "6f2cee7fa8b8bc380cfd5956cb6c0550a0d70c48805f4c884ce79e588cf60b56",
+    "simhash": "1:63ae56cc7a2f0691",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Lawrence RACE, petitioner,\nv.\nSTOUT MANAGEMENT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Nevada denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Lawrence RACE, petitioner,\nv.\nSTOUT MANAGEMENT, et al.\nNo. 16-6947.\nSupreme Court of the United States\nJan. 17, 2017.\nPetition for writ of certiorari to the Supreme Court of Nevada denied."
+  },
+  "file_name": "0819-03",
+  "first_page_order": 819,
+  "last_page_order": 819
+}

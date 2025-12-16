@@ -1,0 +1,64 @@
+{
+  "id": 12606996,
+  "name": "DELAWARE, plaintiff, v. PENNSYLVANIA and Wisconsin.",
+  "name_abbreviation": "Delaware v. Pennsylvania",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 145 Original.",
+  "first_page": "266",
+  "last_page": "266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 266"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 15"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 345,
+    "sha256": "86e8d53b0e04d79b54dec2bd2642c079504badb26c13c74b89ad19e4b3c40628",
+    "simhash": "1:f838c9165cc94819",
+    "word_count": 56
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "DELAWARE, plaintiff,\nv.\nPENNSYLVANIA and Wisconsin."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file Bill of Complaint and for leave to file Counterclaims is granted. The case is consolidated and the parties is allowed thirty days within which to file answers to the complaints and the counterclaims."
+    ],
+    "corrections": "",
+    "head_matter": "DELAWARE, plaintiff,\nv.\nPENNSYLVANIA and Wisconsin.\nNo. 145 Original.\nSupreme Court of the United States\nOct. 3, 2016.\nMotion for leave to file Bill of Complaint and for leave to file Counterclaims is granted. The case is consolidated and the parties is allowed thirty days within which to file answers to the complaints and the counterclaims."
+  },
+  "file_name": "0266-02",
+  "first_page_order": 266,
+  "last_page_order": 266
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12606910,
+  "name": "In re Yony DUARTE, petitioner.",
+  "name_abbreviation": "In re Duarte",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135621.",
+  "first_page": "254",
+  "last_page": "254",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 254"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 137,
+    "sha256": "b88024b71bb565b4964a2d079daa23c53ed467dcb0def3edd6a29fcb4ea368cf",
+    "simhash": "1:68cf530e9ad94229",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Yony DUARTE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Yony DUARTE, petitioner.\nNo. 16-5621.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0254-01",
+  "first_page_order": 254,
+  "last_page_order": 254
+}

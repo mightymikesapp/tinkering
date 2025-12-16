@@ -1,0 +1,64 @@
+{
+  "id": 12607597,
+  "name": "Bruno SALGADO, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Salgado v. Illinois",
+  "decision_date": "2016-10-31",
+  "docket_number": "No. 16\u20135681.",
+  "first_page": "377",
+  "last_page": "377",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 377"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "b0e8d9a46b8545118fac0889b0635044ebe209c5b6642f9d79095363606839e3",
+    "simhash": "1:eaef74b4f8010580",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bruno SALGADO, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bruno SALGADO, petitioner,\nv.\nILLINOIS.\nNo. 16-5681.\nSupreme Court of the United States\nOct. 31, 2016.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "0377-03",
+  "first_page_order": 377,
+  "last_page_order": 377
+}

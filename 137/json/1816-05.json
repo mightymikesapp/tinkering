@@ -1,0 +1,64 @@
+{
+  "id": 12604841,
+  "name": "In Re Robert MARIE, et ux., petitioners.",
+  "name_abbreviation": "In re Marie",
+  "decision_date": "2017-04-24",
+  "docket_number": "No. 16\u20137960.",
+  "first_page": "1816",
+  "last_page": "1816",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1816"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 776"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 223,
+    "sha256": "53719d1be2daadd8daa9faa91ab652c40256988ae941cdc23b777241bc825e95",
+    "simhash": "1:1b1350447a02c74b",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Robert MARIE, et ux., petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "Justice GORSUCH took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice GORSUCH took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Robert MARIE, et ux., petitioners.\nNo. 16-7960.\nSupreme Court of the United States\nApril 24, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1816-05",
+  "first_page_order": 1816,
+  "last_page_order": 1816
+}

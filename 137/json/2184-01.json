@@ -1,0 +1,62 @@
+{
+  "id": 12605807,
+  "name": "In the Matter of DISBARMENT OF Robert Allan HOLSTEIN.",
+  "name_abbreviation": "In re Holstein",
+  "decision_date": "2017-05-22",
+  "docket_number": "No. D\u20132939.",
+  "first_page": "2184",
+  "last_page": "2184",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2184"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 142,
+    "sha256": "3fabbbed1cc1b42e2743d2a53975958ac02b614d30ef86bec06a479359de6f48",
+    "simhash": "1:72265440be7d7364",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Robert Allan HOLSTEIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Robert Allan HOLSTEIN.\nNo. D-2939.\nSupreme Court of the United States\nMay 22, 2017.\nDisbarment order entered."
+  },
+  "file_name": "2184-01",
+  "first_page_order": 2184,
+  "last_page_order": 2184
+}

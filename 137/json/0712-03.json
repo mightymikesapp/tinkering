@@ -1,0 +1,64 @@
+{
+  "id": 12609501,
+  "name": "John R. GARCIA, petitioner, v. UNITED STATES POSTAL SERVICE.",
+  "name_abbreviation": "Garcia v. U.S. Postal Serv.",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136646.",
+  "first_page": "712",
+  "last_page": "712",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 712"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 547"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 226,
+    "sha256": "3ec42e8393be82dac4351e8b7e7247b58948ca5f03c8bc7d10ead6f25250adb1",
+    "simhash": "1:8aaf40c431624231",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John R. GARCIA, petitioner,\nv.\nUNITED STATES POSTAL SERVICE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John R. GARCIA, petitioner,\nv.\nUNITED STATES POSTAL SERVICE.\nNo. 16-6646.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0712-03",
+  "first_page_order": 712,
+  "last_page_order": 712
+}

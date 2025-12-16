@@ -1,0 +1,64 @@
+{
+  "id": 12607205,
+  "name": "Robin W. HAMMER, petitioner, v. Robert B. HAMMER, et al.",
+  "name_abbreviation": "Hammer v. Hammer",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. 16\u20135466.",
+  "first_page": "302",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 302"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 222"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 210,
+    "sha256": "aab1cc869d332efc483f7f68408473f17b00f17c0384a836f6236d38899e9c75",
+    "simhash": "1:5eaf561cb0a590cc",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robin W. HAMMER, petitioner,\nv.\nRobert B. HAMMER, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robin W. HAMMER, petitioner,\nv.\nRobert B. HAMMER, et al.\nNo. 16-5466.\nSupreme Court of the United States\nOct. 11, 2016.\nPetition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+  },
+  "file_name": "0302-02",
+  "first_page_order": 302,
+  "last_page_order": 302
+}

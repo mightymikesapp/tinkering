@@ -1,0 +1,64 @@
+{
+  "id": 12607408,
+  "name": "Lawrence LANDRUM, petitioner, v. Charlotte JENKINS, Warden.",
+  "name_abbreviation": "Landrum v. Jenkins",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u20135203.",
+  "first_page": "333",
+  "last_page": "333",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 333"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 264"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 224,
+    "sha256": "d183194e0aa3b778dc517b042625603c323d61a3dece9711a692477265c1766d",
+    "simhash": "1:70ef4644bf841381",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lawrence LANDRUM, petitioner,\nv.\nCharlotte JENKINS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lawrence LANDRUM, petitioner,\nv.\nCharlotte JENKINS, Warden.\nNo. 16-5203.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0333-05",
+  "first_page_order": 333,
+  "last_page_order": 333
+}

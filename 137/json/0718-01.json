@@ -1,0 +1,64 @@
+{
+  "id": 12609541,
+  "name": "In re Rene RAMON, petitioner.",
+  "name_abbreviation": "In re Ramon",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20135342.",
+  "first_page": "718",
+  "last_page": "718",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 718"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 587"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 124,
+    "sha256": "7cf1ee96032eff169e772802d138fca1b512c4fefc842c3350e3564249061eb5",
+    "simhash": "1:30f750c776aa43a4",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Rene RAMON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Rene RAMON, petitioner.\nNo. 16-5342.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "0718-01",
+  "first_page_order": 718,
+  "last_page_order": 718
+}

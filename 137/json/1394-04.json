@@ -1,0 +1,64 @@
+{
+  "id": 12604058,
+  "name": "In Re RE017699808US-01 TRUST, petitioner.",
+  "name_abbreviation": "In re RE017699808US-01 Trust",
+  "decision_date": "2017-03-27",
+  "docket_number": "No. 16M102.",
+  "first_page": "1394",
+  "last_page": "1394",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1394"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 552"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 185,
+    "sha256": "c5a6ebed1ad68aa152fa62108523a619b4c70bab412c50140f504d7dde8140cd",
+    "simhash": "1:7bab7836fff9215b",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re RE017699808US-01 TRUST, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for writ of prohibition under seal denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re RE017699808US-01 TRUST, petitioner.\nNo. 16M102.\nSupreme Court of the United States\nMarch 27, 2017.\nMotion for leave to file a petition for writ of prohibition under seal denied."
+  },
+  "file_name": "1394-04",
+  "first_page_order": 1394,
+  "last_page_order": 1394
+}

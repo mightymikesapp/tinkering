@@ -1,0 +1,64 @@
+{
+  "id": 12606242,
+  "name": "Jerry JOHNSON, petitioner, v. CALIFORNIA.",
+  "name_abbreviation": "Johnson v. California",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135359.",
+  "first_page": "225",
+  "last_page": "225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 225"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 174"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 208,
+    "sha256": "efa74ef08e958b406ec5a25d062c9d864dc2c9c00c0f296875b4f11107cd49c6",
+    "simhash": "1:79ef66063edd807d",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry JOHNSON, petitioner,\nv.\nCALIFORNIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeal of California, First Appellate District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerry JOHNSON, petitioner,\nv.\nCALIFORNIA.\nNo. 16-5359.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Court of Appeal of California, First Appellate District denied."
+  },
+  "file_name": "0225-04",
+  "first_page_order": 225,
+  "last_page_order": 225
+}

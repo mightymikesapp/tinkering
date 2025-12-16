@@ -1,0 +1,64 @@
+{
+  "id": 12603474,
+  "name": "In re James MITCHELL, petitioner.",
+  "name_abbreviation": "In re Mitchell",
+  "decision_date": "2017-03-06",
+  "docket_number": "No. 16\u20137878.",
+  "first_page": "1239",
+  "last_page": "1239",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1239"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 483"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 141,
+    "sha256": "be0600abd569f7704a33c1a59cca22115cd4ee69dd893487a14ed488a5c47fe1",
+    "simhash": "1:e26f300593da5311",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re James MITCHELL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re James MITCHELL, petitioner.\nNo. 16-7878.\nSupreme Court of the United States\nMarch 6, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1239-01",
+  "first_page_order": 1239,
+  "last_page_order": 1239
+}

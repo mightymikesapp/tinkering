@@ -1,0 +1,64 @@
+{
+  "id": 12609217,
+  "name": "John STOCKMAN, petitioner, v. Mary BERGHUIS, Warden.",
+  "name_abbreviation": "Stockman v. Berghuis",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139328.",
+  "first_page": "67",
+  "last_page": "67",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 67"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 64"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 216,
+    "sha256": "0228ed1203cc051ca06db73b3a7bbb32f7976a402f4876f9a85efc61e3ace2c9",
+    "simhash": "1:f0ee5644128dc2a1",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John STOCKMAN, petitioner,\nv.\nMary BERGHUIS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John STOCKMAN, petitioner,\nv.\nMary BERGHUIS, Warden.\nNo. 15-9328.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0067-03",
+  "first_page_order": 67,
+  "last_page_order": 67
+}

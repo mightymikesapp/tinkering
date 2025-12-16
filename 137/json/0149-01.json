@@ -1,0 +1,64 @@
+{
+  "id": 12604288,
+  "name": "Stephen J. KONN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Konn v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20131541.",
+  "first_page": "149",
+  "last_page": "149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 149"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 45"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 211,
+    "sha256": "663ba6a66959cb4fada60fa4cc799ab9d8fbeef27c4287218c4989ca75e77706",
+    "simhash": "1:73af46c43fc58019",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephen J. KONN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stephen J. KONN, petitioner,\nv.\nUNITED STATES.\nNo. 15-1541.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0149-01",
+  "first_page_order": 149,
+  "last_page_order": 149
+}

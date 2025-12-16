@@ -1,0 +1,64 @@
+{
+  "id": 12606926,
+  "name": "In re John Aubry TURNER, petitioner.",
+  "name_abbreviation": "In re Turner",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135659.",
+  "first_page": "256",
+  "last_page": "256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 256"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 143,
+    "sha256": "3cb794ec12cd3415193b6dd0fe925c973de2e06b3cad46ca00e07f85b373a0d9",
+    "simhash": "1:696f644c9edb8339",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re John Aubry TURNER, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re John Aubry TURNER, petitioner.\nNo. 16-5659.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0256-04",
+  "first_page_order": 256,
+  "last_page_order": 256
+}

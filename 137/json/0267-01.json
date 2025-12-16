@@ -1,0 +1,62 @@
+{
+  "id": 12607000,
+  "name": "VISA INC., et al., petitioners, v. Mary STOUMBOS, et al.",
+  "name_abbreviation": "Visa Inc. v. Stoumbos",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u2013962.",
+  "first_page": "267",
+  "last_page": "267",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 267"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 16"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 194,
+    "sha256": "0f6b9ddd2bd2ed3789455027560d8b357532951e0a7d1b757a21d7556c50a7c0",
+    "simhash": "1:f04f6040b6b76dfb",
+    "word_count": 32
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "VISA INC., et al., petitioners,\nv.\nMary STOUMBOS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "VISA INC., et al., petitioners,\nv.\nMary STOUMBOS, et al.\nNo. 15-962.\nSupreme Court of the United States\nOct. 3, 2016.\nMotion of petitioner to dispense with printing the joint appendix granted."
+  },
+  "file_name": "0267-01",
+  "first_page_order": 267,
+  "last_page_order": 267
+}

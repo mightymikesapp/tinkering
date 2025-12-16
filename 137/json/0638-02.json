@@ -1,0 +1,64 @@
+{
+  "id": 12609004,
+  "name": "Jeremy DAVIS, petitioner, v. Cindy GRIFFITH, Warden.",
+  "name_abbreviation": "Davis v. Griffith",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136480.",
+  "first_page": "638",
+  "last_page": "638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 638"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 538"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 189,
+    "sha256": "1966d97c73c69c81e8a7b063b0043b4301456d7994c19ed3cf32875cb8f896d5",
+    "simhash": "1:70ef165c30a747b5",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jeremy DAVIS, petitioner,\nv.\nCindy GRIFFITH, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Missouri denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jeremy DAVIS, petitioner,\nv.\nCindy GRIFFITH, Warden.\nNo. 16-6480.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the Supreme Court of Missouri denied."
+  },
+  "file_name": "0638-02",
+  "first_page_order": 638,
+  "last_page_order": 638
+}

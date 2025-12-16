@@ -1,0 +1,64 @@
+{
+  "id": 12607255,
+  "name": "Don SPAULDING, et al., petitioners, v. William WELCH.",
+  "name_abbreviation": "Spaulding v. Welch",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u2013843.",
+  "first_page": "31",
+  "last_page": "31",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 31"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 24"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "00f1e44264f059c28c525a778d2ef020f80fa1c7147885065f2cb0d30cd2fef7",
+    "simhash": "1:f5ed66003784d439",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Don SPAULDING, et al., petitioners,\nv.\nWilliam WELCH."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Don SPAULDING, et al., petitioners,\nv.\nWilliam WELCH.\nNo. 15-843.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0031-03",
+  "first_page_order": 31,
+  "last_page_order": 31
+}

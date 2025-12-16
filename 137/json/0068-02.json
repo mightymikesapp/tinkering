@@ -1,0 +1,64 @@
+{
+  "id": 12609283,
+  "name": "K.D., et al., petitioners, v. FACEBOOK, INC., et al.",
+  "name_abbreviation": "K.D. v. Facebook, Inc.",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20131404.",
+  "first_page": "68",
+  "last_page": "68",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 68"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 34"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "a0cfb1d0a5f3079de9efb90e12b22a8def6390b4276725b043ef74e4438164a7",
+    "simhash": "1:7bef7246b5c183ed",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "K.D., et al., petitioners,\nv.\nFACEBOOK, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "K.D., et al., petitioners,\nv.\nFACEBOOK, INC., et al.\nNo. 15-1404.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0068-02",
+  "first_page_order": 68,
+  "last_page_order": 68
+}

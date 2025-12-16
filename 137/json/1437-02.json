@@ -1,0 +1,64 @@
+{
+  "id": 12604146,
+  "name": "John DIXON, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Dixon v. New York",
+  "decision_date": "2017-04-03",
+  "docket_number": "No. 16\u20137677.",
+  "first_page": "1437",
+  "last_page": "1437",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1437"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 651"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 222,
+    "sha256": "aca2b4dee328fb20a3e3802244b90ad7ad334ae718443ce6e968e294807cd566",
+    "simhash": "1:78a632525a084101",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DIXON, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department denied."
+    ],
+    "corrections": "",
+    "head_matter": "John DIXON, petitioner,\nv.\nNEW YORK.\nNo. 16-7677.\nSupreme Court of the United States\nApril 3, 2017.\nPetition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department denied."
+  },
+  "file_name": "1437-02",
+  "first_page_order": 1437,
+  "last_page_order": 1437
+}

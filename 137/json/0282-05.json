@@ -1,0 +1,64 @@
+{
+  "id": 12607095,
+  "name": "ORANGE, S.A., et al., petitioners, v. UNITED STATES DISTRICT COURT FOR the NORTHERN DISTRICT OF CALIFORNIA, et al.",
+  "name_abbreviation": "Orange v. U.S. Dist. Court for the N. Dist. of Cal.",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u201387.",
+  "first_page": "282",
+  "last_page": "282",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 282"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 129"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 276,
+    "sha256": "13bb2038e35cd5c85734c5f0339499d67c2a8296d37d89467747cb2766ed8553",
+    "simhash": "1:73ef7640bd855689",
+    "word_count": 46
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ORANGE, S.A., et al., petitioners,\nv.\nUNITED STATES DISTRICT COURT FOR the NORTHERN DISTRICT OF CALIFORNIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "ORANGE, S.A., et al., petitioners,\nv.\nUNITED STATES DISTRICT COURT FOR the NORTHERN DISTRICT OF CALIFORNIA, et al.\nNo. 16-87.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0282-05",
+  "first_page_order": 282,
+  "last_page_order": 282
+}

@@ -1,0 +1,94 @@
+{
+  "id": 12605701,
+  "name": "Arthur Brennan MALLOY, petitioner, v. MONTGOMERY COUNTY, ALABAMA, et al.",
+  "name_abbreviation": "Malloy v. Montgomery Cnty.",
+  "decision_date": "2017-05-22",
+  "docket_number": "No. 16\u20138495.",
+  "first_page": "2168",
+  "last_page": "2168",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2168"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 228"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 84,
+    "char_count": 648,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635802318976898
+    },
+    "sha256": "a64d94c2246449dc54b37515c708955a364b76e2416a6b594bd58deae7ea5a19",
+    "simhash": "1:4962e5cde30dd69f",
+    "word_count": 105
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Arthur Brennan MALLOY, petitioner,\nv.\nMONTGOMERY COUNTY, ALABAMA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Arthur Brennan MALLOY, petitioner,\nv.\nMONTGOMERY COUNTY, ALABAMA, et al.\nNo. 16-8495.\nSupreme Court of the United States\nMay 22, 2017.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "2168-04",
+  "first_page_order": 2168,
+  "last_page_order": 2168
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12607964,
+  "name": "Pedro JUAN-SOLANO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Juan-Solano v. United States",
+  "decision_date": "2016-11-07",
+  "docket_number": "No. 16\u20136295.",
+  "first_page": "455",
+  "last_page": "455",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 455"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 335"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 212,
+    "sha256": "e591588ff84af5d16573ea14ef179c2b9fd04a941fee558153045dd90b67fb0d",
+    "simhash": "1:a9ef74c422a52289",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pedro JUAN-SOLANO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pedro JUAN-SOLANO, petitioner,\nv.\nUNITED STATES.\nNo. 16-6295.\nSupreme Court of the United States\nNov. 7, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0455-05",
+  "first_page_order": 455,
+  "last_page_order": 455
+}

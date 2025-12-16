@@ -1,0 +1,64 @@
+{
+  "id": 12604242,
+  "name": "In Re Linda Ann WRIGHT, petitioner.",
+  "name_abbreviation": "In re Wright",
+  "decision_date": "2017-04-03",
+  "docket_number": "No. 16M105.",
+  "first_page": "1451",
+  "last_page": "1451",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1451"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 645"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 148,
+    "sha256": "c2ebd9a3e2f338c0251d0dba37a2d0f1684a304dbc84089b1354870c4a7e1ba7",
+    "simhash": "1:b1a1520300cde578",
+    "word_count": 26
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Linda Ann WRIGHT, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to proceed as a veteran denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Linda Ann WRIGHT, petitioner.\nNo. 16M105.\nSupreme Court of the United States\nApril 3, 2017.\nMotion for leave to proceed as a veteran denied."
+  },
+  "file_name": "1451-01",
+  "first_page_order": 1451,
+  "last_page_order": 1451
+}

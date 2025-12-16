@@ -1,0 +1,62 @@
+{
+  "id": 12607531,
+  "name": "In the Matter of DISBARMENT OF Frederick B. HAYES, III.",
+  "name_abbreviation": "In re Hayes",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. D\u20132904.",
+  "first_page": "351",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 351"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "be3998d66959b0d48e34f877692e0634609f972bd2c41e0956b15c3adf58fef2",
+    "simhash": "1:ea775418bcee9765",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Frederick B. HAYES, III."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Frederick B. HAYES, III.\nNo. D-2904.\nSupreme Court of the United States\nOct. 17, 2016.\nDisbarment order entered."
+  },
+  "file_name": "0351-07",
+  "first_page_order": 351,
+  "last_page_order": 351
+}

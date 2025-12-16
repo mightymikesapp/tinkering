@@ -1,0 +1,78 @@
+{
+  "id": 12608692,
+  "name": "SYSTEMS, INC., petitioner, v. NORDOCK, INC.",
+  "name_abbreviation": "Sys., Inc. v. Nordock, Inc.",
+  "decision_date": "2016-12-12",
+  "docket_number": "No. 15\u2013978.",
+  "first_page": "589",
+  "last_page": "589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 589"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 429",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12607884
+      ],
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/0429-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 475,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26358756823274254
+    },
+    "sha256": "f88636f47adecdd7da962299124b910a8d1e4aed8f9109d71638b030db96656e",
+    "simhash": "1:3a2ee2c42d62128b",
+    "word_count": 75
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SYSTEMS, INC., petitioner,\nv.\nNORDOCK, INC."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of Samsung Electronics Co. v. Apple Inc., 580 U.S. ----, 137 S.Ct. 429, --- L.E.2d ---- (2016)."
+    ],
+    "corrections": "",
+    "head_matter": "SYSTEMS, INC., petitioner,\nv.\nNORDOCK, INC.\nNo. 15-978.\nSupreme Court of the United States\nDec. 12, 2016.\nOn petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of Samsung Electronics Co. v. Apple Inc., 580 U.S. ----, 137 S.Ct. 429, --- L.E.2d ---- (2016)."
+  },
+  "file_name": "0589-01",
+  "first_page_order": 589,
+  "last_page_order": 589
+}

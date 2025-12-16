@@ -1,0 +1,64 @@
+{
+  "id": 12605181,
+  "name": "Roger SMITH, petitioner, v. Karen PSZCZOLKOWSKI, Warden.",
+  "name_abbreviation": "Smith v. Pszczolkowski",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135238.",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 209"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 162"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 209,
+    "sha256": "e3d8f361d2ea76d5c7ab118d97a7cf5450be05cb23dd7fead3dffea4879e67d4",
+    "simhash": "1:7c6f52c6b8c50014",
+    "word_count": 33
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Roger SMITH, petitioner,\nv.\nKaren PSZCZOLKOWSKI, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Roger SMITH, petitioner,\nv.\nKaren PSZCZOLKOWSKI, Warden.\nNo. 16-5238.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+  },
+  "file_name": "0209-06",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

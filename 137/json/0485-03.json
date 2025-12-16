@@ -1,0 +1,60 @@
+{
+  "id": 12608098,
+  "name": "In re Gary Allen KACHINA, petitioner.",
+  "name_abbreviation": "In re Kachina",
+  "decision_date": "2016-11-14",
+  "docket_number": "No. 16\u20136326.",
+  "first_page": "485",
+  "last_page": "485",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 485"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "8eafa2267c694bf9cf500addf7459811133a77ae139024915b7cd078001e8300",
+    "simhash": "1:f82f1684e0811698",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gary Allen KACHINA, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Gary Allen KACHINA, petitioner.\nNo. 16-6326.\nSupreme Court of the United States\nNov. 14, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0485-03",
+  "first_page_order": 485,
+  "last_page_order": 485
+}

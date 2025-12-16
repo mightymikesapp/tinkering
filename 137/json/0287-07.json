@@ -1,0 +1,62 @@
+{
+  "id": 12607128,
+  "name": "In the Matter of Gustavo VILA.",
+  "name_abbreviation": "In re Vila",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. D\u20132920.",
+  "first_page": "287",
+  "last_page": "288",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 287"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 386,
+    "sha256": "e3fd5a848a0671fac820dce38e276ddb627c657f13e330df3fe056bf25389621",
+    "simhash": "1:18cd51d0af9eb56b",
+    "word_count": 71
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Gustavo VILA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Gustavo VILA.\nNo. D-2920.\nSupreme Court of the United States\nOct. 3, 2016.\nGustavo Vila, of Yorktown Heights, New York, having requested to resign as a member of the Bar of this Court, it is ordered that his name be stricken from the roll of attorneys admitted to the practice of law before this Court. The Rule to Show Cause, issued on August 8, 2016, is discharged."
+  },
+  "file_name": "0287-07",
+  "first_page_order": 287,
+  "last_page_order": 288
+}

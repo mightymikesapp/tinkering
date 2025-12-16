@@ -1,0 +1,64 @@
+{
+  "id": 12606847,
+  "name": "In re Duane LeTroy BERRY, petitioner.",
+  "name_abbreviation": "In re Berry",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135522.",
+  "first_page": "245",
+  "last_page": "245",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 245"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 144,
+    "sha256": "d5f6f95cb105cd3c8de5b3cb87c354f87c054e227259789b7ab4cd0a0ad89641",
+    "simhash": "1:695f516a9ec9815c",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Duane LeTroy BERRY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Duane LeTroy BERRY, petitioner.\nNo. 16-5522.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0245-03",
+  "first_page_order": 245,
+  "last_page_order": 245
+}

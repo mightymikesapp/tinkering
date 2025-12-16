@@ -1,0 +1,91 @@
+{
+  "id": 12609639,
+  "name": "Marcus Dante REED v. LOUISIANA.",
+  "name_abbreviation": "Reed v. Louisiana",
+  "decision_date": "2017-02-27",
+  "docket_number": "No. 16\u2013656.",
+  "first_page": "787",
+  "last_page": "787",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 787"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "135 S.Ct. 2726",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12591161
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "BREYER, J., dissenting"
+        },
+        {
+          "parenthetical": "BREYER, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/135/2726-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 101,
+    "char_count": 959,
+    "pagerank": {
+      "raw": 7.605833119244751e-08,
+      "percentile": 0.4501855127461099
+    },
+    "sha256": "ca757a891e4f6df16814762ecbb003f29e2138005c5590db647ce9b40c53e716",
+    "simhash": "1:79efdcd68c4037bf",
+    "word_count": 159
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marcus Dante REED\nv.\nLOUISIANA."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYER, dissenting from the denial of certiorari.\nMarcus Dante Reed was sentenced to death in Caddo Parish, Louisiana, a county that in recent history has apparently sentenced more people to death per capita than any other county in the United States. See Aviv, Revenge Killing: Race and the Death Penalty in a Louisiana Parish, The New Yorker, July 6 & 13, 2015, p. 34. The arbitrary role that geography plays in the imposition of the death penalty, along with the other serious problems I have previously described, has led me to conclude that the Court should consider the basic question of the death penalty's constitutionality. See Glossip v. Gross, 576 U.S. ----, 135 S.Ct. 2726, 192 L.Ed.2d 761 (2015) (BREYER, J., dissenting). For this reason, I would grant Reed's petition for a writ of certiorari.",
+        "type": "majority",
+        "author": "Justice BREYER, dissenting from the denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "The petition for a writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marcus Dante REED\nv.\nLOUISIANA.\nNo. 16-656.\nSupreme Court of the United States\nFeb. 27, 2017.\nThe petition for a writ of certiorari is denied."
+  },
+  "file_name": "0787-01",
+  "first_page_order": 787,
+  "last_page_order": 787
+}

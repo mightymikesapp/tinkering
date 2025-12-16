@@ -1,0 +1,64 @@
+{
+  "id": 12606244,
+  "name": "David ESCOBAR, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Escobar v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135361.",
+  "first_page": "225",
+  "last_page": "225",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 225"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 174"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "96a02b6bb4b06cd20f92729ea31d99cddb336b029e6a4ed01a7c98a372026fff",
+    "simhash": "1:f3ed76422e8d8629",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David ESCOBAR, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David ESCOBAR, petitioner,\nv.\nUNITED STATES.\nNo. 16-5361.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0225-06",
+  "first_page_order": 225,
+  "last_page_order": 225
+}

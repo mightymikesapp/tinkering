@@ -1,0 +1,64 @@
+{
+  "id": 12607667,
+  "name": "Jerry Kevin DUKE, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Duke v. Tennessee",
+  "decision_date": "2016-10-31",
+  "docket_number": "No. 16\u20135879.",
+  "first_page": "387",
+  "last_page": "387",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 387"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 305"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 211,
+    "sha256": "4cbf02ce902c6f6fa087a0acd8bd7d12735e9af3dc493f35aa930b9354220d35",
+    "simhash": "1:58afb0d439c10199",
+    "word_count": 33
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerry Kevin DUKE, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Middle Division denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerry Kevin DUKE, petitioner,\nv.\nTENNESSEE.\nNo. 16-5879.\nSupreme Court of the United States\nOct. 31, 2016.\nPetition for writ of certiorari to the Court of Criminal Appeals of Tennessee, Middle Division denied."
+  },
+  "file_name": "0387-05",
+  "first_page_order": 387,
+  "last_page_order": 387
+}

@@ -1,0 +1,82 @@
+{
+  "id": 12606020,
+  "name": "Martin OVALLE-GARCIA, petitioner, v. UNITED STATES; Joel Silva-Duran, petitioner, v. United States.",
+  "name_abbreviation": "Ovalle-Garcia v. United States",
+  "decision_date": "2017-06-05",
+  "docket_number": "No. 16\u20138455.",
+  "first_page": "2215",
+  "last_page": "2216",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2215"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 656"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 1562",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12604345
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/1562-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 589,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26358119720493356
+    },
+    "sha256": "e444b1340bd5d5cf191ca840f062c3ad4f34900abc5c3e4c279465c6019c068e",
+    "simhash": "1:3489f6c42725ca1c",
+    "word_count": 89
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Martin OVALLE-GARCIA, petitioner,\nv.\nUNITED STATES;"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioners for leave to proceed in forma pauperis and petitions for writs of certiorari granted. Judgments vacated, and cases remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Esquivel-Quintana v. Sessions, 581 U.S. ----, 137 S.Ct. 1562, --- L.E.2d ---- (2017)."
+    ],
+    "corrections": "",
+    "head_matter": "Martin OVALLE-GARCIA, petitioner,\nv.\nUNITED STATES;\nJoel Silva-Duran, petitioner,\nv.\nUnited States.\nNo. 16-8455.\nSupreme Court of the United States\nJune 5, 2017.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motion of petitioners for leave to proceed in forma pauperis and petitions for writs of certiorari granted. Judgments vacated, and cases remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Esquivel-Quintana v. Sessions, 581 U.S. ----, 137 S.Ct. 1562, --- L.E.2d ---- (2017)."
+  },
+  "file_name": "2215-05",
+  "first_page_order": 2215,
+  "last_page_order": 2216
+}

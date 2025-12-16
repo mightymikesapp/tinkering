@@ -1,0 +1,100 @@
+{
+  "id": 12604660,
+  "name": "Jason Farrell McGEHEE, et al., petitioners, v. Asa HUTCHINSON, Governor of Arkansas, et al.",
+  "name_abbreviation": "McGehee v. Hutchinson",
+  "decision_date": "2017-04-20",
+  "docket_number": "No. 16\u20138787 (16A1006).",
+  "first_page": "1622",
+  "last_page": "1622",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1622"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 748"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "197 L.Ed.2d 746",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        12604663,
+        12603558,
+        12604655
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/1622-04",
+        "/s-ct/137/1275-01",
+        "/s-ct/137/1621-01"
+      ]
+    },
+    {
+      "cite": "137 S.Ct. 1275",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12603558
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/1275-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 64,
+    "char_count": 579,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635781082217535
+    },
+    "sha256": "12ec24a38e760df1a756df974b196fe266ad2e83f4561b0de57b1ce15dbf54c9",
+    "simhash": "1:727f76d877a50548",
+    "word_count": 95
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason Farrell McGEHEE, et al., petitioners,\nv.\nAsa HUTCHINSON, Governor of Arkansas, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay of execution of sentences of death presented to Justice ALITO and by him referred to the Court denied. Petition for a writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.",
+      "Justice BREYER dissenting from denial of certiorari: I dissent from the denial for the reasons set out in McGehee v. Hutchinson , 580 U.S. ----, 137 S.Ct. 1275, 197 L.Ed.2d 746 (2017)."
+    ],
+    "corrections": "",
+    "head_matter": "Jason Farrell McGEHEE, et al., petitioners,\nv.\nAsa HUTCHINSON, Governor of Arkansas, et al.\nNo. 16-8787 (16A1006).\nSupreme Court of the United States\nApril 20, 2017.\nApplication for stay of execution of sentences of death presented to Justice ALITO and by him referred to the Court denied. Petition for a writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied.\nJustice BREYER dissenting from denial of certiorari: I dissent from the denial for the reasons set out in McGehee v. Hutchinson , 580 U.S. ----, 137 S.Ct. 1275, 197 L.Ed.2d 746 (2017)."
+  },
+  "file_name": "1622-01",
+  "first_page_order": 1622,
+  "last_page_order": 1622
+}

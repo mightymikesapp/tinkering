@@ -1,0 +1,64 @@
+{
+  "id": 12606229,
+  "name": "Richard ADAMS, petitioner, v. Avery NILES, et al.",
+  "name_abbreviation": "Adams v. Niles",
+  "decision_date": "2017-06-12",
+  "docket_number": "No. 16\u20131282.",
+  "first_page": "2248",
+  "last_page": "2248",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2248"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 679"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 217,
+    "sha256": "a40c22fffe59cf253018967077c05620cd907998a302a76c985b146f6a43ebf8",
+    "simhash": "1:7bad564c1ba563db",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard ADAMS, petitioner,\nv.\nAvery NILES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard ADAMS, petitioner,\nv.\nAvery NILES, et al.\nNo. 16-1282.\nSupreme Court of the United States\nJune 12, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2248-03",
+  "first_page_order": 2248,
+  "last_page_order": 2248
+}

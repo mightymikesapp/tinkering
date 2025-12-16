@@ -1,0 +1,60 @@
+{
+  "id": 12608660,
+  "name": "John F. JONES, petitioner, v. Michael FINESILVER.",
+  "name_abbreviation": "Jones v. Finesilver",
+  "decision_date": "2016-12-05",
+  "docket_number": "No. 15\u20139401.",
+  "first_page": "584",
+  "last_page": "584",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 584"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 144,
+    "sha256": "ba08fca1a12b1bf68960989f949d520baf24f0e7808bea0cc33c0ab6d0875f85",
+    "simhash": "1:ed275c4a1987e2ae",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John F. JONES, petitioner,\nv.\nMichael FINESILVER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John F. JONES, petitioner,\nv.\nMichael FINESILVER.\nNo. 15-9401.\nSupreme Court of the United States\nDec. 5, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0584-06",
+  "first_page_order": 584,
+  "last_page_order": 584
+}

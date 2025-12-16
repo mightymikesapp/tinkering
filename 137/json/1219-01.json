@@ -1,0 +1,64 @@
+{
+  "id": 12603339,
+  "name": "MONTANA, plaintiff, v. WYOMING and North Dakota.",
+  "name_abbreviation": "Montana v. Wyoming",
+  "decision_date": "2017-02-27",
+  "docket_number": "No. 137, Original.",
+  "first_page": "1219",
+  "last_page": "1219",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1219"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 244"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 54,
+    "char_count": 430,
+    "sha256": "ac4434e0d70de25ac6bfe778da472b5cb6bbdae361a56dd2c2921ac8251d1216",
+    "simhash": "1:acd759023bc4edc0",
+    "word_count": 73
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MONTANA, plaintiff,\nv.\nWYOMING and North Dakota."
+    ],
+    "opinions": [
+      {
+        "text": "Justice KAGAN took no part in the consideration or decision of this motion.",
+        "type": "majority",
+        "author": "Justice KAGAN took no part in the consideration or decision of this motion."
+      }
+    ],
+    "attorneys": [
+      "Motion of the Special Master for allowance of fees and disbursements is granted, and the Special Master is awarded a total of $162,815.08 for the period May 1, 2014, through December 31, 2016, to be paid equally by Montana and Wyoming."
+    ],
+    "corrections": "",
+    "head_matter": "MONTANA, plaintiff,\nv.\nWYOMING and North Dakota.\nNo. 137, Original.\nSupreme Court of the United States\nFeb. 27, 2017.\nMotion of the Special Master for allowance of fees and disbursements is granted, and the Special Master is awarded a total of $162,815.08 for the period May 1, 2014, through December 31, 2016, to be paid equally by Montana and Wyoming."
+  },
+  "file_name": "1219-01",
+  "first_page_order": 1219,
+  "last_page_order": 1219
+}

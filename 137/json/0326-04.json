@@ -1,0 +1,64 @@
+{
+  "id": 12607361,
+  "name": "In re Melody WILLIAMS, petitioner.",
+  "name_abbreviation": "In re Williams",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. 16\u20136021.",
+  "first_page": "326",
+  "last_page": "326",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 326"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 238"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "6e1ea80ec279b7f351136028efc16c7e63ad8db69f53cf04e4f7a43c53acce1e",
+    "simhash": "1:614ec0a01aadc30b",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Melody WILLIAMS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Melody WILLIAMS, petitioner.\nNo. 16-6021.\nSupreme Court of the United States\nOct. 11, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0326-04",
+  "first_page_order": 326,
+  "last_page_order": 326
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12603348,
+  "name": "Michael REEVES, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Reeves v. Illinois",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139705.",
+  "first_page": "122",
+  "last_page": "122",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 122"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 97"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "be386f2d0a140ff3f50d6462f5b2ffa73941cae9ebe3f30448b8a754e17ba3c8",
+    "simhash": "1:f2af76d6dc81c419",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael REEVES, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Fifth District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael REEVES, petitioner,\nv.\nILLINOIS.\nNo. 15-9705.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Appellate Court of Illinois, Fifth District denied."
+  },
+  "file_name": "0122-04",
+  "first_page_order": 122,
+  "last_page_order": 122
+}

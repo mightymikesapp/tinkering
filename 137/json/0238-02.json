@@ -1,0 +1,64 @@
+{
+  "id": 12606794,
+  "name": "In re Robert G. THORNTON, petitioner.",
+  "name_abbreviation": "In re Thornton",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u2013164.",
+  "first_page": "238",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 238"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 138,
+    "sha256": "9d6949e9d3839711bcdbbdad6da8ba96bc3300a2a491297dfb73c71d16c086ac",
+    "simhash": "1:634f5204bcd13039",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Robert G. THORNTON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Robert G. THORNTON, petitioner.\nNo. 16-164.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0238-02",
+  "first_page_order": 238,
+  "last_page_order": 238
+}

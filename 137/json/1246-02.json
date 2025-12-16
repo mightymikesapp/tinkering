@@ -1,0 +1,62 @@
+{
+  "id": 12603526,
+  "name": "In the Matter of DISBARMENT OF Richard I. GOLDMAN.",
+  "name_abbreviation": "In re Goldman",
+  "decision_date": "2017-03-06",
+  "docket_number": "No. D\u20132930.",
+  "first_page": "1246",
+  "last_page": "1246",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1246"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 486"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 140,
+    "sha256": "a5f6e8a69e193f0805229330af6659c57815cb1f10919bc6d0ca72d681ab0b5a",
+    "simhash": "1:a027100836e6a261",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Richard I. GOLDMAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Richard I. GOLDMAN.\nNo. D-2930.\nSupreme Court of the United States\nMarch 6, 2017.\nDisbarment order entered."
+  },
+  "file_name": "1246-02",
+  "first_page_order": 1246,
+  "last_page_order": 1246
+}

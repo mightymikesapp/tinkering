@@ -1,0 +1,62 @@
+{
+  "id": 12607519,
+  "name": "In the Matter of DISBARMENT OF James Joseph WARNER.",
+  "name_abbreviation": "In re Warner",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. D\u20132890.",
+  "first_page": "350",
+  "last_page": "350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 350"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 141,
+    "sha256": "5438bcfb0ba4a42304025c0c961f6165a7103444de7b533fd35622ed3ab331c9",
+    "simhash": "1:62bf4610fe86b7e1",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF James Joseph WARNER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF James Joseph WARNER.\nNo. D-2890.\nSupreme Court of the United States\nOct. 17, 2016.\nDisbarment order entered."
+  },
+  "file_name": "0350-03",
+  "first_page_order": 350,
+  "last_page_order": 350
+}

@@ -1,0 +1,123 @@
+{
+  "id": 12608849,
+  "name": "Greg ABBOTT, Governor of Texas, et al. v. Marc VEASEY, et al.",
+  "name_abbreviation": "Abbott v. Veasey",
+  "decision_date": "2017-01-23",
+  "docket_number": "No. 16\u2013393.",
+  "first_page": "612",
+  "last_page": "613",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 612"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 78"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "830 F.3d 216",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        5926243
+      ],
+      "weight": 4,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "230"
+        },
+        {
+          "page": "264-265"
+        },
+        {
+          "page": "268-271"
+        },
+        {
+          "page": "280, 326",
+          "parenthetical": "opinion of Jones, J. and Elrod, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/830/0216-01"
+      ]
+    },
+    {
+      "cite": "71 F.Supp.3d 627",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 3d",
+      "case_ids": [
+        4211006
+      ],
+      "year": 2014,
+      "pin_cites": [
+        {
+          "page": "633, 707"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-3d/71/0627-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 424,
+    "char_count": 5147,
+    "pagerank": {
+      "raw": 5.005863424716618e-08,
+      "percentile": 0.31588501877908715
+    },
+    "sha256": "cdace0758a388570c08c710654e5e92397992a7090f56e969edfbce518ff3675",
+    "simhash": "1:38c486b5a01200ce",
+    "word_count": 815
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Greg ABBOTT, Governor of Texas, et al.\nv.\nMarc VEASEY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Statement of Chief Justice ROBERTS respecting the denial of certiorari.\nIn 2011, the Texas Legislature enacted Senate Bill 14 (SB14). The law requires voters to present government-issued photo identification before, or shortly after, casting a ballot in person. The United States and private plaintiffs filed suit in the United States District Court for the Southern District of Texas seeking to enjoin enforcement of the law. They argued that SB14 violates the Fourteenth and Fifteenth Amendments because the Texas Legislature acted with discriminatory intent, and that the law violates \u00a7 2 of the Voting Rights Act because it \"results in a denial or abridgment of the right ... to vote on account of race or color.\" After conducting a bench trial, the District Court ruled in plaintiffs' favor on both claims and enjoined the voter-identification provisions of SB14. Veasey v. Perry, 71 F.Supp.3d 627, 633, 707 (2014).\nThe United States Court of Appeals for the Fifth Circuit stayed the injunction, heard the case en banc, and sent it back to the District Court. First, the Fifth Circuit vacated the District Court's finding of discriminatory intent and remanded for further consideration of the facts. 830 F.3d 216, 230 (2016). Second, the court affirmed the District Court's conclusion that SB14 violates \u00a7 2 of the Voting Rights Act. Id., at 264-265. Because the \u00a7 2 violation did not justify enjoining SB14 in its entirety, however, the court remanded for further proceedings on an appropriate remedy. Id., at 268-271. Six judges would have reversed the District Court's conclusion that SB14 is unconstitutional and violates \u00a7 2. Id., at 280, 326 (opinion of Jones, J. and Elrod, J.).\nThe Texas officials who are defendants in this lawsuit have petitioned for certiorari. Their petition asks the Court to review whether the Texas Legislature enacted SB14 with a discriminatory purpose and whether the law results in a denial or abridgment of the right to vote under \u00a7 2. Although there is no barrier to our review, the discriminatory purpose claim is in an interlocutory posture, having been remanded for further consideration. As for the \u00a7 2 claim, the District Court has yet to enter a final remedial order. Petitioners may raise either or both issues again after entry of final judgment. The issues will be better suited for certiorari review at that time.",
+        "type": "majority",
+        "author": "Statement of Chief Justice ROBERTS respecting the denial of certiorari."
+      }
+    ],
+    "attorneys": [
+      "Ken Paxton, Attorney General of Texas, Jeffrey C. Mateer, First Assistant Attorney General, Scott A. Keller, Solicitor General, J. Campbell Barker, Matthew H. Frederick, Deputy Solicitors General, Office of the Attorney General, for Petitioners.",
+      "Wendy Weiser, Myrna P\u00e9rez, Jennifer L. Clark, The Brennan Center for Justice at NYU School of Law, New York, NY, Ezra D. Rosenberg, Jon M. Greenbaum, Brendan B. Downes, Lawyers' Committee for Civil Rights Under Law, Washington, DC, Amy L. Rudd, Lindsey B. Cohan, Dechert LLP, Austin, TX, Neil Steiner, Dechert LLP, New York, NY, Daniel Gavin Covich, Covich Law Firm LLC, Corpus Christi, TX, Jose Garza, Law Office of Jose Garza, San Antonio, TX, Sidney S. Rosdeitcher, Paul, Weiss, Rifkind, Wharton & Garrison LLP, New York, NY, Robert Notzon, The Law Office of Robert Notzon, Gary Bledsoe, The Bledsoe Law Firm, Austin, TX, Victor Goode, NAACP, Baltimore, MD, for the Texas State Conference of NAACP Branches and the Mexican American Legislative Caucus of the Texas House of Representatives.",
+      "Robert W. Doggett, Shoshana J. Krieger, Texas RioGrande Legal Aid, Austin, TX, Marinda van Dalen, Texas RioGrande Legal Aid, Brownsville, TX, Jose Garza, Texas RioGrande Legal Aid, San Antonio, TX, for Lenard Taylor, Eulalio Mendez Jr., Lionel Estrada, Estela Garcia Espinoza, Maximina Martinez, Lara and La Union Del Pueblo Entero, Inc.",
+      "Sherrilyn Ifill, Janai Nelson, Christina A. Swarns, Coty Montag, Leah C. Aden, Deuel Ross, NAACP Legal Defense and Educational Fund, Inc., New York, NY, Jonathan Paikin, Kelly P. Dunbar, Tania Faransso, Thaddeus C. Eagles, Matthew Robinson, Wilmer Cutler Pickering, Hale and Dorr LLP, Washington, DC, for Imani Clark.",
+      "Rolando L. Rios, San Antonio, TX, for the Texas Association of Hispanic County Judges and County Commissioners.",
+      "J. Gerald Hebert, Danielle M. Lang, Campaign Legal Center, Washington, DC, Paul M. Smith, Jessica Ring Amunson, Michelle R. Singer, Jenner & Block LLP, Washington, DC, for respondents Marc Veasey, et al.",
+      "Ian Heath Gershengorn, Acting Solicitor General, Vanita Gupta, Principal Deputy Assistant, Attorney General, Diana K. Flynn, Erin H. Flynn, Christine A. Monta, Attorneys, Department of Justice, Washington, DC, Brief for the United States in Opposition.",
+      "The petition for a writ of certiorari is denied."
+    ],
+    "corrections": "",
+    "head_matter": "Greg ABBOTT, Governor of Texas, et al.\nv.\nMarc VEASEY, et al.\nNo. 16-393.\nSupreme Court of the United States\nJan. 23, 2017.\nKen Paxton, Attorney General of Texas, Jeffrey C. Mateer, First Assistant Attorney General, Scott A. Keller, Solicitor General, J. Campbell Barker, Matthew H. Frederick, Deputy Solicitors General, Office of the Attorney General, for Petitioners.\nWendy Weiser, Myrna P\u00e9rez, Jennifer L. Clark, The Brennan Center for Justice at NYU School of Law, New York, NY, Ezra D. Rosenberg, Jon M. Greenbaum, Brendan B. Downes, Lawyers' Committee for Civil Rights Under Law, Washington, DC, Amy L. Rudd, Lindsey B. Cohan, Dechert LLP, Austin, TX, Neil Steiner, Dechert LLP, New York, NY, Daniel Gavin Covich, Covich Law Firm LLC, Corpus Christi, TX, Jose Garza, Law Office of Jose Garza, San Antonio, TX, Sidney S. Rosdeitcher, Paul, Weiss, Rifkind, Wharton & Garrison LLP, New York, NY, Robert Notzon, The Law Office of Robert Notzon, Gary Bledsoe, The Bledsoe Law Firm, Austin, TX, Victor Goode, NAACP, Baltimore, MD, for the Texas State Conference of NAACP Branches and the Mexican American Legislative Caucus of the Texas House of Representatives.\nRobert W. Doggett, Shoshana J. Krieger, Texas RioGrande Legal Aid, Austin, TX, Marinda van Dalen, Texas RioGrande Legal Aid, Brownsville, TX, Jose Garza, Texas RioGrande Legal Aid, San Antonio, TX, for Lenard Taylor, Eulalio Mendez Jr., Lionel Estrada, Estela Garcia Espinoza, Maximina Martinez, Lara and La Union Del Pueblo Entero, Inc.\nSherrilyn Ifill, Janai Nelson, Christina A. Swarns, Coty Montag, Leah C. Aden, Deuel Ross, NAACP Legal Defense and Educational Fund, Inc., New York, NY, Jonathan Paikin, Kelly P. Dunbar, Tania Faransso, Thaddeus C. Eagles, Matthew Robinson, Wilmer Cutler Pickering, Hale and Dorr LLP, Washington, DC, for Imani Clark.\nRolando L. Rios, San Antonio, TX, for the Texas Association of Hispanic County Judges and County Commissioners.\nJ. Gerald Hebert, Danielle M. Lang, Campaign Legal Center, Washington, DC, Paul M. Smith, Jessica Ring Amunson, Michelle R. Singer, Jenner & Block LLP, Washington, DC, for respondents Marc Veasey, et al.\nChad W. Dunn, Brazil & Dunn, Houston, TX, Neil G. Baron, Law Office of Neil G. Baron, Dickinson, TX, David Richards, Richards, Rodriguez & Skeith, LLP, Austin, TX, Armand G. Derfner, Derfner & Altman, LLC, Charleston, SC, Luis Roberto Vera, Jr., Lulac National General Counsel, The Law Offices of Luis Vera Jr. and Associates, San Antonio, TX.\nIan Heath Gershengorn, Acting Solicitor General, Vanita Gupta, Principal Deputy Assistant, Attorney General, Diana K. Flynn, Erin H. Flynn, Christine A. Monta, Attorneys, Department of Justice, Washington, DC, Brief for the United States in Opposition.\nThe petition for a writ of certiorari is denied."
+  },
+  "file_name": "0612-01",
+  "first_page_order": 612,
+  "last_page_order": 613
+}

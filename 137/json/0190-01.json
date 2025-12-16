@@ -1,0 +1,62 @@
+{
+  "id": 12605040,
+  "name": "Jason E. ROMAN, petitioner, v. The BANK OF NEW YORK MELLON, et al.",
+  "name_abbreviation": "Roman v. Bank of N.Y. Mellon",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135150.",
+  "first_page": "190",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 190"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 229,
+    "sha256": "af05442ba4bed7c9c92e78a0d53291049ed7d26b30ea466f06bbe1e9740c2829",
+    "simhash": "1:f96974b9b8d586a8",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason E. ROMAN, petitioner,\nv.\nThe BANK OF NEW YORK MELLON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Jason E. ROMAN, petitioner,\nv.\nThe BANK OF NEW YORK MELLON, et al.\nNo. 16-5150.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Superior Court of Pennsylvania, Philadelphia Office denied."
+  },
+  "file_name": "0190-01",
+  "first_page_order": 190,
+  "last_page_order": 190
+}

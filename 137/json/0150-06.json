@@ -1,0 +1,64 @@
+{
+  "id": 12604301,
+  "name": "Eric T. JOHNSTON, petitioner, v. Marvin PLUMLEY, Warden.",
+  "name_abbreviation": "Johnston v. Plumley",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139866.",
+  "first_page": "150",
+  "last_page": "150",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 150"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 115"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 209,
+    "sha256": "bd9eebe89a52fd247fe69c1592ac1c82ff0e3dfa247e8083b49574afa6327cae",
+    "simhash": "1:7c6f4406b455b495",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric T. JOHNSTON, petitioner,\nv.\nMarvin PLUMLEY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Eric T. JOHNSTON, petitioner,\nv.\nMarvin PLUMLEY, Warden.\nNo. 15-9866.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Supreme Court of Appeals of West Virginia denied."
+  },
+  "file_name": "0150-06",
+  "first_page_order": 150,
+  "last_page_order": 150
+}

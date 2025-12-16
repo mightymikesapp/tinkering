@@ -1,0 +1,64 @@
+{
+  "id": 12604701,
+  "name": "In re Don STURGIS, petitioner.",
+  "name_abbreviation": "In re Sturgis",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135036.",
+  "first_page": "167",
+  "last_page": "167",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 167"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 137,
+    "sha256": "9a8f447e6b8fbbfb8d57915971db3163a1a71118e4e72cc9b3b367b2cdcf06d5",
+    "simhash": "1:6bcf56409ed98029",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Don STURGIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Don STURGIS, petitioner.\nNo. 16-5036.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0167-02",
+  "first_page_order": 167,
+  "last_page_order": 167
+}

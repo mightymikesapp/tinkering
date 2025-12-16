@@ -1,0 +1,64 @@
+{
+  "id": 12605241,
+  "name": "William I. WILSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Wilson v. United States",
+  "decision_date": "2016-08-08",
+  "docket_number": "No. 15\u20139541.",
+  "first_page": "21",
+  "last_page": "21",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 21"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 893"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 143,
+    "sha256": "451c1eb994e19e5f6a17c4249156f8184ed852ac1cb263df7587960608e12a92",
+    "simhash": "1:b8e7764236ac565d",
+    "word_count": 22
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William I. WILSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "William I. WILSON, petitioner,\nv.\nUNITED STATES.\nNo. 15-9541.\nSupreme Court of the United States\nAug. 8, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0021-06",
+  "first_page_order": 21,
+  "last_page_order": 21
+}

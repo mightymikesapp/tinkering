@@ -1,0 +1,64 @@
+{
+  "id": 12604468,
+  "name": "Pierre THOMAS, petitioner, v. Jefferson B. SESSIONS, III, Attorney General.",
+  "name_abbreviation": "Thomas v. Sessions",
+  "decision_date": "2017-04-17",
+  "docket_number": "No. 16\u20131019.",
+  "first_page": "1595",
+  "last_page": "1595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1595"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 241,
+    "sha256": "e3cff7750f61fa374d1dda81e2fdf10498154e0dd121fa7034f359c622c22726",
+    "simhash": "1:22ec464c3f405f21",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Pierre THOMAS, petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Pierre THOMAS, petitioner,\nv.\nJefferson B. SESSIONS, III, Attorney General.\nNo. 16-1019.\nSupreme Court of the United States\nApril 17, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "1595-01",
+  "first_page_order": 1595,
+  "last_page_order": 1595
+}

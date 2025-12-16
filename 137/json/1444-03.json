@@ -1,0 +1,64 @@
+{
+  "id": 12604196,
+  "name": "Mary JONES, petitioner, v. Edmund G. BROWN, Jr., et al.",
+  "name_abbreviation": "Jones v. Brown",
+  "decision_date": "2017-04-03",
+  "docket_number": "No. 16\u20137875.",
+  "first_page": "1444",
+  "last_page": "1444",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1444"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 656"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 220,
+    "sha256": "89fbfdbf2d3e30ee9590eacca4c815511f25e1b8ade47e2b433fea9d1c2fe0d9",
+    "simhash": "1:dbad76493b0947a0",
+    "word_count": 38
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Mary JONES, petitioner,\nv.\nEdmund G. BROWN, Jr., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Mary JONES, petitioner,\nv.\nEdmund G. BROWN, Jr., et al.\nNo. 16-7875.\nSupreme Court of the United States\nApril 3, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1444-03",
+  "first_page_order": 1444,
+  "last_page_order": 1444
+}

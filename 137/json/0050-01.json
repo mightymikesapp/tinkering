@@ -1,0 +1,64 @@
+{
+  "id": 12608191,
+  "name": "Patrick Ray HANEY, petitioner, v. PENNSYLVANIA.",
+  "name_abbreviation": "Haney v. Pennsylvania",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139161.",
+  "first_page": "50",
+  "last_page": "50",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 50"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 54"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 206,
+    "sha256": "d376e2a14885169fe5f41eaec1b705b172fd6a8075597b2a709474bcdbf05e5b",
+    "simhash": "1:75ec145c38850191",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick Ray HANEY, petitioner,\nv.\nPENNSYLVANIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick Ray HANEY, petitioner,\nv.\nPENNSYLVANIA.\nNo. 15-9161.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Supreme Court of Pennsylvania, Eastern District denied."
+  },
+  "file_name": "0050-01",
+  "first_page_order": 50,
+  "last_page_order": 50
+}

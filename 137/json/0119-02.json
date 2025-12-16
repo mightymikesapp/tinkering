@@ -1,0 +1,64 @@
+{
+  "id": 12603210,
+  "name": "Jorge A. RICO, petitioner, v. Clarke E. DUCART, Warden.",
+  "name_abbreviation": "Rico v. Ducart",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139687.",
+  "first_page": "119",
+  "last_page": "119",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 119"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 95"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 219,
+    "sha256": "32aebef7b3291a4d0a27101e30c93fbd1cdb716450927dfa4fb6cdaff0bb2a19",
+    "simhash": "1:71edd6452d8351ab",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jorge A. RICO, petitioner,\nv.\nClarke E. DUCART, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jorge A. RICO, petitioner,\nv.\nClarke E. DUCART, Warden.\nNo. 15-9687.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0119-02",
+  "first_page_order": 119,
+  "last_page_order": 119
+}

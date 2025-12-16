@@ -1,0 +1,62 @@
+{
+  "id": 12606507,
+  "name": "In the Matter of DISCIPLINE OF George R. CARTER.",
+  "name_abbreviation": "In re Carter",
+  "decision_date": "2017-06-19",
+  "docket_number": "No. D\u20132993.",
+  "first_page": "2289",
+  "last_page": "2289",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2289"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 718"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 46,
+    "char_count": 353,
+    "sha256": "024bd5c388a42571f2585c24a2d7f50f3782ac0137b13eab665b3f61f06a35a9",
+    "simhash": "1:3e81413636cf27eb",
+    "word_count": 65
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF George R. CARTER."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF George R. CARTER.\nNo. D-2993.\nSupreme Court of the United States\nJune 19, 2017.\nGeorge R. Carter, of Las Vegas, Nevada, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "2289-05",
+  "first_page_order": 2289,
+  "last_page_order": 2289
+}

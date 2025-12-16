@@ -1,0 +1,82 @@
+{
+  "id": 12605995,
+  "name": "Timoteo Juan FLORES, aka Timoteo Juan-Flores, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Flores v. United States",
+  "decision_date": "2017-06-05",
+  "docket_number": "No. 16\u20136059.",
+  "first_page": "2211",
+  "last_page": "2211",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2211"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 655"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 1562",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12604345
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/1562-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 53,
+    "char_count": 566,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635806180205873
+    },
+    "sha256": "6275e41091b70c3c951e5c6e9541dc7c9ec6bc292dec63617a6ac7033685e0f3",
+    "simhash": "1:1281f6c4372d860c",
+    "word_count": 87
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Timoteo Juan FLORES, aka Timoteo Juan-Flores, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motions of petitioners for leave to proceed in forma pauperis and petitions for writs of certiorari granted. Judgments vacated, and cases remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Esquivel-Quintana v. Sessions, 581 U.S. ----, 137 S.Ct. 1562, --- L.E.2d ---- (2017)."
+    ],
+    "corrections": "",
+    "head_matter": "Timoteo Juan FLORES, aka Timoteo Juan-Flores, petitioner,\nv.\nUNITED STATES.\nNo. 16-6059.\nSupreme Court of the United States\nJune 5, 2017.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Motions of petitioners for leave to proceed in forma pauperis and petitions for writs of certiorari granted. Judgments vacated, and cases remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Esquivel-Quintana v. Sessions, 581 U.S. ----, 137 S.Ct. 1562, --- L.E.2d ---- (2017)."
+  },
+  "file_name": "2211-01",
+  "first_page_order": 2211,
+  "last_page_order": 2211
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12605260,
+  "name": "In Re Blake SANDLAIN, petitioner.",
+  "name_abbreviation": "In re Sandlain",
+  "decision_date": "2017-05-01",
+  "docket_number": "No. 16\u20138369.",
+  "first_page": "2101",
+  "last_page": "2101",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2101"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 908"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 134,
+    "sha256": "c59da8af76628bf4558d06edbaae8ccb5fa0191192d05fc2d9bbf40a2628ee0e",
+    "simhash": "1:63775255f78f53d3",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Blake SANDLAIN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Blake SANDLAIN, petitioner.\nNo. 16-8369.\nSupreme Court of the United States\nMay 1, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "2101-06",
+  "first_page_order": 2101,
+  "last_page_order": 2101
+}

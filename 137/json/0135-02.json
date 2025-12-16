@@ -1,0 +1,64 @@
+{
+  "id": 12603764,
+  "name": "Charles GREEN, petitioner, v. Tom HODGES, et al.",
+  "name_abbreviation": "Green v. Hodges",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139774.",
+  "first_page": "135",
+  "last_page": "135",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 135"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 105"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 213,
+    "sha256": "23f3d7184b5ba5d1f0f44648e5d77b846b2d6dd299477d5261e5d0708d95c487",
+    "simhash": "1:5bafc644bec586a9",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles GREEN, petitioner,\nv.\nTom HODGES, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles GREEN, petitioner,\nv.\nTom HODGES, et al.\nNo. 15-9774.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0135-02",
+  "first_page_order": 135,
+  "last_page_order": 135
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12604555,
+  "name": "Ernest FAIL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Fail v. United States",
+  "decision_date": "2017-04-17",
+  "docket_number": "No. 16\u20138361.",
+  "first_page": "1607",
+  "last_page": "1607",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1607"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "99c0dc8467a924c175ed2c029158fed26ced9cd34e3362f9d42bcaf42d13977c",
+    "simhash": "1:7aec56e43b2dc237",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ernest FAIL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ernest FAIL, petitioner,\nv.\nUNITED STATES.\nNo. 16-8361.\nSupreme Court of the United States\nApril 17, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "1607-02",
+  "first_page_order": 1607,
+  "last_page_order": 1607
+}

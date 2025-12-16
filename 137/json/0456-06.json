@@ -1,0 +1,64 @@
+{
+  "id": 12607971,
+  "name": "Robert PONTE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ponte v. United States",
+  "decision_date": "2016-11-07",
+  "docket_number": "No. 16\u20136346.",
+  "first_page": "456",
+  "last_page": "456",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 456"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 336"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "39dbca1580dd243067b90915bc1e536808b892b45b7f41ffe0d90ff61823ed5a",
+    "simhash": "1:bbae74c42b8e8399",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert PONTE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert PONTE, petitioner,\nv.\nUNITED STATES.\nNo. 16-6346.\nSupreme Court of the United States\nNov. 7, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0456-06",
+  "first_page_order": 456,
+  "last_page_order": 456
+}

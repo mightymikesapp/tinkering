@@ -1,0 +1,64 @@
+{
+  "id": 12607798,
+  "name": "Steven JONES, petitioner, v. Tom BUTT, et al.",
+  "name_abbreviation": "Jones v. Butt",
+  "decision_date": "2016-10-31",
+  "docket_number": "No. 16\u2013439.",
+  "first_page": "407",
+  "last_page": "407",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 407"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 212,
+    "sha256": "ee4cdf36c4a7a68572b6c795209d7e6fae8125453ab1c9077e663977f6fc1087",
+    "simhash": "1:faafd66c1f4106a9",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven JONES, petitioner,\nv.\nTom BUTT, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven JONES, petitioner,\nv.\nTom BUTT, et al.\nNo. 16-439.\nSupreme Court of the United States\nOct. 31, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0407-05",
+  "first_page_order": 407,
+  "last_page_order": 407
+}

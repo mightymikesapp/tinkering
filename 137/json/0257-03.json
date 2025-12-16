@@ -1,0 +1,64 @@
+{
+  "id": 12606932,
+  "name": "Charles RILEY, Jr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Riley v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135672.",
+  "first_page": "257",
+  "last_page": "257",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 257"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 194"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "06d2dcc4eb559d17431bb1bc39282b7a845e70a00fd12e330d04e0a70ddb2a21",
+    "simhash": "1:7befe604328dc001",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles RILEY, Jr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles RILEY, Jr., petitioner,\nv.\nUNITED STATES.\nNo. 16-5672.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0257-03",
+  "first_page_order": 257,
+  "last_page_order": 257
+}

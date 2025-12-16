@@ -1,0 +1,64 @@
+{
+  "id": 12604028,
+  "name": "William DEMBIE, petitioner, v. OHIO.",
+  "name_abbreviation": "Dembie v. Ohio",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20131521.",
+  "first_page": "139",
+  "last_page": "139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 139"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 43"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 187,
+    "sha256": "164958e8f797465175896ac83df7d0030858d0ef438851ded47b9b8fabed5696",
+    "simhash": "1:60cf769016c9a0b9",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William DEMBIE, petitioner,\nv.\nOHIO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Ohio, Lorain County denied."
+    ],
+    "corrections": "",
+    "head_matter": "William DEMBIE, petitioner,\nv.\nOHIO.\nNo. 15-1521.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Court of Appeals of Ohio, Lorain County denied."
+  },
+  "file_name": "0139-05",
+  "first_page_order": 139,
+  "last_page_order": 139
+}

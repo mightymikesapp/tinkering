@@ -1,0 +1,64 @@
+{
+  "id": 12607021,
+  "name": "George W. BROWN, petitioner, v. LOWE'S HOME CENTERS.",
+  "name_abbreviation": "Brown v. Lowe's Home Ctrs.",
+  "decision_date": "2016-08-26",
+  "docket_number": "No. 15\u20138768.",
+  "first_page": "27",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 27"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 899"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 226,
+    "sha256": "f57725df3ebd5f2313847e75bd31a018908ed8db2b49b88769c6b0ad733ee16d",
+    "simhash": "1:a8211600b506eece",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George W. BROWN, petitioner,\nv.\nLOWE'S HOME CENTERS."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYER took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice BREYER took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "George W. BROWN, petitioner,\nv.\nLOWE'S HOME CENTERS.\nNo. 15-8768.\nSupreme Court of the United States\nAug. 26, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0027-05",
+  "first_page_order": 27,
+  "last_page_order": 27
+}

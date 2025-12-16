@@ -1,0 +1,64 @@
+{
+  "id": 12605913,
+  "name": "David PANNELL, petitioner, v. Ron NEAL, Superintendent, Indiana State Prison.",
+  "name_abbreviation": "Pannell v. Neal",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135320.",
+  "first_page": "220",
+  "last_page": "220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 220"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "sha256": "261d38dda7e47339686e1ff44f98fbfabbbda090c374ac688ddd60ef4054b9bb",
+    "simhash": "1:f12d7601382c26a0",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David PANNELL, petitioner,\nv.\nRon NEAL, Superintendent, Indiana State Prison."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David PANNELL, petitioner,\nv.\nRon NEAL, Superintendent, Indiana State Prison.\nNo. 16-5320.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "0220-02",
+  "first_page_order": 220,
+  "last_page_order": 220
+}

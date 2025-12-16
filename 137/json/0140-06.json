@@ -1,0 +1,64 @@
+{
+  "id": 12604090,
+  "name": "Udell CLY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cly v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139810.",
+  "first_page": "140",
+  "last_page": "140",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 140"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 204,
+    "sha256": "27ffba181a9f194590dc4d65a0b5a5a0cfb41565c7f8efe445e89577e38aecb5",
+    "simhash": "1:f3ed7645ae8e1629",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Udell CLY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Udell CLY, petitioner,\nv.\nUNITED STATES.\nNo. 15-9810.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0140-06",
+  "first_page_order": 140,
+  "last_page_order": 140
+}

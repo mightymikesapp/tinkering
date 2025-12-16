@@ -1,0 +1,64 @@
+{
+  "id": 12604956,
+  "name": "Michael R. BURNS, applicant, v. UNITED STATES.",
+  "name_abbreviation": "Burns v. United States",
+  "decision_date": "2017-04-24",
+  "docket_number": "No. 16A611.",
+  "first_page": "1835",
+  "last_page": "1836",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1835"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 749"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 41,
+    "char_count": 343,
+    "sha256": "72cbd6974243b05ef93b0388f420e52b56273f14c65fd22407eeaa835324d8ea",
+    "simhash": "1:fc6b7e041b884b6a",
+    "word_count": 56
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael R. BURNS, applicant,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application to file a petition for writ of certiorari in excess of the page limitation addressed to Justice THOMAS and referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael R. BURNS, applicant,\nv.\nUNITED STATES.\nNo. 16A611.\nSupreme Court of the United States\nApril 24, 2017.\nApplication to file a petition for writ of certiorari in excess of the page limitation addressed to Justice THOMAS and referred to the Court denied.\nJustice GORSUCH took no part in the consideration or decision of this application."
+  },
+  "file_name": "1835-06",
+  "first_page_order": 1835,
+  "last_page_order": 1836
+}

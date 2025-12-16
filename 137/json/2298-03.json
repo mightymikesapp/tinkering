@@ -1,0 +1,64 @@
+{
+  "id": 12606562,
+  "name": "Jerome DAMPIER, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Dampier v. Illinois",
+  "decision_date": "2017-06-26",
+  "docket_number": "No. 16\u20138752.",
+  "first_page": "2298",
+  "last_page": "2298",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2298"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 732"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 196,
+    "sha256": "b47a7e4e29ffa9cee54eb0230278bc92d0b7ffa6317e3dbb1faab74dfe32fcfd",
+    "simhash": "1:d4ef52364a002198",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jerome DAMPIER, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jerome DAMPIER, petitioner,\nv.\nILLINOIS.\nNo. 16-8752.\nSupreme Court of the United States\nJune 26, 2017.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "2298-03",
+  "first_page_order": 2298,
+  "last_page_order": 2298
+}

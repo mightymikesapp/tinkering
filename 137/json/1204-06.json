@@ -1,0 +1,64 @@
+{
+  "id": 12603245,
+  "name": "Kent TERRY, Sr., et ux., petitioners, v. William NEWELL, et al.",
+  "name_abbreviation": "Terry v. Newell",
+  "decision_date": "2017-02-27",
+  "docket_number": "No. 16\u2013797.",
+  "first_page": "1204",
+  "last_page": "1204",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1204"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 246"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 227,
+    "sha256": "706ed037c279bd01bc75aae235c46889172916d9a792cce310b42f9b9b48e06d",
+    "simhash": "1:e1b556643307d381",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kent TERRY, Sr., et ux., petitioners,\nv.\nWilliam NEWELL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kent TERRY, Sr., et ux., petitioners,\nv.\nWilliam NEWELL, et al.\nNo. 16-797.\nSupreme Court of the United States\nFeb. 27, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "1204-06",
+  "first_page_order": 1204,
+  "last_page_order": 1204
+}

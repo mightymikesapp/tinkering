@@ -1,0 +1,64 @@
+{
+  "id": 12609158,
+  "name": "In re Benjamin TILLMAN, petitioner.",
+  "name_abbreviation": "In re Tillman",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136695.",
+  "first_page": "660",
+  "last_page": "660",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 660"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 583"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 137,
+    "sha256": "7cfec95a40d0c79e7f469dcb2c2311fdc066a5c2292372d2859384c246fe82b7",
+    "simhash": "1:7b675254f6a35131",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Benjamin TILLMAN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Benjamin TILLMAN, petitioner.\nNo. 16-6695.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0660-04",
+  "first_page_order": 660,
+  "last_page_order": 660
+}

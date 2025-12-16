@@ -1,0 +1,64 @@
+{
+  "id": 12604584,
+  "name": "In Re Jeremy Wesley CLAY, petitioner.",
+  "name_abbreviation": "In re Clay",
+  "decision_date": "2017-04-17",
+  "docket_number": "No. 16\u20138474.",
+  "first_page": "1611",
+  "last_page": "1611",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1611"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 737"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 146,
+    "sha256": "07b56ec15c04d67c67e8fd097298e1ca391e13683674bcf028183d049ef14e41",
+    "simhash": "1:5d7f66643e990723",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Jeremy Wesley CLAY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Jeremy Wesley CLAY, petitioner.\nNo. 16-8474.\nSupreme Court of the United States\nApril 17, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1611-01",
+  "first_page_order": 1611,
+  "last_page_order": 1611
+}

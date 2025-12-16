@@ -1,0 +1,64 @@
+{
+  "id": 12606955,
+  "name": "In re Sidney MARTS, petitioner.",
+  "name_abbreviation": "In re Marts",
+  "decision_date": "2016-08-26",
+  "docket_number": "No. 15\u20139269.",
+  "first_page": "26",
+  "last_page": "26",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 26"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 899"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 127,
+    "sha256": "a65e523ed4562446cde17dc0eed0974c8930789f048e72ee698eab19ad45e504",
+    "simhash": "1:4b91571bbd087ab6",
+    "word_count": 20
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Sidney MARTS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Sidney MARTS, petitioner.\nNo. 15-9269.\nSupreme Court of the United States\nAug. 26, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0026-08",
+  "first_page_order": 26,
+  "last_page_order": 26
+}

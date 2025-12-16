@@ -1,0 +1,64 @@
+{
+  "id": 12607501,
+  "name": "FLORIDA, plaintiff, v. GEORGIA.",
+  "name_abbreviation": "Florida v. Georgia",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 142 Original.",
+  "first_page": "348",
+  "last_page": "348",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 348"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 259"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 42,
+    "char_count": 333,
+    "sha256": "ae17ff89c4e6de5a88f5dd0be0f8b7b794afa3bfde819acd258b16d5c2aa43d8",
+    "simhash": "1:ece308127cb48e89",
+    "word_count": 57
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FLORIDA, plaintiff,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "The motion of the Special Master for allowance of fees and disbursements is granted, and the Special Master is awarded a total of $57,333, for the period February 1, 2016, through August 31, 2016, to be paid equally by the parties."
+    ],
+    "corrections": "",
+    "head_matter": "FLORIDA, plaintiff,\nv.\nGEORGIA.\nNo. 142 Original.\nSupreme Court of the United States\nOct. 17, 2016.\nThe motion of the Special Master for allowance of fees and disbursements is granted, and the Special Master is awarded a total of $57,333, for the period February 1, 2016, through August 31, 2016, to be paid equally by the parties."
+  },
+  "file_name": "0348-03",
+  "first_page_order": 348,
+  "last_page_order": 348
+}

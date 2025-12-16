@@ -1,0 +1,64 @@
+{
+  "id": 12607919,
+  "name": "In re Michael EGGERS, petitioner.",
+  "name_abbreviation": "In re Eggers",
+  "decision_date": "2016-11-07",
+  "docket_number": "No. 16\u20135861.",
+  "first_page": "449",
+  "last_page": "449",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 449"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "c1ccd0f065a5e64b5cad2bc980fbcc1e42c27dcff1b0319af71af5dd16a3e5d7",
+    "simhash": "1:65675084aae42298",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Michael EGGERS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Michael EGGERS, petitioner.\nNo. 16-5861.\nSupreme Court of the United States\nNov. 7, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0449-04",
+  "first_page_order": 449,
+  "last_page_order": 449
+}

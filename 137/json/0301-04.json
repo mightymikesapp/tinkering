@@ -1,0 +1,64 @@
+{
+  "id": 12607201,
+  "name": "D. BROWN, petitioner, v. Jeff WILSON, et al.",
+  "name_abbreviation": "Brown v. Wilson",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. 16\u20135455.",
+  "first_page": "301",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 301"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 222"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 209,
+    "sha256": "523ade1cfc5707a15e199434ab4970749b74147b52de6e6d6d1de8410b70abfa",
+    "simhash": "1:f22ff6d43d0d068d",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "D. BROWN, petitioner,\nv.\nJeff WILSON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "D. BROWN, petitioner,\nv.\nJeff WILSON, et al.\nNo. 16-5455.\nSupreme Court of the United States\nOct. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0301-04",
+  "first_page_order": 301,
+  "last_page_order": 301
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12607527,
+  "name": "In the Matter of DISBARMENT OF Steven James TERRY.",
+  "name_abbreviation": "In re Terry",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. D\u20132900.",
+  "first_page": "351",
+  "last_page": "351",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 351"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 282"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 140,
+    "sha256": "996c0ecb5c3a5b761ee5ac9267ca1c96e8af0cc5d9eb8595d7685b18e686cc60",
+    "simhash": "1:e062c417362f6665",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Steven James TERRY."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Steven James TERRY.\nNo. D-2900.\nSupreme Court of the United States\nOct. 17, 2016.\nDisbarment order entered."
+  },
+  "file_name": "0351-03",
+  "first_page_order": 351,
+  "last_page_order": 351
+}

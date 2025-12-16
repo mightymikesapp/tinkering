@@ -1,0 +1,62 @@
+{
+  "id": 12609775,
+  "name": "In Matter of DISBARMENT OF Michael Bruce STONE.",
+  "name_abbreviation": "In re Stone",
+  "decision_date": "2017-01-17",
+  "docket_number": "No. D\u20132936.",
+  "first_page": "826",
+  "last_page": "826",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 826"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 609"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "d3b8d3654582b5657c95195b6fbe8ff36e231e285e53ed63e9a65fd309aa318a",
+    "simhash": "1:746256ccaa2648e7",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Matter of DISBARMENT OF Michael Bruce STONE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In Matter of DISBARMENT OF Michael Bruce STONE.\nNo. D-2936.\nSupreme Court of the United States\nJan. 17, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0826-07",
+  "first_page_order": 826,
+  "last_page_order": 826
+}

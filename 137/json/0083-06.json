@@ -1,0 +1,64 @@
+{
+  "id": 12609799,
+  "name": "In re Wilma PENNINGTON-THURMAN, petitioner.",
+  "name_abbreviation": "In re Pennington-Thurman",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139470.",
+  "first_page": "83",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 83"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 145,
+    "sha256": "89ce669b4feaab7e73a3ee8bba41e55fc8827ab24f65bd3465e53474bb93a4c1",
+    "simhash": "1:406f0256b5810437",
+    "word_count": 22
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Wilma PENNINGTON-THURMAN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Wilma PENNINGTON-THURMAN, petitioner.\nNo. 15-9470.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0083-06",
+  "first_page_order": 83,
+  "last_page_order": 83
+}

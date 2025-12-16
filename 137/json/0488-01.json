@@ -1,0 +1,64 @@
+{
+  "id": 12608115,
+  "name": "Joan MARSH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Marsh v. United States",
+  "decision_date": "2016-11-14",
+  "docket_number": "No. 16M51.",
+  "first_page": "488",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 193,
+    "sha256": "758253af8c8358f29ceeb97a70aa511783caa2f7d93c87c76cd96ffbe967ace4",
+    "simhash": "1:cccd50264789d019",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joan MARSH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joan MARSH, petitioner,\nv.\nUNITED STATES.\nNo. 16M51.\nSupreme Court of the United States\nNov. 14, 2016.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0488-01",
+  "first_page_order": 488,
+  "last_page_order": 488
+}

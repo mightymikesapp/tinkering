@@ -1,0 +1,64 @@
+{
+  "id": 12603217,
+  "name": "Jaime DIAZ, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Diaz v. Illinois",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139693.",
+  "first_page": "120",
+  "last_page": "120",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 120"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 96"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 192,
+    "sha256": "a78dc44b3f829a885e225168fe8b4c69d0f5cfc72c84c5fa2d7e823087c9406c",
+    "simhash": "1:f4af76961ea88518",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jaime DIAZ, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Second District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jaime DIAZ, petitioner,\nv.\nILLINOIS.\nNo. 15-9693.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Appellate Court of Illinois, Second District denied."
+  },
+  "file_name": "0120-02",
+  "first_page_order": 120,
+  "last_page_order": 120
+}

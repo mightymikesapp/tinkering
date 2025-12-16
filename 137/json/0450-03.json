@@ -1,0 +1,64 @@
+{
+  "id": 12607931,
+  "name": "Charles MONTAGUE, petitioner, v. TENNESSEE.",
+  "name_abbreviation": "Montague v. Tennessee",
+  "decision_date": "2016-11-07",
+  "docket_number": "No. 16\u20135929.",
+  "first_page": "450",
+  "last_page": "450",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 450"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 332"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 199,
+    "sha256": "bc24f95adfc6e982c2cf1bb6208df28f5a2f97c1e090b243156eb3515cf6ff69",
+    "simhash": "1:7ba71484bae53389",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles MONTAGUE, petitioner,\nv.\nTENNESSEE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Tennessee, Eastern Division denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles MONTAGUE, petitioner,\nv.\nTENNESSEE.\nNo. 16-5929.\nSupreme Court of the United States\nNov. 7, 2016.\nPetition for writ of certiorari to the Supreme Court of Tennessee, Eastern Division denied."
+  },
+  "file_name": "0450-03",
+  "first_page_order": 450,
+  "last_page_order": 450
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12605804,
+  "name": "In the Matter of DISBARMENT OF Robert Lee STONE.",
+  "name_abbreviation": "In re Stone",
+  "decision_date": "2017-05-22",
+  "docket_number": "No. D\u20132935.",
+  "first_page": "2183",
+  "last_page": "2183",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2183"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "cce16cb157ea4cc674e8ab21037e143d424e8eb99764133178ce0ece102dd343",
+    "simhash": "1:702354473f667cf4",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Robert Lee STONE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Robert Lee STONE.\nNo. D-2935.\nSupreme Court of the United States\nMay 22, 2017.\nDisbarment order entered."
+  },
+  "file_name": "2183-05",
+  "first_page_order": 2183,
+  "last_page_order": 2183
+}

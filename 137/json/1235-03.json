@@ -1,0 +1,64 @@
+{
+  "id": 12603452,
+  "name": "Felipe Martinez RAMIREZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Ramirez v. United States",
+  "decision_date": "2017-03-06",
+  "docket_number": "No. 16\u20137772.",
+  "first_page": "1235",
+  "last_page": "1235",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1235"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 472"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 219,
+    "sha256": "fd64f46743599d5848cad0ebf91e68fac133a24a4810118abf237c077332fbc1",
+    "simhash": "1:a3ac5404370d4211",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Felipe Martinez RAMIREZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Felipe Martinez RAMIREZ, petitioner,\nv.\nUNITED STATES.\nNo. 16-7772.\nSupreme Court of the United States\nMarch 6, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "1235-03",
+  "first_page_order": 1235,
+  "last_page_order": 1235
+}

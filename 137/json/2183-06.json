@@ -1,0 +1,62 @@
+{
+  "id": 12605805,
+  "name": "In the Matter of DISBARMENT OF John Clifton ELSTEAD.",
+  "name_abbreviation": "In re Elstead",
+  "decision_date": "2017-05-22",
+  "docket_number": "No. D\u20132937.",
+  "first_page": "2183",
+  "last_page": "2183",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2183"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 249"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 141,
+    "sha256": "d8172e01cc23e959b659a50f917c6105c0654c119bd53e0127649468270cb143",
+    "simhash": "1:90601c0af6f666e5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF John Clifton ELSTEAD."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF John Clifton ELSTEAD.\nNo. D-2937.\nSupreme Court of the United States\nMay 22, 2017.\nDisbarment order entered."
+  },
+  "file_name": "2183-06",
+  "first_page_order": 2183,
+  "last_page_order": 2183
+}

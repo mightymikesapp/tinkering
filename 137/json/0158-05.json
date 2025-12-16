@@ -1,0 +1,64 @@
+{
+  "id": 12604373,
+  "name": "In re David PETERS, petitioner.",
+  "name_abbreviation": "In re Peters",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139919.",
+  "first_page": "158",
+  "last_page": "158",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 158"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 138,
+    "sha256": "f9dce4b40b47fc2070bd478c39a449988d1d3d2b5df883aa674c1543c5523781",
+    "simhash": "1:e94f420e1ef14419",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re David PETERS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re David PETERS, petitioner.\nNo. 15-9919.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0158-05",
+  "first_page_order": 158,
+  "last_page_order": 158
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12603620,
+  "name": "Jack SCOTT, petitioner, v. GEORGIA.",
+  "name_abbreviation": "Scott v. Georgia",
+  "decision_date": "2017-03-20",
+  "docket_number": "No. 16\u2013523.",
+  "first_page": "1328",
+  "last_page": "1328",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1328"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 517"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 172,
+    "sha256": "efeea7ac995299e4cc4750ef68c3e044f06ad7d41320b6a33687e930f9387859",
+    "simhash": "1:e987744458d70330",
+    "word_count": 28
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jack SCOTT, petitioner,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jack SCOTT, petitioner,\nv.\nGEORGIA.\nNo. 16-523.\nSupreme Court of the United States\nMarch 20, 2017.\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "1328-03",
+  "first_page_order": 1328,
+  "last_page_order": 1328
+}

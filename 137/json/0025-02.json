@@ -1,0 +1,64 @@
+{
+  "id": 12606878,
+  "name": "Charles FRAZIER, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Frazier v. Michigan",
+  "decision_date": "2016-08-26",
+  "docket_number": "No. 15\u20138958.",
+  "first_page": "25",
+  "last_page": "25",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 25"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 898"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 137,
+    "sha256": "82f2de121da3df2b6947f06abf31d91a789f8aa53aa297ddb3cb7c0e427af3f9",
+    "simhash": "1:70c65443bc0b65ae",
+    "word_count": 20
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles FRAZIER, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles FRAZIER, petitioner,\nv.\nMICHIGAN.\nNo. 15-8958.\nSupreme Court of the United States\nAug. 26, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0025-02",
+  "first_page_order": 25,
+  "last_page_order": 25
+}

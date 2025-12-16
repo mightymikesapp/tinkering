@@ -1,0 +1,64 @@
+{
+  "id": 12606649,
+  "name": "In re Kenneth R. TRUITT, Jr., petitioner.",
+  "name_abbreviation": "In re Truitt",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135409.",
+  "first_page": "231",
+  "last_page": "231",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 231"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 148,
+    "sha256": "cdd87c9298afc9ed08db488317f66a14c4f042cd2b62d144c6d4ec00544d23d2",
+    "simhash": "1:614b16065ec18118",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Kenneth R. TRUITT, Jr., petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Kenneth R. TRUITT, Jr., petitioner.\nNo. 16-5409.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0231-06",
+  "first_page_order": 231,
+  "last_page_order": 231
+}

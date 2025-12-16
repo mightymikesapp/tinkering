@@ -1,0 +1,62 @@
+{
+  "id": 12604655,
+  "name": "ARKANSAS, applicant, v. Don William DAVIS.",
+  "name_abbreviation": "Arkansas v. Davis",
+  "decision_date": "2017-04-18",
+  "docket_number": "No. 16A987.",
+  "first_page": "1621",
+  "last_page": "1622",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1621"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 746"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 276,
+    "sha256": "69334688bc11fe0b5f5c61d7644d06c0371394890ad0330e53d4aab4a16d11dd",
+    "simhash": "1:245bf03f14299177",
+    "word_count": 46
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ARKANSAS, applicant,\nv.\nDon William DAVIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "ARKANSAS, applicant,\nv.\nDon William DAVIS.\nNo. 16A987.\nSupreme Court of the United States\nApril 18, 2017.\nApplication to vacate the stay of execution entered by the Arkansas Supreme Court on April 17, 2017, presented to Justice ALITO and by him referred to the Court denied."
+  },
+  "file_name": "1621-01",
+  "first_page_order": 1621,
+  "last_page_order": 1622
+}

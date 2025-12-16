@@ -1,0 +1,105 @@
+{
+  "id": 12607546,
+  "name": "William Franklin NAJAR, petitioner, v. ARIZONA.",
+  "name_abbreviation": "Najar v. Arizona",
+  "decision_date": "2016-10-31",
+  "docket_number": "No. 15\u20138878.",
+  "first_page": "369",
+  "last_page": "370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 369"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 287"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 11",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12602871
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "parenthetical": " Sotomayor, J., concurring"
+        },
+        {
+          "parenthetical": "Alito, J., dissenting"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/0011-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 718",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12601432
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/0718-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 74,
+    "char_count": 883,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26358486537245995
+    },
+    "sha256": "ece2955b1f120813a6ce2c6f9c70bc4e5cb11253fa1eae55bbf82abe0f7af8d8",
+    "simhash": "1:0aae2a5ac9416edf",
+    "word_count": 136
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Franklin NAJAR, petitioner,\nv.\nARIZONA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the Court of Appeals of Arizona, Division One. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Appeals of Arizona, Division One for further consideration in light of Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016)."
+    ],
+    "corrections": "",
+    "head_matter": "William Franklin NAJAR, petitioner,\nv.\nARIZONA.\nNo. 15-8878.\nSupreme Court of the United States\nOct. 31, 2016.\nOn petition for writ of certiorari to the Court of Appeals of Arizona, Division One. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the Court of Appeals of Arizona, Division One for further consideration in light of Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016).\nJustice SOTOMAYOR concurs in the decision to grant, vacate, and remand. See Tatum v. Arizona, 580 U.S. ----, 137 S.Ct. 11, --- L.E.2d ---- (2016) ( Sotomayor, J., concurring). Justice ALITO, with whom Justice THOMAS joins, dissents from the decision to grant, vacate, and remand. See Tatum v. Arizona, 580 U.S. ----, 137 S.Ct. 11, --- L.E.2d ---- (2016) (Alito, J., dissenting)."
+  },
+  "file_name": "0369-02",
+  "first_page_order": 369,
+  "last_page_order": 370
+}

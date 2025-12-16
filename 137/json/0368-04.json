@@ -1,0 +1,64 @@
+{
+  "id": 12607542,
+  "name": "Juan ESQUIVEL-QUINTANA, petitioner, v. Loretta E. LYNCH, Attorney General.",
+  "name_abbreviation": "Esquivel-Quintana v. Lynch",
+  "decision_date": "2016-10-28",
+  "docket_number": "No. 16\u201354.",
+  "first_page": "368",
+  "last_page": "369",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 368"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 283"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 238,
+    "sha256": "3b0794b3026b5612968c0d780915874b867622aa0bfe2d49d904bc73ea9527ef",
+    "simhash": "1:5bec7444398097a9",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan ESQUIVEL-QUINTANA, petitioner,\nv.\nLoretta E. LYNCH, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit granted."
+    ],
+    "corrections": "",
+    "head_matter": "Juan ESQUIVEL-QUINTANA, petitioner,\nv.\nLoretta E. LYNCH, Attorney General.\nNo. 16-54.\nSupreme Court of the United States\nOct. 28, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit granted."
+  },
+  "file_name": "0368-04",
+  "first_page_order": 368,
+  "last_page_order": 369
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12604036,
+  "name": "Simon SUE, petitioner, v. Kris KLINE, Warden, et al.",
+  "name_abbreviation": "Sue v. Kline",
+  "decision_date": "2017-03-27",
+  "docket_number": "No. 16\u20138094.",
+  "first_page": "1391",
+  "last_page": "1391",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1391"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 566"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 218,
+    "sha256": "25e97cd8e92d1615eccadca7f8d8744c4b83ff7ab5ff7ec37508987140e67b58",
+    "simhash": "1:5b2cd4dc19498713",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Simon SUE, petitioner,\nv.\nKris KLINE, Warden, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Simon SUE, petitioner,\nv.\nKris KLINE, Warden, et al.\nNo. 16-8094.\nSupreme Court of the United States\nMarch 27, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "1391-01",
+  "first_page_order": 1391,
+  "last_page_order": 1391
+}

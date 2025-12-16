@@ -1,0 +1,64 @@
+{
+  "id": 12609573,
+  "name": "George M. KNIEST, et al., petitioners, v. MISSOURI.",
+  "name_abbreviation": "Kniest v. Missouri",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136060.",
+  "first_page": "721",
+  "last_page": "721",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 721"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 591"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 146,
+    "sha256": "bfe32fec5b404b0a3f93f8eee8b3546103a244199bc9ff428a4672dc251fdbbd",
+    "simhash": "1:b9b750c295227517",
+    "word_count": 23
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George M. KNIEST, et al., petitioners,\nv.\nMISSOURI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "George M. KNIEST, et al., petitioners,\nv.\nMISSOURI.\nNo. 16-6060.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "0721-04",
+  "first_page_order": 721,
+  "last_page_order": 721
+}

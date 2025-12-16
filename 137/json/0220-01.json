@@ -1,0 +1,64 @@
+{
+  "id": 12605912,
+  "name": "David NIERA, petitioner, v. B.M. CASH, Warden.",
+  "name_abbreviation": "Niera v. Cash",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135319.",
+  "first_page": "220",
+  "last_page": "220",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 220"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 210,
+    "sha256": "396e2082c7a6b84f4374c8c11fb49ab17be745e2728dffc2ae8ced8f65d29f19",
+    "simhash": "1:d1ef7644ac851799",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David NIERA, petitioner,\nv.\nB.M. CASH, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David NIERA, petitioner,\nv.\nB.M. CASH, Warden.\nNo. 16-5319.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0220-01",
+  "first_page_order": 220,
+  "last_page_order": 220
+}

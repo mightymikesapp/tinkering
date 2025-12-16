@@ -1,0 +1,64 @@
+{
+  "id": 12606112,
+  "name": "In re Rene RAMON, petitioner.",
+  "name_abbreviation": "In re Ramon",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135342.",
+  "first_page": "223",
+  "last_page": "223",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 223"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 131,
+    "sha256": "510f852373adff57a6db5cfffa56ae20509fe188281b1997ea2e78450bae9b8f",
+    "simhash": "1:786f5246f4b1803d",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Rene RAMON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Rene RAMON, petitioner.\nNo. 16-5342.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0223-02",
+  "first_page_order": 223,
+  "last_page_order": 223
+}

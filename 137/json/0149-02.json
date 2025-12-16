@@ -1,0 +1,64 @@
+{
+  "id": 12604289,
+  "name": "Jefferson A. McGEE, petitioner, v. CALIFORNIA, et al.",
+  "name_abbreviation": "McGee v. California",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20131542.",
+  "first_page": "149",
+  "last_page": "149",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 149"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 45"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 217,
+    "sha256": "c6cfcdd7bf422977aca2deb2f11d7a627f9d82b323207ab1b2857a53598c4bb2",
+    "simhash": "1:f3af764a3fc527fd",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jefferson A. McGEE, petitioner,\nv.\nCALIFORNIA, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jefferson A. McGEE, petitioner,\nv.\nCALIFORNIA, et al.\nNo. 15-1542.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0149-02",
+  "first_page_order": 149,
+  "last_page_order": 149
+}

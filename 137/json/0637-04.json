@@ -1,0 +1,64 @@
+{
+  "id": 12608999,
+  "name": "In re Susan ROSE, petitioner.",
+  "name_abbreviation": "In re Rose",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136471.",
+  "first_page": "637",
+  "last_page": "637",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 637"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 583"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 131,
+    "sha256": "36c82a2c025383c3e47e27ec5879d02f0a273c1bd35dd30f7510df0a62592f4f",
+    "simhash": "1:7befd054ec605133",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Susan ROSE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Susan ROSE, petitioner.\nNo. 16-6471.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0637-04",
+  "first_page_order": 637,
+  "last_page_order": 637
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12609523,
+  "name": "John SHEK, petitioner, v. ACE-USA/ESIS, et al.",
+  "name_abbreviation": "Shek v. ACE-USA/ESIS",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u201344.",
+  "first_page": "715",
+  "last_page": "715",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 715"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 585"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "0cd4d9af596dac9364a3d0005a1533940da843055a894afedb071fe6b9cce1ba",
+    "simhash": "1:3bb7dc5235ac5fb2",
+    "word_count": 22
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John SHEK, petitioner,\nv.\nACE-USA/ESIS, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John SHEK, petitioner,\nv.\nACE-USA/ESIS, et al.\nNo. 16-44.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "0715-05",
+  "first_page_order": 715,
+  "last_page_order": 715
+}

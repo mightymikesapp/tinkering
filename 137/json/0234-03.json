@@ -1,0 +1,64 @@
+{
+  "id": 12606771,
+  "name": "Toriano JOHNSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Johnson v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135436.",
+  "first_page": "234",
+  "last_page": "234",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 234"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 181"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 213,
+    "sha256": "73de44f776da52c7b4fedd1962eb3cf361072717510e14aa8ba7073226d61bb0",
+    "simhash": "1:79adf6c41b0d8259",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Toriano JOHNSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Toriano JOHNSON, petitioner,\nv.\nUNITED STATES.\nNo. 16-5436.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "0234-03",
+  "first_page_order": 234,
+  "last_page_order": 234
+}

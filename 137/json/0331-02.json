@@ -1,0 +1,62 @@
+{
+  "id": 12607394,
+  "name": "In the Matter of DISCIPLINE OF Richard I. GOLDMAN.",
+  "name_abbreviation": "In re Goldman",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. D\u20132930.",
+  "first_page": "331",
+  "last_page": "331",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 331"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 240"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 45,
+    "char_count": 366,
+    "sha256": "f358d312167767079becddcc90a71cb5250265591ab37faf35f48efe7c14b5c8",
+    "simhash": "1:62a67026bece276b",
+    "word_count": 64
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF Richard I. GOLDMAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF Richard I. GOLDMAN.\nNo. D-2930.\nSupreme Court of the United States\nOct. 11, 2016.\nRichard I. Goldman, of Springfield, Massachusetts, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0331-02",
+  "first_page_order": 331,
+  "last_page_order": 331
+}

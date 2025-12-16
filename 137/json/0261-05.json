@@ -1,0 +1,64 @@
+{
+  "id": 12606966,
+  "name": "In re Gerald NILES, petitioner.",
+  "name_abbreviation": "In re Niles",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135807.",
+  "first_page": "261",
+  "last_page": "261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 261"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 138,
+    "sha256": "d879502430cb6ab7eae4ba9c1c47a50e9fd2e001753b9896a563199558e19ed6",
+    "simhash": "1:784f520794d94009",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gerald NILES, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Gerald NILES, petitioner.\nNo. 16-5807.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0261-05",
+  "first_page_order": 261,
+  "last_page_order": 261
+}

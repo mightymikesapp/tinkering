@@ -1,0 +1,82 @@
+{
+  "id": 12603914,
+  "name": "MEDINOL LTD., petitioner, v. CORDIS CORPORATION, et al.",
+  "name_abbreviation": "Medinol Ltd. v. Cordis Corp.",
+  "decision_date": "2017-03-27",
+  "docket_number": "No. 15\u2013998.",
+  "first_page": "1372",
+  "last_page": "1372",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1372"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 550"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 954",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12609989
+      ],
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/0954-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 59,
+    "char_count": 595,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635744400542271
+    },
+    "sha256": "cd408f8de4fad677b4448e5eea5cf72e1f93ea810c0b727cf3d1099a647529fc",
+    "simhash": "1:592ee24cbd24028c",
+    "word_count": 94
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MEDINOL LTD., petitioner,\nv.\nCORDIS CORPORATION, et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of SCA Hygiene Products Aktiebolag v. First Quality Baby Products, LLC, 580 U.S. ----, 137 S.Ct. 954, --- L.E.2d ---- (2017)."
+    ],
+    "corrections": "",
+    "head_matter": "MEDINOL LTD., petitioner,\nv.\nCORDIS CORPORATION, et al.\nNo. 15-998.\nSupreme Court of the United States\nMarch 27, 2017.\nOn petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Federal Circuit for further consideration in light of SCA Hygiene Products Aktiebolag v. First Quality Baby Products, LLC, 580 U.S. ----, 137 S.Ct. 954, --- L.E.2d ---- (2017)."
+  },
+  "file_name": "1372-01",
+  "first_page_order": 1372,
+  "last_page_order": 1372
+}

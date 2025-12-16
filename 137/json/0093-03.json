@@ -1,0 +1,64 @@
+{
+  "id": 12609973,
+  "name": "COMMIL USA, LLC, petitioner, v. CISCO SYSTEMS, INC.",
+  "name_abbreviation": "Commil USA, LLC v. Cisco Sys., Inc.",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20131446.",
+  "first_page": "93",
+  "last_page": "93",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 93"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 198"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 295,
+    "sha256": "c729eef9057f89f856a9bd24003825244080a790f2054310d7d7fa0cf2f86b71",
+    "simhash": "1:aaff76c4b445924f",
+    "word_count": 49
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "COMMIL USA, LLC, petitioner,\nv.\nCISCO SYSTEMS, INC."
+    ],
+    "opinions": [
+      {
+        "text": "Justice BREYER took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice BREYER took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "COMMIL USA, LLC, petitioner,\nv.\nCISCO SYSTEMS, INC.\nNo. 15-1446.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0093-03",
+  "first_page_order": 93,
+  "last_page_order": 93
+}

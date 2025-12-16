@@ -1,0 +1,64 @@
+{
+  "id": 12606190,
+  "name": "David Alan GARRITY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Garrity v. United States",
+  "decision_date": "2017-06-12",
+  "docket_number": "No. 16\u20138212.",
+  "first_page": "2242",
+  "last_page": "2242",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2242"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 681"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 217,
+    "sha256": "d3f355371b4c293f05624bf55dec5d326be406f11526725825e1b2f03ecd502e",
+    "simhash": "1:72ae464413274215",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David Alan GARRITY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David Alan GARRITY, petitioner,\nv.\nUNITED STATES.\nNo. 16-8212.\nSupreme Court of the United States\nJune 12, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit denied."
+  },
+  "file_name": "2242-01",
+  "first_page_order": 2242,
+  "last_page_order": 2242
+}

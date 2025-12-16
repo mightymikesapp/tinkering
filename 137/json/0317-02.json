@@ -1,0 +1,64 @@
+{
+  "id": 12607302,
+  "name": "Daniel COX, petitioner, v. Ronald J. RACKLEY, Warden.",
+  "name_abbreviation": "Cox v. Rackley",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. 16\u20135765.",
+  "first_page": "317",
+  "last_page": "317",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 317"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 231"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 218,
+    "sha256": "99c43f315403e56bd4151b5a27428600cf43c84e963dad05eca5c4c23cc9a7f7",
+    "simhash": "1:53bef2c43f854708",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Daniel COX, petitioner,\nv.\nRonald J. RACKLEY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Daniel COX, petitioner,\nv.\nRonald J. RACKLEY, Warden.\nNo. 16-5765.\nSupreme Court of the United States\nOct. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0317-02",
+  "first_page_order": 317,
+  "last_page_order": 317
+}

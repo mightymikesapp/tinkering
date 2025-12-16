@@ -1,0 +1,83 @@
+{
+  "id": 12602653,
+  "name": "Paul BISHOP, et al., petitioners, v. WELLS FARGO & CO., et al.",
+  "name_abbreviation": "Bishop v. Wells Fargo & Co.",
+  "decision_date": "2017-02-21",
+  "docket_number": "No. 16\u2013578.",
+  "first_page": "1067",
+  "last_page": "1067",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1067"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 169"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 1989",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597555
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/1989-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 56,
+    "char_count": 520,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635717371939445
+    },
+    "sha256": "292dc2d2d9fabba0e04302151566e718ae7d54144c2934f8181d6e12b8550b13",
+    "simhash": "1:7eaa7244a5051689",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Paul BISHOP, et al., petitioners,\nv.\nWELLS FARGO & CO., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Second Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Second Circuit for further consideration in light of Universal Health Services, Inc. v. United States ex rel. Escobar, 579 U.S. ----, 136 S.Ct. 1989, 195 L.Ed.2d 348 (2016)."
+    ],
+    "corrections": "",
+    "head_matter": "Paul BISHOP, et al., petitioners,\nv.\nWELLS FARGO & CO., et al.\nNo. 16-578.\nSupreme Court of the United States\nFeb. 21, 2017.\nOn petition for writ of certiorari to the United States Court of Appeals for the Second Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Second Circuit for further consideration in light of Universal Health Services, Inc. v. United States ex rel. Escobar, 579 U.S. ----, 136 S.Ct. 1989, 195 L.Ed.2d 348 (2016)."
+  },
+  "file_name": "1067-05",
+  "first_page_order": 1067,
+  "last_page_order": 1067
+}

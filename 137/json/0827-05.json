@@ -1,0 +1,64 @@
+{
+  "id": 12609780,
+  "name": "BRISTOL-MYERS SQUIBB COMPANY, petitioner, v. SUPERIOR COURT OF CALIFORNIA, SAN FRANCISCO COUNTY, et al.",
+  "name_abbreviation": "Bristol-Myers Squibb Co. v. Superior Court of Cal.",
+  "decision_date": "2017-01-19",
+  "docket_number": "No. 16\u2013466.",
+  "first_page": "827",
+  "last_page": "827",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 827"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 610"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 243,
+    "sha256": "a4042d54720d76199c7052b52f2e14026535dd327f1112c12b43091c48c1bc60",
+    "simhash": "1:ca6b145e3aaf06d6",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BRISTOL-MYERS SQUIBB COMPANY, petitioner,\nv.\nSUPERIOR COURT OF CALIFORNIA, SAN FRANCISCO COUNTY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of California granted."
+    ],
+    "corrections": "",
+    "head_matter": "BRISTOL-MYERS SQUIBB COMPANY, petitioner,\nv.\nSUPERIOR COURT OF CALIFORNIA, SAN FRANCISCO COUNTY, et al.\nNo. 16-466.\nSupreme Court of the United States\nJan. 19, 2017.\nPetition for writ of certiorari to the Supreme Court of California granted."
+  },
+  "file_name": "0827-05",
+  "first_page_order": 827,
+  "last_page_order": 827
+}

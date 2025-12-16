@@ -1,0 +1,62 @@
+{
+  "id": 12607397,
+  "name": "In the Matter of DISCIPLINE OF William I. DIGGS.",
+  "name_abbreviation": "In re Diggs",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. D\u20132933.",
+  "first_page": "331",
+  "last_page": "332",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 331"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 241"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 47,
+    "char_count": 364,
+    "sha256": "c7b34d755bcdc723ec5f0dffb5ea18352a212b9adf43e95f302e17422c1d80f5",
+    "simhash": "1:728a603e1fdf27eb",
+    "word_count": 66
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISCIPLINE OF William I. DIGGS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISCIPLINE OF William I. DIGGS.\nNo. D-2933.\nSupreme Court of the United States\nOct. 11, 2016.\nWilliam I. Diggs, of Myrtle Beach, South Carolina, is suspended from the practice of law in this Court and a rule will issue, returnable within 40 days, requiring him to show cause why he should not be disbarred from the practice of law in this Court."
+  },
+  "file_name": "0331-05",
+  "first_page_order": 331,
+  "last_page_order": 332
+}

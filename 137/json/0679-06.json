@@ -1,0 +1,64 @@
+{
+  "id": 12609281,
+  "name": "John C. HORNER, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Horner v. Florida",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136832.",
+  "first_page": "679",
+  "last_page": "679",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 679"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 562"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 175,
+    "sha256": "e510f361c842506b6ce60eac6cabeeb8b15b66007b15ec20c16168865a9335d1",
+    "simhash": "1:7aa654d4380541b5",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John C. HORNER, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Florida denied."
+    ],
+    "corrections": "",
+    "head_matter": "John C. HORNER, petitioner,\nv.\nFLORIDA.\nNo. 16-6832.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the Supreme Court of Florida denied."
+  },
+  "file_name": "0679-06",
+  "first_page_order": 679,
+  "last_page_order": 679
+}

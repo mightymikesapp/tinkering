@@ -1,0 +1,83 @@
+{
+  "id": 12604122,
+  "name": "James Scott ROBINSON, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Robinson v. United States",
+  "decision_date": "2017-04-03",
+  "docket_number": "No. 16\u20136550.",
+  "first_page": "1433",
+  "last_page": "1433",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1433"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 645"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 718",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12601432
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/0718-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 532,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635757914843684
+    },
+    "sha256": "204c9356bec6c76ac49c8a3a366e0e527e83973075f6e3b76783a4d049b6810b",
+    "simhash": "1:7faff2d42c028619",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Scott ROBINSON, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016)."
+    ],
+    "corrections": "",
+    "head_matter": "James Scott ROBINSON, petitioner,\nv.\nUNITED STATES.\nNo. 16-6550.\nSupreme Court of the United States\nApril 3, 2017.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fourth Circuit for further consideration in light of Montgomery v. Louisiana, 577 U.S. ----, 136 S.Ct. 718, 193 L.Ed.2d 599 (2016)."
+  },
+  "file_name": "1433-01",
+  "first_page_order": 1433,
+  "last_page_order": 1433
+}

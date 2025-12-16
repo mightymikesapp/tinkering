@@ -1,0 +1,64 @@
+{
+  "id": 12606387,
+  "name": "In Re Nancy GLEIS, petitioner.",
+  "name_abbreviation": "In re Gleis",
+  "decision_date": "2017-06-19",
+  "docket_number": "No. 16\u20138716.",
+  "first_page": "2271",
+  "last_page": "2271",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2271"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 716"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "937fd127694389e77328ba22ef49576b96dbc552efc548fff278b803525e861c",
+    "simhash": "1:3a04d655dc8c1782",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Nancy GLEIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Nancy GLEIS, petitioner.\nNo. 16-8716.\nSupreme Court of the United States\nJune 19, 2017.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "2271-04",
+  "first_page_order": 2271,
+  "last_page_order": 2271
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12609875,
+  "name": "Andrew Mark LAMAR, petitioner, v. COLORADO.",
+  "name_abbreviation": "Lamar v. Colorado",
+  "decision_date": "2017-01-23",
+  "docket_number": "No. 16\u20137283.",
+  "first_page": "841",
+  "last_page": "841",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 841"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 78"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 184,
+    "sha256": "d03f06403a713253a68cb431e0a75fa8556e402d06a0c283e77083b77cbed328",
+    "simhash": "1:c8ff7406b2014171",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew Mark LAMAR, petitioner,\nv.\nCOLORADO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Colorado denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew Mark LAMAR, petitioner,\nv.\nCOLORADO.\nNo. 16-7283.\nSupreme Court of the United States\nJan. 23, 2017.\nPetition for writ of certiorari to the Court of Appeals of Colorado denied."
+  },
+  "file_name": "0841-05",
+  "first_page_order": 841,
+  "last_page_order": 841
+}

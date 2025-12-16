@@ -1,0 +1,64 @@
+{
+  "id": 12607412,
+  "name": "In re Herndon STEELE, petitioner.",
+  "name_abbreviation": "In re Steele",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u2013192.",
+  "first_page": "334",
+  "last_page": "334",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 334"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 135,
+    "sha256": "6c40ffc6ba8c100a2798dd463f728314a8ea00ba959218b7fb7d5e93f9b08660",
+    "simhash": "1:69ef96f4bca533ff",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Herndon STEELE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Herndon STEELE, petitioner.\nNo. 16-192.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0334-03",
+  "first_page_order": 334,
+  "last_page_order": 334
+}

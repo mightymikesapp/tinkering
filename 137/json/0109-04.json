@@ -1,0 +1,64 @@
+{
+  "id": 12602806,
+  "name": "Peter BARCLAY, petitioner, v. OREGON, et al.",
+  "name_abbreviation": "Barclay v. Oregon",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139627.",
+  "first_page": "109",
+  "last_page": "109",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 109"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 89"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 208,
+    "sha256": "5638776ddee07491ee3fc99434443f85bb03226f70695271da9ca64652b7296b",
+    "simhash": "1:53e752003d8512ad",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Peter BARCLAY, petitioner,\nv.\nOREGON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Peter BARCLAY, petitioner,\nv.\nOREGON, et al.\nNo. 15-9627.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0109-04",
+  "first_page_order": 109,
+  "last_page_order": 109
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12606835,
+  "name": "Jose Colon DeJESUS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "DeJesus v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135500.",
+  "first_page": "243",
+  "last_page": "243",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 243"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 185"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "dc7549fd996ae00179b78f024833a6c3280fe747e7a8ec172ba31d34ca4b9ca8",
+    "simhash": "1:336d664432055239",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jose Colon DeJESUS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jose Colon DeJESUS, petitioner,\nv.\nUNITED STATES.\nNo. 16-5500.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0243-04",
+  "first_page_order": 243,
+  "last_page_order": 243
+}

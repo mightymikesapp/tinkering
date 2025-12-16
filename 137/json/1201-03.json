@@ -1,0 +1,64 @@
+{
+  "id": 12603224,
+  "name": "Bobby T. SHEPPARD, petitioner, v. Norm ROBINSON, Warden.",
+  "name_abbreviation": "Sheppard v. Robinson",
+  "decision_date": "2017-02-27",
+  "docket_number": "No. 15\u20139638.",
+  "first_page": "1201",
+  "last_page": "1201",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1201"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 245"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "7d5c1f7e84ff78988d97e8a87864bdda72b1139ce48b13b2bd7873c976224e5f",
+    "simhash": "1:72a7d6443284d79f",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bobby T. SHEPPARD, petitioner,\nv.\nNorm ROBINSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bobby T. SHEPPARD, petitioner,\nv.\nNorm ROBINSON, Warden.\nNo. 15-9638.\nSupreme Court of the United States\nFeb. 27, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1201-03",
+  "first_page_order": 1201,
+  "last_page_order": 1201
+}

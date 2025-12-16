@@ -1,0 +1,64 @@
+{
+  "id": 12609044,
+  "name": "Michael WILLIAMS, petitioner, v. Troy STEELE, Warden.",
+  "name_abbreviation": "Williams v. Steele",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136530.",
+  "first_page": "644",
+  "last_page": "644",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 644"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 540"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 190,
+    "sha256": "c650ab2ad9d02aa2368dd58ed5c0188b7b4e6cb535a5de51b2ed3dcfafd64f6c",
+    "simhash": "1:f8ff564c12a665b1",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael WILLIAMS, petitioner,\nv.\nTroy STEELE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Missouri denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael WILLIAMS, petitioner,\nv.\nTroy STEELE, Warden.\nNo. 16-6530.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the Supreme Court of Missouri denied."
+  },
+  "file_name": "0644-01",
+  "first_page_order": 644,
+  "last_page_order": 644
+}

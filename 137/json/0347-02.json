@@ -1,0 +1,64 @@
+{
+  "id": 12607493,
+  "name": "In re Jack J. MINICONE, Jr., petitioner.",
+  "name_abbreviation": "In re Minicone",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u20136063.",
+  "first_page": "347",
+  "last_page": "347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 347"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 148,
+    "sha256": "079cd48e7106aedd81f9fee0b3669ff4bf46aa4c3c1b937a0b86a1cd611b506c",
+    "simhash": "1:79de24967cc81301",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jack J. MINICONE, Jr., petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Jack J. MINICONE, Jr., petitioner.\nNo. 16-6063.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0347-02",
+  "first_page_order": 347,
+  "last_page_order": 347
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12609185,
+  "name": "Robert Lamont GREEN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Green v. United States",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136728.",
+  "first_page": "665",
+  "last_page": "665",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 665"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 554"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "de116c228ea2fb9d722982a924f3d0d5f0dc0f7424aff35f3131d60d0817d603",
+    "simhash": "1:79ef56c43e2c4015",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Lamont GREEN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Lamont GREEN, petitioner,\nv.\nUNITED STATES.\nNo. 16-6728.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0665-01",
+  "first_page_order": 665,
+  "last_page_order": 665
+}

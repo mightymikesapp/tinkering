@@ -1,0 +1,64 @@
+{
+  "id": 12603684,
+  "name": "George SISK, petitioner, v. Ron NEAL, Superintendent, Indiana State Prison.",
+  "name_abbreviation": "Sisk v. Neal",
+  "decision_date": "2017-03-20",
+  "docket_number": "No. 16\u20137501.",
+  "first_page": "1337",
+  "last_page": "1337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1337"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 529"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 243,
+    "sha256": "33a8c982bcc56db1c4241b48011b6bf19117cd20defaaca111d38afeb132321c",
+    "simhash": "1:fa2c52c83f644781",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George SISK, petitioner,\nv.\nRon NEAL, Superintendent, Indiana State Prison."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George SISK, petitioner,\nv.\nRon NEAL, Superintendent, Indiana State Prison.\nNo. 16-7501.\nSupreme Court of the United States\nMarch 20, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1337-06",
+  "first_page_order": 1337,
+  "last_page_order": 1337
+}

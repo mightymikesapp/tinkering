@@ -1,0 +1,64 @@
+{
+  "id": 12604710,
+  "name": "Michael L. BERRY, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Berry v. Illinois",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135044.",
+  "first_page": "168",
+  "last_page": "168",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 168"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 141"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 197,
+    "sha256": "3a9a57f8fb34d7136c2c8aab61a91d0b3d71ecc01b34e1f89b62c8a399114367",
+    "simhash": "1:48ef76c01ac90198",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael L. BERRY, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, Third District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael L. BERRY, petitioner,\nv.\nILLINOIS.\nNo. 16-5044.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Appellate Court of Illinois, Third District denied."
+  },
+  "file_name": "0168-03",
+  "first_page_order": 168,
+  "last_page_order": 168
+}

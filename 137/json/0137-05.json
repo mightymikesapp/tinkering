@@ -1,0 +1,64 @@
+{
+  "id": 12603899,
+  "name": "In re James Earl SMITH, Jr., petitioner.",
+  "name_abbreviation": "In re Smith",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139792.",
+  "first_page": "137",
+  "last_page": "137",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 137"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 201"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 147,
+    "sha256": "7e1837d20ae14a74cf7019b6f418f239ae1ed9e2853b261c6ad872b6853fd987",
+    "simhash": "1:694f62571ef98131",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re James Earl SMITH, Jr., petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re James Earl SMITH, Jr., petitioner.\nNo. 15-9792.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0137-05",
+  "first_page_order": 137,
+  "last_page_order": 137
+}

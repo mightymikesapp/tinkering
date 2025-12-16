@@ -1,0 +1,64 @@
+{
+  "id": 12605379,
+  "name": "Richard FELTON, petitioner, v. MASSACHUSETTS.",
+  "name_abbreviation": "Felton v. Massachusetts",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135257.",
+  "first_page": "212",
+  "last_page": "212",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 212"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 164"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 187,
+    "sha256": "9df21259b86f9a5d0ea07a249a103b65c13251114b1aed473f5d7e130fb0e9ff",
+    "simhash": "1:69cfd210acfd45a5",
+    "word_count": 28
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard FELTON, petitioner,\nv.\nMASSACHUSETTS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appeals Court of Massachusetts denied."
+    ],
+    "corrections": "",
+    "head_matter": "Richard FELTON, petitioner,\nv.\nMASSACHUSETTS.\nNo. 16-5257.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Appeals Court of Massachusetts denied."
+  },
+  "file_name": "0212-02",
+  "first_page_order": 212,
+  "last_page_order": 212
+}

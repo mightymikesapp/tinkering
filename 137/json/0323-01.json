@@ -1,0 +1,64 @@
+{
+  "id": 12607340,
+  "name": "Jean JOSEPH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Joseph v. United States",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. 16\u20135838.",
+  "first_page": "323",
+  "last_page": "323",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 323"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 235"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "283a1fbb7371ae0a83c98620414d9e5a4c8ae0f3ced9af301208a0a318f866df",
+    "simhash": "1:ebaef6443b0d4619",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jean JOSEPH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jean JOSEPH, petitioner,\nv.\nUNITED STATES.\nNo. 16-5838.\nSupreme Court of the United States\nOct. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0323-01",
+  "first_page_order": 323,
+  "last_page_order": 323
+}

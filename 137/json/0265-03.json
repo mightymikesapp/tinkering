@@ -1,0 +1,64 @@
+{
+  "id": 12606990,
+  "name": "Timothy Brian BROWN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16M24.",
+  "first_page": "265",
+  "last_page": "265",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 265"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 14"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 32,
+    "char_count": 219,
+    "sha256": "0c7e701f4d0fbb9195e55cc2def0fe6118199fcf8e2093d6af0071cf5d2a6d66",
+    "simhash": "1:dbad4202c78dd4ff",
+    "word_count": 39
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Timothy Brian BROWN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for a writ of certiorari out of time under rule 14.5 denied."
+    ],
+    "corrections": "",
+    "head_matter": "Timothy Brian BROWN, petitioner,\nv.\nUNITED STATES.\nNo. 16M24.\nSupreme Court of the United States\nOct. 3, 2016.\nMotion to direct the Clerk to file a petition for a writ of certiorari out of time under rule 14.5 denied."
+  },
+  "file_name": "0265-03",
+  "first_page_order": 265,
+  "last_page_order": 265
+}

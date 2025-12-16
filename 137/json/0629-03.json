@@ -1,0 +1,64 @@
+{
+  "id": 12608942,
+  "name": "William D. MITCHELL, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Mitchell v. United States",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136307.",
+  "first_page": "629",
+  "last_page": "629",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 629"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 533"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 214,
+    "sha256": "9ce6e9012d837427560e38318450549d02560e1ef9266dddbdae098449b50dc6",
+    "simhash": "1:1aad56c6320c5291",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William D. MITCHELL, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William D. MITCHELL, petitioner,\nv.\nUNITED STATES.\nNo. 16-6307.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0629-03",
+  "first_page_order": 629,
+  "last_page_order": 629
+}

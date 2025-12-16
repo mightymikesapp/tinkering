@@ -1,0 +1,64 @@
+{
+  "id": 12605109,
+  "name": "In re Gary E. HALL, petitioner",
+  "name_abbreviation": "In re Hall",
+  "decision_date": "2016-08-08",
+  "docket_number": "No. 15\u20139299.",
+  "first_page": "20",
+  "last_page": "20",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 20"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 893"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 125,
+    "sha256": "0dbffc5c8c82c1e6b4f9fcb3d29e43a42ece4bef69ce3fc917b836f4786a4f34",
+    "simhash": "1:f93774d2bd804600",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Gary E. HALL, petitioner"
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Gary E. HALL, petitioner\nNo. 15-9299.\nSupreme Court of the United States\nAug. 8, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0020-03",
+  "first_page_order": 20,
+  "last_page_order": 20
+}

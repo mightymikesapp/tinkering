@@ -1,0 +1,64 @@
+{
+  "id": 12602924,
+  "name": "Howard WHITE, petitioner, v. Eddie PEARSON, Warden.",
+  "name_abbreviation": "White v. Pearson",
+  "decision_date": "2017-02-21",
+  "docket_number": "No. 16\u20137384.",
+  "first_page": "1107",
+  "last_page": "1107",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1107"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 189,
+    "sha256": "94c227f937b8c3d85d28cfb787b9ad9628a89c89bd4a082994d62802b27221a4",
+    "simhash": "1:f2a7145cb29471b1",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Howard WHITE, petitioner,\nv.\nEddie PEARSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Virginia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Howard WHITE, petitioner,\nv.\nEddie PEARSON, Warden.\nNo. 16-7384.\nSupreme Court of the United States\nFeb. 21, 2017.\nPetition for writ of certiorari to the Supreme Court of Virginia denied."
+  },
+  "file_name": "1107-03",
+  "first_page_order": 1107,
+  "last_page_order": 1107
+}

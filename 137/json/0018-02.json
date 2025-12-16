@@ -1,0 +1,64 @@
+{
+  "id": 12604798,
+  "name": "Tommy Earl JONES, petitioner, v. Don WILLIE, et al.",
+  "name_abbreviation": "Jones v. Willie",
+  "decision_date": "2016-08-08",
+  "docket_number": "No. 15\u20138647.",
+  "first_page": "18",
+  "last_page": "18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 18"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 890"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 146,
+    "sha256": "ece9319ebc2ddec97b49a80d94c209efdba8dbf5d56a46a273cad25115267ade",
+    "simhash": "1:78671c5016cc124a",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tommy Earl JONES, petitioner,\nv.\nDon WILLIE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Tommy Earl JONES, petitioner,\nv.\nDon WILLIE, et al.\nNo. 15-8647.\nSupreme Court of the United States\nAug. 8, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0018-02",
+  "first_page_order": 18,
+  "last_page_order": 18
+}

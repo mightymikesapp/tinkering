@@ -1,0 +1,64 @@
+{
+  "id": 12606673,
+  "name": "Marvin FIELDS, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Fields v. Illinois",
+  "decision_date": "2017-06-26",
+  "docket_number": "No. 16\u20139237.",
+  "first_page": "2313",
+  "last_page": "2313",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2313"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 741"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "f104172a32fd5e08c2c6cad7b895e0471243d3abdee3be1c79cf83253a21bccc",
+    "simhash": "1:d4ef527c8abc6190",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marvin FIELDS, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Marvin FIELDS, petitioner,\nv.\nILLINOIS.\nNo. 16-9237.\nSupreme Court of the United States\nJune 26, 2017.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District denied."
+  },
+  "file_name": "2313-06",
+  "first_page_order": 2313,
+  "last_page_order": 2313
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12606415,
+  "name": "In Re Edward Lewis TOBINICK, et al., petitioners.",
+  "name_abbreviation": "In re Tobinick",
+  "decision_date": "2017-06-19",
+  "docket_number": "No. 16\u20131281.",
+  "first_page": "2275",
+  "last_page": "2275",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2275"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 715"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 152,
+    "sha256": "706fc3fda4d729fa5ecd5223859002515c1fb229c3f17c0f754035f0d9679a28",
+    "simhash": "1:9e275254162177b9",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Edward Lewis TOBINICK, et al., petitioners."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Edward Lewis TOBINICK, et al., petitioners.\nNo. 16-1281.\nSupreme Court of the United States\nJune 19, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "2275-06",
+  "first_page_order": 2275,
+  "last_page_order": 2275
+}

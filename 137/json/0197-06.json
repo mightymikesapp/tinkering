@@ -1,0 +1,64 @@
+{
+  "id": 12605091,
+  "name": "Debra JONES, et al., petitioners, v. Vance NORTON, et al.",
+  "name_abbreviation": "Jones v. Norton",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u201372.",
+  "first_page": "197",
+  "last_page": "197",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 197"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 219,
+    "sha256": "71d42902b03ccb64825f21b858af4adccead5e025553bfca3b5b48cba02023a1",
+    "simhash": "1:7baff6ce1de132f9",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Debra JONES, et al., petitioners,\nv.\nVance NORTON, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Debra JONES, et al., petitioners,\nv.\nVance NORTON, et al.\nNo. 16-72.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0197-06",
+  "first_page_order": 197,
+  "last_page_order": 197
+}

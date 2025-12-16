@@ -1,0 +1,64 @@
+{
+  "id": 12605178,
+  "name": "In re Jerry BLANEY, petitioner.",
+  "name_abbreviation": "In re Blaney",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135235.",
+  "first_page": "209",
+  "last_page": "209",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 209"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 133,
+    "sha256": "e664dacb173a554ed656e129e99aeb7c09d7d658646143a8791f464a90aa9067",
+    "simhash": "1:78475646fecdf33d",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Jerry BLANEY, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Jerry BLANEY, petitioner.\nNo. 16-5235.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0209-03",
+  "first_page_order": 209,
+  "last_page_order": 209
+}

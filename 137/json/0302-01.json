@@ -1,0 +1,64 @@
+{
+  "id": 12607204,
+  "name": "Freddi Lee COOK, petitioner, v. Darrel VANNOY, Warden.",
+  "name_abbreviation": "Cook v. Vannoy",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. 16\u20135465.",
+  "first_page": "302",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 302"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 222"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 219,
+    "sha256": "c12b44fada77a261f12cf4f5a7d29ea6b7ca654ea31074a577e1b2917afdf40b",
+    "simhash": "1:f7afd44cb58542ad",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Freddi Lee COOK, petitioner,\nv.\nDarrel VANNOY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Freddi Lee COOK, petitioner,\nv.\nDarrel VANNOY, Warden.\nNo. 16-5465.\nSupreme Court of the United States\nOct. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0302-01",
+  "first_page_order": 302,
+  "last_page_order": 302
+}

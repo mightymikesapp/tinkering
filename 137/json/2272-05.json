@@ -1,0 +1,64 @@
+{
+  "id": 12606395,
+  "name": "In Re Jeremy Christopher SOUTHGATE, petitioner.",
+  "name_abbreviation": "In re Southgate",
+  "decision_date": "2017-06-19",
+  "docket_number": "No. 16\u20138748.",
+  "first_page": "2272",
+  "last_page": "2272",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2272"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 715"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 150,
+    "sha256": "6a475bbeff4549b00a25951d6997bf9115c37eb5f0b27e666988cb1fed48cde6",
+    "simhash": "1:da1d5e54d62134bf",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Jeremy Christopher SOUTHGATE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Jeremy Christopher SOUTHGATE, petitioner.\nNo. 16-8748.\nSupreme Court of the United States\nJune 19, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "2272-05",
+  "first_page_order": 2272,
+  "last_page_order": 2272
+}

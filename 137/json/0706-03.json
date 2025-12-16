@@ -1,0 +1,64 @@
+{
+  "id": 12609459,
+  "name": "In re Elizabeth REYNOLDS, petitioner.",
+  "name_abbreviation": "In re Reynolds",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20137248.",
+  "first_page": "706",
+  "last_page": "706",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 706"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 144,
+    "sha256": "2cc6064bb5b75652d0b81e68ba7f6b40baecf43f68c3856335ee9f07d7296131",
+    "simhash": "1:68cf50431eea4135",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Elizabeth REYNOLDS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Elizabeth REYNOLDS, petitioner.\nNo. 16-7248.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0706-03",
+  "first_page_order": 706,
+  "last_page_order": 706
+}

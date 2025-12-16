@@ -1,0 +1,83 @@
+{
+  "id": 12603666,
+  "name": "Michael STEPHENS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Stephens v. United States",
+  "decision_date": "2017-03-20",
+  "docket_number": "No. 16\u20137448.",
+  "first_page": "1334",
+  "last_page": "1335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1334"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 513"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 2243",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12598042
+      ],
+      "weight": 2,
+      "year": 2016,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/2243-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 49,
+    "char_count": 527,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26357347474698334
+    },
+    "sha256": "efd50d04ae44ffdd286ca78dbf4ad9818ca222590a6c6f2c13dc8d4fca9adf95",
+    "simhash": "1:74adf2c407821699",
+    "word_count": 86
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael STEPHENS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Mathis v. United States, 579 U.S. ----, 136 S.Ct. 2243, 195 L.Ed.2d 604(2016)."
+    ],
+    "corrections": "",
+    "head_matter": "Michael STEPHENS, petitioner,\nv.\nUNITED STATES.\nNo. 16-7448.\nSupreme Court of the United States\nMarch 20, 2017.\nOn petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Mathis v. United States, 579 U.S. ----, 136 S.Ct. 2243, 195 L.Ed.2d 604(2016)."
+  },
+  "file_name": "1334-06",
+  "first_page_order": 1334,
+  "last_page_order": 1335
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12607974,
+  "name": "In re Douglas SINCLAIR, petitioner.",
+  "name_abbreviation": "In re Sinclair",
+  "decision_date": "2016-11-07",
+  "docket_number": "No. 16\u20136433.",
+  "first_page": "457",
+  "last_page": "457",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 457"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 337"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "92fa709ec42330bac2205cc263b8f46bb23468bdb6640ca7fd4078be05451121",
+    "simhash": "1:496650058aa81100",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Douglas SINCLAIR, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Douglas SINCLAIR, petitioner.\nNo. 16-6433.\nSupreme Court of the United States\nNov. 7, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0457-03",
+  "first_page_order": 457,
+  "last_page_order": 457
+}

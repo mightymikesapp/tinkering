@@ -1,0 +1,64 @@
+{
+  "id": 12604499,
+  "name": "Cristian FUNES, petitioner, v. Loretta E. LYNCH, Attorney General.",
+  "name_abbreviation": "Funes v. Lynch",
+  "decision_date": "2016-08-08",
+  "docket_number": "No. 15\u20131235.",
+  "first_page": "16",
+  "last_page": "16",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 16"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 889"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 161,
+    "sha256": "047a82ea52fd5a19491c373078645ca40cecacf4cf0360cd7e6b75388934ecde",
+    "simhash": "1:32f477413fcc52c0",
+    "word_count": 24
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Cristian FUNES, petitioner,\nv.\nLoretta E. LYNCH, Attorney General."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Cristian FUNES, petitioner,\nv.\nLoretta E. LYNCH, Attorney General.\nNo. 15-1235.\nSupreme Court of the United States\nAug. 8, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0016-03",
+  "first_page_order": 16,
+  "last_page_order": 16
+}

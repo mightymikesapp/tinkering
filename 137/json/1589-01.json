@@ -1,0 +1,94 @@
+{
+  "id": 12604428,
+  "name": "Thomas PARKER, petitioner, v. Steven JOHNSON, Administrator, New Jersey State Prison, et al.",
+  "name_abbreviation": "Parker v. Johnson",
+  "decision_date": "2017-04-17",
+  "docket_number": "No. 16\u20137905.",
+  "first_page": "1589",
+  "last_page": "1589",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1589"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 699"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 89,
+    "char_count": 730,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635775290374072
+    },
+    "sha256": "b2200809f5858988478fd3fabe3050fa23a2055b7a031cf73ee0ed77ba08a947",
+    "simhash": "1:65e7658c234dd6a9",
+    "word_count": 119
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas PARKER, petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Third Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas PARKER, petitioner,\nv.\nSteven JOHNSON, Administrator, New Jersey State Prison, et al.\nNo. 16-7905.\nSupreme Court of the United States\nApril 17, 2017.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the United States Court of Appeals for the Third Circuit dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "1589-01",
+  "first_page_order": 1589,
+  "last_page_order": 1589
+}

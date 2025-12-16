@@ -1,0 +1,64 @@
+{
+  "id": 12605608,
+  "name": "In Re Charles A. DAVIS, petitioner.",
+  "name_abbreviation": "In re Davis",
+  "decision_date": "2017-05-15",
+  "docket_number": "No. 16\u20137910.",
+  "first_page": "2153",
+  "last_page": "2153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2153"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 225"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 130,
+    "sha256": "1a0df303f01585b2596ff79f917ad1d14e2f90518aa4aa461765077be62c3180",
+    "simhash": "1:139f52029a8a5a60",
+    "word_count": 21
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Charles A. DAVIS, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Charles A. DAVIS, petitioner.\nNo. 16-7910.\nSupreme Court of the United States\nMay 15, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "2153-04",
+  "first_page_order": 2153,
+  "last_page_order": 2153
+}

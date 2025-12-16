@@ -1,0 +1,64 @@
+{
+  "id": 12604664,
+  "name": "Ledell LEE, applicant, v. ARKANSAS.",
+  "name_abbreviation": "Lee v. Arkansas",
+  "decision_date": "2017-04-20",
+  "docket_number": "No. 16A1016.",
+  "first_page": "1623",
+  "last_page": "1623",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1623"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 748"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 224,
+    "sha256": "4d776d36649b8712b9650216126a27b6bd3d6e3074b4611c6b6e7e963f8b97f6",
+    "simhash": "1:e04f7460372513c6",
+    "word_count": 37
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ledell LEE, applicant,\nv.\nARKANSAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay of execution of sentence of death presented to Justice ALITO and by him referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ledell LEE, applicant,\nv.\nARKANSAS.\nNo. 16A1016.\nSupreme Court of the United States\nApril 20, 2017.\nApplication for stay of execution of sentence of death presented to Justice ALITO and by him referred to the Court denied."
+  },
+  "file_name": "1623-01",
+  "first_page_order": 1623,
+  "last_page_order": 1623
+}

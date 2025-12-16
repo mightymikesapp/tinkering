@@ -1,0 +1,64 @@
+{
+  "id": 12604500,
+  "name": "Juan RESTREPO-DUQUE, petitioner, v. DELAWARE.",
+  "name_abbreviation": "Restrepo-Duque v. Delaware",
+  "decision_date": "2016-08-08",
+  "docket_number": "No. 15\u20131238.",
+  "first_page": "16",
+  "last_page": "16",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 16"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 889"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 140,
+    "sha256": "4c679c9899878817eb832425fea97f7fb89930fcc13763776e871dba1ab4a99a",
+    "simhash": "1:b8e5745eb6457258",
+    "word_count": 20
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan RESTREPO-DUQUE, petitioner,\nv.\nDELAWARE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan RESTREPO-DUQUE, petitioner,\nv.\nDELAWARE.\nNo. 15-1238.\nSupreme Court of the United States\nAug. 8, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0016-04",
+  "first_page_order": 16,
+  "last_page_order": 16
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12607452,
+  "name": "In re Hubert JACKSON, petitioner.",
+  "name_abbreviation": "In re Jackson",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u20135664.",
+  "first_page": "340",
+  "last_page": "340",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 340"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 136,
+    "sha256": "3cd1e0d62e054ef6ad3b5c8ffda77d4b6c8206e114f179a93e6be76fec43b083",
+    "simhash": "1:73f74a54b4ecb23b",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Hubert JACKSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Hubert JACKSON, petitioner.\nNo. 16-5664.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0340-03",
+  "first_page_order": 340,
+  "last_page_order": 340
+}

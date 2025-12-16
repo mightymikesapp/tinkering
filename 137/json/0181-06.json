@@ -1,0 +1,64 @@
+{
+  "id": 12604815,
+  "name": "Michael HOUSTON and Steve Houston, petitioners, v. Venneta QUEEN, et al.",
+  "name_abbreviation": "Houston v. Queen",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u201340.",
+  "first_page": "181",
+  "last_page": "181",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 181"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 125"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 234,
+    "sha256": "ba6073814c6f850c96cf78270f0f530f40f1a2e86ca5e36da592696e2bbe4ce9",
+    "simhash": "1:3faf744c368586ad",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael HOUSTON and Steve Houston, petitioners,\nv.\nVenneta QUEEN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael HOUSTON and Steve Houston, petitioners,\nv.\nVenneta QUEEN, et al.\nNo. 16-40.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0181-06",
+  "first_page_order": 181,
+  "last_page_order": 181
+}

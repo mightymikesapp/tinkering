@@ -1,0 +1,83 @@
+{
+  "id": 12604353,
+  "name": "Bernard EDMOND, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Edmond v. United States",
+  "decision_date": "2017-04-17",
+  "docket_number": "No. 16\u20135441.",
+  "first_page": "1577",
+  "last_page": "1577",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1577"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 698"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 1170",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12603201
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/1170-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 61,
+    "char_count": 684,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635769498530609
+    },
+    "sha256": "38e9a9c31af23c2aacd7f3e64d330546fd83041bdadb1854e662edde0a439a4e",
+    "simhash": "1:7b2f62472ba50709",
+    "word_count": 113
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bernard EDMOND, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari is granted. Judgment is vacated, and the case is remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Dean v. United States, 581 U.S. ----, 137 S.Ct. 1170, 197 L.Ed.2d 490 (2017)."
+    ],
+    "corrections": "",
+    "head_matter": "Bernard EDMOND, petitioner,\nv.\nUNITED STATES.\nNo. 16-5441.\nSupreme Court of the United States\nApril 17, 2017.\nOn petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit. Motion of petitioner for leave to proceed in forma pauperis and petition for writ of certiorari is granted. Judgment is vacated, and the case is remanded to the United States Court of Appeals for the Sixth Circuit for further consideration in light of Dean v. United States, 581 U.S. ----, 137 S.Ct. 1170, 197 L.Ed.2d 490 (2017).\nJustice GORSUCH took no part in the consideration or decision of this motion, petition, or attorney discipline order appearing on this Order List."
+  },
+  "file_name": "1577-02",
+  "first_page_order": 1577,
+  "last_page_order": 1577
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12605417,
+  "name": "In Re Patrick GEORGE, petitioner.",
+  "name_abbreviation": "In re George",
+  "decision_date": "2017-05-15",
+  "docket_number": "No. 16\u20138210.",
+  "first_page": "2125",
+  "last_page": "2125",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2125"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 223"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 154,
+    "sha256": "67a8f194c82058d7c35c5e1e0810754f198021689e060f913b737c0da6684342",
+    "simhash": "1:386f5254a8b78032",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Patrick GEORGE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Patrick GEORGE, petitioner.\nNo. 16-8210.\nSupreme Court of the United States\nMay 15, 2017.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "2125-05",
+  "first_page_order": 2125,
+  "last_page_order": 2125
+}

@@ -1,0 +1,60 @@
+{
+  "id": 12608430,
+  "name": "ARKANSAS, et al., plaintiffs, v. DELAWARE.",
+  "name_abbreviation": "Arkansas v. Delaware",
+  "decision_date": "2016-11-28",
+  "docket_number": "No. 146, Original.",
+  "first_page": "535",
+  "last_page": "535",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 535"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 190,
+    "sha256": "f070db38434856bfc899f7da70ec6370a8f92e6c6540480f91d3cae409828826",
+    "simhash": "1:b1a54e1d16bb3562",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ARKANSAS, et al., plaintiffs,\nv.\nDELAWARE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of Arkansas, et al. for leave to amend the Bill of Complaint granted."
+    ],
+    "corrections": "",
+    "head_matter": "ARKANSAS, et al., plaintiffs,\nv.\nDELAWARE.\nNo. 146, Original.\nSupreme Court of the United States\nNov. 28, 2016.\nMotion of Arkansas, et al. for leave to amend the Bill of Complaint granted."
+  },
+  "file_name": "0535-02",
+  "first_page_order": 535,
+  "last_page_order": 535
+}

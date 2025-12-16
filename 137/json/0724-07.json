@@ -1,0 +1,62 @@
+{
+  "id": 12609597,
+  "name": "In the Matter of DISBARMENT OF Richard Wells MOORE, Jr.",
+  "name_abbreviation": "In re Moore",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. D\u20132916.",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 724"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 594"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 144,
+    "sha256": "6f1bb6134586d667fa7433d2e8b68316481ad5d2b02c66eefaeb7253128aa33f",
+    "simhash": "1:f2e25405322e01f4",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Richard Wells MOORE, Jr."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Richard Wells MOORE, Jr.\nNo. D-2916.\nSupreme Court of the United States\nJan. 9, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0724-07",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

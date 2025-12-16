@@ -1,0 +1,64 @@
+{
+  "id": 12604740,
+  "name": "Michael A. LOISEAU, petitioner, v. Wendall PIXLEY, Warden.",
+  "name_abbreviation": "Loiseau v. Pixley",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135060.",
+  "first_page": "171",
+  "last_page": "171",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 171"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 143"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 223,
+    "sha256": "a6c0a20a4318d9e572d70cefa23adfc126e3e4c2db79653d32d4ac626c037ff2",
+    "simhash": "1:5a2fe244bccdc235",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael A. LOISEAU, petitioner,\nv.\nWendall PIXLEY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael A. LOISEAU, petitioner,\nv.\nWendall PIXLEY, Warden.\nNo. 16-5060.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0171-05",
+  "first_page_order": 171,
+  "last_page_order": 171
+}

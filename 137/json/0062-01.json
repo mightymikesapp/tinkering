@@ -1,0 +1,64 @@
+{
+  "id": 12608880,
+  "name": "Antonio Perez LOPEZ, petitioner, v. TEXAS.",
+  "name_abbreviation": "Lopez v. Texas",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139267.",
+  "first_page": "62",
+  "last_page": "62",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 62"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 60"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 195,
+    "sha256": "aafb4b094d52034791975b7d9ad6bfa66e874f18fc819944a64bb890a0c97df0",
+    "simhash": "1:59ef4282b8cd8038",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Antonio Perez LOPEZ, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Texas, Third District denied."
+    ],
+    "corrections": "",
+    "head_matter": "Antonio Perez LOPEZ, petitioner,\nv.\nTEXAS.\nNo. 15-9267.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Court of Appeals of Texas, Third District denied."
+  },
+  "file_name": "0062-01",
+  "first_page_order": 62,
+  "last_page_order": 62
+}

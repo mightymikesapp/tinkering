@@ -1,0 +1,64 @@
+{
+  "id": 12604422,
+  "name": "Andre Cortez BROWN, petitioner, v. MICHIGAN.",
+  "name_abbreviation": "Brown v. Michigan",
+  "decision_date": "2017-04-17",
+  "docket_number": "No. 16\u20137882.",
+  "first_page": "1588",
+  "last_page": "1588",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1588"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 716"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 186,
+    "sha256": "4b6a068f5082277ee94d116513b473a317cd95b7124fe76936967f16600768e6",
+    "simhash": "1:76ef4642b64b85b5",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andre Cortez BROWN, petitioner,\nv.\nMICHIGAN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Michigan denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andre Cortez BROWN, petitioner,\nv.\nMICHIGAN.\nNo. 16-7882.\nSupreme Court of the United States\nApril 17, 2017.\nPetition for writ of certiorari to the Court of Appeals of Michigan denied."
+  },
+  "file_name": "1588-01",
+  "first_page_order": 1588,
+  "last_page_order": 1588
+}

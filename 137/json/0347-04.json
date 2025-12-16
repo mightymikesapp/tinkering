@@ -1,0 +1,64 @@
+{
+  "id": 12607495,
+  "name": "In re Kent Return HOLCOMB, petitioner.",
+  "name_abbreviation": "In re Holcomb",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u20136065.",
+  "first_page": "347",
+  "last_page": "347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 347"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 146,
+    "sha256": "4f1bcb1b5d74d4a7a935d5c6b1fd414d0e4c9ddea71a22515a9ecb8a46a253ee",
+    "simhash": "1:61df54a89daf0709",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Kent Return HOLCOMB, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Kent Return HOLCOMB, petitioner.\nNo. 16-6065.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0347-04",
+  "first_page_order": 347,
+  "last_page_order": 347
+}

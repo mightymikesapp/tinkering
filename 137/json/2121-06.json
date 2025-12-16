@@ -1,0 +1,83 @@
+{
+  "id": 12605394,
+  "name": "S.D., a Minor, By His Parents and Natural Guardians, A.D. and R.D., et al., petitioners, v. HADDON HEIGHTS BOARD OF EDUCATION.",
+  "name_abbreviation": "S.D. v. Haddon Heights Bd. of Educ.",
+  "decision_date": "2017-05-15",
+  "docket_number": "No. 16\u20131054.",
+  "first_page": "2121",
+  "last_page": "2122",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2121"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "137 S.Ct. 743",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12609612
+      ],
+      "weight": 2,
+      "year": 2017,
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/137/0743-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 60,
+    "char_count": 549,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635794596518948
+    },
+    "sha256": "4058c0a242b1d40d3ad0afa0bbf2f82db35d32be42aa9679e64463fbe17495c8",
+    "simhash": "1:6336e2c4bd421788",
+    "word_count": 91
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "S.D., a Minor, By His Parents and Natural Guardians, A.D. and R.D., et al., petitioners,\nv.\nHADDON HEIGHTS BOARD OF EDUCATION."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of Fry v. Napoleon Community Schools, 580 U.S. ----, 137 S.Ct. 743, 197 L.Ed.2d 46 (2017)."
+    ],
+    "corrections": "",
+    "head_matter": "S.D., a Minor, By His Parents and Natural Guardians, A.D. and R.D., et al., petitioners,\nv.\nHADDON HEIGHTS BOARD OF EDUCATION.\nNo. 16-1054.\nSupreme Court of the United States\nMay 15, 2017.\nOn petition for writ of certiorari to the United States Court of Appeals for the Third Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Third Circuit for further consideration in light of Fry v. Napoleon Community Schools, 580 U.S. ----, 137 S.Ct. 743, 197 L.Ed.2d 46 (2017)."
+  },
+  "file_name": "2121-06",
+  "first_page_order": 2121,
+  "last_page_order": 2122
+}

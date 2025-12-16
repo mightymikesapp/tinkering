@@ -1,0 +1,64 @@
+{
+  "id": 12608962,
+  "name": "MERCK & CIE, et al., petitioners, v. WATSON LABORATORIES, INC.",
+  "name_abbreviation": "Merck & Cie v. Watson Labs., Inc.",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u2013493.",
+  "first_page": "631",
+  "last_page": "631",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 631"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 580"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 38,
+    "char_count": 304,
+    "sha256": "9a91173fa684b5e6a53e3c962354e838945b9656327165463d0264123473f270",
+    "simhash": "1:f9bff2c47524d3cb",
+    "word_count": 50
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MERCK & CIE, et al., petitioners,\nv.\nWATSON LABORATORIES, INC."
+    ],
+    "opinions": [
+      {
+        "text": "Justice ALITO took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice ALITO took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "MERCK & CIE, et al., petitioners,\nv.\nWATSON LABORATORIES, INC.\nNo. 16-493.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Federal Circuit denied."
+  },
+  "file_name": "0631-04",
+  "first_page_order": 631,
+  "last_page_order": 631
+}

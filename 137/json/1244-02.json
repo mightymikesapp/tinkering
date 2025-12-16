@@ -1,0 +1,64 @@
+{
+  "id": 12603511,
+  "name": "Michael BAKER, petitioner, v. Randy PFISTER, Warden.",
+  "name_abbreviation": "Baker v. Pfister",
+  "decision_date": "2017-03-06",
+  "docket_number": "No. 16\u20136967.",
+  "first_page": "1244",
+  "last_page": "1244",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1244"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 485"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 148,
+    "sha256": "8482c5e2cb6c39f221eb3b173ccb614b1f708f80746aef01e228b12b244d5b61",
+    "simhash": "1:d377524fbaaa73a1",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael BAKER, petitioner,\nv.\nRandy PFISTER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael BAKER, petitioner,\nv.\nRandy PFISTER, Warden.\nNo. 16-6967.\nSupreme Court of the United States\nMarch 6, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "1244-02",
+  "first_page_order": 1244,
+  "last_page_order": 1244
+}

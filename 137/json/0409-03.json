@@ -1,0 +1,64 @@
+{
+  "id": 12607808,
+  "name": "Troy J. MAYER, petitioner, v. Bruce BEEMER, Attorney General of Pennsylvania.",
+  "name_abbreviation": "Mayer v. Beemer",
+  "decision_date": "2016-10-31",
+  "docket_number": "No. 16\u20136173.",
+  "first_page": "409",
+  "last_page": "409",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 409"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 318"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 242,
+    "sha256": "11d3600ea94fd3635a77003a179945ec16f32b0b799195ba4e3541440867a82b",
+    "simhash": "1:e02f72443a850689",
+    "word_count": 39
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Troy J. MAYER, petitioner,\nv.\nBruce BEEMER, Attorney General of Pennsylvania."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Troy J. MAYER, petitioner,\nv.\nBruce BEEMER, Attorney General of Pennsylvania.\nNo. 16-6173.\nSupreme Court of the United States\nOct. 31, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0409-03",
+  "first_page_order": 409,
+  "last_page_order": 409
+}

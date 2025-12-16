@@ -1,0 +1,64 @@
+{
+  "id": 12606959,
+  "name": "In re Michael Antwan ZONE, petitioner.",
+  "name_abbreviation": "In re Zone",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135733.",
+  "first_page": "260",
+  "last_page": "260",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 260"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 145,
+    "sha256": "74b9305195ef8f758cbffa857d5fd1e8302fd854d2be6975d89b779c16b1e7ee",
+    "simhash": "1:7ace36c896f9c299",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Michael Antwan ZONE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Michael Antwan ZONE, petitioner.\nNo. 16-5733.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0260-04",
+  "first_page_order": 260,
+  "last_page_order": 260
+}

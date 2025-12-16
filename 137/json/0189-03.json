@@ -1,0 +1,64 @@
+{
+  "id": 12605027,
+  "name": "David M. JASSY, petitioner, v. Ronald DAVIS, Warden.",
+  "name_abbreviation": "Jassy v. Davis",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u201368.",
+  "first_page": "189",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 189"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 127"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 214,
+    "sha256": "55e4410ff35703f51cb2afb191b7eb02bca315771714f4e1179329aaf4da759e",
+    "simhash": "1:f36f76c43a8522a4",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David M. JASSY, petitioner,\nv.\nRonald DAVIS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David M. JASSY, petitioner,\nv.\nRonald DAVIS, Warden.\nNo. 16-68.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0189-03",
+  "first_page_order": 189,
+  "last_page_order": 189
+}

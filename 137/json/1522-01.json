@@ -1,0 +1,62 @@
+{
+  "id": 12604318,
+  "name": "Thomas D. ARTHUR, Applicant, v. Jefferson S. DUNN, Commissioner, Alabama Department of Corrections, et al.",
+  "name_abbreviation": "Arthur v. Dunn",
+  "decision_date": "2017-05-25",
+  "docket_number": "No. 16A1160.",
+  "first_page": "1522",
+  "last_page": "1523",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1522"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 251"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 48,
+    "char_count": 452,
+    "sha256": "7a4e9949832ad803933fe73493387ad7532958952f0d747cfa0e3a254609ce7d",
+    "simhash": "1:c6b734163a844e67",
+    "word_count": 73
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas D. ARTHUR, Applicant,\nv.\nJefferson S. DUNN, Commissioner, Alabama Department of Corrections, et al."
+    ],
+    "opinions": [
+      {
+        "text": "UPON CONSIDERATION of the application of counsel for the applicant, IT IS ORDERED that execution of the sentence of death is hereby stayed pending further order of the undersigned or of the Court.\n/s/ Clarence Thomas\nAssociate Justice of the Supreme Court of the United States",
+        "type": "majority",
+        "author": "Associate Justice of the Supreme Court of the United States"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Thomas D. ARTHUR, Applicant,\nv.\nJefferson S. DUNN, Commissioner, Alabama Department of Corrections, et al.\nNo. 16A1160.\nSupreme Court of the United States\nMay 25, 2017.\nORDER"
+  },
+  "file_name": "1522-01",
+  "first_page_order": 1522,
+  "last_page_order": 1523
+}

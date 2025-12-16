@@ -1,0 +1,64 @@
+{
+  "id": 12606799,
+  "name": "John Howard BARTZ, petitioner, v. MINNESOTA.",
+  "name_abbreviation": "Bartz v. Minnesota",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135472.",
+  "first_page": "238",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 238"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 183"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 185,
+    "sha256": "8d897c3375f8d895e2ec0441aedd7f3671a08bde1209a938a6fd5067bf9b1e7a",
+    "simhash": "1:79ff7607a3d781bc",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Howard BARTZ, petitioner,\nv.\nMINNESOTA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Minnesota denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Howard BARTZ, petitioner,\nv.\nMINNESOTA.\nNo. 16-5472.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Court of Appeals of Minnesota denied."
+  },
+  "file_name": "0238-07",
+  "first_page_order": 238,
+  "last_page_order": 238
+}

@@ -1,0 +1,62 @@
+{
+  "id": 12607123,
+  "name": "In the Matter of DISBARMENT OF Timothy Duncan NAEGELE.",
+  "name_abbreviation": "In re Naegele",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. D\u20132888.",
+  "first_page": "287",
+  "last_page": "287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 287"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 207"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 143,
+    "sha256": "a26fe1ae36b6ee7054a5435f2efef194a9cba3075e81b02dea27bdbf479cb451",
+    "simhash": "1:7ad7400096e7bde1",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Timothy Duncan NAEGELE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Timothy Duncan NAEGELE.\nNo. D-2888.\nSupreme Court of the United States\nOct. 3, 2016.\nDisbarment order entered."
+  },
+  "file_name": "0287-02",
+  "first_page_order": 287,
+  "last_page_order": 287
+}

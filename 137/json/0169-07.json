@@ -1,0 +1,64 @@
+{
+  "id": 12604720,
+  "name": "Juan COLLAZO, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Collazo v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135053.",
+  "first_page": "169",
+  "last_page": "170",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 169"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 142"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 207,
+    "sha256": "b9d2976638539c9227d3dada878bee32764873b059732056487e2c41ca75d2a0",
+    "simhash": "1:73ed7646ba859635",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Juan COLLAZO, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Juan COLLAZO, petitioner,\nv.\nUNITED STATES.\nNo. 16-5053.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0169-07",
+  "first_page_order": 169,
+  "last_page_order": 170
+}

@@ -1,0 +1,87 @@
+{
+  "id": 12608174,
+  "name": "Michael HUNTER, et al., petitioners, v. Randy COLE, et al.",
+  "name_abbreviation": "Hunter v. Cole",
+  "decision_date": "2016-11-28",
+  "docket_number": "No. 16\u2013351.",
+  "first_page": "497",
+  "last_page": "497",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 497"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 305",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12599545
+      ],
+      "weight": 2,
+      "year": 2015,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/s-ct/136/0305-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 478,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26358640986404996
+    },
+    "sha256": "9ad5e14fdeb2733992d672c8e9ab947843ccfbfea64788913ab086920c7fadde",
+    "simhash": "1:7b0ee2843c28969f",
+    "word_count": 80
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael HUNTER, et al., petitioners,\nv.\nRandy COLE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Mullenix v. Luna, 577 U.S. ----, 136 S.Ct. 305, 193 L.Ed.2d 255 (2015) (per curiam)."
+    ],
+    "corrections": "",
+    "head_matter": "Michael HUNTER, et al., petitioners,\nv.\nRandy COLE, et al.\nNo. 16-351.\nSupreme Court of the United States\nNov. 28, 2016.\nOn petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Petition for writ of certiorari granted. Judgment vacated, and case remanded to the United States Court of Appeals for the Fifth Circuit for further consideration in light of Mullenix v. Luna, 577 U.S. ----, 136 S.Ct. 305, 193 L.Ed.2d 255 (2015) (per curiam)."
+  },
+  "file_name": "0497-02",
+  "first_page_order": 497,
+  "last_page_order": 497
+}

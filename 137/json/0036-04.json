@@ -1,0 +1,64 @@
+{
+  "id": 12607536,
+  "name": "William GOURLEY, et al., petitioners, v. GOOGLE, INC., et al.",
+  "name_abbreviation": "Gourley v. Google, Inc.",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20131141.",
+  "first_page": "36",
+  "last_page": "36",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 36"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 26"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 225,
+    "sha256": "26c445ae357743aaa2ffceb656dac6e1739dd9be9496e89201ba5eae2100dc8b",
+    "simhash": "1:f5af5240bf41a7fd",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William GOURLEY, et al., petitioners,\nv.\nGOOGLE, INC., et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "William GOURLEY, et al., petitioners,\nv.\nGOOGLE, INC., et al.\nNo. 15-1141.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0036-04",
+  "first_page_order": 36,
+  "last_page_order": 36
+}

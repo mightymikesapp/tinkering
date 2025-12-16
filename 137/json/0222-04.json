@@ -1,0 +1,64 @@
+{
+  "id": 12606047,
+  "name": "Kevin Patrick SMITH, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Smith v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135336.",
+  "first_page": "222",
+  "last_page": "222",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 222"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 172"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 215,
+    "sha256": "ab1b9ad50113ee85a3c208ec940983728c9d8326706e2f4b9634829a6b1b9b10",
+    "simhash": "1:792d66c63c279019",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kevin Patrick SMITH, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Kevin Patrick SMITH, petitioner,\nv.\nUNITED STATES.\nNo. 16-5336.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0222-04",
+  "first_page_order": 222,
+  "last_page_order": 222
+}

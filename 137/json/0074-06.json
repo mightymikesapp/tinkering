@@ -1,0 +1,64 @@
+{
+  "id": 12609611,
+  "name": "Dante SMALL, petitioner, v. ILLINOIS.",
+  "name_abbreviation": "Small v. Illinois",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139397.",
+  "first_page": "74",
+  "last_page": "74",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 74"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 68"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 193,
+    "sha256": "e8a64e67f3bbf5a8fd3dc86c55640099f1fe24f0bfcdee3227cb4fdb536785e4",
+    "simhash": "1:76ef76965a29a198",
+    "word_count": 30
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Dante SMALL, petitioner,\nv.\nILLINOIS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+    ],
+    "corrections": "",
+    "head_matter": "Dante SMALL, petitioner,\nv.\nILLINOIS.\nNo. 15-9397.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Appellate Court of Illinois, First District, denied."
+  },
+  "file_name": "0074-06",
+  "first_page_order": 74,
+  "last_page_order": 74
+}

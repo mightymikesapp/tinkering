@@ -1,0 +1,64 @@
+{
+  "id": 12606713,
+  "name": "James NASTRI, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Nastri v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135415.",
+  "first_page": "232",
+  "last_page": "232",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 232"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 179"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "ca465b6a2ad55778c0c150e52c0b169a433460a964ff8e75dc1471c5cca077d3",
+    "simhash": "1:7a6f76c4bc0f1119",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James NASTRI, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James NASTRI, petitioner,\nv.\nUNITED STATES.\nNo. 16-5415.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Second Circuit denied."
+  },
+  "file_name": "0232-04",
+  "first_page_order": 232,
+  "last_page_order": 232
+}

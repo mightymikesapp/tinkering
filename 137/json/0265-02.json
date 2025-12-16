@@ -1,0 +1,64 @@
+{
+  "id": 12606989,
+  "name": "APPLICANT, petitioner, v. COMMITTEE ON CHARACTER AND FITNESS.",
+  "name_abbreviation": "Applicant v. Committee on Character & Fitness",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16M23.",
+  "first_page": "265",
+  "last_page": "265",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 265"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 14"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 203,
+    "sha256": "3270957029af7da90c758cb80f3f98896f1fb7dcc859826443ff5ea386f7e44e",
+    "simhash": "1:b3a55b62178df17d",
+    "word_count": 34
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "APPLICANT, petitioner,\nv.\nCOMMITTEE ON CHARACTER AND FITNESS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion for leave to file a petition for a writ of certiorari under seal denied."
+    ],
+    "corrections": "",
+    "head_matter": "APPLICANT, petitioner,\nv.\nCOMMITTEE ON CHARACTER AND FITNESS.\nNo. 16M23.\nSupreme Court of the United States\nOct. 3, 2016.\nMotion for leave to file a petition for a writ of certiorari under seal denied."
+  },
+  "file_name": "0265-02",
+  "first_page_order": 265,
+  "last_page_order": 265
+}

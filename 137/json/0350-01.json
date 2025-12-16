@@ -1,0 +1,62 @@
+{
+  "id": 12607517,
+  "name": "In the Matter of DISBARMENT OF Ronald Dale MICHAEL.",
+  "name_abbreviation": "In re Michael",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. D\u20132887.",
+  "first_page": "350",
+  "last_page": "350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 350"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 141,
+    "sha256": "8c5558a17452e9b22a77d2d49584f161f1aabe870ebd5b50234372d41e3276ea",
+    "simhash": "1:e267cc9c3e2626e5",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Ronald Dale MICHAEL."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Ronald Dale MICHAEL.\nNo. D-2887.\nSupreme Court of the United States\nOct. 17, 2016.\nDisbarment order entered."
+  },
+  "file_name": "0350-01",
+  "first_page_order": 350,
+  "last_page_order": 350
+}

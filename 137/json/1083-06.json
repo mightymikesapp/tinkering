@@ -1,0 +1,64 @@
+{
+  "id": 12602765,
+  "name": "George Arthur SMITH, petitioner, v. Tony HOWERTON, Warden.",
+  "name_abbreviation": "Smith v. Howerton",
+  "decision_date": "2017-02-21",
+  "docket_number": "No. 16\u20137122.",
+  "first_page": "1083",
+  "last_page": "1083",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1083"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 223,
+    "sha256": "cc73f77a129923a7e9c362fddb956c69a07cc214c63cd10d81d4d6589cb9914f",
+    "simhash": "1:6f2f5246b2a44521",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "George Arthur SMITH, petitioner,\nv.\nTony HOWERTON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "George Arthur SMITH, petitioner,\nv.\nTony HOWERTON, Warden.\nNo. 16-7122.\nSupreme Court of the United States\nFeb. 21, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "1083-06",
+  "first_page_order": 1083,
+  "last_page_order": 1083
+}

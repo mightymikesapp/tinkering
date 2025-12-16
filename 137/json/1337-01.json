@@ -1,0 +1,64 @@
+{
+  "id": 12603679,
+  "name": "In re Cowell N. BROWN, petitioner.",
+  "name_abbreviation": "In re Brown",
+  "decision_date": "2017-03-20",
+  "docket_number": "No. 16\u20137481.",
+  "first_page": "1337",
+  "last_page": "1337",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1337"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 545"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 138,
+    "sha256": "11abfd923f2e288071a3cf5b216d95366618b34af5e6a2280d653c07b9ab7fbc",
+    "simhash": "1:4b7110048ed943a8",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Cowell N. BROWN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Cowell N. BROWN, petitioner.\nNo. 16-7481.\nSupreme Court of the United States\nMarch 20, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1337-01",
+  "first_page_order": 1337,
+  "last_page_order": 1337
+}

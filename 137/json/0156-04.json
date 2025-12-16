@@ -1,0 +1,64 @@
+{
+  "id": 12604342,
+  "name": "John Ray CHEEK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Cheek v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139904.",
+  "first_page": "156",
+  "last_page": "156",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 156"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 119"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 209,
+    "sha256": "39ea7ab97bfa155430af615088ada75e2bc4d2961c4b4ae8543577af02cd1932",
+    "simhash": "1:77ef66443e05841d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Ray CHEEK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Ray CHEEK, petitioner,\nv.\nUNITED STATES.\nNo. 15-9904.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0156-04",
+  "first_page_order": 156,
+  "last_page_order": 156
+}

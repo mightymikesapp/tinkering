@@ -1,0 +1,62 @@
+{
+  "id": 12607523,
+  "name": "In the Matter of DISBARMENT OF Raymond L. HUFF.",
+  "name_abbreviation": "In re Huff",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. D\u20132895.",
+  "first_page": "350",
+  "last_page": "350",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 350"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 137,
+    "sha256": "f6157b3dbfe34ae6246f469a0fc2a5319233a728da346885e81ae7752eb181c5",
+    "simhash": "1:e1e7480176a87765",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Raymond L. HUFF."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Raymond L. HUFF.\nNo. D-2895.\nSupreme Court of the United States\nOct. 17, 2016.\nDisbarment order entered."
+  },
+  "file_name": "0350-07",
+  "first_page_order": 350,
+  "last_page_order": 350
+}

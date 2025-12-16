@@ -1,0 +1,64 @@
+{
+  "id": 12606919,
+  "name": "Andrew Charles JACKSON, petitioner, v. J.T. SHARTLE, Warden.",
+  "name_abbreviation": "Jackson v. Shartle",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135645.",
+  "first_page": "255",
+  "last_page": "255",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 255"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 224,
+    "sha256": "1f4976af9500ed34bf556f2ebf02db7517c3666cc75e1fafbe459f9d1e3d61d2",
+    "simhash": "1:626ee2c4090d13e4",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Andrew Charles JACKSON, petitioner,\nv.\nJ.T. SHARTLE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Andrew Charles JACKSON, petitioner,\nv.\nJ.T. SHARTLE, Warden.\nNo. 16-5645.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0255-03",
+  "first_page_order": 255,
+  "last_page_order": 255
+}

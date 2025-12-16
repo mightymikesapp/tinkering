@@ -1,0 +1,64 @@
+{
+  "id": 12609426,
+  "name": "Miguel MORROW, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Morrow v. United States",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20137061.",
+  "first_page": "700",
+  "last_page": "700",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 700"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 582"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 305,
+    "sha256": "29ec73d24b6a1fd52e56ec69fb41761a50d142b1fdd548058bf14ac9356761ae",
+    "simhash": "1:abf7f6463f8e4301",
+    "word_count": 50
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Miguel MORROW, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Miguel MORROW, petitioner,\nv.\nUNITED STATES.\nNo. 16-7061.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit denied.\nThe CHIEF JUSTICE took no part in the consideration or decision of this petition."
+  },
+  "file_name": "0700-06",
+  "first_page_order": 700,
+  "last_page_order": 700
+}

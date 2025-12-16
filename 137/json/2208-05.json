@@ -1,0 +1,64 @@
+{
+  "id": 12605973,
+  "name": "John DIXON, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Dixon v. New York",
+  "decision_date": "2017-05-30",
+  "docket_number": "No. 16\u20137677.",
+  "first_page": "2208",
+  "last_page": "2208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2208"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 131,
+    "sha256": "3f3db324387d21c7cf4c6fdf15f09d98ccae309e9c51b5f7586f099e27c5cd50",
+    "simhash": "1:10c6364212097000",
+    "word_count": 21
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John DIXON, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John DIXON, petitioner,\nv.\nNEW YORK.\nNo. 16-7677.\nSupreme Court of the United States\nMay 30, 2017.\nPetition for rehearing denied."
+  },
+  "file_name": "2208-05",
+  "first_page_order": 2208,
+  "last_page_order": 2208
+}

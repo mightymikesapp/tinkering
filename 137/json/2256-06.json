@@ -1,0 +1,64 @@
+{
+  "id": 12606287,
+  "name": "In Re Jack DOWELL, petitioner.",
+  "name_abbreviation": "In re Dowell",
+  "decision_date": "2017-06-12",
+  "docket_number": "No. 16\u20139256.",
+  "first_page": "2256",
+  "last_page": "2256",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2256"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 691"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 30,
+    "char_count": 217,
+    "sha256": "72e7b05cec047c4bf1ef0688176c507e8ec5032bc6061b60d54be8605f4ee643",
+    "simhash": "1:683f72041f664bc7",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Jack DOWELL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "Justice GORSUCH took no part in the consideration or decision of this petition.",
+        "type": "majority",
+        "author": "Justice GORSUCH took no part in the consideration or decision of this petition."
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Jack DOWELL, petitioner.\nNo. 16-9256.\nSupreme Court of the United States\nJune 12, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "2256-06",
+  "first_page_order": 2256,
+  "last_page_order": 2256
+}

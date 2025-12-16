@@ -1,0 +1,64 @@
+{
+  "id": 12606444,
+  "name": "Robert Earl SMITH, petitioner, v. Henry STEWARD, Warden.",
+  "name_abbreviation": "Smith v. Steward",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135383.",
+  "first_page": "228",
+  "last_page": "228",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 228"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 176"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 220,
+    "sha256": "642661bc07f3e001a84a85ad5dc269665d0a1038a5b7b699836d2138e74e928c",
+    "simhash": "1:7f2f524639e187b9",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Robert Earl SMITH, petitioner,\nv.\nHenry STEWARD, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Robert Earl SMITH, petitioner,\nv.\nHenry STEWARD, Warden.\nNo. 16-5383.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0228-05",
+  "first_page_order": 228,
+  "last_page_order": 228
+}

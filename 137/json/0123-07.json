@@ -1,0 +1,64 @@
+{
+  "id": 12603419,
+  "name": "Alex MARQUES-FUENTES, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Marques-Fuentes v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139714.",
+  "first_page": "123",
+  "last_page": "124",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 123"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 98"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 215,
+    "sha256": "111f4f6c7508faa0f9293dcfae79393f93a037050302220e0c6387156c05d84d",
+    "simhash": "1:73ad6644ad059329",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Alex MARQUES-FUENTES, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Alex MARQUES-FUENTES, petitioner,\nv.\nUNITED STATES.\nNo. 15-9714.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0123-07",
+  "first_page_order": 123,
+  "last_page_order": 124
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12605922,
+  "name": "Samuel HARMON, petitioner, v. Robert STEVENSON, Warden.",
+  "name_abbreviation": "Harmon v. Stevenson",
+  "decision_date": "2017-05-30",
+  "docket_number": "No. 16\u20138846.",
+  "first_page": "2200",
+  "last_page": "2200",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2200"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 220,
+    "sha256": "dbc2471c7349c87f197b8d577e5c3fd88a285c36ce7cd15a74af595328e0210a",
+    "simhash": "1:386fc28433884131",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Samuel HARMON, petitioner,\nv.\nRobert STEVENSON, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Samuel HARMON, petitioner,\nv.\nRobert STEVENSON, Warden.\nNo. 16-8846.\nSupreme Court of the United States\nMay 30, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "2200-05",
+  "first_page_order": 2200,
+  "last_page_order": 2200
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12607829,
+  "name": "Michael M. MURRAY, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Murray v. United States",
+  "decision_date": "2016-10-31",
+  "docket_number": "No. 16\u20136238.",
+  "first_page": "411",
+  "last_page": "411",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 411"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 320"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "49f1ce9bdfa3ff1c9b1aeb9bf78517afbe8975883732dc6a7781b774f4f744de",
+    "simhash": "1:eaaf74043e850209",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael M. MURRAY, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Michael M. MURRAY, petitioner,\nv.\nUNITED STATES.\nNo. 16-6238.\nSupreme Court of the United States\nOct. 31, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0411-06",
+  "first_page_order": 411,
+  "last_page_order": 411
+}

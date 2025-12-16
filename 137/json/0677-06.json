@@ -1,0 +1,64 @@
+{
+  "id": 12609269,
+  "name": "Sonny ALLEN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Allen v. United States",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136819.",
+  "first_page": "677",
+  "last_page": "678",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 677"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 561"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 206,
+    "sha256": "d7e48d165b041d74d40f0fed35fdcbe9954ddc986477be9403a1d8214bf8b6c2",
+    "simhash": "1:abaf76443329533d",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Sonny ALLEN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Sonny ALLEN, petitioner,\nv.\nUNITED STATES.\nNo. 16-6819.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0677-06",
+  "first_page_order": 677,
+  "last_page_order": 678
+}

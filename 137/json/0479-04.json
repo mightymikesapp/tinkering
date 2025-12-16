@@ -1,0 +1,94 @@
+{
+  "id": 12608057,
+  "name": "Richard Paul RIGGINS, petitioner, v. TEXAS.",
+  "name_abbreviation": "Riggins v. Texas",
+  "decision_date": "2016-11-14",
+  "docket_number": "No. 16\u20135941.",
+  "first_page": "479",
+  "last_page": "479",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 479"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 382"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        },
+        {
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 81,
+    "char_count": 661,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2635858306797037
+    },
+    "sha256": "27019136951333dc74b9ff1597742d66babfcaeb54e635e3cfc0a45c959f2dee",
+    "simhash": "1:61e3e596630dced9",
+    "word_count": 109
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard Paul RIGGINS, petitioner,\nv.\nTEXAS."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Court of Criminal Appeals of Texas dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam)."
+    ],
+    "corrections": "",
+    "head_matter": "Richard Paul RIGGINS, petitioner,\nv.\nTEXAS.\nNo. 16-5941.\nSupreme Court of the United States\nNov. 14, 2016.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Court of Criminal Appeals of Texas dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam)."
+  },
+  "file_name": "0479-04",
+  "first_page_order": 479,
+  "last_page_order": 479
+}

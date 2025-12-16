@@ -1,0 +1,64 @@
+{
+  "id": 12605005,
+  "name": "In re Antonio AKEL, petitioner.",
+  "name_abbreviation": "In re Akel",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135137.",
+  "first_page": "185",
+  "last_page": "185",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 185"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 205"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 152,
+    "sha256": "4cd09926ea63351d987aa4409bddcbbbe03ba3d5bd359e18dd8b86ac8ea44d0c",
+    "simhash": "1:2976c212a8ed261d",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Antonio AKEL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus and/or prohibition denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Antonio AKEL, petitioner.\nNo. 16-5137.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of mandamus and/or prohibition denied."
+  },
+  "file_name": "0185-06",
+  "first_page_order": 185,
+  "last_page_order": 185
+}

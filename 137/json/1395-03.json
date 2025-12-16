@@ -1,0 +1,62 @@
+{
+  "id": 12604063,
+  "name": "Richard SNYDER, Governor of Michigan, et al., petitioners, v. JOHN DOES # 1-5, et al.",
+  "name_abbreviation": "Snyder v. Doe",
+  "decision_date": "2017-03-27",
+  "docket_number": "No. 16\u2013768.",
+  "first_page": "1395",
+  "last_page": "1395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1395"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 552"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 262,
+    "sha256": "5b991c96109ad165b09ee20692eb65d0f38b5974943baa5d548ac74b53366989",
+    "simhash": "1:6209f00dfbf0d77b",
+    "word_count": 45
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richard SNYDER, Governor of Michigan, et al., petitioners,\nv.\nJOHN DOES # 1-5, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Richard SNYDER, Governor of Michigan, et al., petitioners,\nv.\nJOHN DOES # 1-5, et al.\nNo. 16-768.\nSupreme Court of the United States\nMarch 27, 2017.\nThe Acting Solicitor General is invited to file a brief in this case expressing the views of the United States."
+  },
+  "file_name": "1395-03",
+  "first_page_order": 1395,
+  "last_page_order": 1395
+}

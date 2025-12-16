@@ -1,0 +1,64 @@
+{
+  "id": 12609006,
+  "name": "Linda KIDD, et al., petitioners, v. Sue DOE, et al.",
+  "name_abbreviation": "Kidd v. Doe",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u2013530.",
+  "first_page": "638",
+  "last_page": "638",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 638"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 520"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 29,
+    "char_count": 215,
+    "sha256": "d530f865e85a71b9710b601740d278e820dac7311d897d7dacc5edbc8f85363c",
+    "simhash": "1:7bffd20d9b815721",
+    "word_count": 38
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Linda KIDD, et al., petitioners,\nv.\nSue DOE, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Linda KIDD, et al., petitioners,\nv.\nSue DOE, et al.\nNo. 16-530.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0638-04",
+  "first_page_order": 638,
+  "last_page_order": 638
+}

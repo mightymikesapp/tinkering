@@ -1,0 +1,64 @@
+{
+  "id": 12603065,
+  "name": "Stephenson Lamar SMITH, petitioner, v. Theodore JACKSON.",
+  "name_abbreviation": "Smith v. Jackson",
+  "decision_date": "2017-02-21",
+  "docket_number": "No. 16M76.",
+  "first_page": "1127",
+  "last_page": "1127",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1127"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 170"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 208,
+    "sha256": "0ba049900f6a2603f2dd66304a97d807ec222ec6e7d92a808bc8c8c8e90e1646",
+    "simhash": "1:4ccb4006c3c9f136",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Stephenson Lamar SMITH, petitioner,\nv.\nTheodore JACKSON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Stephenson Lamar SMITH, petitioner,\nv.\nTheodore JACKSON.\nNo. 16M76.\nSupreme Court of the United States\nFeb. 21, 2017.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "1127-03",
+  "first_page_order": 1127,
+  "last_page_order": 1127
+}

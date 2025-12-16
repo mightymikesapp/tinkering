@@ -1,0 +1,64 @@
+{
+  "id": 12603186,
+  "name": "Lamont THOMPSON, petitioner, v. Tom VILLMER, Warden.",
+  "name_abbreviation": "Thompson v. Villmer",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139664.",
+  "first_page": "115",
+  "last_page": "115",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 115"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 93"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 217,
+    "sha256": "eab92bfe5f410da32ef7afab1a63b2aaa870842ac9ea8d0ed4cbac41361d7d87",
+    "simhash": "1:712fe6463a4d13a8",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Lamont THOMPSON, petitioner,\nv.\nTom VILLMER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Lamont THOMPSON, petitioner,\nv.\nTom VILLMER, Warden.\nNo. 15-9664.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0115-06",
+  "first_page_order": 115,
+  "last_page_order": 115
+}

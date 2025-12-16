@@ -1,0 +1,64 @@
+{
+  "id": 12609040,
+  "name": "Joseph DEE, petitioner, v. Darrel VANNOY, Warden.",
+  "name_abbreviation": "Dee v. Vannoy",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136524.",
+  "first_page": "643",
+  "last_page": "643",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 643"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 540"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 213,
+    "sha256": "3cb67f9bfbfe7d9b40547450d4ec4822498ee8a6d6eb8f6d1d3d2d83e1c273bb",
+    "simhash": "1:f7aff2c4172443b1",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph DEE, petitioner,\nv.\nDarrel VANNOY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph DEE, petitioner,\nv.\nDarrel VANNOY, Warden.\nNo. 16-6524.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0643-03",
+  "first_page_order": 643,
+  "last_page_order": 643
+}

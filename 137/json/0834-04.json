@@ -1,0 +1,64 @@
+{
+  "id": 12609825,
+  "name": "Steven JOHNSON, petitioner, v. MICHIGAN, et al.",
+  "name_abbreviation": "Johnson v. Michigan",
+  "decision_date": "2017-01-23",
+  "docket_number": "No. 16\u20136915.",
+  "first_page": "834",
+  "last_page": "834",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 834"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 74"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 212,
+    "sha256": "9b4c3519879ffa14398ed670cd64b624638ce4aadb47dd5c8b9d2a78ff947b3f",
+    "simhash": "1:72ad70441201c600",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven JOHNSON, petitioner,\nv.\nMICHIGAN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Steven JOHNSON, petitioner,\nv.\nMICHIGAN, et al.\nNo. 16-6915.\nSupreme Court of the United States\nJan. 23, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0834-04",
+  "first_page_order": 834,
+  "last_page_order": 834
+}

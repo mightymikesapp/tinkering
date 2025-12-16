@@ -1,0 +1,64 @@
+{
+  "id": 12610010,
+  "name": "Bryan W. BATES, petitioner, v. Charlotte JENKINS, Warden.",
+  "name_abbreviation": "Bates v. Jenkins",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139577.",
+  "first_page": "99",
+  "last_page": "99",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 99"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 83"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 221,
+    "sha256": "86380e77e9c5e3f6369aa06c1721afaadedffadfb630cdbf0684954b6a5b74cd",
+    "simhash": "1:74ff56479bc41121",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Bryan W. BATES, petitioner,\nv.\nCharlotte JENKINS, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Bryan W. BATES, petitioner,\nv.\nCharlotte JENKINS, Warden.\nNo. 15-9577.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0099-02",
+  "first_page_order": 99,
+  "last_page_order": 99
+}

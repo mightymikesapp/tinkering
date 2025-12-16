@@ -1,0 +1,64 @@
+{
+  "id": 12605045,
+  "name": "Charles LEWIS, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Lewis v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135156.",
+  "first_page": "190",
+  "last_page": "190",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 190"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 153"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "864c819ebc884197937b6b408ff6f03a5a4e44158c5c9f214f5e45a5bd07b14b",
+    "simhash": "1:e9ef76462a050699",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles LEWIS, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles LEWIS, petitioner,\nv.\nUNITED STATES.\nNo. 16-5156.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0190-06",
+  "first_page_order": 190,
+  "last_page_order": 190
+}

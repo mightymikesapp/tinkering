@@ -1,0 +1,211 @@
+{
+  "id": 12609944,
+  "name": "Michael Damon RIPPO, Petitioner v. Renee BAKER, Warden.",
+  "name_abbreviation": "Rippo v. Baker",
+  "decision_date": "2017-03-06",
+  "docket_number": "No. 16\u20136316.",
+  "first_page": "905",
+  "last_page": "907",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 905"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 167"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "136 S.Ct. 1737",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597263
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1746"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/1737-01"
+      ]
+    },
+    {
+      "cite": "136 S.Ct. 1899",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        12597488
+      ],
+      "weight": 2,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "1905"
+        },
+        {
+          "parenthetical": "\"The Court asks not whether a judge harbors an actual, subjective bias, but instead whether, as an objective matter, the average judge in his position is likely to be neutral, or whether there is an unconstitutional potential for bias\" (internal quotation marks omitted)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/s-ct/136/1899-01"
+      ]
+    },
+    {
+      "cite": "421 U.S. 35",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541084
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "47"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0035-01"
+      ]
+    },
+    {
+      "cite": "475 U.S. 813",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209814
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "825"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/475/0813-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 899",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11653326
+      ],
+      "weight": 7,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "905"
+        },
+        {
+          "page": "905-909"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0899-01"
+      ]
+    },
+    {
+      "cite": "368 P.3d 729",
+      "category": "reporters:state_regional",
+      "reporter": "P.3d",
+      "weight": 4,
+      "year": 2016,
+      "pin_cites": [
+        {
+          "page": "743-745"
+        },
+        {
+          "page": "744"
+        },
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Nev. 1239",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        11789715
+      ],
+      "weight": 2,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "1246-1250",
+          "parenthetical": "per curiam "
+        },
+        {
+          "page": "1023-1024",
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/113-2/1239-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 365,
+    "char_count": 4788,
+    "pagerank": {
+      "raw": 4.3678869462578583e-07,
+      "percentile": 0.9188622579926474
+    },
+    "sha256": "85c91138aabae42a2d0533efd3f64b14dd05e9067f07b403bf1c31e7c14846e0",
+    "simhash": "1:432f949c27047b41",
+    "word_count": 773
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Michael Damon RIPPO, Petitioner\nv.\nRenee BAKER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nA Nevada jury convicted petitioner Michael Damon Rippo of first-degree murder and other offenses and sentenced him to death. During his trial, Rippo received information that the judge was the target of a federal bribery probe, and he surmised that the Clark County District Attorney's Office-which was prosecuting him-was playing a role in that investigation. Rippo moved for the judge's disqualification under the Due Process Clause of the Fourteenth Amendment, contending that a judge could not impartially adjudicate a case in which one of the parties was criminally investigating him. But the trial judge declined to recuse himself, and (after that judge's indictment on federal charges) a different judge later denied Rippo's motion for a new trial. The Nevada Supreme Court affirmed on direct appeal, reasoning in part that Rippo had not introduced evidence that state authorities were involved in the federal investigation. Rippo v. State, 113 Nev. 1239, 1246-1250, 946 P.2d 1017, 1023-1024 (1997) (per curiam ).\nIn a later application for state postconviction relief, Rippo advanced his bias claim once more, this time pointing to documents from the judge's criminal trial indicating that the district attorney's office had participated in the investigation of the trial judge. See, e.g., App. to Pet. for Cert. 236-237, 397. The state postconviction court denied relief, and the Nevada Supreme Court affirmed. Rippo v. State, 132 Nev. ----, ----, 368 P.3d 729, 743-745 (2016). It likened Rippo's claim to the \"camouflaging bias\" theory that this Court discussed in Bracy v. Gramley, 520 U.S. 899, 117 S.Ct. 1793, 138 L.Ed.2d 97 (1997). The Bracy petitioner argued that a judge who accepts bribes to rule in favor of some defendants would seek to disguise that favorable treatment by ruling against defendants who did not bribe him. Id., at 905, 117 S.Ct. 1793. We explained that despite the \"speculative\" nature of that theory, the petitioner was entitled to discovery because he had also alleged specific facts suggesting that the judge may have colluded with defense counsel to rush the petitioner's case to trial. See id., at 905-909, 117 S.Ct. 1793. The Nevada Supreme Court reasoned that, in contrast, Rippo was not entitled to discovery or an evidentiary hearing because his allegations \"d[id] not support the assertion that the trial judge was actually biased in this case.\" 132 Nev., at ----, 368 P.3d, at 744.\nWe vacate the Nevada Supreme Court's judgment because it applied the wrong legal standard. Under our precedents, the Due Process Clause may sometimes demand recusal even when a judge \" 'ha[s] no actual bias.' \" Aetna Life Ins. Co. v. Lavoie, 475 U.S. 813, 825, 106 S.Ct. 1580, 89 L.Ed.2d 823 (1986). Recusal is required when, objectively speaking, \"the probability of actual bias on the part of the judge or decisionmaker is too high to be constitutionally tolerable.\" Withrow v. Larkin, 421 U.S. 35, 47, 95 S.Ct. 1456, 43 L.Ed.2d 712 (1975) ; see Williams v. Pennsylvania, 579 U.S. ----, ----, 136 S.Ct. 1899, 1905, 195 L.Ed.2d 132 (2016) (\"The Court asks not whether a judge harbors an actual, subjective bias, but instead whether, as an objective matter, the average judge in his position is likely to be neutral, or whether there is an unconstitutional potential for bias\" (internal quotation marks omitted)). Our decision in Bracy is not to the contrary: Although we explained that the petitioner there had pointed to facts suggesting actual, subjective bias, we did not hold that a litigant must show as a matter of course that a judge was \"actually biased in [the litigant's] case,\" 132 Nev., at ----, 368 P.3d, at 744 -much less that he must do so when, as here, he does not allege a theory of \"camouflaging bias.\" The Nevada Supreme Court did not ask the question our precedents require: whether, considering all the circumstances alleged, the risk of bias was too high to be constitutionally tolerable. As a result, we grant the petition for writ of certiorari and the motion for leave to proceed in forma pauperis, and we vacate the judgment below and remand the case for further proceedings not inconsistent with this opinion.\nIt is so ordered.\nThe court further relied on its bias holding to determine that Rippo had not established cause and prejudice to overcome various state procedural bars. 132 Nev., at ----, 368 P.3d, at 745. Because the court below did not invoke any state-law grounds \"independent of the merits of [Rippo's] federal constitutional challenge,\" we have jurisdiction to review its resolution of federal law. Foster v. Chatman, 578 U.S. ----, ----, 136 S.Ct. 1737, 1746, 195 L.Ed.2d 1 (2016).",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Michael Damon RIPPO, Petitioner\nv.\nRenee BAKER, Warden.\nNo. 16-6316.\nSupreme Court of the United States\nMarch 6, 2017."
+  },
+  "file_name": "0905-01",
+  "first_page_order": 905,
+  "last_page_order": 907
+}

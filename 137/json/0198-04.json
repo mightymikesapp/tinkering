@@ -1,0 +1,64 @@
+{
+  "id": 12605096,
+  "name": "Carlos FLORES, Sr., petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Flores v. United States",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u201378.",
+  "first_page": "198",
+  "last_page": "198",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 198"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 128"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 211,
+    "sha256": "5f02b20d4b82cc5816db48f9d3a5dd12200c31241a9b2a211408045435e580b8",
+    "simhash": "1:fb6f764426a5420c",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Carlos FLORES, Sr., petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Carlos FLORES, Sr., petitioner,\nv.\nUNITED STATES.\nNo. 16-78.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0198-04",
+  "first_page_order": 198,
+  "last_page_order": 198
+}

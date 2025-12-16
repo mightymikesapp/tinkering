@@ -1,0 +1,64 @@
+{
+  "id": 12607496,
+  "name": "In re Steven WESTE, petitioner.",
+  "name_abbreviation": "In re Weste",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u20136204.",
+  "first_page": "347",
+  "last_page": "347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 347"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 280"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 139,
+    "sha256": "e6cf42875f5444cf42af61ad9f32579e29e273f762902b8b72c023d07ce70718",
+    "simhash": "1:78ced48eded40304",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Steven WESTE, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Steven WESTE, petitioner.\nNo. 16-6204.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "0347-05",
+  "first_page_order": 347,
+  "last_page_order": 347
+}

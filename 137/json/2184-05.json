@@ -1,0 +1,62 @@
+{
+  "id": 12605811,
+  "name": "In the Matter of Rankin JOHNSON, IV.",
+  "name_abbreviation": "In re Johnson",
+  "decision_date": "2017-05-22",
+  "docket_number": "No. D\u20132949.",
+  "first_page": "2184",
+  "last_page": "2184",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2184"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 250"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 391,
+    "sha256": "463932c921765084ebbe83884150793ff2e276df5eaa3aa2387c6ce777b0b0ca",
+    "simhash": "1:190859d62f1bb04b",
+    "word_count": 71
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Rankin JOHNSON, IV."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Rankin JOHNSON, IV.\nNo. D-2949.\nSupreme Court of the United States\nMay 22, 2017.\nRankin Johnson, IV, of Portland, Oregon, having requested to resign as a member of the Bar of this Court, it is ordered that his name be stricken from the roll of attorneys admitted to the practice of law before this Court. The Rule to Show Cause, issued on February 21, 2017, is discharged."
+  },
+  "file_name": "2184-05",
+  "first_page_order": 2184,
+  "last_page_order": 2184
+}

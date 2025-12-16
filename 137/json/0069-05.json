@@ -1,0 +1,64 @@
+{
+  "id": 12609352,
+  "name": "In re Steven Dwayne BROWN, petitioner.",
+  "name_abbreviation": "In re Brown",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139350.",
+  "first_page": "69",
+  "last_page": "69",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 69"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 203"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "348bd2b67436e98bf6a0b6fb4e746c8fd7e2c02897c63ce89b863d9a82b6bdb4",
+    "simhash": "1:e84f4216a6b1a294",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Steven Dwayne BROWN, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Steven Dwayne BROWN, petitioner.\nNo. 15-9350.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0069-05",
+  "first_page_order": 69,
+  "last_page_order": 69
+}

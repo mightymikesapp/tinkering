@@ -1,0 +1,64 @@
+{
+  "id": 12602934,
+  "name": "Charles WHITE, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "White v. United States",
+  "decision_date": "2017-02-21",
+  "docket_number": "No. 16\u20137383.",
+  "first_page": "1109",
+  "last_page": "1109",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1109"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 213"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 211,
+    "sha256": "58d0bcf23ac7efbec9f8cd21da0e4112d24139bb90659a149094b52d955e5af9",
+    "simhash": "1:43ad76648606d230",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles WHITE, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Charles WHITE, petitioner,\nv.\nUNITED STATES.\nNo. 16-7383.\nSupreme Court of the United States\nFeb. 21, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1109-01",
+  "first_page_order": 1109,
+  "last_page_order": 1109
+}

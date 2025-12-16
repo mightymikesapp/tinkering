@@ -1,0 +1,64 @@
+{
+  "id": 12607454,
+  "name": "Thomas TALBERT, petitioner, v. Marvin PLUMLEY, Warden.",
+  "name_abbreviation": "Talbert v. Plumley",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u20135668.",
+  "first_page": "340",
+  "last_page": "340",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 340"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 268"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 220,
+    "sha256": "ab45c96d8b23def4c927c1b19ad30f56086b58f6b907fb26611549a792c8d36e",
+    "simhash": "1:53ffc684bdc4c7a1",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Thomas TALBERT, petitioner,\nv.\nMarvin PLUMLEY, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Thomas TALBERT, petitioner,\nv.\nMarvin PLUMLEY, Warden.\nNo. 16-5668.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0340-05",
+  "first_page_order": 340,
+  "last_page_order": 340
+}

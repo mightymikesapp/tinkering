@@ -1,0 +1,64 @@
+{
+  "id": 12603898,
+  "name": "Larry Craig CASH, petitioner, v. GEORGIA.",
+  "name_abbreviation": "Cash v. Georgia",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139790.",
+  "first_page": "137",
+  "last_page": "137",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 137"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 177,
+    "sha256": "31bc75b2b02080457846e0cdef40f72fec4c384ffd9d848ff1c7e8c83acc2458",
+    "simhash": "1:69ae561418e5a221",
+    "word_count": 29
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Larry Craig CASH, petitioner,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Larry Craig CASH, petitioner,\nv.\nGEORGIA.\nNo. 15-9790.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "0137-04",
+  "first_page_order": 137,
+  "last_page_order": 137
+}

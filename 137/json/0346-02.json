@@ -1,0 +1,64 @@
+{
+  "id": 12607487,
+  "name": "Jason Dean BROWN, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Brown v. United States",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u20135963.",
+  "first_page": "346",
+  "last_page": "346",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 346"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 213,
+    "sha256": "b258c06a4e570e4e2bd0025b9f3fb0c94b523e8a283edb51abab2f178f7840e0",
+    "simhash": "1:51aea6c43e8c4609",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jason Dean BROWN, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Jason Dean BROWN, petitioner,\nv.\nUNITED STATES.\nNo. 16-5963.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit denied."
+  },
+  "file_name": "0346-02",
+  "first_page_order": 346,
+  "last_page_order": 346
+}

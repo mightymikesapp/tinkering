@@ -1,0 +1,64 @@
+{
+  "id": 12606824,
+  "name": "Philip MAIER, petitioner, v. James PALL, et al.",
+  "name_abbreviation": "Maier v. Pall",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135492.",
+  "first_page": "241",
+  "last_page": "241",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 241"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 211,
+    "sha256": "7b7d7b827c08200befefff9fb2051ea293145ffdcfa3fc3623c4d91af029452f",
+    "simhash": "1:77af72c63f5996a9",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Philip MAIER, petitioner,\nv.\nJames PALL, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Philip MAIER, petitioner,\nv.\nJames PALL, et al.\nNo. 16-5492.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Third Circuit denied."
+  },
+  "file_name": "0241-06",
+  "first_page_order": 241,
+  "last_page_order": 241
+}

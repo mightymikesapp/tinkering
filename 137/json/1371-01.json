@@ -1,0 +1,58 @@
+{
+  "id": 12603908,
+  "name": "In the Matter of Harold James PICKERSTEIN.",
+  "name_abbreviation": "In re Pickerstein",
+  "decision_date": "2017-03-20",
+  "docket_number": "No. D\u20132946.",
+  "first_page": "1371",
+  "last_page": "1371",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1371"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 50,
+    "char_count": 410,
+    "sha256": "789c8faad78f99ed177ac35cf312c1a6201cf0852f783b879052b7c7fe413fc8",
+    "simhash": "1:3be85974bf00b54b",
+    "word_count": 71
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Harold James PICKERSTEIN."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Harold James PICKERSTEIN.\nNo. D-2946.\nSupreme Court of the United States\nMarch 20, 2017.\nHarold James Pickerstein, of Fairfield, Connecticut, having requested to resign as a member of the Bar of this Court, it is ordered that his name be stricken from the roll of attorneys admitted to the practice of law before this Court. The Rule to Show Cause, issued on February 21, 2017, is discharge."
+  },
+  "file_name": "1371-01",
+  "first_page_order": 1371,
+  "last_page_order": 1371
+}

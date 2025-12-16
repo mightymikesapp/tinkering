@@ -1,0 +1,64 @@
+{
+  "id": 12607421,
+  "name": "James Michael STEELE, petitioner, v. Ronda PASH, Warden.",
+  "name_abbreviation": "Steele v. Pash",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u20135574.",
+  "first_page": "336",
+  "last_page": "336",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 336"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 265"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 222,
+    "sha256": "33b121660bcc63dfae419eae5bbca7991dfe1dbaedce13f3012a445bc9e1f7a9",
+    "simhash": "1:7aafc444bd2c13a0",
+    "word_count": 36
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Michael STEELE, petitioner,\nv.\nRonda PASH, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Michael STEELE, petitioner,\nv.\nRonda PASH, Warden.\nNo. 16-5574.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit denied."
+  },
+  "file_name": "0336-02",
+  "first_page_order": 336,
+  "last_page_order": 336
+}

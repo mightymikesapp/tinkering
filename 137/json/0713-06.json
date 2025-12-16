@@ -1,0 +1,64 @@
+{
+  "id": 12609510,
+  "name": "In re Kenneth E. ROBINSON, petitioner.",
+  "name_abbreviation": "In re Robinson",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136572.",
+  "first_page": "713",
+  "last_page": "713",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 713"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 583"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 140,
+    "sha256": "f8d236178685eea56036007bf3fb401eb5dcd34248be6cd436d645cf882b82de",
+    "simhash": "1:f8f75204bfa15130",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Kenneth E. ROBINSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Kenneth E. ROBINSON, petitioner.\nNo. 16-6572.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0713-06",
+  "first_page_order": 713,
+  "last_page_order": 713
+}

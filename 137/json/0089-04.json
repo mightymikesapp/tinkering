@@ -1,0 +1,64 @@
+{
+  "id": 12609935,
+  "name": "David CHACON, petitioner, v. Clark E. DUCART, Warden.",
+  "name_abbreviation": "Chacon v. Ducart",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139511.",
+  "first_page": "89",
+  "last_page": "89",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 89"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 76"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 217,
+    "sha256": "1a637fa18f5500314206004897392193be7e3ac2cce95936b7d256bc863e9569",
+    "simhash": "1:73ef76c425e587e9",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "David CHACON, petitioner,\nv.\nClark E. DUCART, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "David CHACON, petitioner,\nv.\nClark E. DUCART, Warden.\nNo. 15-9511.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0089-04",
+  "first_page_order": 89,
+  "last_page_order": 89
+}

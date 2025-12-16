@@ -1,0 +1,64 @@
+{
+  "id": 12606905,
+  "name": "Grant Henry STEWART, petitioner, v. COLORADO, et al.",
+  "name_abbreviation": "Stewart v. Colorado",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135613.",
+  "first_page": "253",
+  "last_page": "253",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 253"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 191"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 28,
+    "char_count": 216,
+    "sha256": "650dfc89cb2f181326367f687aab85ae9d54fe345955a3dc17c5b7c419c76f97",
+    "simhash": "1:33eff244398516a9",
+    "word_count": 36
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Grant Henry STEWART, petitioner,\nv.\nCOLORADO, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Grant Henry STEWART, petitioner,\nv.\nCOLORADO, et al.\nNo. 16-5613.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Tenth Circuit denied."
+  },
+  "file_name": "0253-02",
+  "first_page_order": 253,
+  "last_page_order": 253
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12607594,
+  "name": "John CARTER, petitioner, v. INDEPENDENCE SEAPORT MUSEUM.",
+  "name_abbreviation": "Carter v. Independence Seaport Museum",
+  "decision_date": "2016-10-31",
+  "docket_number": "No. 16\u20135674.",
+  "first_page": "376",
+  "last_page": "376",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 376"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 299"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 221,
+    "sha256": "b5301f81610089ea56a0a955f4c7d0589d7694790335689c8a9f67f1ce0b945a",
+    "simhash": "1:622fc6053b011799",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John CARTER, petitioner,\nv.\nINDEPENDENCE SEAPORT MUSEUM."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "John CARTER, petitioner,\nv.\nINDEPENDENCE SEAPORT MUSEUM.\nNo. 16-5674.\nSupreme Court of the United States\nOct. 31, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0376-06",
+  "first_page_order": 376,
+  "last_page_order": 376
+}

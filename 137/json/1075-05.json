@@ -1,0 +1,64 @@
+{
+  "id": 12602707,
+  "name": "In re Nathaniel JONES, III, petitioner.",
+  "name_abbreviation": "In re Jones",
+  "decision_date": "2017-02-21",
+  "docket_number": "No. 16\u20137014.",
+  "first_page": "1075",
+  "last_page": "1075",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1075"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 236"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 142,
+    "sha256": "78cf7e708c95e67f8dc145225615e11e2ca851695c787bb6e34ffea186edd7bd",
+    "simhash": "1:b1665005a699523b",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Nathaniel JONES, III, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Nathaniel JONES, III, petitioner.\nNo. 16-7014.\nSupreme Court of the United States\nFeb. 21, 2017.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "1075-05",
+  "first_page_order": 1075,
+  "last_page_order": 1075
+}

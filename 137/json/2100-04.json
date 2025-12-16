@@ -1,0 +1,64 @@
+{
+  "id": 12605253,
+  "name": "Randall BELCHER, petitioner, v. Shay HATCHER, Warden.",
+  "name_abbreviation": "Belcher v. Hatcher",
+  "decision_date": "2017-05-01",
+  "docket_number": "No. 16\u20138282.",
+  "first_page": "2100",
+  "last_page": "2100",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2100"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 901"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 188,
+    "sha256": "e97ebaacd32c8b10a01a7eb126ccd7f7d185539513c772d75548c2439b98124f",
+    "simhash": "1:fa7e94547287656f",
+    "word_count": 30
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Randall BELCHER, petitioner,\nv.\nShay HATCHER, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Supreme Court of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Randall BELCHER, petitioner,\nv.\nShay HATCHER, Warden.\nNo. 16-8282.\nSupreme Court of the United States\nMay 1, 2017.\nPetition for writ of certiorari to the Supreme Court of Georgia denied."
+  },
+  "file_name": "2100-04",
+  "first_page_order": 2100,
+  "last_page_order": 2100
+}

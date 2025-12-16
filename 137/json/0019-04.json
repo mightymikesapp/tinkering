@@ -1,0 +1,64 @@
+{
+  "id": 12605035,
+  "name": "John C. KILLINGBECK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Killingbeck v. United States",
+  "decision_date": "2016-08-08",
+  "docket_number": "No. 15\u20139009.",
+  "first_page": "19",
+  "last_page": "19",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 19"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 892"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 20,
+    "char_count": 145,
+    "sha256": "eeb0ab9590c46988675a342464500a4344002a02fd64780a7f5ac04d9257f0dd",
+    "simhash": "1:f8e544c637ac5619",
+    "word_count": 22
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John C. KILLINGBECK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John C. KILLINGBECK, petitioner,\nv.\nUNITED STATES.\nNo. 15-9009.\nSupreme Court of the United States\nAug. 8, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0019-04",
+  "first_page_order": 19,
+  "last_page_order": 19
+}

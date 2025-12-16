@@ -1,0 +1,62 @@
+{
+  "id": 12606373,
+  "name": "Steven AUSTIN, petitioner, v. FLORIDA.",
+  "name_abbreviation": "Austin v. Florida",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u20135369.",
+  "first_page": "227",
+  "last_page": "227",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 227"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 175"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 201,
+    "sha256": "1fb058cd2014d5eb395c271c9592fbbcd2af2890697ecc32a9f8a44f41dbc7bb",
+    "simhash": "1:7b6e6254bccd40ad",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Steven AUSTIN, petitioner,\nv.\nFLORIDA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Steven AUSTIN, petitioner,\nv.\nFLORIDA.\nNo. 16-5369.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the District Court of Appeal of Florida, Third District denied."
+  },
+  "file_name": "0227-01",
+  "first_page_order": 227,
+  "last_page_order": 227
+}

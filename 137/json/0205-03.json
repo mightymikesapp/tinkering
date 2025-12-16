@@ -1,0 +1,64 @@
+{
+  "id": 12605151,
+  "name": "NEW YORK, petitioner, v. Assad CEDENO.",
+  "name_abbreviation": "New York v. Cedeno",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 16\u2013139.",
+  "first_page": "205",
+  "last_page": "205",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 205"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 133"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 177,
+    "sha256": "3ae4ab51d03ee4d58441aa97a059c92f7b986f5c62e432416c86e5d9fd61dfa8",
+    "simhash": "1:602f4243b0c1a079",
+    "word_count": 31
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NEW YORK, petitioner,\nv.\nAssad CEDENO."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of New York denied."
+    ],
+    "corrections": "",
+    "head_matter": "NEW YORK, petitioner,\nv.\nAssad CEDENO.\nNo. 16-139.\nSupreme Court of the United States\nOct. 3, 2016.\nPetition for writ of certiorari to the Court of Appeals of New York denied."
+  },
+  "file_name": "0205-03",
+  "first_page_order": 205,
+  "last_page_order": 205
+}

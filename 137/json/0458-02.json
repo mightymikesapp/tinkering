@@ -1,0 +1,64 @@
+{
+  "id": 12607980,
+  "name": "Helen LE, et al., petitioners, v. Kenneth Edward AZNOE.",
+  "name_abbreviation": "Le v. Aznoe",
+  "decision_date": "2016-11-07",
+  "docket_number": "No. 16M50.",
+  "first_page": "458",
+  "last_page": "458",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 458"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 327"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 33,
+    "char_count": 206,
+    "sha256": "038d5b37f0785d3ced345f361766065f28fe2c04ffd46585e72666f02160b4c1",
+    "simhash": "1:b9c74006c789f7fa",
+    "word_count": 37
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Helen LE, et al., petitioners,\nv.\nKenneth Edward AZNOE."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+    ],
+    "corrections": "",
+    "head_matter": "Helen LE, et al., petitioners,\nv.\nKenneth Edward AZNOE.\nNo. 16M50.\nSupreme Court of the United States\nNov. 7, 2016.\nMotion to direct the Clerk to file a petition for writ of certiorari out of time denied."
+  },
+  "file_name": "0458-02",
+  "first_page_order": 458,
+  "last_page_order": 458
+}

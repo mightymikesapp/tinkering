@@ -1,0 +1,64 @@
+{
+  "id": 12602989,
+  "name": "In re Devon BELL, petitioner.",
+  "name_abbreviation": "In re Bell",
+  "decision_date": "2017-02-21",
+  "docket_number": "No. 16\u20137483.",
+  "first_page": "1117",
+  "last_page": "1117",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1117"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 235"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 22,
+    "char_count": 137,
+    "sha256": "a886e6f1b278a0fe4e5b4cf5827e8a85419f729b19796029fa27a3bfdee81c94",
+    "simhash": "1:63e650855e590710",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Devon BELL, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Devon BELL, petitioner.\nNo. 16-7483.\nSupreme Court of the United States\nFeb. 21, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1117-02",
+  "first_page_order": 1117,
+  "last_page_order": 1117
+}

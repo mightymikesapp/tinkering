@@ -1,0 +1,64 @@
+{
+  "id": 12607156,
+  "name": "Ulysses Charles SNEED, petitioner, v. ALABAMA.",
+  "name_abbreviation": "Sneed v. Alabama",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. 15\u20139823.",
+  "first_page": "295",
+  "last_page": "295",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 295"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 215"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 195,
+    "sha256": "513f27861c02606942ebd3cafd201ba2816f256bca488f4db23ed8dd4d4bc210",
+    "simhash": "1:61a7f6f431c10499",
+    "word_count": 31
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ulysses Charles SNEED, petitioner,\nv.\nALABAMA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ulysses Charles SNEED, petitioner,\nv.\nALABAMA.\nNo. 15-9823.\nSupreme Court of the United States\nOct. 11, 2016.\nPetition for writ of certiorari to the Court of Criminal Appeals of Alabama denied."
+  },
+  "file_name": "0295-01",
+  "first_page_order": 295,
+  "last_page_order": 295
+}

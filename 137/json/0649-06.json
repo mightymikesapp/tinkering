@@ -1,0 +1,64 @@
+{
+  "id": 12609081,
+  "name": "Damien JOHNSON, petitioner, v. Thomas MACKIE, Warden.",
+  "name_abbreviation": "Johnson v. Mackie",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136590.",
+  "first_page": "649",
+  "last_page": "649",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 649"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 544"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 27,
+    "char_count": 217,
+    "sha256": "1b67229a048d2b778e89903ae871b0f0e4076c80605785388797d5aa913eb1a0",
+    "simhash": "1:70ffd64433a453a0",
+    "word_count": 35
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Damien JOHNSON, petitioner,\nv.\nThomas MACKIE, Warden."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Damien JOHNSON, petitioner,\nv.\nThomas MACKIE, Warden.\nNo. 16-6590.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Sixth Circuit denied."
+  },
+  "file_name": "0649-06",
+  "first_page_order": 649,
+  "last_page_order": 649
+}

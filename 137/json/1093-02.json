@@ -1,0 +1,64 @@
+{
+  "id": 12602829,
+  "name": "Leo STOLLER petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Stoller v. United States",
+  "decision_date": "2017-02-21",
+  "docket_number": "No. 16\u20137221.",
+  "first_page": "1093",
+  "last_page": "1093",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1093"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 202"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 208,
+    "sha256": "6968a1397e7d3a763da567e5e4bffef605074e2e7eec5acb1b4b10b3dad1d44e",
+    "simhash": "1:61ad56e403264e35",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Leo STOLLER petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Leo STOLLER petitioner,\nv.\nUNITED STATES.\nNo. 16-7221.\nSupreme Court of the United States\nFeb. 21, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit denied."
+  },
+  "file_name": "1093-02",
+  "first_page_order": 1093,
+  "last_page_order": 1093
+}

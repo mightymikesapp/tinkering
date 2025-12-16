@@ -1,0 +1,64 @@
+{
+  "id": 12605487,
+  "name": "Amy Elizabeth BARNES, et al., petitioners, v. GEORGIA.",
+  "name_abbreviation": "Barnes v. Georgia",
+  "decision_date": "2017-05-15",
+  "docket_number": "No. 16\u20131165.",
+  "first_page": "2136",
+  "last_page": "2136",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 2136"
+    },
+    {
+      "type": "parallel",
+      "cite": "198 L. Ed. 2d 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 26,
+    "char_count": 193,
+    "sha256": "bafee52a8b1e46eb134eba0b3b5b42974893c7555f91e53a849a4cadd1a61991",
+    "simhash": "1:599e7ec592e0a879",
+    "word_count": 32
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Amy Elizabeth BARNES, et al., petitioners,\nv.\nGEORGIA."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the Court of Appeals of Georgia denied."
+    ],
+    "corrections": "",
+    "head_matter": "Amy Elizabeth BARNES, et al., petitioners,\nv.\nGEORGIA.\nNo. 16-1165.\nSupreme Court of the United States\nMay 15, 2017.\nPetition for writ of certiorari to the Court of Appeals of Georgia denied."
+  },
+  "file_name": "2136-02",
+  "first_page_order": 2136,
+  "last_page_order": 2136
+}

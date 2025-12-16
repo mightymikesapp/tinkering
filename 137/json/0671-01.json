@@ -1,0 +1,64 @@
+{
+  "id": 12609227,
+  "name": "Martin NEZ, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Nez v. United States",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. 16\u20136767.",
+  "first_page": "671",
+  "last_page": "671",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 671"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 556"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 24,
+    "char_count": 205,
+    "sha256": "eeeaab272fb51e7de6d73d6738bd3b33422ea65063c6d75bb0bc2c6586208014",
+    "simhash": "1:fbad76443bae5131",
+    "word_count": 34
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Martin NEZ, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "Martin NEZ, petitioner,\nv.\nUNITED STATES.\nNo. 16-6767.\nSupreme Court of the United States\nJan. 9, 2017.\nPetition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit denied."
+  },
+  "file_name": "0671-01",
+  "first_page_order": 671,
+  "last_page_order": 671
+}

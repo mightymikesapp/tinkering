@@ -1,0 +1,64 @@
+{
+  "id": 12607022,
+  "name": "NORTH CAROLINA, et al., applicants, v. NORTH CAROLINA STATE CONFERENCE OF the NAACP, et al.",
+  "name_abbreviation": "North Carolina v. N.C. State Conference of the NAACP",
+  "decision_date": "2016-08-31",
+  "docket_number": "No. 16A168.",
+  "first_page": "27",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 27"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 900"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 51,
+    "char_count": 510,
+    "sha256": "55a968cc5da0d7a3ff2b302a78c74029790120ebb1c01df779cd2c1f7f0e5490",
+    "simhash": "1:21ed8e81898a96af",
+    "word_count": 84
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NORTH CAROLINA, et al., applicants,\nv.\nNORTH CAROLINA STATE CONFERENCE OF the NAACP, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application to recall and stay mandate of the United States Court of Appeals for the Fourth Circuit presented to THE CHIEF JUSTICE and by him referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "NORTH CAROLINA, et al., applicants,\nv.\nNORTH CAROLINA STATE CONFERENCE OF the NAACP, et al.\nNo. 16A168.\nSupreme Court of the United States\nAug. 31, 2016.\nApplication to recall and stay mandate of the United States Court of Appeals for the Fourth Circuit presented to THE CHIEF JUSTICE and by him referred to the Court denied.\nTHE CHIEF JUSTICE, Justice KENNEDY, and Justice ALITO would grant the stay, except with respect to the preregistration provision. Justice THOMAS would grant the stay in its entirety."
+  },
+  "file_name": "0027-06",
+  "first_page_order": 27,
+  "last_page_order": 28
+}

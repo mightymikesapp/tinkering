@@ -1,0 +1,62 @@
+{
+  "id": 12609593,
+  "name": "In the Matter of DISBARMENT OF Bruce A. KENT.",
+  "name_abbreviation": "In re Kent",
+  "decision_date": "2017-01-09",
+  "docket_number": "No. D\u20132910.",
+  "first_page": "724",
+  "last_page": "724",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 724"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 593"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 19,
+    "char_count": 134,
+    "sha256": "74ed4960e106ecb01100191d2271f7609d3afa1f0ddc34067f293d6abf1618fa",
+    "simhash": "1:f0e0d4462a2e05f4",
+    "word_count": 23
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of DISBARMENT OF Bruce A. KENT."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of DISBARMENT OF Bruce A. KENT.\nNo. D-2910.\nSupreme Court of the United States\nJan. 9, 2017.\nDisbarment order entered."
+  },
+  "file_name": "0724-03",
+  "first_page_order": 724,
+  "last_page_order": 724
+}

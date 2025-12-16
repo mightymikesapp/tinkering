@@ -1,0 +1,64 @@
+{
+  "id": 12607635,
+  "name": "In re Christopher DEATON, petitioner.",
+  "name_abbreviation": "In re Deaton",
+  "decision_date": "2016-10-31",
+  "docket_number": "No. 16\u20135767.",
+  "first_page": "382",
+  "last_page": "382",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 382"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 323"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 21,
+    "char_count": 140,
+    "sha256": "4fcabbe1d9a221b6040ecf86ef247185dac9185b9ae7d8655ecffeab42300b56",
+    "simhash": "1:e81f5006fec110f1",
+    "word_count": 22
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re Christopher DEATON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of mandamus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In re Christopher DEATON, petitioner.\nNo. 16-5767.\nSupreme Court of the United States\nOct. 31, 2016.\nPetition for writ of mandamus denied."
+  },
+  "file_name": "0382-04",
+  "first_page_order": 382,
+  "last_page_order": 382
+}

@@ -1,0 +1,64 @@
+{
+  "id": 12608119,
+  "name": "VISA INC., et al., petitioners, v. Sam OSBORN, et al.",
+  "name_abbreviation": "Visa Inc. v. Osborn",
+  "decision_date": "2016-11-14",
+  "docket_number": "No. 15\u2013961.",
+  "first_page": "488",
+  "last_page": "488",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 488"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 37,
+    "char_count": 249,
+    "sha256": "4313481f2ed3e001548eaa60100bd553ad9b0c71100ab1e112d41662b54a85fd",
+    "simhash": "1:f0e12182a285ce5d",
+    "word_count": 42
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "VISA INC., et al., petitioners,\nv.\nSam OSBORN, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of the Acting Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument granted."
+    ],
+    "corrections": "",
+    "head_matter": "VISA INC., et al., petitioners,\nv.\nSam OSBORN, et al.\nNo. 15-961.\nSupreme Court of the United States\nNov. 14, 2016.\nMotion of the Acting Solicitor General for leave to participate in oral argument as amicus curiae and for divided argument granted."
+  },
+  "file_name": "0488-05",
+  "first_page_order": 488,
+  "last_page_order": 488
+}

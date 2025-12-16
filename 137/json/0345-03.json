@@ -1,0 +1,64 @@
+{
+  "id": 12607482,
+  "name": "James Anthony STREADWICK, petitioner, v. UNITED STATES.",
+  "name_abbreviation": "Streadwick v. United States",
+  "decision_date": "2016-10-17",
+  "docket_number": "No. 16\u20135935.",
+  "first_page": "345",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 345"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 270"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 220,
+    "sha256": "50f30799ab32ff37fa4f8db9af436e176c381ac9596624f4d743a0f0824f20dd",
+    "simhash": "1:738e76ec2ead071d",
+    "word_count": 35
+  },
+  "last_updated": "2021-09-08T21:16:17.237805+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "James Anthony STREADWICK, petitioner,\nv.\nUNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "James Anthony STREADWICK, petitioner,\nv.\nUNITED STATES.\nNo. 16-5935.\nSupreme Court of the United States\nOct. 17, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit denied."
+  },
+  "file_name": "0345-03",
+  "first_page_order": 345,
+  "last_page_order": 345
+}

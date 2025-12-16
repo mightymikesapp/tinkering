@@ -1,0 +1,64 @@
+{
+  "id": 12604665,
+  "name": "Ledell LEE, applicant, v. Larry JEGLEY, et al.",
+  "name_abbreviation": "Lee v. Jegley",
+  "decision_date": "2017-04-20",
+  "docket_number": "No. 16A1017.",
+  "first_page": "1623",
+  "last_page": "1623",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1623"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 748"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 34,
+    "char_count": 235,
+    "sha256": "59aeea209b736314e0b4abcc437e5729e7147122dc067a9cf93e7f4d996f6a5a",
+    "simhash": "1:f04d505006a51b43",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ledell LEE, applicant,\nv.\nLarry JEGLEY, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Application for stay of execution of sentence of death presented to Justice ALITO and by him referred to the Court denied."
+    ],
+    "corrections": "",
+    "head_matter": "Ledell LEE, applicant,\nv.\nLarry JEGLEY, et al.\nNo. 16A1017.\nSupreme Court of the United States\nApril 20, 2017.\nApplication for stay of execution of sentence of death presented to Justice ALITO and by him referred to the Court denied."
+  },
+  "file_name": "1623-02",
+  "first_page_order": 1623,
+  "last_page_order": 1623
+}

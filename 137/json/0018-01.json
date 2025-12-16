@@ -1,0 +1,64 @@
+{
+  "id": 12604797,
+  "name": "John Henry JONES, petitioner, v. FLORIDA PAROLE BOARD, et al.",
+  "name_abbreviation": "Jones v. Fla. Parole Bd.",
+  "decision_date": "2016-08-08",
+  "docket_number": "No. 15\u20138631.",
+  "first_page": "18",
+  "last_page": "18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 18"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 890"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 25,
+    "char_count": 156,
+    "sha256": "353e1d1369869dab0cd995152d1aea49632f7f193a10dfd11553861ea6baf9d1",
+    "simhash": "1:a82396583bec6298",
+    "word_count": 25
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Henry JONES, petitioner,\nv.\nFLORIDA PAROLE BOARD, et al."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for rehearing denied."
+    ],
+    "corrections": "",
+    "head_matter": "John Henry JONES, petitioner,\nv.\nFLORIDA PAROLE BOARD, et al.\nNo. 15-8631.\nSupreme Court of the United States\nAug. 8, 2016.\nPetition for rehearing denied."
+  },
+  "file_name": "0018-01",
+  "first_page_order": 18,
+  "last_page_order": 18
+}

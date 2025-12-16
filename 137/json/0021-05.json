@@ -1,0 +1,62 @@
+{
+  "id": 12605240,
+  "name": "In the Matter of Janet Anthony MASTRONARDI.",
+  "name_abbreviation": "In re Mastronardi",
+  "decision_date": "2016-08-08",
+  "docket_number": "No. D\u20132892.",
+  "first_page": "21",
+  "last_page": "22",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 21"
+    },
+    {
+      "type": "parallel",
+      "cite": "195 L. Ed. 2d 894"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 52,
+    "char_count": 412,
+    "sha256": "3f81f4ee6dc88d404659d1b6c264586248a263047c5ddd6be7f0c7d2548d79c3",
+    "simhash": "1:39f371da078ab5e8",
+    "word_count": 73
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In the Matter of Janet Anthony MASTRONARDI."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In the Matter of Janet Anthony MASTRONARDI.\nNo. D-2892.\nSupreme Court of the United States\nAug. 8, 2016.\nJanet Anthony Mastronardi, of East Greenwich, Rhode Island, having requested to resign as a member of the Bar of this Court, it is ordered that her name be stricken from the roll of attorneys admitted to the practice of law before this Court. The Rule to Show Cause, issued on May 16, 2016, is discharged."
+  },
+  "file_name": "0021-05",
+  "first_page_order": 21,
+  "last_page_order": 22
+}

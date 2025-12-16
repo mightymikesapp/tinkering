@@ -1,0 +1,64 @@
+{
+  "id": 12604050,
+  "name": "In Re Antonio D. WOODSON, petitioner.",
+  "name_abbreviation": "In re Woodson",
+  "decision_date": "2017-03-27",
+  "docket_number": "No. 16\u20138178.",
+  "first_page": "1393",
+  "last_page": "1393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 1393"
+    },
+    {
+      "type": "parallel",
+      "cite": "197 L. Ed. 2d 569"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 23,
+    "char_count": 146,
+    "sha256": "2d2b188cd79d6b084f5f6ec0215e6321a81a1d5aca93494d6898247173b9821c",
+    "simhash": "1:23ee514fbafd4399",
+    "word_count": 24
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In Re Antonio D. WOODSON, petitioner."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of habeas corpus denied."
+    ],
+    "corrections": "",
+    "head_matter": "In Re Antonio D. WOODSON, petitioner.\nNo. 16-8178.\nSupreme Court of the United States\nMarch 27, 2017.\nPetition for writ of habeas corpus denied."
+  },
+  "file_name": "1393-03",
+  "first_page_order": 1393,
+  "last_page_order": 1393
+}

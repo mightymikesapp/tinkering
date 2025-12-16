@@ -1,0 +1,64 @@
+{
+  "id": 12607216,
+  "name": "MOODY'S CORPORATION, et al., petitioners, v. FEDERAL HOME LOAN BANK OF BOSTON.",
+  "name_abbreviation": "Moody's Corp. v. Fed. Home Loan Bank of Bos.",
+  "decision_date": "2016-10-11",
+  "docket_number": "No. 16\u2013180.",
+  "first_page": "304",
+  "last_page": "304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 304"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 218"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 31,
+    "char_count": 242,
+    "sha256": "7256b4f16d08e2bd1752df0fb5d0625436097fa252cb16058e460394a0a377f2",
+    "simhash": "1:d3ae4480bd85d209",
+    "word_count": 40
+  },
+  "last_updated": "2021-08-27T21:04:35.134644+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MOODY'S CORPORATION, et al., petitioners,\nv.\nFEDERAL HOME LOAN BANK OF BOSTON."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Petition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+    ],
+    "corrections": "",
+    "head_matter": "MOODY'S CORPORATION, et al., petitioners,\nv.\nFEDERAL HOME LOAN BANK OF BOSTON.\nNo. 16-180.\nSupreme Court of the United States\nOct. 11, 2016.\nPetition for writ of certiorari to the United States Court of Appeals for the First Circuit denied."
+  },
+  "file_name": "0304-01",
+  "first_page_order": 304,
+  "last_page_order": 304
+}

@@ -1,0 +1,94 @@
+{
+  "id": 12604284,
+  "name": "Shawn GREEN, petitioner, v. NEW YORK.",
+  "name_abbreviation": "Green v. New York",
+  "decision_date": "2016-10-03",
+  "docket_number": "No. 15\u20139848.",
+  "first_page": "148",
+  "last_page": "148",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "137 S. Ct. 148"
+    },
+    {
+      "type": "parallel",
+      "cite": "196 L. Ed. 2d 9"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "506 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11924825
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        },
+        {
+          "parenthetical": "per curiam "
+        }
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/506/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 85,
+    "char_count": 694,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.26357637066871464
+    },
+    "sha256": "549fd2960d13d77dc53548d755b3d27d0be0376d43f16fb62da3c6f976c67f7c",
+    "simhash": "1:69ee255425bdc689",
+    "word_count": 113
+  },
+  "last_updated": "2024-02-27T18:39:19.105441+00:00",
+  "provenance": {
+    "date_added": "2021-08-27",
+    "source": "Fastcase",
+    "batch": "2021"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Shawn GREEN, petitioner,\nv.\nNEW YORK."
+    ],
+    "opinions": [
+      {
+        "text": "",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Motion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+    ],
+    "corrections": "",
+    "head_matter": "Shawn GREEN, petitioner,\nv.\nNEW YORK.\nNo. 15-9848.\nSupreme Court of the United States\nOct. 3, 2016.\nMotion of petitioner for leave to proceed in forma pauperis denied, and petition for writ of certiorari to the Appellate Division, Supreme Court of New York, Second Judicial Department dismissed. See Rule 39.8. As petitioner has repeatedly abused this Court's process, the Clerk is directed not to accept any further petitions in noncriminal matters from petitioner unless the docketing fee required by Rule 38(a) is paid and petition submitted in compliance with Rule 33.1. See Martin v. District of Columbia Court of Appeals, 506 U.S. 1, 113 S.Ct. 397, 121 L.Ed.2d 305 (1992) (per curiam )."
+  },
+  "file_name": "0148-03",
+  "first_page_order": 148,
+  "last_page_order": 148
+}
